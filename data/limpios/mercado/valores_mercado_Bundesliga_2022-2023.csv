@@ -1,646 +1,530 @@
 nombre,club_actual,altura,valor,temporada,liga
-manuel neuer,Bayern Munich,1.93,7000000.0,2022-2023,Bundesliga
-yann sommer,Inter Milan,1.83,5000000.0,2022-2023,Bundesliga
-sven ulreich,Without Club,1.92,700000.0,2022-2023,Bundesliga
-johannes schenk,Preußen Münster,1.91,300000.0,2022-2023,Bundesliga
-matthijs de ligt,Manchester United,1.89,75000000.0,2022-2023,Bundesliga
-dayot upamecano,Bayern Munich,1.86,60000000.0,2022-2023,Bundesliga
-benjamin pavard,Inter Milan,1.86,40000000.0,2022-2023,Bundesliga
-tanguy nianzou,Sevilla FC,1.91,7500000.0,2022-2023,Bundesliga
-daley blind,Girona FC,1.8,3000000.0,2022-2023,Bundesliga
-justin janitzek,SV Wehen Wiesbaden,1.92,500000.0,2022-2023,Bundesliga
-liam morrison,Queens Park Rangers,1.83,300000.0,2022-2023,Bundesliga
-gabriel marusic,FC Bayern Munich II,1.86,150000.0,2022-2023,Bundesliga
-alphonso davies,Bayern Munich,1.83,70000000.0,2022-2023,Bundesliga
-lucas hernández,Paris Saint-Germain,1.84,45000000.0,2022-2023,Bundesliga
-joão cancelo,Al-Hilal SFC,1.82,50000000.0,2022-2023,Bundesliga
-noussair mazraoui,Manchester United,1.83,28000000.0,2022-2023,Bundesliga
-josip stanisic,Bayern Munich,1.87,12000000.0,2022-2023,Bundesliga
-bouna sarr,Without Club,1.78,2000000.0,2022-2023,Bundesliga
-joshua kimmich,Bayern Munich,1.77,75000000.0,2022-2023,Bundesliga
-ryan gravenberch,Liverpool FC,1.9,30000000.0,2022-2023,Bundesliga
-aleksandar pavlovic,Bayern Munich,1.88,,2022-2023,Bundesliga
-leon goretzka,Bayern Munich,1.89,45000000.0,2022-2023,Bundesliga
-marcel sabitzer,Borussia Dortmund,1.78,20000000.0,2022-2023,Bundesliga
-jamal musiala,Bayern Munich,1.84,110000000.0,2022-2023,Bundesliga
-paul wanner,Bayern Munich,1.85,3000000.0,2022-2023,Bundesliga
-arijon ibrahimovic,1.FC Heidenheim 1846,1.78,1000000.0,2022-2023,Bundesliga
-kingsley coman,Bayern Munich,1.81,65000000.0,2022-2023,Bundesliga
-serge gnabry,Bayern Munich,1.76,55000000.0,2022-2023,Bundesliga
-sadio mané,Al-Nassr FC,1.74,25000000.0,2022-2023,Bundesliga
-leroy sané,Galatasaray,1.83,65000000.0,2022-2023,Bundesliga
-thomas müller,Bayern Munich,1.85,12000000.0,2022-2023,Bundesliga
-gabriel vidovic,GNK Dinamo Zagreb,1.8,2500000.0,2022-2023,Bundesliga
-mathys tel,Tottenham Hotspur,1.83,20000000.0,2022-2023,Bundesliga
-joshua zirkzee,Manchester United,1.93,9000000.0,2022-2023,Bundesliga
-eric-maxim choupo-moting,New York Red Bulls,1.91,5000000.0,2022-2023,Bundesliga
-gregor kobel,Borussia Dortmund,1.96,35000000.0,2022-2023,Bundesliga
-marcel lotka,Fortuna Düsseldorf,1.9,1500000.0,2022-2023,Bundesliga
-alexander meyer,Borussia Dortmund,1.95,1000000.0,2022-2023,Bundesliga
-luca unbehaun,FC Emmen,1.87,650000.0,2022-2023,Bundesliga
-silas ostrzinski,Borussia Dortmund,1.98,150000.0,2022-2023,Bundesliga
-nico schlotterbeck,Borussia Dortmund,1.91,40000000.0,2022-2023,Bundesliga
-niklas süle,Borussia Dortmund,1.95,35000000.0,2022-2023,Bundesliga
-mats hummels,nan,1.91,6000000.0,2022-2023,Bundesliga
-soumaïla coulibaly,RC Strasbourg Alsace,1.91,1000000.0,2022-2023,Bundesliga
-antonios papadopoulos,FC Lugano,1.86,600000.0,2022-2023,Bundesliga
-raphaël guerreiro,Bayern Munich,1.7,20000000.0,2022-2023,Bundesliga
-tom rothe,1.FC Union Berlin,1.93,3500000.0,2022-2023,Bundesliga
-nico schulz,Without Club,1.8,1000000.0,2022-2023,Bundesliga
-julian ryerson,Borussia Dortmund,1.83,13000000.0,2022-2023,Bundesliga
-marius wolf,FC Augsburg,1.88,10000000.0,2022-2023,Bundesliga
-thomas meunier,LOSC Lille,1.91,5000000.0,2022-2023,Bundesliga
-felix passlack,VfL Bochum,1.7,1500000.0,2022-2023,Bundesliga
-mateu morey,RCD Mallorca,1.73,1000000.0,2022-2023,Bundesliga
-emre can,Borussia Dortmund,1.86,14000000.0,2022-2023,Bundesliga
-salih özcan,Borussia Dortmund,1.83,13000000.0,2022-2023,Bundesliga
-abdoulaye kamara,Portsmouth FC,1.85,1000000.0,2022-2023,Bundesliga
-mahmoud dahoud,Eintracht Frankfurt,1.78,12000000.0,2022-2023,Bundesliga
-jude bellingham,Real Madrid,1.86,120000000.0,2022-2023,Bundesliga
-julian brandt,Borussia Dortmund,1.85,40000000.0,2022-2023,Bundesliga
-giovanni reyna,Borussia Dortmund,1.85,25000000.0,2022-2023,Bundesliga
-marco reus,Los Angeles Galaxy,1.8,7000000.0,2022-2023,Bundesliga
-göktan gürpüz,Trabzonspor,1.78,300000.0,2022-2023,Bundesliga
-jamie gittens,Chelsea FC,1.78,14000000.0,2022-2023,Bundesliga
-julien duranville,Borussia Dortmund,1.73,8500000.0,2022-2023,Bundesliga
-thorgan hazard,RSC Anderlecht,1.75,7000000.0,2022-2023,Bundesliga
-karim adeyemi,Borussia Dortmund,1.8,40000000.0,2022-2023,Bundesliga
-donyell malen,Aston Villa,1.76,28000000.0,2022-2023,Bundesliga
-justin njinmah,SV Werder Bremen,1.85,800000.0,2022-2023,Bundesliga
-marco pašalić,Orlando City SC,1.77,350000.0,2022-2023,Bundesliga
-sébastien haller,Borussia Dortmund,1.9,30000000.0,2022-2023,Bundesliga
-youssoufa moukoko,FC Copenhagen,1.79,30000000.0,2022-2023,Bundesliga
-anthony modeste,Without Club,1.88,700000.0,2022-2023,Bundesliga
-péter gulácsi,RB Leipzig,1.93,5000000.0,2022-2023,Bundesliga
-janis blaswich,RB Leipzig,1.93,2500000.0,2022-2023,Bundesliga
-ørjan nyland,Sevilla FC,1.92,600000.0,2022-2023,Bundesliga
-jonas nickisch,1.FC Saarbrücken,1.91,200000.0,2022-2023,Bundesliga
-timo schlieck,SpVgg Greuther Fürth,1.93,200000.0,2022-2023,Bundesliga
-oskar preil,FC Grimma,1.89,100000.0,2022-2023,Bundesliga
-mohamed simakan,Al-Nassr FC,1.87,25000000.0,2022-2023,Bundesliga
-lukas klostermann,RB Leipzig,1.89,12000000.0,2022-2023,Bundesliga
-willi orbán,RB Leipzig,1.86,10000000.0,2022-2023,Bundesliga
-abdou diallo,Al-Arabi SC,1.86,10000000.0,2022-2023,Bundesliga
-marcel halstenberg,SV Germania Grasdorf,1.88,3500000.0,2022-2023,Bundesliga
-josko gvardiol,Manchester City,1.85,75000000.0,2022-2023,Bundesliga
-david raum,RB Leipzig,1.81,14000000.0,2022-2023,Bundesliga
-konrad laimer,Bayern Munich,1.8,28000000.0,2022-2023,Bundesliga
-benjamin henrichs,RB Leipzig,1.85,15000000.0,2022-2023,Bundesliga
-hugo novoa,Deportivo Alavés,1.82,4300000.0,2022-2023,Bundesliga
-sanoussy ba,Eintracht Braunschweig,1.84,500000.0,2022-2023,Bundesliga
-xaver schlager,RB Leipzig,1.74,22000000.0,2022-2023,Bundesliga
-amadou haidara,RB Leipzig,1.78,17000000.0,2022-2023,Bundesliga
-kevin kampl,RB Leipzig,1.78,3500000.0,2022-2023,Bundesliga
-dominik szoboszlai,Liverpool FC,1.87,50000000.0,2022-2023,Bundesliga
-dani olmo,FC Barcelona,1.79,40000000.0,2022-2023,Bundesliga
-caden clark,CF Montréal,1.8,2000000.0,2022-2023,Bundesliga
-timo werner,RB Leipzig,1.8,25000000.0,2022-2023,Bundesliga
-emil forsberg,New York Red Bulls,1.77,7000000.0,2022-2023,Bundesliga
-christopher nkunku,Chelsea FC,1.77,80000000.0,2022-2023,Bundesliga
-andré silva,RB Leipzig,1.86,15000000.0,2022-2023,Bundesliga
-alexander sørloth,Atlético de Madrid,1.95,12000000.0,2022-2023,Bundesliga
-yussuf poulsen,Hamburger SV,1.92,7000000.0,2022-2023,Bundesliga
-lukas hradecky,Bayer 04 Leverkusen,1.92,2500000.0,2022-2023,Bundesliga
-patrick pentz,Bröndby IF,1.83,1500000.0,2022-2023,Bundesliga
-andrey lunev,Dynamo Moscow,1.9,1200000.0,2022-2023,Bundesliga
-niklas lomb,Bayer 04 Leverkusen,1.86,250000.0,2022-2023,Bundesliga
-maximilian neutgens,Borussia Mönchengladbach II,1.88,,2022-2023,Bundesliga
-piero hincapié,Bayer 04 Leverkusen,1.84,35000000.0,2022-2023,Bundesliga
-edmond tapsoba,Bayer 04 Leverkusen,1.94,30000000.0,2022-2023,Bundesliga
-jonathan tah,Bayern Munich,1.95,20000000.0,2022-2023,Bundesliga
-odilon kossounou,Atalanta BC,1.91,18000000.0,2022-2023,Bundesliga
-madi monamay,PSV Eindhoven U21,1.85,,2022-2023,Bundesliga
-mitchel bakker,Atalanta BC,1.89,9000000.0,2022-2023,Bundesliga
-daley sinkgraven,Fortuna Sittard,1.79,2500000.0,2022-2023,Bundesliga
-jeremie frimpong,Liverpool FC,1.72,40000000.0,2022-2023,Bundesliga
-timothy fosu-mensah,Without Club,1.88,2000000.0,2022-2023,Bundesliga
-robert andrich,Bayer 04 Leverkusen,1.87,11000000.0,2022-2023,Bundesliga
-ayman azhil,Borussia Dortmund II,1.75,400000.0,2022-2023,Bundesliga
-joshua eze,SC Verl,1.83,150000.0,2022-2023,Bundesliga
-leon köhl,Maryland Terrapins (University of Maryland),1.88,,2022-2023,Bundesliga
-exequiel palacios,Bayer 04 Leverkusen,1.78,22000000.0,2022-2023,Bundesliga
-kerem demirbay,Eyüpspor,1.83,6000000.0,2022-2023,Bundesliga
-nadiem amiri,1.FSV Mainz 05,1.8,6000000.0,2022-2023,Bundesliga
-charles aránguiz,Club Universidad de Chile,1.72,3500000.0,2022-2023,Bundesliga
-noah mbamba,FCV Dender EH,1.96,3000000.0,2022-2023,Bundesliga
-zidan sertdemir,FC Nordsjaelland,1.86,1000000.0,2022-2023,Bundesliga
-florian wirtz,Liverpool FC,1.77,85000000.0,2022-2023,Bundesliga
-ayman aourir,Rot-Weiß Oberhausen,1.72,,2022-2023,Bundesliga
-amine adli,Bayer 04 Leverkusen,1.8,20000000.0,2022-2023,Bundesliga
-callum hudson-odoi,Nottingham Forest,1.78,15000000.0,2022-2023,Bundesliga
-paulinho,Sociedade Esportiva Palmeiras,1.77,7500000.0,2022-2023,Bundesliga
-moussa diaby,Al-Ittihad Club,1.7,50000000.0,2022-2023,Bundesliga
-karim bellarabi,nan,1.84,1500000.0,2022-2023,Bundesliga
-adam hlozek,TSG 1899 Hoffenheim,1.88,18000000.0,2022-2023,Bundesliga
-patrik schick,Bayer 04 Leverkusen,1.91,25000000.0,2022-2023,Bundesliga
-sardar azmoun,Shabab Al-Ahli Club,1.86,12000000.0,2022-2023,Bundesliga
-joel pohjanpalo,Palermo FC,1.86,3500000.0,2022-2023,Bundesliga
-kevin trapp,Eintracht Frankfurt,1.89,8500000.0,2022-2023,Bundesliga
-diant ramaj,Borussia Dortmund,1.89,750000.0,2022-2023,Bundesliga
-jannik horz,Kickers Offenbach,1.93,200000.0,2022-2023,Bundesliga
-jens grahl,Eintracht Frankfurt,1.92,200000.0,2022-2023,Bundesliga
-simon simoni,1.FC Kaiserslautern,1.95,200000.0,2022-2023,Bundesliga
-evan ndicka,AS Roma,1.92,28000000.0,2022-2023,Bundesliga
-tuta,Eintracht Frankfurt,1.85,15000000.0,2022-2023,Bundesliga
-hrvoje smolcic,Eintracht Frankfurt,1.85,4000000.0,2022-2023,Bundesliga
-almamy touré,Without Club,1.81,2500000.0,2022-2023,Bundesliga
-jérôme onguéné,Without Club,1.86,2000000.0,2022-2023,Bundesliga
-dario gebuhr,FC Hansa Rostock,1.88,400000.0,2022-2023,Bundesliga
-luca pellegrini,SS Lazio,1.78,7000000.0,2022-2023,Bundesliga
-philipp max,Panathinaikos FC,1.77,3000000.0,2022-2023,Bundesliga
-christopher lenz,Fortuna Düsseldorf,1.8,2500000.0,2022-2023,Bundesliga
-jan schröder,Delaware Fightin' Blue Hens (Univ. of Delaware),1.82,200000.0,2022-2023,Bundesliga
-aurélio buta,Eintracht Frankfurt,1.72,8000000.0,2022-2023,Bundesliga
-timothy chandler,Eintracht Frankfurt,1.87,700000.0,2022-2023,Bundesliga
-kristijan jakic,FC Augsburg,1.84,7000000.0,2022-2023,Bundesliga
-makoto hasebe,nan,1.8,800000.0,2022-2023,Bundesliga
-djibril sow,Sevilla FC,1.84,22000000.0,2022-2023,Bundesliga
-paxten aaronson,Eintracht Frankfurt,1.75,4500000.0,2022-2023,Bundesliga
-sebastian rode,nan,1.79,2000000.0,2022-2023,Bundesliga
-mehdi loune,Without Club,1.72,300000.0,2022-2023,Bundesliga
-junior dina ebimbe,Eintracht Frankfurt,1.84,10000000.0,2022-2023,Bundesliga
-filip kostić,Juventus FC,1.84,22000000.0,2022-2023,Bundesliga
-daichi kamada,Crystal Palace,1.8,27000000.0,2022-2023,Bundesliga
-mario götze,Eintracht Frankfurt,1.76,12000000.0,2022-2023,Bundesliga
-marcel wenig,SSV Ulm 1846,1.88,800000.0,2022-2023,Bundesliga
-jens petter hauge,FK Bodø/Glimt,1.84,2500000.0,2022-2023,Bundesliga
-faride alidou,1.FC Kaiserslautern,1.86,2500000.0,2022-2023,Bundesliga
-jesper lindstrøm,SSC Napoli,1.82,28000000.0,2022-2023,Bundesliga
-ansgar knauff,Eintracht Frankfurt,1.8,8000000.0,2022-2023,Bundesliga
-randal kolo muani,Paris Saint-Germain,1.87,80000000.0,2022-2023,Bundesliga
-rafael borré,Sport Club Internacional,1.74,9000000.0,2022-2023,Bundesliga
-lucas alario,Club Estudiantes de La Plata,1.85,2500000.0,2022-2023,Bundesliga
-nacho ferri,KVC Westerlo,1.92,500000.0,2022-2023,Bundesliga
-jonas omlin,Borussia Mönchengladbach,1.9,9000000.0,2022-2023,Bundesliga
-yann sommer,Inter Milan,1.83,5000000.0,2022-2023,Bundesliga
-jan olschowsky,Alemannia Aachen,1.84,800000.0,2022-2023,Bundesliga
-tobias sippel,Borussia Mönchengladbach,1.83,400000.0,2022-2023,Bundesliga
-moritz nicolas,Borussia Mönchengladbach,1.93,350000.0,2022-2023,Bundesliga
-florian dimmer,Borussia Mönchengladbach II,1.9,100000.0,2022-2023,Bundesliga
-maximilian brüll,Borussia Mönchengladbach II,1.87,75000.0,2022-2023,Bundesliga
-nico elvedi,Borussia Mönchengladbach,1.89,18000000.0,2022-2023,Bundesliga
-jordan beyer,Burnley FC,1.87,16000000.0,2022-2023,Bundesliga
-ko itakura,Borussia Mönchengladbach,1.88,12000000.0,2022-2023,Bundesliga
-marvin friedrich,Borussia Mönchengladbach,1.93,4000000.0,2022-2023,Bundesliga
-mamadou doucouré,Without Club,1.83,100000.0,2022-2023,Bundesliga
-ramy bensebaini,Borussia Dortmund,1.87,20000000.0,2022-2023,Bundesliga
-luca netz,Borussia Mönchengladbach,1.84,6500000.0,2022-2023,Bundesliga
-joe scally,Borussia Mönchengladbach,1.84,12000000.0,2022-2023,Bundesliga
-stefan lainer,Red Bull Salzburg,1.75,3000000.0,2022-2023,Bundesliga
-tony jantschke,nan,1.77,600000.0,2022-2023,Bundesliga
-simon walde,Borussia Mönchengladbach II,1.85,500000.0,2022-2023,Bundesliga
-julian weigl,Borussia Mönchengladbach,1.86,10000000.0,2022-2023,Bundesliga
-christoph kramer,nan,1.91,2500000.0,2022-2023,Bundesliga
-manu koné,AS Roma,1.85,40000000.0,2022-2023,Bundesliga
-florian neuhaus,Borussia Mönchengladbach,1.85,12000000.0,2022-2023,Bundesliga
-oscar fraulo,Borussia Mönchengladbach,1.8,2000000.0,2022-2023,Bundesliga
-rocco reitz,Borussia Mönchengladbach,1.76,800000.0,2022-2023,Bundesliga
-torben müsel,Rot-Weiss Essen,1.85,200000.0,2022-2023,Bundesliga
-jonas hofmann,Bayer 04 Leverkusen,1.76,13000000.0,2022-2023,Bundesliga
-lars stindl,nan,1.81,1000000.0,2022-2023,Bundesliga
-conor noß,MSV Duisburg,1.82,400000.0,2022-2023,Bundesliga
-yvandro borges sanches,Borussia Mönchengladbach,1.8,1500000.0,2022-2023,Bundesliga
-nathan ngoumou,Borussia Mönchengladbach,1.85,5000000.0,2022-2023,Bundesliga
-hannes wolf,New York City FC,1.79,3000000.0,2022-2023,Bundesliga
-patrick herrmann,nan,1.79,1500000.0,2022-2023,Bundesliga
-marcus thuram,Inter Milan,1.92,32000000.0,2022-2023,Bundesliga
-alassane pléa,PSV Eindhoven,1.81,8000000.0,2022-2023,Bundesliga
-semir telalovic,1.FC Nuremberg,1.87,350000.0,2022-2023,Bundesliga
-koen casteels,Al-Qadsiah FC,1.97,8000000.0,2022-2023,Bundesliga
-pavao pervan,VfL Wolfsburg,1.94,400000.0,2022-2023,Bundesliga
-philipp schulze,SC Verl,1.9,200000.0,2022-2023,Bundesliga
-niklas klinger,Without Club,1.87,100000.0,2022-2023,Bundesliga
-micky van de ven,Tottenham Hotspur,1.93,30000000.0,2022-2023,Bundesliga
-maxence lacroix,Crystal Palace,1.9,17000000.0,2022-2023,Bundesliga
-sebastiaan bornauw,Leeds United,1.91,8500000.0,2022-2023,Bundesliga
-david odogu,VfL Wolfsburg,1.91,,2022-2023,Bundesliga
-paulo otávio,Al-Sadd SC,1.73,4000000.0,2022-2023,Bundesliga
-nicolas cozza,FC Nantes,1.78,3500000.0,2022-2023,Bundesliga
-jérôme roussillon,Without Club,1.75,3000000.0,2022-2023,Bundesliga
-bartol franjic,Venezia FC,1.88,3000000.0,2022-2023,Bundesliga
-ridle baku,RB Leipzig,1.76,13000000.0,2022-2023,Bundesliga
-kilian fischer,VfL Wolfsburg,1.82,2000000.0,2022-2023,Bundesliga
-josuha guilavogui,Without Club,1.88,2000000.0,2022-2023,Bundesliga
-mattias svanberg,VfL Wolfsburg,1.85,18000000.0,2022-2023,Bundesliga
-felix nmecha,Borussia Dortmund,1.9,15000000.0,2022-2023,Bundesliga
-maximilian arnold,VfL Wolfsburg,1.84,14000000.0,2022-2023,Bundesliga
-aster vranckx,VfL Wolfsburg,1.83,8500000.0,2022-2023,Bundesliga
-yannick gerhardt,VfL Wolfsburg,1.84,6000000.0,2022-2023,Bundesliga
-kevin paredes,VfL Wolfsburg,1.75,5000000.0,2022-2023,Bundesliga
-lukas ambros,Górnik Zabrze,1.82,200000.0,2022-2023,Bundesliga
-jakub kaminski,1.FC Köln,1.79,12000000.0,2022-2023,Bundesliga
-josip brekalo,ACF Fiorentina,1.75,5000000.0,2022-2023,Bundesliga
-patrick wimmer,VfL Wolfsburg,1.82,18000000.0,2022-2023,Bundesliga
-maximilian philipp,SC Freiburg,1.83,2000000.0,2022-2023,Bundesliga
-max kruse,BSV Dersim 1993  II,1.8,900000.0,2022-2023,Bundesliga
-jonas wind,VfL Wolfsburg,1.9,14000000.0,2022-2023,Bundesliga
-lukas nmecha,Leeds United,1.85,12000000.0,2022-2023,Bundesliga
-omar marmoush,Manchester City,1.83,6000000.0,2022-2023,Bundesliga
-bartosz bialek,SV Darmstadt 98,1.91,3000000.0,2022-2023,Bundesliga
-luca waldschmidt,1.FC Köln,1.81,3000000.0,2022-2023,Bundesliga
-dzenan pejcinovic,VfL Wolfsburg,1.9,1000000.0,2022-2023,Bundesliga
-mark flekken,Bayer 04 Leverkusen,1.95,10000000.0,2022-2023,Bundesliga
-noah atubolu,SC Freiburg,1.9,3500000.0,2022-2023,Bundesliga
-benjamin uphoff,FC Hansa Rostock,1.92,500000.0,2022-2023,Bundesliga
-philipp lienhart,SC Freiburg,1.89,20000000.0,2022-2023,Bundesliga
-matthias ginter,SC Freiburg,1.89,18000000.0,2022-2023,Bundesliga
-keven schlotterbeck,FC Augsburg,1.88,3000000.0,2022-2023,Bundesliga
-kenneth schmidt,Fortuna Düsseldorf,1.89,3000000.0,2022-2023,Bundesliga
-manuel gulde,nan,1.84,1500000.0,2022-2023,Bundesliga
-christian günter,SC Freiburg,1.84,7500000.0,2022-2023,Bundesliga
-kimberly ezekwem,Without Club,1.87,350000.0,2022-2023,Bundesliga
-kiliann sildillia,PSV Eindhoven,1.86,12000000.0,2022-2023,Bundesliga
-hugo siquet,Club Brugge KV,1.8,3300000.0,2022-2023,Bundesliga
-lukas kübler,SC Freiburg,1.82,2500000.0,2022-2023,Bundesliga
-yannik keitel,VfB Stuttgart,1.86,4000000.0,2022-2023,Bundesliga
-nicolas höfler,SC Freiburg,1.81,2500000.0,2022-2023,Bundesliga
-maximilian eggestein,SC Freiburg,1.81,10000000.0,2022-2023,Bundesliga
-robert wagner,Holstein Kiel,1.81,1400000.0,2022-2023,Bundesliga
-jonathan schmid,FC Progrès Niederkorn,1.79,900000.0,2022-2023,Bundesliga
-daniel-kofi kyereh,SC Freiburg,1.79,8000000.0,2022-2023,Bundesliga
-woo-yeong jeong,1.FC Union Berlin,1.79,3500000.0,2022-2023,Bundesliga
-merlin röhl,SC Freiburg,1.92,2000000.0,2022-2023,Bundesliga
-kevin schade,Brentford FC,1.85,25000000.0,2022-2023,Bundesliga
-vincenzo grifo,SC Freiburg,1.8,12000000.0,2022-2023,Bundesliga
-noah weißhaupt,SC Freiburg,1.81,4000000.0,2022-2023,Bundesliga
-ritsu doan,SC Freiburg,1.72,18000000.0,2022-2023,Bundesliga
-roland sallai,Galatasaray,1.83,10000000.0,2022-2023,Bundesliga
-michael gregoritsch,SC Freiburg,1.93,8000000.0,2022-2023,Bundesliga
-lucas höler,SC Freiburg,1.84,5000000.0,2022-2023,Bundesliga
-nils petersen,nan,1.88,1500000.0,2022-2023,Bundesliga
-oliver baumann,TSG 1899 Hoffenheim,1.87,4000000.0,2022-2023,Bundesliga
-philipp pentke,Without Club,1.91,300000.0,2022-2023,Bundesliga
-luca philipp,TSG 1899 Hoffenheim,1.92,300000.0,2022-2023,Bundesliga
-nahuel noll,Hannover 96,1.9,250000.0,2022-2023,Bundesliga
-stefan posch,Bologna FC 1909,1.9,14000000.0,2022-2023,Bundesliga
-ozan kabak,TSG 1899 Hoffenheim,1.87,10000000.0,2022-2023,Bundesliga
-stanley nsoki,TSG 1899 Hoffenheim,1.84,5500000.0,2022-2023,Bundesliga
-kevin akpoguma,TSG 1899 Hoffenheim,1.92,3500000.0,2022-2023,Bundesliga
-kevin vogt,VfL Bochum,1.94,2500000.0,2022-2023,Bundesliga
-eduardo quaresma,Sporting CP,1.85,2500000.0,2022-2023,Bundesliga
-john brooks,Hertha BSC,1.94,2000000.0,2022-2023,Bundesliga
-ermin bicakcic,Without Club,1.85,700000.0,2022-2023,Bundesliga
-joshua quarshie,Southampton FC,1.96,250000.0,2022-2023,Bundesliga
-benjamin hübner,nan,1.93,,2022-2023,Bundesliga
-angeliño,AS Roma,1.71,12000000.0,2022-2023,Bundesliga
-pavel kaderabek,AC Sparta Prague,1.82,3000000.0,2022-2023,Bundesliga
-justin che,Bröndby IF,1.85,1500000.0,2022-2023,Bundesliga
-melayro bogarde,LASK,1.86,700000.0,2022-2023,Bundesliga
-diadié samassékou,Without Club,1.77,7000000.0,2022-2023,Bundesliga
-angelo stiller,VfB Stuttgart,1.83,5000000.0,2022-2023,Bundesliga
-sebastian rudy,nan,1.8,1000000.0,2022-2023,Bundesliga
-dennis geiger,TSG 1899 Hoffenheim,1.73,8000000.0,2022-2023,Bundesliga
-grischa prömel,TSG 1899 Hoffenheim,1.84,7000000.0,2022-2023,Bundesliga
-tom bischof,Bayern Munich,1.76,3500000.0,2022-2023,Bundesliga
-finn becker,TSG 1899 Hoffenheim,1.77,2500000.0,2022-2023,Bundesliga
-thomas delaney,FC Copenhagen,1.82,2000000.0,2022-2023,Bundesliga
-umut tohumcu,TSG 1899 Hoffenheim,1.75,1500000.0,2022-2023,Bundesliga
-robert skov,1.FC Union Berlin,1.85,6500000.0,2022-2023,Bundesliga
-christoph baumgartner,RB Leipzig,1.8,24000000.0,2022-2023,Bundesliga
-andrej kramaric,TSG 1899 Hoffenheim,1.77,8000000.0,2022-2023,Bundesliga
-muhammed damar,TSG 1899 Hoffenheim,1.85,1000000.0,2022-2023,Bundesliga
-jacob bruun larsen,Burnley FC,1.83,3000000.0,2022-2023,Bundesliga
-georginio rutter,Brighton & Hove Albion,1.82,18000000.0,2022-2023,Bundesliga
-ihlas bebou,TSG 1899 Hoffenheim,1.85,7000000.0,2022-2023,Bundesliga
-kasper dolberg,RSC Anderlecht,1.87,7000000.0,2022-2023,Bundesliga
-munas dabbur,Without Club,1.82,3000000.0,2022-2023,Bundesliga
-fisnik asllani,TSG 1899 Hoffenheim,1.91,800000.0,2022-2023,Bundesliga
-frederik rönnow,1.FC Union Berlin,1.88,5500000.0,2022-2023,Bundesliga
-lennart grill,SG Dynamo Dresden,1.92,1000000.0,2022-2023,Bundesliga
-jakob busk,FC Nordsjaelland,1.89,250000.0,2022-2023,Bundesliga
-yannic stein,1.FC Union Berlin,1.9,200000.0,2022-2023,Bundesliga
-danilho doekhi,1.FC Union Berlin,1.9,17000000.0,2022-2023,Bundesliga
-diogo leite,1.FC Union Berlin,1.9,15000000.0,2022-2023,Bundesliga
-paul jaeckel,Preußen Münster,1.86,5000000.0,2022-2023,Bundesliga
-robin knoche,1.FC Nuremberg,1.89,5000000.0,2022-2023,Bundesliga
-timo baumgartl,St. Louis CITY SC,1.92,3000000.0,2022-2023,Bundesliga
-dominique heintz,1.FC Köln,1.88,1200000.0,2022-2023,Bundesliga
-jérôme roussillon,Without Club,1.75,3000000.0,2022-2023,Bundesliga
-tymoteusz puchacz,Holstein Kiel,1.83,1200000.0,2022-2023,Bundesliga
-niko gießelmann,Without Club,1.82,1000000.0,2022-2023,Bundesliga
-julian ryerson,Borussia Dortmund,1.83,13000000.0,2022-2023,Bundesliga
-josip juranovic,1.FC Union Berlin,1.73,12000000.0,2022-2023,Bundesliga
-christopher trimmel,1.FC Union Berlin,1.89,800000.0,2022-2023,Bundesliga
-rani khedira,1.FC Union Berlin,1.89,10000000.0,2022-2023,Bundesliga
-aljoscha kemlein,1.FC Union Berlin,1.87,250000.0,2022-2023,Bundesliga
-janik haberer,1.FC Union Berlin,1.87,7000000.0,2022-2023,Bundesliga
-aïssa laïdouni,Al-Wakrah SC,1.84,7000000.0,2022-2023,Bundesliga
-morten thorsby,Genoa CFC,1.88,5500000.0,2022-2023,Bundesliga
-andrás schäfer,1.FC Union Berlin,1.78,5000000.0,2022-2023,Bundesliga
-paul seguin,Hertha BSC,1.86,2500000.0,2022-2023,Bundesliga
-kevin möhwald,KAS Eupen,1.82,600000.0,2022-2023,Bundesliga
-milos pantovic,OFK Beograd,1.86,1500000.0,2022-2023,Bundesliga
-genki haraguchi,Urawa Red Diamonds,1.78,1000000.0,2022-2023,Bundesliga
-sheraldo becker,Real Sociedad,1.8,17000000.0,2022-2023,Bundesliga
-levin öztunali,Hamburger SV,1.84,1200000.0,2022-2023,Bundesliga
-sven michel,SC Paderborn 07,1.77,900000.0,2022-2023,Bundesliga
-jamie leweling,VfB Stuttgart,1.85,3000000.0,2022-2023,Bundesliga
-tim skarke,1.FC Union Berlin,1.81,1200000.0,2022-2023,Bundesliga
-tim maciejewski,FSV 63 Luckenwalde,1.86,350000.0,2022-2023,Bundesliga
-jordan,Stade Reims,1.91,7000000.0,2022-2023,Bundesliga
-kevin behrens,FC Lugano,1.85,2000000.0,2022-2023,Bundesliga
-andreas voglsammer,FC Hansa Rostock,1.78,800000.0,2022-2023,Bundesliga
-malick sanogo,1.FC Magdeburg II,1.85,,2022-2023,Bundesliga
-florian müller,SC Freiburg,1.9,1500000.0,2022-2023,Bundesliga
-fabian bredlow,VfB Stuttgart,1.9,1500000.0,2022-2023,Bundesliga
-dennis seimen,SC Paderborn 07,1.92,200000.0,2022-2023,Bundesliga
-florian schock,Fortuna Düsseldorf,2.0,200000.0,2022-2023,Bundesliga
-nicolas glaus,Grasshopper Club Zurich,1.87,125000.0,2022-2023,Bundesliga
-konstantinos mavropanos,West Ham United,1.94,15000000.0,2022-2023,Bundesliga
-hiroki ito,Bayern Munich,1.88,10000000.0,2022-2023,Bundesliga
-waldemar anton,Borussia Dortmund,1.89,4500000.0,2022-2023,Bundesliga
-dan-axel zagadou,VfB Stuttgart,1.96,2500000.0,2022-2023,Bundesliga
-clinton mola,Bristol Rovers,1.84,500000.0,2022-2023,Bundesliga
-leon reichardt,FC Hansa Rostock,1.9,,2022-2023,Bundesliga
-borna sosa,Crystal Palace,1.87,12000000.0,2022-2023,Bundesliga
-josha vagnoman,VfB Stuttgart,1.9,8000000.0,2022-2023,Bundesliga
-pascal stenzel,VfB Stuttgart,1.83,1500000.0,2022-2023,Bundesliga
-antonis aidonis,SG Sonnenhof Großaspach,1.86,350000.0,2022-2023,Bundesliga
-mattis hoppe,FC Ingolstadt 04,1.79,150000.0,2022-2023,Bundesliga
-wataru endo,Liverpool FC,1.78,6500000.0,2022-2023,Bundesliga
-atakan karazor,VfB Stuttgart,1.91,4000000.0,2022-2023,Bundesliga
-luca bazzoli,Rot-Weiss Essen,1.88,225000.0,2022-2023,Bundesliga
-naouirou ahamada,Crystal Palace,1.83,10000000.0,2022-2023,Bundesliga
-nikolas nartey,VfB Stuttgart,1.86,1500000.0,2022-2023,Bundesliga
-enzo millot,VfB Stuttgart,1.75,7000000.0,2022-2023,Bundesliga
-lilian egloff,Karlsruher SC,1.82,1500000.0,2022-2023,Bundesliga
-mateo klimowicz,Atlético de San Luis,1.81,1200000.0,2022-2023,Bundesliga
-genki haraguchi,Urawa Red Diamonds,1.78,1000000.0,2022-2023,Bundesliga
-ömer beyaz,Basaksehir FK,1.71,700000.0,2022-2023,Bundesliga
-laurin ulrich,1.FC Magdeburg,1.8,500000.0,2022-2023,Bundesliga
-chris führich,VfB Stuttgart,1.81,4000000.0,2022-2023,Bundesliga
-darko churlinov,Burnley FC,1.8,2200000.0,2022-2023,Bundesliga
-silas,VfB Stuttgart,1.89,8000000.0,2022-2023,Bundesliga
-tanguy coulibaly,Montpellier HSC,1.79,2500000.0,2022-2023,Bundesliga
-gil dias,FC Famalicão,1.86,1500000.0,2022-2023,Bundesliga
-sasa kalajdzic,Wolverhampton Wanderers,2.0,15000000.0,2022-2023,Bundesliga
-serhou guirassy,Borussia Dortmund,1.87,14000000.0,2022-2023,Bundesliga
-tiago tomás,VfL Wolfsburg,1.8,7000000.0,2022-2023,Bundesliga
-juan josé perea,VfB Stuttgart,1.84,2000000.0,2022-2023,Bundesliga
-luca pfeiffer,SV 07 Elversberg,1.96,1700000.0,2022-2023,Bundesliga
-thomas kastanaras,VfB Stuttgart II,1.86,700000.0,2022-2023,Bundesliga
-alou kuol,Western Sydney Wanderers,1.81,300000.0,2022-2023,Bundesliga
-robin zentner,1.FSV Mainz 05,1.95,5000000.0,2022-2023,Bundesliga
-finn dahmen,FC Augsburg,1.86,2500000.0,2022-2023,Bundesliga
-lasse rieß,1.FSV Mainz 05,1.92,200000.0,2022-2023,Bundesliga
-andreas hanche-olsen,1.FSV Mainz 05,1.85,7500000.0,2022-2023,Bundesliga
-dominik kohr,1.FSV Mainz 05,1.83,3500000.0,2022-2023,Bundesliga
-alexander hack,New York Red Bulls,1.93,2500000.0,2022-2023,Bundesliga
-maxim leitsch,1.FSV Mainz 05,1.89,2000000.0,2022-2023,Bundesliga
-stefan bell,1.FSV Mainz 05,1.92,2000000.0,2022-2023,Bundesliga
-danny da costa,1.FSV Mainz 05,1.87,1800000.0,2022-2023,Bundesliga
-philipp schulz,1.FSV Mainz 05 II,1.9,300000.0,2022-2023,Bundesliga
-lucas laux,SV Eintracht Trier 05,1.83,175000.0,2022-2023,Bundesliga
-aarón martín,Genoa CFC,1.78,7000000.0,2022-2023,Bundesliga
-anderson lucoqui,Without Club,1.81,600000.0,2022-2023,Bundesliga
-anthony caci,1.FSV Mainz 05,1.84,8500000.0,2022-2023,Bundesliga
-silvan widmer,1.FSV Mainz 05,1.83,3500000.0,2022-2023,Bundesliga
-anton stach,Leeds United,1.94,15000000.0,2022-2023,Bundesliga
-edimilson fernandes,BSC Young Boys,1.87,5500000.0,2022-2023,Bundesliga
-niklas tauer,1.FSV Mainz 05,1.83,1200000.0,2022-2023,Bundesliga
-leandro barreiro,SL Benfica,1.74,14000000.0,2022-2023,Bundesliga
-merveille papela,SV Darmstadt 98,1.74,1000000.0,2022-2023,Bundesliga
-eniss shabani,Without Club,1.8,200000.0,2022-2023,Bundesliga
-angelo fulgini,RC Lens,1.82,9000000.0,2022-2023,Bundesliga
-jae-sung lee,1.FSV Mainz 05,1.8,4000000.0,2022-2023,Bundesliga
-aymen barkok,Without Club,1.89,2000000.0,2022-2023,Bundesliga
-delano burgzorg,Middlesbrough FC,1.86,1500000.0,2022-2023,Bundesliga
-kaito mizuta,Rot-Weiss Essen,1.82,225000.0,2022-2023,Bundesliga
-brajan gruda,Brighton & Hove Albion,1.78,500000.0,2022-2023,Bundesliga
-jonathan burkardt,Eintracht Frankfurt,1.83,10000000.0,2022-2023,Bundesliga
-ludovic ajorque,Stade Brestois 29,1.96,9000000.0,2022-2023,Bundesliga
-marcus ingvartsen,San Diego FC,1.87,5500000.0,2022-2023,Bundesliga
-nelson weiper,1.FSV Mainz 05,1.92,5000000.0,2022-2023,Bundesliga
-karim onisiwo,Red Bull Salzburg,1.88,3500000.0,2022-2023,Bundesliga
-marlon mustapha,SCR Altach,1.85,1000000.0,2022-2023,Bundesliga
-ben bobzien,1.FSV Mainz 05,1.74,600000.0,2022-2023,Bundesliga
-tomas koubek,FC Slovan Liberec,1.97,1000000.0,2022-2023,Bundesliga
-rafal gikiewicz,Widzew Lodz,1.9,900000.0,2022-2023,Bundesliga
-daniel klein,FC Augsburg,1.93,300000.0,2022-2023,Bundesliga
-benjamin leneis,Without Club,1.95,100000.0,2022-2023,Bundesliga
-felix uduokhai,Besiktas JK,1.93,8500000.0,2022-2023,Bundesliga
-reece oxford,Without Club,1.9,5500000.0,2022-2023,Bundesliga
-maximilian bauer,FC Augsburg,1.89,3500000.0,2022-2023,Bundesliga
-jeffrey gouweleeuw,FC Augsburg,1.88,3000000.0,2022-2023,Bundesliga
-frederik winther,Hammarby IF,1.9,1000000.0,2022-2023,Bundesliga
-renato veiga,Chelsea FC,1.9,1000000.0,2022-2023,Bundesliga
-felix götze,SC Paderborn 07,1.85,400000.0,2022-2023,Bundesliga
-daniel katic,HSK Posusje,1.85,125000.0,2022-2023,Bundesliga
-iago,Esporte Clube Bahia,1.81,5500000.0,2022-2023,Bundesliga
-mads pedersen,FC Augsburg,1.78,3500000.0,2022-2023,Bundesliga
-david colina,FC Augsburg,1.74,1500000.0,2022-2023,Bundesliga
-robert gumny,Lech Poznan,1.82,3500000.0,2022-2023,Bundesliga
-raphael framberger,nan,1.79,800000.0,2022-2023,Bundesliga
-niklas dorsch,1.FC Heidenheim 1846,1.78,7000000.0,2022-2023,Bundesliga
-carlos gruezo,LDU Quito,1.72,3000000.0,2022-2023,Bundesliga
-tobias strobl,nan,1.88,500000.0,2022-2023,Bundesliga
-julian baumgartlinger,nan,1.84,400000.0,2022-2023,Bundesliga
-arne engels,Celtic FC,1.85,7500000.0,2022-2023,Bundesliga
-arne maier,FC Augsburg,1.86,6500000.0,2022-2023,Bundesliga
-elvis rexhbecaj,FC Augsburg,1.82,3500000.0,2022-2023,Bundesliga
-aaron zehnter,VfL Wolfsburg,1.8,300000.0,2022-2023,Bundesliga
-fredrik jensen,Aris Thessaloniki,1.83,2500000.0,2022-2023,Bundesliga
-josué mbila,Without Club,1.75,100000.0,2022-2023,Bundesliga
-mert kömür,FC Augsburg,1.83,,2022-2023,Bundesliga
-rubén vargas,Sevilla FC,1.79,6500000.0,2022-2023,Bundesliga
-nathanaël mbuku,Montpellier HSC,1.7,3000000.0,2022-2023,Bundesliga
-andré hahn,KSV Urberach,1.85,1200000.0,2022-2023,Bundesliga
-lukas petkov,SV 07 Elversberg,1.83,800000.0,2022-2023,Bundesliga
-noah sarenren bazee,Arminia Bielefeld,1.83,600000.0,2022-2023,Bundesliga
-daniel caligiuri,nan,1.82,600000.0,2022-2023,Bundesliga
-ermedin demirovic,VfB Stuttgart,1.85,12000000.0,2022-2023,Bundesliga
-mergim berisha,TSG 1899 Hoffenheim,1.88,12000000.0,2022-2023,Bundesliga
-ricardo pepi,PSV Eindhoven,1.85,9000000.0,2022-2023,Bundesliga
-dion beljo,GNK Dinamo Zagreb,1.95,6500000.0,2022-2023,Bundesliga
-kelvin yeboah,Minnesota United FC,1.85,3500000.0,2022-2023,Bundesliga
-irvin cardona,AS Saint-Étienne,1.85,2500000.0,2022-2023,Bundesliga
-maurice malone,Austria Vienna,1.87,1800000.0,2022-2023,Bundesliga
-florian niederlechner,TSV 1860 Munich,1.87,800000.0,2022-2023,Bundesliga
-marvin schwäbe,1.FC Köln,1.9,7000000.0,2022-2023,Bundesliga
-jonas urbig,Bayern Munich,1.89,1500000.0,2022-2023,Bundesliga
-timo horn,VfL Bochum,1.92,1500000.0,2022-2023,Bundesliga
-julian roloff,Without Club,1.92,100000.0,2022-2023,Bundesliga
-matthias köbbing,1.FC Köln,1.96,100000.0,2022-2023,Bundesliga
-timo hübers,1.FC Köln,1.9,8500000.0,2022-2023,Bundesliga
-jeff chabot,VfB Stuttgart,1.95,5500000.0,2022-2023,Bundesliga
-luca kilian,1.FC Köln,1.92,3500000.0,2022-2023,Bundesliga
-nikola soldo,Botev Plovdiv,1.89,1500000.0,2022-2023,Bundesliga
-elias bakatukanda,FC Blau-Weiss Linz,1.93,250000.0,2022-2023,Bundesliga
-rijad smajic,Without Club,1.9,150000.0,2022-2023,Bundesliga
-jonas hector,nan,1.85,3500000.0,2022-2023,Bundesliga
-kristian pedersen,Without Club,1.89,1200000.0,2022-2023,Bundesliga
-benno schmitz,FC Bayern Munich II,1.82,3000000.0,2022-2023,Bundesliga
-kingsley ehizibue,Udinese Calcio,1.89,2500000.0,2022-2023,Bundesliga
-ellyes skhiri,Eintracht Frankfurt,1.85,13000000.0,2022-2023,Bundesliga
-dejan ljubicic,GNK Dinamo Zagreb,1.87,10000000.0,2022-2023,Bundesliga
-eric martel,1.FC Köln,1.88,9000000.0,2022-2023,Bundesliga
-mathias olesen,SpVgg Greuther Fürth,1.88,1200000.0,2022-2023,Bundesliga
-georg strauch,SC Fortuna Köln,1.77,200000.0,2022-2023,Bundesliga
-denis huseinbasic,1.FC Köln,1.84,5000000.0,2022-2023,Bundesliga
-ondrej duda,Al-Ettifaq FC,1.8,3400000.0,2022-2023,Bundesliga
-florian kainz,1.FC Köln,1.76,5000000.0,2022-2023,Bundesliga
-joshua schwirten,Roda JC Kerkrade,1.82,200000.0,2022-2023,Bundesliga
-linton maina,1.FC Köln,1.8,6000000.0,2022-2023,Bundesliga
-justin diehl,VfB Stuttgart,1.74,500000.0,2022-2023,Bundesliga
-jan thielmann,1.FC Köln,1.78,6500000.0,2022-2023,Bundesliga
-dimitrios limnios,Fortuna Sittard,1.78,2000000.0,2022-2023,Bundesliga
-kingsley schindler,Without Club,1.83,1000000.0,2022-2023,Bundesliga
-steffen tigges,1.FC Köln,1.94,3500000.0,2022-2023,Bundesliga
-davie selke,Basaksehir FK,1.95,2500000.0,2022-2023,Bundesliga
-mark uth,nan,1.85,1500000.0,2022-2023,Bundesliga
-tim lemperle,TSG 1899 Hoffenheim,1.87,1500000.0,2022-2023,Bundesliga
-sargis adamyan,1.FC Köln,1.84,1000000.0,2022-2023,Bundesliga
-florian dietz,1.FC Köln,1.9,1000000.0,2022-2023,Bundesliga
-anthony modeste,Without Club,1.88,700000.0,2022-2023,Bundesliga
-sebastian andersson,nan,1.9,700000.0,2022-2023,Bundesliga
-damion downs,Southampton FC,1.92,250000.0,2022-2023,Bundesliga
-maximilian schmid,FC Erzgebirge Aue,1.84,200000.0,2022-2023,Bundesliga
-oliver christensen,ACF Fiorentina,1.9,4000000.0,2022-2023,Bundesliga
-tjark ernst,Hertha BSC,1.93,400000.0,2022-2023,Bundesliga
-rune jarstein,Herkules Fotball,1.92,300000.0,2022-2023,Bundesliga
-robert kwasigroch,Hertha BSC,1.94,200000.0,2022-2023,Bundesliga
-marc oliver kempf,Como 1907,1.86,3500000.0,2022-2023,Bundesliga
-márton dárdai,Hertha BSC,1.88,3500000.0,2022-2023,Bundesliga
-linus gechter,Hertha BSC,1.91,2500000.0,2022-2023,Bundesliga
-filip uremovic,HNK Hajduk Split,1.84,2000000.0,2022-2023,Bundesliga
-agustín rogel,Hertha BSC,1.91,1500000.0,2022-2023,Bundesliga
-dedryck boyata,Without Club,1.88,1000000.0,2022-2023,Bundesliga
-joel da silva kiala,Alemannia Aachen,1.9,250000.0,2022-2023,Bundesliga
-maximilian mittelstädt,VfB Stuttgart,1.8,2000000.0,2022-2023,Bundesliga
-marvin plattenhardt,nan,1.81,1000000.0,2022-2023,Bundesliga
-lukas ullrich,Borussia Mönchengladbach,1.8,750000.0,2022-2023,Bundesliga
-jonjoe kenny,PAOK Thessaloniki,1.76,3000000.0,2022-2023,Bundesliga
-deyovaisio zeefuik,Hertha BSC,1.78,1200000.0,2022-2023,Bundesliga
-peter pekarík,Without Club,1.77,500000.0,2022-2023,Bundesliga
-julian eitschberger,Hertha BSC,1.82,350000.0,2022-2023,Bundesliga
-lucas tousart,1.FC Union Berlin,1.84,9000000.0,2022-2023,Bundesliga
-ivan sunjic,Pafos FC,1.85,1500000.0,2022-2023,Bundesliga
-tolga ciğerci,Without Club,1.85,700000.0,2022-2023,Bundesliga
-pascal klemens,Hertha BSC,1.86,300000.0,2022-2023,Bundesliga
-veit stange,Borussia Mönchengladbach II,1.88,250000.0,2022-2023,Bundesliga
-suat serdar,Hellas Verona,1.84,4500000.0,2022-2023,Bundesliga
-vladimír darida,FC Hradec Kralove,1.72,1500000.0,2022-2023,Bundesliga
-marco richter,1.FSV Mainz 05,1.76,5000000.0,2022-2023,Bundesliga
-jean-paul boëtius,SV Darmstadt 98,1.78,1500000.0,2022-2023,Bundesliga
-kevin-prince boateng,nan,1.86,700000.0,2022-2023,Bundesliga
-ibrahim maza,Bayer 04 Leverkusen,1.8,600000.0,2022-2023,Bundesliga
-tony rölke,SC Cambuur Leeuwarden,1.88,200000.0,2022-2023,Bundesliga
-chidera ejuke,Sevilla FC,1.76,5500000.0,2022-2023,Bundesliga
-myziane maolida,Al-Kholood Club,1.81,1500000.0,2022-2023,Bundesliga
-kelian nsona,Casa Pia AC,1.89,800000.0,2022-2023,Bundesliga
-derry scherhant,SC Freiburg,1.85,700000.0,2022-2023,Bundesliga
-dodi lukébakio,Sevilla FC,1.87,12000000.0,2022-2023,Bundesliga
-stevan jovetić,Omonia Nicosia,1.83,1500000.0,2022-2023,Bundesliga
-krzysztof piatek,Al-Duhail SC,1.83,7000000.0,2022-2023,Bundesliga
-jessic ngankam,Eintracht Frankfurt,1.84,5000000.0,2022-2023,Bundesliga
-wilfried kanga,KAA Gent,1.89,3000000.0,2022-2023,Bundesliga
-davie selke,Basaksehir FK,1.95,2500000.0,2022-2023,Bundesliga
-florian niederlechner,TSV 1860 Munich,1.87,800000.0,2022-2023,Bundesliga
-jiri pavlenka,PAOK Thessaloniki,1.96,3000000.0,2022-2023,Bundesliga
-michael zetterer,SV Werder Bremen,1.87,500000.0,2022-2023,Bundesliga
-mio backhaus,SV Werder Bremen,1.94,300000.0,2022-2023,Bundesliga
-dudu,FC Viktoria Köln,1.96,200000.0,2022-2023,Bundesliga
-louis lord,FC Erzgebirge Aue,1.9,150000.0,2022-2023,Bundesliga
-marco friedl,SV Werder Bremen,1.87,7000000.0,2022-2023,Bundesliga
-amos pieper,SV Werder Bremen,1.92,6000000.0,2022-2023,Bundesliga
-niklas stark,SV Werder Bremen,1.9,5500000.0,2022-2023,Bundesliga
-milos veljkovic,Red Star Belgrade,1.88,5500000.0,2022-2023,Bundesliga
-anthony jung,SC Freiburg,1.86,1500000.0,2022-2023,Bundesliga
-fabio chiarodia,Borussia Mönchengladbach,1.86,1000000.0,2022-2023,Bundesliga
-tim dietrich,FC Schalke 04 II,1.9,200000.0,2022-2023,Bundesliga
-lee buchanan,Birmingham City,1.79,3500000.0,2022-2023,Bundesliga
-felix agu,SV Werder Bremen,1.8,1000000.0,2022-2023,Bundesliga
-mitchell weiser,SV Werder Bremen,1.77,6000000.0,2022-2023,Bundesliga
-jean manuel mbom,Viborg FF,1.85,800000.0,2022-2023,Bundesliga
-ilia gruev,Leeds United,1.85,3000000.0,2022-2023,Bundesliga
-nicolai rapp,Karlsruher SC,1.86,700000.0,2022-2023,Bundesliga
-christian groß,nan,1.82,500000.0,2022-2023,Bundesliga
-tom berger,Without Club,1.84,200000.0,2022-2023,Bundesliga
-jens stage,SV Werder Bremen,1.87,5000000.0,2022-2023,Bundesliga
-leonardo bittencourt,SV Werder Bremen,1.71,2800000.0,2022-2023,Bundesliga
-niklas schmidt,FC Toulouse,1.84,2500000.0,2022-2023,Bundesliga
-dikeni salifou,SV Werder Bremen,1.91,200000.0,2022-2023,Bundesliga
-romano schmid,SV Werder Bremen,1.68,4500000.0,2022-2023,Bundesliga
-leon opitz,SV Werder Bremen,1.83,,2022-2023,Bundesliga
-eren dinkçi,SC Freiburg,1.88,1000000.0,2022-2023,Bundesliga
-benjamin goller,1.FC Nuremberg,1.8,450000.0,2022-2023,Bundesliga
-maximilian philipp,SC Freiburg,1.83,2000000.0,2022-2023,Bundesliga
-nick woltemade,VfB Stuttgart,1.98,1500000.0,2022-2023,Bundesliga
-niclas füllkrug,West Ham United,1.89,13000000.0,2022-2023,Bundesliga
-marvin ducksch,SV Werder Bremen,1.88,7500000.0,2022-2023,Bundesliga
-oliver burke,1.FC Union Berlin,1.88,2500000.0,2022-2023,Bundesliga
-alexander schwolow,Without Club,1.9,900000.0,2022-2023,Bundesliga
-ralf fährmann,Without Club,1.97,400000.0,2022-2023,Bundesliga
-justin heekeren,FC Schalke 04,1.96,250000.0,2022-2023,Bundesliga
-michael langer,nan,1.95,50000.0,2022-2023,Bundesliga
-malick thiaw,AC Milan,1.94,20000000.0,2022-2023,Bundesliga
-moritz jenz,VfL Wolfsburg,1.9,7500000.0,2022-2023,Bundesliga
-sepp van den berg,Brentford FC,1.92,5000000.0,2022-2023,Bundesliga
-leo greiml,NAC Breda,1.87,1200000.0,2022-2023,Bundesliga
-maya yoshida,Los Angeles Galaxy,1.89,900000.0,2022-2023,Bundesliga
-marcin kaminski,Wisla Plock,1.92,700000.0,2022-2023,Bundesliga
-timothée kolodziejczak,Paris FC,1.83,400000.0,2022-2023,Bundesliga
-ibrahima cissé,FC Schalke 04,1.96,200000.0,2022-2023,Bundesliga
-julius schell,nan,1.88,125000.0,2022-2023,Bundesliga
-thomas ouwejan,NEC Nijmegen,1.83,2000000.0,2022-2023,Bundesliga
-jere uronen,AIK,1.77,1000000.0,2022-2023,Bundesliga
-kerim calhanoglu,Without Club,1.8,800000.0,2022-2023,Bundesliga
-joey müller,Roda JC Kerkrade,1.8,175000.0,2022-2023,Bundesliga
-cédric brunner,FC Wollishofen,1.81,1800000.0,2022-2023,Bundesliga
-mehmet aydin,Eintracht Braunschweig,1.8,1500000.0,2022-2023,Bundesliga
-henning matriciani,FC Schalke 04,1.87,1200000.0,2022-2023,Bundesliga
-éder balanta,CD América de Cali,1.8,2000000.0,2022-2023,Bundesliga
-florian flick,1.FC Nuremberg,1.9,1500000.0,2022-2023,Bundesliga
-niklas tauer,1.FSV Mainz 05,1.83,1200000.0,2022-2023,Bundesliga
-tom krauß,1.FC Köln,1.82,7000000.0,2022-2023,Bundesliga
-alex král,1.FC Union Berlin,1.86,7000000.0,2022-2023,Bundesliga
-rodrigo zalazar,SC Braga,1.78,4000000.0,2022-2023,Bundesliga
-danny latza,Fortuna Düsseldorf II,1.79,500000.0,2022-2023,Bundesliga
-nassim boujellab,TSV Havelse,1.82,400000.0,2022-2023,Bundesliga
-tobias mohr,Standard Liège,1.82,1200000.0,2022-2023,Bundesliga
-florent mollet,Without Club,1.75,2000000.0,2022-2023,Bundesliga
-dominick drexler,nan,1.83,750000.0,2022-2023,Bundesliga
-blendi idrizi,Without Club,1.76,400000.0,2022-2023,Bundesliga
-marius bülter,TSG 1899 Hoffenheim,1.88,3000000.0,2022-2023,Bundesliga
-andreas ivan,Without Club,1.8,125000.0,2022-2023,Bundesliga
-jordan larsson,FC Copenhagen,1.75,3000000.0,2022-2023,Bundesliga
-tim skarke,1.FC Union Berlin,1.81,1200000.0,2022-2023,Bundesliga
-soichiro kozuki,TSV 1860 Munich,1.82,600000.0,2022-2023,Bundesliga
-sidi sané,Eintracht Braunschweig,1.87,200000.0,2022-2023,Bundesliga
-michael frey,Queens Park Rangers,1.88,2000000.0,2022-2023,Bundesliga
-kenan karaman,FC Schalke 04,1.89,1400000.0,2022-2023,Bundesliga
-simon terodde,nan,1.92,900000.0,2022-2023,Bundesliga
-sebastian polter,Eintracht Braunschweig,1.92,800000.0,2022-2023,Bundesliga
-keke topp,SV Werder Bremen,1.92,500000.0,2022-2023,Bundesliga
-manuel riemann,SC Paderborn 07,1.86,1000000.0,2022-2023,Bundesliga
-marko johansson,Without Club,1.94,400000.0,2022-2023,Bundesliga
-michael esser,VfR Rauxel 08,1.98,300000.0,2022-2023,Bundesliga
-paul grave,1.FC Bocholt,1.93,100000.0,2022-2023,Bundesliga
-erhan masovic,VfL Bochum,1.89,8000000.0,2022-2023,Bundesliga
-ivan ordets,Without Club,1.95,3000000.0,2022-2023,Bundesliga
-keven schlotterbeck,FC Augsburg,1.88,3000000.0,2022-2023,Bundesliga
-jannes horn,Rapid Vienna,1.86,1200000.0,2022-2023,Bundesliga
-dominique heintz,1.FC Köln,1.88,1200000.0,2022-2023,Bundesliga
-tim oermann,SK Sturm Graz,1.89,800000.0,2022-2023,Bundesliga
-vasilios lampropoulos,OFI Crete FC,1.85,500000.0,2022-2023,Bundesliga
-mohammed tolba,Without Club,1.85,200000.0,2022-2023,Bundesliga
-danilo soares,1.FC Nuremberg,1.7,1800000.0,2022-2023,Bundesliga
-konstantinos stafylidis,APOEL Nicosia,1.78,1200000.0,2022-2023,Bundesliga
-jordi osei-tutu,Bolton Wanderers,1.76,1200000.0,2022-2023,Bundesliga
-saidy janko,BSC Young Boys,1.81,1000000.0,2022-2023,Bundesliga
-cristian gamboa,nan,1.75,600000.0,2022-2023,Bundesliga
-patrick osterhage,SC Freiburg,1.86,4000000.0,2022-2023,Bundesliga
-jacek goralski,Wieczysta Krakow,1.72,700000.0,2022-2023,Bundesliga
-anthony losilla,nan,1.85,500000.0,2022-2023,Bundesliga
-pierre kunde,Khor Fakkan SSC,1.81,1700000.0,2022-2023,Bundesliga
-kevin stöger,Borussia Mönchengladbach,1.75,3000000.0,2022-2023,Bundesliga
-philipp förster,Without Club,1.88,2800000.0,2022-2023,Bundesliga
-gerrit holtmann,VfL Bochum,1.85,2500000.0,2022-2023,Bundesliga
-christopher antwi-adjei,FC Schalke 04,1.74,2200000.0,2022-2023,Bundesliga
-takuma asano,RCD Mallorca,1.73,4000000.0,2022-2023,Bundesliga
-tarsis bonga,Würzburger Kickers,1.97,300000.0,2022-2023,Bundesliga
-philipp hofmann,VfL Bochum,1.95,2800000.0,2022-2023,Bundesliga
-simon zoller,nan,1.79,1100000.0,2022-2023,Bundesliga
-lys mousset,Without Club,1.86,1000000.0,2022-2023,Bundesliga
-moritz broschinski,VfL Bochum,1.9,1000000.0,2022-2023,Bundesliga
-silvere ganvoula,AC Monza,1.91,600000.0,2022-2023,Bundesliga
+manuel neuer,bayern munich,1.93,7000000.0,2022-2023,bundesliga
+yann sommer,bayern munich,1.83,5000000.0,2022-2023,bundesliga
+sven ulreich,bayern munich,1.92,700000.0,2022-2023,bundesliga
+johannes schenk,bayern munich,1.91,300000.0,2022-2023,bundesliga
+matthijs de ligt,bayern munich,1.89,75000000.0,2022-2023,bundesliga
+dayot upamecano,bayern munich,1.86,60000000.0,2022-2023,bundesliga
+benjamin pavard,bayern munich,1.86,40000000.0,2022-2023,bundesliga
+tanguy nianzou,bayern munich,1.91,7500000.0,2022-2023,bundesliga
+daley blind,bayern munich,1.8,3000000.0,2022-2023,bundesliga
+justin janitzek,bayern munich,1.92,500000.0,2022-2023,bundesliga
+liam morrison,bayern munich,1.83,300000.0,2022-2023,bundesliga
+gabriel marusic,bayern munich,1.86,150000.0,2022-2023,bundesliga
+alphonso davies,bayern munich,1.83,70000000.0,2022-2023,bundesliga
+lucas hernandez,bayern munich,1.84,45000000.0,2022-2023,bundesliga
+joao cancelo,bayern munich,1.82,50000000.0,2022-2023,bundesliga
+noussair mazraoui,bayern munich,1.83,28000000.0,2022-2023,bundesliga
+josip stanisic,bayern munich,1.87,12000000.0,2022-2023,bundesliga
+bouna sarr,bayern munich,1.78,2000000.0,2022-2023,bundesliga
+joshua kimmich,bayern munich,1.77,75000000.0,2022-2023,bundesliga
+ryan gravenberch,bayern munich,1.9,30000000.0,2022-2023,bundesliga
+aleksandar pavlovic,bayern munich,1.88,,2022-2023,bundesliga
+leon goretzka,bayern munich,1.89,45000000.0,2022-2023,bundesliga
+marcel sabitzer,bayern munich,1.78,20000000.0,2022-2023,bundesliga
+jamal musiala,bayern munich,1.84,110000000.0,2022-2023,bundesliga
+paul wanner,bayern munich,1.85,3000000.0,2022-2023,bundesliga
+arijon ibrahimovic,bayern munich,1.78,1000000.0,2022-2023,bundesliga
+kingsley coman,bayern munich,1.81,65000000.0,2022-2023,bundesliga
+serge gnabry,bayern munich,1.76,55000000.0,2022-2023,bundesliga
+sadio mane,bayern munich,1.74,25000000.0,2022-2023,bundesliga
+leroy sane,bayern munich,1.83,65000000.0,2022-2023,bundesliga
+thomas muller,bayern munich,1.85,12000000.0,2022-2023,bundesliga
+gabriel vidovic,bayern munich,1.8,2500000.0,2022-2023,bundesliga
+mathys tel,bayern munich,1.83,20000000.0,2022-2023,bundesliga
+joshua zirkzee,bayern munich,1.93,9000000.0,2022-2023,bundesliga
+ericmaxim choupomoting,bayern munich,1.91,5000000.0,2022-2023,bundesliga
+gregor kobel,borussia dortmund,1.96,35000000.0,2022-2023,bundesliga
+marcel lotka,borussia dortmund,1.9,1500000.0,2022-2023,bundesliga
+alexander meyer,borussia dortmund,1.95,1000000.0,2022-2023,bundesliga
+luca unbehaun,borussia dortmund,1.87,650000.0,2022-2023,bundesliga
+silas ostrzinski,borussia dortmund,1.98,150000.0,2022-2023,bundesliga
+nico schlotterbeck,borussia dortmund,1.91,40000000.0,2022-2023,bundesliga
+niklas sule,borussia dortmund,1.95,35000000.0,2022-2023,bundesliga
+mats hummels,borussia dortmund,1.91,6000000.0,2022-2023,bundesliga
+soumaila coulibaly,borussia dortmund,1.91,1000000.0,2022-2023,bundesliga
+antonios papadopoulos,borussia dortmund,1.86,600000.0,2022-2023,bundesliga
+raphael guerreiro,borussia dortmund,1.7,20000000.0,2022-2023,bundesliga
+tom rothe,borussia dortmund,1.93,3500000.0,2022-2023,bundesliga
+nico schulz,borussia dortmund,1.8,1000000.0,2022-2023,bundesliga
+julian ryerson,borussia dortmund,1.83,13000000.0,2022-2023,bundesliga
+marius wolf,borussia dortmund,1.88,10000000.0,2022-2023,bundesliga
+thomas meunier,borussia dortmund,1.91,5000000.0,2022-2023,bundesliga
+felix passlack,borussia dortmund,1.7,1500000.0,2022-2023,bundesliga
+mateu morey,borussia dortmund,1.73,1000000.0,2022-2023,bundesliga
+emre can,borussia dortmund,1.86,14000000.0,2022-2023,bundesliga
+salih ozcan,borussia dortmund,1.83,13000000.0,2022-2023,bundesliga
+abdoulaye kamara,borussia dortmund,1.85,1000000.0,2022-2023,bundesliga
+mahmoud dahoud,borussia dortmund,1.78,12000000.0,2022-2023,bundesliga
+jude bellingham,borussia dortmund,1.86,120000000.0,2022-2023,bundesliga
+julian brandt,borussia dortmund,1.85,40000000.0,2022-2023,bundesliga
+giovanni reyna,borussia dortmund,1.85,25000000.0,2022-2023,bundesliga
+marco reus,borussia dortmund,1.8,7000000.0,2022-2023,bundesliga
+goktan gurpuz,borussia dortmund,1.78,300000.0,2022-2023,bundesliga
+jamie gittens,borussia dortmund,1.78,14000000.0,2022-2023,bundesliga
+julien duranville,borussia dortmund,1.73,8500000.0,2022-2023,bundesliga
+thorgan hazard,borussia dortmund,1.75,7000000.0,2022-2023,bundesliga
+karim adeyemi,borussia dortmund,1.8,40000000.0,2022-2023,bundesliga
+donyell malen,borussia dortmund,1.76,28000000.0,2022-2023,bundesliga
+justin njinmah,borussia dortmund,1.85,800000.0,2022-2023,bundesliga
+marco pasalic,borussia dortmund,1.77,350000.0,2022-2023,bundesliga
+sebastien haller,borussia dortmund,1.9,30000000.0,2022-2023,bundesliga
+youssoufa moukoko,borussia dortmund,1.79,30000000.0,2022-2023,bundesliga
+anthony modeste,borussia dortmund,1.88,700000.0,2022-2023,bundesliga
+peter gulacsi,rb leipzig,1.93,5000000.0,2022-2023,bundesliga
+janis blaswich,rb leipzig,1.93,2500000.0,2022-2023,bundesliga
+rjan nyland,rb leipzig,1.92,600000.0,2022-2023,bundesliga
+jonas nickisch,rb leipzig,1.91,200000.0,2022-2023,bundesliga
+timo schlieck,rb leipzig,1.93,200000.0,2022-2023,bundesliga
+oskar preil,rb leipzig,1.89,100000.0,2022-2023,bundesliga
+mohamed simakan,rb leipzig,1.87,25000000.0,2022-2023,bundesliga
+lukas klostermann,rb leipzig,1.89,12000000.0,2022-2023,bundesliga
+willi orban,rb leipzig,1.86,10000000.0,2022-2023,bundesliga
+abdou diallo,rb leipzig,1.86,10000000.0,2022-2023,bundesliga
+marcel halstenberg,rb leipzig,1.88,3500000.0,2022-2023,bundesliga
+josko gvardiol,rb leipzig,1.85,75000000.0,2022-2023,bundesliga
+david raum,rb leipzig,1.81,14000000.0,2022-2023,bundesliga
+konrad laimer,rb leipzig,1.8,28000000.0,2022-2023,bundesliga
+benjamin henrichs,rb leipzig,1.85,15000000.0,2022-2023,bundesliga
+hugo novoa,rb leipzig,1.82,4300000.0,2022-2023,bundesliga
+sanoussy ba,rb leipzig,1.84,500000.0,2022-2023,bundesliga
+xaver schlager,rb leipzig,1.74,22000000.0,2022-2023,bundesliga
+amadou haidara,rb leipzig,1.78,17000000.0,2022-2023,bundesliga
+kevin kampl,rb leipzig,1.78,3500000.0,2022-2023,bundesliga
+dominik szoboszlai,rb leipzig,1.87,50000000.0,2022-2023,bundesliga
+dani olmo,rb leipzig,1.79,40000000.0,2022-2023,bundesliga
+caden clark,rb leipzig,1.8,2000000.0,2022-2023,bundesliga
+timo werner,rb leipzig,1.8,25000000.0,2022-2023,bundesliga
+emil forsberg,rb leipzig,1.77,7000000.0,2022-2023,bundesliga
+christopher nkunku,rb leipzig,1.77,80000000.0,2022-2023,bundesliga
+andre silva,rb leipzig,1.86,15000000.0,2022-2023,bundesliga
+alexander srloth,rb leipzig,1.95,12000000.0,2022-2023,bundesliga
+yussuf poulsen,rb leipzig,1.92,7000000.0,2022-2023,bundesliga
+lukas hradecky,bayer leverkusen,1.92,2500000.0,2022-2023,bundesliga
+patrick pentz,bayer leverkusen,1.83,1500000.0,2022-2023,bundesliga
+andrey lunev,bayer leverkusen,1.9,1200000.0,2022-2023,bundesliga
+niklas lomb,bayer leverkusen,1.86,250000.0,2022-2023,bundesliga
+maximilian neutgens,bayer leverkusen,1.88,,2022-2023,bundesliga
+piero hincapie,bayer leverkusen,1.84,35000000.0,2022-2023,bundesliga
+edmond tapsoba,bayer leverkusen,1.94,30000000.0,2022-2023,bundesliga
+jonathan tah,bayer leverkusen,1.95,20000000.0,2022-2023,bundesliga
+odilon kossounou,bayer leverkusen,1.91,18000000.0,2022-2023,bundesliga
+madi monamay,bayer leverkusen,1.85,,2022-2023,bundesliga
+mitchel bakker,bayer leverkusen,1.89,9000000.0,2022-2023,bundesliga
+daley sinkgraven,bayer leverkusen,1.79,2500000.0,2022-2023,bundesliga
+jeremie frimpong,bayer leverkusen,1.72,40000000.0,2022-2023,bundesliga
+timothy fosumensah,bayer leverkusen,1.88,2000000.0,2022-2023,bundesliga
+robert andrich,bayer leverkusen,1.87,11000000.0,2022-2023,bundesliga
+ayman azhil,bayer leverkusen,1.75,400000.0,2022-2023,bundesliga
+joshua eze,bayer leverkusen,1.83,150000.0,2022-2023,bundesliga
+leon kohl,bayer leverkusen,1.88,,2022-2023,bundesliga
+exequiel palacios,bayer leverkusen,1.78,22000000.0,2022-2023,bundesliga
+kerem demirbay,bayer leverkusen,1.83,6000000.0,2022-2023,bundesliga
+nadiem amiri,bayer leverkusen,1.8,6000000.0,2022-2023,bundesliga
+charles aranguiz,bayer leverkusen,1.72,3500000.0,2022-2023,bundesliga
+noah mbamba,bayer leverkusen,1.96,3000000.0,2022-2023,bundesliga
+zidan sertdemir,bayer leverkusen,1.86,1000000.0,2022-2023,bundesliga
+florian wirtz,bayer leverkusen,1.77,85000000.0,2022-2023,bundesliga
+ayman aourir,bayer leverkusen,1.72,,2022-2023,bundesliga
+amine adli,bayer leverkusen,1.8,20000000.0,2022-2023,bundesliga
+callum hudsonodoi,bayer leverkusen,1.78,15000000.0,2022-2023,bundesliga
+paulinho,bayer leverkusen,1.77,7500000.0,2022-2023,bundesliga
+moussa diaby,bayer leverkusen,1.7,50000000.0,2022-2023,bundesliga
+karim bellarabi,bayer leverkusen,1.84,1500000.0,2022-2023,bundesliga
+adam hlozek,bayer leverkusen,1.88,18000000.0,2022-2023,bundesliga
+patrik schick,bayer leverkusen,1.91,25000000.0,2022-2023,bundesliga
+sardar azmoun,bayer leverkusen,1.86,12000000.0,2022-2023,bundesliga
+joel pohjanpalo,bayer leverkusen,1.86,3500000.0,2022-2023,bundesliga
+kevin trapp,eintracht frankfurt,1.89,8500000.0,2022-2023,bundesliga
+diant ramaj,eintracht frankfurt,1.89,750000.0,2022-2023,bundesliga
+jannik horz,eintracht frankfurt,1.93,200000.0,2022-2023,bundesliga
+jens grahl,eintracht frankfurt,1.92,200000.0,2022-2023,bundesliga
+simon simoni,eintracht frankfurt,1.95,200000.0,2022-2023,bundesliga
+evan ndicka,eintracht frankfurt,1.92,28000000.0,2022-2023,bundesliga
+tuta,eintracht frankfurt,1.85,15000000.0,2022-2023,bundesliga
+hrvoje smolcic,eintracht frankfurt,1.85,4000000.0,2022-2023,bundesliga
+almamy toure,eintracht frankfurt,1.81,2500000.0,2022-2023,bundesliga
+jerome onguene,eintracht frankfurt,1.86,2000000.0,2022-2023,bundesliga
+dario gebuhr,eintracht frankfurt,1.88,400000.0,2022-2023,bundesliga
+luca pellegrini,eintracht frankfurt,1.78,7000000.0,2022-2023,bundesliga
+philipp max,eintracht frankfurt,1.77,3000000.0,2022-2023,bundesliga
+christopher lenz,eintracht frankfurt,1.8,2500000.0,2022-2023,bundesliga
+jan schroder,eintracht frankfurt,1.82,200000.0,2022-2023,bundesliga
+aurelio buta,eintracht frankfurt,1.72,8000000.0,2022-2023,bundesliga
+timothy chandler,eintracht frankfurt,1.87,700000.0,2022-2023,bundesliga
+kristijan jakic,eintracht frankfurt,1.84,7000000.0,2022-2023,bundesliga
+makoto hasebe,eintracht frankfurt,1.8,800000.0,2022-2023,bundesliga
+djibril sow,eintracht frankfurt,1.84,22000000.0,2022-2023,bundesliga
+paxten aaronson,eintracht frankfurt,1.75,4500000.0,2022-2023,bundesliga
+sebastian rode,eintracht frankfurt,1.79,2000000.0,2022-2023,bundesliga
+mehdi loune,eintracht frankfurt,1.72,300000.0,2022-2023,bundesliga
+junior dina ebimbe,eintracht frankfurt,1.84,10000000.0,2022-2023,bundesliga
+filip kostic,eintracht frankfurt,1.84,22000000.0,2022-2023,bundesliga
+daichi kamada,eintracht frankfurt,1.8,27000000.0,2022-2023,bundesliga
+mario gotze,eintracht frankfurt,1.76,12000000.0,2022-2023,bundesliga
+marcel wenig,eintracht frankfurt,1.88,800000.0,2022-2023,bundesliga
+jens petter hauge,eintracht frankfurt,1.84,2500000.0,2022-2023,bundesliga
+faride alidou,eintracht frankfurt,1.86,2500000.0,2022-2023,bundesliga
+jesper lindstrm,eintracht frankfurt,1.82,28000000.0,2022-2023,bundesliga
+ansgar knauff,eintracht frankfurt,1.8,8000000.0,2022-2023,bundesliga
+randal kolo muani,eintracht frankfurt,1.87,80000000.0,2022-2023,bundesliga
+rafael borre,eintracht frankfurt,1.74,9000000.0,2022-2023,bundesliga
+lucas alario,eintracht frankfurt,1.85,2500000.0,2022-2023,bundesliga
+nacho ferri,eintracht frankfurt,1.92,500000.0,2022-2023,bundesliga
+jonas omlin,borussia monchengladbach,1.9,9000000.0,2022-2023,bundesliga
+yann sommer,borussia monchengladbach,1.83,5000000.0,2022-2023,bundesliga
+jan olschowsky,borussia monchengladbach,1.84,800000.0,2022-2023,bundesliga
+tobias sippel,borussia monchengladbach,1.83,400000.0,2022-2023,bundesliga
+moritz nicolas,borussia monchengladbach,1.93,350000.0,2022-2023,bundesliga
+florian dimmer,borussia monchengladbach,1.9,100000.0,2022-2023,bundesliga
+maximilian brull,borussia monchengladbach,1.87,75000.0,2022-2023,bundesliga
+nico elvedi,borussia monchengladbach,1.89,18000000.0,2022-2023,bundesliga
+jordan beyer,borussia monchengladbach,1.87,16000000.0,2022-2023,bundesliga
+ko itakura,borussia monchengladbach,1.88,12000000.0,2022-2023,bundesliga
+marvin friedrich,borussia monchengladbach,1.93,4000000.0,2022-2023,bundesliga
+mamadou doucoure,borussia monchengladbach,1.83,100000.0,2022-2023,bundesliga
+ramy bensebaini,borussia monchengladbach,1.87,20000000.0,2022-2023,bundesliga
+luca netz,borussia monchengladbach,1.84,6500000.0,2022-2023,bundesliga
+joe scally,borussia monchengladbach,1.84,12000000.0,2022-2023,bundesliga
+stefan lainer,borussia monchengladbach,1.75,3000000.0,2022-2023,bundesliga
+tony jantschke,borussia monchengladbach,1.77,600000.0,2022-2023,bundesliga
+simon walde,borussia monchengladbach,1.85,500000.0,2022-2023,bundesliga
+julian weigl,borussia monchengladbach,1.86,10000000.0,2022-2023,bundesliga
+christoph kramer,borussia monchengladbach,1.91,2500000.0,2022-2023,bundesliga
+manu kone,borussia monchengladbach,1.85,40000000.0,2022-2023,bundesliga
+florian neuhaus,borussia monchengladbach,1.85,12000000.0,2022-2023,bundesliga
+oscar fraulo,borussia monchengladbach,1.8,2000000.0,2022-2023,bundesliga
+rocco reitz,borussia monchengladbach,1.76,800000.0,2022-2023,bundesliga
+torben musel,borussia monchengladbach,1.85,200000.0,2022-2023,bundesliga
+jonas hofmann,borussia monchengladbach,1.76,13000000.0,2022-2023,bundesliga
+lars stindl,borussia monchengladbach,1.81,1000000.0,2022-2023,bundesliga
+conor no,borussia monchengladbach,1.82,400000.0,2022-2023,bundesliga
+yvandro borges sanches,borussia monchengladbach,1.8,1500000.0,2022-2023,bundesliga
+nathan ngoumou,borussia monchengladbach,1.85,5000000.0,2022-2023,bundesliga
+hannes wolf,borussia monchengladbach,1.79,3000000.0,2022-2023,bundesliga
+patrick herrmann,borussia monchengladbach,1.79,1500000.0,2022-2023,bundesliga
+marcus thuram,borussia monchengladbach,1.92,32000000.0,2022-2023,bundesliga
+alassane plea,borussia monchengladbach,1.81,8000000.0,2022-2023,bundesliga
+semir telalovic,borussia monchengladbach,1.87,350000.0,2022-2023,bundesliga
+koen casteels,vfl wolfsburg,1.97,8000000.0,2022-2023,bundesliga
+pavao pervan,vfl wolfsburg,1.94,400000.0,2022-2023,bundesliga
+philipp schulze,vfl wolfsburg,1.9,200000.0,2022-2023,bundesliga
+niklas klinger,vfl wolfsburg,1.87,100000.0,2022-2023,bundesliga
+micky van de ven,vfl wolfsburg,1.93,30000000.0,2022-2023,bundesliga
+maxence lacroix,vfl wolfsburg,1.9,17000000.0,2022-2023,bundesliga
+sebastiaan bornauw,vfl wolfsburg,1.91,8500000.0,2022-2023,bundesliga
+david odogu,vfl wolfsburg,1.91,,2022-2023,bundesliga
+paulo otavio,vfl wolfsburg,1.73,4000000.0,2022-2023,bundesliga
+nicolas cozza,vfl wolfsburg,1.78,3500000.0,2022-2023,bundesliga
+jerome roussillon,vfl wolfsburg,1.75,3000000.0,2022-2023,bundesliga
+bartol franjic,vfl wolfsburg,1.88,3000000.0,2022-2023,bundesliga
+ridle baku,vfl wolfsburg,1.76,13000000.0,2022-2023,bundesliga
+kilian fischer,vfl wolfsburg,1.82,2000000.0,2022-2023,bundesliga
+josuha guilavogui,vfl wolfsburg,1.88,2000000.0,2022-2023,bundesliga
+mattias svanberg,vfl wolfsburg,1.85,18000000.0,2022-2023,bundesliga
+felix nmecha,vfl wolfsburg,1.9,15000000.0,2022-2023,bundesliga
+maximilian arnold,vfl wolfsburg,1.84,14000000.0,2022-2023,bundesliga
+aster vranckx,vfl wolfsburg,1.83,8500000.0,2022-2023,bundesliga
+yannick gerhardt,vfl wolfsburg,1.84,6000000.0,2022-2023,bundesliga
+kevin paredes,vfl wolfsburg,1.75,5000000.0,2022-2023,bundesliga
+lukas ambros,vfl wolfsburg,1.82,200000.0,2022-2023,bundesliga
+jakub kaminski,vfl wolfsburg,1.79,12000000.0,2022-2023,bundesliga
+josip brekalo,vfl wolfsburg,1.75,5000000.0,2022-2023,bundesliga
+patrick wimmer,vfl wolfsburg,1.82,18000000.0,2022-2023,bundesliga
+maximilian philipp,vfl wolfsburg,1.83,2000000.0,2022-2023,bundesliga
+max kruse,vfl wolfsburg,1.8,900000.0,2022-2023,bundesliga
+jonas wind,vfl wolfsburg,1.9,14000000.0,2022-2023,bundesliga
+lukas nmecha,vfl wolfsburg,1.85,12000000.0,2022-2023,bundesliga
+omar marmoush,vfl wolfsburg,1.83,6000000.0,2022-2023,bundesliga
+bartosz bialek,vfl wolfsburg,1.91,3000000.0,2022-2023,bundesliga
+luca waldschmidt,vfl wolfsburg,1.81,3000000.0,2022-2023,bundesliga
+dzenan pejcinovic,vfl wolfsburg,1.9,1000000.0,2022-2023,bundesliga
+mark flekken,sc freiburg,1.95,10000000.0,2022-2023,bundesliga
+noah atubolu,sc freiburg,1.9,3500000.0,2022-2023,bundesliga
+benjamin uphoff,sc freiburg,1.92,500000.0,2022-2023,bundesliga
+philipp lienhart,sc freiburg,1.89,20000000.0,2022-2023,bundesliga
+matthias ginter,sc freiburg,1.89,18000000.0,2022-2023,bundesliga
+keven schlotterbeck,sc freiburg,1.88,3000000.0,2022-2023,bundesliga
+kenneth schmidt,sc freiburg,1.89,3000000.0,2022-2023,bundesliga
+manuel gulde,sc freiburg,1.84,1500000.0,2022-2023,bundesliga
+christian gunter,sc freiburg,1.84,7500000.0,2022-2023,bundesliga
+kimberly ezekwem,sc freiburg,1.87,350000.0,2022-2023,bundesliga
+kiliann sildillia,sc freiburg,1.86,12000000.0,2022-2023,bundesliga
+hugo siquet,sc freiburg,1.8,3300000.0,2022-2023,bundesliga
+lukas kubler,sc freiburg,1.82,2500000.0,2022-2023,bundesliga
+yannik keitel,sc freiburg,1.86,4000000.0,2022-2023,bundesliga
+nicolas hofler,sc freiburg,1.81,2500000.0,2022-2023,bundesliga
+maximilian eggestein,sc freiburg,1.81,10000000.0,2022-2023,bundesliga
+robert wagner,sc freiburg,1.81,1400000.0,2022-2023,bundesliga
+jonathan schmid,sc freiburg,1.79,900000.0,2022-2023,bundesliga
+danielkofi kyereh,sc freiburg,1.79,8000000.0,2022-2023,bundesliga
+wooyeong jeong,sc freiburg,1.79,3500000.0,2022-2023,bundesliga
+merlin rohl,sc freiburg,1.92,2000000.0,2022-2023,bundesliga
+kevin schade,sc freiburg,1.85,25000000.0,2022-2023,bundesliga
+vincenzo grifo,sc freiburg,1.8,12000000.0,2022-2023,bundesliga
+noah weihaupt,sc freiburg,1.81,4000000.0,2022-2023,bundesliga
+ritsu doan,sc freiburg,1.72,18000000.0,2022-2023,bundesliga
+roland sallai,sc freiburg,1.83,10000000.0,2022-2023,bundesliga
+michael gregoritsch,sc freiburg,1.93,8000000.0,2022-2023,bundesliga
+lucas holer,sc freiburg,1.84,5000000.0,2022-2023,bundesliga
+nils petersen,sc freiburg,1.88,1500000.0,2022-2023,bundesliga
+oliver baumann,tsg hoffenheim,1.87,4000000.0,2022-2023,bundesliga
+philipp pentke,tsg hoffenheim,1.91,300000.0,2022-2023,bundesliga
+luca philipp,tsg hoffenheim,1.92,300000.0,2022-2023,bundesliga
+nahuel noll,tsg hoffenheim,1.9,250000.0,2022-2023,bundesliga
+stefan posch,tsg hoffenheim,1.9,14000000.0,2022-2023,bundesliga
+ozan kabak,tsg hoffenheim,1.87,10000000.0,2022-2023,bundesliga
+stanley nsoki,tsg hoffenheim,1.84,5500000.0,2022-2023,bundesliga
+kevin akpoguma,tsg hoffenheim,1.92,3500000.0,2022-2023,bundesliga
+kevin vogt,tsg hoffenheim,1.94,2500000.0,2022-2023,bundesliga
+eduardo quaresma,tsg hoffenheim,1.85,2500000.0,2022-2023,bundesliga
+john brooks,tsg hoffenheim,1.94,2000000.0,2022-2023,bundesliga
+ermin bicakcic,tsg hoffenheim,1.85,700000.0,2022-2023,bundesliga
+joshua quarshie,tsg hoffenheim,1.96,250000.0,2022-2023,bundesliga
+benjamin hubner,tsg hoffenheim,1.93,,2022-2023,bundesliga
+angelino,tsg hoffenheim,1.71,12000000.0,2022-2023,bundesliga
+pavel kaderabek,tsg hoffenheim,1.82,3000000.0,2022-2023,bundesliga
+justin che,tsg hoffenheim,1.85,1500000.0,2022-2023,bundesliga
+melayro bogarde,tsg hoffenheim,1.86,700000.0,2022-2023,bundesliga
+diadie samassekou,tsg hoffenheim,1.77,7000000.0,2022-2023,bundesliga
+angelo stiller,tsg hoffenheim,1.83,5000000.0,2022-2023,bundesliga
+sebastian rudy,tsg hoffenheim,1.8,1000000.0,2022-2023,bundesliga
+dennis geiger,tsg hoffenheim,1.73,8000000.0,2022-2023,bundesliga
+grischa promel,tsg hoffenheim,1.84,7000000.0,2022-2023,bundesliga
+tom bischof,tsg hoffenheim,1.76,3500000.0,2022-2023,bundesliga
+finn becker,tsg hoffenheim,1.77,2500000.0,2022-2023,bundesliga
+thomas delaney,tsg hoffenheim,1.82,2000000.0,2022-2023,bundesliga
+umut tohumcu,tsg hoffenheim,1.75,1500000.0,2022-2023,bundesliga
+robert skov,tsg hoffenheim,1.85,6500000.0,2022-2023,bundesliga
+christoph baumgartner,tsg hoffenheim,1.8,24000000.0,2022-2023,bundesliga
+andrej kramaric,tsg hoffenheim,1.77,8000000.0,2022-2023,bundesliga
+muhammed damar,tsg hoffenheim,1.85,1000000.0,2022-2023,bundesliga
+jacob bruun larsen,tsg hoffenheim,1.83,3000000.0,2022-2023,bundesliga
+georginio rutter,tsg hoffenheim,1.82,18000000.0,2022-2023,bundesliga
+ihlas bebou,tsg hoffenheim,1.85,7000000.0,2022-2023,bundesliga
+kasper dolberg,tsg hoffenheim,1.87,7000000.0,2022-2023,bundesliga
+munas dabbur,tsg hoffenheim,1.82,3000000.0,2022-2023,bundesliga
+fisnik asllani,tsg hoffenheim,1.91,800000.0,2022-2023,bundesliga
+frederik ronnow,fc union berlin,1.88,5500000.0,2022-2023,bundesliga
+lennart grill,fc union berlin,1.92,1000000.0,2022-2023,bundesliga
+jakob busk,fc union berlin,1.89,250000.0,2022-2023,bundesliga
+yannic stein,fc union berlin,1.9,200000.0,2022-2023,bundesliga
+danilho doekhi,fc union berlin,1.9,17000000.0,2022-2023,bundesliga
+diogo leite,fc union berlin,1.9,15000000.0,2022-2023,bundesliga
+paul jaeckel,fc union berlin,1.86,5000000.0,2022-2023,bundesliga
+robin knoche,fc union berlin,1.89,5000000.0,2022-2023,bundesliga
+timo baumgartl,fc union berlin,1.92,3000000.0,2022-2023,bundesliga
+dominique heintz,fc union berlin,1.88,1200000.0,2022-2023,bundesliga
+jerome roussillon,fc union berlin,1.75,3000000.0,2022-2023,bundesliga
+tymoteusz puchacz,fc union berlin,1.83,1200000.0,2022-2023,bundesliga
+niko gieelmann,fc union berlin,1.82,1000000.0,2022-2023,bundesliga
+julian ryerson,fc union berlin,1.83,13000000.0,2022-2023,bundesliga
+josip juranovic,fc union berlin,1.73,12000000.0,2022-2023,bundesliga
+christopher trimmel,fc union berlin,1.89,800000.0,2022-2023,bundesliga
+rani khedira,fc union berlin,1.89,10000000.0,2022-2023,bundesliga
+aljoscha kemlein,fc union berlin,1.87,250000.0,2022-2023,bundesliga
+janik haberer,fc union berlin,1.87,7000000.0,2022-2023,bundesliga
+aissa laidouni,fc union berlin,1.84,7000000.0,2022-2023,bundesliga
+morten thorsby,fc union berlin,1.88,5500000.0,2022-2023,bundesliga
+andras schafer,fc union berlin,1.78,5000000.0,2022-2023,bundesliga
+paul seguin,fc union berlin,1.86,2500000.0,2022-2023,bundesliga
+kevin mohwald,fc union berlin,1.82,600000.0,2022-2023,bundesliga
+milos pantovic,fc union berlin,1.86,1500000.0,2022-2023,bundesliga
+genki haraguchi,fc union berlin,1.78,1000000.0,2022-2023,bundesliga
+sheraldo becker,fc union berlin,1.8,17000000.0,2022-2023,bundesliga
+levin oztunali,fc union berlin,1.84,1200000.0,2022-2023,bundesliga
+sven michel,fc union berlin,1.77,900000.0,2022-2023,bundesliga
+jamie leweling,fc union berlin,1.85,3000000.0,2022-2023,bundesliga
+tim skarke,fc union berlin,1.81,1200000.0,2022-2023,bundesliga
+tim maciejewski,fc union berlin,1.86,350000.0,2022-2023,bundesliga
+jordan,fc union berlin,1.91,7000000.0,2022-2023,bundesliga
+kevin behrens,fc union berlin,1.85,2000000.0,2022-2023,bundesliga
+andreas voglsammer,fc union berlin,1.78,800000.0,2022-2023,bundesliga
+malick sanogo,fc union berlin,1.85,,2022-2023,bundesliga
+florian muller,vfb stuttgart,1.9,1500000.0,2022-2023,bundesliga
+fabian bredlow,vfb stuttgart,1.9,1500000.0,2022-2023,bundesliga
+dennis seimen,vfb stuttgart,1.92,200000.0,2022-2023,bundesliga
+florian schock,vfb stuttgart,2.0,200000.0,2022-2023,bundesliga
+nicolas glaus,vfb stuttgart,1.87,125000.0,2022-2023,bundesliga
+konstantinos mavropanos,vfb stuttgart,1.94,15000000.0,2022-2023,bundesliga
+hiroki ito,vfb stuttgart,1.88,10000000.0,2022-2023,bundesliga
+waldemar anton,vfb stuttgart,1.89,4500000.0,2022-2023,bundesliga
+danaxel zagadou,vfb stuttgart,1.96,2500000.0,2022-2023,bundesliga
+clinton mola,vfb stuttgart,1.84,500000.0,2022-2023,bundesliga
+leon reichardt,vfb stuttgart,1.9,,2022-2023,bundesliga
+borna sosa,vfb stuttgart,1.87,12000000.0,2022-2023,bundesliga
+josha vagnoman,vfb stuttgart,1.9,8000000.0,2022-2023,bundesliga
+pascal stenzel,vfb stuttgart,1.83,1500000.0,2022-2023,bundesliga
+antonis aidonis,vfb stuttgart,1.86,350000.0,2022-2023,bundesliga
+mattis hoppe,vfb stuttgart,1.79,150000.0,2022-2023,bundesliga
+wataru endo,vfb stuttgart,1.78,6500000.0,2022-2023,bundesliga
+atakan karazor,vfb stuttgart,1.91,4000000.0,2022-2023,bundesliga
+luca bazzoli,vfb stuttgart,1.88,225000.0,2022-2023,bundesliga
+naouirou ahamada,vfb stuttgart,1.83,10000000.0,2022-2023,bundesliga
+nikolas nartey,vfb stuttgart,1.86,1500000.0,2022-2023,bundesliga
+enzo millot,vfb stuttgart,1.75,7000000.0,2022-2023,bundesliga
+lilian egloff,vfb stuttgart,1.82,1500000.0,2022-2023,bundesliga
+mateo klimowicz,vfb stuttgart,1.81,1200000.0,2022-2023,bundesliga
+genki haraguchi,vfb stuttgart,1.78,1000000.0,2022-2023,bundesliga
+omer beyaz,vfb stuttgart,1.71,700000.0,2022-2023,bundesliga
+laurin ulrich,vfb stuttgart,1.8,500000.0,2022-2023,bundesliga
+chris fuhrich,vfb stuttgart,1.81,4000000.0,2022-2023,bundesliga
+darko churlinov,vfb stuttgart,1.8,2200000.0,2022-2023,bundesliga
+silas,vfb stuttgart,1.89,8000000.0,2022-2023,bundesliga
+tanguy coulibaly,vfb stuttgart,1.79,2500000.0,2022-2023,bundesliga
+gil dias,vfb stuttgart,1.86,1500000.0,2022-2023,bundesliga
+sasa kalajdzic,vfb stuttgart,2.0,15000000.0,2022-2023,bundesliga
+serhou guirassy,vfb stuttgart,1.87,14000000.0,2022-2023,bundesliga
+tiago tomas,vfb stuttgart,1.8,7000000.0,2022-2023,bundesliga
+juan jose perea,vfb stuttgart,1.84,2000000.0,2022-2023,bundesliga
+luca pfeiffer,vfb stuttgart,1.96,1700000.0,2022-2023,bundesliga
+thomas kastanaras,vfb stuttgart,1.86,700000.0,2022-2023,bundesliga
+alou kuol,vfb stuttgart,1.81,300000.0,2022-2023,bundesliga
+robin zentner,fsv mainz,1.95,5000000.0,2022-2023,bundesliga
+finn dahmen,fsv mainz,1.86,2500000.0,2022-2023,bundesliga
+lasse rie,fsv mainz,1.92,200000.0,2022-2023,bundesliga
+andreas hancheolsen,fsv mainz,1.85,7500000.0,2022-2023,bundesliga
+dominik kohr,fsv mainz,1.83,3500000.0,2022-2023,bundesliga
+alexander hack,fsv mainz,1.93,2500000.0,2022-2023,bundesliga
+maxim leitsch,fsv mainz,1.89,2000000.0,2022-2023,bundesliga
+stefan bell,fsv mainz,1.92,2000000.0,2022-2023,bundesliga
+danny da costa,fsv mainz,1.87,1800000.0,2022-2023,bundesliga
+philipp schulz,fsv mainz,1.9,300000.0,2022-2023,bundesliga
+lucas laux,fsv mainz,1.83,175000.0,2022-2023,bundesliga
+aaron martin,fsv mainz,1.78,7000000.0,2022-2023,bundesliga
+anderson lucoqui,fsv mainz,1.81,600000.0,2022-2023,bundesliga
+anthony caci,fsv mainz,1.84,8500000.0,2022-2023,bundesliga
+silvan widmer,fsv mainz,1.83,3500000.0,2022-2023,bundesliga
+anton stach,fsv mainz,1.94,15000000.0,2022-2023,bundesliga
+edimilson fernandes,fsv mainz,1.87,5500000.0,2022-2023,bundesliga
+niklas tauer,fsv mainz,1.83,1200000.0,2022-2023,bundesliga
+leandro barreiro,fsv mainz,1.74,14000000.0,2022-2023,bundesliga
+merveille papela,fsv mainz,1.74,1000000.0,2022-2023,bundesliga
+eniss shabani,fsv mainz,1.8,200000.0,2022-2023,bundesliga
+angelo fulgini,fsv mainz,1.82,9000000.0,2022-2023,bundesliga
+jaesung lee,fsv mainz,1.8,4000000.0,2022-2023,bundesliga
+aymen barkok,fsv mainz,1.89,2000000.0,2022-2023,bundesliga
+delano burgzorg,fsv mainz,1.86,1500000.0,2022-2023,bundesliga
+kaito mizuta,fsv mainz,1.82,225000.0,2022-2023,bundesliga
+brajan gruda,fsv mainz,1.78,500000.0,2022-2023,bundesliga
+jonathan burkardt,fsv mainz,1.83,10000000.0,2022-2023,bundesliga
+ludovic ajorque,fsv mainz,1.96,9000000.0,2022-2023,bundesliga
+marcus ingvartsen,fsv mainz,1.87,5500000.0,2022-2023,bundesliga
+nelson weiper,fsv mainz,1.92,5000000.0,2022-2023,bundesliga
+karim onisiwo,fsv mainz,1.88,3500000.0,2022-2023,bundesliga
+marlon mustapha,fsv mainz,1.85,1000000.0,2022-2023,bundesliga
+ben bobzien,fsv mainz,1.74,600000.0,2022-2023,bundesliga
+tomas koubek,fc augsburg,1.97,1000000.0,2022-2023,bundesliga
+rafal gikiewicz,fc augsburg,1.9,900000.0,2022-2023,bundesliga
+daniel klein,fc augsburg,1.93,300000.0,2022-2023,bundesliga
+benjamin leneis,fc augsburg,1.95,100000.0,2022-2023,bundesliga
+felix uduokhai,fc augsburg,1.93,8500000.0,2022-2023,bundesliga
+reece oxford,fc augsburg,1.9,5500000.0,2022-2023,bundesliga
+maximilian bauer,fc augsburg,1.89,3500000.0,2022-2023,bundesliga
+jeffrey gouweleeuw,fc augsburg,1.88,3000000.0,2022-2023,bundesliga
+frederik winther,fc augsburg,1.9,1000000.0,2022-2023,bundesliga
+renato veiga,fc augsburg,1.9,1000000.0,2022-2023,bundesliga
+felix gotze,fc augsburg,1.85,400000.0,2022-2023,bundesliga
+daniel katic,fc augsburg,1.85,125000.0,2022-2023,bundesliga
+iago,fc augsburg,1.81,5500000.0,2022-2023,bundesliga
+mads pedersen,fc augsburg,1.78,3500000.0,2022-2023,bundesliga
+david colina,fc augsburg,1.74,1500000.0,2022-2023,bundesliga
+robert gumny,fc augsburg,1.82,3500000.0,2022-2023,bundesliga
+raphael framberger,fc augsburg,1.79,800000.0,2022-2023,bundesliga
+niklas dorsch,fc augsburg,1.78,7000000.0,2022-2023,bundesliga
+carlos gruezo,fc augsburg,1.72,3000000.0,2022-2023,bundesliga
+tobias strobl,fc augsburg,1.88,500000.0,2022-2023,bundesliga
+julian baumgartlinger,fc augsburg,1.84,400000.0,2022-2023,bundesliga
+arne engels,fc augsburg,1.85,7500000.0,2022-2023,bundesliga
+arne maier,fc augsburg,1.86,6500000.0,2022-2023,bundesliga
+elvis rexhbecaj,fc augsburg,1.82,3500000.0,2022-2023,bundesliga
+aaron zehnter,fc augsburg,1.8,300000.0,2022-2023,bundesliga
+fredrik jensen,fc augsburg,1.83,2500000.0,2022-2023,bundesliga
+josue mbila,fc augsburg,1.75,100000.0,2022-2023,bundesliga
+mert komur,fc augsburg,1.83,,2022-2023,bundesliga
+ruben vargas,fc augsburg,1.79,6500000.0,2022-2023,bundesliga
+nathanael mbuku,fc augsburg,1.7,3000000.0,2022-2023,bundesliga
+andre hahn,fc augsburg,1.85,1200000.0,2022-2023,bundesliga
+lukas petkov,fc augsburg,1.83,800000.0,2022-2023,bundesliga
+noah sarenren bazee,fc augsburg,1.83,600000.0,2022-2023,bundesliga
+daniel caligiuri,fc augsburg,1.82,600000.0,2022-2023,bundesliga
+ermedin demirovic,fc augsburg,1.85,12000000.0,2022-2023,bundesliga
+mergim berisha,fc augsburg,1.88,12000000.0,2022-2023,bundesliga
+ricardo pepi,fc augsburg,1.85,9000000.0,2022-2023,bundesliga
+dion beljo,fc augsburg,1.95,6500000.0,2022-2023,bundesliga
+kelvin yeboah,fc augsburg,1.85,3500000.0,2022-2023,bundesliga
+irvin cardona,fc augsburg,1.85,2500000.0,2022-2023,bundesliga
+maurice malone,fc augsburg,1.87,1800000.0,2022-2023,bundesliga
+florian niederlechner,fc augsburg,1.87,800000.0,2022-2023,bundesliga
+marvin schwabe,fc koln,1.9,7000000.0,2022-2023,bundesliga
+jonas urbig,fc koln,1.89,1500000.0,2022-2023,bundesliga
+timo horn,fc koln,1.92,1500000.0,2022-2023,bundesliga
+julian roloff,fc koln,1.92,100000.0,2022-2023,bundesliga
+matthias kobbing,fc koln,1.96,100000.0,2022-2023,bundesliga
+timo hubers,fc koln,1.9,8500000.0,2022-2023,bundesliga
+jeff chabot,fc koln,1.95,5500000.0,2022-2023,bundesliga
+luca kilian,fc koln,1.92,3500000.0,2022-2023,bundesliga
+nikola soldo,fc koln,1.89,1500000.0,2022-2023,bundesliga
+elias bakatukanda,fc koln,1.93,250000.0,2022-2023,bundesliga
+rijad smajic,fc koln,1.9,150000.0,2022-2023,bundesliga
+jonas hector,fc koln,1.85,3500000.0,2022-2023,bundesliga
+kristian pedersen,fc koln,1.89,1200000.0,2022-2023,bundesliga
+benno schmitz,fc koln,1.82,3000000.0,2022-2023,bundesliga
+kingsley ehizibue,fc koln,1.89,2500000.0,2022-2023,bundesliga
+ellyes skhiri,fc koln,1.85,13000000.0,2022-2023,bundesliga
+dejan ljubicic,fc koln,1.87,10000000.0,2022-2023,bundesliga
+eric martel,fc koln,1.88,9000000.0,2022-2023,bundesliga
+mathias olesen,fc koln,1.88,1200000.0,2022-2023,bundesliga
+georg strauch,fc koln,1.77,200000.0,2022-2023,bundesliga
+denis huseinbasic,fc koln,1.84,5000000.0,2022-2023,bundesliga
+ondrej duda,fc koln,1.8,3400000.0,2022-2023,bundesliga
+florian kainz,fc koln,1.76,5000000.0,2022-2023,bundesliga
+joshua schwirten,fc koln,1.82,200000.0,2022-2023,bundesliga
+linton maina,fc koln,1.8,6000000.0,2022-2023,bundesliga
+justin diehl,fc koln,1.74,500000.0,2022-2023,bundesliga
+jan thielmann,fc koln,1.78,6500000.0,2022-2023,bundesliga
+dimitrios limnios,fc koln,1.78,2000000.0,2022-2023,bundesliga
+kingsley schindler,fc koln,1.83,1000000.0,2022-2023,bundesliga
+steffen tigges,fc koln,1.94,3500000.0,2022-2023,bundesliga
+davie selke,fc koln,1.95,2500000.0,2022-2023,bundesliga
+mark uth,fc koln,1.85,1500000.0,2022-2023,bundesliga
+tim lemperle,fc koln,1.87,1500000.0,2022-2023,bundesliga
+sargis adamyan,fc koln,1.84,1000000.0,2022-2023,bundesliga
+florian dietz,fc koln,1.9,1000000.0,2022-2023,bundesliga
+anthony modeste,fc koln,1.88,700000.0,2022-2023,bundesliga
+sebastian andersson,fc koln,1.9,700000.0,2022-2023,bundesliga
+damion downs,fc koln,1.92,250000.0,2022-2023,bundesliga
+maximilian schmid,fc koln,1.84,200000.0,2022-2023,bundesliga
+jiri pavlenka,sv werder bremen,1.96,3000000.0,2022-2023,bundesliga
+michael zetterer,sv werder bremen,1.87,500000.0,2022-2023,bundesliga
+mio backhaus,sv werder bremen,1.94,300000.0,2022-2023,bundesliga
+dudu,sv werder bremen,1.96,200000.0,2022-2023,bundesliga
+louis lord,sv werder bremen,1.9,150000.0,2022-2023,bundesliga
+marco friedl,sv werder bremen,1.87,7000000.0,2022-2023,bundesliga
+amos pieper,sv werder bremen,1.92,6000000.0,2022-2023,bundesliga
+niklas stark,sv werder bremen,1.9,5500000.0,2022-2023,bundesliga
+milos veljkovic,sv werder bremen,1.88,5500000.0,2022-2023,bundesliga
+anthony jung,sv werder bremen,1.86,1500000.0,2022-2023,bundesliga
+fabio chiarodia,sv werder bremen,1.86,1000000.0,2022-2023,bundesliga
+tim dietrich,sv werder bremen,1.9,200000.0,2022-2023,bundesliga
+lee buchanan,sv werder bremen,1.79,3500000.0,2022-2023,bundesliga
+felix agu,sv werder bremen,1.8,1000000.0,2022-2023,bundesliga
+mitchell weiser,sv werder bremen,1.77,6000000.0,2022-2023,bundesliga
+jean manuel mbom,sv werder bremen,1.85,800000.0,2022-2023,bundesliga
+ilia gruev,sv werder bremen,1.85,3000000.0,2022-2023,bundesliga
+nicolai rapp,sv werder bremen,1.86,700000.0,2022-2023,bundesliga
+christian gro,sv werder bremen,1.82,500000.0,2022-2023,bundesliga
+tom berger,sv werder bremen,1.84,200000.0,2022-2023,bundesliga
+jens stage,sv werder bremen,1.87,5000000.0,2022-2023,bundesliga
+leonardo bittencourt,sv werder bremen,1.71,2800000.0,2022-2023,bundesliga
+niklas schmidt,sv werder bremen,1.84,2500000.0,2022-2023,bundesliga
+dikeni salifou,sv werder bremen,1.91,200000.0,2022-2023,bundesliga
+romano schmid,sv werder bremen,1.68,4500000.0,2022-2023,bundesliga
+leon opitz,sv werder bremen,1.83,,2022-2023,bundesliga
+eren dinkci,sv werder bremen,1.88,1000000.0,2022-2023,bundesliga
+benjamin goller,sv werder bremen,1.8,450000.0,2022-2023,bundesliga
+maximilian philipp,sv werder bremen,1.83,2000000.0,2022-2023,bundesliga
+nick woltemade,sv werder bremen,1.98,1500000.0,2022-2023,bundesliga
+niclas fullkrug,sv werder bremen,1.89,13000000.0,2022-2023,bundesliga
+marvin ducksch,sv werder bremen,1.88,7500000.0,2022-2023,bundesliga
+oliver burke,sv werder bremen,1.88,2500000.0,2022-2023,bundesliga

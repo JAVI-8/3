@@ -1,610 +1,610 @@
-nombre,Posicion,nacido,partidos_jugados,titularidades,minutos_jugados,goles,asistencias,amarillas,rojas,carreras_progresivas,pases_progresivos,Pases_progresivos_recibidos,temporada,liga
-nabil aberdin,DF,2002,2,2,180,0,0,0,0,0,7,0,2023-2024,laliga
-abner,DF,2000,23,15,1400,0,1,3,0,14,33,58,2023-2024,laliga
-abdel abqar,DF,1999,27,27,2312,0,0,10,0,7,49,1,2023-2024,laliga
-marcos acuña,DF,1991,21,18,1292,1,2,7,0,23,59,42,2023-2024,laliga
-julen agirrezabala,GK,2000,4,2,238,0,0,0,0,0,0,0,2023-2024,laliga
-lucien agoume,MF,2002,12,9,777,0,0,3,0,7,35,9,2023-2024,laliga
-joseph aidoo,DF,1995,6,4,407,0,0,0,0,2,12,0,2023-2024,laliga
-ilias akhomach,"MF,FW",2004,31,17,1511,2,2,4,0,68,45,160,2023-2024,laliga
-sergio akieme,DF,1997,19,19,1675,2,0,2,0,27,28,72,2023-2024,laliga
-paul akouokou,MF,1997,2,0,27,0,0,0,0,0,1,0,2023-2024,laliga
-david alaba,DF,1992,14,14,1154,0,1,2,0,9,51,13,2023-2024,laliga
-raúl albiol,DF,1985,26,24,2031,0,1,6,0,8,62,0,2023-2024,laliga
-rubén alcaraz,MF,1991,36,36,3134,3,1,14,0,27,154,37,2023-2024,laliga
-omar alderete,DF,1996,31,24,2195,0,1,8,1,23,98,9,2023-2024,laliga
-iván alejo,MF,1995,30,21,1692,0,2,17,0,48,31,104,2023-2024,laliga
-carles aleñá,MF,1998,29,10,1020,1,1,6,0,12,23,45,2023-2024,laliga
-mohamed ali cho,"FW,MF",2004,11,1,249,0,0,0,0,16,3,19,2023-2024,laliga
-tadeo allende,"MF,FW",1999,10,2,336,1,0,1,0,9,7,25,2023-2024,laliga
-domingos andré ribeiro almeida,"FW,MF",2000,18,12,965,2,1,0,0,24,50,33,2023-2024,laliga
-marcos alonso,DF,1990,5,3,252,0,0,0,0,11,14,33,2023-2024,laliga
-adrià altimira,"DF,MF",2001,11,10,775,0,0,3,0,10,29,15,2023-2024,laliga
-sergi altimira,MF,2001,14,6,568,1,0,1,0,10,31,8,2023-2024,laliga
-gastón álvarez,DF,2000,34,29,2537,2,0,7,0,11,63,40,2023-2024,laliga
-hugo álvarez,"MF,DF",2003,12,8,762,1,1,1,0,36,34,80,2023-2024,laliga
-yeray álvarez,DF,1995,19,14,1152,0,0,1,1,13,55,2,2023-2024,laliga
-selim amallah,"FW,MF",1996,20,7,604,0,1,5,1,7,21,36,2023-2024,laliga
-amath,"FW,MF",1996,15,3,394,0,0,2,0,19,13,30,2023-2024,laliga
-miguel ángel rubio,DF,1998,19,17,1560,1,0,5,0,7,27,1,2023-2024,laliga
-fabrizio angileri,"DF,MF",1994,11,2,164,0,0,2,1,2,7,6,2023-2024,laliga
-mauro arambarri,MF,1995,7,3,339,0,0,2,0,2,20,6,2023-2024,laliga
-jon aramburu,DF,2002,11,5,543,0,0,3,0,6,26,25,2023-2024,laliga
-julian araujo,DF,2001,25,15,1462,1,0,5,0,23,74,47,2023-2024,laliga
-ronald araújo,DF,1999,25,21,1997,1,2,6,0,24,101,11,2023-2024,laliga
-adu ares,FW,2001,12,2,265,0,0,2,0,13,3,39,2023-2024,laliga
-jesús areso,DF,1999,37,29,2660,1,6,3,0,78,106,180,2023-2024,laliga
-matias arezo,FW,2002,14,3,369,0,0,1,0,6,5,17,2023-2024,laliga
-iñigo arguibide,DF,2005,1,0,17,0,0,0,0,0,0,0,2023-2024,laliga
-josé arnaiz,"FW,MF",1995,26,9,929,2,1,3,0,23,11,85,2023-2024,laliga
-sergio arribas,"MF,FW",2001,34,22,2047,9,4,1,0,56,81,94,2023-2024,laliga
-kepa arrizabalaga,GK,1994,14,13,1198,0,0,1,0,0,0,0,2023-2024,laliga
-iago aspas,FW,1987,35,31,2707,9,10,6,1,84,161,202,2023-2024,laliga
-ezequiel ávila,"FW,MF",1994,17,10,864,1,3,3,2,14,39,75,2023-2024,laliga
-ezequiel ávila,FW,1994,6,4,298,1,0,4,1,7,6,31,2023-2024,laliga
-césar azpilicueta,DF,1989,25,14,1423,0,2,4,0,39,77,39,2023-2024,laliga
-iddrisu baba,MF,1996,25,14,1430,0,0,5,0,1,60,5,2023-2024,laliga
-srđan babić,DF,1996,1,1,90,0,0,0,0,1,6,0,2023-2024,laliga
-loïc bade,DF,2000,28,27,2277,0,1,5,1,15,76,3,2023-2024,laliga
-alex baena,"MF,FW",2001,34,33,2579,2,14,11,1,84,165,181,2023-2024,laliga
-eric bailly,DF,1994,10,9,839,0,0,4,0,3,18,1,2023-2024,laliga
-cédric bakambu,FW,1991,4,2,194,0,0,1,0,5,4,12,2023-2024,laliga
-alejandro balde,DF,2003,18,15,1378,0,1,1,0,73,41,141,2023-2024,laliga
-iván balliu,DF,1992,33,32,2873,0,1,4,0,50,98,100,2023-2024,laliga
-jonathan bamba,"MF,FW",1996,27,24,1981,3,2,0,0,107,80,169,2023-2024,laliga
-léo baptistão,FW,1992,32,22,1837,6,0,6,1,26,45,88,2023-2024,laliga
-kike barja,"FW,MF",1997,16,3,303,0,0,3,0,17,8,41,2023-2024,laliga
-ander barrenetxea,"FW,MF",2001,29,20,1427,4,1,1,0,56,39,163,2023-2024,laliga
-pablo barrios,MF,2003,24,17,1555,0,1,5,0,37,98,56,2023-2024,laliga
-marc bartra,DF,1991,3,3,225,0,0,1,0,2,5,0,2023-2024,laliga
-augusto batalla,GK,1996,17,17,1530,0,0,3,0,0,1,1,2023-2024,laliga
-bebé,"MF,FW",1990,19,0,212,2,0,1,0,17,6,24,2023-2024,laliga
-sheraldo becker,"FW,MF",1995,15,8,771,2,2,1,0,28,13,87,2023-2024,laliga
-héctor bellerín,DF,1995,23,20,1711,0,1,0,1,32,81,80,2023-2024,laliga
-jude bellingham,MF,2003,28,27,2315,19,6,5,1,85,196,177,2023-2024,laliga
-fran beltrán,MF,1999,33,28,2428,0,0,2,0,28,134,30,2023-2024,laliga
-carlos benavídez,MF,1998,29,10,1136,3,1,5,0,9,60,5,2023-2024,laliga
-yuri berchiche,DF,1990,27,22,1930,3,1,5,0,36,132,77,2023-2024,laliga
-álex berenguer,FW,1995,35,15,1592,7,3,4,0,61,30,143,2023-2024,laliga
-antonio blanco,MF,2000,33,29,2426,0,1,5,1,20,133,22,2023-2024,laliga
-daley blind,DF,1990,34,33,2972,1,2,6,0,48,209,22,2023-2024,laliga
-adri bosch,DF,2001,1,0,26,0,0,0,0,1,1,1,2023-2024,laliga
-yassine bounou,GK,1991,1,1,90,0,0,0,0,0,0,0,2023-2024,laliga
-lucas boyé,FW,1996,31,30,2541,6,3,8,1,36,65,131,2023-2024,laliga
-darko brašanac,MF,1992,2,0,48,0,0,0,0,2,1,3,2023-2024,laliga
-brau,DF,2001,1,0,31,0,0,0,0,2,0,0,2023-2024,laliga
-claudio bravo,GK,1983,7,7,630,0,0,0,0,0,1,0,2023-2024,laliga
-ben brereton,"FW,MF",1999,14,2,270,0,0,2,0,6,14,35,2023-2024,laliga
-ante budimir,FW,1991,33,29,2435,17,2,4,0,21,42,99,2023-2024,laliga
-manu bueno,MF,2004,4,1,117,0,0,1,0,1,3,1,2023-2024,laliga
-pablo busto,DF,2005,2,0,44,0,0,0,0,1,1,1,2023-2024,laliga
-josé callejón,"MF,FW",1987,25,7,803,0,1,2,0,10,35,50,2023-2024,laliga
-eduardo camavinga,"MF,DF",2002,31,21,1817,0,2,9,0,49,106,31,2023-2024,laliga
-sergio camello,FW,2001,31,20,1661,3,1,3,0,22,41,79,2023-2024,laliga
-josé campaña,MF,1993,8,1,171,0,0,0,0,1,15,4,2023-2024,laliga
-joão cancelo,DF,1994,32,29,2503,2,4,7,0,106,141,193,2023-2024,laliga
-sergi canós,"MF,FW",1997,27,15,1229,1,2,1,0,32,52,88,2023-2024,laliga
-étienne capoue,MF,1988,32,15,1455,1,1,8,0,24,80,38,2023-2024,laliga
-isaac carcelen,DF,1993,35,29,2611,0,0,2,0,25,75,70,2023-2024,laliga
-dani cárdenas,GK,1997,1,1,90,0,0,0,0,0,0,0,2023-2024,laliga
-marc cardona,FW,1995,26,6,737,4,1,4,0,10,13,74,2023-2024,laliga
-sergi cardona,DF,1999,35,30,2814,1,2,11,0,60,160,165,2023-2024,laliga
-johnny cardoso,MF,2001,17,15,1328,1,2,3,0,10,45,11,2023-2024,laliga
-carmona,"DF,MF",2002,30,15,1313,1,1,8,0,29,39,55,2023-2024,laliga
-yannick carrasco,DF,1993,3,3,221,0,1,0,0,9,6,17,2023-2024,laliga
-álvaro carreras,"MF,FW",2003,13,5,475,0,0,1,0,13,14,31,2023-2024,laliga
-dani carvajal,DF,1992,28,25,2171,4,3,5,1,30,82,168,2023-2024,laliga
-william carvalho,MF,1992,22,4,680,1,3,2,0,12,58,12,2023-2024,laliga
-marc casado,MF,2003,2,0,15,0,0,0,0,1,1,0,2023-2024,laliga
-catena,DF,1994,30,28,2534,1,3,8,1,5,77,1,2023-2024,laliga
-dani ceballos,"MF,FW",1996,20,5,598,0,2,2,0,16,47,23,2023-2024,laliga
-álex centelles,DF,1997,14,11,980,0,1,2,0,16,31,53,2023-2024,laliga
-franco cervi,"MF,DF",1994,17,5,546,0,1,2,0,16,24,36,2023-2024,laliga
-pep chavarría,"DF,MF",1998,22,12,1167,1,1,6,1,28,74,84,2023-2024,laliga
-andreas christensen,"DF,MF",1996,30,27,1979,2,2,4,0,24,117,6,2023-2024,laliga
-chumi,DF,1999,31,26,2434,0,1,4,0,11,68,4,2023-2024,laliga
-víctor chust,DF,2000,22,22,1864,0,1,3,2,10,80,2,2023-2024,laliga
-pathé ciss,MF,1994,31,16,1664,1,0,10,0,14,84,22,2023-2024,laliga
-silvi clúa,MF,2005,1,0,1,0,0,0,0,0,0,0,2023-2024,laliga
-saúl coco,DF,1999,30,26,2295,1,0,6,1,9,69,1,2023-2024,laliga
-santi comesaña,MF,1996,27,20,1653,2,0,8,2,23,92,48,2023-2024,laliga
-copete,DF,1999,19,17,1333,1,1,7,0,3,52,2,2023-2024,laliga
-francis coquelin,MF,1991,17,10,910,0,0,4,0,5,47,14,2023-2024,laliga
-theo corbeanu,"MF,FW",2002,9,2,182,1,0,2,0,5,5,13,2023-2024,laliga
-jesús corona,"MF,DF",1993,2,0,17,0,0,0,0,0,0,4,2023-2024,laliga
-ángel correa,"FW,MF",1995,32,14,1528,9,2,3,0,40,61,128,2023-2024,laliga
-thierry correia,DF,1999,31,25,2154,0,2,4,1,40,80,56,2023-2024,laliga
-jaume costa,DF,1988,30,19,1682,0,1,7,0,34,50,104,2023-2024,laliga
-samu costa,MF,2000,34,26,2303,1,1,8,0,16,93,32,2023-2024,laliga
-thibaut courtois,GK,1992,4,4,332,0,0,0,0,0,0,0,2023-2024,laliga
-yan couto,"DF,FW",2002,34,24,2245,1,8,8,0,151,97,240,2023-2024,laliga
-crespo,MF,1996,15,4,527,0,0,4,0,13,30,20,2023-2024,laliga
-cristian,GK,1998,1,0,57,0,0,0,0,0,0,0,2023-2024,laliga
-juan cruz armada,DF,1992,26,18,1667,0,1,3,0,16,77,29,2023-2024,laliga
-juan cruz,FW,2000,5,0,76,0,0,0,0,2,3,10,2023-2024,laliga
-pau cubarsí,DF,2007,19,18,1558,0,0,4,0,8,75,2,2023-2024,laliga
-iván cuéllar,GK,1984,1,1,90,0,0,0,0,0,0,0,2023-2024,laliga
-jorge cuenca,DF,1999,29,21,1963,3,1,7,0,11,78,30,2023-2024,laliga
-eric curbelo,"DF,MF",1994,2,1,102,0,0,0,0,0,4,0,2023-2024,laliga
-alberto dadie,MF,2002,1,0,28,0,0,0,0,0,0,0,2023-2024,laliga
-sergi darder,MF,1993,36,21,2157,2,5,4,0,56,132,75,2023-2024,laliga
-rodrigo de paul,MF,1994,34,25,2075,3,5,7,0,73,202,55,2023-2024,laliga
-mouctar diakhaby,"DF,MF",1996,14,12,1073,1,0,6,0,7,29,1,2023-2024,laliga
-moussa diakité,MF,2003,1,0,1,0,0,0,0,0,0,0,2023-2024,laliga
-assane diao,FW,2005,18,13,1048,2,0,4,0,33,20,101,2023-2024,laliga
-brahim díaz,"FW,MF",1999,31,18,1545,8,6,0,0,76,75,166,2023-2024,laliga
-víctor díaz,"DF,MF",1988,4,2,162,0,0,1,0,0,2,0,2023-2024,laliga
-famara diedhiou,"FW,MF",1992,8,0,89,0,1,1,0,5,0,19,2023-2024,laliga
-stole dimitrievski,GK,1993,37,37,3330,0,0,2,0,0,0,0,2023-2024,laliga
-djené,"DF,MF",1991,33,30,2484,0,0,14,1,13,98,19,2023-2024,laliga
-marko dmitrović,GK,1992,13,13,1170,0,0,1,0,0,1,0,2023-2024,laliga
-jaume doménech,GK,1990,2,1,79,0,0,0,0,0,0,0,2023-2024,laliga
-carlos dominguez,DF,2001,22,18,1584,0,0,2,0,11,63,3,2023-2024,laliga
-mario dominguez,FW,2004,3,0,25,0,0,0,0,0,1,1,2023-2024,laliga
-carlos dotor,MF,2001,17,7,708,0,0,2,0,3,30,12,2023-2024,laliga
-anastasios douvikas,FW,1999,32,7,905,7,1,2,0,10,13,53,2023-2024,laliga
-artem dovbyk,FW,1997,36,32,2587,24,8,2,0,18,26,118,2023-2024,laliga
-domingos duarte,DF,1995,15,11,907,0,0,5,2,7,47,0,2023-2024,laliga
-rubén duarte,DF,1995,28,21,1878,2,1,7,0,16,81,39,2023-2024,laliga
-hugo duro,FW,1999,37,35,2976,13,2,4,0,27,34,157,2023-2024,laliga
-aritz elustondo,DF,1994,15,7,812,0,1,2,0,4,31,2,2023-2024,laliga
-adri embarba,"FW,MF",1992,36,29,2476,3,2,5,0,94,58,167,2023-2024,laliga
-youssef en-nesyri,FW,1997,33,28,2570,16,2,4,0,17,17,81,2023-2024,laliga
-gonzalo escalante,MF,1993,25,18,1697,1,2,2,1,4,66,14,2023-2024,laliga
-aarón escandell,GK,1995,2,1,153,0,0,0,1,0,0,0,2023-2024,laliga
-alfonso espino,DF,1992,31,29,2507,0,1,9,0,41,113,89,2023-2024,laliga
-bernardo espinosa,DF,1989,2,0,2,0,0,0,0,0,0,0,2023-2024,laliga
-karl etta,FW,2003,1,0,21,0,0,0,0,0,0,1,2023-2024,laliga
-abde ezzalzouli,"FW,MF",2001,2,0,68,0,0,0,0,7,1,12,2023-2024,laliga
-abde ezzalzouli,FW,2001,26,6,865,1,0,1,0,57,25,89,2023-2024,laliga
-radamel falcao,"FW,DF",1986,22,2,407,1,0,4,0,7,7,23,2023-2024,laliga
-fali,DF,1993,30,30,2547,0,0,12,0,16,82,10,2023-2024,laliga
-ansu fati,"MF,FW",2002,3,0,50,0,0,0,0,6,4,5,2023-2024,laliga
-nabil fekir,"MF,FW",1993,19,10,1049,1,2,1,0,32,67,77,2023-2024,laliga
-luiz felipe,DF,1997,4,4,360,0,0,1,0,0,4,0,2023-2024,laliga
-joão félix,FW,1999,30,18,1540,7,3,3,0,69,68,169,2023-2024,laliga
-kiko femenía,DF,1991,23,16,1583,0,0,8,1,46,100,45,2023-2024,laliga
-aitor fernández,GK,1991,7,6,551,0,0,2,0,0,1,0,2023-2024,laliga
-álex fernández,MF,1992,26,14,1285,0,1,3,0,11,52,26,2023-2024,laliga
-carlos fernández,FW,1996,10,5,408,2,1,3,0,5,4,13,2023-2024,laliga
-raúl fernández,GK,1988,4,4,280,0,0,0,0,0,0,0,2023-2024,laliga
-valery fernández,"MF,FW",1999,27,2,506,2,0,1,0,20,12,54,2023-2024,laliga
-fernando,GK,1990,4,4,360,0,0,0,0,0,0,0,2023-2024,laliga
-fernando,MF,1987,8,5,459,0,0,0,0,5,24,7,2023-2024,laliga
-andré ferreira,GK,1996,15,14,1340,0,0,1,0,0,0,0,2023-2024,laliga
-rachad fettal,FW,2005,1,0,17,0,0,0,0,0,0,2,2023-2024,laliga
-pablo fornals,"FW,MF",1996,15,14,1148,3,2,2,0,37,89,82,2023-2024,laliga
-héctor fort,DF,2006,7,4,318,0,2,0,0,3,7,38,2023-2024,laliga
-dimitri foulquier,"DF,MF",1993,33,19,1842,0,0,3,0,42,72,64,2023-2024,laliga
-juan foyth,DF,1998,12,12,1062,1,1,1,0,19,51,28,2023-2024,laliga
-jorge de frutos,"FW,MF",1997,36,14,1549,2,0,1,0,42,40,144,2023-2024,laliga
-daniel fuzato,GK,1997,1,0,7,0,0,0,0,0,0,0,2023-2024,laliga
-matteo gabbia,DF,1999,7,6,477,0,0,2,0,1,9,0,2023-2024,laliga
-javi galán,DF,1994,5,0,88,0,0,1,0,3,4,13,2023-2024,laliga
-javi galán,DF,1994,14,13,1075,0,1,3,0,46,45,70,2023-2024,laliga
-iñigo ruiz de galarreta,MF,1993,29,25,2091,1,1,7,0,26,147,36,2023-2024,laliga
-aleix garcía,MF,1997,37,36,3199,3,6,4,1,58,294,52,2023-2024,laliga
-álvaro garcía,"FW,MF",1992,32,30,2475,6,1,8,1,56,63,252,2023-2024,laliga
-dani garcía,MF,1990,17,7,745,1,0,4,0,3,36,4,2023-2024,laliga
-david garcía,DF,1994,27,27,2334,0,1,5,0,21,133,4,2023-2024,laliga
-eric garcía,DF,2001,2,0,57,0,0,1,0,0,5,0,2023-2024,laliga
-eric garcía,DF,2001,30,30,2637,5,0,4,0,45,221,18,2023-2024,laliga
-fran garcia,DF,1999,25,15,1398,1,5,2,0,53,60,139,2023-2024,laliga
-gonzalo garcía,"FW,MF",2004,2,0,19,0,0,0,0,1,0,3,2023-2024,laliga
-jastin garcía,FW,2004,3,0,32,0,0,0,0,2,2,8,2023-2024,laliga
-raúl garcía,"FW,MF",1986,20,1,420,1,0,3,0,4,19,15,2023-2024,laliga
-rubén garcía,"FW,MF",1993,30,19,1547,3,2,1,0,16,59,117,2023-2024,laliga
-santiago garcía,FW,2001,1,0,25,0,0,0,0,1,2,1,2023-2024,laliga
-unai garcía,DF,1992,9,6,560,1,0,6,1,2,12,1,2023-2024,laliga
-yarek gasiorowski,DF,2005,14,7,735,0,0,1,0,4,15,10,2023-2024,laliga
-federico gattoni,"DF,FW",1999,2,0,10,0,0,0,0,0,0,0,2023-2024,laliga
-gavi,"MF,FW",2004,12,10,944,1,1,5,0,26,39,38,2023-2024,laliga
-paulo gazzaniga,GK,1992,38,38,3420,0,0,2,0,0,0,0,2023-2024,laliga
-david gil,GK,1994,5,4,372,0,0,1,0,0,0,0,2023-2024,laliga
-maxi gómez,FW,1996,31,12,1163,0,0,2,0,13,11,54,2023-2024,laliga
-moi gómez,"MF,FW",1994,28,23,2006,3,0,3,0,36,127,69,2023-2024,laliga
-unai gómez,MF,2003,25,9,875,2,0,1,0,20,28,48,2023-2024,laliga
-édgar gonzález,"DF,MF",1997,31,30,2522,2,0,7,1,6,72,6,2023-2024,laliga
-fabio gonzález,MF,1997,6,1,123,0,0,1,0,0,9,2,2023-2024,laliga
-giovanni gonzález,DF,1994,34,27,2464,1,1,6,0,28,91,95,2023-2024,laliga
-hugo gonzález,"MF,FW",2003,9,0,87,0,1,0,0,2,2,7,2023-2024,laliga
-iñaki gonzález,MF,2004,1,0,5,0,0,0,0,0,0,0,2023-2024,laliga
-peter gonzález,"MF,FW",2002,15,5,649,0,0,1,0,19,16,48,2023-2024,laliga
-urko gonzález,MF,2001,5,2,156,0,0,1,0,1,6,1,2023-2024,laliga
-andoni gorosabel,DF,1996,36,33,2854,1,0,6,0,58,117,121,2023-2024,laliga
-pablo gozalbez,"MF,FW",2001,5,1,103,0,0,0,0,0,0,5,2023-2024,laliga
-mason greenwood,"MF,FW",2001,33,30,2662,8,6,6,1,127,89,239,2023-2024,laliga
-dominik greif,GK,1997,1,1,90,0,0,0,0,0,0,0,2023-2024,laliga
-antoine griezmann,"FW,MF",1991,33,31,2644,16,6,5,0,43,118,196,2023-2024,laliga
-vicente guaita,GK,1987,27,26,2403,0,0,2,0,0,0,0,2023-2024,laliga
-andrés guardado,MF,1986,12,4,447,0,0,2,0,5,36,6,2023-2024,laliga
-sergi guardiola,"FW,MF",1991,22,1,495,1,1,1,0,10,19,32,2023-2024,laliga
-nemanja gudelj,"DF,MF",1991,22,20,1742,1,1,7,0,23,73,5,2023-2024,laliga
-gonçalo guedes,"FW,MF",1996,17,9,951,3,2,0,0,38,50,88,2023-2024,laliga
-javier guerra,MF,2003,36,28,2498,4,1,3,1,47,81,68,2023-2024,laliga
-ander guevara,MF,1997,37,33,2932,1,0,7,0,53,187,37,2023-2024,laliga
-hugo guillamón,MF,2000,26,12,1315,1,0,7,0,6,65,10,2023-2024,laliga
-marc guiu,"FW,MF",2006,3,1,74,1,0,1,0,1,1,8,2023-2024,laliga
-arda güler,"FW,MF",2005,10,4,377,6,0,1,0,16,17,25,2023-2024,laliga
-gerard gumbau,MF,1994,35,31,2674,0,3,12,0,20,135,29,2023-2024,laliga
-i̇lkay gündoğan,MF,1990,36,33,2994,5,9,5,0,71,224,116,2023-2024,laliga
-jon guridi,MF,1995,36,34,2678,3,4,2,0,30,117,92,2023-2024,laliga
-gorka guruzeta,FW,1996,32,30,2217,14,5,2,0,18,55,102,2023-2024,laliga
-miguel gutiérrez,DF,2001,35,35,3032,2,7,4,0,74,146,184,2023-2024,laliga
-munir el haddadi,FW,1995,38,32,2449,3,2,3,0,26,78,167,2023-2024,laliga
-ianis hagi,"MF,FW",1998,22,8,804,0,2,3,0,17,32,58,2023-2024,laliga
-luiz henrique,FW,2001,14,6,616,0,3,1,0,35,17,58,2023-2024,laliga
-mario hermoso,DF,1995,31,29,2557,0,1,9,0,39,177,61,2023-2024,laliga
-javi hernández,DF,1998,30,28,2514,1,2,10,0,40,94,57,2023-2024,laliga
-aridane hernández,DF,1989,19,19,1690,0,0,3,0,0,21,0,2023-2024,laliga
-luis hernández,DF,1989,9,8,723,1,0,4,0,2,31,1,2023-2024,laliga
-jorge herrando,DF,2001,19,18,1644,0,1,4,0,3,35,1,2023-2024,laliga
-ander herrera,MF,1989,23,10,1030,0,3,4,0,11,94,17,2023-2024,laliga
-cristian herrera,"FW,MF",1991,8,1,166,1,0,1,0,2,8,16,2023-2024,laliga
-sergio herrera,GK,1993,32,32,2869,0,0,2,0,0,1,0,2023-2024,laliga
-yangel herrera,MF,1998,29,27,2107,5,0,9,0,31,92,76,2023-2024,laliga
-juan herzog,DF,2003,4,3,292,2,0,1,0,0,3,0,2023-2024,laliga
-martin hongla,"MF,DF",1998,13,6,562,0,0,0,0,3,16,5,2023-2024,laliga
-xabier huarte armendáriz,MF,2001,1,0,9,0,0,0,0,0,1,0,2023-2024,laliga
-pablo ibáñez,MF,1998,33,12,1152,1,2,5,0,26,67,54,2023-2024,laliga
-iglesias,"DF,FW",1998,23,16,1412,0,2,4,0,16,43,48,2023-2024,laliga
-borja iglesias,FW,1993,11,4,408,0,1,2,0,5,12,32,2023-2024,laliga
-imanol,DF,2000,9,5,525,0,0,2,0,13,21,15,2023-2024,laliga
-isco,MF,1992,29,28,2326,8,5,10,0,100,216,145,2023-2024,laliga
-diego iturralde,DF,2003,1,0,37,0,0,0,0,1,1,0,2023-2024,laliga
-adnan januzaj,"FW,MF",1995,8,0,193,0,0,0,0,1,9,17,2023-2024,laliga
-mikel jauregizar,MF,2003,7,1,151,0,0,0,0,2,5,3,2023-2024,laliga
-luis javier suárez,FW,1997,15,10,917,6,0,3,0,30,15,53,2023-2024,laliga
-salim el jebari,MF,2004,1,0,13,0,0,0,0,1,0,1,2023-2024,laliga
-frenkie de jong,MF,1997,20,20,1634,2,0,7,0,69,168,38,2023-2024,laliga
-joan jordán,MF,1994,8,4,380,0,0,1,0,0,32,1,2023-2024,laliga
-jordi,"MF,DF",2001,13,5,573,0,0,1,0,6,14,28,2023-2024,laliga
-jeremy jorge,FW,2003,1,0,2,0,0,0,0,0,0,0,2023-2024,laliga
-willian josé,FW,1991,33,25,1971,10,5,0,1,8,32,90,2023-2024,laliga
-joselu,FW,1990,34,15,1687,10,2,1,0,15,20,98,2023-2024,laliga
-kamil jóźwiak,MF,1998,11,7,571,0,1,2,0,15,21,31,2023-2024,laliga
-juanmi,FW,1993,16,9,873,3,1,3,0,7,12,40,2023-2024,laliga
-juanpe,DF,1991,17,6,746,0,0,4,0,3,14,0,2023-2024,laliga
-vinicius júnior,FW,2000,26,22,1864,15,5,7,0,137,57,277,2023-2024,laliga
-filip jørgensen,GK,2002,36,36,3240,0,0,4,0,0,0,0,2023-2024,laliga
-sory kaba,FW,1995,17,9,720,1,1,2,0,7,12,36,2023-2024,laliga
-kaiky,DF,2004,8,5,523,1,0,2,0,4,24,1,2023-2024,laliga
-jon karrikaburu,"MF,FW",2002,2,0,16,0,0,0,0,0,0,1,2023-2024,laliga
-ibrahima kebe,MF,2000,2,0,9,0,0,1,0,0,0,1,2023-2024,laliga
-kiké,"FW,MF",1989,33,15,1423,3,2,3,0,18,32,97,2023-2024,laliga
-koke,MF,1992,35,32,2493,0,4,5,0,26,212,26,2023-2024,laliga
-ibrahima koné,FW,1999,9,2,277,0,0,0,0,5,3,18,2023-2024,laliga
-rominigue kouamé,MF,1996,16,9,821,0,0,2,0,16,34,5,2023-2024,laliga
-jules koundé,DF,1998,35,32,2899,1,2,4,0,67,245,64,2023-2024,laliga
-toni kroos,MF,1990,33,24,2124,1,8,3,0,32,290,29,2023-2024,laliga
-takefusa kubo,"FW,MF",2001,30,24,2150,7,4,1,0,136,89,231,2023-2024,laliga
-luca de la torre,MF,1998,31,22,1956,1,4,4,1,58,93,88,2023-2024,laliga
-yoel lago,DF,2004,1,1,90,0,0,0,0,0,2,0,2023-2024,laliga
-érik lamela,"FW,MF",1992,13,5,463,2,0,3,0,11,17,28,2023-2024,laliga
-bruno langa,DF,1997,11,9,820,1,0,1,1,14,25,30,2023-2024,laliga
-cyle larin,FW,1995,35,20,1823,3,2,8,0,20,13,103,2023-2024,laliga
-juanmi latasa,FW,2001,32,15,1555,2,0,7,1,7,16,82,2023-2024,laliga
-toni lato,DF,1997,28,16,1544,0,1,3,0,30,39,110,2023-2024,laliga
-lázaro,"FW,MF",2002,14,2,285,0,0,0,0,5,6,34,2023-2024,laliga
-robin le normand,DF,1996,29,28,2469,2,0,13,0,21,106,1,2023-2024,laliga
-jeremías ledesma,GK,1993,34,34,3048,0,0,0,0,0,0,0,2023-2024,laliga
-florian lejeune,DF,1991,37,37,3327,3,1,5,0,15,114,4,2023-2024,laliga
-stefan lekovic,DF,2004,1,0,29,0,0,0,0,0,0,0,2023-2024,laliga
-iñigo lekue,DF,1993,27,22,2002,0,2,4,0,44,119,35,2023-2024,laliga
-thomas lemar,MF,1995,3,3,164,0,0,0,0,5,13,9,2023-2024,laliga
-álvaro lemos,DF,1993,4,3,251,0,0,1,0,6,17,8,2023-2024,laliga
-ruben lendinez,DF,2003,1,0,11,0,0,0,0,0,0,3,2023-2024,laliga
-robert lewandowski,FW,1988,35,32,2750,19,8,5,0,43,64,168,2023-2024,laliga
-samuel lino,"DF,MF",1999,34,25,2080,4,5,1,0,131,84,215,2023-2024,laliga
-javier llabrés,"MF,FW",2002,16,1,247,1,0,1,0,9,5,30,2023-2024,laliga
-marcos llorente,"MF,DF",1995,37,29,2565,6,4,5,0,71,106,179,2023-2024,laliga
-enzo loiodice,MF,2000,34,19,1790,0,1,2,0,27,97,72,2023-2024,laliga
-david lópez,DF,1989,25,25,1965,3,0,4,0,15,54,1,2023-2024,laliga
-diego lópez,"MF,FW",2002,36,30,2656,3,6,2,0,75,73,180,2023-2024,laliga
-fermin lópez,"MF,FW",2003,31,14,1446,8,0,2,0,42,76,93,2023-2024,laliga
-javi lópez,DF,2002,32,25,2386,1,3,3,0,53,92,120,2023-2024,laliga
-unai lópez,MF,1995,35,28,2108,1,2,8,0,32,116,59,2023-2024,laliga
-dion lopy,MF,2002,30,23,1916,0,0,5,0,23,90,19,2023-2024,laliga
-anthony lozano,"MF,FW",1993,6,0,92,0,0,1,0,0,1,6,2023-2024,laliga
-anthony lozano,FW,1993,13,10,772,3,0,1,0,12,16,24,2023-2024,laliga
-lucas,DF,2001,28,15,1539,1,0,6,0,30,47,65,2023-2024,laliga
-josé luis gayà,DF,1995,24,22,1791,1,2,2,0,41,72,97,2023-2024,laliga
-josé luis morales,"FW,MF",1987,29,8,1048,7,0,0,0,29,17,79,2023-2024,laliga
-dodi lukebakio,"FW,MF",1997,23,12,1125,5,1,0,0,48,26,116,2023-2024,laliga
-andriy lunin,GK,1999,21,21,1890,0,0,2,0,0,0,0,2023-2024,laliga
-darwin machís,MF,1993,21,10,785,4,0,0,1,20,15,54,2023-2024,laliga
-pablo maffeo,DF,1997,22,17,1454,1,2,3,1,38,41,68,2023-2024,laliga
-jon magunazelaia,"FW,MF",2001,5,1,121,0,0,0,0,2,2,10,2023-2024,laliga
-nemanja maksimović,MF,1995,37,37,3265,4,0,4,0,22,73,35,2023-2024,laliga
-giorgi mamardashvili,GK,2000,37,37,3284,0,0,3,1,0,0,0,2023-2024,laliga
-wilson manafá,"DF,MF",1994,4,3,240,0,0,1,0,5,4,6,2023-2024,laliga
-reinildo mandava,DF,1994,16,7,731,2,1,2,0,10,36,17,2023-2024,laliga
-aïssa mandi,DF,1991,16,12,1113,1,0,3,0,6,55,4,2023-2024,laliga
-javier manquillo,"DF,MF",1994,12,10,744,0,1,3,0,5,25,16,2023-2024,laliga
-faitout maouassa,"DF,MF",1998,6,2,229,0,1,0,0,8,6,15,2023-2024,laliga
-marcão,DF,1996,7,3,355,0,0,2,0,3,12,0,2023-2024,laliga
-óscar de marcos,DF,1989,28,26,2258,1,5,5,0,51,143,125,2023-2024,laliga
-alberto marí,FW,2001,16,2,276,1,1,0,0,2,6,13,2023-2024,laliga
-josé mari,"MF,FW",1987,3,0,14,0,0,1,0,0,1,1,2023-2024,laliga
-josé maría giménez,DF,1995,22,14,1326,0,0,5,0,2,26,1,2023-2024,laliga
-mariano,"FW,MF",1993,9,2,244,0,0,1,0,3,6,17,2023-2024,laliga
-rafa marín,DF,2002,33,27,2443,0,0,6,0,13,77,6,2023-2024,laliga
-diego mariño,GK,1990,1,1,90,0,0,0,0,0,0,0,2023-2024,laliga
-mika mármol,DF,2001,36,36,3178,0,1,6,1,36,142,13,2023-2024,laliga
-unai marrero,GK,2001,2,1,142,0,0,0,0,0,0,0,2023-2024,laliga
-roger martí,FW,1991,23,18,1359,2,3,3,0,7,19,64,2023-2024,laliga
-iván martín,MF,1999,36,33,2729,5,4,5,0,84,143,109,2023-2024,laliga
-jon martin,DF,2006,1,0,24,0,0,0,0,0,0,0,2023-2024,laliga
-mario martín,MF,2004,2,0,18,0,0,0,0,0,0,1,2023-2024,laliga
-arnau martinez,DF,2003,21,14,1241,0,2,5,0,29,68,16,2023-2024,laliga
-iñigo martínez,DF,1991,20,13,1296,0,0,5,0,33,97,5,2023-2024,laliga
-marc martínez,GK,1990,3,3,270,0,0,0,0,0,0,0,2023-2024,laliga
-marvin,"FW,DF",2000,31,17,1855,0,2,5,0,60,36,177,2023-2024,laliga
-omar mascarell,MF,1993,29,18,1571,0,0,8,1,12,67,11,2023-2024,laliga
-jaime mata,"FW,MF",1988,35,22,1787,5,1,10,1,16,19,138,2023-2024,laliga
-luís maximiano,GK,1999,33,33,2970,0,0,1,0,0,0,0,2023-2024,laliga
-borja mayoral,FW,1997,27,25,2153,15,1,2,0,27,67,100,2023-2024,laliga
-mamadou mbaye,DF,1998,4,2,288,0,0,2,0,0,4,0,2023-2024,laliga
-hannibal mejbri,MF,2003,6,1,104,0,0,2,0,1,5,6,2023-2024,laliga
-óscar melendo,"MF,FW",1997,26,15,1122,0,0,2,0,21,38,33,2023-2024,laliga
-gonzalo melero,"MF,FW",1994,28,10,1103,1,1,3,0,23,49,33,2023-2024,laliga
-memphis,FW,1994,23,9,893,5,1,2,0,16,27,82,2023-2024,laliga
-houboulang mendes,DF,1998,7,4,396,0,0,0,0,5,9,6,2023-2024,laliga
-tomás mendes,MF,2004,1,0,6,0,0,0,0,0,0,0,2023-2024,laliga
-brais méndez,"MF,FW",1997,32,27,2413,5,6,7,0,45,128,121,2023-2024,laliga
-bruno méndez,DF,1999,17,15,1333,2,0,4,0,8,47,14,2023-2024,laliga
-diego méndez,MF,2003,1,0,5,0,0,0,0,1,1,0,2023-2024,laliga
-ferland mendy,DF,1995,23,21,1720,0,0,5,0,19,84,96,2023-2024,laliga
-jorge meré,DF,1997,10,8,673,0,0,0,0,2,15,0,2023-2024,laliga
-mikel merino,MF,1996,32,27,2482,5,3,10,0,26,163,99,2023-2024,laliga
-omenuke mfulu,"MF,FW",1994,5,1,82,0,0,1,0,1,1,0,2023-2024,laliga
-miguel,"FW,MF",1999,3,1,65,0,0,0,0,1,0,3,2023-2024,laliga
-éder militão,DF,1998,10,6,496,0,0,0,0,7,15,2,2023-2024,laliga
-luis milla,MF,1994,27,25,2115,0,1,6,0,31,121,35,2023-2024,laliga
-marko milovanović,"FW,MF",2003,11,2,308,1,0,0,0,2,3,13,2023-2024,laliga
-óscar mingueza,"DF,MF",1999,38,33,2998,2,2,4,0,74,170,134,2023-2024,laliga
-ignasi miquel,DF,1992,34,33,2992,1,1,5,0,8,83,8,2023-2024,laliga
-rafa mir,"FW,MF",1997,15,3,391,2,0,1,0,3,2,16,2023-2024,laliga
-juan miranda,DF,2000,25,21,1858,1,1,8,0,35,103,95,2023-2024,laliga
-stefan mitrović,DF,1990,11,9,699,1,0,3,0,4,19,2,2023-2024,laliga
-luka modrić,MF,1985,32,18,1688,2,6,2,0,53,196,85,2023-2024,laliga
-johan mojica,DF,1992,30,22,2041,0,3,1,0,57,82,117,2023-2024,laliga
-alberto moleiro,"FW,MF",2003,28,21,1803,3,3,1,0,86,87,184,2023-2024,laliga
-nahuel molina,DF,1998,30,19,1852,2,3,4,1,47,68,170,2023-2024,laliga
-jon moncayola,MF,1998,33,21,1800,1,3,2,1,14,99,46,2023-2024,laliga
-césar montes,DF,1997,21,21,1788,0,0,5,0,7,52,2,2023-2024,laliga
-álvaro morata,FW,1992,32,21,1904,15,3,4,1,22,20,88,2023-2024,laliga
-alberto moreno,DF,1992,27,17,1484,2,2,5,2,26,55,79,2023-2024,laliga
-gerard moreno,FW,1992,30,28,2215,10,6,0,0,48,155,199,2023-2024,laliga
-jorge moreno,DF,2001,1,0,15,0,0,0,0,0,0,0,2023-2024,laliga
-ilaix moriba,"MF,FW",2003,14,8,605,0,2,5,1,8,21,19,2023-2024,laliga
-manu morlanes,MF,1999,35,16,1615,0,2,2,0,29,104,31,2023-2024,laliga
-cristhian mosquera,DF,2004,36,33,3075,0,0,2,0,14,77,4,2023-2024,laliga
-yerson mosquera,DF,2001,16,14,1229,2,1,4,0,8,36,12,2023-2024,laliga
-abdul mumin,DF,1998,20,19,1694,1,0,5,1,6,38,4,2023-2024,laliga
-iker muniain,"MF,FW",1992,20,5,594,2,0,1,0,18,43,50,2023-2024,laliga
-aihen muñoz,DF,1997,21,11,1127,0,2,2,0,24,39,23,2023-2024,laliga
-iker muñoz,MF,2002,28,20,1854,4,0,5,0,17,80,23,2023-2024,laliga
-javier muñoz,MF,1995,37,30,2640,2,3,6,0,33,122,126,2023-2024,laliga
-vedat muriqi,FW,1994,29,25,2327,7,2,5,0,20,40,134,2023-2024,laliga
-nacho,DF,1990,29,18,1746,0,1,4,2,13,55,9,2023-2024,laliga
-matija nastasić,DF,1993,26,25,2258,2,0,8,0,11,64,4,2023-2024,laliga
-roberto navarro,"MF,FW",2002,28,24,1888,1,1,0,1,81,70,119,2023-2024,laliga
-jesús navas,DF,1985,29,25,2003,0,2,6,1,54,103,141,2023-2024,laliga
-álvaro negredo,"FW,MF",1985,7,0,54,0,0,0,0,0,0,0,2023-2024,laliga
-carlos neva,DF,1996,36,36,3146,0,2,4,0,43,111,98,2023-2024,laliga
-tanguy nianzou,DF,2002,8,3,318,0,0,3,0,2,14,1,2023-2024,laliga
-saúl ñíguez,MF,1994,34,14,1374,1,4,10,1,21,34,43,2023-2024,laliga
-peru nolaskoain,"DF,MF",1998,2,0,10,0,0,0,0,0,0,0,2023-2024,laliga
-randy nteka,"FW,MF",1997,16,3,572,1,1,3,0,12,15,35,2023-2024,laliga
-unai núñez,DF,1997,34,31,2801,1,0,4,0,10,106,2,2023-2024,laliga
-ørjan nyland,GK,1990,24,24,2160,0,0,1,0,0,0,1,2023-2024,laliga
-jan oblak,GK,1993,38,38,3420,0,0,1,0,0,0,0,2023-2024,laliga
-brian ocampo,"MF,FW",1999,13,1,248,1,0,2,0,18,9,25,2023-2024,laliga
-lucas ocampos,"FW,MF",1994,35,34,2871,4,3,8,0,117,124,265,2023-2024,laliga
-álvaro odriozola,DF,1995,9,6,393,0,0,0,0,14,8,12,2023-2024,laliga
-aingeru olabarrieta,FW,2005,1,0,9,0,0,0,0,1,0,0,2023-2024,laliga
-olasagasti,MF,2000,14,2,360,0,0,3,0,8,13,12,2023-2024,laliga
-samu omorodion,FW,2004,34,21,1918,8,1,6,0,30,18,100,2023-2024,laliga
-samu omorodion,FW,2004,1,1,80,1,0,0,0,0,0,3,2023-2024,laliga
-aimar oroz,MF,2001,33,26,2339,2,1,3,0,52,103,126,2023-2024,laliga
-eneko ortiz,DF,2003,1,0,14,0,0,0,0,1,1,1,2023-2024,laliga
-asier osambela,MF,2004,1,0,9,0,0,0,0,0,0,1,2023-2024,laliga
-milutin osmajić,MF,1999,1,0,5,0,0,0,0,0,0,0,2023-2024,laliga
-aiham ousou,DF,2000,6,5,430,0,0,0,0,2,7,0,2023-2024,laliga
-jesús owono,GK,2001,4,4,360,0,0,1,0,0,0,0,2023-2024,laliga
-mikel oyarzabal,"FW,MF",1997,33,23,2156,9,3,3,0,27,39,126,2023-2024,laliga
-cenk özkacar,DF,2000,23,18,1598,0,0,3,0,17,56,5,2023-2024,laliga
-jon pacheco,DF,2001,23,16,1526,1,1,8,0,9,53,1,2023-2024,laliga
-isaac palazón camacho,"MF,FW",1994,37,34,2791,4,1,8,0,40,128,152,2023-2024,laliga
-joaquín panichelli,"FW,MF",2002,8,2,226,0,0,0,0,3,6,10,2023-2024,laliga
-sokratis papastathopoulos,DF,1988,15,12,1136,0,0,6,0,1,13,1,2023-2024,laliga
-victor parada,"FW,MF",2002,2,0,3,0,0,0,0,0,0,0,2023-2024,laliga
-aitor paredes,DF,2000,34,31,2704,1,0,9,1,6,107,1,2023-2024,laliga
-daniel parejo,MF,1989,33,29,2580,3,5,4,0,11,210,28,2023-2024,laliga
-pascu,FW,2003,1,0,14,0,0,0,0,0,2,1,2023-2024,laliga
-gabriel paulista,DF,1990,5,5,405,0,0,1,0,1,7,0,2023-2024,laliga
-gabriel paulista,DF,1990,18,16,1398,0,0,6,1,2,33,2,2023-2024,laliga
-nicolás paz,"MF,FW",2004,4,0,23,0,0,0,0,3,6,2,2023-2024,laliga
-alfonso pedraza,DF,1996,19,14,1116,1,3,4,1,56,31,97,2023-2024,laliga
-pedri,"MF,FW",2002,24,16,1476,4,2,3,0,41,136,81,2023-2024,laliga
-adrià pedrosa,DF,1998,31,15,1753,1,4,1,0,46,61,109,2023-2024,laliga
-pejiño,FW,1996,17,6,504,2,0,1,0,17,20,66,2023-2024,laliga
-facundo pellistri,"MF,FW",2001,15,14,1232,2,1,2,1,33,22,96,2023-2024,laliga
-iñaki peña,GK,1999,10,10,900,0,0,0,0,0,0,0,2023-2024,laliga
-marcos peña,MF,2005,7,4,441,0,0,3,0,0,10,0,2023-2024,laliga
-rubén peña,"DF,FW",1991,29,26,2088,0,2,3,0,62,78,147,2023-2024,laliga
-alberto perea,"MF,FW",1990,2,0,2,0,0,0,0,0,2,1,2023-2024,laliga
-ayoze pérez,FW,1993,31,29,2294,9,1,4,0,90,80,175,2023-2024,laliga
-carles pérez,"MF,DF",1998,16,7,772,1,1,3,0,34,18,66,2023-2024,laliga
-francisco perez,"MF,FW",2002,32,27,2049,1,4,4,0,59,41,145,2023-2024,laliga
-kike pérez,"MF,FW",1997,24,9,835,1,0,7,0,17,47,42,2023-2024,laliga
-máximo perrone,MF,2003,29,20,1623,0,0,6,0,12,78,22,2023-2024,laliga
-njegoš petrović,"MF,FW",1999,10,0,157,0,0,0,0,3,8,3,2023-2024,laliga
-germán pezzella,DF,1991,32,32,2767,1,0,7,0,5,64,1,2023-2024,laliga
-kamil piątkowski,DF,2000,9,6,505,0,0,1,1,2,10,0,2023-2024,laliga
-yeremi pino,"MF,FW",2002,7,7,475,0,0,4,0,11,10,49,2023-2024,laliga
-portu,FW,1992,3,0,97,0,0,1,0,3,3,3,2023-2024,laliga
-portu,"MF,FW",1992,33,11,1188,7,5,3,0,32,32,96,2023-2024,laliga
-josé pozo,MF,1996,2,0,19,0,0,0,0,0,1,2,2023-2024,laliga
-alejandro pozo pozo,"DF,MF",1999,21,9,976,0,0,3,0,22,44,62,2023-2024,laliga
-beñat prados,"MF,DF",2001,26,16,1449,0,0,1,0,23,87,30,2023-2024,laliga
-abdón prats,"FW,MF",1992,34,11,1270,6,1,4,0,9,26,49,2023-2024,laliga
-marc pubill,DF,2003,23,22,1883,1,3,2,0,59,36,85,2023-2024,laliga
-antonio puertas,"MF,FW",1992,27,6,730,0,2,3,1,18,22,46,2023-2024,laliga
-arnau puigmal,"FW,DF",2001,11,3,255,0,0,3,0,4,8,17,2023-2024,laliga
-nemanja radonjić,"MF,DF",1996,11,4,353,0,0,0,0,23,12,43,2023-2024,laliga
-aleksandar radovanović,DF,1993,9,8,569,0,0,2,0,0,5,1,2023-2024,laliga
-abdellah raihani,FW,2004,1,0,10,0,0,0,0,0,0,1,2023-2024,laliga
-antonio raillo,DF,1991,26,25,2195,3,2,6,1,24,80,4,2023-2024,laliga
-predrag rajković,GK,1995,36,36,3240,0,0,2,0,0,0,0,2023-2024,laliga
-ivan rakitić,MF,1988,18,16,1425,2,1,6,0,24,127,52,2023-2024,laliga
-largie ramazani,"FW,MF",2001,29,16,1555,3,5,11,2,59,42,104,2023-2024,laliga
-benito ramírez,"FW,MF",1995,20,2,384,1,1,0,0,13,5,46,2023-2024,laliga
-sandro ramírez,FW,1995,27,21,1808,1,3,3,0,61,54,209,2023-2024,laliga
-chris ramos,"FW,MF",1997,37,30,2612,5,1,5,0,31,28,102,2023-2024,laliga
-sergio ramos,DF,1986,28,28,2517,3,0,7,1,11,81,5,2023-2024,laliga
-raphinha,"FW,MF",1996,28,17,1368,6,9,4,1,49,57,164,2023-2024,laliga
-andrei ratiu,"DF,MF",1998,12,6,630,0,0,1,0,28,19,25,2023-2024,laliga
-raúl,FW,2000,35,13,1355,6,1,4,0,16,22,68,2023-2024,laliga
-abderrahman rebbach,"FW,MF",1998,23,6,722,1,0,1,0,34,14,78,2023-2024,laliga
-pepe reina,GK,1982,2,2,180,0,0,2,1,0,0,0,2023-2024,laliga
-álex remiro,GK,1995,37,37,3275,0,0,3,1,0,1,0,2023-2024,laliga
-chadi riad,DF,2003,26,24,2164,0,0,1,0,4,34,1,2023-2024,laliga
-diego rico,DF,1993,32,28,2535,0,7,10,0,28,119,79,2023-2024,laliga
-luis rioja,"FW,MF",1993,37,31,2498,5,4,4,0,70,77,173,2023-2024,laliga
-rodrigo riquelme,"DF,MF",2000,34,17,1528,3,5,1,0,87,53,166,2023-2024,laliga
-alberto risco,MF,2005,4,1,137,0,0,0,0,3,6,14,2023-2024,laliga
-mihailo ristić,"DF,MF",1995,12,9,808,0,0,2,0,24,30,42,2023-2024,laliga
-gorka rivera alonso,DF,2004,1,0,3,0,0,0,0,0,0,0,2023-2024,laliga
-sergi roberto,"MF,DF",1992,14,10,860,3,2,4,0,13,50,33,2023-2024,laliga
-lucas robertone,MF,1997,33,29,2381,0,5,11,0,31,128,37,2023-2024,laliga
-marc roca,MF,1996,26,24,1980,2,2,5,0,24,126,20,2023-2024,laliga
-sergio rodelas,"FW,DF",2004,3,2,122,0,1,0,0,3,1,5,2023-2024,laliga
-rodri,"FW,MF",2000,29,9,1051,0,0,0,0,49,65,116,2023-2024,laliga
-álvaro rodríguez,FW,2004,1,0,1,0,0,0,0,0,0,0,2023-2024,laliga
-óscar rodríguez arnaiz,"MF,FW",1998,24,9,967,2,1,9,0,13,52,48,2023-2024,laliga
-damián rodríguez,MF,2003,5,3,258,0,2,1,0,2,9,4,2023-2024,laliga
-dani rodríguez,MF,1988,36,31,2615,2,4,9,0,54,118,110,2023-2024,laliga
-guido rodríguez,MF,1994,24,22,1846,2,0,6,0,8,65,18,2023-2024,laliga
-kirian rodríguez,MF,1996,37,36,3211,6,2,8,0,46,296,78,2023-2024,laliga
-miguel rodríguez,MF,2003,15,2,300,0,0,2,0,14,8,35,2023-2024,laliga
-rodrygo,FW,2001,34,28,2380,10,5,2,0,159,90,301,2023-2024,laliga
-carlos romero,DF,2001,7,2,262,0,0,1,0,6,6,21,2023-2024,laliga
-isaac romero,FW,2000,14,14,1039,4,4,2,0,31,16,64,2023-2024,laliga
-luka romero,FW,2004,13,5,438,3,0,2,0,11,14,20,2023-2024,laliga
-oriol romeu,MF,1991,28,11,936,0,1,4,0,12,66,4,2023-2024,laliga
-unai ropero,MF,2001,1,0,5,0,0,0,0,0,0,0,2023-2024,laliga
-vitor roque,FW,2005,14,2,328,2,0,4,1,12,2,26,2023-2024,laliga
-antonio rüdiger,DF,1993,33,30,2709,1,0,7,0,17,88,1,2023-2024,laliga
-javier rueda garcia,"MF,DF",2002,1,0,20,0,0,0,0,0,1,2,2023-2024,laliga
-aitor ruibal,"DF,FW",1996,18,11,1017,2,1,5,0,22,54,50,2023-2024,laliga
-sergio ruiz,MF,1994,35,30,2494,0,4,9,0,34,113,23,2023-2024,laliga
-youssouf sabaly,DF,1993,12,12,1046,0,1,2,0,31,47,43,2023-2024,laliga
-umar sadiq,FW,1997,26,12,1077,3,1,4,0,18,13,74,2023-2024,laliga
-pablo saenz,MF,2001,1,0,19,0,0,0,0,0,2,0,2023-2024,laliga
-kike salas,DF,2002,23,19,1605,3,0,10,0,11,61,16,2023-2024,laliga
-salvi,MF,1991,1,0,28,0,0,0,0,2,0,2,2023-2024,laliga
-diadie samassékou,MF,1996,4,0,92,0,0,0,0,2,7,1,2023-2024,laliga
-fede san emeterio,MF,1997,4,3,152,1,0,1,1,0,4,0,2023-2024,laliga
-oihan sancet,MF,2000,30,25,1975,4,5,5,2,76,121,157,2023-2024,laliga
-ricard sánchez,DF,2000,33,25,2295,3,0,8,0,49,84,103,2023-2024,laliga
-antonio sánchez,MF,1997,29,21,1452,3,1,3,0,35,57,61,2023-2024,laliga
-juanlu sánchez,DF,2003,26,11,1181,0,2,2,0,42,50,112,2023-2024,laliga
-manu sánchez,"DF,MF",2000,26,20,1775,0,5,3,0,41,74,67,2023-2024,laliga
-jesús santiago,MF,2004,14,8,656,1,0,4,0,5,15,12,2023-2024,laliga
-paco sanz,DF,2004,1,0,24,0,0,0,0,0,0,0,2023-2024,laliga
-stefan savić,DF,1991,23,19,1630,0,0,7,1,14,66,2,2023-2024,laliga
-sávio,"FW,MF",2004,37,35,2976,9,10,5,0,181,93,372,2023-2024,laliga
-aleksandar sedlar,DF,1991,11,11,946,1,0,2,0,6,26,1,2023-2024,laliga
-andré silva,FW,1995,19,9,729,3,0,1,0,5,7,44,2023-2024,laliga
-rui silva,GK,1994,28,28,2475,0,0,4,0,0,1,1,2023-2024,laliga
-giuliano simeone,FW,2002,14,6,630,1,2,1,0,25,24,47,2023-2024,laliga
-unai simón,GK,1997,36,36,3182,0,0,2,0,0,0,0,2023-2024,laliga
-daley sinkgraven,DF,1995,10,6,374,0,0,0,1,3,17,8,2023-2024,laliga
-jailson siqueira,"DF,MF",1995,14,9,897,0,1,1,0,16,38,8,2023-2024,laliga
-antonio sivera,GK,1996,34,34,3060,0,0,3,0,0,0,0,2023-2024,laliga
-rubén sobrino,"MF,FW",1992,32,18,1646,0,1,8,1,27,34,78,2023-2024,laliga
-alex sola,"FW,MF",1999,29,14,1262,0,3,2,0,40,42,103,2023-2024,laliga
-alex sola,"DF,MF",1999,2,0,30,0,0,0,0,1,1,0,2023-2024,laliga
-jhon solis,MF,2004,18,2,384,0,0,0,0,9,22,13,2023-2024,laliga
-david soria,GK,1993,38,38,3413,0,0,3,0,0,0,0,2023-2024,laliga
-alberto soro,MF,1999,1,0,8,0,0,0,0,0,0,0,2023-2024,laliga
-hugo sotelo,MF,2003,17,8,721,0,1,1,0,16,55,13,2023-2024,laliga
-boubakary soumaré,MF,1999,28,26,2286,0,1,10,0,29,102,22,2023-2024,laliga
-djibril sow,MF,1997,24,18,1460,1,1,6,0,25,73,45,2023-2024,laliga
-çağlar söyüncü,DF,1996,6,1,114,0,0,0,1,2,6,0,2023-2024,laliga
-carl starfelt,DF,1995,27,26,2216,1,0,4,0,5,38,1,2023-2024,laliga
-jørgen strand larsen,FW,2000,37,36,2863,13,3,5,0,33,25,183,2023-2024,laliga
-cristhian stuani,FW,1986,31,5,804,9,3,6,0,3,5,24,2023-2024,laliga
-álex suárez,DF,1993,32,30,2562,2,0,7,0,12,109,15,2023-2024,laliga
-damián suárez,DF,1988,16,15,1299,0,2,7,1,20,58,47,2023-2024,laliga
-denis suárez,"MF,FW",1994,4,1,133,0,0,0,0,4,13,7,2023-2024,laliga
-suso,"MF,FW",1993,29,15,1517,1,4,5,1,41,110,109,2023-2024,laliga
-max svensson,FW,,1,0,3,0,0,0,0,0,0,0,2023-2024,laliga
-williot swedberg,"FW,MF",2004,15,4,439,5,0,1,0,7,6,26,2023-2024,laliga
-mamadou sylla,"FW,MF",1994,2,0,18,0,0,0,0,0,1,1,2023-2024,laliga
-alexander sørloth,FW,1995,34,30,2489,23,6,3,0,48,40,159,2023-2024,laliga
-yassin tallal,FW,2005,1,0,3,0,0,0,0,1,0,1,2023-2024,laliga
-renato tapia,"MF,DF",1995,21,15,1337,0,0,5,1,9,61,14,2023-2024,laliga
-césar tárrega,DF,2002,1,0,8,0,0,0,0,0,0,0,2023-2024,laliga
-marciano tchami,"FW,MF",2004,6,0,43,0,0,0,0,1,1,3,2023-2024,laliga
-aurélien tchouaméni,"MF,DF",2000,27,22,1987,3,1,7,0,28,111,15,2023-2024,laliga
-nahuel tenaglia,DF,1996,25,11,1141,1,0,5,0,17,45,24,2023-2024,laliga
-marc-andré ter stegen,GK,1992,28,28,2520,0,0,3,0,0,1,0,2023-2024,laliga
-ramón terrats,"MF,DF",2000,19,6,785,0,2,4,0,19,38,54,2023-2024,laliga
-kieran tierney,DF,1997,20,14,1238,0,2,1,0,22,77,39,2023-2024,laliga
-raúl de tomás,FW,1994,25,15,1272,1,2,5,0,11,23,73,2023-2024,laliga
-pablo torre,"MF,FW",2003,26,4,701,0,2,1,0,25,65,40,2023-2024,laliga
-raúl torrente,DF,2001,17,14,1250,0,0,4,0,4,33,2,2023-2024,laliga
-ferrán torres,FW,2000,29,12,1211,7,2,2,0,30,44,113,2023-2024,laliga
-óliver torres,MF,1994,27,18,1616,0,1,3,0,40,96,110,2023-2024,laliga
-lucas torró,MF,1994,28,21,1788,1,0,5,0,3,60,15,2023-2024,laliga
-bertrand traoré,MF,1995,11,6,568,1,0,4,0,29,30,63,2023-2024,laliga
-hamari traoré,DF,1992,31,27,2292,0,2,7,0,49,129,83,2023-2024,laliga
-óscar trejo,"FW,MF",1988,31,19,1380,0,0,4,1,28,124,81,2023-2024,laliga
-manu trigueros,MF,1991,14,2,309,0,0,0,0,7,20,13,2023-2024,laliga
-viktor tsyhankov,"MF,FW",1997,30,26,2052,8,7,0,0,65,89,226,2023-2024,laliga
-beñat turrientes,MF,2002,29,19,1687,0,1,4,0,26,51,31,2023-2024,laliga
-enes ünal,"FW,MF",1997,3,1,140,0,1,0,0,2,1,7,2023-2024,laliga
-myrto uzuni,FW,1995,34,28,2448,11,1,3,0,21,18,90,2023-2024,laliga
-óscar valentín,MF,1994,34,32,2692,1,0,7,1,24,132,11,2023-2024,laliga
-martin valjent,DF,1995,28,28,2349,0,1,5,0,22,61,27,2023-2024,laliga
-jesús vallejo,DF,1997,3,1,108,0,0,1,0,1,2,0,2023-2024,laliga
-álvaro vallés,GK,1997,37,37,3263,0,0,2,1,0,5,0,2023-2024,laliga
-federico valverde,MF,1998,37,33,2904,2,7,2,0,104,231,102,2023-2024,laliga
-siebe van der heyden,DF,1998,6,4,286,0,0,2,1,1,1,1,2023-2024,laliga
-josé luis garcía vayá,MF,1998,37,37,3302,7,1,4,0,30,251,43,2023-2024,laliga
-borja vázquez,FW,2005,1,0,4,0,0,0,0,0,1,1,2023-2024,laliga
-jesus vazquez,"DF,MF",2003,20,6,716,1,0,1,0,13,15,29,2023-2024,laliga
-kevin vázquez,DF,1993,12,10,700,0,0,3,0,6,28,20,2023-2024,laliga
-lucas vázquez,DF,1991,29,14,1419,3,6,0,0,28,58,160,2023-2024,laliga
-gabriel veiga,FW,2002,1,0,18,0,0,0,0,0,0,1,2023-2024,laliga
-alejo véliz,FW,2003,6,0,35,0,0,0,0,0,0,1,2023-2024,laliga
-arthur vermeeren,MF,2005,5,2,162,0,0,2,0,2,7,7,2023-2024,laliga
-mikel vesga,MF,1993,27,18,1534,3,1,2,0,10,88,29,2023-2024,laliga
-carlos vicente,FW,1999,18,12,1114,2,4,1,0,23,23,82,2023-2024,laliga
-nacho vidal,"DF,FW",1995,7,0,96,1,0,0,0,0,1,4,2023-2024,laliga
-nacho vidal,DF,1995,8,5,416,0,0,2,0,5,15,31,2023-2024,laliga
-fran vieites,GK,1999,4,3,315,0,0,0,0,0,0,0,2023-2024,laliga
-jonathan viera,"MF,FW",1989,9,7,617,2,1,1,0,26,65,37,2023-2024,laliga
-jonathan viera,MF,1989,12,12,912,0,3,3,1,35,68,29,2023-2024,laliga
-toni villa,FW,1995,2,0,13,0,0,0,0,1,1,3,2023-2024,laliga
-asier villalibre,FW,1997,18,4,513,2,1,0,0,6,10,29,2023-2024,laliga
-gonzalo villar,MF,1998,35,21,1803,1,3,7,0,27,74,27,2023-2024,laliga
-iván villar,GK,1997,12,12,1014,0,0,0,2,0,0,0,2023-2024,laliga
-ricardo visus,DF,2001,3,1,166,0,0,0,0,0,2,0,2023-2024,laliga
-daniel vivian,DF,1999,33,31,2878,0,0,6,0,23,123,4,2023-2024,laliga
-shon weissman,FW,1996,5,0,82,0,0,0,0,1,1,1,2023-2024,laliga
-iñaki williams,FW,1994,34,32,2844,12,3,4,0,114,78,333,2023-2024,laliga
-nico williams,FW,2002,31,29,2263,5,11,6,1,143,66,302,2023-2024,laliga
-axel witsel,DF,1989,35,30,2783,2,0,5,0,17,89,8,2023-2024,laliga
-xeber,"FW,MF",1997,10,3,302,0,0,1,0,6,6,30,2023-2024,laliga
-antal yaakobishvili,DF,2004,1,0,61,0,0,0,0,0,0,0,2023-2024,laliga
-lamine yamal,FW,2007,37,22,2201,5,5,3,0,123,80,350,2023-2024,laliga
-roman yaremchuk,FW,1995,25,11,928,3,0,2,0,12,20,46,2023-2024,laliga
-arsen zakharyan,"MF,FW",2003,29,15,1228,1,2,1,0,28,47,88,2023-2024,laliga
-joseba zaldúa,DF,1992,13,9,704,0,0,3,0,7,15,33,2023-2024,laliga
-bryan zaragoza,"MF,FW",2001,21,18,1638,6,2,5,0,100,36,127,2023-2024,laliga
-igor zubeldia,DF,1997,30,29,2518,0,2,11,1,28,129,0,2023-2024,laliga
-martín zubimendi,MF,1999,31,29,2654,4,1,5,0,34,152,27,2023-2024,laliga
+nombre,club_actual,Posicion,nacido,partidos_jugados,titularidades,minutos_jugados,goles,asistencias,amarillas,rojas,carreras_progresivas,pases_progresivos,Pases_progresivos_recibidos,temporada,liga
+nabil aberdin,getafe,DF,2002,2,2,180,0,0,0,0,0,7,0,2023-2024,laliga
+abner,betis,DF,2000,23,15,1400,0,1,3,0,14,33,58,2023-2024,laliga
+abdel abqar,alaves,DF,1999,27,27,2312,0,0,10,0,7,49,1,2023-2024,laliga
+marcos acuna,sevilla,DF,1991,21,18,1292,1,2,7,0,23,59,42,2023-2024,laliga
+julen agirrezabala,athletic club,GK,2000,4,2,238,0,0,0,0,0,0,0,2023-2024,laliga
+lucien agoume,sevilla,MF,2002,12,9,777,0,0,3,0,7,35,9,2023-2024,laliga
+joseph aidoo,celta vigo,DF,1995,6,4,407,0,0,0,0,2,12,0,2023-2024,laliga
+ilias akhomach,villarreal,"MF,FW",2004,31,17,1511,2,2,4,0,68,45,160,2023-2024,laliga
+sergio akieme,almeria,DF,1997,19,19,1675,2,0,2,0,27,28,72,2023-2024,laliga
+paul akouokou,betis,MF,1997,2,0,27,0,0,0,0,0,1,0,2023-2024,laliga
+david alaba,real madrid,DF,1992,14,14,1154,0,1,2,0,9,51,13,2023-2024,laliga
+raul albiol,villarreal,DF,1985,26,24,2031,0,1,6,0,8,62,0,2023-2024,laliga
+ruben alcaraz,cadiz,MF,1991,36,36,3134,3,1,14,0,27,154,37,2023-2024,laliga
+omar alderete,getafe,DF,1996,31,24,2195,0,1,8,1,23,98,9,2023-2024,laliga
+ivan alejo,cadiz,MF,1995,30,21,1692,0,2,17,0,48,31,104,2023-2024,laliga
+carles alena,getafe,MF,1998,29,10,1020,1,1,6,0,12,23,45,2023-2024,laliga
+mohamed ali cho,real sociedad,"FW,MF",2004,11,1,249,0,0,0,0,16,3,19,2023-2024,laliga
+tadeo allende,celta vigo,"MF,FW",1999,10,2,336,1,0,1,0,9,7,25,2023-2024,laliga
+domingos andre ribeiro almeida,valencia,"FW,MF",2000,18,12,965,2,1,0,0,24,50,33,2023-2024,laliga
+marcos alonso,barcelona,DF,1990,5,3,252,0,0,0,0,11,14,33,2023-2024,laliga
+adria altimira,villarreal,"DF,MF",2001,11,10,775,0,0,3,0,10,29,15,2023-2024,laliga
+sergi altimira,betis,MF,2001,14,6,568,1,0,1,0,10,31,8,2023-2024,laliga
+gaston alvarez,getafe,DF,2000,34,29,2537,2,0,7,0,11,63,40,2023-2024,laliga
+hugo alvarez,celta vigo,"MF,DF",2003,12,8,762,1,1,1,0,36,34,80,2023-2024,laliga
+yeray alvarez,athletic club,DF,1995,19,14,1152,0,0,1,1,13,55,2,2023-2024,laliga
+selim amallah,valencia,"FW,MF",1996,20,7,604,0,1,5,1,7,21,36,2023-2024,laliga
+amath,mallorca,"FW,MF",1996,15,3,394,0,0,2,0,19,13,30,2023-2024,laliga
+miguel angel rubio,granada,DF,1998,19,17,1560,1,0,5,0,7,27,1,2023-2024,laliga
+fabrizio angileri,getafe,"DF,MF",1994,11,2,164,0,0,2,1,2,7,6,2023-2024,laliga
+mauro arambarri,getafe,MF,1995,7,3,339,0,0,2,0,2,20,6,2023-2024,laliga
+jon aramburu,real sociedad,DF,2002,11,5,543,0,0,3,0,6,26,25,2023-2024,laliga
+julian araujo,las palmas,DF,2001,25,15,1462,1,0,5,0,23,74,47,2023-2024,laliga
+ronald araujo,barcelona,DF,1999,25,21,1997,1,2,6,0,24,101,11,2023-2024,laliga
+adu ares,athletic club,FW,2001,12,2,265,0,0,2,0,13,3,39,2023-2024,laliga
+jesus areso,osasuna,DF,1999,37,29,2660,1,6,3,0,78,106,180,2023-2024,laliga
+matias arezo,granada,FW,2002,14,3,369,0,0,1,0,6,5,17,2023-2024,laliga
+inigo arguibide,osasuna,DF,2005,1,0,17,0,0,0,0,0,0,0,2023-2024,laliga
+jose arnaiz,osasuna,"FW,MF",1995,26,9,929,2,1,3,0,23,11,85,2023-2024,laliga
+sergio arribas,almeria,"MF,FW",2001,34,22,2047,9,4,1,0,56,81,94,2023-2024,laliga
+kepa arrizabalaga,real madrid,GK,1994,14,13,1198,0,0,1,0,0,0,0,2023-2024,laliga
+iago aspas,celta vigo,FW,1987,35,31,2707,9,10,6,1,84,161,202,2023-2024,laliga
+ezequiel avila,osasuna,"FW,MF",1994,17,10,864,1,3,3,2,14,39,75,2023-2024,laliga
+ezequiel avila,betis,FW,1994,6,4,298,1,0,4,1,7,6,31,2023-2024,laliga
+cesar azpilicueta,atletico madrid,DF,1989,25,14,1423,0,2,4,0,39,77,39,2023-2024,laliga
+iddrisu baba,almeria,MF,1996,25,14,1430,0,0,5,0,1,60,5,2023-2024,laliga
+sran babic,almeria,DF,1996,1,1,90,0,0,0,0,1,6,0,2023-2024,laliga
+loic bade,sevilla,DF,2000,28,27,2277,0,1,5,1,15,76,3,2023-2024,laliga
+alex baena,villarreal,"MF,FW",2001,34,33,2579,2,14,11,1,84,165,181,2023-2024,laliga
+eric bailly,villarreal,DF,1994,10,9,839,0,0,4,0,3,18,1,2023-2024,laliga
+cedric bakambu,betis,FW,1991,4,2,194,0,0,1,0,5,4,12,2023-2024,laliga
+alejandro balde,barcelona,DF,2003,18,15,1378,0,1,1,0,73,41,141,2023-2024,laliga
+ivan balliu,rayo vallecano,DF,1992,33,32,2873,0,1,4,0,50,98,100,2023-2024,laliga
+jonathan bamba,celta vigo,"MF,FW",1996,27,24,1981,3,2,0,0,107,80,169,2023-2024,laliga
+leo baptistao,almeria,FW,1992,32,22,1837,6,0,6,1,26,45,88,2023-2024,laliga
+kike barja,osasuna,"FW,MF",1997,16,3,303,0,0,3,0,17,8,41,2023-2024,laliga
+ander barrenetxea,real sociedad,"FW,MF",2001,29,20,1427,4,1,1,0,56,39,163,2023-2024,laliga
+pablo barrios,atletico madrid,MF,2003,24,17,1555,0,1,5,0,37,98,56,2023-2024,laliga
+marc bartra,betis,DF,1991,3,3,225,0,0,1,0,2,5,0,2023-2024,laliga
+augusto batalla,granada,GK,1996,17,17,1530,0,0,3,0,0,1,1,2023-2024,laliga
+bebe,rayo vallecano,"MF,FW",1990,19,0,212,2,0,1,0,17,6,24,2023-2024,laliga
+sheraldo becker,real sociedad,"FW,MF",1995,15,8,771,2,2,1,0,28,13,87,2023-2024,laliga
+hector bellerin,betis,DF,1995,23,20,1711,0,1,0,1,32,81,80,2023-2024,laliga
+jude bellingham,real madrid,MF,2003,28,27,2315,19,6,5,1,85,196,177,2023-2024,laliga
+fran beltran,celta vigo,MF,1999,33,28,2428,0,0,2,0,28,134,30,2023-2024,laliga
+carlos benavidez,alaves,MF,1998,29,10,1136,3,1,5,0,9,60,5,2023-2024,laliga
+yuri berchiche,athletic club,DF,1990,27,22,1930,3,1,5,0,36,132,77,2023-2024,laliga
+alex berenguer,athletic club,FW,1995,35,15,1592,7,3,4,0,61,30,143,2023-2024,laliga
+antonio blanco,alaves,MF,2000,33,29,2426,0,1,5,1,20,133,22,2023-2024,laliga
+daley blind,girona,DF,1990,34,33,2972,1,2,6,0,48,209,22,2023-2024,laliga
+adri bosch,granada,DF,2001,1,0,26,0,0,0,0,1,1,1,2023-2024,laliga
+yassine bounou,sevilla,GK,1991,1,1,90,0,0,0,0,0,0,0,2023-2024,laliga
+lucas boye,granada,FW,1996,31,30,2541,6,3,8,1,36,65,131,2023-2024,laliga
+darko brasanac,osasuna,MF,1992,2,0,48,0,0,0,0,2,1,3,2023-2024,laliga
+brau,granada,DF,2001,1,0,31,0,0,0,0,2,0,0,2023-2024,laliga
+claudio bravo,betis,GK,1983,7,7,630,0,0,0,0,0,1,0,2023-2024,laliga
+ben brereton,villarreal,"FW,MF",1999,14,2,270,0,0,2,0,6,14,35,2023-2024,laliga
+ante budimir,osasuna,FW,1991,33,29,2435,17,2,4,0,21,42,99,2023-2024,laliga
+manu bueno,sevilla,MF,2004,4,1,117,0,0,1,0,1,3,1,2023-2024,laliga
+pablo busto,betis,DF,2005,2,0,44,0,0,0,0,1,1,1,2023-2024,laliga
+jose callejon,granada,"MF,FW",1987,25,7,803,0,1,2,0,10,35,50,2023-2024,laliga
+eduardo camavinga,real madrid,"MF,DF",2002,31,21,1817,0,2,9,0,49,106,31,2023-2024,laliga
+sergio camello,rayo vallecano,FW,2001,31,20,1661,3,1,3,0,22,41,79,2023-2024,laliga
+jose campana,las palmas,MF,1993,8,1,171,0,0,0,0,1,15,4,2023-2024,laliga
+joao cancelo,barcelona,DF,1994,32,29,2503,2,4,7,0,106,141,193,2023-2024,laliga
+sergi canos,valencia,"MF,FW",1997,27,15,1229,1,2,1,0,32,52,88,2023-2024,laliga
+etienne capoue,villarreal,MF,1988,32,15,1455,1,1,8,0,24,80,38,2023-2024,laliga
+isaac carcelen,cadiz,DF,1993,35,29,2611,0,0,2,0,25,75,70,2023-2024,laliga
+dani cardenas,rayo vallecano,GK,1997,1,1,90,0,0,0,0,0,0,0,2023-2024,laliga
+marc cardona,las palmas,FW,1995,26,6,737,4,1,4,0,10,13,74,2023-2024,laliga
+sergi cardona,las palmas,DF,1999,35,30,2814,1,2,11,0,60,160,165,2023-2024,laliga
+johnny cardoso,betis,MF,2001,17,15,1328,1,2,3,0,10,45,11,2023-2024,laliga
+carmona,getafe,"DF,MF",2002,30,15,1313,1,1,8,0,29,39,55,2023-2024,laliga
+yannick carrasco,atletico madrid,DF,1993,3,3,221,0,1,0,0,9,6,17,2023-2024,laliga
+alvaro carreras,granada,"MF,FW",2003,13,5,475,0,0,1,0,13,14,31,2023-2024,laliga
+dani carvajal,real madrid,DF,1992,28,25,2171,4,3,5,1,30,82,168,2023-2024,laliga
+william carvalho,betis,MF,1992,22,4,680,1,3,2,0,12,58,12,2023-2024,laliga
+marc casado,barcelona,MF,2003,2,0,15,0,0,0,0,1,1,0,2023-2024,laliga
+catena,osasuna,DF,1994,30,28,2534,1,3,8,1,5,77,1,2023-2024,laliga
+dani ceballos,real madrid,"MF,FW",1996,20,5,598,0,2,2,0,16,47,23,2023-2024,laliga
+alex centelles,almeria,DF,1997,14,11,980,0,1,2,0,16,31,53,2023-2024,laliga
+franco cervi,celta vigo,"MF,DF",1994,17,5,546,0,1,2,0,16,24,36,2023-2024,laliga
+pep chavarria,rayo vallecano,"DF,MF",1998,22,12,1167,1,1,6,1,28,74,84,2023-2024,laliga
+andreas christensen,barcelona,"DF,MF",1996,30,27,1979,2,2,4,0,24,117,6,2023-2024,laliga
+chumi,almeria,DF,1999,31,26,2434,0,1,4,0,11,68,4,2023-2024,laliga
+victor chust,cadiz,DF,2000,22,22,1864,0,1,3,2,10,80,2,2023-2024,laliga
+pathe ciss,rayo vallecano,MF,1994,31,16,1664,1,0,10,0,14,84,22,2023-2024,laliga
+silvi clua,girona,MF,2005,1,0,1,0,0,0,0,0,0,0,2023-2024,laliga
+saul coco,las palmas,DF,1999,30,26,2295,1,0,6,1,9,69,1,2023-2024,laliga
+santi comesana,villarreal,MF,1996,27,20,1653,2,0,8,2,23,92,48,2023-2024,laliga
+copete,mallorca,DF,1999,19,17,1333,1,1,7,0,3,52,2,2023-2024,laliga
+francis coquelin,villarreal,MF,1991,17,10,910,0,0,4,0,5,47,14,2023-2024,laliga
+theo corbeanu,granada,"MF,FW",2002,9,2,182,1,0,2,0,5,5,13,2023-2024,laliga
+jesus corona,sevilla,"MF,DF",1993,2,0,17,0,0,0,0,0,0,4,2023-2024,laliga
+angel correa,atletico madrid,"FW,MF",1995,32,14,1528,9,2,3,0,40,61,128,2023-2024,laliga
+thierry correia,valencia,DF,1999,31,25,2154,0,2,4,1,40,80,56,2023-2024,laliga
+jaume costa,mallorca,DF,1988,30,19,1682,0,1,7,0,34,50,104,2023-2024,laliga
+samu costa,mallorca,MF,2000,34,26,2303,1,1,8,0,16,93,32,2023-2024,laliga
+thibaut courtois,real madrid,GK,1992,4,4,332,0,0,0,0,0,0,0,2023-2024,laliga
+yan couto,girona,"DF,FW",2002,34,24,2245,1,8,8,0,151,97,240,2023-2024,laliga
+crespo,rayo vallecano,MF,1996,15,4,527,0,0,4,0,13,30,20,2023-2024,laliga
+cristian,valencia,GK,1998,1,0,57,0,0,0,0,0,0,0,2023-2024,laliga
+juan cruz armada,osasuna,DF,1992,26,18,1667,0,1,3,0,16,77,29,2023-2024,laliga
+juan cruz,betis,FW,2000,5,0,76,0,0,0,0,2,3,10,2023-2024,laliga
+pau cubarsi,barcelona,DF,2007,19,18,1558,0,0,4,0,8,75,2,2023-2024,laliga
+ivan cuellar,mallorca,GK,1984,1,1,90,0,0,0,0,0,0,0,2023-2024,laliga
+jorge cuenca,villarreal,DF,1999,29,21,1963,3,1,7,0,11,78,30,2023-2024,laliga
+eric curbelo,las palmas,"DF,MF",1994,2,1,102,0,0,0,0,0,4,0,2023-2024,laliga
+alberto dadie,real sociedad,MF,2002,1,0,28,0,0,0,0,0,0,0,2023-2024,laliga
+sergi darder,mallorca,MF,1993,36,21,2157,2,5,4,0,56,132,75,2023-2024,laliga
+rodrigo de paul,atletico madrid,MF,1994,34,25,2075,3,5,7,0,73,202,55,2023-2024,laliga
+mouctar diakhaby,valencia,"DF,MF",1996,14,12,1073,1,0,6,0,7,29,1,2023-2024,laliga
+moussa diakite,cadiz,MF,2003,1,0,1,0,0,0,0,0,0,0,2023-2024,laliga
+assane diao,betis,FW,2005,18,13,1048,2,0,4,0,33,20,101,2023-2024,laliga
+brahim diaz,real madrid,"FW,MF",1999,31,18,1545,8,6,0,0,76,75,166,2023-2024,laliga
+victor diaz,granada,"DF,MF",1988,4,2,162,0,0,1,0,0,2,0,2023-2024,laliga
+famara diedhiou,granada,"FW,MF",1992,8,0,89,0,1,1,0,5,0,19,2023-2024,laliga
+stole dimitrievski,rayo vallecano,GK,1993,37,37,3330,0,0,2,0,0,0,0,2023-2024,laliga
+djene,getafe,"DF,MF",1991,33,30,2484,0,0,14,1,13,98,19,2023-2024,laliga
+marko dmitrovic,sevilla,GK,1992,13,13,1170,0,0,1,0,0,1,0,2023-2024,laliga
+jaume domenech,valencia,GK,1990,2,1,79,0,0,0,0,0,0,0,2023-2024,laliga
+carlos dominguez,celta vigo,DF,2001,22,18,1584,0,0,2,0,11,63,3,2023-2024,laliga
+mario dominguez,valencia,FW,2004,3,0,25,0,0,0,0,0,1,1,2023-2024,laliga
+carlos dotor,celta vigo,MF,2001,17,7,708,0,0,2,0,3,30,12,2023-2024,laliga
+anastasios douvikas,celta vigo,FW,1999,32,7,905,7,1,2,0,10,13,53,2023-2024,laliga
+artem dovbyk,girona,FW,1997,36,32,2587,24,8,2,0,18,26,118,2023-2024,laliga
+domingos duarte,getafe,DF,1995,15,11,907,0,0,5,2,7,47,0,2023-2024,laliga
+ruben duarte,alaves,DF,1995,28,21,1878,2,1,7,0,16,81,39,2023-2024,laliga
+hugo duro,valencia,FW,1999,37,35,2976,13,2,4,0,27,34,157,2023-2024,laliga
+aritz elustondo,real sociedad,DF,1994,15,7,812,0,1,2,0,4,31,2,2023-2024,laliga
+adri embarba,almeria,"FW,MF",1992,36,29,2476,3,2,5,0,94,58,167,2023-2024,laliga
+youssef ennesyri,sevilla,FW,1997,33,28,2570,16,2,4,0,17,17,81,2023-2024,laliga
+gonzalo escalante,cadiz,MF,1993,25,18,1697,1,2,2,1,4,66,14,2023-2024,laliga
+aaron escandell,las palmas,GK,1995,2,1,153,0,0,0,1,0,0,0,2023-2024,laliga
+alfonso espino,rayo vallecano,DF,1992,31,29,2507,0,1,9,0,41,113,89,2023-2024,laliga
+bernardo espinosa,girona,DF,1989,2,0,2,0,0,0,0,0,0,0,2023-2024,laliga
+karl etta,cadiz,FW,2003,1,0,21,0,0,0,0,0,0,1,2023-2024,laliga
+abde ezzalzouli,barcelona,"FW,MF",2001,2,0,68,0,0,0,0,7,1,12,2023-2024,laliga
+abde ezzalzouli,betis,FW,2001,26,6,865,1,0,1,0,57,25,89,2023-2024,laliga
+radamel falcao,rayo vallecano,"FW,DF",1986,22,2,407,1,0,4,0,7,7,23,2023-2024,laliga
+fali,cadiz,DF,1993,30,30,2547,0,0,12,0,16,82,10,2023-2024,laliga
+ansu fati,barcelona,"MF,FW",2002,3,0,50,0,0,0,0,6,4,5,2023-2024,laliga
+nabil fekir,betis,"MF,FW",1993,19,10,1049,1,2,1,0,32,67,77,2023-2024,laliga
+luiz felipe,betis,DF,1997,4,4,360,0,0,1,0,0,4,0,2023-2024,laliga
+joao felix,barcelona,FW,1999,30,18,1540,7,3,3,0,69,68,169,2023-2024,laliga
+kiko femenia,villarreal,DF,1991,23,16,1583,0,0,8,1,46,100,45,2023-2024,laliga
+aitor fernandez,osasuna,GK,1991,7,6,551,0,0,2,0,0,1,0,2023-2024,laliga
+alex fernandez,cadiz,MF,1992,26,14,1285,0,1,3,0,11,52,26,2023-2024,laliga
+carlos fernandez,real sociedad,FW,1996,10,5,408,2,1,3,0,5,4,13,2023-2024,laliga
+raul fernandez,granada,GK,1988,4,4,280,0,0,0,0,0,0,0,2023-2024,laliga
+valery fernandez,girona,"MF,FW",1999,27,2,506,2,0,1,0,20,12,54,2023-2024,laliga
+fernando,almeria,GK,1990,4,4,360,0,0,0,0,0,0,0,2023-2024,laliga
+fernando,sevilla,MF,1987,8,5,459,0,0,0,0,5,24,7,2023-2024,laliga
+andre ferreira,granada,GK,1996,15,14,1340,0,0,1,0,0,0,0,2023-2024,laliga
+rachad fettal,almeria,FW,2005,1,0,17,0,0,0,0,0,0,2,2023-2024,laliga
+pablo fornals,betis,"FW,MF",1996,15,14,1148,3,2,2,0,37,89,82,2023-2024,laliga
+hector fort,barcelona,DF,2006,7,4,318,0,2,0,0,3,7,38,2023-2024,laliga
+dimitri foulquier,valencia,"DF,MF",1993,33,19,1842,0,0,3,0,42,72,64,2023-2024,laliga
+juan foyth,villarreal,DF,1998,12,12,1062,1,1,1,0,19,51,28,2023-2024,laliga
+jorge de frutos,rayo vallecano,"FW,MF",1997,36,14,1549,2,0,1,0,42,40,144,2023-2024,laliga
+daniel fuzato,getafe,GK,1997,1,0,7,0,0,0,0,0,0,0,2023-2024,laliga
+matteo gabbia,villarreal,DF,1999,7,6,477,0,0,2,0,1,9,0,2023-2024,laliga
+javi galan,atletico madrid,DF,1994,5,0,88,0,0,1,0,3,4,13,2023-2024,laliga
+javi galan,real sociedad,DF,1994,14,13,1075,0,1,3,0,46,45,70,2023-2024,laliga
+inigo ruiz de galarreta,athletic club,MF,1993,29,25,2091,1,1,7,0,26,147,36,2023-2024,laliga
+aleix garcia,girona,MF,1997,37,36,3199,3,6,4,1,58,294,52,2023-2024,laliga
+alvaro garcia,rayo vallecano,"FW,MF",1992,32,30,2475,6,1,8,1,56,63,252,2023-2024,laliga
+dani garcia,athletic club,MF,1990,17,7,745,1,0,4,0,3,36,4,2023-2024,laliga
+david garcia,osasuna,DF,1994,27,27,2334,0,1,5,0,21,133,4,2023-2024,laliga
+eric garcia,barcelona,DF,2001,2,0,57,0,0,1,0,0,5,0,2023-2024,laliga
+eric garcia,girona,DF,2001,30,30,2637,5,0,4,0,45,221,18,2023-2024,laliga
+fran garcia,real madrid,DF,1999,25,15,1398,1,5,2,0,53,60,139,2023-2024,laliga
+gonzalo garcia,real madrid,"FW,MF",2004,2,0,19,0,0,0,0,1,0,3,2023-2024,laliga
+jastin garcia,girona,FW,2004,3,0,32,0,0,0,0,2,2,8,2023-2024,laliga
+raul garcia,athletic club,"FW,MF",1986,20,1,420,1,0,3,0,4,19,15,2023-2024,laliga
+ruben garcia,osasuna,"FW,MF",1993,30,19,1547,3,2,1,0,16,59,117,2023-2024,laliga
+santiago garcia,getafe,FW,2001,1,0,25,0,0,0,0,1,2,1,2023-2024,laliga
+unai garcia,osasuna,DF,1992,9,6,560,1,0,6,1,2,12,1,2023-2024,laliga
+yarek gasiorowski,valencia,DF,2005,14,7,735,0,0,1,0,4,15,10,2023-2024,laliga
+federico gattoni,sevilla,"DF,FW",1999,2,0,10,0,0,0,0,0,0,0,2023-2024,laliga
+gavi,barcelona,"MF,FW",2004,12,10,944,1,1,5,0,26,39,38,2023-2024,laliga
+paulo gazzaniga,girona,GK,1992,38,38,3420,0,0,2,0,0,0,0,2023-2024,laliga
+david gil,cadiz,GK,1994,5,4,372,0,0,1,0,0,0,0,2023-2024,laliga
+maxi gomez,cadiz,FW,1996,31,12,1163,0,0,2,0,13,11,54,2023-2024,laliga
+moi gomez,osasuna,"MF,FW",1994,28,23,2006,3,0,3,0,36,127,69,2023-2024,laliga
+unai gomez,athletic club,MF,2003,25,9,875,2,0,1,0,20,28,48,2023-2024,laliga
+edgar gonzalez,almeria,"DF,MF",1997,31,30,2522,2,0,7,1,6,72,6,2023-2024,laliga
+fabio gonzalez,las palmas,MF,1997,6,1,123,0,0,1,0,0,9,2,2023-2024,laliga
+giovanni gonzalez,mallorca,DF,1994,34,27,2464,1,1,6,0,28,91,95,2023-2024,laliga
+hugo gonzalez,valencia,"MF,FW",2003,9,0,87,0,1,0,0,2,2,7,2023-2024,laliga
+inaki gonzalez,las palmas,MF,2004,1,0,5,0,0,0,0,0,0,0,2023-2024,laliga
+peter gonzalez,valencia,"MF,FW",2002,15,5,649,0,0,1,0,19,16,48,2023-2024,laliga
+urko gonzalez,real sociedad,MF,2001,5,2,156,0,0,1,0,1,6,1,2023-2024,laliga
+andoni gorosabel,alaves,DF,1996,36,33,2854,1,0,6,0,58,117,121,2023-2024,laliga
+pablo gozalbez,valencia,"MF,FW",2001,5,1,103,0,0,0,0,0,0,5,2023-2024,laliga
+mason greenwood,getafe,"MF,FW",2001,33,30,2662,8,6,6,1,127,89,239,2023-2024,laliga
+dominik greif,mallorca,GK,1997,1,1,90,0,0,0,0,0,0,0,2023-2024,laliga
+antoine griezmann,atletico madrid,"FW,MF",1991,33,31,2644,16,6,5,0,43,118,196,2023-2024,laliga
+vicente guaita,celta vigo,GK,1987,27,26,2403,0,0,2,0,0,0,0,2023-2024,laliga
+andres guardado,betis,MF,1986,12,4,447,0,0,2,0,5,36,6,2023-2024,laliga
+sergi guardiola,cadiz,"FW,MF",1991,22,1,495,1,1,1,0,10,19,32,2023-2024,laliga
+nemanja gudelj,sevilla,"DF,MF",1991,22,20,1742,1,1,7,0,23,73,5,2023-2024,laliga
+goncalo guedes,villarreal,"FW,MF",1996,17,9,951,3,2,0,0,38,50,88,2023-2024,laliga
+javier guerra,valencia,MF,2003,36,28,2498,4,1,3,1,47,81,68,2023-2024,laliga
+ander guevara,alaves,MF,1997,37,33,2932,1,0,7,0,53,187,37,2023-2024,laliga
+hugo guillamon,valencia,MF,2000,26,12,1315,1,0,7,0,6,65,10,2023-2024,laliga
+marc guiu,barcelona,"FW,MF",2006,3,1,74,1,0,1,0,1,1,8,2023-2024,laliga
+arda guler,real madrid,"FW,MF",2005,10,4,377,6,0,1,0,16,17,25,2023-2024,laliga
+gerard gumbau,granada,MF,1994,35,31,2674,0,3,12,0,20,135,29,2023-2024,laliga
+ilkay gundogan,barcelona,MF,1990,36,33,2994,5,9,5,0,71,224,116,2023-2024,laliga
+jon guridi,alaves,MF,1995,36,34,2678,3,4,2,0,30,117,92,2023-2024,laliga
+gorka guruzeta,athletic club,FW,1996,32,30,2217,14,5,2,0,18,55,102,2023-2024,laliga
+miguel gutierrez,girona,DF,2001,35,35,3032,2,7,4,0,74,146,184,2023-2024,laliga
+munir el haddadi,las palmas,FW,1995,38,32,2449,3,2,3,0,26,78,167,2023-2024,laliga
+ianis hagi,alaves,"MF,FW",1998,22,8,804,0,2,3,0,17,32,58,2023-2024,laliga
+luiz henrique,betis,FW,2001,14,6,616,0,3,1,0,35,17,58,2023-2024,laliga
+mario hermoso,atletico madrid,DF,1995,31,29,2557,0,1,9,0,39,177,61,2023-2024,laliga
+javi hernandez,cadiz,DF,1998,30,28,2514,1,2,10,0,40,94,57,2023-2024,laliga
+aridane hernandez,rayo vallecano,DF,1989,19,19,1690,0,0,3,0,0,21,0,2023-2024,laliga
+luis hernandez,cadiz,DF,1989,9,8,723,1,0,4,0,2,31,1,2023-2024,laliga
+jorge herrando,osasuna,DF,2001,19,18,1644,0,1,4,0,3,35,1,2023-2024,laliga
+ander herrera,athletic club,MF,1989,23,10,1030,0,3,4,0,11,94,17,2023-2024,laliga
+cristian herrera,las palmas,"FW,MF",1991,8,1,166,1,0,1,0,2,8,16,2023-2024,laliga
+sergio herrera,osasuna,GK,1993,32,32,2869,0,0,2,0,0,1,0,2023-2024,laliga
+yangel herrera,girona,MF,1998,29,27,2107,5,0,9,0,31,92,76,2023-2024,laliga
+juan herzog,las palmas,DF,2003,4,3,292,2,0,1,0,0,3,0,2023-2024,laliga
+martin hongla,granada,"MF,DF",1998,13,6,562,0,0,0,0,3,16,5,2023-2024,laliga
+xabier huarte armendariz,osasuna,MF,2001,1,0,9,0,0,0,0,0,1,0,2023-2024,laliga
+pablo ibanez,osasuna,MF,1998,33,12,1152,1,2,5,0,26,67,54,2023-2024,laliga
+iglesias,getafe,"DF,FW",1998,23,16,1412,0,2,4,0,16,43,48,2023-2024,laliga
+borja iglesias,betis,FW,1993,11,4,408,0,1,2,0,5,12,32,2023-2024,laliga
+imanol,athletic club,DF,2000,9,5,525,0,0,2,0,13,21,15,2023-2024,laliga
+isco,betis,MF,1992,29,28,2326,8,5,10,0,100,216,145,2023-2024,laliga
+diego iturralde,sevilla,DF,2003,1,0,37,0,0,0,0,1,1,0,2023-2024,laliga
+adnan januzaj,sevilla,"FW,MF",1995,8,0,193,0,0,0,0,1,9,17,2023-2024,laliga
+mikel jauregizar,athletic club,MF,2003,7,1,151,0,0,0,0,2,5,3,2023-2024,laliga
+luis javier suarez,almeria,FW,1997,15,10,917,6,0,3,0,30,15,53,2023-2024,laliga
+salim el jebari,atletico madrid,MF,2004,1,0,13,0,0,0,0,1,0,1,2023-2024,laliga
+frenkie de jong,barcelona,MF,1997,20,20,1634,2,0,7,0,69,168,38,2023-2024,laliga
+joan jordan,sevilla,MF,1994,8,4,380,0,0,1,0,0,32,1,2023-2024,laliga
+jordi,getafe,"MF,DF",2001,13,5,573,0,0,1,0,6,14,28,2023-2024,laliga
+jeremy jorge,getafe,FW,2003,1,0,2,0,0,0,0,0,0,0,2023-2024,laliga
+willian jose,betis,FW,1991,33,25,1971,10,5,0,1,8,32,90,2023-2024,laliga
+joselu,real madrid,FW,1990,34,15,1687,10,2,1,0,15,20,98,2023-2024,laliga
+kamil jozwiak,granada,MF,1998,11,7,571,0,1,2,0,15,21,31,2023-2024,laliga
+juanmi,cadiz,FW,1993,16,9,873,3,1,3,0,7,12,40,2023-2024,laliga
+juanpe,girona,DF,1991,17,6,746,0,0,4,0,3,14,0,2023-2024,laliga
+vinicius junior,real madrid,FW,2000,26,22,1864,15,5,7,0,137,57,277,2023-2024,laliga
+filip jrgensen,villarreal,GK,2002,36,36,3240,0,0,4,0,0,0,0,2023-2024,laliga
+sory kaba,las palmas,FW,1995,17,9,720,1,1,2,0,7,12,36,2023-2024,laliga
+kaiky,almeria,DF,2004,8,5,523,1,0,2,0,4,24,1,2023-2024,laliga
+jon karrikaburu,alaves,"MF,FW",2002,2,0,16,0,0,0,0,0,0,1,2023-2024,laliga
+ibrahima kebe,girona,MF,2000,2,0,9,0,0,1,0,0,0,1,2023-2024,laliga
+kike,alaves,"FW,MF",1989,33,15,1423,3,2,3,0,18,32,97,2023-2024,laliga
+koke,atletico madrid,MF,1992,35,32,2493,0,4,5,0,26,212,26,2023-2024,laliga
+ibrahima kone,almeria,FW,1999,9,2,277,0,0,0,0,5,3,18,2023-2024,laliga
+rominigue kouame,cadiz,MF,1996,16,9,821,0,0,2,0,16,34,5,2023-2024,laliga
+jules kounde,barcelona,DF,1998,35,32,2899,1,2,4,0,67,245,64,2023-2024,laliga
+toni kroos,real madrid,MF,1990,33,24,2124,1,8,3,0,32,290,29,2023-2024,laliga
+takefusa kubo,real sociedad,"FW,MF",2001,30,24,2150,7,4,1,0,136,89,231,2023-2024,laliga
+luca de la torre,celta vigo,MF,1998,31,22,1956,1,4,4,1,58,93,88,2023-2024,laliga
+yoel lago,celta vigo,DF,2004,1,1,90,0,0,0,0,0,2,0,2023-2024,laliga
+erik lamela,sevilla,"FW,MF",1992,13,5,463,2,0,3,0,11,17,28,2023-2024,laliga
+bruno langa,almeria,DF,1997,11,9,820,1,0,1,1,14,25,30,2023-2024,laliga
+cyle larin,mallorca,FW,1995,35,20,1823,3,2,8,0,20,13,103,2023-2024,laliga
+juanmi latasa,getafe,FW,2001,32,15,1555,2,0,7,1,7,16,82,2023-2024,laliga
+toni lato,mallorca,DF,1997,28,16,1544,0,1,3,0,30,39,110,2023-2024,laliga
+lazaro,almeria,"FW,MF",2002,14,2,285,0,0,0,0,5,6,34,2023-2024,laliga
+robin le normand,real sociedad,DF,1996,29,28,2469,2,0,13,0,21,106,1,2023-2024,laliga
+jeremias ledesma,cadiz,GK,1993,34,34,3048,0,0,0,0,0,0,0,2023-2024,laliga
+florian lejeune,rayo vallecano,DF,1991,37,37,3327,3,1,5,0,15,114,4,2023-2024,laliga
+stefan lekovic,villarreal,DF,2004,1,0,29,0,0,0,0,0,0,0,2023-2024,laliga
+inigo lekue,athletic club,DF,1993,27,22,2002,0,2,4,0,44,119,35,2023-2024,laliga
+thomas lemar,atletico madrid,MF,1995,3,3,164,0,0,0,0,5,13,9,2023-2024,laliga
+alvaro lemos,las palmas,DF,1993,4,3,251,0,0,1,0,6,17,8,2023-2024,laliga
+ruben lendinez,valencia,DF,2003,1,0,11,0,0,0,0,0,0,3,2023-2024,laliga
+robert lewandowski,barcelona,FW,1988,35,32,2750,19,8,5,0,43,64,168,2023-2024,laliga
+samuel lino,atletico madrid,"DF,MF",1999,34,25,2080,4,5,1,0,131,84,215,2023-2024,laliga
+javier llabres,mallorca,"MF,FW",2002,16,1,247,1,0,1,0,9,5,30,2023-2024,laliga
+marcos llorente,atletico madrid,"MF,DF",1995,37,29,2565,6,4,5,0,71,106,179,2023-2024,laliga
+enzo loiodice,las palmas,MF,2000,34,19,1790,0,1,2,0,27,97,72,2023-2024,laliga
+david lopez,girona,DF,1989,25,25,1965,3,0,4,0,15,54,1,2023-2024,laliga
+diego lopez,valencia,"MF,FW",2002,36,30,2656,3,6,2,0,75,73,180,2023-2024,laliga
+fermin lopez,barcelona,"MF,FW",2003,31,14,1446,8,0,2,0,42,76,93,2023-2024,laliga
+javi lopez,alaves,DF,2002,32,25,2386,1,3,3,0,53,92,120,2023-2024,laliga
+unai lopez,rayo vallecano,MF,1995,35,28,2108,1,2,8,0,32,116,59,2023-2024,laliga
+dion lopy,almeria,MF,2002,30,23,1916,0,0,5,0,23,90,19,2023-2024,laliga
+anthony lozano,getafe,"MF,FW",1993,6,0,92,0,0,1,0,0,1,6,2023-2024,laliga
+anthony lozano,almeria,FW,1993,13,10,772,3,0,1,0,12,16,24,2023-2024,laliga
+lucas,cadiz,DF,2001,28,15,1539,1,0,6,0,30,47,65,2023-2024,laliga
+jose luis gaya,valencia,DF,1995,24,22,1791,1,2,2,0,41,72,97,2023-2024,laliga
+jose luis morales,villarreal,"FW,MF",1987,29,8,1048,7,0,0,0,29,17,79,2023-2024,laliga
+dodi lukebakio,sevilla,"FW,MF",1997,23,12,1125,5,1,0,0,48,26,116,2023-2024,laliga
+andriy lunin,real madrid,GK,1999,21,21,1890,0,0,2,0,0,0,0,2023-2024,laliga
+darwin machis,cadiz,MF,1993,21,10,785,4,0,0,1,20,15,54,2023-2024,laliga
+pablo maffeo,mallorca,DF,1997,22,17,1454,1,2,3,1,38,41,68,2023-2024,laliga
+jon magunazelaia,real sociedad,"FW,MF",2001,5,1,121,0,0,0,0,2,2,10,2023-2024,laliga
+nemanja maksimovic,getafe,MF,1995,37,37,3265,4,0,4,0,22,73,35,2023-2024,laliga
+giorgi mamardashvili,valencia,GK,2000,37,37,3284,0,0,3,1,0,0,0,2023-2024,laliga
+wilson manafa,granada,"DF,MF",1994,4,3,240,0,0,1,0,5,4,6,2023-2024,laliga
+reinildo mandava,atletico madrid,DF,1994,16,7,731,2,1,2,0,10,36,17,2023-2024,laliga
+aissa mandi,villarreal,DF,1991,16,12,1113,1,0,3,0,6,55,4,2023-2024,laliga
+javier manquillo,celta vigo,"DF,MF",1994,12,10,744,0,1,3,0,5,25,16,2023-2024,laliga
+faitout maouassa,granada,"DF,MF",1998,6,2,229,0,1,0,0,8,6,15,2023-2024,laliga
+marcao,sevilla,DF,1996,7,3,355,0,0,2,0,3,12,0,2023-2024,laliga
+oscar de marcos,athletic club,DF,1989,28,26,2258,1,5,5,0,51,143,125,2023-2024,laliga
+alberto mari,valencia,FW,2001,16,2,276,1,1,0,0,2,6,13,2023-2024,laliga
+jose mari,cadiz,"MF,FW",1987,3,0,14,0,0,1,0,0,1,1,2023-2024,laliga
+jose maria gimenez,atletico madrid,DF,1995,22,14,1326,0,0,5,0,2,26,1,2023-2024,laliga
+mariano,sevilla,"FW,MF",1993,9,2,244,0,0,1,0,3,6,17,2023-2024,laliga
+rafa marin,alaves,DF,2002,33,27,2443,0,0,6,0,13,77,6,2023-2024,laliga
+diego marino,almeria,GK,1990,1,1,90,0,0,0,0,0,0,0,2023-2024,laliga
+mika marmol,las palmas,DF,2001,36,36,3178,0,1,6,1,36,142,13,2023-2024,laliga
+unai marrero,real sociedad,GK,2001,2,1,142,0,0,0,0,0,0,0,2023-2024,laliga
+roger marti,cadiz,FW,1991,23,18,1359,2,3,3,0,7,19,64,2023-2024,laliga
+ivan martin,girona,MF,1999,36,33,2729,5,4,5,0,84,143,109,2023-2024,laliga
+jon martin,real sociedad,DF,2006,1,0,24,0,0,0,0,0,0,0,2023-2024,laliga
+mario martin,real madrid,MF,2004,2,0,18,0,0,0,0,0,0,1,2023-2024,laliga
+arnau martinez,girona,DF,2003,21,14,1241,0,2,5,0,29,68,16,2023-2024,laliga
+inigo martinez,barcelona,DF,1991,20,13,1296,0,0,5,0,33,97,5,2023-2024,laliga
+marc martinez,granada,GK,1990,3,3,270,0,0,0,0,0,0,0,2023-2024,laliga
+marvin,las palmas,"FW,DF",2000,31,17,1855,0,2,5,0,60,36,177,2023-2024,laliga
+omar mascarell,mallorca,MF,1993,29,18,1571,0,0,8,1,12,67,11,2023-2024,laliga
+jaime mata,getafe,"FW,MF",1988,35,22,1787,5,1,10,1,16,19,138,2023-2024,laliga
+luis maximiano,almeria,GK,1999,33,33,2970,0,0,1,0,0,0,0,2023-2024,laliga
+borja mayoral,getafe,FW,1997,27,25,2153,15,1,2,0,27,67,100,2023-2024,laliga
+mamadou mbaye,cadiz,DF,1998,4,2,288,0,0,2,0,0,4,0,2023-2024,laliga
+hannibal mejbri,sevilla,MF,2003,6,1,104,0,0,2,0,1,5,6,2023-2024,laliga
+oscar melendo,granada,"MF,FW",1997,26,15,1122,0,0,2,0,21,38,33,2023-2024,laliga
+gonzalo melero,almeria,"MF,FW",1994,28,10,1103,1,1,3,0,23,49,33,2023-2024,laliga
+memphis,atletico madrid,FW,1994,23,9,893,5,1,2,0,16,27,82,2023-2024,laliga
+houboulang mendes,almeria,DF,1998,7,4,396,0,0,0,0,5,9,6,2023-2024,laliga
+tomas mendes,alaves,MF,2004,1,0,6,0,0,0,0,0,0,0,2023-2024,laliga
+brais mendez,real sociedad,"MF,FW",1997,32,27,2413,5,6,7,0,45,128,121,2023-2024,laliga
+bruno mendez,granada,DF,1999,17,15,1333,2,0,4,0,8,47,14,2023-2024,laliga
+diego mendez,rayo vallecano,MF,2003,1,0,5,0,0,0,0,1,1,0,2023-2024,laliga
+ferland mendy,real madrid,DF,1995,23,21,1720,0,0,5,0,19,84,96,2023-2024,laliga
+jorge mere,cadiz,DF,1997,10,8,673,0,0,0,0,2,15,0,2023-2024,laliga
+mikel merino,real sociedad,MF,1996,32,27,2482,5,3,10,0,26,163,99,2023-2024,laliga
+omenuke mfulu,las palmas,"MF,FW",1994,5,1,82,0,0,1,0,1,1,0,2023-2024,laliga
+miguel,alaves,"FW,MF",1999,3,1,65,0,0,0,0,1,0,3,2023-2024,laliga
+eder militao,real madrid,DF,1998,10,6,496,0,0,0,0,7,15,2,2023-2024,laliga
+luis milla,getafe,MF,1994,27,25,2115,0,1,6,0,31,121,35,2023-2024,laliga
+marko milovanovic,almeria,"FW,MF",2003,11,2,308,1,0,0,0,2,3,13,2023-2024,laliga
+oscar mingueza,celta vigo,"DF,MF",1999,38,33,2998,2,2,4,0,74,170,134,2023-2024,laliga
+ignasi miquel,granada,DF,1992,34,33,2992,1,1,5,0,8,83,8,2023-2024,laliga
+rafa mir,sevilla,"FW,MF",1997,15,3,391,2,0,1,0,3,2,16,2023-2024,laliga
+juan miranda,betis,DF,2000,25,21,1858,1,1,8,0,35,103,95,2023-2024,laliga
+stefan mitrovic,getafe,DF,1990,11,9,699,1,0,3,0,4,19,2,2023-2024,laliga
+luka modric,real madrid,MF,1985,32,18,1688,2,6,2,0,53,196,85,2023-2024,laliga
+johan mojica,osasuna,DF,1992,30,22,2041,0,3,1,0,57,82,117,2023-2024,laliga
+alberto moleiro,las palmas,"FW,MF",2003,28,21,1803,3,3,1,0,86,87,184,2023-2024,laliga
+nahuel molina,atletico madrid,DF,1998,30,19,1852,2,3,4,1,47,68,170,2023-2024,laliga
+jon moncayola,osasuna,MF,1998,33,21,1800,1,3,2,1,14,99,46,2023-2024,laliga
+cesar montes,almeria,DF,1997,21,21,1788,0,0,5,0,7,52,2,2023-2024,laliga
+alvaro morata,atletico madrid,FW,1992,32,21,1904,15,3,4,1,22,20,88,2023-2024,laliga
+alberto moreno,villarreal,DF,1992,27,17,1484,2,2,5,2,26,55,79,2023-2024,laliga
+gerard moreno,villarreal,FW,1992,30,28,2215,10,6,0,0,48,155,199,2023-2024,laliga
+jorge moreno,osasuna,DF,2001,1,0,15,0,0,0,0,0,0,0,2023-2024,laliga
+ilaix moriba,getafe,"MF,FW",2003,14,8,605,0,2,5,1,8,21,19,2023-2024,laliga
+manu morlanes,mallorca,MF,1999,35,16,1615,0,2,2,0,29,104,31,2023-2024,laliga
+cristhian mosquera,valencia,DF,2004,36,33,3075,0,0,2,0,14,77,4,2023-2024,laliga
+yerson mosquera,villarreal,DF,2001,16,14,1229,2,1,4,0,8,36,12,2023-2024,laliga
+abdul mumin,rayo vallecano,DF,1998,20,19,1694,1,0,5,1,6,38,4,2023-2024,laliga
+iker muniain,athletic club,"MF,FW",1992,20,5,594,2,0,1,0,18,43,50,2023-2024,laliga
+aihen munoz,real sociedad,DF,1997,21,11,1127,0,2,2,0,24,39,23,2023-2024,laliga
+iker munoz,osasuna,MF,2002,28,20,1854,4,0,5,0,17,80,23,2023-2024,laliga
+javier munoz,las palmas,MF,1995,37,30,2640,2,3,6,0,33,122,126,2023-2024,laliga
+vedat muriqi,mallorca,FW,1994,29,25,2327,7,2,5,0,20,40,134,2023-2024,laliga
+nacho,real madrid,DF,1990,29,18,1746,0,1,4,2,13,55,9,2023-2024,laliga
+matija nastasic,mallorca,DF,1993,26,25,2258,2,0,8,0,11,64,4,2023-2024,laliga
+roberto navarro,cadiz,"MF,FW",2002,28,24,1888,1,1,0,1,81,70,119,2023-2024,laliga
+jesus navas,sevilla,DF,1985,29,25,2003,0,2,6,1,54,103,141,2023-2024,laliga
+alvaro negredo,cadiz,"FW,MF",1985,7,0,54,0,0,0,0,0,0,0,2023-2024,laliga
+carlos neva,granada,DF,1996,36,36,3146,0,2,4,0,43,111,98,2023-2024,laliga
+tanguy nianzou,sevilla,DF,2002,8,3,318,0,0,3,0,2,14,1,2023-2024,laliga
+saul niguez,atletico madrid,MF,1994,34,14,1374,1,4,10,1,21,34,43,2023-2024,laliga
+peru nolaskoain,athletic club,"DF,MF",1998,2,0,10,0,0,0,0,0,0,0,2023-2024,laliga
+randy nteka,rayo vallecano,"FW,MF",1997,16,3,572,1,1,3,0,12,15,35,2023-2024,laliga
+unai nunez,celta vigo,DF,1997,34,31,2801,1,0,4,0,10,106,2,2023-2024,laliga
+rjan nyland,sevilla,GK,1990,24,24,2160,0,0,1,0,0,0,1,2023-2024,laliga
+jan oblak,atletico madrid,GK,1993,38,38,3420,0,0,1,0,0,0,0,2023-2024,laliga
+brian ocampo,cadiz,"MF,FW",1999,13,1,248,1,0,2,0,18,9,25,2023-2024,laliga
+lucas ocampos,sevilla,"FW,MF",1994,35,34,2871,4,3,8,0,117,124,265,2023-2024,laliga
+alvaro odriozola,real sociedad,DF,1995,9,6,393,0,0,0,0,14,8,12,2023-2024,laliga
+aingeru olabarrieta,athletic club,FW,2005,1,0,9,0,0,0,0,1,0,0,2023-2024,laliga
+olasagasti,real sociedad,MF,2000,14,2,360,0,0,3,0,8,13,12,2023-2024,laliga
+samu omorodion,alaves,FW,2004,34,21,1918,8,1,6,0,30,18,100,2023-2024,laliga
+samu omorodion,granada,FW,2004,1,1,80,1,0,0,0,0,0,3,2023-2024,laliga
+aimar oroz,osasuna,MF,2001,33,26,2339,2,1,3,0,52,103,126,2023-2024,laliga
+eneko ortiz,alaves,DF,2003,1,0,14,0,0,0,0,1,1,1,2023-2024,laliga
+asier osambela,osasuna,MF,2004,1,0,9,0,0,0,0,0,0,1,2023-2024,laliga
+milutin osmajic,cadiz,MF,1999,1,0,5,0,0,0,0,0,0,0,2023-2024,laliga
+aiham ousou,cadiz,DF,2000,6,5,430,0,0,0,0,2,7,0,2023-2024,laliga
+jesus owono,alaves,GK,2001,4,4,360,0,0,1,0,0,0,0,2023-2024,laliga
+mikel oyarzabal,real sociedad,"FW,MF",1997,33,23,2156,9,3,3,0,27,39,126,2023-2024,laliga
+cenk ozkacar,valencia,DF,2000,23,18,1598,0,0,3,0,17,56,5,2023-2024,laliga
+jon pacheco,real sociedad,DF,2001,23,16,1526,1,1,8,0,9,53,1,2023-2024,laliga
+isaac palazon camacho,rayo vallecano,"MF,FW",1994,37,34,2791,4,1,8,0,40,128,152,2023-2024,laliga
+joaquin panichelli,alaves,"FW,MF",2002,8,2,226,0,0,0,0,3,6,10,2023-2024,laliga
+sokratis papastathopoulos,betis,DF,1988,15,12,1136,0,0,6,0,1,13,1,2023-2024,laliga
+victor parada,alaves,"FW,MF",2002,2,0,3,0,0,0,0,0,0,0,2023-2024,laliga
+aitor paredes,athletic club,DF,2000,34,31,2704,1,0,9,1,6,107,1,2023-2024,laliga
+daniel parejo,villarreal,MF,1989,33,29,2580,3,5,4,0,11,210,28,2023-2024,laliga
+pascu,villarreal,FW,2003,1,0,14,0,0,0,0,0,2,1,2023-2024,laliga
+gabriel paulista,atletico madrid,DF,1990,5,5,405,0,0,1,0,1,7,0,2023-2024,laliga
+gabriel paulista,valencia,DF,1990,18,16,1398,0,0,6,1,2,33,2,2023-2024,laliga
+nicolas paz,real madrid,"MF,FW",2004,4,0,23,0,0,0,0,3,6,2,2023-2024,laliga
+alfonso pedraza,villarreal,DF,1996,19,14,1116,1,3,4,1,56,31,97,2023-2024,laliga
+pedri,barcelona,"MF,FW",2002,24,16,1476,4,2,3,0,41,136,81,2023-2024,laliga
+adria pedrosa,sevilla,DF,1998,31,15,1753,1,4,1,0,46,61,109,2023-2024,laliga
+pejino,las palmas,FW,1996,17,6,504,2,0,1,0,17,20,66,2023-2024,laliga
+facundo pellistri,granada,"MF,FW",2001,15,14,1232,2,1,2,1,33,22,96,2023-2024,laliga
+inaki pena,barcelona,GK,1999,10,10,900,0,0,0,0,0,0,0,2023-2024,laliga
+marcos pena,almeria,MF,2005,7,4,441,0,0,3,0,0,10,0,2023-2024,laliga
+ruben pena,osasuna,"DF,FW",1991,29,26,2088,0,2,3,0,62,78,147,2023-2024,laliga
+alberto perea,granada,"MF,FW",1990,2,0,2,0,0,0,0,0,2,1,2023-2024,laliga
+ayoze perez,betis,FW,1993,31,29,2294,9,1,4,0,90,80,175,2023-2024,laliga
+carles perez,celta vigo,"MF,DF",1998,16,7,772,1,1,3,0,34,18,66,2023-2024,laliga
+francisco perez,valencia,"MF,FW",2002,32,27,2049,1,4,4,0,59,41,145,2023-2024,laliga
+kike perez,rayo vallecano,"MF,FW",1997,24,9,835,1,0,7,0,17,47,42,2023-2024,laliga
+maximo perrone,las palmas,MF,2003,29,20,1623,0,0,6,0,12,78,22,2023-2024,laliga
+njegos petrovic,granada,"MF,FW",1999,10,0,157,0,0,0,0,3,8,3,2023-2024,laliga
+german pezzella,betis,DF,1991,32,32,2767,1,0,7,0,5,64,1,2023-2024,laliga
+kamil piatkowski,granada,DF,2000,9,6,505,0,0,1,1,2,10,0,2023-2024,laliga
+yeremi pino,villarreal,"MF,FW",2002,7,7,475,0,0,4,0,11,10,49,2023-2024,laliga
+portu,getafe,FW,1992,3,0,97,0,0,1,0,3,3,3,2023-2024,laliga
+portu,girona,"MF,FW",1992,33,11,1188,7,5,3,0,32,32,96,2023-2024,laliga
+jose pozo,rayo vallecano,MF,1996,2,0,19,0,0,0,0,0,1,2,2023-2024,laliga
+alejandro pozo pozo,almeria,"DF,MF",1999,21,9,976,0,0,3,0,22,44,62,2023-2024,laliga
+benat prados,athletic club,"MF,DF",2001,26,16,1449,0,0,1,0,23,87,30,2023-2024,laliga
+abdon prats,mallorca,"FW,MF",1992,34,11,1270,6,1,4,0,9,26,49,2023-2024,laliga
+marc pubill,almeria,DF,2003,23,22,1883,1,3,2,0,59,36,85,2023-2024,laliga
+antonio puertas,granada,"MF,FW",1992,27,6,730,0,2,3,1,18,22,46,2023-2024,laliga
+arnau puigmal,almeria,"FW,DF",2001,11,3,255,0,0,3,0,4,8,17,2023-2024,laliga
+nemanja radonjic,mallorca,"MF,DF",1996,11,4,353,0,0,0,0,23,12,43,2023-2024,laliga
+aleksandar radovanovic,almeria,DF,1993,9,8,569,0,0,2,0,0,5,1,2023-2024,laliga
+abdellah raihani,atletico madrid,FW,2004,1,0,10,0,0,0,0,0,0,1,2023-2024,laliga
+antonio raillo,mallorca,DF,1991,26,25,2195,3,2,6,1,24,80,4,2023-2024,laliga
+predrag rajkovic,mallorca,GK,1995,36,36,3240,0,0,2,0,0,0,0,2023-2024,laliga
+ivan rakitic,sevilla,MF,1988,18,16,1425,2,1,6,0,24,127,52,2023-2024,laliga
+largie ramazani,almeria,"FW,MF",2001,29,16,1555,3,5,11,2,59,42,104,2023-2024,laliga
+benito ramirez,las palmas,"FW,MF",1995,20,2,384,1,1,0,0,13,5,46,2023-2024,laliga
+sandro ramirez,las palmas,FW,1995,27,21,1808,1,3,3,0,61,54,209,2023-2024,laliga
+chris ramos,cadiz,"FW,MF",1997,37,30,2612,5,1,5,0,31,28,102,2023-2024,laliga
+sergio ramos,sevilla,DF,1986,28,28,2517,3,0,7,1,11,81,5,2023-2024,laliga
+raphinha,barcelona,"FW,MF",1996,28,17,1368,6,9,4,1,49,57,164,2023-2024,laliga
+andrei ratiu,rayo vallecano,"DF,MF",1998,12,6,630,0,0,1,0,28,19,25,2023-2024,laliga
+raul,osasuna,FW,2000,35,13,1355,6,1,4,0,16,22,68,2023-2024,laliga
+abderrahman rebbach,alaves,"FW,MF",1998,23,6,722,1,0,1,0,34,14,78,2023-2024,laliga
+pepe reina,villarreal,GK,1982,2,2,180,0,0,2,1,0,0,0,2023-2024,laliga
+alex remiro,real sociedad,GK,1995,37,37,3275,0,0,3,1,0,1,0,2023-2024,laliga
+chadi riad,betis,DF,2003,26,24,2164,0,0,1,0,4,34,1,2023-2024,laliga
+diego rico,getafe,DF,1993,32,28,2535,0,7,10,0,28,119,79,2023-2024,laliga
+luis rioja,alaves,"FW,MF",1993,37,31,2498,5,4,4,0,70,77,173,2023-2024,laliga
+rodrigo riquelme,atletico madrid,"DF,MF",2000,34,17,1528,3,5,1,0,87,53,166,2023-2024,laliga
+alberto risco,getafe,MF,2005,4,1,137,0,0,0,0,3,6,14,2023-2024,laliga
+mihailo ristic,celta vigo,"DF,MF",1995,12,9,808,0,0,2,0,24,30,42,2023-2024,laliga
+gorka rivera alonso,getafe,DF,2004,1,0,3,0,0,0,0,0,0,0,2023-2024,laliga
+sergi roberto,barcelona,"MF,DF",1992,14,10,860,3,2,4,0,13,50,33,2023-2024,laliga
+lucas robertone,almeria,MF,1997,33,29,2381,0,5,11,0,31,128,37,2023-2024,laliga
+marc roca,betis,MF,1996,26,24,1980,2,2,5,0,24,126,20,2023-2024,laliga
+sergio rodelas,granada,"FW,DF",2004,3,2,122,0,1,0,0,3,1,5,2023-2024,laliga
+rodri,betis,"FW,MF",2000,29,9,1051,0,0,0,0,49,65,116,2023-2024,laliga
+alvaro rodriguez,real madrid,FW,2004,1,0,1,0,0,0,0,0,0,0,2023-2024,laliga
+oscar rodriguez arnaiz,getafe,"MF,FW",1998,24,9,967,2,1,9,0,13,52,48,2023-2024,laliga
+damian rodriguez,celta vigo,MF,2003,5,3,258,0,2,1,0,2,9,4,2023-2024,laliga
+dani rodriguez,mallorca,MF,1988,36,31,2615,2,4,9,0,54,118,110,2023-2024,laliga
+guido rodriguez,betis,MF,1994,24,22,1846,2,0,6,0,8,65,18,2023-2024,laliga
+kirian rodriguez,las palmas,MF,1996,37,36,3211,6,2,8,0,46,296,78,2023-2024,laliga
+miguel rodriguez,celta vigo,MF,2003,15,2,300,0,0,2,0,14,8,35,2023-2024,laliga
+rodrygo,real madrid,FW,2001,34,28,2380,10,5,2,0,159,90,301,2023-2024,laliga
+carlos romero,villarreal,DF,2001,7,2,262,0,0,1,0,6,6,21,2023-2024,laliga
+isaac romero,sevilla,FW,2000,14,14,1039,4,4,2,0,31,16,64,2023-2024,laliga
+luka romero,almeria,FW,2004,13,5,438,3,0,2,0,11,14,20,2023-2024,laliga
+oriol romeu,barcelona,MF,1991,28,11,936,0,1,4,0,12,66,4,2023-2024,laliga
+unai ropero,alaves,MF,2001,1,0,5,0,0,0,0,0,0,0,2023-2024,laliga
+vitor roque,barcelona,FW,2005,14,2,328,2,0,4,1,12,2,26,2023-2024,laliga
+antonio rudiger,real madrid,DF,1993,33,30,2709,1,0,7,0,17,88,1,2023-2024,laliga
+javier rueda garcia,celta vigo,"MF,DF",2002,1,0,20,0,0,0,0,0,1,2,2023-2024,laliga
+aitor ruibal,betis,"DF,FW",1996,18,11,1017,2,1,5,0,22,54,50,2023-2024,laliga
+sergio ruiz,granada,MF,1994,35,30,2494,0,4,9,0,34,113,23,2023-2024,laliga
+youssouf sabaly,betis,DF,1993,12,12,1046,0,1,2,0,31,47,43,2023-2024,laliga
+umar sadiq,real sociedad,FW,1997,26,12,1077,3,1,4,0,18,13,74,2023-2024,laliga
+pablo saenz,granada,MF,2001,1,0,19,0,0,0,0,0,2,0,2023-2024,laliga
+kike salas,sevilla,DF,2002,23,19,1605,3,0,10,0,11,61,16,2023-2024,laliga
+salvi,rayo vallecano,MF,1991,1,0,28,0,0,0,0,2,0,2,2023-2024,laliga
+diadie samassekou,cadiz,MF,1996,4,0,92,0,0,0,0,2,7,1,2023-2024,laliga
+fede san emeterio,cadiz,MF,1997,4,3,152,1,0,1,1,0,4,0,2023-2024,laliga
+oihan sancet,athletic club,MF,2000,30,25,1975,4,5,5,2,76,121,157,2023-2024,laliga
+ricard sanchez,granada,DF,2000,33,25,2295,3,0,8,0,49,84,103,2023-2024,laliga
+antonio sanchez,mallorca,MF,1997,29,21,1452,3,1,3,0,35,57,61,2023-2024,laliga
+juanlu sanchez,sevilla,DF,2003,26,11,1181,0,2,2,0,42,50,112,2023-2024,laliga
+manu sanchez,celta vigo,"DF,MF",2000,26,20,1775,0,5,3,0,41,74,67,2023-2024,laliga
+jesus santiago,getafe,MF,2004,14,8,656,1,0,4,0,5,15,12,2023-2024,laliga
+paco sanz,almeria,DF,2004,1,0,24,0,0,0,0,0,0,0,2023-2024,laliga
+stefan savic,atletico madrid,DF,1991,23,19,1630,0,0,7,1,14,66,2,2023-2024,laliga
+savio,girona,"FW,MF",2004,37,35,2976,9,10,5,0,181,93,372,2023-2024,laliga
+aleksandar sedlar,alaves,DF,1991,11,11,946,1,0,2,0,6,26,1,2023-2024,laliga
+andre silva,real sociedad,FW,1995,19,9,729,3,0,1,0,5,7,44,2023-2024,laliga
+rui silva,betis,GK,1994,28,28,2475,0,0,4,0,0,1,1,2023-2024,laliga
+giuliano simeone,alaves,FW,2002,14,6,630,1,2,1,0,25,24,47,2023-2024,laliga
+unai simon,athletic club,GK,1997,36,36,3182,0,0,2,0,0,0,0,2023-2024,laliga
+daley sinkgraven,las palmas,DF,1995,10,6,374,0,0,0,1,3,17,8,2023-2024,laliga
+jailson siqueira,celta vigo,"DF,MF",1995,14,9,897,0,1,1,0,16,38,8,2023-2024,laliga
+antonio sivera,alaves,GK,1996,34,34,3060,0,0,3,0,0,0,0,2023-2024,laliga
+ruben sobrino,cadiz,"MF,FW",1992,32,18,1646,0,1,8,1,27,34,78,2023-2024,laliga
+alex sola,alaves,"FW,MF",1999,29,14,1262,0,3,2,0,40,42,103,2023-2024,laliga
+alex sola,real sociedad,"DF,MF",1999,2,0,30,0,0,0,0,1,1,0,2023-2024,laliga
+jhon solis,girona,MF,2004,18,2,384,0,0,0,0,9,22,13,2023-2024,laliga
+david soria,getafe,GK,1993,38,38,3413,0,0,3,0,0,0,0,2023-2024,laliga
+alberto soro,granada,MF,1999,1,0,8,0,0,0,0,0,0,0,2023-2024,laliga
+hugo sotelo,celta vigo,MF,2003,17,8,721,0,1,1,0,16,55,13,2023-2024,laliga
+boubakary soumare,sevilla,MF,1999,28,26,2286,0,1,10,0,29,102,22,2023-2024,laliga
+djibril sow,sevilla,MF,1997,24,18,1460,1,1,6,0,25,73,45,2023-2024,laliga
+caglar soyuncu,atletico madrid,DF,1996,6,1,114,0,0,0,1,2,6,0,2023-2024,laliga
+carl starfelt,celta vigo,DF,1995,27,26,2216,1,0,4,0,5,38,1,2023-2024,laliga
+jrgen strand larsen,celta vigo,FW,2000,37,36,2863,13,3,5,0,33,25,183,2023-2024,laliga
+cristhian stuani,girona,FW,1986,31,5,804,9,3,6,0,3,5,24,2023-2024,laliga
+alex suarez,las palmas,DF,1993,32,30,2562,2,0,7,0,12,109,15,2023-2024,laliga
+damian suarez,getafe,DF,1988,16,15,1299,0,2,7,1,20,58,47,2023-2024,laliga
+denis suarez,villarreal,"MF,FW",1994,4,1,133,0,0,0,0,4,13,7,2023-2024,laliga
+suso,sevilla,"MF,FW",1993,29,15,1517,1,4,5,1,41,110,109,2023-2024,laliga
+max svensson,osasuna,FW,,1,0,3,0,0,0,0,0,0,0,2023-2024,laliga
+williot swedberg,celta vigo,"FW,MF",2004,15,4,439,5,0,1,0,7,6,26,2023-2024,laliga
+mamadou sylla,alaves,"FW,MF",1994,2,0,18,0,0,0,0,0,1,1,2023-2024,laliga
+alexander srloth,villarreal,FW,1995,34,30,2489,23,6,3,0,48,40,159,2023-2024,laliga
+yassin tallal,getafe,FW,2005,1,0,3,0,0,0,0,1,0,1,2023-2024,laliga
+renato tapia,celta vigo,"MF,DF",1995,21,15,1337,0,0,5,1,9,61,14,2023-2024,laliga
+cesar tarrega,valencia,DF,2002,1,0,8,0,0,0,0,0,0,0,2023-2024,laliga
+marciano tchami,almeria,"FW,MF",2004,6,0,43,0,0,0,0,1,1,3,2023-2024,laliga
+aurelien tchouameni,real madrid,"MF,DF",2000,27,22,1987,3,1,7,0,28,111,15,2023-2024,laliga
+nahuel tenaglia,alaves,DF,1996,25,11,1141,1,0,5,0,17,45,24,2023-2024,laliga
+marcandre ter stegen,barcelona,GK,1992,28,28,2520,0,0,3,0,0,1,0,2023-2024,laliga
+ramon terrats,villarreal,"MF,DF",2000,19,6,785,0,2,4,0,19,38,54,2023-2024,laliga
+kieran tierney,real sociedad,DF,1997,20,14,1238,0,2,1,0,22,77,39,2023-2024,laliga
+raul de tomas,rayo vallecano,FW,1994,25,15,1272,1,2,5,0,11,23,73,2023-2024,laliga
+pablo torre,girona,"MF,FW",2003,26,4,701,0,2,1,0,25,65,40,2023-2024,laliga
+raul torrente,granada,DF,2001,17,14,1250,0,0,4,0,4,33,2,2023-2024,laliga
+ferran torres,barcelona,FW,2000,29,12,1211,7,2,2,0,30,44,113,2023-2024,laliga
+oliver torres,sevilla,MF,1994,27,18,1616,0,1,3,0,40,96,110,2023-2024,laliga
+lucas torro,osasuna,MF,1994,28,21,1788,1,0,5,0,3,60,15,2023-2024,laliga
+bertrand traore,villarreal,MF,1995,11,6,568,1,0,4,0,29,30,63,2023-2024,laliga
+hamari traore,real sociedad,DF,1992,31,27,2292,0,2,7,0,49,129,83,2023-2024,laliga
+oscar trejo,rayo vallecano,"FW,MF",1988,31,19,1380,0,0,4,1,28,124,81,2023-2024,laliga
+manu trigueros,villarreal,MF,1991,14,2,309,0,0,0,0,7,20,13,2023-2024,laliga
+viktor tsyhankov,girona,"MF,FW",1997,30,26,2052,8,7,0,0,65,89,226,2023-2024,laliga
+benat turrientes,real sociedad,MF,2002,29,19,1687,0,1,4,0,26,51,31,2023-2024,laliga
+enes unal,getafe,"FW,MF",1997,3,1,140,0,1,0,0,2,1,7,2023-2024,laliga
+myrto uzuni,granada,FW,1995,34,28,2448,11,1,3,0,21,18,90,2023-2024,laliga
+oscar valentin,rayo vallecano,MF,1994,34,32,2692,1,0,7,1,24,132,11,2023-2024,laliga
+martin valjent,mallorca,DF,1995,28,28,2349,0,1,5,0,22,61,27,2023-2024,laliga
+jesus vallejo,granada,DF,1997,3,1,108,0,0,1,0,1,2,0,2023-2024,laliga
+alvaro valles,las palmas,GK,1997,37,37,3263,0,0,2,1,0,5,0,2023-2024,laliga
+federico valverde,real madrid,MF,1998,37,33,2904,2,7,2,0,104,231,102,2023-2024,laliga
+siebe van der heyden,mallorca,DF,1998,6,4,286,0,0,2,1,1,1,1,2023-2024,laliga
+jose luis garcia vaya,valencia,MF,1998,37,37,3302,7,1,4,0,30,251,43,2023-2024,laliga
+borja vazquez,cadiz,FW,2005,1,0,4,0,0,0,0,0,1,1,2023-2024,laliga
+jesus vazquez,valencia,"DF,MF",2003,20,6,716,1,0,1,0,13,15,29,2023-2024,laliga
+kevin vazquez,celta vigo,DF,1993,12,10,700,0,0,3,0,6,28,20,2023-2024,laliga
+lucas vazquez,real madrid,DF,1991,29,14,1419,3,6,0,0,28,58,160,2023-2024,laliga
+gabriel veiga,celta vigo,FW,2002,1,0,18,0,0,0,0,0,0,1,2023-2024,laliga
+alejo veliz,sevilla,FW,2003,6,0,35,0,0,0,0,0,0,1,2023-2024,laliga
+arthur vermeeren,atletico madrid,MF,2005,5,2,162,0,0,2,0,2,7,7,2023-2024,laliga
+mikel vesga,athletic club,MF,1993,27,18,1534,3,1,2,0,10,88,29,2023-2024,laliga
+carlos vicente,alaves,FW,1999,18,12,1114,2,4,1,0,23,23,82,2023-2024,laliga
+nacho vidal,osasuna,"DF,FW",1995,7,0,96,1,0,0,0,0,1,4,2023-2024,laliga
+nacho vidal,mallorca,DF,1995,8,5,416,0,0,2,0,5,15,31,2023-2024,laliga
+fran vieites,betis,GK,1999,4,3,315,0,0,0,0,0,0,0,2023-2024,laliga
+jonathan viera,las palmas,"MF,FW",1989,9,7,617,2,1,1,0,26,65,37,2023-2024,laliga
+jonathan viera,almeria,MF,1989,12,12,912,0,3,3,1,35,68,29,2023-2024,laliga
+toni villa,girona,FW,1995,2,0,13,0,0,0,0,1,1,3,2023-2024,laliga
+asier villalibre,athletic club,FW,1997,18,4,513,2,1,0,0,6,10,29,2023-2024,laliga
+gonzalo villar,granada,MF,1998,35,21,1803,1,3,7,0,27,74,27,2023-2024,laliga
+ivan villar,celta vigo,GK,1997,12,12,1014,0,0,0,2,0,0,0,2023-2024,laliga
+ricardo visus,betis,DF,2001,3,1,166,0,0,0,0,0,2,0,2023-2024,laliga
+daniel vivian,athletic club,DF,1999,33,31,2878,0,0,6,0,23,123,4,2023-2024,laliga
+shon weissman,granada,FW,1996,5,0,82,0,0,0,0,1,1,1,2023-2024,laliga
+inaki williams,athletic club,FW,1994,34,32,2844,12,3,4,0,114,78,333,2023-2024,laliga
+nico williams,athletic club,FW,2002,31,29,2263,5,11,6,1,143,66,302,2023-2024,laliga
+axel witsel,atletico madrid,DF,1989,35,30,2783,2,0,5,0,17,89,8,2023-2024,laliga
+xeber,alaves,"FW,MF",1997,10,3,302,0,0,1,0,6,6,30,2023-2024,laliga
+antal yaakobishvili,girona,DF,2004,1,0,61,0,0,0,0,0,0,0,2023-2024,laliga
+lamine yamal,barcelona,FW,2007,37,22,2201,5,5,3,0,123,80,350,2023-2024,laliga
+roman yaremchuk,valencia,FW,1995,25,11,928,3,0,2,0,12,20,46,2023-2024,laliga
+arsen zakharyan,real sociedad,"MF,FW",2003,29,15,1228,1,2,1,0,28,47,88,2023-2024,laliga
+joseba zaldua,cadiz,DF,1992,13,9,704,0,0,3,0,7,15,33,2023-2024,laliga
+bryan zaragoza,granada,"MF,FW",2001,21,18,1638,6,2,5,0,100,36,127,2023-2024,laliga
+igor zubeldia,real sociedad,DF,1997,30,29,2518,0,2,11,1,28,129,0,2023-2024,laliga
+martin zubimendi,real sociedad,MF,1999,31,29,2654,4,1,5,0,34,152,27,2023-2024,laliga

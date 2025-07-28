@@ -1,671 +1,489 @@
 nombre,club_actual,altura,valor,temporada,liga
-alex meret,SSC Napoli,1.9,18000000.0,2022-2023,Serie-A
-pierluigi gollini,AS Roma,1.94,4500000.0,2022-2023,Serie-A
-salvatore sirigu,Without Club,1.92,500000.0,2022-2023,Serie-A
-hubert idasiak,LKS Lodz,1.88,150000.0,2022-2023,Serie-A
-valerio boffelli,Cavese 1919,1.82,75000.0,2022-2023,Serie-A
-davide marfella,Without Club,1.82,50000.0,2022-2023,Serie-A
-min-jae kim,Bayern Munich,1.9,60000000.0,2022-2023,Serie-A
-amir rrahmani,SSC Napoli,1.92,25000000.0,2022-2023,Serie-A
-leo østigård,Stade Rennais FC,1.83,7000000.0,2022-2023,Serie-A
-juan jesus,SSC Napoli,1.85,3500000.0,2022-2023,Serie-A
-mathías olivera,SSC Napoli,1.85,18000000.0,2022-2023,Serie-A
-mário rui,Without Club,1.68,8000000.0,2022-2023,Serie-A
-giovanni di lorenzo,SSC Napoli,1.83,25000000.0,2022-2023,Serie-A
-alessandro zanoli,SSC Napoli,1.88,6000000.0,2022-2023,Serie-A
-bartosz bereszyński,Without Club,1.83,1600000.0,2022-2023,Serie-A
-stanislav lobotka,SSC Napoli,1.68,40000000.0,2022-2023,Serie-A
-diego demme,Hertha BSC,1.7,3000000.0,2022-2023,Serie-A
-frank anguissa,SSC Napoli,1.84,40000000.0,2022-2023,Serie-A
-piotr zieliński,Inter Milan,1.8,35000000.0,2022-2023,Serie-A
-tanguy ndombélé,OGC Nice,1.81,22000000.0,2022-2023,Serie-A
-karim zedadka,FC Südtirol,1.84,200000.0,2022-2023,Serie-A
-gianluca gaetano,Cagliari Calcio,1.83,4500000.0,2022-2023,Serie-A
-khvicha kvaratskhelia,Paris Saint-Germain,1.83,85000000.0,2022-2023,Serie-A
-eljif elmas,RB Leipzig,1.84,26000000.0,2022-2023,Serie-A
-hirving lozano,San Diego FC,1.75,25000000.0,2022-2023,Serie-A
-alessio zerbin,SSC Napoli,1.82,4000000.0,2022-2023,Serie-A
-matteo politano,SSC Napoli,1.71,15000000.0,2022-2023,Serie-A
-adam ounas,Without Club,1.72,7000000.0,2022-2023,Serie-A
-giacomo raspadori,SSC Napoli,1.72,35000000.0,2022-2023,Serie-A
-victor osimhen,SSC Napoli,1.86,120000000.0,2022-2023,Serie-A
-giovanni simeone,SSC Napoli,1.8,15000000.0,2022-2023,Serie-A
-andré onana,Manchester United,1.9,35000000.0,2022-2023,Serie-A
-samir handanovič,nan,1.93,500000.0,2022-2023,Serie-A
-gabriel brazão,Santos FC,1.92,400000.0,2022-2023,Serie-A
-alex cordaz,nan,1.88,200000.0,2022-2023,Serie-A
-nikolaos botis,Olympiacos Piraeus,1.96,100000.0,2022-2023,Serie-A
-alessandro bastoni,Inter Milan,1.9,60000000.0,2022-2023,Serie-A
-milan škriniar,Paris Saint-Germain,1.88,50000000.0,2022-2023,Serie-A
-stefan de vrij,Inter Milan,1.89,8000000.0,2022-2023,Serie-A
-francesco acerbi,Inter Milan,1.92,4000000.0,2022-2023,Serie-A
-danilo d'ambrosio,Without Club,1.8,1500000.0,2022-2023,Serie-A
-alessandro fontanarosa,Inter U23,1.85,400000.0,2022-2023,Serie-A
-federico dimarco,Inter Milan,1.75,35000000.0,2022-2023,Serie-A
-robin gosens,ACF Fiorentina,1.83,15000000.0,2022-2023,Serie-A
-dalbert,Sport Club do Recife,1.81,1000000.0,2022-2023,Serie-A
-denzel dumfries,Inter Milan,1.88,28000000.0,2022-2023,Serie-A
-matteo darmian,Inter Milan,1.83,4000000.0,2022-2023,Serie-A
-mattia zanotti,FC Lugano,1.75,800000.0,2022-2023,Serie-A
-hakan çalhanoğlu,Inter Milan,1.78,40000000.0,2022-2023,Serie-A
-marcelo brozović,Al-Nassr FC,1.81,25000000.0,2022-2023,Serie-A
-kristjan asllani,Inter Milan,1.79,12000000.0,2022-2023,Serie-A
-lucien agoumé,Sevilla FC,1.85,7000000.0,2022-2023,Serie-A
-aleksandar stanković,Inter Milan,1.85,,2022-2023,Serie-A
-nicolò barella,Inter Milan,1.75,75000000.0,2022-2023,Serie-A
-henrikh mkhitaryan,Inter Milan,1.77,6000000.0,2022-2023,Serie-A
-roberto gagliardini,Without Club,1.88,4000000.0,2022-2023,Serie-A
-ebenezer akinsanmiro,Pisa Sporting Club,1.84,800000.0,2022-2023,Serie-A
-raoul bellanova,Atalanta BC,1.88,5000000.0,2022-2023,Serie-A
-valentín carboni,Genoa CFC,1.85,5000000.0,2022-2023,Serie-A
-issiaka kamate,Inter U23,1.86,200000.0,2022-2023,Serie-A
-joaquín correa,Botafogo de Futebol e Regatas,1.88,12000000.0,2022-2023,Serie-A
-lautaro martínez,Inter Milan,1.74,85000000.0,2022-2023,Serie-A
-romelu lukaku,SSC Napoli,1.91,40000000.0,2022-2023,Serie-A
-edin džeko,ACF Fiorentina,1.93,4000000.0,2022-2023,Serie-A
-eddie salcedo,OFI Crete FC,1.78,2500000.0,2022-2023,Serie-A
-dennis curatolo,Aurora Pro Patria,,150000.0,2022-2023,Serie-A
-mike maignan,AC Milan,1.91,45000000.0,2022-2023,Serie-A
-ciprian tătărușanu,nan,1.98,400000.0,2022-2023,Serie-A
-devis vásquez,AC Milan,1.95,350000.0,2022-2023,Serie-A
-andreas jungdal,KVC Westerlo,1.95,300000.0,2022-2023,Serie-A
-lapo nava,US Cremonese,1.97,150000.0,2022-2023,Serie-A
-antonio mirante,nan,1.93,100000.0,2022-2023,Serie-A
-fikayo tomori,AC Milan,1.85,40000000.0,2022-2023,Serie-A
-pierre kalulu,Juventus FC,1.82,30000000.0,2022-2023,Serie-A
-malick thiaw,AC Milan,1.94,20000000.0,2022-2023,Serie-A
-matteo gabbia,AC Milan,1.85,5000000.0,2022-2023,Serie-A
-simon kjaer,nan,1.91,3500000.0,2022-2023,Serie-A
-andrei coubiș,Milan Futuro,1.89,100000.0,2022-2023,Serie-A
-theo hernández,Al-Hilal SFC,1.84,60000000.0,2022-2023,Serie-A
-fodé ballo-touré,Without Club,1.82,3500000.0,2022-2023,Serie-A
-andrea bozzolan,AC Reggiana 1919,1.78,125000.0,2022-2023,Serie-A
-davide calabria,Without Club,1.76,20000000.0,2022-2023,Serie-A
-sergiño dest,PSV Eindhoven,1.73,10000000.0,2022-2023,Serie-A
-alessandro florenzi,Without Club,1.73,2000000.0,2022-2023,Serie-A
-ismaël bennacer,AC Milan,1.75,40000000.0,2022-2023,Serie-A
-rade krunic,Red Star Belgrade,1.84,10000000.0,2022-2023,Serie-A
-yacine adli,AC Milan,1.86,8000000.0,2022-2023,Serie-A
-tiemoué bakayoko,Without Club,1.89,2500000.0,2022-2023,Serie-A
-sandro tonali,Newcastle United,1.81,50000000.0,2022-2023,Serie-A
-tommaso pobega,Bologna FC 1909,1.88,14000000.0,2022-2023,Serie-A
-aster vranckx,VfL Wolfsburg,1.83,8500000.0,2022-2023,Serie-A
-antonio gala,Campobasso FC,1.75,75000.0,2022-2023,Serie-A
-charles de ketelaere,Atalanta BC,1.92,22000000.0,2022-2023,Serie-A
-rafael leão,AC Milan,1.88,90000000.0,2022-2023,Serie-A
-ante rebić,Without Club,1.85,6000000.0,2022-2023,Serie-A
-brahim díaz,Real Madrid,1.7,20000000.0,2022-2023,Serie-A
-alexis saelemaekers,AC Milan,1.8,15000000.0,2022-2023,Serie-A
-junior messias,Genoa CFC,1.74,4500000.0,2022-2023,Serie-A
-divock origi,Milan Futuro,1.89,6000000.0,2022-2023,Serie-A
-olivier giroud,LOSC Lille,1.92,4000000.0,2022-2023,Serie-A
-marko lazetić,Milan Futuro,1.92,2000000.0,2022-2023,Serie-A
-zlatan ibrahimović,nan,1.95,2000000.0,2022-2023,Serie-A
-wojciech szczesny,FC Barcelona,1.95,10000000.0,2022-2023,Serie-A
-mattia perin,Juventus FC,1.88,4000000.0,2022-2023,Serie-A
-gian marco crespi,Spezia Calcio,1.89,200000.0,2022-2023,Serie-A
-giovanni garofani,Juventus Next Gen,1.88,200000.0,2022-2023,Serie-A
-carlo pinsoglio,Juventus FC,1.94,200000.0,2022-2023,Serie-A
-simone scaglia,Juventus Next Gen,1.96,25000.0,2022-2023,Serie-A
-bremer,Juventus FC,1.88,40000000.0,2022-2023,Serie-A
-danilo,CR Flamengo,1.84,15000000.0,2022-2023,Serie-A
-federico gatti,Juventus FC,1.9,12000000.0,2022-2023,Serie-A
-daniele rugani,Juventus FC,1.9,2000000.0,2022-2023,Serie-A
-leonardo bonucci,nan,1.89,1500000.0,2022-2023,Serie-A
-alessandro pio riccio,UC Sampdoria,1.87,700000.0,2022-2023,Serie-A
-alex sandro,CR Flamengo,1.8,3000000.0,2022-2023,Serie-A
-mattia de sciglio,Without Club,1.83,3000000.0,2022-2023,Serie-A
-tommaso barbieri,US Cremonese,1.81,1200000.0,2022-2023,Serie-A
-manuel locatelli,Juventus FC,1.85,30000000.0,2022-2023,Serie-A
-denis zakaria,AS Monaco,1.9,18000000.0,2022-2023,Serie-A
-nicolò rovella,SS Lazio,1.79,18000000.0,2022-2023,Serie-A
-leandro paredes,CA Boca Juniors,1.8,12000000.0,2022-2023,Serie-A
-enzo barrenechea,SL Benfica,1.86,900000.0,2022-2023,Serie-A
-adrien rabiot,Olympique Marseille,1.91,40000000.0,2022-2023,Serie-A
-nicolò fagioli,ACF Fiorentina,1.78,35000000.0,2022-2023,Serie-A
-weston mckennie,Juventus FC,1.85,18000000.0,2022-2023,Serie-A
-paul pogba,AS Monaco,1.91,15000000.0,2022-2023,Serie-A
-fabio miretti,Juventus FC,1.8,15000000.0,2022-2023,Serie-A
-alessandro sersanti,Juventus Next Gen,1.82,400000.0,2022-2023,Serie-A
-juan cuadrado,Without Club,1.76,4000000.0,2022-2023,Serie-A
-mattia compagnon,Venezia FC,1.83,400000.0,2022-2023,Serie-A
-filip kostić,Juventus FC,1.84,22000000.0,2022-2023,Serie-A
-nikola sekulov,UC Sampdoria,1.85,600000.0,2022-2023,Serie-A
-mohamed ihattaren,RKC Waalwijk,1.83,,2022-2023,Serie-A
-samuel iling-junior,Aston Villa,1.82,9000000.0,2022-2023,Serie-A
-federico chiesa,Liverpool FC,1.75,40000000.0,2022-2023,Serie-A
-ángel di maría,CA Rosario Central,1.78,8000000.0,2022-2023,Serie-A
-matías soulé,AS Roma,1.82,4000000.0,2022-2023,Serie-A
-dušan vlahović,Juventus FC,1.9,70000000.0,2022-2023,Serie-A
-moise kean,ACF Fiorentina,1.83,18000000.0,2022-2023,Serie-A
-arkadiusz milik,Juventus FC,1.86,8000000.0,2022-2023,Serie-A
-kaio jorge,Cruzeiro Esporte Clube,1.82,3000000.0,2022-2023,Serie-A
-cosimo da graça,Novara FC,1.85,800000.0,2022-2023,Serie-A
-juan musso,Atlético de Madrid,1.91,8000000.0,2022-2023,Serie-A
-marco sportiello,Atalanta BC,1.92,1500000.0,2022-2023,Serie-A
-tommaso bertini,Atalanta U23,,100000.0,2022-2023,Serie-A
-francesco rossi,Atalanta BC,1.93,100000.0,2022-2023,Serie-A
-giorgio scalvini,Atalanta BC,1.94,40000000.0,2022-2023,Serie-A
-merih demiral,Al-Ahli SFC,1.9,20000000.0,2022-2023,Serie-A
-caleb okoli,Leicester City,1.91,10000000.0,2022-2023,Serie-A
-berat djimsiti,Atalanta BC,1.9,10000000.0,2022-2023,Serie-A
-rafael tolói,Without Club,1.85,6000000.0,2022-2023,Serie-A
-josé luis palomino,CA Talleres,1.88,2500000.0,2022-2023,Serie-A
-iacopo regonesi,Atalanta U23,1.84,200000.0,2022-2023,Serie-A
-tommaso del lungo,Atalanta U23,1.86,100000.0,2022-2023,Serie-A
-joakim maehle,VfL Wolfsburg,1.85,14000000.0,2022-2023,Serie-A
-matteo ruggeri,Atlético de Madrid,1.87,4000000.0,2022-2023,Serie-A
-hans hateboer,Stade Rennais FC,1.87,6000000.0,2022-2023,Serie-A
-marten de roon,Atalanta BC,1.85,10000000.0,2022-2023,Serie-A
-matteo colombo,Atalanta U23,1.82,125000.0,2022-2023,Serie-A
-mannah chiwisa,Atalanta U23,1.78,125000.0,2022-2023,Serie-A
-leonardo mendicino,Atalanta U23,1.82,,2022-2023,Serie-A
-éderson,Atalanta BC,1.83,20000000.0,2022-2023,Serie-A
-mario pasalić,Atalanta BC,1.88,20000000.0,2022-2023,Serie-A
-endri muhameti,Atalanta U23,1.83,150000.0,2022-2023,Serie-A
-simone muratore,nan,1.86,100000.0,2022-2023,Serie-A
-brandon soppy,FC Lausanne-Sport,1.8,9000000.0,2022-2023,Serie-A
-davide zappacosta,Atalanta BC,1.82,7000000.0,2022-2023,Serie-A
-nadir zortea,Cagliari Calcio,1.87,2000000.0,2022-2023,Serie-A
-marco palestra,Atalanta BC,1.86,,2022-2023,Serie-A
-lorenzo bernasconi,Atalanta U23,1.9,75000.0,2022-2023,Serie-A
-teun koopmeiners,Juventus FC,1.84,30000000.0,2022-2023,Serie-A
-ruslan malinovskyi,Genoa CFC,1.81,15000000.0,2022-2023,Serie-A
-jérémie boga,OGC Nice,1.72,14000000.0,2022-2023,Serie-A
-lukas vorlicky,SK Slavia Prague,1.86,100000.0,2022-2023,Serie-A
-ademola lookman,Atalanta BC,1.74,30000000.0,2022-2023,Serie-A
-tommaso de nipoti,Atalanta U23,1.8,175000.0,2022-2023,Serie-A
-alessandro falleni,Guidonia Montecelio 1937 FC,,25000.0,2022-2023,Serie-A
-rasmus højlund,Manchester United,1.91,45000000.0,2022-2023,Serie-A
-duván zapata,Torino FC,1.88,8000000.0,2022-2023,Serie-A
-luis muriel,Orlando City SC,1.8,5000000.0,2022-2023,Serie-A
-ivan provedel,SS Lazio,1.94,12000000.0,2022-2023,Serie-A
-luís maximiano,UD Almería,1.9,6000000.0,2022-2023,Serie-A
-marius adamonis,FC Südtirol,1.91,150000.0,2022-2023,Serie-A
-federico magro,Hellas Verona,1.9,,2022-2023,Serie-A
-nicolò casale,Bologna FC 1909,1.91,22000000.0,2022-2023,Serie-A
-alessio romagnoli,SS Lazio,1.85,18000000.0,2022-2023,Serie-A
-patric,SS Lazio,1.84,5000000.0,2022-2023,Serie-A
-mario gila,SS Lazio,1.85,3000000.0,2022-2023,Serie-A
-fabio andrea ruggeri,SS Lazio,1.84,75000.0,2022-2023,Serie-A
-luca pellegrini,SS Lazio,1.78,7000000.0,2022-2023,Serie-A
-mohamed salim fares,SS Lazio,1.83,2000000.0,2022-2023,Serie-A
-dimitrije kamenovic,SS Lazio,1.89,700000.0,2022-2023,Serie-A
-ștefan radu,nan,1.83,300000.0,2022-2023,Serie-A
-adam marusic,SS Lazio,1.85,8000000.0,2022-2023,Serie-A
-elseid hysaj,SS Lazio,1.82,5000000.0,2022-2023,Serie-A
-romano floriani mussolini,US Cremonese,1.88,75000.0,2022-2023,Serie-A
-danilo cataldi,SS Lazio,1.8,10000000.0,2022-2023,Serie-A
-marco bertini,Lazio Weitere,1.85,100000.0,2022-2023,Serie-A
-sergej milinković-savić,Al-Hilal SFC,1.92,50000000.0,2022-2023,Serie-A
-marcos antônio,São Paulo Futebol Clube,1.66,8000000.0,2022-2023,Serie-A
-toma bašić,SS Lazio,1.9,6000000.0,2022-2023,Serie-A
-matías vecino,SS Lazio,1.87,4500000.0,2022-2023,Serie-A
-manuel lazzari,SS Lazio,1.74,7500000.0,2022-2023,Serie-A
-djavan anderson,Without Club,1.78,275000.0,2022-2023,Serie-A
-luis alberto,Al-Duhail SC,1.83,18000000.0,2022-2023,Serie-A
-mattia zaccagni,SS Lazio,1.77,30000000.0,2022-2023,Serie-A
-raúl moro,Ajax Amsterdam,1.69,2500000.0,2022-2023,Serie-A
-felipe anderson,Sociedade Esportiva Palmeiras,1.75,15000000.0,2022-2023,Serie-A
-matteo cancellieri,SS Lazio,1.85,5000000.0,2022-2023,Serie-A
-luka romero,CD Cruz Azul,1.69,3000000.0,2022-2023,Serie-A
-pedro,SS Lazio,1.67,1500000.0,2022-2023,Serie-A
-diego gonzález,Atlas Guadalajara,1.77,750000.0,2022-2023,Serie-A
-ciro immobile,Bologna FC 1909,1.85,15000000.0,2022-2023,Serie-A
-pierluigi gollini,AS Roma,1.94,4500000.0,2022-2023,Serie-A
-pietro terracciano,AC Milan,1.93,2000000.0,2022-2023,Serie-A
-michele cerofolini,SSC Bari,1.88,500000.0,2022-2023,Serie-A
-salvatore sirigu,Without Club,1.92,500000.0,2022-2023,Serie-A
-tommaso martinelli,ACF Fiorentina,1.94,,2022-2023,Serie-A
-tommaso vannucchi,US Città di Pontedera,1.97,,2022-2023,Serie-A
-nikola milenković,Nottingham Forest,1.95,18000000.0,2022-2023,Serie-A
-lucas martínez quarta,CA River Plate,1.83,10000000.0,2022-2023,Serie-A
-igor,Brighton & Hove Albion,1.88,10000000.0,2022-2023,Serie-A
-luca ranieri,ACF Fiorentina,1.87,2500000.0,2022-2023,Serie-A
-matija nastasić,Without Club,1.87,1500000.0,2022-2023,Serie-A
-dimo krastev,AC Florenz Weitere,1.95,200000.0,2022-2023,Serie-A
-cristiano biraghi,Torino FC,1.85,5000000.0,2022-2023,Serie-A
-aleksa terzic,Red Bull Salzburg,1.84,2000000.0,2022-2023,Serie-A
-dodô,ACF Fiorentina,1.66,20000000.0,2022-2023,Serie-A
-lorenzo venuti,UC Sampdoria,1.79,2000000.0,2022-2023,Serie-A
-michael kayode,Brentford FC,1.79,800000.0,2022-2023,Serie-A
-sofyan amrabat,Fenerbahce,1.85,30000000.0,2022-2023,Serie-A
-rolando mandragora,ACF Fiorentina,1.83,10000000.0,2022-2023,Serie-A
-lorenzo amatucci,UD Las Palmas,1.72,700000.0,2022-2023,Serie-A
-gaetano castrovilli,Without Club,1.87,10000000.0,2022-2023,Serie-A
-youssef maleh,US Lecce,1.79,4500000.0,2022-2023,Serie-A
-alfred duncan,Venezia FC,1.78,4000000.0,2022-2023,Serie-A
-szymon żurkowski,Spezia Calcio,1.85,3500000.0,2022-2023,Serie-A
-marco benassi,nan,1.84,1500000.0,2022-2023,Serie-A
-alessandro bianco,ACF Fiorentina,1.73,800000.0,2022-2023,Serie-A
-costantino favasuli,ACF Fiorentina,1.78,200000.0,2022-2023,Serie-A
-antonín barák,ACF Fiorentina,1.9,10000000.0,2022-2023,Serie-A
-giacomo bonaventura,Without Club,1.8,2500000.0,2022-2023,Serie-A
-riccardo saponara,nan,1.83,2000000.0,2022-2023,Serie-A
-riccardo sottil,ACF Fiorentina,1.8,8000000.0,2022-2023,Serie-A
-josip brekalo,ACF Fiorentina,1.75,5000000.0,2022-2023,Serie-A
-nico gonzález,Juventus FC,1.8,30000000.0,2022-2023,Serie-A
-jonathan ikoné,ACF Fiorentina,1.75,16000000.0,2022-2023,Serie-A
-filippo distefano,Carrarese Calcio 1908,1.76,600000.0,2022-2023,Serie-A
-arthur cabral,Botafogo de Futebol e Regatas,1.86,20000000.0,2022-2023,Serie-A
-christian kouamé,ACF Fiorentina,1.85,12000000.0,2022-2023,Serie-A
-luka jović,Without Club,1.82,8000000.0,2022-2023,Serie-A
-andrea consigli,Without Club,1.89,1000000.0,2022-2023,Serie-A
-alessandro russo,US Sassuolo,1.93,350000.0,2022-2023,Serie-A
-gioele zacchi,US Sassuolo,1.85,150000.0,2022-2023,Serie-A
-gianluca pegolo,nan,1.83,100000.0,2022-2023,Serie-A
-martin erlić,Bologna FC 1909,1.93,5000000.0,2022-2023,Serie-A
-ruan,US Sassuolo,1.87,4500000.0,2022-2023,Serie-A
-kaan ayhan,Galatasaray,1.85,3700000.0,2022-2023,Serie-A
-gian marco ferrari,Without Club,1.89,2000000.0,2022-2023,Serie-A
-filippo romagna,US Sassuolo,1.86,400000.0,2022-2023,Serie-A
-adrian cannavaro,Novara FC,1.8,100000.0,2022-2023,Serie-A
-rogério,VfL Wolfsburg,1.78,5500000.0,2022-2023,Serie-A
-georgios kyriakopoulos,Panathinaikos FC,1.86,3800000.0,2022-2023,Serie-A
-riccardo marchizza,Frosinone Calcio,1.86,1000000.0,2022-2023,Serie-A
-edoardo pieragnolo,US Sassuolo,1.84,100000.0,2022-2023,Serie-A
-jeremy toljan,Levante UD,1.82,4500000.0,2022-2023,Serie-A
-mert müldür,Fenerbahce,1.84,4000000.0,2022-2023,Serie-A
-maxime lopez,Paris FC,1.67,15000000.0,2022-2023,Serie-A
-davide frattesi,Inter Milan,1.78,25000000.0,2022-2023,Serie-A
-matheus henrique,Cruzeiro Esporte Clube,1.75,10000000.0,2022-2023,Serie-A
-abdou harroui,Hellas Verona,1.82,2700000.0,2022-2023,Serie-A
-pedro obiang,AC Monza,1.86,800000.0,2022-2023,Serie-A
-nadir zortea,Cagliari Calcio,1.87,2000000.0,2022-2023,Serie-A
-hamed junior traoré,AFC Bournemouth,1.77,22000000.0,2022-2023,Serie-A
-nedim bajrami,Rangers FC,1.79,7500000.0,2022-2023,Serie-A
-kristian thorstvedt,US Sassuolo,1.89,7500000.0,2022-2023,Serie-A
-kevin bruno,FC Crotone,,,2022-2023,Serie-A
-armand laurienté,US Sassuolo,1.71,18000000.0,2022-2023,Serie-A
-emil konradsen ceide,Rosenborg BK,1.85,2500000.0,2022-2023,Serie-A
-domenico berardi,US Sassuolo,1.83,18000000.0,2022-2023,Serie-A
-luca d'andrea,US Avellino 1912,1.73,2500000.0,2022-2023,Serie-A
-giacomo raspadori,SSC Napoli,1.72,35000000.0,2022-2023,Serie-A
-andrea pinamonti,US Sassuolo,1.85,15000000.0,2022-2023,Serie-A
-agustín álvarez,US Sassuolo,1.77,8000000.0,2022-2023,Serie-A
-janis antiste,Rapid Vienna,1.83,3000000.0,2022-2023,Serie-A
-grégoire defrel,Modena FC,1.79,1500000.0,2022-2023,Serie-A
-vanja milinković-savić,Torino FC,2.02,3500000.0,2022-2023,Serie-A
-etrit berisha,BK Häcken,1.94,400000.0,2022-2023,Serie-A
-luca gemello,AC Perugia Calcio,1.9,300000.0,2022-2023,Serie-A
-matteo fiorenza,AC Saluzzo,1.9,50000.0,2022-2023,Serie-A
-perr schuurs,Torino FC,1.91,25000000.0,2022-2023,Serie-A
-wilfried singo,AS Monaco,1.9,12000000.0,2022-2023,Serie-A
-alessandro buongiorno,SSC Napoli,1.9,10000000.0,2022-2023,Serie-A
-david zima,SK Slavia Prague,1.92,5000000.0,2022-2023,Serie-A
-andreaw gravillon,Adana Demirspor,1.89,4000000.0,2022-2023,Serie-A
-koffi djidji,Without Club,1.84,3000000.0,2022-2023,Serie-A
-ange caumenan n'guessan,Torino FC,1.87,200000.0,2022-2023,Serie-A
-sebas wade,RCD Mallorca B,1.9,10000.0,2022-2023,Serie-A
-ricardo rodríguez,Real Betis Balompié,1.82,3500000.0,2022-2023,Serie-A
-mërgim vojvoda,Como 1907,1.87,4000000.0,2022-2023,Serie-A
-ola aina,Nottingham Forest,1.84,3500000.0,2022-2023,Serie-A
-samuele ricci,AC Milan,1.81,20000000.0,2022-2023,Serie-A
-saša lukić,Fulham FC,1.82,12000000.0,2022-2023,Serie-A
-ivan ilić,Torino FC,1.86,19000000.0,2022-2023,Serie-A
-emirhan i̇lkhan,Torino FC,1.75,4000000.0,2022-2023,Serie-A
-karol linetty,Without Club,1.75,3500000.0,2022-2023,Serie-A
-ronaldo vieira,UC Sampdoria,1.78,2000000.0,2022-2023,Serie-A
-jacopo segre,Palermo FC,1.85,1700000.0,2022-2023,Serie-A
-gvidas gineitis,Torino FC,1.91,900000.0,2022-2023,Serie-A
-michel adopo,Cagliari Calcio,1.87,500000.0,2022-2023,Serie-A
-matthew garbett,Without Club,1.88,300000.0,2022-2023,Serie-A
-aaron ciammaglichella,Torino FC,1.8,,2022-2023,Serie-A
-brian bayeye,Torino FC,1.82,500000.0,2022-2023,Serie-A
-ali dembélé,Torino FC,1.89,200000.0,2022-2023,Serie-A
-valentino lazaro,Torino FC,1.81,5000000.0,2022-2023,Serie-A
-nikola vlašić,Torino FC,1.79,17000000.0,2022-2023,Serie-A
-aleksey miranchuk,Atlanta United FC,1.82,12000000.0,2022-2023,Serie-A
-nemanja radonjić,Red Star Belgrade,1.82,4000000.0,2022-2023,Serie-A
-yann karamoh,Without Club,1.84,3500000.0,2022-2023,Serie-A
-demba seck,FK Partizan Belgrade,1.9,2700000.0,2022-2023,Serie-A
-simone edera,Reggina 1914,1.74,300000.0,2022-2023,Serie-A
-antonio sanabria,Torino FC,1.8,10000000.0,2022-2023,Serie-A
-pietro pellegri,FC Empoli,1.89,3500000.0,2022-2023,Serie-A
-luigi caccavo,FC Lumezzane,1.92,125000.0,2022-2023,Serie-A
-marco silvestri,Without Club,1.91,5000000.0,2022-2023,Serie-A
-daniele padelli,Udinese Calcio,1.91,200000.0,2022-2023,Serie-A
-edoardo piana,SS Monopoli 1966,1.98,50000.0,2022-2023,Serie-A
-nehuén pérez,FC Porto,1.86,10000000.0,2022-2023,Serie-A
-jaka bijol,Leeds United,1.9,10000000.0,2022-2023,Serie-A
-rodrigo becão,Fenerbahce,1.91,10000000.0,2022-2023,Serie-A
-enzo ebosse,Hellas Verona,1.85,4500000.0,2022-2023,Serie-A
-adam masina,Torino FC,1.91,2500000.0,2022-2023,Serie-A
-filip benkovic,AIK,1.94,2200000.0,2022-2023,Serie-A
-bram nuytinck,NEC Nijmegen,1.91,1000000.0,2022-2023,Serie-A
-james abankwah,Watford FC,1.88,300000.0,2022-2023,Serie-A
-axel guessand,Kristiansund BK,1.92,250000.0,2022-2023,Serie-A
-niccolò cocetta,FC Crotone,1.84,75000.0,2022-2023,Serie-A
-destiny udogie,Tottenham Hotspur,1.88,25000000.0,2022-2023,Serie-A
-leonardo buta,Udinese Calcio,1.82,1500000.0,2022-2023,Serie-A
-marvin zeegelaar,Without Club,1.86,400000.0,2022-2023,Serie-A
-festy ebosele,Basaksehir FK,1.8,3500000.0,2022-2023,Serie-A
-kingsley ehizibue,Udinese Calcio,1.89,2500000.0,2022-2023,Serie-A
-walace,Cruzeiro Esporte Clube,1.88,7000000.0,2022-2023,Serie-A
-martin palumbo,US Avellino 1912,1.83,700000.0,2022-2023,Serie-A
-mato jajalo,nan,1.82,250000.0,2022-2023,Serie-A
-riccardo castagnaviz,Cjarlins Muzane,,50000.0,2022-2023,Serie-A
-jean-victor makengo,FC Lorient,1.77,10000000.0,2022-2023,Serie-A
-sandi lovrić,Udinese Calcio,1.8,10000000.0,2022-2023,Serie-A
-roberto pereyra,AEK Athens,1.82,6000000.0,2022-2023,Serie-A
-matteo bassi,Virtusvecomp Verona,1.88,10000.0,2022-2023,Serie-A
-brandon soppy,FC Lausanne-Sport,1.8,9000000.0,2022-2023,Serie-A
-lazar samardžić,Atalanta BC,1.84,14000000.0,2022-2023,Serie-A
-simone pafundi,Udinese Calcio,1.66,8000000.0,2022-2023,Serie-A
-tolgay arslan,Sanfrecce Hiroshima,1.8,1400000.0,2022-2023,Serie-A
-alberto centis,Arzignano Valchiampo,,75000.0,2022-2023,Serie-A
-diego russo,Sorrento 1945,1.86,,2022-2023,Serie-A
-florian thauvin,Udinese Calcio,1.81,3500000.0,2022-2023,Serie-A
-beto,Everton FC,1.94,25000000.0,2022-2023,Serie-A
-gerard deulofeu,Without Club,1.77,10000000.0,2022-2023,Serie-A
-isaac success,Without Club,1.82,4000000.0,2022-2023,Serie-A
-vivaldo semedo,Watford FC,1.92,500000.0,2022-2023,Serie-A
-ilija nestorovski,Slaven Belupo Koprivnica,1.82,400000.0,2022-2023,Serie-A
-lukasz skorupski,Bologna FC 1909,1.88,3500000.0,2022-2023,Serie-A
-federico ravaglia,Bologna FC 1909,1.96,450000.0,2022-2023,Serie-A
-francesco bardi,Without Club,1.88,400000.0,2022-2023,Serie-A
-nicola bagnolini,AS Gubbio 1910,1.94,200000.0,2022-2023,Serie-A
-francesco raffaelli,CPR Ospitaletto,,,2022-2023,Serie-A
-stefan posch,Bologna FC 1909,1.9,14000000.0,2022-2023,Serie-A
-jhon lucumí,Bologna FC 1909,1.87,12000000.0,2022-2023,Serie-A
-joaquín sosa,Independiente Santa Fe,1.89,3000000.0,2022-2023,Serie-A
-adama soumaoro,Without Club,1.87,3000000.0,2022-2023,Serie-A
-kevin bonifazi,Bologna FC 1909,1.87,2800000.0,2022-2023,Serie-A
-gary medel,CD Universidad Católica,1.71,800000.0,2022-2023,Serie-A
-wisdom amey,US Pianese,1.87,700000.0,2022-2023,Serie-A
-matteo angeli,AS Cittadella,1.85,450000.0,2022-2023,Serie-A
-riccardo stivanello,FC Bologna Weitere,1.88,250000.0,2022-2023,Serie-A
-mattia motolese,FC Bologna Weitere,1.88,125000.0,2022-2023,Serie-A
-andrea cambiaso,Juventus FC,1.82,8000000.0,2022-2023,Serie-A
-georgios kyriakopoulos,Panathinaikos FC,1.86,3800000.0,2022-2023,Serie-A
-charalampos lykogiannis,Bologna FC 1909,1.91,1000000.0,2022-2023,Serie-A
-denso kasius,AZ Alkmaar,1.83,1700000.0,2022-2023,Serie-A
-lorenzo de silvestri,Bologna FC 1909,1.87,400000.0,2022-2023,Serie-A
-ibrahima mbaye,Without Club,1.88,300000.0,2022-2023,Serie-A
-jerdy schouten,PSV Eindhoven,1.85,12000000.0,2022-2023,Serie-A
-nikola moro,Bologna FC 1909,1.84,6500000.0,2022-2023,Serie-A
-nicolás domínguez,Nottingham Forest,1.79,17000000.0,2022-2023,Serie-A
-lewis ferguson,Bologna FC 1909,1.81,12000000.0,2022-2023,Serie-A
-michel aebischer,Bologna FC 1909,1.83,4000000.0,2022-2023,Serie-A
-niklas pyyhtiä,Modena FC,1.88,600000.0,2022-2023,Serie-A
-kacper urbanski,Bologna FC 1909,1.83,600000.0,2022-2023,Serie-A
-kingsley michael,Without Club,1.76,250000.0,2022-2023,Serie-A
-roberto soriano,Without Club,1.82,2500000.0,2022-2023,Serie-A
-musa barrow,Al-Taawoun FC,1.84,11000000.0,2022-2023,Serie-A
-nicola sansone,Without Club,1.74,1500000.0,2022-2023,Serie-A
-riccardo orsolini,Bologna FC 1909,1.83,12000000.0,2022-2023,Serie-A
-emanuel vignato,Pisa Sporting Club,1.75,2000000.0,2022-2023,Serie-A
-orji okwonkwo,Bologna FC 1909,1.8,,2022-2023,Serie-A
-joshua zirkzee,Manchester United,1.93,9000000.0,2022-2023,Serie-A
-marko arnautovic,Red Star Belgrade,1.92,5000000.0,2022-2023,Serie-A
-antonio raimondo,Frosinone Calcio,1.85,800000.0,2022-2023,Serie-A
-michele di gregorio,Juventus FC,1.87,8000000.0,2022-2023,Serie-A
-alessio cragno,Without Club,1.84,3000000.0,2022-2023,Serie-A
-alessandro sorrentino,AC Monza,1.9,500000.0,2022-2023,Serie-A
-eugenio lamanna,Without Club,1.87,100000.0,2022-2023,Serie-A
-marlon,Shakhtar Donetsk,1.82,6000000.0,2022-2023,Serie-A
-pablo marí,ACF Fiorentina,1.93,5000000.0,2022-2023,Serie-A
-andrea carboni,AC Monza,1.87,4000000.0,2022-2023,Serie-A
-armando izzo,AC Monza,1.83,3000000.0,2022-2023,Serie-A
-luca caldirola,Without Club,1.86,1500000.0,2022-2023,Serie-A
-valentin antov,AC Monza,1.87,800000.0,2022-2023,Serie-A
-luca marrone,Calcio Lecco 1912,1.86,200000.0,2022-2023,Serie-A
-sheriff kassama,SSC Bari,1.89,150000.0,2022-2023,Serie-A
-gabriel paletta,nan,1.9,,2022-2023,Serie-A
-andrea ranocchia,nan,1.95,,2022-2023,Serie-A
-carlos augusto,Inter Milan,1.84,15000000.0,2022-2023,Serie-A
-franco carboni,FC Empoli,1.9,1000000.0,2022-2023,Serie-A
-samuele birindelli,AC Monza,1.76,2300000.0,2022-2023,Serie-A
-gabriele ferrarini,Without Club,1.8,550000.0,2022-2023,Serie-A
-giulio donati,Without Club,1.78,500000.0,2022-2023,Serie-A
-nicolò rovella,SS Lazio,1.79,18000000.0,2022-2023,Serie-A
-andrea barberis,AS Cittadella,1.77,800000.0,2022-2023,Serie-A
-antonis siatounis,Potenza Calcio,1.86,75000.0,2022-2023,Serie-A
-leonardo colombo,AC Monza,1.75,,2022-2023,Serie-A
-matteo pessina,AC Monza,1.87,15000000.0,2022-2023,Serie-A
-stefano sensi,Without Club,1.68,8000000.0,2022-2023,Serie-A
-filippo ranocchia,Palermo FC,1.86,1800000.0,2022-2023,Serie-A
-pepín machín,Without Club,1.84,1500000.0,2022-2023,Serie-A
-mattia valoti,US Cremonese,1.87,1500000.0,2022-2023,Serie-A
-warren bondo,AC Milan,1.77,700000.0,2022-2023,Serie-A
-patrick ciurria,AC Monza,1.78,5000000.0,2022-2023,Serie-A
-salvatore molina,FC Südtirol,1.77,650000.0,2022-2023,Serie-A
-andrea colpani,AC Monza,1.84,4000000.0,2022-2023,Serie-A
-samuele vignato,Without Club,1.72,600000.0,2022-2023,Serie-A
-andrea ferraris,Delfino Pescara 1936,1.73,100000.0,2022-2023,Serie-A
-marco d'alessandro,US Catanzaro,1.73,700000.0,2022-2023,Serie-A
-gianluca caprari,AC Monza,1.71,8000000.0,2022-2023,Serie-A
-dany mota,AC Monza,1.8,6000000.0,2022-2023,Serie-A
-andrea petagna,AC Monza,1.9,10000000.0,2022-2023,Serie-A
-christian gytkjær,SSC Bari,1.85,800000.0,2022-2023,Serie-A
-mirko marić,AC Monza,1.88,800000.0,2022-2023,Serie-A
-leo dos reis,UE Cornellà,,75000.0,2022-2023,Serie-A
-lorenzo montipò,Hellas Verona,1.91,4000000.0,2022-2023,Serie-A
-simone perilli,Hellas Verona,1.96,200000.0,2022-2023,Serie-A
-mattia chiesa,Hellas Verona Weitere,1.9,100000.0,2022-2023,Serie-A
-alessandro berardi,Without Club,1.85,50000.0,2022-2023,Serie-A
-giacomo toniolo,Hellas Verona,,10000.0,2022-2023,Serie-A
-manuel ravasio,Hellas Verona Primavera,1.85,,2022-2023,Serie-A
-isak hien,Atalanta BC,1.91,6000000.0,2022-2023,Serie-A
-diego coppola,Brighton & Hove Albion,1.93,4000000.0,2022-2023,Serie-A
-koray günter,Al-Okhdood Club,1.85,3500000.0,2022-2023,Serie-A
-giangiacomo magnani,Palermo FC,1.92,3000000.0,2022-2023,Serie-A
-paweł dawidowicz,Without Club,1.89,3000000.0,2022-2023,Serie-A
-bruno amione,Santos Laguna,1.87,2700000.0,2022-2023,Serie-A
-panagiotis retsos,Olympiacos Piraeus,1.86,2000000.0,2022-2023,Serie-A
-federico ceccherini,US Cremonese,1.87,1500000.0,2022-2023,Serie-A
-josh doig,US Sassuolo,1.89,8000000.0,2022-2023,Serie-A
-juan cabal,Juventus FC,1.86,2500000.0,2022-2023,Serie-A
-davide faraoni,Without Club,1.8,3000000.0,2022-2023,Serie-A
-fabio depaoli,UC Sampdoria,1.82,3000000.0,2022-2023,Serie-A
-filippo terracciano,AC Milan,1.86,1500000.0,2022-2023,Serie-A
-deyovaisio zeefuik,Hertha BSC,1.78,1200000.0,2022-2023,Serie-A
-adrien tamèze,Torino FC,1.82,6000000.0,2022-2023,Serie-A
-oliver abildgaard,Como 1907,1.92,4500000.0,2022-2023,Serie-A
-martin hongla,Granada CF,1.82,3000000.0,2022-2023,Serie-A
-ibrahim sulemana,Atalanta BC,1.8,1500000.0,2022-2023,Serie-A
-miguel veloso,nan,1.8,500000.0,2022-2023,Serie-A
-joselito,AC Perugia Calcio,1.84,75000.0,2022-2023,Serie-A
-ivan ilić,Torino FC,1.86,19000000.0,2022-2023,Serie-A
-ondrej duda,Al-Ettifaq FC,1.8,3400000.0,2022-2023,Serie-A
-darko lazović,Without Club,1.81,2500000.0,2022-2023,Serie-A
-antonín barák,ACF Fiorentina,1.9,10000000.0,2022-2023,Serie-A
-simone verdi,Without Club,1.74,4000000.0,2022-2023,Serie-A
-ajdin hrustić,Without Club,1.8,1500000.0,2022-2023,Serie-A
-mateusz praszelik,Cracovia,1.84,900000.0,2022-2023,Serie-A
-alessandro cortinovis,Atalanta U23,1.8,700000.0,2022-2023,Serie-A
-alphadjo cissè,Hellas Verona,1.81,,2022-2023,Serie-A
-jayden braaf,Hellas Verona,1.81,1000000.0,2022-2023,Serie-A
-cyril ngonge,SSC Napoli,1.8,2000000.0,2022-2023,Serie-A
-yayah kallon,Hellas Verona,1.75,1500000.0,2022-2023,Serie-A
-davide bragantini,Mantova 1911,1.79,150000.0,2022-2023,Serie-A
-denis cazzadori,Union Brescia,1.75,150000.0,2022-2023,Serie-A
-thomas henry,Standard Liège,1.91,4000000.0,2022-2023,Serie-A
-roberto piccoli,Cagliari Calcio,1.9,3500000.0,2022-2023,Serie-A
-kevin lasagna,Hellas Verona,1.86,1800000.0,2022-2023,Serie-A
-adolfo gaich,CSKA Moscow,1.9,1800000.0,2022-2023,Serie-A
-milan djuric,Parma Calcio 1913,1.99,1000000.0,2022-2023,Serie-A
-federico caia,Virtusvecomp Verona,1.83,150000.0,2022-2023,Serie-A
-guillermo ochoa,Without Club,1.85,1500000.0,2022-2023,Serie-A
-luigi sepe,US Salernitana 1919,1.85,1000000.0,2022-2023,Serie-A
-alessandro micai,CFR Cluj,1.86,500000.0,2022-2023,Serie-A
-vincenzo fiorillo,Carrarese Calcio 1908,1.9,200000.0,2022-2023,Serie-A
-jacopo de matteis,Alma Juventus Fano 1906,1.89,25000.0,2022-2023,Serie-A
-andrea sorrentino,Campobasso FC,,25000.0,2022-2023,Serie-A
-pasquale allocca,Without Club,1.86,,2022-2023,Serie-A
-flavius daniliuc,US Salernitana 1919,1.88,8000000.0,2022-2023,Serie-A
-lorenzo pirola,Olympiacos Piraeus,1.85,8000000.0,2022-2023,Serie-A
-matteo lovato,US Salernitana 1919,1.88,6000000.0,2022-2023,Serie-A
-dylan bronn,Servette FC,1.85,2500000.0,2022-2023,Serie-A
-william troost-ekong,Al-Kholood Club,1.91,2500000.0,2022-2023,Serie-A
-norbert gyömbér,Al-Kholood Club,1.89,1500000.0,2022-2023,Serie-A
-valerio mantovani,Ascoli Calcio,1.84,700000.0,2022-2023,Serie-A
-federico fazio,nan,1.95,400000.0,2022-2023,Serie-A
-frédéric veseli,FC Südtirol,1.85,300000.0,2022-2023,Serie-A
-andrei motoc,Athens Kallithea,1.95,75000.0,2022-2023,Serie-A
-domagoj bradarić,US Salernitana 1919,1.78,7000000.0,2022-2023,Serie-A
-pawel jaroszynski,Without Club,1.84,450000.0,2022-2023,Serie-A
-sanasi sy,Without Club,1.84,300000.0,2022-2023,Serie-A
-pasquale mazzocchi,SSC Napoli,1.83,4800000.0,2022-2023,Serie-A
-junior sambia,Without Club,1.85,3500000.0,2022-2023,Serie-A
-wajdi kechrida,Al-Gharafa SC,1.77,800000.0,2022-2023,Serie-A
-emil bohinen,Genoa CFC,1.89,3400000.0,2022-2023,Serie-A
-ivan radovanovic,nan,1.87,400000.0,2022-2023,Serie-A
-giulio maggiore,US Salernitana 1919,1.84,5500000.0,2022-2023,Serie-A
-lassana coulibaly,US Lecce,1.83,5000000.0,2022-2023,Serie-A
-tonny vilhena,Panathinaikos FC,1.75,3800000.0,2022-2023,Serie-A
-hans nicolussi caviglia,Venezia FC,1.84,2000000.0,2022-2023,Serie-A
-domen crnigoj,Venezia FC,1.88,1500000.0,2022-2023,Serie-A
-leonardo capezzi,Carrarese Calcio 1908,1.78,350000.0,2022-2023,Serie-A
-michele cavion,LR Vicenza,1.8,350000.0,2022-2023,Serie-A
-antonio pio iervolino,US Salernitana 1919,,100000.0,2022-2023,Serie-A
-grigoris kastanos,Hellas Verona,1.79,1800000.0,2022-2023,Serie-A
-antonio candreva,nan,1.8,1500000.0,2022-2023,Serie-A
-reda boultam,NK Olimpija Ljubljana,1.87,400000.0,2022-2023,Serie-A
-andres sfait,CFR Cluj,1.8,50000.0,2022-2023,Serie-A
-franck ribéry,nan,1.7,,2022-2023,Serie-A
-boulaye dia,SS Lazio,1.8,25000000.0,2022-2023,Serie-A
-krzysztof piatek,Al-Duhail SC,1.83,7000000.0,2022-2023,Serie-A
-federico bonazzoli,US Cremonese,1.85,4000000.0,2022-2023,Serie-A
-erik botheim,Malmö FF,1.87,3500000.0,2022-2023,Serie-A
-diego valencia,CD Universidad Católica,1.85,2000000.0,2022-2023,Serie-A
-edoardo vergani,Without Club,1.86,450000.0,2022-2023,Serie-A
-julian kristoffersen,Without Club,1.98,175000.0,2022-2023,Serie-A
-bartlomiej dragowski,Panathinaikos FC,1.91,4500000.0,2022-2023,Serie-A
-jeroen zoet,AZ Alkmaar,1.89,400000.0,2022-2023,Serie-A
-petar zovko,Lokomotiv Plovdiv,1.92,100000.0,2022-2023,Serie-A
-federico marchetti,Marsaxlokk FC,1.88,50000.0,2022-2023,Serie-A
-leonardo dido,Unknown,,10000.0,2022-2023,Serie-A
-jakub kiwior,Arsenal FC,1.89,25000000.0,2022-2023,Serie-A
-ethan ampadu,Leeds United,1.82,9000000.0,2022-2023,Serie-A
-dimitrios nikolaou,SSC Bari,1.88,3500000.0,2022-2023,Serie-A
-przemysław wiśniewski,Spezia Calcio,1.95,3000000.0,2022-2023,Serie-A
-mattia caldara,Without Club,1.87,2000000.0,2022-2023,Serie-A
-petko hristov,Spezia Calcio,1.91,900000.0,2022-2023,Serie-A
-elio capradossi,FC Universitatea Cluj,1.85,750000.0,2022-2023,Serie-A
-nicolò bertola,Udinese Calcio,1.92,150000.0,2022-2023,Serie-A
-simone giorgeschi,Spezia Calcio,1.89,50000.0,2022-2023,Serie-A
-arkadiusz reca,Legia Warszawa,1.87,3000000.0,2022-2023,Serie-A
-joão moutinho,Lech Poznan,1.83,1500000.0,2022-2023,Serie-A
-leonardo gabelli,USD Lavagnese 1919,,25000.0,2022-2023,Serie-A
-emil holm,Bologna FC 1909,1.91,5000000.0,2022-2023,Serie-A
-kelvin amian,FC Nantes,1.8,3800000.0,2022-2023,Serie-A
-luca vignali,Spezia Calcio,1.86,1000000.0,2022-2023,Serie-A
-salva ferrer,CE Europa,1.84,800000.0,2022-2023,Serie-A
-salvatore esposito,Spezia Calcio,1.78,3300000.0,2022-2023,Serie-A
-albin ekdal,Djurgårdens IF,1.86,800000.0,2022-2023,Serie-A
-emil kornvig,SK Brann,1.85,450000.0,2022-2023,Serie-A
-aurélien nguiamba,Arka Gdynia,1.79,300000.0,2022-2023,Serie-A
-simone bastoni,Cesena FC,1.81,6500000.0,2022-2023,Serie-A
-szymon żurkowski,Spezia Calcio,1.85,3500000.0,2022-2023,Serie-A
-mikael egill ellertsson,Genoa CFC,1.82,1500000.0,2022-2023,Serie-A
-mehdi bourabia,Without Club,1.83,1300000.0,2022-2023,Serie-A
-aimar sher,Sarpsborg 08 FF,1.8,800000.0,2022-2023,Serie-A
-jacopo sala,Without Club,1.81,400000.0,2022-2023,Serie-A
-julius beck,SK Sturm Graz,1.78,250000.0,2022-2023,Serie-A
-pietro candelari,Spezia Calcio,1.78,,2022-2023,Serie-A
-emmanuel gyasi,Palermo FC,1.81,2000000.0,2022-2023,Serie-A
-daniel maldini,Atalanta BC,1.88,3000000.0,2022-2023,Serie-A
-kevin agudelo,Al-Nasr SC (UAE),1.78,3000000.0,2022-2023,Serie-A
-viktor kovalenko,Without Club,1.82,1500000.0,2022-2023,Serie-A
-leonardo pedicillo,US Triestina,,25000.0,2022-2023,Serie-A
-suf podgoreanu,Maccabi Haifa,1.93,300000.0,2022-2023,Serie-A
-daniele verde,Spezia Calcio,1.68,3000000.0,2022-2023,Serie-A
-leandro sanca,Piast Gliwice,1.84,400000.0,2022-2023,Serie-A
-ognjen stijepovic,Without Club,1.85,50000.0,2022-2023,Serie-A
-m'bala nzola,ACF Fiorentina,1.85,8000000.0,2022-2023,Serie-A
-eldor shomurodov,Basaksehir FK,1.9,6000000.0,2022-2023,Serie-A
-raimonds krollis,FC Slovan Liberec,1.86,2500000.0,2022-2023,Serie-A
-david strelec,Slovan Bratislava,1.85,1100000.0,2022-2023,Serie-A
-tio cipot,Grazer AK 1902,1.84,700000.0,2022-2023,Serie-A
-samuel mraz,Servette FC,1.83,600000.0,2022-2023,Serie-A
-marco carnesecchi,Atalanta BC,1.91,13000000.0,2022-2023,Serie-A
-ionuț radu,Celta de Vigo,1.88,3500000.0,2022-2023,Serie-A
-mouhamadou sarr,Spezia Calcio,1.9,400000.0,2022-2023,Serie-A
-gianluca saro,US Cremonese,1.87,200000.0,2022-2023,Serie-A
-dorian ciezkowski,Without Club,1.92,100000.0,2022-2023,Serie-A
-johan vásquez,Genoa CFC,1.85,3600000.0,2022-2023,Serie-A
-jack hendry,Al-Ettifaq FC,1.92,3000000.0,2022-2023,Serie-A
-emanuel aiwu,SK Sturm Graz,1.87,3000000.0,2022-2023,Serie-A
-luka lochoshvili,1.FC Nuremberg,1.92,1800000.0,2022-2023,Serie-A
-luca ravanelli,US Cremonese,1.87,1400000.0,2022-2023,Serie-A
-alex ferrari,UC Sampdoria,1.91,1000000.0,2022-2023,Serie-A
-matteo bianchetti,US Cremonese,1.89,800000.0,2022-2023,Serie-A
-maissa ndiaye,US Cremonese,1.9,300000.0,2022-2023,Serie-A
-paolo gardoni,AC Renate,1.89,25000.0,2022-2023,Serie-A
-emanuele valeri,Parma Calcio 1913,1.8,3500000.0,2022-2023,Serie-A
-giacomo quagliata,US Cremonese,1.8,2000000.0,2022-2023,Serie-A
-santiago ascacíbar,Club Estudiantes de La Plata,1.69,6500000.0,2022-2023,Serie-A
-charles pickel,US Cremonese,1.87,3800000.0,2022-2023,Serie-A
-soualiho meïté,PAOK Thessaloniki,1.87,3500000.0,2022-2023,Serie-A
-vlad chiricheș,FCSB,1.84,900000.0,2022-2023,Serie-A
-michele castagnetti,US Cremonese,1.8,700000.0,2022-2023,Serie-A
-paolo bartolomei,AC Perugia Calcio,1.83,250000.0,2022-2023,Serie-A
-pablo galdames,CA Independiente,1.76,2300000.0,2022-2023,Serie-A
-gonzalo escalante,Cádiz CF,1.82,2000000.0,2022-2023,Serie-A
-marco benassi,nan,1.84,1500000.0,2022-2023,Serie-A
-tommaso milanese,US Cremonese,1.73,1200000.0,2022-2023,Serie-A
-joshua tenkorang,Ravenna FC,1.84,200000.0,2022-2023,Serie-A
-christian acella,Cremonese Giovanili,,150000.0,2022-2023,Serie-A
-luca borghesan,Without Club,,50000.0,2022-2023,Serie-A
-paolo ghiglione,Calcio Padova,1.91,1300000.0,2022-2023,Serie-A
-leonardo sernicola,US Cremonese,1.87,2000000.0,2022-2023,Serie-A
-jaime báez,Without Club,1.78,1200000.0,2022-2023,Serie-A
-cristian buonaiuto,Calcio Padova,1.79,800000.0,2022-2023,Serie-A
-dennis politic,FCSB,1.85,150000.0,2022-2023,Serie-A
-luca zanimacchia,US Cremonese,1.78,1800000.0,2022-2023,Serie-A
-felix afena-gyan,US Cremonese,1.75,5000000.0,2022-2023,Serie-A
-cyriel dessers,Rangers FC,1.85,5000000.0,2022-2023,Serie-A
-david okereke,US Cremonese,1.81,4000000.0,2022-2023,Serie-A
-frank tsadjout,US Cremonese,1.9,1200000.0,2022-2023,Serie-A
-samuel di carmine,Without Club,1.87,350000.0,2022-2023,Serie-A
-daniel ciofani,nan,1.91,200000.0,2022-2023,Serie-A
-alberto basso ricci,Arzignano Valchiampo,,100000.0,2022-2023,Serie-A
-emil audero,Como 1907,1.92,6000000.0,2022-2023,Serie-A
-nikita contini,SSC Napoli,1.9,500000.0,2022-2023,Serie-A
-martin turk,Ruch Chorzow,1.9,400000.0,2022-2023,Serie-A
-elia tantalocchi,UC Sampdoria,1.9,100000.0,2022-2023,Serie-A
-nicola ravaglia,UC Sampdoria,1.84,100000.0,2022-2023,Serie-A
-federico zorzi,USD Ovadese Silvanese,,10000.0,2022-2023,Serie-A
-koray günter,Al-Okhdood Club,1.85,3500000.0,2022-2023,Serie-A
-omar colley,Without Club,1.91,3000000.0,2022-2023,Serie-A
-bruno amione,Santos Laguna,1.87,2700000.0,2022-2023,Serie-A
-maxime leverbe,LR Vicenza,1.88,1200000.0,2022-2023,Serie-A
-alex ferrari,UC Sampdoria,1.91,1000000.0,2022-2023,Serie-A
-bram nuytinck,NEC Nijmegen,1.91,1000000.0,2022-2023,Serie-A
-jeison murillo,Al-Shamal SC,1.82,1000000.0,2022-2023,Serie-A
-marios ikonomou,nan,1.89,300000.0,2022-2023,Serie-A
-lorenzo villa,Calcio Padova,1.89,75000.0,2022-2023,Serie-A
-arttu lötjönen,Kuopion Palloseura,1.87,25000.0,2022-2023,Serie-A
-tommaso augello,Palermo FC,1.8,2000000.0,2022-2023,Serie-A
-nicola murru,Without Club,1.8,1000000.0,2022-2023,Serie-A
-alessandro zanoli,SSC Napoli,1.88,6000000.0,2022-2023,Serie-A
-fabio depaoli,UC Sampdoria,1.82,3000000.0,2022-2023,Serie-A
-bartosz bereszyński,Without Club,1.83,1600000.0,2022-2023,Serie-A
-andrea conti,nan,1.84,500000.0,2022-2023,Serie-A
-harry winks,Leicester City,1.78,10000000.0,2022-2023,Serie-A
-tomás rincón,Santos FC,1.75,800000.0,2022-2023,Serie-A
-gerard yepes,Without Club,1.7,500000.0,2022-2023,Serie-A
-emirhan i̇lkhan,Torino FC,1.75,4000000.0,2022-2023,Serie-A
-michaël cuisance,Hertha BSC,1.81,3000000.0,2022-2023,Serie-A
-gonzalo villar,GNK Dinamo Zagreb,1.81,2800000.0,2022-2023,Serie-A
-ronaldo vieira,UC Sampdoria,1.78,2000000.0,2022-2023,Serie-A
-valerio verre,Palermo FC,1.81,1800000.0,2022-2023,Serie-A
-flavio paoletti,Mantova 1911,1.82,800000.0,2022-2023,Serie-A
-simone trimboli,Mantova 1911,1.76,600000.0,2022-2023,Serie-A
-telasco segovia,Inter Miami CF,1.8,500000.0,2022-2023,Serie-A
-lorenzo malagrida,UC Sampdoria,1.74,400000.0,2022-2023,Serie-A
-abdelhamid sabiri,ACF Fiorentina,1.86,2500000.0,2022-2023,Serie-A
-filip djuricic,Panathinaikos FC,1.81,1800000.0,2022-2023,Serie-A
-antonio candreva,nan,1.8,1500000.0,2022-2023,Serie-A
-jesé,Without Club,1.78,1000000.0,2022-2023,Serie-A
-samuel ntanda,UC Sampdoria,,,2022-2023,Serie-A
-ignacio pussetto,CA Independiente,1.8,2500000.0,2022-2023,Serie-A
-mehdi léris,Pisa Sporting Club,1.86,2500000.0,2022-2023,Serie-A
-sam lammers,Twente Enschede FC,1.91,2000000.0,2022-2023,Serie-A
-manuel de luca,US Cremonese,1.92,2000000.0,2022-2023,Serie-A
-manolo gabbiadini,Al-Nasr SC (UAE),1.86,2000000.0,2022-2023,Serie-A
-francesco caputo,nan,1.81,1500000.0,2022-2023,Serie-A
-daniele montevago,AC Perugia Calcio,1.84,800000.0,2022-2023,Serie-A
-fabio quagliarella,nan,1.8,500000.0,2022-2023,Serie-A
-mihailo ivanovic,Millwall FC,1.91,150000.0,2022-2023,Serie-A
+alex meret,ssc napoli,1.9,18000000.0,2022-2023,serie-a
+pierluigi gollini,ssc napoli,1.94,4500000.0,2022-2023,serie-a
+salvatore sirigu,ssc napoli,1.92,500000.0,2022-2023,serie-a
+hubert idasiak,ssc napoli,1.88,150000.0,2022-2023,serie-a
+valerio boffelli,ssc napoli,1.82,75000.0,2022-2023,serie-a
+davide marfella,ssc napoli,1.82,50000.0,2022-2023,serie-a
+minjae kim,ssc napoli,1.9,60000000.0,2022-2023,serie-a
+amir rrahmani,ssc napoli,1.92,25000000.0,2022-2023,serie-a
+leo stigard,ssc napoli,1.83,7000000.0,2022-2023,serie-a
+juan jesus,ssc napoli,1.85,3500000.0,2022-2023,serie-a
+mathias olivera,ssc napoli,1.85,18000000.0,2022-2023,serie-a
+mario rui,ssc napoli,1.68,8000000.0,2022-2023,serie-a
+giovanni di lorenzo,ssc napoli,1.83,25000000.0,2022-2023,serie-a
+alessandro zanoli,ssc napoli,1.88,6000000.0,2022-2023,serie-a
+bartosz bereszynski,ssc napoli,1.83,1600000.0,2022-2023,serie-a
+stanislav lobotka,ssc napoli,1.68,40000000.0,2022-2023,serie-a
+diego demme,ssc napoli,1.7,3000000.0,2022-2023,serie-a
+frank anguissa,ssc napoli,1.84,40000000.0,2022-2023,serie-a
+piotr zielinski,ssc napoli,1.8,35000000.0,2022-2023,serie-a
+tanguy ndombele,ssc napoli,1.81,22000000.0,2022-2023,serie-a
+karim zedadka,ssc napoli,1.84,200000.0,2022-2023,serie-a
+gianluca gaetano,ssc napoli,1.83,4500000.0,2022-2023,serie-a
+khvicha kvaratskhelia,ssc napoli,1.83,85000000.0,2022-2023,serie-a
+eljif elmas,ssc napoli,1.84,26000000.0,2022-2023,serie-a
+hirving lozano,ssc napoli,1.75,25000000.0,2022-2023,serie-a
+alessio zerbin,ssc napoli,1.82,4000000.0,2022-2023,serie-a
+matteo politano,ssc napoli,1.71,15000000.0,2022-2023,serie-a
+adam ounas,ssc napoli,1.72,7000000.0,2022-2023,serie-a
+giacomo raspadori,ssc napoli,1.72,35000000.0,2022-2023,serie-a
+victor osimhen,ssc napoli,1.86,120000000.0,2022-2023,serie-a
+giovanni simeone,ssc napoli,1.8,15000000.0,2022-2023,serie-a
+andre onana,inter milan,1.9,35000000.0,2022-2023,serie-a
+samir handanovic,inter milan,1.93,500000.0,2022-2023,serie-a
+gabriel brazao,inter milan,1.92,400000.0,2022-2023,serie-a
+alex cordaz,inter milan,1.88,200000.0,2022-2023,serie-a
+nikolaos botis,inter milan,1.96,100000.0,2022-2023,serie-a
+alessandro bastoni,inter milan,1.9,60000000.0,2022-2023,serie-a
+milan skriniar,inter milan,1.88,50000000.0,2022-2023,serie-a
+stefan de vrij,inter milan,1.89,8000000.0,2022-2023,serie-a
+francesco acerbi,inter milan,1.92,4000000.0,2022-2023,serie-a
+danilo dambrosio,inter milan,1.8,1500000.0,2022-2023,serie-a
+alessandro fontanarosa,inter milan,1.85,400000.0,2022-2023,serie-a
+federico dimarco,inter milan,1.75,35000000.0,2022-2023,serie-a
+robin gosens,inter milan,1.83,15000000.0,2022-2023,serie-a
+dalbert,inter milan,1.81,1000000.0,2022-2023,serie-a
+denzel dumfries,inter milan,1.88,28000000.0,2022-2023,serie-a
+matteo darmian,inter milan,1.83,4000000.0,2022-2023,serie-a
+mattia zanotti,inter milan,1.75,800000.0,2022-2023,serie-a
+hakan calhanoglu,inter milan,1.78,40000000.0,2022-2023,serie-a
+marcelo brozovic,inter milan,1.81,25000000.0,2022-2023,serie-a
+kristjan asllani,inter milan,1.79,12000000.0,2022-2023,serie-a
+lucien agoume,inter milan,1.85,7000000.0,2022-2023,serie-a
+aleksandar stankovic,inter milan,1.85,,2022-2023,serie-a
+nicolo barella,inter milan,1.75,75000000.0,2022-2023,serie-a
+henrikh mkhitaryan,inter milan,1.77,6000000.0,2022-2023,serie-a
+roberto gagliardini,inter milan,1.88,4000000.0,2022-2023,serie-a
+ebenezer akinsanmiro,inter milan,1.84,800000.0,2022-2023,serie-a
+raoul bellanova,inter milan,1.88,5000000.0,2022-2023,serie-a
+valentin carboni,inter milan,1.85,5000000.0,2022-2023,serie-a
+issiaka kamate,inter milan,1.86,200000.0,2022-2023,serie-a
+joaquin correa,inter milan,1.88,12000000.0,2022-2023,serie-a
+lautaro martinez,inter milan,1.74,85000000.0,2022-2023,serie-a
+romelu lukaku,inter milan,1.91,40000000.0,2022-2023,serie-a
+edin dzeko,inter milan,1.93,4000000.0,2022-2023,serie-a
+eddie salcedo,inter milan,1.78,2500000.0,2022-2023,serie-a
+dennis curatolo,inter milan,,150000.0,2022-2023,serie-a
+mike maignan,ac milan,1.91,45000000.0,2022-2023,serie-a
+ciprian tatarusanu,ac milan,1.98,400000.0,2022-2023,serie-a
+devis vasquez,ac milan,1.95,350000.0,2022-2023,serie-a
+andreas jungdal,ac milan,1.95,300000.0,2022-2023,serie-a
+lapo nava,ac milan,1.97,150000.0,2022-2023,serie-a
+antonio mirante,ac milan,1.93,100000.0,2022-2023,serie-a
+fikayo tomori,ac milan,1.85,40000000.0,2022-2023,serie-a
+pierre kalulu,ac milan,1.82,30000000.0,2022-2023,serie-a
+malick thiaw,ac milan,1.94,20000000.0,2022-2023,serie-a
+matteo gabbia,ac milan,1.85,5000000.0,2022-2023,serie-a
+simon kjaer,ac milan,1.91,3500000.0,2022-2023,serie-a
+andrei coubis,ac milan,1.89,100000.0,2022-2023,serie-a
+theo hernandez,ac milan,1.84,60000000.0,2022-2023,serie-a
+fode ballotoure,ac milan,1.82,3500000.0,2022-2023,serie-a
+andrea bozzolan,ac milan,1.78,125000.0,2022-2023,serie-a
+davide calabria,ac milan,1.76,20000000.0,2022-2023,serie-a
+sergino dest,ac milan,1.73,10000000.0,2022-2023,serie-a
+alessandro florenzi,ac milan,1.73,2000000.0,2022-2023,serie-a
+ismael bennacer,ac milan,1.75,40000000.0,2022-2023,serie-a
+rade krunic,ac milan,1.84,10000000.0,2022-2023,serie-a
+yacine adli,ac milan,1.86,8000000.0,2022-2023,serie-a
+tiemoue bakayoko,ac milan,1.89,2500000.0,2022-2023,serie-a
+sandro tonali,ac milan,1.81,50000000.0,2022-2023,serie-a
+tommaso pobega,ac milan,1.88,14000000.0,2022-2023,serie-a
+aster vranckx,ac milan,1.83,8500000.0,2022-2023,serie-a
+antonio gala,ac milan,1.75,75000.0,2022-2023,serie-a
+charles de ketelaere,ac milan,1.92,22000000.0,2022-2023,serie-a
+rafael leao,ac milan,1.88,90000000.0,2022-2023,serie-a
+ante rebic,ac milan,1.85,6000000.0,2022-2023,serie-a
+brahim diaz,ac milan,1.7,20000000.0,2022-2023,serie-a
+alexis saelemaekers,ac milan,1.8,15000000.0,2022-2023,serie-a
+junior messias,ac milan,1.74,4500000.0,2022-2023,serie-a
+divock origi,ac milan,1.89,6000000.0,2022-2023,serie-a
+olivier giroud,ac milan,1.92,4000000.0,2022-2023,serie-a
+marko lazetic,ac milan,1.92,2000000.0,2022-2023,serie-a
+zlatan ibrahimovic,ac milan,1.95,2000000.0,2022-2023,serie-a
+wojciech szczesny,juventus fc,1.95,10000000.0,2022-2023,serie-a
+mattia perin,juventus fc,1.88,4000000.0,2022-2023,serie-a
+gian marco crespi,juventus fc,1.89,200000.0,2022-2023,serie-a
+giovanni garofani,juventus fc,1.88,200000.0,2022-2023,serie-a
+carlo pinsoglio,juventus fc,1.94,200000.0,2022-2023,serie-a
+simone scaglia,juventus fc,1.96,25000.0,2022-2023,serie-a
+bremer,juventus fc,1.88,40000000.0,2022-2023,serie-a
+danilo,juventus fc,1.84,15000000.0,2022-2023,serie-a
+federico gatti,juventus fc,1.9,12000000.0,2022-2023,serie-a
+daniele rugani,juventus fc,1.9,2000000.0,2022-2023,serie-a
+leonardo bonucci,juventus fc,1.89,1500000.0,2022-2023,serie-a
+alessandro pio riccio,juventus fc,1.87,700000.0,2022-2023,serie-a
+alex sandro,juventus fc,1.8,3000000.0,2022-2023,serie-a
+mattia de sciglio,juventus fc,1.83,3000000.0,2022-2023,serie-a
+tommaso barbieri,juventus fc,1.81,1200000.0,2022-2023,serie-a
+manuel locatelli,juventus fc,1.85,30000000.0,2022-2023,serie-a
+denis zakaria,juventus fc,1.9,18000000.0,2022-2023,serie-a
+nicolo rovella,juventus fc,1.79,18000000.0,2022-2023,serie-a
+leandro paredes,juventus fc,1.8,12000000.0,2022-2023,serie-a
+enzo barrenechea,juventus fc,1.86,900000.0,2022-2023,serie-a
+adrien rabiot,juventus fc,1.91,40000000.0,2022-2023,serie-a
+nicolo fagioli,juventus fc,1.78,35000000.0,2022-2023,serie-a
+weston mckennie,juventus fc,1.85,18000000.0,2022-2023,serie-a
+paul pogba,juventus fc,1.91,15000000.0,2022-2023,serie-a
+fabio miretti,juventus fc,1.8,15000000.0,2022-2023,serie-a
+alessandro sersanti,juventus fc,1.82,400000.0,2022-2023,serie-a
+juan cuadrado,juventus fc,1.76,4000000.0,2022-2023,serie-a
+mattia compagnon,juventus fc,1.83,400000.0,2022-2023,serie-a
+filip kostic,juventus fc,1.84,22000000.0,2022-2023,serie-a
+nikola sekulov,juventus fc,1.85,600000.0,2022-2023,serie-a
+mohamed ihattaren,juventus fc,1.83,,2022-2023,serie-a
+samuel ilingjunior,juventus fc,1.82,9000000.0,2022-2023,serie-a
+federico chiesa,juventus fc,1.75,40000000.0,2022-2023,serie-a
+angel di maria,juventus fc,1.78,8000000.0,2022-2023,serie-a
+matias soule,juventus fc,1.82,4000000.0,2022-2023,serie-a
+dusan vlahovic,juventus fc,1.9,70000000.0,2022-2023,serie-a
+moise kean,juventus fc,1.83,18000000.0,2022-2023,serie-a
+arkadiusz milik,juventus fc,1.86,8000000.0,2022-2023,serie-a
+kaio jorge,juventus fc,1.82,3000000.0,2022-2023,serie-a
+cosimo da graca,juventus fc,1.85,800000.0,2022-2023,serie-a
+juan musso,atalanta bc,1.91,8000000.0,2022-2023,serie-a
+marco sportiello,atalanta bc,1.92,1500000.0,2022-2023,serie-a
+tommaso bertini,atalanta bc,,100000.0,2022-2023,serie-a
+francesco rossi,atalanta bc,1.93,100000.0,2022-2023,serie-a
+giorgio scalvini,atalanta bc,1.94,40000000.0,2022-2023,serie-a
+merih demiral,atalanta bc,1.9,20000000.0,2022-2023,serie-a
+caleb okoli,atalanta bc,1.91,10000000.0,2022-2023,serie-a
+berat djimsiti,atalanta bc,1.9,10000000.0,2022-2023,serie-a
+rafael toloi,atalanta bc,1.85,6000000.0,2022-2023,serie-a
+jose luis palomino,atalanta bc,1.88,2500000.0,2022-2023,serie-a
+iacopo regonesi,atalanta bc,1.84,200000.0,2022-2023,serie-a
+tommaso del lungo,atalanta bc,1.86,100000.0,2022-2023,serie-a
+joakim maehle,atalanta bc,1.85,14000000.0,2022-2023,serie-a
+matteo ruggeri,atalanta bc,1.87,4000000.0,2022-2023,serie-a
+hans hateboer,atalanta bc,1.87,6000000.0,2022-2023,serie-a
+marten de roon,atalanta bc,1.85,10000000.0,2022-2023,serie-a
+matteo colombo,atalanta bc,1.82,125000.0,2022-2023,serie-a
+mannah chiwisa,atalanta bc,1.78,125000.0,2022-2023,serie-a
+leonardo mendicino,atalanta bc,1.82,,2022-2023,serie-a
+ederson,atalanta bc,1.83,20000000.0,2022-2023,serie-a
+mario pasalic,atalanta bc,1.88,20000000.0,2022-2023,serie-a
+endri muhameti,atalanta bc,1.83,150000.0,2022-2023,serie-a
+simone muratore,atalanta bc,1.86,100000.0,2022-2023,serie-a
+brandon soppy,atalanta bc,1.8,9000000.0,2022-2023,serie-a
+davide zappacosta,atalanta bc,1.82,7000000.0,2022-2023,serie-a
+nadir zortea,atalanta bc,1.87,2000000.0,2022-2023,serie-a
+marco palestra,atalanta bc,1.86,,2022-2023,serie-a
+lorenzo bernasconi,atalanta bc,1.9,75000.0,2022-2023,serie-a
+teun koopmeiners,atalanta bc,1.84,30000000.0,2022-2023,serie-a
+ruslan malinovskyi,atalanta bc,1.81,15000000.0,2022-2023,serie-a
+jeremie boga,atalanta bc,1.72,14000000.0,2022-2023,serie-a
+lukas vorlicky,atalanta bc,1.86,100000.0,2022-2023,serie-a
+ademola lookman,atalanta bc,1.74,30000000.0,2022-2023,serie-a
+tommaso de nipoti,atalanta bc,1.8,175000.0,2022-2023,serie-a
+alessandro falleni,atalanta bc,,25000.0,2022-2023,serie-a
+rasmus hjlund,atalanta bc,1.91,45000000.0,2022-2023,serie-a
+duvan zapata,atalanta bc,1.88,8000000.0,2022-2023,serie-a
+luis muriel,atalanta bc,1.8,5000000.0,2022-2023,serie-a
+ivan provedel,ss lazio,1.94,12000000.0,2022-2023,serie-a
+luis maximiano,ss lazio,1.9,6000000.0,2022-2023,serie-a
+marius adamonis,ss lazio,1.91,150000.0,2022-2023,serie-a
+federico magro,ss lazio,1.9,,2022-2023,serie-a
+nicolo casale,ss lazio,1.91,22000000.0,2022-2023,serie-a
+alessio romagnoli,ss lazio,1.85,18000000.0,2022-2023,serie-a
+patric,ss lazio,1.84,5000000.0,2022-2023,serie-a
+mario gila,ss lazio,1.85,3000000.0,2022-2023,serie-a
+fabio andrea ruggeri,ss lazio,1.84,75000.0,2022-2023,serie-a
+luca pellegrini,ss lazio,1.78,7000000.0,2022-2023,serie-a
+mohamed salim fares,ss lazio,1.83,2000000.0,2022-2023,serie-a
+dimitrije kamenovic,ss lazio,1.89,700000.0,2022-2023,serie-a
+stefan radu,ss lazio,1.83,300000.0,2022-2023,serie-a
+adam marusic,ss lazio,1.85,8000000.0,2022-2023,serie-a
+elseid hysaj,ss lazio,1.82,5000000.0,2022-2023,serie-a
+romano floriani mussolini,ss lazio,1.88,75000.0,2022-2023,serie-a
+danilo cataldi,ss lazio,1.8,10000000.0,2022-2023,serie-a
+marco bertini,ss lazio,1.85,100000.0,2022-2023,serie-a
+sergej milinkovicsavic,ss lazio,1.92,50000000.0,2022-2023,serie-a
+marcos antonio,ss lazio,1.66,8000000.0,2022-2023,serie-a
+toma basic,ss lazio,1.9,6000000.0,2022-2023,serie-a
+matias vecino,ss lazio,1.87,4500000.0,2022-2023,serie-a
+manuel lazzari,ss lazio,1.74,7500000.0,2022-2023,serie-a
+djavan anderson,ss lazio,1.78,275000.0,2022-2023,serie-a
+luis alberto,ss lazio,1.83,18000000.0,2022-2023,serie-a
+mattia zaccagni,ss lazio,1.77,30000000.0,2022-2023,serie-a
+raul moro,ss lazio,1.69,2500000.0,2022-2023,serie-a
+felipe anderson,ss lazio,1.75,15000000.0,2022-2023,serie-a
+matteo cancellieri,ss lazio,1.85,5000000.0,2022-2023,serie-a
+luka romero,ss lazio,1.69,3000000.0,2022-2023,serie-a
+pedro,ss lazio,1.67,1500000.0,2022-2023,serie-a
+diego gonzalez,ss lazio,1.77,750000.0,2022-2023,serie-a
+ciro immobile,ss lazio,1.85,15000000.0,2022-2023,serie-a
+pierluigi gollini,acf fiorentina,1.94,4500000.0,2022-2023,serie-a
+pietro terracciano,acf fiorentina,1.93,2000000.0,2022-2023,serie-a
+michele cerofolini,acf fiorentina,1.88,500000.0,2022-2023,serie-a
+salvatore sirigu,acf fiorentina,1.92,500000.0,2022-2023,serie-a
+tommaso martinelli,acf fiorentina,1.94,,2022-2023,serie-a
+tommaso vannucchi,acf fiorentina,1.97,,2022-2023,serie-a
+nikola milenkovic,acf fiorentina,1.95,18000000.0,2022-2023,serie-a
+lucas martinez quarta,acf fiorentina,1.83,10000000.0,2022-2023,serie-a
+igor,acf fiorentina,1.88,10000000.0,2022-2023,serie-a
+luca ranieri,acf fiorentina,1.87,2500000.0,2022-2023,serie-a
+matija nastasic,acf fiorentina,1.87,1500000.0,2022-2023,serie-a
+dimo krastev,acf fiorentina,1.95,200000.0,2022-2023,serie-a
+cristiano biraghi,acf fiorentina,1.85,5000000.0,2022-2023,serie-a
+aleksa terzic,acf fiorentina,1.84,2000000.0,2022-2023,serie-a
+dodo,acf fiorentina,1.66,20000000.0,2022-2023,serie-a
+lorenzo venuti,acf fiorentina,1.79,2000000.0,2022-2023,serie-a
+michael kayode,acf fiorentina,1.79,800000.0,2022-2023,serie-a
+sofyan amrabat,acf fiorentina,1.85,30000000.0,2022-2023,serie-a
+rolando mandragora,acf fiorentina,1.83,10000000.0,2022-2023,serie-a
+lorenzo amatucci,acf fiorentina,1.72,700000.0,2022-2023,serie-a
+gaetano castrovilli,acf fiorentina,1.87,10000000.0,2022-2023,serie-a
+youssef maleh,acf fiorentina,1.79,4500000.0,2022-2023,serie-a
+alfred duncan,acf fiorentina,1.78,4000000.0,2022-2023,serie-a
+szymon zurkowski,acf fiorentina,1.85,3500000.0,2022-2023,serie-a
+marco benassi,acf fiorentina,1.84,1500000.0,2022-2023,serie-a
+alessandro bianco,acf fiorentina,1.73,800000.0,2022-2023,serie-a
+costantino favasuli,acf fiorentina,1.78,200000.0,2022-2023,serie-a
+antonin barak,acf fiorentina,1.9,10000000.0,2022-2023,serie-a
+giacomo bonaventura,acf fiorentina,1.8,2500000.0,2022-2023,serie-a
+riccardo saponara,acf fiorentina,1.83,2000000.0,2022-2023,serie-a
+riccardo sottil,acf fiorentina,1.8,8000000.0,2022-2023,serie-a
+josip brekalo,acf fiorentina,1.75,5000000.0,2022-2023,serie-a
+nico gonzalez,acf fiorentina,1.8,30000000.0,2022-2023,serie-a
+jonathan ikone,acf fiorentina,1.75,16000000.0,2022-2023,serie-a
+filippo distefano,acf fiorentina,1.76,600000.0,2022-2023,serie-a
+arthur cabral,acf fiorentina,1.86,20000000.0,2022-2023,serie-a
+christian kouame,acf fiorentina,1.85,12000000.0,2022-2023,serie-a
+luka jovic,acf fiorentina,1.82,8000000.0,2022-2023,serie-a
+andrea consigli,us sassuolo,1.89,1000000.0,2022-2023,serie-a
+alessandro russo,us sassuolo,1.93,350000.0,2022-2023,serie-a
+gioele zacchi,us sassuolo,1.85,150000.0,2022-2023,serie-a
+gianluca pegolo,us sassuolo,1.83,100000.0,2022-2023,serie-a
+martin erlic,us sassuolo,1.93,5000000.0,2022-2023,serie-a
+ruan,us sassuolo,1.87,4500000.0,2022-2023,serie-a
+kaan ayhan,us sassuolo,1.85,3700000.0,2022-2023,serie-a
+gian marco ferrari,us sassuolo,1.89,2000000.0,2022-2023,serie-a
+filippo romagna,us sassuolo,1.86,400000.0,2022-2023,serie-a
+adrian cannavaro,us sassuolo,1.8,100000.0,2022-2023,serie-a
+rogerio,us sassuolo,1.78,5500000.0,2022-2023,serie-a
+georgios kyriakopoulos,us sassuolo,1.86,3800000.0,2022-2023,serie-a
+riccardo marchizza,us sassuolo,1.86,1000000.0,2022-2023,serie-a
+edoardo pieragnolo,us sassuolo,1.84,100000.0,2022-2023,serie-a
+jeremy toljan,us sassuolo,1.82,4500000.0,2022-2023,serie-a
+mert muldur,us sassuolo,1.84,4000000.0,2022-2023,serie-a
+maxime lopez,us sassuolo,1.67,15000000.0,2022-2023,serie-a
+davide frattesi,us sassuolo,1.78,25000000.0,2022-2023,serie-a
+matheus henrique,us sassuolo,1.75,10000000.0,2022-2023,serie-a
+abdou harroui,us sassuolo,1.82,2700000.0,2022-2023,serie-a
+pedro obiang,us sassuolo,1.86,800000.0,2022-2023,serie-a
+nadir zortea,us sassuolo,1.87,2000000.0,2022-2023,serie-a
+hamed junior traore,us sassuolo,1.77,22000000.0,2022-2023,serie-a
+nedim bajrami,us sassuolo,1.79,7500000.0,2022-2023,serie-a
+kristian thorstvedt,us sassuolo,1.89,7500000.0,2022-2023,serie-a
+kevin bruno,us sassuolo,,,2022-2023,serie-a
+armand lauriente,us sassuolo,1.71,18000000.0,2022-2023,serie-a
+emil konradsen ceide,us sassuolo,1.85,2500000.0,2022-2023,serie-a
+domenico berardi,us sassuolo,1.83,18000000.0,2022-2023,serie-a
+luca dandrea,us sassuolo,1.73,2500000.0,2022-2023,serie-a
+giacomo raspadori,us sassuolo,1.72,35000000.0,2022-2023,serie-a
+andrea pinamonti,us sassuolo,1.85,15000000.0,2022-2023,serie-a
+agustin alvarez,us sassuolo,1.77,8000000.0,2022-2023,serie-a
+janis antiste,us sassuolo,1.83,3000000.0,2022-2023,serie-a
+gregoire defrel,us sassuolo,1.79,1500000.0,2022-2023,serie-a
+vanja milinkovicsavic,torino fc,2.02,3500000.0,2022-2023,serie-a
+etrit berisha,torino fc,1.94,400000.0,2022-2023,serie-a
+luca gemello,torino fc,1.9,300000.0,2022-2023,serie-a
+matteo fiorenza,torino fc,1.9,50000.0,2022-2023,serie-a
+perr schuurs,torino fc,1.91,25000000.0,2022-2023,serie-a
+wilfried singo,torino fc,1.9,12000000.0,2022-2023,serie-a
+alessandro buongiorno,torino fc,1.9,10000000.0,2022-2023,serie-a
+david zima,torino fc,1.92,5000000.0,2022-2023,serie-a
+andreaw gravillon,torino fc,1.89,4000000.0,2022-2023,serie-a
+koffi djidji,torino fc,1.84,3000000.0,2022-2023,serie-a
+ange caumenan nguessan,torino fc,1.87,200000.0,2022-2023,serie-a
+sebas wade,torino fc,1.9,10000.0,2022-2023,serie-a
+ricardo rodriguez,torino fc,1.82,3500000.0,2022-2023,serie-a
+mergim vojvoda,torino fc,1.87,4000000.0,2022-2023,serie-a
+ola aina,torino fc,1.84,3500000.0,2022-2023,serie-a
+samuele ricci,torino fc,1.81,20000000.0,2022-2023,serie-a
+sasa lukic,torino fc,1.82,12000000.0,2022-2023,serie-a
+ivan ilic,torino fc,1.86,19000000.0,2022-2023,serie-a
+emirhan ilkhan,torino fc,1.75,4000000.0,2022-2023,serie-a
+karol linetty,torino fc,1.75,3500000.0,2022-2023,serie-a
+ronaldo vieira,torino fc,1.78,2000000.0,2022-2023,serie-a
+jacopo segre,torino fc,1.85,1700000.0,2022-2023,serie-a
+gvidas gineitis,torino fc,1.91,900000.0,2022-2023,serie-a
+michel adopo,torino fc,1.87,500000.0,2022-2023,serie-a
+matthew garbett,torino fc,1.88,300000.0,2022-2023,serie-a
+aaron ciammaglichella,torino fc,1.8,,2022-2023,serie-a
+brian bayeye,torino fc,1.82,500000.0,2022-2023,serie-a
+ali dembele,torino fc,1.89,200000.0,2022-2023,serie-a
+valentino lazaro,torino fc,1.81,5000000.0,2022-2023,serie-a
+nikola vlasic,torino fc,1.79,17000000.0,2022-2023,serie-a
+aleksey miranchuk,torino fc,1.82,12000000.0,2022-2023,serie-a
+nemanja radonjic,torino fc,1.82,4000000.0,2022-2023,serie-a
+yann karamoh,torino fc,1.84,3500000.0,2022-2023,serie-a
+demba seck,torino fc,1.9,2700000.0,2022-2023,serie-a
+simone edera,torino fc,1.74,300000.0,2022-2023,serie-a
+antonio sanabria,torino fc,1.8,10000000.0,2022-2023,serie-a
+pietro pellegri,torino fc,1.89,3500000.0,2022-2023,serie-a
+luigi caccavo,torino fc,1.92,125000.0,2022-2023,serie-a
+marco silvestri,udinese calcio,1.91,5000000.0,2022-2023,serie-a
+daniele padelli,udinese calcio,1.91,200000.0,2022-2023,serie-a
+edoardo piana,udinese calcio,1.98,50000.0,2022-2023,serie-a
+nehuen perez,udinese calcio,1.86,10000000.0,2022-2023,serie-a
+jaka bijol,udinese calcio,1.9,10000000.0,2022-2023,serie-a
+rodrigo becao,udinese calcio,1.91,10000000.0,2022-2023,serie-a
+enzo ebosse,udinese calcio,1.85,4500000.0,2022-2023,serie-a
+adam masina,udinese calcio,1.91,2500000.0,2022-2023,serie-a
+filip benkovic,udinese calcio,1.94,2200000.0,2022-2023,serie-a
+bram nuytinck,udinese calcio,1.91,1000000.0,2022-2023,serie-a
+james abankwah,udinese calcio,1.88,300000.0,2022-2023,serie-a
+axel guessand,udinese calcio,1.92,250000.0,2022-2023,serie-a
+niccolo cocetta,udinese calcio,1.84,75000.0,2022-2023,serie-a
+destiny udogie,udinese calcio,1.88,25000000.0,2022-2023,serie-a
+leonardo buta,udinese calcio,1.82,1500000.0,2022-2023,serie-a
+marvin zeegelaar,udinese calcio,1.86,400000.0,2022-2023,serie-a
+festy ebosele,udinese calcio,1.8,3500000.0,2022-2023,serie-a
+kingsley ehizibue,udinese calcio,1.89,2500000.0,2022-2023,serie-a
+walace,udinese calcio,1.88,7000000.0,2022-2023,serie-a
+martin palumbo,udinese calcio,1.83,700000.0,2022-2023,serie-a
+mato jajalo,udinese calcio,1.82,250000.0,2022-2023,serie-a
+riccardo castagnaviz,udinese calcio,,50000.0,2022-2023,serie-a
+jeanvictor makengo,udinese calcio,1.77,10000000.0,2022-2023,serie-a
+sandi lovric,udinese calcio,1.8,10000000.0,2022-2023,serie-a
+roberto pereyra,udinese calcio,1.82,6000000.0,2022-2023,serie-a
+matteo bassi,udinese calcio,1.88,10000.0,2022-2023,serie-a
+brandon soppy,udinese calcio,1.8,9000000.0,2022-2023,serie-a
+lazar samardzic,udinese calcio,1.84,14000000.0,2022-2023,serie-a
+simone pafundi,udinese calcio,1.66,8000000.0,2022-2023,serie-a
+tolgay arslan,udinese calcio,1.8,1400000.0,2022-2023,serie-a
+alberto centis,udinese calcio,,75000.0,2022-2023,serie-a
+diego russo,udinese calcio,1.86,,2022-2023,serie-a
+florian thauvin,udinese calcio,1.81,3500000.0,2022-2023,serie-a
+beto,udinese calcio,1.94,25000000.0,2022-2023,serie-a
+gerard deulofeu,udinese calcio,1.77,10000000.0,2022-2023,serie-a
+isaac success,udinese calcio,1.82,4000000.0,2022-2023,serie-a
+vivaldo semedo,udinese calcio,1.92,500000.0,2022-2023,serie-a
+ilija nestorovski,udinese calcio,1.82,400000.0,2022-2023,serie-a
+lukasz skorupski,bologna fc,1.88,3500000.0,2022-2023,serie-a
+federico ravaglia,bologna fc,1.96,450000.0,2022-2023,serie-a
+francesco bardi,bologna fc,1.88,400000.0,2022-2023,serie-a
+nicola bagnolini,bologna fc,1.94,200000.0,2022-2023,serie-a
+francesco raffaelli,bologna fc,,,2022-2023,serie-a
+stefan posch,bologna fc,1.9,14000000.0,2022-2023,serie-a
+jhon lucumi,bologna fc,1.87,12000000.0,2022-2023,serie-a
+joaquin sosa,bologna fc,1.89,3000000.0,2022-2023,serie-a
+adama soumaoro,bologna fc,1.87,3000000.0,2022-2023,serie-a
+kevin bonifazi,bologna fc,1.87,2800000.0,2022-2023,serie-a
+gary medel,bologna fc,1.71,800000.0,2022-2023,serie-a
+wisdom amey,bologna fc,1.87,700000.0,2022-2023,serie-a
+matteo angeli,bologna fc,1.85,450000.0,2022-2023,serie-a
+riccardo stivanello,bologna fc,1.88,250000.0,2022-2023,serie-a
+mattia motolese,bologna fc,1.88,125000.0,2022-2023,serie-a
+andrea cambiaso,bologna fc,1.82,8000000.0,2022-2023,serie-a
+georgios kyriakopoulos,bologna fc,1.86,3800000.0,2022-2023,serie-a
+charalampos lykogiannis,bologna fc,1.91,1000000.0,2022-2023,serie-a
+denso kasius,bologna fc,1.83,1700000.0,2022-2023,serie-a
+lorenzo de silvestri,bologna fc,1.87,400000.0,2022-2023,serie-a
+ibrahima mbaye,bologna fc,1.88,300000.0,2022-2023,serie-a
+jerdy schouten,bologna fc,1.85,12000000.0,2022-2023,serie-a
+nikola moro,bologna fc,1.84,6500000.0,2022-2023,serie-a
+nicolas dominguez,bologna fc,1.79,17000000.0,2022-2023,serie-a
+lewis ferguson,bologna fc,1.81,12000000.0,2022-2023,serie-a
+michel aebischer,bologna fc,1.83,4000000.0,2022-2023,serie-a
+niklas pyyhtia,bologna fc,1.88,600000.0,2022-2023,serie-a
+kacper urbanski,bologna fc,1.83,600000.0,2022-2023,serie-a
+kingsley michael,bologna fc,1.76,250000.0,2022-2023,serie-a
+roberto soriano,bologna fc,1.82,2500000.0,2022-2023,serie-a
+musa barrow,bologna fc,1.84,11000000.0,2022-2023,serie-a
+nicola sansone,bologna fc,1.74,1500000.0,2022-2023,serie-a
+riccardo orsolini,bologna fc,1.83,12000000.0,2022-2023,serie-a
+emanuel vignato,bologna fc,1.75,2000000.0,2022-2023,serie-a
+orji okwonkwo,bologna fc,1.8,,2022-2023,serie-a
+joshua zirkzee,bologna fc,1.93,9000000.0,2022-2023,serie-a
+marko arnautovic,bologna fc,1.92,5000000.0,2022-2023,serie-a
+antonio raimondo,bologna fc,1.85,800000.0,2022-2023,serie-a
+lorenzo montipo,hellas verona,1.91,4000000.0,2022-2023,serie-a
+simone perilli,hellas verona,1.96,200000.0,2022-2023,serie-a
+mattia chiesa,hellas verona,1.9,100000.0,2022-2023,serie-a
+alessandro berardi,hellas verona,1.85,50000.0,2022-2023,serie-a
+giacomo toniolo,hellas verona,,10000.0,2022-2023,serie-a
+manuel ravasio,hellas verona,1.85,,2022-2023,serie-a
+isak hien,hellas verona,1.91,6000000.0,2022-2023,serie-a
+diego coppola,hellas verona,1.93,4000000.0,2022-2023,serie-a
+koray gunter,hellas verona,1.85,3500000.0,2022-2023,serie-a
+giangiacomo magnani,hellas verona,1.92,3000000.0,2022-2023,serie-a
+pawe dawidowicz,hellas verona,1.89,3000000.0,2022-2023,serie-a
+bruno amione,hellas verona,1.87,2700000.0,2022-2023,serie-a
+panagiotis retsos,hellas verona,1.86,2000000.0,2022-2023,serie-a
+federico ceccherini,hellas verona,1.87,1500000.0,2022-2023,serie-a
+josh doig,hellas verona,1.89,8000000.0,2022-2023,serie-a
+juan cabal,hellas verona,1.86,2500000.0,2022-2023,serie-a
+davide faraoni,hellas verona,1.8,3000000.0,2022-2023,serie-a
+fabio depaoli,hellas verona,1.82,3000000.0,2022-2023,serie-a
+filippo terracciano,hellas verona,1.86,1500000.0,2022-2023,serie-a
+deyovaisio zeefuik,hellas verona,1.78,1200000.0,2022-2023,serie-a
+adrien tameze,hellas verona,1.82,6000000.0,2022-2023,serie-a
+oliver abildgaard,hellas verona,1.92,4500000.0,2022-2023,serie-a
+martin hongla,hellas verona,1.82,3000000.0,2022-2023,serie-a
+ibrahim sulemana,hellas verona,1.8,1500000.0,2022-2023,serie-a
+miguel veloso,hellas verona,1.8,500000.0,2022-2023,serie-a
+joselito,hellas verona,1.84,75000.0,2022-2023,serie-a
+ivan ilic,hellas verona,1.86,19000000.0,2022-2023,serie-a
+ondrej duda,hellas verona,1.8,3400000.0,2022-2023,serie-a
+darko lazovic,hellas verona,1.81,2500000.0,2022-2023,serie-a
+antonin barak,hellas verona,1.9,10000000.0,2022-2023,serie-a
+simone verdi,hellas verona,1.74,4000000.0,2022-2023,serie-a
+ajdin hrustic,hellas verona,1.8,1500000.0,2022-2023,serie-a
+mateusz praszelik,hellas verona,1.84,900000.0,2022-2023,serie-a
+alessandro cortinovis,hellas verona,1.8,700000.0,2022-2023,serie-a
+alphadjo cisse,hellas verona,1.81,,2022-2023,serie-a
+jayden braaf,hellas verona,1.81,1000000.0,2022-2023,serie-a
+cyril ngonge,hellas verona,1.8,2000000.0,2022-2023,serie-a
+yayah kallon,hellas verona,1.75,1500000.0,2022-2023,serie-a
+davide bragantini,hellas verona,1.79,150000.0,2022-2023,serie-a
+denis cazzadori,hellas verona,1.75,150000.0,2022-2023,serie-a
+thomas henry,hellas verona,1.91,4000000.0,2022-2023,serie-a
+roberto piccoli,hellas verona,1.9,3500000.0,2022-2023,serie-a
+kevin lasagna,hellas verona,1.86,1800000.0,2022-2023,serie-a
+adolfo gaich,hellas verona,1.9,1800000.0,2022-2023,serie-a
+milan djuric,hellas verona,1.99,1000000.0,2022-2023,serie-a
+federico caia,hellas verona,1.83,150000.0,2022-2023,serie-a
+marco carnesecchi,us cremonese,1.91,13000000.0,2022-2023,serie-a
+ionut radu,us cremonese,1.88,3500000.0,2022-2023,serie-a
+mouhamadou sarr,us cremonese,1.9,400000.0,2022-2023,serie-a
+gianluca saro,us cremonese,1.87,200000.0,2022-2023,serie-a
+dorian ciezkowski,us cremonese,1.92,100000.0,2022-2023,serie-a
+johan vasquez,us cremonese,1.85,3600000.0,2022-2023,serie-a
+jack hendry,us cremonese,1.92,3000000.0,2022-2023,serie-a
+emanuel aiwu,us cremonese,1.87,3000000.0,2022-2023,serie-a
+luka lochoshvili,us cremonese,1.92,1800000.0,2022-2023,serie-a
+luca ravanelli,us cremonese,1.87,1400000.0,2022-2023,serie-a
+alex ferrari,us cremonese,1.91,1000000.0,2022-2023,serie-a
+matteo bianchetti,us cremonese,1.89,800000.0,2022-2023,serie-a
+maissa ndiaye,us cremonese,1.9,300000.0,2022-2023,serie-a
+paolo gardoni,us cremonese,1.89,25000.0,2022-2023,serie-a
+emanuele valeri,us cremonese,1.8,3500000.0,2022-2023,serie-a
+giacomo quagliata,us cremonese,1.8,2000000.0,2022-2023,serie-a
+santiago ascacibar,us cremonese,1.69,6500000.0,2022-2023,serie-a
+charles pickel,us cremonese,1.87,3800000.0,2022-2023,serie-a
+soualiho meite,us cremonese,1.87,3500000.0,2022-2023,serie-a
+vlad chiriches,us cremonese,1.84,900000.0,2022-2023,serie-a
+michele castagnetti,us cremonese,1.8,700000.0,2022-2023,serie-a
+paolo bartolomei,us cremonese,1.83,250000.0,2022-2023,serie-a
+pablo galdames,us cremonese,1.76,2300000.0,2022-2023,serie-a
+gonzalo escalante,us cremonese,1.82,2000000.0,2022-2023,serie-a
+marco benassi,us cremonese,1.84,1500000.0,2022-2023,serie-a
+tommaso milanese,us cremonese,1.73,1200000.0,2022-2023,serie-a
+joshua tenkorang,us cremonese,1.84,200000.0,2022-2023,serie-a
+christian acella,us cremonese,,150000.0,2022-2023,serie-a
+luca borghesan,us cremonese,,50000.0,2022-2023,serie-a
+paolo ghiglione,us cremonese,1.91,1300000.0,2022-2023,serie-a
+leonardo sernicola,us cremonese,1.87,2000000.0,2022-2023,serie-a
+jaime baez,us cremonese,1.78,1200000.0,2022-2023,serie-a
+cristian buonaiuto,us cremonese,1.79,800000.0,2022-2023,serie-a
+dennis politic,us cremonese,1.85,150000.0,2022-2023,serie-a
+luca zanimacchia,us cremonese,1.78,1800000.0,2022-2023,serie-a
+felix afenagyan,us cremonese,1.75,5000000.0,2022-2023,serie-a
+cyriel dessers,us cremonese,1.85,5000000.0,2022-2023,serie-a
+david okereke,us cremonese,1.81,4000000.0,2022-2023,serie-a
+frank tsadjout,us cremonese,1.9,1200000.0,2022-2023,serie-a
+samuel di carmine,us cremonese,1.87,350000.0,2022-2023,serie-a
+daniel ciofani,us cremonese,1.91,200000.0,2022-2023,serie-a
+alberto basso ricci,us cremonese,,100000.0,2022-2023,serie-a

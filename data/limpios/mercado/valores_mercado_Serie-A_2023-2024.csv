@@ -1,833 +1,649 @@
 nombre,club_actual,altura,valor,temporada,liga
-yann sommer,Inter Milan,1.83,5000000.0,2023-2024,Serie-A
-emil audero,Como 1907,1.92,5000000.0,2023-2024,Serie-A
-raffaele di gennaro,Inter Milan,1.88,300000.0,2023-2024,Serie-A
-alessandro calligaris,Inter U23,,150000.0,2023-2024,Serie-A
-alessandro bastoni,Inter Milan,1.9,70000000.0,2023-2024,Serie-A
-benjamin pavard,Inter Milan,1.86,50000000.0,2023-2024,Serie-A
-yann bisseck,Inter Milan,1.96,16000000.0,2023-2024,Serie-A
-stefan de vrij,Inter Milan,1.89,7000000.0,2023-2024,Serie-A
-francesco acerbi,Inter Milan,1.92,3500000.0,2023-2024,Serie-A
-giacomo stabile,Inter U23,1.87,50000.0,2023-2024,Serie-A
-federico dimarco,Inter Milan,1.75,50000000.0,2023-2024,Serie-A
-carlos augusto,Inter Milan,1.84,22000000.0,2023-2024,Serie-A
-matteo motta,Inter U23,,100000.0,2023-2024,Serie-A
-denzel dumfries,Inter Milan,1.88,24000000.0,2023-2024,Serie-A
-matteo darmian,Inter Milan,1.83,4000000.0,2023-2024,Serie-A
-tommaso guercio,Slask Wroclaw,1.86,300000.0,2023-2024,Serie-A
-hakan çalhanoğlu,Inter Milan,1.78,45000000.0,2023-2024,Serie-A
-kristjan asllani,Inter Milan,1.79,18000000.0,2023-2024,Serie-A
-lucien agoumé,Sevilla FC,1.85,6000000.0,2023-2024,Serie-A
-aleksandar stanković,Inter Milan,1.85,1000000.0,2023-2024,Serie-A
-nicolò barella,Inter Milan,1.75,80000000.0,2023-2024,Serie-A
-davide frattesi,Inter Milan,1.78,35000000.0,2023-2024,Serie-A
-henrikh mkhitaryan,Inter Milan,1.77,6000000.0,2023-2024,Serie-A
-davy klaassen,Ajax Amsterdam,1.79,4000000.0,2023-2024,Serie-A
-stefano sensi,Without Club,1.68,3000000.0,2023-2024,Serie-A
-ebenezer akinsanmiro,Pisa Sporting Club,1.84,1800000.0,2023-2024,Serie-A
-tajon buchanan,Inter Milan,1.83,8000000.0,2023-2024,Serie-A
-juan cuadrado,Without Club,1.76,1000000.0,2023-2024,Serie-A
-issiaka kamate,Inter U23,1.86,1000000.0,2023-2024,Serie-A
-joaquín correa,Botafogo de Futebol e Regatas,1.88,6000000.0,2023-2024,Serie-A
-lautaro martínez,Inter Milan,1.74,110000000.0,2023-2024,Serie-A
-marcus thuram,Inter Milan,1.92,65000000.0,2023-2024,Serie-A
-marko arnautovic,Red Star Belgrade,1.92,4000000.0,2023-2024,Serie-A
-alexis sánchez,Udinese Calcio,1.69,2500000.0,2023-2024,Serie-A
-amadou sarr,Inter U23,1.9,150000.0,2023-2024,Serie-A
-mike maignan,AC Milan,1.91,38000000.0,2023-2024,Serie-A
-marco sportiello,Atalanta BC,1.92,1500000.0,2023-2024,Serie-A
-noah raveyre,Milan Futuro,,200000.0,2023-2024,Serie-A
-lapo nava,US Cremonese,1.97,150000.0,2023-2024,Serie-A
-antonio mirante,nan,1.93,100000.0,2023-2024,Serie-A
-andrea bartoccioni,AC Renate,1.96,50000.0,2023-2024,Serie-A
-lorenzo torriani,AC Milan,1.97,10000.0,2023-2024,Serie-A
-fikayo tomori,AC Milan,1.85,40000000.0,2023-2024,Serie-A
-malick thiaw,AC Milan,1.94,25000000.0,2023-2024,Serie-A
-pierre kalulu,Juventus FC,1.82,20000000.0,2023-2024,Serie-A
-matteo gabbia,AC Milan,1.85,8000000.0,2023-2024,Serie-A
-jan-carlo simić,RSC Anderlecht,1.86,5000000.0,2023-2024,Serie-A
-marco pellegrino,CA Boca Juniors,1.84,3500000.0,2023-2024,Serie-A
-simon kjaer,nan,1.91,1500000.0,2023-2024,Serie-A
-mattia caldara,Without Club,1.87,800000.0,2023-2024,Serie-A
-clinton nsiala,Rangers FC,1.89,200000.0,2023-2024,Serie-A
-theo hernández,Al-Hilal SFC,1.84,60000000.0,2023-2024,Serie-A
-davide bartesaghi,AC Milan,1.93,1000000.0,2023-2024,Serie-A
-davide calabria,Without Club,1.76,13000000.0,2023-2024,Serie-A
-filippo terracciano,AC Milan,1.86,4500000.0,2023-2024,Serie-A
-álex jiménez,AC Milan,1.77,4000000.0,2023-2024,Serie-A
-alessandro florenzi,Without Club,1.73,2000000.0,2023-2024,Serie-A
-ismaël bennacer,AC Milan,1.75,30000000.0,2023-2024,Serie-A
-yacine adli,AC Milan,1.86,15000000.0,2023-2024,Serie-A
-rade krunic,Red Star Belgrade,1.84,6000000.0,2023-2024,Serie-A
-tijjani reijnders,Manchester City,1.85,30000000.0,2023-2024,Serie-A
-ruben loftus-cheek,AC Milan,1.91,25000000.0,2023-2024,Serie-A
-yunus musah,AC Milan,1.78,22000000.0,2023-2024,Serie-A
-tommaso pobega,Bologna FC 1909,1.88,10000000.0,2023-2024,Serie-A
-kevin zeroli,AC Monza,1.87,2000000.0,2023-2024,Serie-A
-victor eletu,Without Club,1.76,400000.0,2023-2024,Serie-A
-rafael leão,AC Milan,1.88,90000000.0,2023-2024,Serie-A
-noah okafor,AC Milan,1.85,20000000.0,2023-2024,Serie-A
-chaka traorè,Milan Futuro,1.75,1500000.0,2023-2024,Serie-A
-diego sia,Milan Futuro,,,2023-2024,Serie-A
-christian pulisic,AC Milan,1.77,40000000.0,2023-2024,Serie-A
-samuel chukwueze,AC Milan,1.72,20000000.0,2023-2024,Serie-A
-luka romero,CD Cruz Azul,1.69,5000000.0,2023-2024,Serie-A
-francesco camarda,US Lecce,1.89,10000000.0,2023-2024,Serie-A
-luka jović,Without Club,1.82,7000000.0,2023-2024,Serie-A
-lorenzo colombo,AC Milan,1.83,6000000.0,2023-2024,Serie-A
-olivier giroud,LOSC Lille,1.92,3000000.0,2023-2024,Serie-A
-alex meret,SSC Napoli,1.9,12000000.0,2023-2024,Serie-A
-pierluigi gollini,AS Roma,1.94,4000000.0,2023-2024,Serie-A
-nikita contini,SSC Napoli,1.9,400000.0,2023-2024,Serie-A
-hubert idasiak,LKS Lodz,1.88,150000.0,2023-2024,Serie-A
-amir rrahmani,SSC Napoli,1.92,15000000.0,2023-2024,Serie-A
-natan,Real Betis Balompié,1.88,12000000.0,2023-2024,Serie-A
-leo østigård,Stade Rennais FC,1.83,8000000.0,2023-2024,Serie-A
-juan jesus,SSC Napoli,1.85,2500000.0,2023-2024,Serie-A
-luigi d'avino,Giugliano Calcio 1928,1.86,125000.0,2023-2024,Serie-A
-mathías olivera,SSC Napoli,1.85,15000000.0,2023-2024,Serie-A
-mário rui,Without Club,1.68,3500000.0,2023-2024,Serie-A
-giovanni di lorenzo,SSC Napoli,1.83,15000000.0,2023-2024,Serie-A
-alessandro zanoli,SSC Napoli,1.88,5000000.0,2023-2024,Serie-A
-pasquale mazzocchi,SSC Napoli,1.83,3000000.0,2023-2024,Serie-A
-stanislav lobotka,SSC Napoli,1.68,28000000.0,2023-2024,Serie-A
-jens cajuste,SSC Napoli,1.88,10000000.0,2023-2024,Serie-A
-leander dendoncker,Aston Villa,1.88,7000000.0,2023-2024,Serie-A
-diego demme,Hertha BSC,1.7,800000.0,2023-2024,Serie-A
-francesco gioielli,Atletico Calcio Afragolese,,175000.0,2023-2024,Serie-A
-lorenzo russo,Guidonia Montecelio 1937 FC,1.82,100000.0,2023-2024,Serie-A
-frank anguissa,SSC Napoli,1.84,27000000.0,2023-2024,Serie-A
-piotr zieliński,Inter Milan,1.8,22000000.0,2023-2024,Serie-A
-karim zedadka,FC Südtirol,1.84,250000.0,2023-2024,Serie-A
-hamed junior traoré,AFC Bournemouth,1.77,17000000.0,2023-2024,Serie-A
-gianluca gaetano,Cagliari Calcio,1.83,6000000.0,2023-2024,Serie-A
-khvicha kvaratskhelia,Paris Saint-Germain,1.83,80000000.0,2023-2024,Serie-A
-eljif elmas,RB Leipzig,1.84,20000000.0,2023-2024,Serie-A
-hirving lozano,San Diego FC,1.75,15000000.0,2023-2024,Serie-A
-alessio zerbin,SSC Napoli,1.82,4000000.0,2023-2024,Serie-A
-jesper lindstrøm,SSC Napoli,1.82,22000000.0,2023-2024,Serie-A
-matteo politano,SSC Napoli,1.71,13000000.0,2023-2024,Serie-A
-cyril ngonge,SSC Napoli,1.8,12000000.0,2023-2024,Serie-A
-giacomo raspadori,SSC Napoli,1.72,25000000.0,2023-2024,Serie-A
-victor osimhen,SSC Napoli,1.86,100000000.0,2023-2024,Serie-A
-giovanni simeone,SSC Napoli,1.8,10000000.0,2023-2024,Serie-A
-wojciech szczesny,FC Barcelona,1.95,6000000.0,2023-2024,Serie-A
-mattia perin,Juventus FC,1.88,3000000.0,2023-2024,Serie-A
-giovanni daffara,US Avellino 1912,1.94,300000.0,2023-2024,Serie-A
-carlo pinsoglio,Juventus FC,1.94,200000.0,2023-2024,Serie-A
-giovanni garofani,Juventus Next Gen,1.88,100000.0,2023-2024,Serie-A
-gian marco crespi,Spezia Calcio,1.89,100000.0,2023-2024,Serie-A
-simone scaglia,Juventus Next Gen,1.96,25000.0,2023-2024,Serie-A
-bremer,Juventus FC,1.88,60000000.0,2023-2024,Serie-A
-federico gatti,Juventus FC,1.9,18000000.0,2023-2024,Serie-A
-tiago djaló,Juventus FC,1.9,12000000.0,2023-2024,Serie-A
-danilo,CR Flamengo,1.84,10000000.0,2023-2024,Serie-A
-dean huijsen,Real Madrid,1.97,10000000.0,2023-2024,Serie-A
-daniele rugani,Juventus FC,1.9,4000000.0,2023-2024,Serie-A
-tarik muharemović,US Sassuolo,1.87,1200000.0,2023-2024,Serie-A
-andrea cambiaso,Juventus FC,1.82,25000000.0,2023-2024,Serie-A
-alex sandro,CR Flamengo,1.8,2000000.0,2023-2024,Serie-A
-mattia de sciglio,Without Club,1.83,1000000.0,2023-2024,Serie-A
-manuel locatelli,Juventus FC,1.85,28000000.0,2023-2024,Serie-A
-adrien rabiot,Olympique Marseille,1.91,35000000.0,2023-2024,Serie-A
-weston mckennie,Juventus FC,1.85,28000000.0,2023-2024,Serie-A
-fabio miretti,Juventus FC,1.8,15000000.0,2023-2024,Serie-A
-nicolò fagioli,ACF Fiorentina,1.78,15000000.0,2023-2024,Serie-A
-carlos alcaraz,Everton FC,1.76,15000000.0,2023-2024,Serie-A
-hans nicolussi caviglia,Venezia FC,1.84,3000000.0,2023-2024,Serie-A
-joseph nonge,Kocaelispor,1.84,3000000.0,2023-2024,Serie-A
-luis hasa,SSC Napoli,1.72,1000000.0,2023-2024,Serie-A
-paul pogba,AS Monaco,1.91,,2023-2024,Serie-A
-filip kostić,Juventus FC,1.84,6500000.0,2023-2024,Serie-A
-nikola sekulov,UC Sampdoria,1.85,800000.0,2023-2024,Serie-A
-kenan yıldız,Juventus FC,1.87,30000000.0,2023-2024,Serie-A
-samuel iling-junior,Aston Villa,1.82,13000000.0,2023-2024,Serie-A
-federico chiesa,Liverpool FC,1.75,35000000.0,2023-2024,Serie-A
-matías soulé,AS Roma,1.82,25000000.0,2023-2024,Serie-A
-timothy weah,Juventus FC,1.83,12000000.0,2023-2024,Serie-A
-dušan vlahović,Juventus FC,1.9,65000000.0,2023-2024,Serie-A
-moise kean,ACF Fiorentina,1.83,14000000.0,2023-2024,Serie-A
-arkadiusz milik,Juventus FC,1.86,6000000.0,2023-2024,Serie-A
-leonardo cerri,Juventus Next Gen,1.98,800000.0,2023-2024,Serie-A
-tommaso mancini,Juventus Next Gen,1.9,500000.0,2023-2024,Serie-A
-marco carnesecchi,Atalanta BC,1.91,16000000.0,2023-2024,Serie-A
-juan musso,Atlético de Madrid,1.91,5000000.0,2023-2024,Serie-A
-paolo vismara,Atalanta U23,1.95,600000.0,2023-2024,Serie-A
-francesco rossi,Atalanta BC,1.93,100000.0,2023-2024,Serie-A
-giorgio scalvini,Atalanta BC,1.94,45000000.0,2023-2024,Serie-A
-isak hien,Atalanta BC,1.91,20000000.0,2023-2024,Serie-A
-berat djimsiti,Atalanta BC,1.9,10000000.0,2023-2024,Serie-A
-sead kolasinac,Atalanta BC,1.83,10000000.0,2023-2024,Serie-A
-caleb okoli,Leicester City,1.91,8000000.0,2023-2024,Serie-A
-rafael tolói,Without Club,1.85,2500000.0,2023-2024,Serie-A
-giovanni bonfanti,Atalanta BC,1.87,1000000.0,2023-2024,Serie-A
-josé luis palomino,CA Talleres,1.88,700000.0,2023-2024,Serie-A
-andrea ceresoli,Benevento Calcio,1.77,500000.0,2023-2024,Serie-A
-tommaso del lungo,Atalanta U23,1.86,250000.0,2023-2024,Serie-A
-pietro comi,Atalanta U23,,250000.0,2023-2024,Serie-A
-matteo ruggeri,Atlético de Madrid,1.87,20000000.0,2023-2024,Serie-A
-mitchel bakker,Atalanta BC,1.89,6500000.0,2023-2024,Serie-A
-emil holm,Bologna FC 1909,1.91,12000000.0,2023-2024,Serie-A
-hans hateboer,Stade Rennais FC,1.87,3500000.0,2023-2024,Serie-A
-marten de roon,Atalanta BC,1.85,7000000.0,2023-2024,Serie-A
-leonardo mendicino,Atalanta U23,1.82,800000.0,2023-2024,Serie-A
-matteo colombo,Atalanta U23,1.82,150000.0,2023-2024,Serie-A
-éderson,Atalanta BC,1.83,40000000.0,2023-2024,Serie-A
-mario pasalić,Atalanta BC,1.88,13000000.0,2023-2024,Serie-A
-michel adopo,Cagliari Calcio,1.87,1000000.0,2023-2024,Serie-A
-alberto manzoni,Atalanta U23,1.78,300000.0,2023-2024,Serie-A
-davide zappacosta,Atalanta BC,1.82,6000000.0,2023-2024,Serie-A
-nadir zortea,Cagliari Calcio,1.87,3000000.0,2023-2024,Serie-A
-marco palestra,Atalanta BC,1.86,1000000.0,2023-2024,Serie-A
-teun koopmeiners,Juventus FC,1.84,50000000.0,2023-2024,Serie-A
-charles de ketelaere,Atalanta BC,1.92,34000000.0,2023-2024,Serie-A
-aleksey miranchuk,Atlanta United FC,1.82,10000000.0,2023-2024,Serie-A
-alessandro cortinovis,Atalanta U23,1.8,400000.0,2023-2024,Serie-A
-andrea bonanomi,Atalanta U23,,,2023-2024,Serie-A
-ademola lookman,Atalanta BC,1.74,40000000.0,2023-2024,Serie-A
-tommaso de nipoti,Atalanta U23,1.8,200000.0,2023-2024,Serie-A
-gianluca scamacca,Atalanta BC,1.95,35000000.0,2023-2024,Serie-A
-el bilal touré,Atalanta BC,1.85,20000000.0,2023-2024,Serie-A
-duván zapata,Torino FC,1.88,8000000.0,2023-2024,Serie-A
-luis muriel,Orlando City SC,1.8,2000000.0,2023-2024,Serie-A
-siren diao,Atalanta U23,1.89,1500000.0,2023-2024,Serie-A
-moustapha cissé,Atalanta U23,1.82,800000.0,2023-2024,Serie-A
-lukasz skorupski,Bologna FC 1909,1.88,3500000.0,2023-2024,Serie-A
-federico ravaglia,Bologna FC 1909,1.96,1000000.0,2023-2024,Serie-A
-nicola bagnolini,AS Gubbio 1910,1.94,200000.0,2023-2024,Serie-A
-tito gasperini,Lentigione Calcio,,,2023-2024,Serie-A
-sam beukema,SSC Napoli,1.88,18000000.0,2023-2024,Serie-A
-jhon lucumí,Bologna FC 1909,1.87,17000000.0,2023-2024,Serie-A
-stefan posch,Bologna FC 1909,1.9,14000000.0,2023-2024,Serie-A
-mihajlo ilić,Bologna FC 1909,1.92,4000000.0,2023-2024,Serie-A
-adama soumaoro,Without Club,1.87,2000000.0,2023-2024,Serie-A
-kevin bonifazi,Bologna FC 1909,1.87,1800000.0,2023-2024,Serie-A
-joaquín sosa,Independiente Santa Fe,1.89,1500000.0,2023-2024,Serie-A
-riccardo stivanello,FC Bologna Weitere,1.88,200000.0,2023-2024,Serie-A
-riccardo calafiori,Arsenal FC,1.88,30000000.0,2023-2024,Serie-A
-victor kristiansen,Leicester City,1.81,15000000.0,2023-2024,Serie-A
-tommaso corazza,Bologna FC 1909,1.74,1000000.0,2023-2024,Serie-A
-charalampos lykogiannis,Bologna FC 1909,1.91,1000000.0,2023-2024,Serie-A
-lorenzo de silvestri,Bologna FC 1909,1.87,400000.0,2023-2024,Serie-A
-jerdy schouten,PSV Eindhoven,1.85,28000000.0,2023-2024,Serie-A
-nikola moro,Bologna FC 1909,1.84,5000000.0,2023-2024,Serie-A
-oussama el azzouzi,Bologna FC 1909,1.89,2500000.0,2023-2024,Serie-A
-lewis ferguson,Bologna FC 1909,1.81,24000000.0,2023-2024,Serie-A
-nicolás domínguez,Nottingham Forest,1.79,17000000.0,2023-2024,Serie-A
-michel aebischer,Bologna FC 1909,1.83,9000000.0,2023-2024,Serie-A
-kacper urbanski,Bologna FC 1909,1.83,7000000.0,2023-2024,Serie-A
-remo freuler,Bologna FC 1909,1.8,6500000.0,2023-2024,Serie-A
-niklas pyyhtiä,Modena FC,1.88,1200000.0,2023-2024,Serie-A
-giovanni fabbian,Bologna FC 1909,1.86,14000000.0,2023-2024,Serie-A
-jens odgaard,Bologna FC 1909,1.88,4500000.0,2023-2024,Serie-A
-jesper karlsson,Bologna FC 1909,1.79,8000000.0,2023-2024,Serie-A
-riccardo orsolini,Bologna FC 1909,1.83,16000000.0,2023-2024,Serie-A
-dan ndoye,Bologna FC 1909,1.84,14000000.0,2023-2024,Serie-A
-alexis saelemaekers,AC Milan,1.8,12000000.0,2023-2024,Serie-A
-joshua zirkzee,Manchester United,1.93,50000000.0,2023-2024,Serie-A
-santiago castro,Bologna FC 1909,1.79,12000000.0,2023-2024,Serie-A
-marko arnautovic,Red Star Belgrade,1.92,4000000.0,2023-2024,Serie-A
-sydney van hooijdonk,NAC Breda,1.9,4000000.0,2023-2024,Serie-A
-tommaso ravaglioli,Bologna Primavera,,,2023-2024,Serie-A
-mile svilar,AS Roma,1.89,9000000.0,2023-2024,Serie-A
-rui patrício,Without Club,1.9,1000000.0,2023-2024,Serie-A
-renato marin,Paris Saint-Germain,1.93,500000.0,2023-2024,Serie-A
-pietro boer,AS Roma,1.93,150000.0,2023-2024,Serie-A
-evan ndicka,AS Roma,1.92,25000000.0,2023-2024,Serie-A
-gianluca mancini,AS Roma,1.9,25000000.0,2023-2024,Serie-A
-dean huijsen,Real Madrid,1.97,10000000.0,2023-2024,Serie-A
-diego llorente,Real Betis Balompié,1.86,7000000.0,2023-2024,Serie-A
-marash kumbulla,AS Roma,1.91,4500000.0,2023-2024,Serie-A
-chris smalling,Al-Fayha FC,1.94,2500000.0,2023-2024,Serie-A
-matteo plaia,Roma U20,1.94,,2023-2024,Serie-A
-lovro golic,KV Mechelen,1.93,,2023-2024,Serie-A
-angeliño,AS Roma,1.71,8000000.0,2023-2024,Serie-A
-leonardo spinazzola,SSC Napoli,1.86,4000000.0,2023-2024,Serie-A
-jan oliveras,AS Rom Weitere,1.72,150000.0,2023-2024,Serie-A
-rasmus kristensen,Eintracht Frankfurt,1.87,10000000.0,2023-2024,Serie-A
-zeki çelik,AS Roma,1.8,6000000.0,2023-2024,Serie-A
-rick karsdorp,Without Club,1.84,5000000.0,2023-2024,Serie-A
-mattia mannini,AS Roma,1.73,,2023-2024,Serie-A
-bryan cristante,AS Roma,1.86,20000000.0,2023-2024,Serie-A
-leandro paredes,CA Boca Juniors,1.8,8000000.0,2023-2024,Serie-A
-martin vetkal,FC Dordrecht,1.81,50000.0,2023-2024,Serie-A
-edoardo bove,AS Roma,1.81,18000000.0,2023-2024,Serie-A
-renato sanches,Paris Saint-Germain,1.76,6500000.0,2023-2024,Serie-A
-niccolò pisilli,AS Roma,1.8,3500000.0,2023-2024,Serie-A
-riccardo pagano,SSC Bari,1.75,2500000.0,2023-2024,Serie-A
-francesco d'alessio,AS Cittadella,1.82,100000.0,2023-2024,Serie-A
-nicola zalewski,Inter Milan,1.75,12000000.0,2023-2024,Serie-A
-lorenzo pellegrini,AS Roma,1.86,25000000.0,2023-2024,Serie-A
-tommaso baldanzi,AS Roma,1.7,15000000.0,2023-2024,Serie-A
-houssem aouar,Al-Ittihad Club,1.75,10000000.0,2023-2024,Serie-A
-stephan el shaarawy,AS Roma,1.78,5000000.0,2023-2024,Serie-A
-luigi cherubini,AS Roma,1.75,350000.0,2023-2024,Serie-A
-ola solbakken,AS Roma,1.89,2500000.0,2023-2024,Serie-A
-joão costa,Al-Ettifaq FC,1.78,1000000.0,2023-2024,Serie-A
-paulo dybala,AS Roma,1.77,20000000.0,2023-2024,Serie-A
-tammy abraham,Besiktas JK,1.94,30000000.0,2023-2024,Serie-A
-romelu lukaku,SSC Napoli,1.91,30000000.0,2023-2024,Serie-A
-sardar azmoun,Shabab Al-Ahli Club,1.86,8000000.0,2023-2024,Serie-A
-andrea belotti,Como 1907,1.81,5000000.0,2023-2024,Serie-A
-filippo alessio,LR Vicenza,,100000.0,2023-2024,Serie-A
-oliver christensen,ACF Fiorentina,1.9,3000000.0,2023-2024,Serie-A
-pietro terracciano,AC Milan,1.93,2500000.0,2023-2024,Serie-A
-tommaso martinelli,ACF Fiorentina,1.94,1000000.0,2023-2024,Serie-A
-tommaso vannucchi,US Città di Pontedera,1.97,400000.0,2023-2024,Serie-A
-nikola milenković,Nottingham Forest,1.95,15000000.0,2023-2024,Serie-A
-lucas martínez quarta,CA River Plate,1.83,15000000.0,2023-2024,Serie-A
-luca ranieri,ACF Fiorentina,1.87,8000000.0,2023-2024,Serie-A
-yerry mina,Cagliari Calcio,1.95,3000000.0,2023-2024,Serie-A
-christian dalle mura,Cosenza Calcio,1.88,850000.0,2023-2024,Serie-A
-pietro comuzzo,ACF Fiorentina,1.85,700000.0,2023-2024,Serie-A
-christian biagetti,SEF Torres 1903,,150000.0,2023-2024,Serie-A
-fabiano parisi,ACF Fiorentina,1.78,9500000.0,2023-2024,Serie-A
-cristiano biraghi,Torino FC,1.85,3500000.0,2023-2024,Serie-A
-niccolò fortini,ACF Fiorentina,1.85,500000.0,2023-2024,Serie-A
-michael kayode,Brentford FC,1.79,25000000.0,2023-2024,Serie-A
-dodô,ACF Fiorentina,1.66,17000000.0,2023-2024,Serie-A
-niccolò pierozzi,Palermo FC,1.84,1800000.0,2023-2024,Serie-A
-davide faraoni,Without Club,1.8,1500000.0,2023-2024,Serie-A
-sofyan amrabat,Fenerbahce,1.85,22000000.0,2023-2024,Serie-A
-arthur melo,Juventus FC,1.72,15000000.0,2023-2024,Serie-A
-rolando mandragora,ACF Fiorentina,1.83,8500000.0,2023-2024,Serie-A
-maxime lopez,Paris FC,1.67,7500000.0,2023-2024,Serie-A
-lorenzo amatucci,UD Las Palmas,1.72,1000000.0,2023-2024,Serie-A
-gaetano castrovilli,Without Club,1.87,7000000.0,2023-2024,Serie-A
-alfred duncan,Venezia FC,1.78,4000000.0,2023-2024,Serie-A
-gino infantino,ACF Fiorentina,1.78,3000000.0,2023-2024,Serie-A
-lucas beltrán,ACF Fiorentina,1.76,16000000.0,2023-2024,Serie-A
-antonín barák,ACF Fiorentina,1.9,4500000.0,2023-2024,Serie-A
-giacomo bonaventura,Without Club,1.8,3000000.0,2023-2024,Serie-A
-abdelhamid sabiri,ACF Fiorentina,1.86,2200000.0,2023-2024,Serie-A
-riccardo sottil,ACF Fiorentina,1.8,6000000.0,2023-2024,Serie-A
-josip brekalo,ACF Fiorentina,1.75,3500000.0,2023-2024,Serie-A
-maat daniel caprini,Fiorentina Primavera,1.8,,2023-2024,Serie-A
-nico gonzález,Juventus FC,1.8,35000000.0,2023-2024,Serie-A
-jonathan ikoné,ACF Fiorentina,1.75,10000000.0,2023-2024,Serie-A
-aleksandr kokorin,Aris Limassol,1.84,800000.0,2023-2024,Serie-A
-christian kouamé,ACF Fiorentina,1.85,7500000.0,2023-2024,Serie-A
-luka jović,Without Club,1.82,7000000.0,2023-2024,Serie-A
-m'bala nzola,ACF Fiorentina,1.85,7000000.0,2023-2024,Serie-A
-andrea belotti,Como 1907,1.81,5000000.0,2023-2024,Serie-A
-fallou sene,AC Horsens,1.87,200000.0,2023-2024,Serie-A
-vanja milinković-savić,Torino FC,2.02,5000000.0,2023-2024,Serie-A
-mihai popa,Torino FC,1.9,800000.0,2023-2024,Serie-A
-luca gemello,AC Perugia Calcio,1.9,300000.0,2023-2024,Serie-A
-pietro passador,FC Turin Weitere,1.96,100000.0,2023-2024,Serie-A
-matteo brezzo,FC Turin Weitere,,25000.0,2023-2024,Serie-A
-alessandro buongiorno,SSC Napoli,1.9,35000000.0,2023-2024,Serie-A
-wilfried singo,AS Monaco,1.9,25000000.0,2023-2024,Serie-A
-perr schuurs,Torino FC,1.91,25000000.0,2023-2024,Serie-A
-matteo lovato,US Salernitana 1919,1.88,4000000.0,2023-2024,Serie-A
-david zima,SK Slavia Prague,1.92,4000000.0,2023-2024,Serie-A
-saba sazonov,Torino FC,1.94,2800000.0,2023-2024,Serie-A
-koffi djidji,Without Club,1.84,2500000.0,2023-2024,Serie-A
-adam masina,Torino FC,1.91,1500000.0,2023-2024,Serie-A
-alessandro dellavalle,Modena FC,1.89,800000.0,2023-2024,Serie-A
-ange caumenan n'guessan,Torino FC,1.87,200000.0,2023-2024,Serie-A
-ricardo rodríguez,Real Betis Balompié,1.82,3500000.0,2023-2024,Serie-A
-vimoj muntu wa mungu,EA Guingamp B,1.67,300000.0,2023-2024,Serie-A
-jacopo antolini,US Pergolettese 1932,,100000.0,2023-2024,Serie-A
-mërgim vojvoda,Como 1907,1.87,3000000.0,2023-2024,Serie-A
-côme bianay balcot,Torino FC,1.88,200000.0,2023-2024,Serie-A
-samuele ricci,AC Milan,1.81,22000000.0,2023-2024,Serie-A
-adrien tamèze,Torino FC,1.82,5000000.0,2023-2024,Serie-A
-ivan ilić,Torino FC,1.86,18000000.0,2023-2024,Serie-A
-karol linetty,Without Club,1.75,3500000.0,2023-2024,Serie-A
-emirhan i̇lkhan,Torino FC,1.75,3000000.0,2023-2024,Serie-A
-gvidas gineitis,Torino FC,1.91,2000000.0,2023-2024,Serie-A
-aaron ciammaglichella,Torino FC,1.8,1000000.0,2023-2024,Serie-A
-raoul bellanova,Atalanta BC,1.88,15000000.0,2023-2024,Serie-A
-brandon soppy,FC Lausanne-Sport,1.8,2000000.0,2023-2024,Serie-A
-brian bayeye,Torino FC,1.82,400000.0,2023-2024,Serie-A
-ali dembélé,Torino FC,1.89,300000.0,2023-2024,Serie-A
-valentino lazaro,Torino FC,1.81,3500000.0,2023-2024,Serie-A
-nikola vlašić,Torino FC,1.79,10000000.0,2023-2024,Serie-A
-simone verdi,Without Club,1.74,2500000.0,2023-2024,Serie-A
-jonathan silva,Calcio Padova,1.86,400000.0,2023-2024,Serie-A
-nemanja radonjić,Red Star Belgrade,1.82,2800000.0,2023-2024,Serie-A
-yann karamoh,Without Club,1.84,2500000.0,2023-2024,Serie-A
-alieu njie,Torino FC,1.85,300000.0,2023-2024,Serie-A
-demba seck,FK Partizan Belgrade,1.9,2000000.0,2023-2024,Serie-A
-zanos savva,Torino FC,1.91,1000000.0,2023-2024,Serie-A
-uros kabic,OFK Beograd,1.83,1000000.0,2023-2024,Serie-A
-duván zapata,Torino FC,1.88,8000000.0,2023-2024,Serie-A
-antonio sanabria,Torino FC,1.8,7000000.0,2023-2024,Serie-A
-pietro pellegri,FC Empoli,1.89,3000000.0,2023-2024,Serie-A
-david okereke,US Cremonese,1.81,2400000.0,2023-2024,Serie-A
-ivan provedel,SS Lazio,1.94,14000000.0,2023-2024,Serie-A
-christos mandas,SS Lazio,1.89,3000000.0,2023-2024,Serie-A
-luigi sepe,US Salernitana 1919,1.85,500000.0,2023-2024,Serie-A
-federico magro,Hellas Verona,1.9,250000.0,2023-2024,Serie-A
-marius adamonis,FC Südtirol,1.91,200000.0,2023-2024,Serie-A
-alessio furlanetto,SS Lazio,1.91,50000.0,2023-2024,Serie-A
-davide renzetti,SS Lazio,1.94,50000.0,2023-2024,Serie-A
-alessio romagnoli,SS Lazio,1.85,15000000.0,2023-2024,Serie-A
-nicolò casale,Bologna FC 1909,1.91,14000000.0,2023-2024,Serie-A
-mario gila,SS Lazio,1.85,13000000.0,2023-2024,Serie-A
-patric,SS Lazio,1.84,4000000.0,2023-2024,Serie-A
-fabio andrea ruggeri,SS Lazio,1.84,200000.0,2023-2024,Serie-A
-matteo duțu,Milan Futuro,1.92,200000.0,2023-2024,Serie-A
-luca pellegrini,SS Lazio,1.78,3500000.0,2023-2024,Serie-A
-dimitrije kamenovic,SS Lazio,1.89,800000.0,2023-2024,Serie-A
-adam marusic,SS Lazio,1.85,5000000.0,2023-2024,Serie-A
-elseid hysaj,SS Lazio,1.82,2500000.0,2023-2024,Serie-A
-nicolò rovella,SS Lazio,1.79,18000000.0,2023-2024,Serie-A
-danilo cataldi,SS Lazio,1.8,5500000.0,2023-2024,Serie-A
-mattéo guendouzi,SS Lazio,1.85,25000000.0,2023-2024,Serie-A
-toma bašić,SS Lazio,1.9,2800000.0,2023-2024,Serie-A
-matías vecino,SS Lazio,1.87,2500000.0,2023-2024,Serie-A
-larsson coulibaly,Without Club,1.8,50000.0,2023-2024,Serie-A
-manuel lazzari,SS Lazio,1.74,4000000.0,2023-2024,Serie-A
-daichi kamada,Crystal Palace,1.8,18000000.0,2023-2024,Serie-A
-luis alberto,Al-Duhail SC,1.83,11000000.0,2023-2024,Serie-A
-andré anderson,Without Club,1.8,400000.0,2023-2024,Serie-A
-luca napolitano,FC Matera,1.71,50000.0,2023-2024,Serie-A
-mattia zaccagni,SS Lazio,1.77,20000000.0,2023-2024,Serie-A
-saná fernandes,SS Lazio,1.65,800000.0,2023-2024,Serie-A
-gustav isaksen,SS Lazio,1.81,12000000.0,2023-2024,Serie-A
-felipe anderson,Sociedade Esportiva Palmeiras,1.75,8000000.0,2023-2024,Serie-A
-pedro,SS Lazio,1.67,1000000.0,2023-2024,Serie-A
-diego gonzález,Atlas Guadalajara,1.77,1000000.0,2023-2024,Serie-A
-cristiano lombardi,nan,1.8,100000.0,2023-2024,Serie-A
-taty castellanos,SS Lazio,1.78,15000000.0,2023-2024,Serie-A
-ciro immobile,Bologna FC 1909,1.85,4000000.0,2023-2024,Serie-A
-josep martínez,Inter Milan,1.91,8000000.0,2023-2024,Serie-A
-nicola leali,Genoa CFC,1.93,600000.0,2023-2024,Serie-A
-franz stolz,FC Rapid 1923,1.93,200000.0,2023-2024,Serie-A
-simone calvani,FC Genua Weitere,1.89,150000.0,2023-2024,Serie-A
-daniele sommariva,Genoa CFC,1.85,100000.0,2023-2024,Serie-A
-radu drăgușin,Tottenham Hotspur,1.91,25000000.0,2023-2024,Serie-A
-koni de winter,Genoa CFC,1.91,12000000.0,2023-2024,Serie-A
-johan vásquez,Genoa CFC,1.85,10000000.0,2023-2024,Serie-A
-alan matturro,Levante UD,1.89,4000000.0,2023-2024,Serie-A
-mattia bani,Genoa CFC,1.88,2500000.0,2023-2024,Serie-A
-giorgio cittadini,Atalanta U23,1.93,2400000.0,2023-2024,Serie-A
-alessandro vogliacco,Genoa CFC,1.86,2000000.0,2023-2024,Serie-A
-davide biraschi,Frosinone Calcio,1.82,900000.0,2023-2024,Serie-A
-faroukou cissé,Without Club,1.87,200000.0,2023-2024,Serie-A
-tommaso pittino,Mantova 1911,1.89,150000.0,2023-2024,Serie-A
-djed spence,Tottenham Hotspur,1.84,8000000.0,2023-2024,Serie-A
-aarón martín,Genoa CFC,1.78,5000000.0,2023-2024,Serie-A
-ridgeciano haps,Venezia FC,1.75,900000.0,2023-2024,Serie-A
-silvan hefti,Hamburger SV,1.83,2500000.0,2023-2024,Serie-A
-stefano sabelli,Genoa CFC,1.76,1500000.0,2023-2024,Serie-A
-emil bohinen,Genoa CFC,1.89,1800000.0,2023-2024,Serie-A
-filip jagiello,Lech Poznan,1.79,1100000.0,2023-2024,Serie-A
-milan badelj,Without Club,1.86,800000.0,2023-2024,Serie-A
-morten frendrup,Genoa CFC,1.78,15000000.0,2023-2024,Serie-A
-berkan kutlu,Galatasaray,1.86,3800000.0,2023-2024,Serie-A
-morten thorsby,Genoa CFC,1.88,3000000.0,2023-2024,Serie-A
-pablo galdames,CA Independiente,1.76,1500000.0,2023-2024,Serie-A
-filippo melegoni,Carrarese Calcio 1908,1.86,1200000.0,2023-2024,Serie-A
-kevin strootman,nan,1.86,800000.0,2023-2024,Serie-A
-léandre kuavita,Standard Liège,1.8,400000.0,2023-2024,Serie-A
-riccardo arboscello,Genoa U20,,200000.0,2023-2024,Serie-A
-ruslan malinovskyi,Genoa CFC,1.81,8000000.0,2023-2024,Serie-A
-mattia aramu,Genoa CFC,1.8,1300000.0,2023-2024,Serie-A
-christos papadopoulos,Genoa CFC,1.88,800000.0,2023-2024,Serie-A
-junior messias,Genoa CFC,1.74,2500000.0,2023-2024,Serie-A
-seydou fini,Genoa CFC,1.78,1000000.0,2023-2024,Serie-A
-albert gudmundsson,ACF Fiorentina,1.77,30000000.0,2023-2024,Serie-A
-mateo retegui,Al-Qadsiah FC,1.86,16000000.0,2023-2024,Serie-A
-vitinha,Genoa CFC,1.78,14000000.0,2023-2024,Serie-A
-david ankeye,Genoa CFC,1.91,2000000.0,2023-2024,Serie-A
-caleb ekuban,Genoa CFC,1.82,1500000.0,2023-2024,Serie-A
-george pușcaș,Bodrum FK,1.88,1500000.0,2023-2024,Serie-A
-massimo coda,UC Sampdoria,1.84,1000000.0,2023-2024,Serie-A
-yoan bornosuzov,CSKA Sofia,1.95,100000.0,2023-2024,Serie-A
-maduka okoye,Udinese Calcio,1.98,4000000.0,2023-2024,Serie-A
-marco silvestri,Without Club,1.91,1000000.0,2023-2024,Serie-A
-daniele padelli,Udinese Calcio,1.91,150000.0,2023-2024,Serie-A
-federico mosca,Udinese Primavera,1.92,100000.0,2023-2024,Serie-A
-edoardo piana,SS Monopoli 1966,1.98,25000.0,2023-2024,Serie-A
-joel malusà,Udinese Primavera,,,2023-2024,Serie-A
-nehuén pérez,FC Porto,1.86,13000000.0,2023-2024,Serie-A
-jaka bijol,Leeds United,1.9,10000000.0,2023-2024,Serie-A
-thomas kristensen,Udinese Calcio,1.98,4500000.0,2023-2024,Serie-A
-enzo ebosse,Hellas Verona,1.85,2500000.0,2023-2024,Serie-A
-lautaro giannetti,Udinese Calcio,1.85,2500000.0,2023-2024,Serie-A
-adam masina,Torino FC,1.91,1500000.0,2023-2024,Serie-A
-matteo palma,Udinese Calcio,1.94,1000000.0,2023-2024,Serie-A
-christian kabasele,Udinese Calcio,1.87,1000000.0,2023-2024,Serie-A
-antonio tikvic,Watford FC,1.95,700000.0,2023-2024,Serie-A
-axel guessand,Kristiansund BK,1.92,500000.0,2023-2024,Serie-A
-james abankwah,Watford FC,1.88,300000.0,2023-2024,Serie-A
-samuel john nwachukwu,Hellas Verona Primavera,1.91,150000.0,2023-2024,Serie-A
-jordan zemura,Udinese Calcio,1.73,5000000.0,2023-2024,Serie-A
-hassane kamara,Udinese Calcio,1.7,4500000.0,2023-2024,Serie-A
-festy ebosele,Basaksehir FK,1.8,6000000.0,2023-2024,Serie-A
-kingsley ehizibue,Udinese Calcio,1.89,2200000.0,2023-2024,Serie-A
-joão ferreira,Watford FC,1.85,2000000.0,2023-2024,Serie-A
-walace,Cruzeiro Esporte Clube,1.88,6000000.0,2023-2024,Serie-A
-étienne camara,Royal Charleroi SC,1.91,1500000.0,2023-2024,Serie-A
-sandi lovrić,Udinese Calcio,1.8,8000000.0,2023-2024,Serie-A
-martín payero,Udinese Calcio,1.82,4500000.0,2023-2024,Serie-A
-oier zarraga,Udinese Calcio,1.75,2000000.0,2023-2024,Serie-A
-roberto pereyra,AEK Athens,1.82,2000000.0,2023-2024,Serie-A
-domingos quina,Pafos FC,1.73,1500000.0,2023-2024,Serie-A
-marco ballarini,Udinese Calcio,1.86,75000.0,2023-2024,Serie-A
-bor zunec,UIC Flames (University of Illinois at Chicago),,10000.0,2023-2024,Serie-A
-lazar samardžić,Atalanta BC,1.84,20000000.0,2023-2024,Serie-A
-simone pafundi,Udinese Calcio,1.66,10000000.0,2023-2024,Serie-A
-david pejičić,Udinese Calcio,,1000000.0,2023-2024,Serie-A
-marley aké,Yverdon Sport FC,1.78,1600000.0,2023-2024,Serie-A
-florian thauvin,Udinese Calcio,1.81,3000000.0,2023-2024,Serie-A
-beto,Everton FC,1.94,20000000.0,2023-2024,Serie-A
-lorenzo lucca,SSC Napoli,2.01,12000000.0,2023-2024,Serie-A
-brenner,Udinese Calcio,1.75,7000000.0,2023-2024,Serie-A
-keinan davis,Udinese Calcio,1.89,3000000.0,2023-2024,Serie-A
-isaac success,Without Club,1.82,2500000.0,2023-2024,Serie-A
-gerard deulofeu,Without Club,1.77,1000000.0,2023-2024,Serie-A
-vivaldo semedo,Watford FC,1.92,500000.0,2023-2024,Serie-A
-sekou diawara,Udinese Calcio Weitere,1.87,250000.0,2023-2024,Serie-A
-michele di gregorio,Juventus FC,1.87,18000000.0,2023-2024,Serie-A
-alessandro sorrentino,AC Monza,1.9,800000.0,2023-2024,Serie-A
-stefano gori,Without Club,1.85,500000.0,2023-2024,Serie-A
-eugenio lamanna,Without Club,1.87,100000.0,2023-2024,Serie-A
-andrea mazza,AC Monza,1.9,75000.0,2023-2024,Serie-A
-andrea carboni,AC Monza,1.87,4000000.0,2023-2024,Serie-A
-pablo marí,ACF Fiorentina,1.93,3500000.0,2023-2024,Serie-A
-armando izzo,AC Monza,1.83,2500000.0,2023-2024,Serie-A
-giorgio cittadini,Atalanta U23,1.93,2400000.0,2023-2024,Serie-A
-luca caldirola,Without Club,1.86,1300000.0,2023-2024,Serie-A
-davide bettella,Without Club,1.85,1000000.0,2023-2024,Serie-A
-danilo d'ambrosio,Without Club,1.8,1000000.0,2023-2024,Serie-A
-georgios kyriakopoulos,Panathinaikos FC,1.86,3500000.0,2023-2024,Serie-A
-franco carboni,FC Empoli,1.9,900000.0,2023-2024,Serie-A
-samuele birindelli,AC Monza,1.76,3500000.0,2023-2024,Serie-A
-pedro pereira,Without Club,1.85,1500000.0,2023-2024,Serie-A
-giulio donati,Without Club,1.78,300000.0,2023-2024,Serie-A
-leonardo colombo,AC Monza,1.75,250000.0,2023-2024,Serie-A
-matteo pessina,AC Monza,1.87,15000000.0,2023-2024,Serie-A
-warren bondo,AC Milan,1.77,6000000.0,2023-2024,Serie-A
-roberto gagliardini,Without Club,1.88,3000000.0,2023-2024,Serie-A
-pepín machín,Without Club,1.84,1000000.0,2023-2024,Serie-A
-jean-daniel akpa akpro,Without Club,1.8,1000000.0,2023-2024,Serie-A
-alessandro berretta,Monza Primavera,1.89,,2023-2024,Serie-A
-patrick ciurria,AC Monza,1.78,4000000.0,2023-2024,Serie-A
-andrea colpani,AC Monza,1.84,18000000.0,2023-2024,Serie-A
-valentín carboni,Genoa CFC,1.85,15000000.0,2023-2024,Serie-A
-daniel maldini,Atalanta BC,1.88,4500000.0,2023-2024,Serie-A
-samuele vignato,Without Club,1.72,3500000.0,2023-2024,Serie-A
-matija popović,Napoli Primavera,1.93,2000000.0,2023-2024,Serie-A
-alessio zerbin,SSC Napoli,1.82,4000000.0,2023-2024,Serie-A
-andrea ferraris,Delfino Pescara 1936,1.73,200000.0,2023-2024,Serie-A
-papu gómez,Calcio Padova,1.67,,2023-2024,Serie-A
-dany mota,AC Monza,1.8,5000000.0,2023-2024,Serie-A
-gianluca caprari,AC Monza,1.71,4000000.0,2023-2024,Serie-A
-lorenzo colombo,AC Milan,1.83,6000000.0,2023-2024,Serie-A
-andrea petagna,AC Monza,1.9,3800000.0,2023-2024,Serie-A
-milan djuric,Parma Calcio 1913,1.99,1500000.0,2023-2024,Serie-A
-mirko marić,AC Monza,1.88,800000.0,2023-2024,Serie-A
-lorenzo montipò,Hellas Verona,1.91,3500000.0,2023-2024,Serie-A
-simone perilli,Hellas Verona,1.96,200000.0,2023-2024,Serie-A
-giacomo toniolo,Hellas Verona,,100000.0,2023-2024,Serie-A
-mattia chiesa,Hellas Verona Weitere,1.9,100000.0,2023-2024,Serie-A
-alessandro berardi,Without Club,1.85,50000.0,2023-2024,Serie-A
-isak hien,Atalanta BC,1.91,20000000.0,2023-2024,Serie-A
-diego coppola,Brighton & Hove Albion,1.93,6000000.0,2023-2024,Serie-A
-bruno amione,Santos Laguna,1.87,3000000.0,2023-2024,Serie-A
-giangiacomo magnani,Palermo FC,1.92,3000000.0,2023-2024,Serie-A
-paweł dawidowicz,Without Club,1.89,3000000.0,2023-2024,Serie-A
-federico ceccherini,US Cremonese,1.87,1000000.0,2023-2024,Serie-A
-koray günter,Al-Okhdood Club,1.85,850000.0,2023-2024,Serie-A
-christian corradi,AC Trento,,800000.0,2023-2024,Serie-A
-nicolò calabrese,Hellas Verona,,150000.0,2023-2024,Serie-A
-josh doig,US Sassuolo,1.89,6000000.0,2023-2024,Serie-A
-juan cabal,Juventus FC,1.86,3500000.0,2023-2024,Serie-A
-rúben vinagre,Legia Warszawa,1.74,2400000.0,2023-2024,Serie-A
-filippo terracciano,AC Milan,1.86,4500000.0,2023-2024,Serie-A
-fabien centonze,FC Nantes,1.82,3000000.0,2023-2024,Serie-A
-jackson tchatchoua,Hellas Verona,1.8,3000000.0,2023-2024,Serie-A
-davide faraoni,Without Club,1.8,1500000.0,2023-2024,Serie-A
-martin hongla,Granada CF,1.82,2500000.0,2023-2024,Serie-A
-dani silva,FC Midtjylland,1.8,2000000.0,2023-2024,Serie-A
-reda belahyane,SS Lazio,1.73,500000.0,2023-2024,Serie-A
-charlys,Hellas Verona,1.88,100000.0,2023-2024,Serie-A
-joselito,AC Perugia Calcio,1.84,75000.0,2023-2024,Serie-A
-michael folorunsho,SSC Napoli,1.9,8500000.0,2023-2024,Serie-A
-suat serdar,Hellas Verona,1.84,5000000.0,2023-2024,Serie-A
-ondrej duda,Al-Ettifaq FC,1.8,4000000.0,2023-2024,Serie-A
-nicola patanè,Virtusvecomp Verona,,150000.0,2023-2024,Serie-A
-darko lazović,Without Club,1.81,1500000.0,2023-2024,Serie-A
-tomas suslov,Hellas Verona,1.74,7000000.0,2023-2024,Serie-A
-alphadjo cissè,Hellas Verona,1.81,1400000.0,2023-2024,Serie-A
-riccardo saponara,nan,1.83,700000.0,2023-2024,Serie-A
-ajdin hrustić,Without Club,1.8,600000.0,2023-2024,Serie-A
-stefan mitrović,Hellas Verona,1.82,1800000.0,2023-2024,Serie-A
-jayden braaf,Hellas Verona,1.81,800000.0,2023-2024,Serie-A
-cyril ngonge,SSC Napoli,1.8,12000000.0,2023-2024,Serie-A
-tijjani noslin,SS Lazio,1.78,10000000.0,2023-2024,Serie-A
-jordi mboula,Gil Vicente FC,1.83,1200000.0,2023-2024,Serie-A
-elayis tavsan,AC Reggiana 1919,1.83,1000000.0,2023-2024,Serie-A
-yayah kallon,Hellas Verona,1.75,1000000.0,2023-2024,Serie-A
-denis cazzadori,Union Brescia,1.75,125000.0,2023-2024,Serie-A
-karol swiderski,Panathinaikos FC,1.84,5000000.0,2023-2024,Serie-A
-federico bonazzoli,US Cremonese,1.85,2500000.0,2023-2024,Serie-A
-thomas henry,Standard Liège,1.91,2000000.0,2023-2024,Serie-A
-siren diao,Atalanta U23,1.89,1500000.0,2023-2024,Serie-A
-milan djuric,Parma Calcio 1913,1.99,1500000.0,2023-2024,Serie-A
-juan manuel cruz,Hellas Verona,1.85,450000.0,2023-2024,Serie-A
-junior ajayi,Hellas Verona,1.85,150000.0,2023-2024,Serie-A
-alessio cragno,Without Club,1.84,1500000.0,2023-2024,Serie-A
-andrea consigli,Without Club,1.89,800000.0,2023-2024,Serie-A
-daniel theiner,FC Südtirol,,150000.0,2023-2024,Serie-A
-gianluca pegolo,nan,1.83,100000.0,2023-2024,Serie-A
-alessandro scacchetti,AC Carpi,,10000.0,2023-2024,Serie-A
-mattia viti,ACF Fiorentina,1.9,5000000.0,2023-2024,Serie-A
-marash kumbulla,AS Roma,1.91,4500000.0,2023-2024,Serie-A
-martin erlić,Bologna FC 1909,1.93,3000000.0,2023-2024,Serie-A
-ruan,US Sassuolo,1.87,2500000.0,2023-2024,Serie-A
-gian marco ferrari,Without Club,1.89,1400000.0,2023-2024,Serie-A
-kevin miranda,US Sassuolo,1.88,350000.0,2023-2024,Serie-A
-seb loeffen,Varesina Calcio,1.88,150000.0,2023-2024,Serie-A
-matías viña,CR Flamengo,1.75,8000000.0,2023-2024,Serie-A
-josh doig,US Sassuolo,1.89,6000000.0,2023-2024,Serie-A
-matteo falasca,Casertana FC,,150000.0,2023-2024,Serie-A
-jeremy toljan,Levante UD,1.82,3500000.0,2023-2024,Serie-A
-filippo missori,US Sassuolo,1.82,1500000.0,2023-2024,Serie-A
-yeferson paz,US Sassuolo,1.76,500000.0,2023-2024,Serie-A
-maxime lopez,Paris FC,1.67,7500000.0,2023-2024,Serie-A
-daniel boloca,US Sassuolo,1.85,7000000.0,2023-2024,Serie-A
-luca lipani,US Sassuolo,1.85,4000000.0,2023-2024,Serie-A
-uros racic,Aris Thessaloniki,1.93,2500000.0,2023-2024,Serie-A
-matheus henrique,Cruzeiro Esporte Clube,1.75,8500000.0,2023-2024,Serie-A
-justin kumi,US Avellino 1912,,800000.0,2023-2024,Serie-A
-pedro obiang,AC Monza,1.86,500000.0,2023-2024,Serie-A
-salim abubakar,KF Skënderbeu,,25000.0,2023-2024,Serie-A
-marcus pedersen,Torino FC,1.84,5500000.0,2023-2024,Serie-A
-kristian thorstvedt,US Sassuolo,1.89,8000000.0,2023-2024,Serie-A
-nedim bajrami,Rangers FC,1.79,4500000.0,2023-2024,Serie-A
-cristian volpato,US Sassuolo,1.87,4500000.0,2023-2024,Serie-A
-armand laurienté,US Sassuolo,1.71,10000000.0,2023-2024,Serie-A
-emil konradsen ceide,Rosenborg BK,1.85,2000000.0,2023-2024,Serie-A
-domenico berardi,US Sassuolo,1.83,10000000.0,2023-2024,Serie-A
-samu castillejo,Johor Darul Ta'zim,1.82,600000.0,2023-2024,Serie-A
-andrea pinamonti,US Sassuolo,1.85,15000000.0,2023-2024,Serie-A
-agustín álvarez,US Sassuolo,1.77,4500000.0,2023-2024,Serie-A
-samuele mulattieri,US Sassuolo,1.83,4000000.0,2023-2024,Serie-A
-grégoire defrel,Modena FC,1.79,1000000.0,2023-2024,Serie-A
-stefano turati,US Sassuolo,1.88,7000000.0,2023-2024,Serie-A
-michele cerofolini,SSC Bari,1.88,700000.0,2023-2024,Serie-A
-michele avella,Without Club,1.88,250000.0,2023-2024,Serie-A
-lorenzo palmisani,Frosinone Calcio,,200000.0,2023-2024,Serie-A
-pierluigi frattali,nan,1.85,100000.0,2023-2024,Serie-A
-caleb okoli,Leicester City,1.91,8000000.0,2023-2024,Serie-A
-ilario monterisi,Frosinone Calcio,1.9,2800000.0,2023-2024,Serie-A
-kevin bonifazi,Bologna FC 1909,1.87,1800000.0,2023-2024,Serie-A
-simone romagnoli,UC Sampdoria,1.93,800000.0,2023-2024,Serie-A
-przemyslaw szyminski,Ruch Chorzow,1.85,700000.0,2023-2024,Serie-A
-mateus lusuardi,Pisa Sporting Club,1.9,300000.0,2023-2024,Serie-A
-sergio kalaj,Frosinone Calcio,1.93,200000.0,2023-2024,Serie-A
-matjaz kamensek-pahic,Without Club,1.89,100000.0,2023-2024,Serie-A
-daniel macej,Without Club,1.94,25000.0,2023-2024,Serie-A
-riccardo marchizza,Frosinone Calcio,1.86,2500000.0,2023-2024,Serie-A
-emanuele valeri,Parma Calcio 1913,1.8,2300000.0,2023-2024,Serie-A
-anthony oyono,Frosinone Calcio,1.84,2000000.0,2023-2024,Serie-A
-pol lirola,Olympique Marseille,1.83,1800000.0,2023-2024,Serie-A
-enzo barrenechea,SL Benfica,1.86,7500000.0,2023-2024,Serie-A
-matteo cichella,Frosinone Calcio,1.69,75000.0,2023-2024,Serie-A
-luca mazzitelli,Como 1907,1.84,4000000.0,2023-2024,Serie-A
-marco brescianini,Atalanta BC,1.88,3500000.0,2023-2024,Serie-A
-abdou harroui,Hellas Verona,1.82,2700000.0,2023-2024,Serie-A
-mehdi bourabia,Without Club,1.83,1000000.0,2023-2024,Serie-A
-karlo lulic,SSC Bari,1.87,450000.0,2023-2024,Serie-A
-i̇sak vural,Pisa Sporting Club,1.89,200000.0,2023-2024,Serie-A
-hamza haoudi,Without Club,1.78,175000.0,2023-2024,Serie-A
-kalifa kujabi,FC Hermannstadt,1.85,75000.0,2023-2024,Serie-A
-nadir zortea,Cagliari Calcio,1.87,3000000.0,2023-2024,Serie-A
-lukas klitten,Hobro IK,1.84,350000.0,2023-2024,Serie-A
-arijon ibrahimovic,1.FC Heidenheim 1846,1.78,4000000.0,2023-2024,Serie-A
-reinier,Real Madrid,1.85,3500000.0,2023-2024,Serie-A
-giuseppe caso,Modena FC,1.72,1500000.0,2023-2024,Serie-A
-luca garritano,Cosenza Calcio,1.72,1200000.0,2023-2024,Serie-A
-francesco gelli,Frosinone Calcio,1.73,1000000.0,2023-2024,Serie-A
-jaime báez,Without Club,1.78,900000.0,2023-2024,Serie-A
-giorgi kvernadze,Frosinone Calcio,1.88,800000.0,2023-2024,Serie-A
-soufiane bidaoui,Without Club,1.68,200000.0,2023-2024,Serie-A
-matías soulé,AS Roma,1.82,25000000.0,2023-2024,Serie-A
-demba seck,FK Partizan Belgrade,1.9,2000000.0,2023-2024,Serie-A
-luigi canotto,FC Trapani 1905,1.78,600000.0,2023-2024,Serie-A
-farès ghedjemis,Frosinone Calcio,1.83,600000.0,2023-2024,Serie-A
-walid cheddira,SSC Napoli,1.87,6000000.0,2023-2024,Serie-A
-kaio jorge,Cruzeiro Esporte Clube,1.82,4000000.0,2023-2024,Serie-A
-gennaro borrelli,Cagliari Calcio,1.94,1400000.0,2023-2024,Serie-A
-marvin cuni,Rubin Kazan,1.88,900000.0,2023-2024,Serie-A
-alessandro selvini,Frosinone Calcio,,200000.0,2023-2024,Serie-A
-alejandro cichero,Frosinone Calcio,1.96,,2023-2024,Serie-A
-wladimiro falcone,US Lecce,1.95,5000000.0,2023-2024,Serie-A
-federico brancolini,FC Empoli,1.92,200000.0,2023-2024,Serie-A
-alexandru borbei,US Lecce,1.91,150000.0,2023-2024,Serie-A
-jasper samooja,US Lecce,1.93,75000.0,2023-2024,Serie-A
-marin pongracic,ACF Fiorentina,1.93,7000000.0,2023-2024,Serie-A
-federico baschirotto,US Lecce,1.87,6000000.0,2023-2024,Serie-A
-ahmed touba,Panathinaikos FC,1.9,1600000.0,2023-2024,Serie-A
-kastriot dermaku,Without Club,1.94,250000.0,2023-2024,Serie-A
-sebastian esposito,US Lecce,1.91,200000.0,2023-2024,Serie-A
-mats lemmens,RWDM Brussels,1.86,150000.0,2023-2024,Serie-A
-zinedin smajlović,Sandefjord Fotball,1.91,100000.0,2023-2024,Serie-A
-patrick dorgu,Manchester United,1.85,12000000.0,2023-2024,Serie-A
-antonino gallo,US Lecce,1.83,4500000.0,2023-2024,Serie-A
-valentin gendrey,TSG 1899 Hoffenheim,1.79,7000000.0,2023-2024,Serie-A
-lorenzo venuti,UC Sampdoria,1.79,1200000.0,2023-2024,Serie-A
-ylber ramadani,US Lecce,1.85,4000000.0,2023-2024,Serie-A
-alexis blin,Palermo FC,1.86,3000000.0,2023-2024,Serie-A
-giacomo faticanti,US Lecce,1.86,800000.0,2023-2024,Serie-A
-youssef maleh,US Lecce,1.79,4500000.0,2023-2024,Serie-A
-joan gonzález,nan,1.9,4500000.0,2023-2024,Serie-A
-mohamed kaba,US Lecce,1.85,3500000.0,2023-2024,Serie-A
-hamza rafia,US Lecce,1.81,1700000.0,2023-2024,Serie-A
-daniel samek,SK Artis Brno,1.84,1200000.0,2023-2024,Serie-A
-thórir jóhann helgason,US Lecce,1.87,1000000.0,2023-2024,Serie-A
-medon berisha,US Lecce,1.86,1000000.0,2023-2024,Serie-A
-rémi oudin,US Lecce,1.86,3500000.0,2023-2024,Serie-A
-marcin listkowski,Jagiellonia Bialystok,1.78,200000.0,2023-2024,Serie-A
-lameck banda,US Lecce,1.69,6000000.0,2023-2024,Serie-A
-federico di francesco,Palermo FC,1.71,1400000.0,2023-2024,Serie-A
-nicola sansone,Without Club,1.74,1000000.0,2023-2024,Serie-A
-gabriel strefezza,Como 1907,1.68,6000000.0,2023-2024,Serie-A
-pontus almqvist,Parma Calcio 1913,1.83,3000000.0,2023-2024,Serie-A
-santiago pierotti,US Lecce,1.89,2500000.0,2023-2024,Serie-A
-jeppe corfitzen,Without Club,1.79,400000.0,2023-2024,Serie-A
-nikola krstović,US Lecce,1.85,6000000.0,2023-2024,Serie-A
-roberto piccoli,Cagliari Calcio,1.9,4000000.0,2023-2024,Serie-A
-assan ceesay,Damac FC,1.88,2000000.0,2023-2024,Serie-A
-rareș burnete,US Lecce,1.85,700000.0,2023-2024,Serie-A
-joel voelkerling persson,Östers IF,1.94,400000.0,2023-2024,Serie-A
-elia caprile,Cagliari Calcio,1.91,6000000.0,2023-2024,Serie-A
-samuele perisan,FC Empoli,1.92,600000.0,2023-2024,Serie-A
-etrit berisha,BK Häcken,1.94,500000.0,2023-2024,Serie-A
-lovro stubljar,FC Empoli,,300000.0,2023-2024,Serie-A
-jacopo seghetti,FC Empoli,1.89,150000.0,2023-2024,Serie-A
-filippo vertua,AS Ostiamare Lido Calcio,,,2023-2024,Serie-A
-sebastiano luperto,Cagliari Calcio,1.91,3500000.0,2023-2024,Serie-A
-ardian ismajli,Torino FC,1.87,3000000.0,2023-2024,Serie-A
-sebastian walukiewicz,Torino FC,1.88,2500000.0,2023-2024,Serie-A
-gabriele guarino,FC Empoli,1.93,1000000.0,2023-2024,Serie-A
-saba goglichidze,FC Empoli,1.92,300000.0,2023-2024,Serie-A
-lorenzo tonelli,nan,1.83,200000.0,2023-2024,Serie-A
-gabriele indragoli,FC Empoli,1.83,200000.0,2023-2024,Serie-A
-luca marianucci,SSC Napoli,1.86,175000.0,2023-2024,Serie-A
-giuseppe pezzella,FC Empoli,1.87,2200000.0,2023-2024,Serie-A
-liberato cacace,Wrexham AFC,1.83,2000000.0,2023-2024,Serie-A
-tyronne ebuehi,FC Empoli,1.87,2000000.0,2023-2024,Serie-A
-petar stojanović,Legia Warszawa,1.78,1300000.0,2023-2024,Serie-A
-bartosz bereszyński,Without Club,1.83,1300000.0,2023-2024,Serie-A
-răzvan marin,Cagliari Calcio,1.78,2700000.0,2023-2024,Serie-A
-alberto grassi,US Cremonese,1.83,1800000.0,2023-2024,Serie-A
-iwo kaczmarski,FC Empoli,1.83,300000.0,2023-2024,Serie-A
-jacopo fazzini,ACF Fiorentina,1.78,6000000.0,2023-2024,Serie-A
-youssef maleh,US Lecce,1.79,4500000.0,2023-2024,Serie-A
-filippo ranocchia,Palermo FC,1.86,4000000.0,2023-2024,Serie-A
-szymon żurkowski,Spezia Calcio,1.85,2500000.0,2023-2024,Serie-A
-simone bastoni,Cesena FC,1.81,1500000.0,2023-2024,Serie-A
-liam henderson,Without Club,1.83,1400000.0,2023-2024,Serie-A
-luca belardinelli,FC Empoli,1.9,1000000.0,2023-2024,Serie-A
-nicolas haas,FC Empoli,1.78,700000.0,2023-2024,Serie-A
-giovanni crociata,Erzurumspor FK,1.74,600000.0,2023-2024,Serie-A
-lorenzo ignacchiti,FC Empoli,1.84,600000.0,2023-2024,Serie-A
-emmanuel gyasi,Palermo FC,1.81,1800000.0,2023-2024,Serie-A
-tommaso baldanzi,AS Roma,1.7,15000000.0,2023-2024,Serie-A
-daniel maldini,Atalanta BC,1.88,4500000.0,2023-2024,Serie-A
-viktor kovalenko,Without Club,1.82,1500000.0,2023-2024,Serie-A
-andrea sodero,FC Empoli,,300000.0,2023-2024,Serie-A
-nicolò cambiaghi,Bologna FC 1909,1.73,7000000.0,2023-2024,Serie-A
-emmanuel ekong,Malmö FF,1.81,500000.0,2023-2024,Serie-A
-matteo cancellieri,SS Lazio,1.85,4800000.0,2023-2024,Serie-A
-roberto piccoli,Cagliari Calcio,1.9,4000000.0,2023-2024,Serie-A
-m'baye niang,Without Club,1.88,2500000.0,2023-2024,Serie-A
-stiven shpendi,FC Empoli,1.81,2000000.0,2023-2024,Serie-A
-alberto cerri,Como 1907,1.94,1700000.0,2023-2024,Serie-A
-francesco caputo,nan,1.81,1000000.0,2023-2024,Serie-A
-mattia destro,Without Club,1.82,500000.0,2023-2024,Serie-A
-giacomo corona,Palermo FC,1.95,400000.0,2023-2024,Serie-A
-guillermo ochoa,Without Club,1.85,1000000.0,2023-2024,Serie-A
-benoît costil,Without Club,1.88,600000.0,2023-2024,Serie-A
-vincenzo fiorillo,Carrarese Calcio 1908,1.9,150000.0,2023-2024,Serie-A
-pasquale allocca,Without Club,1.86,100000.0,2023-2024,Serie-A
-gregorio salvati,Ancona Calcio,,50000.0,2023-2024,Serie-A
-flavius daniliuc,US Salernitana 1919,1.88,6000000.0,2023-2024,Serie-A
-lorenzo pirola,Olympiacos Piraeus,1.85,5500000.0,2023-2024,Serie-A
-matteo lovato,US Salernitana 1919,1.88,4000000.0,2023-2024,Serie-A
-marco pellegrino,CA Boca Juniors,1.84,3500000.0,2023-2024,Serie-A
-norbert gyömbér,Al-Kholood Club,1.89,1300000.0,2023-2024,Serie-A
-dylan bronn,Servette FC,1.85,1300000.0,2023-2024,Serie-A
-konstantinos manolas,Without Club,1.85,1000000.0,2023-2024,Serie-A
-triantafyllos pasalidis,Athens Kallithea,1.85,500000.0,2023-2024,Serie-A
-jérôme boateng,LASK,1.92,400000.0,2023-2024,Serie-A
-federico fazio,nan,1.95,400000.0,2023-2024,Serie-A
-andrei motoc,Athens Kallithea,1.95,225000.0,2023-2024,Serie-A
-emanuele elia,Borgaro Nobis 1965,1.91,50000.0,2023-2024,Serie-A
-niccolò guccione,Atletico Lodigiani,1.85,,2023-2024,Serie-A
-domagoj bradarić,US Salernitana 1919,1.78,5000000.0,2023-2024,Serie-A
-tommaso ferrari,Roma City FC,,100000.0,2023-2024,Serie-A
-alessandro zanoli,SSC Napoli,1.88,5000000.0,2023-2024,Serie-A
-pasquale mazzocchi,SSC Napoli,1.83,3000000.0,2023-2024,Serie-A
-junior sambia,Without Club,1.85,2000000.0,2023-2024,Serie-A
-niccolò pierozzi,Palermo FC,1.84,1800000.0,2023-2024,Serie-A
-mateusz legowski,US Salernitana 1919,1.81,3000000.0,2023-2024,Serie-A
-emil bohinen,Genoa CFC,1.89,1800000.0,2023-2024,Serie-A
-ciro borrelli,Napoli Primavera,,,2023-2024,Serie-A
-lassana coulibaly,US Lecce,1.83,3500000.0,2023-2024,Serie-A
-giulio maggiore,US Salernitana 1919,1.84,3500000.0,2023-2024,Serie-A
-toma bašić,SS Lazio,1.9,2800000.0,2023-2024,Serie-A
-mamadou coulibaly,FC Südtirol,1.83,1300000.0,2023-2024,Serie-A
-iron gomis,Zira FC,1.82,900000.0,2023-2024,Serie-A
-antonio pio iervolino,US Salernitana 1919,,50000.0,2023-2024,Serie-A
-rocco di vico,US Salernitana 1919,1.78,,2023-2024,Serie-A
-agustín martegani,CA Boca Juniors,1.82,1800000.0,2023-2024,Serie-A
-grigoris kastanos,Hellas Verona,1.79,1800000.0,2023-2024,Serie-A
-antonio candreva,nan,1.8,1000000.0,2023-2024,Serie-A
-jovane cabral,CF Estrela Amadora,1.74,2500000.0,2023-2024,Serie-A
-andres sfait,CFR Cluj,1.8,500000.0,2023-2024,Serie-A
-loum tchaouna,Burnley FC,1.8,8000000.0,2023-2024,Serie-A
-emanuel vignato,Pisa Sporting Club,1.75,1100000.0,2023-2024,Serie-A
-luca boncori,Salernitana Primavera,,,2023-2024,Serie-A
-boulaye dia,SS Lazio,1.8,10000000.0,2023-2024,Serie-A
-erik botheim,Malmö FF,1.87,3500000.0,2023-2024,Serie-A
-chukwubuikem ikwuemesi,Oud-Heverlee Leuven,1.95,1800000.0,2023-2024,Serie-A
-shon weissman,Granada CF,1.74,1700000.0,2023-2024,Serie-A
-simy,Without Club,1.98,500000.0,2023-2024,Serie-A
-mikael,Clube de Regatas Brasil (AL),1.84,300000.0,2023-2024,Serie-A
-trivante stewart,Maccabi Haifa,1.92,150000.0,2023-2024,Serie-A
-gerardo fusco,Cavese 1919,1.88,125000.0,2023-2024,Serie-A
-simone scuffet,Cagliari Calcio,1.93,2500000.0,2023-2024,Serie-A
-boris radunović,Cagliari Calcio,1.94,1000000.0,2023-2024,Serie-A
-velizar-iliya iliev,Cagliari Primavera,1.94,100000.0,2023-2024,Serie-A
-simone aresti,nan,1.87,75000.0,2023-2024,Serie-A
-alberto dossena,Como 1907,1.95,5000000.0,2023-2024,Serie-A
-adam obert,Cagliari Calcio,1.88,3500000.0,2023-2024,Serie-A
-mateusz wieteska,Cagliari Calcio,1.87,3000000.0,2023-2024,Serie-A
-yerry mina,Cagliari Calcio,1.95,3000000.0,2023-2024,Serie-A
-pantelis hatzidiakos,FC Copenhagen,1.85,2500000.0,2023-2024,Serie-A
-giorgio altare,UC Sampdoria,1.9,2000000.0,2023-2024,Serie-A
-edoardo goldaniga,Como 1907,1.93,1200000.0,2023-2024,Serie-A
-elio capradossi,FC Universitatea Cluj,1.85,300000.0,2023-2024,Serie-A
-tommaso augello,Palermo FC,1.8,2000000.0,2023-2024,Serie-A
-paulo azzi,US Cremonese,1.88,1000000.0,2023-2024,Serie-A
-gabriele zappa,Cagliari Calcio,1.87,2500000.0,2023-2024,Serie-A
-alessandro di pardo,Cagliari Calcio,1.82,900000.0,2023-2024,Serie-A
-matteo prati,Cagliari Calcio,1.85,10000000.0,2023-2024,Serie-A
-antoine makoumbou,Samsunspor,1.87,4500000.0,2023-2024,Serie-A
-ibrahim sulemana,Atalanta BC,1.8,4000000.0,2023-2024,Serie-A
-nahitan nández,Al-Qadsiah FC,1.72,5000000.0,2023-2024,Serie-A
-alessandro deiola,Cagliari Calcio,1.9,1900000.0,2023-2024,Serie-A
-marko rog,Cagliari Calcio,1.8,1300000.0,2023-2024,Serie-A
-christos kourfalidis,Cosenza Calcio,1.78,800000.0,2023-2024,Serie-A
-nunzio lella,Venezia FC,1.86,750000.0,2023-2024,Serie-A
-jakub jankto,Without Club,1.84,1200000.0,2023-2024,Serie-A
-gianluca gaetano,Cagliari Calcio,1.83,6000000.0,2023-2024,Serie-A
-gaetano oristanio,Venezia FC,1.74,4000000.0,2023-2024,Serie-A
-gastón pereiro,SSC Bari,1.88,1000000.0,2023-2024,Serie-A
-nicolas viola,Without Club,1.8,800000.0,2023-2024,Serie-A
-marco mancosu,nan,1.77,400000.0,2023-2024,Serie-A
-alessandro vinciguerra,Cagliari Calcio,1.67,200000.0,2023-2024,Serie-A
-jacopo desogus,AS Cittadella,1.74,200000.0,2023-2024,Serie-A
-zito luvumbo,Cagliari Calcio,1.71,7500000.0,2023-2024,Serie-A
-eldor shomurodov,Basaksehir FK,1.9,5000000.0,2023-2024,Serie-A
-andrea petagna,AC Monza,1.9,3800000.0,2023-2024,Serie-A
-gianluca lapadula,Spezia Calcio,1.78,1500000.0,2023-2024,Serie-A
-kingstone mutandwa,SV Ried,1.8,1000000.0,2023-2024,Serie-A
-leonardo pavoletti,Cagliari Calcio,1.88,800000.0,2023-2024,Serie-A
+yann sommer,inter milan,1.83,5000000.0,2023-2024,serie-a
+emil audero,inter milan,1.92,5000000.0,2023-2024,serie-a
+raffaele di gennaro,inter milan,1.88,300000.0,2023-2024,serie-a
+alessandro calligaris,inter milan,,150000.0,2023-2024,serie-a
+alessandro bastoni,inter milan,1.9,70000000.0,2023-2024,serie-a
+benjamin pavard,inter milan,1.86,50000000.0,2023-2024,serie-a
+yann bisseck,inter milan,1.96,16000000.0,2023-2024,serie-a
+stefan de vrij,inter milan,1.89,7000000.0,2023-2024,serie-a
+francesco acerbi,inter milan,1.92,3500000.0,2023-2024,serie-a
+giacomo stabile,inter milan,1.87,50000.0,2023-2024,serie-a
+federico dimarco,inter milan,1.75,50000000.0,2023-2024,serie-a
+carlos augusto,inter milan,1.84,22000000.0,2023-2024,serie-a
+matteo motta,inter milan,,100000.0,2023-2024,serie-a
+denzel dumfries,inter milan,1.88,24000000.0,2023-2024,serie-a
+matteo darmian,inter milan,1.83,4000000.0,2023-2024,serie-a
+tommaso guercio,inter milan,1.86,300000.0,2023-2024,serie-a
+hakan calhanoglu,inter milan,1.78,45000000.0,2023-2024,serie-a
+kristjan asllani,inter milan,1.79,18000000.0,2023-2024,serie-a
+lucien agoume,inter milan,1.85,6000000.0,2023-2024,serie-a
+aleksandar stankovic,inter milan,1.85,1000000.0,2023-2024,serie-a
+nicolo barella,inter milan,1.75,80000000.0,2023-2024,serie-a
+davide frattesi,inter milan,1.78,35000000.0,2023-2024,serie-a
+henrikh mkhitaryan,inter milan,1.77,6000000.0,2023-2024,serie-a
+davy klaassen,inter milan,1.79,4000000.0,2023-2024,serie-a
+stefano sensi,inter milan,1.68,3000000.0,2023-2024,serie-a
+ebenezer akinsanmiro,inter milan,1.84,1800000.0,2023-2024,serie-a
+tajon buchanan,inter milan,1.83,8000000.0,2023-2024,serie-a
+juan cuadrado,inter milan,1.76,1000000.0,2023-2024,serie-a
+issiaka kamate,inter milan,1.86,1000000.0,2023-2024,serie-a
+joaquin correa,inter milan,1.88,6000000.0,2023-2024,serie-a
+lautaro martinez,inter milan,1.74,110000000.0,2023-2024,serie-a
+marcus thuram,inter milan,1.92,65000000.0,2023-2024,serie-a
+marko arnautovic,inter milan,1.92,4000000.0,2023-2024,serie-a
+alexis sanchez,inter milan,1.69,2500000.0,2023-2024,serie-a
+amadou sarr,inter milan,1.9,150000.0,2023-2024,serie-a
+mike maignan,ac milan,1.91,38000000.0,2023-2024,serie-a
+marco sportiello,ac milan,1.92,1500000.0,2023-2024,serie-a
+noah raveyre,ac milan,,200000.0,2023-2024,serie-a
+lapo nava,ac milan,1.97,150000.0,2023-2024,serie-a
+antonio mirante,ac milan,1.93,100000.0,2023-2024,serie-a
+andrea bartoccioni,ac milan,1.96,50000.0,2023-2024,serie-a
+lorenzo torriani,ac milan,1.97,10000.0,2023-2024,serie-a
+fikayo tomori,ac milan,1.85,40000000.0,2023-2024,serie-a
+malick thiaw,ac milan,1.94,25000000.0,2023-2024,serie-a
+pierre kalulu,ac milan,1.82,20000000.0,2023-2024,serie-a
+matteo gabbia,ac milan,1.85,8000000.0,2023-2024,serie-a
+jancarlo simic,ac milan,1.86,5000000.0,2023-2024,serie-a
+marco pellegrino,ac milan,1.84,3500000.0,2023-2024,serie-a
+simon kjaer,ac milan,1.91,1500000.0,2023-2024,serie-a
+mattia caldara,ac milan,1.87,800000.0,2023-2024,serie-a
+clinton nsiala,ac milan,1.89,200000.0,2023-2024,serie-a
+theo hernandez,ac milan,1.84,60000000.0,2023-2024,serie-a
+davide bartesaghi,ac milan,1.93,1000000.0,2023-2024,serie-a
+davide calabria,ac milan,1.76,13000000.0,2023-2024,serie-a
+filippo terracciano,ac milan,1.86,4500000.0,2023-2024,serie-a
+alex jimenez,ac milan,1.77,4000000.0,2023-2024,serie-a
+alessandro florenzi,ac milan,1.73,2000000.0,2023-2024,serie-a
+ismael bennacer,ac milan,1.75,30000000.0,2023-2024,serie-a
+yacine adli,ac milan,1.86,15000000.0,2023-2024,serie-a
+rade krunic,ac milan,1.84,6000000.0,2023-2024,serie-a
+tijjani reijnders,ac milan,1.85,30000000.0,2023-2024,serie-a
+ruben loftuscheek,ac milan,1.91,25000000.0,2023-2024,serie-a
+yunus musah,ac milan,1.78,22000000.0,2023-2024,serie-a
+tommaso pobega,ac milan,1.88,10000000.0,2023-2024,serie-a
+kevin zeroli,ac milan,1.87,2000000.0,2023-2024,serie-a
+victor eletu,ac milan,1.76,400000.0,2023-2024,serie-a
+rafael leao,ac milan,1.88,90000000.0,2023-2024,serie-a
+noah okafor,ac milan,1.85,20000000.0,2023-2024,serie-a
+chaka traore,ac milan,1.75,1500000.0,2023-2024,serie-a
+diego sia,ac milan,,,2023-2024,serie-a
+christian pulisic,ac milan,1.77,40000000.0,2023-2024,serie-a
+samuel chukwueze,ac milan,1.72,20000000.0,2023-2024,serie-a
+luka romero,ac milan,1.69,5000000.0,2023-2024,serie-a
+francesco camarda,ac milan,1.89,10000000.0,2023-2024,serie-a
+luka jovic,ac milan,1.82,7000000.0,2023-2024,serie-a
+lorenzo colombo,ac milan,1.83,6000000.0,2023-2024,serie-a
+olivier giroud,ac milan,1.92,3000000.0,2023-2024,serie-a
+alex meret,ssc napoli,1.9,12000000.0,2023-2024,serie-a
+pierluigi gollini,ssc napoli,1.94,4000000.0,2023-2024,serie-a
+nikita contini,ssc napoli,1.9,400000.0,2023-2024,serie-a
+hubert idasiak,ssc napoli,1.88,150000.0,2023-2024,serie-a
+amir rrahmani,ssc napoli,1.92,15000000.0,2023-2024,serie-a
+natan,ssc napoli,1.88,12000000.0,2023-2024,serie-a
+leo stigard,ssc napoli,1.83,8000000.0,2023-2024,serie-a
+juan jesus,ssc napoli,1.85,2500000.0,2023-2024,serie-a
+luigi davino,ssc napoli,1.86,125000.0,2023-2024,serie-a
+mathias olivera,ssc napoli,1.85,15000000.0,2023-2024,serie-a
+mario rui,ssc napoli,1.68,3500000.0,2023-2024,serie-a
+giovanni di lorenzo,ssc napoli,1.83,15000000.0,2023-2024,serie-a
+alessandro zanoli,ssc napoli,1.88,5000000.0,2023-2024,serie-a
+pasquale mazzocchi,ssc napoli,1.83,3000000.0,2023-2024,serie-a
+stanislav lobotka,ssc napoli,1.68,28000000.0,2023-2024,serie-a
+jens cajuste,ssc napoli,1.88,10000000.0,2023-2024,serie-a
+leander dendoncker,ssc napoli,1.88,7000000.0,2023-2024,serie-a
+diego demme,ssc napoli,1.7,800000.0,2023-2024,serie-a
+francesco gioielli,ssc napoli,,175000.0,2023-2024,serie-a
+lorenzo russo,ssc napoli,1.82,100000.0,2023-2024,serie-a
+frank anguissa,ssc napoli,1.84,27000000.0,2023-2024,serie-a
+piotr zielinski,ssc napoli,1.8,22000000.0,2023-2024,serie-a
+karim zedadka,ssc napoli,1.84,250000.0,2023-2024,serie-a
+hamed junior traore,ssc napoli,1.77,17000000.0,2023-2024,serie-a
+gianluca gaetano,ssc napoli,1.83,6000000.0,2023-2024,serie-a
+khvicha kvaratskhelia,ssc napoli,1.83,80000000.0,2023-2024,serie-a
+eljif elmas,ssc napoli,1.84,20000000.0,2023-2024,serie-a
+hirving lozano,ssc napoli,1.75,15000000.0,2023-2024,serie-a
+alessio zerbin,ssc napoli,1.82,4000000.0,2023-2024,serie-a
+jesper lindstrm,ssc napoli,1.82,22000000.0,2023-2024,serie-a
+matteo politano,ssc napoli,1.71,13000000.0,2023-2024,serie-a
+cyril ngonge,ssc napoli,1.8,12000000.0,2023-2024,serie-a
+giacomo raspadori,ssc napoli,1.72,25000000.0,2023-2024,serie-a
+victor osimhen,ssc napoli,1.86,100000000.0,2023-2024,serie-a
+giovanni simeone,ssc napoli,1.8,10000000.0,2023-2024,serie-a
+wojciech szczesny,juventus fc,1.95,6000000.0,2023-2024,serie-a
+mattia perin,juventus fc,1.88,3000000.0,2023-2024,serie-a
+giovanni daffara,juventus fc,1.94,300000.0,2023-2024,serie-a
+carlo pinsoglio,juventus fc,1.94,200000.0,2023-2024,serie-a
+giovanni garofani,juventus fc,1.88,100000.0,2023-2024,serie-a
+gian marco crespi,juventus fc,1.89,100000.0,2023-2024,serie-a
+simone scaglia,juventus fc,1.96,25000.0,2023-2024,serie-a
+bremer,juventus fc,1.88,60000000.0,2023-2024,serie-a
+federico gatti,juventus fc,1.9,18000000.0,2023-2024,serie-a
+tiago djalo,juventus fc,1.9,12000000.0,2023-2024,serie-a
+danilo,juventus fc,1.84,10000000.0,2023-2024,serie-a
+dean huijsen,juventus fc,1.97,10000000.0,2023-2024,serie-a
+daniele rugani,juventus fc,1.9,4000000.0,2023-2024,serie-a
+tarik muharemovic,juventus fc,1.87,1200000.0,2023-2024,serie-a
+andrea cambiaso,juventus fc,1.82,25000000.0,2023-2024,serie-a
+alex sandro,juventus fc,1.8,2000000.0,2023-2024,serie-a
+mattia de sciglio,juventus fc,1.83,1000000.0,2023-2024,serie-a
+manuel locatelli,juventus fc,1.85,28000000.0,2023-2024,serie-a
+adrien rabiot,juventus fc,1.91,35000000.0,2023-2024,serie-a
+weston mckennie,juventus fc,1.85,28000000.0,2023-2024,serie-a
+fabio miretti,juventus fc,1.8,15000000.0,2023-2024,serie-a
+nicolo fagioli,juventus fc,1.78,15000000.0,2023-2024,serie-a
+carlos alcaraz,juventus fc,1.76,15000000.0,2023-2024,serie-a
+hans nicolussi caviglia,juventus fc,1.84,3000000.0,2023-2024,serie-a
+joseph nonge,juventus fc,1.84,3000000.0,2023-2024,serie-a
+luis hasa,juventus fc,1.72,1000000.0,2023-2024,serie-a
+paul pogba,juventus fc,1.91,,2023-2024,serie-a
+filip kostic,juventus fc,1.84,6500000.0,2023-2024,serie-a
+nikola sekulov,juventus fc,1.85,800000.0,2023-2024,serie-a
+kenan yldz,juventus fc,1.87,30000000.0,2023-2024,serie-a
+samuel ilingjunior,juventus fc,1.82,13000000.0,2023-2024,serie-a
+federico chiesa,juventus fc,1.75,35000000.0,2023-2024,serie-a
+matias soule,juventus fc,1.82,25000000.0,2023-2024,serie-a
+timothy weah,juventus fc,1.83,12000000.0,2023-2024,serie-a
+dusan vlahovic,juventus fc,1.9,65000000.0,2023-2024,serie-a
+moise kean,juventus fc,1.83,14000000.0,2023-2024,serie-a
+arkadiusz milik,juventus fc,1.86,6000000.0,2023-2024,serie-a
+leonardo cerri,juventus fc,1.98,800000.0,2023-2024,serie-a
+tommaso mancini,juventus fc,1.9,500000.0,2023-2024,serie-a
+marco carnesecchi,atalanta bc,1.91,16000000.0,2023-2024,serie-a
+juan musso,atalanta bc,1.91,5000000.0,2023-2024,serie-a
+paolo vismara,atalanta bc,1.95,600000.0,2023-2024,serie-a
+francesco rossi,atalanta bc,1.93,100000.0,2023-2024,serie-a
+giorgio scalvini,atalanta bc,1.94,45000000.0,2023-2024,serie-a
+isak hien,atalanta bc,1.91,20000000.0,2023-2024,serie-a
+berat djimsiti,atalanta bc,1.9,10000000.0,2023-2024,serie-a
+sead kolasinac,atalanta bc,1.83,10000000.0,2023-2024,serie-a
+caleb okoli,atalanta bc,1.91,8000000.0,2023-2024,serie-a
+rafael toloi,atalanta bc,1.85,2500000.0,2023-2024,serie-a
+giovanni bonfanti,atalanta bc,1.87,1000000.0,2023-2024,serie-a
+jose luis palomino,atalanta bc,1.88,700000.0,2023-2024,serie-a
+andrea ceresoli,atalanta bc,1.77,500000.0,2023-2024,serie-a
+tommaso del lungo,atalanta bc,1.86,250000.0,2023-2024,serie-a
+pietro comi,atalanta bc,,250000.0,2023-2024,serie-a
+matteo ruggeri,atalanta bc,1.87,20000000.0,2023-2024,serie-a
+mitchel bakker,atalanta bc,1.89,6500000.0,2023-2024,serie-a
+emil holm,atalanta bc,1.91,12000000.0,2023-2024,serie-a
+hans hateboer,atalanta bc,1.87,3500000.0,2023-2024,serie-a
+marten de roon,atalanta bc,1.85,7000000.0,2023-2024,serie-a
+leonardo mendicino,atalanta bc,1.82,800000.0,2023-2024,serie-a
+matteo colombo,atalanta bc,1.82,150000.0,2023-2024,serie-a
+ederson,atalanta bc,1.83,40000000.0,2023-2024,serie-a
+mario pasalic,atalanta bc,1.88,13000000.0,2023-2024,serie-a
+michel adopo,atalanta bc,1.87,1000000.0,2023-2024,serie-a
+alberto manzoni,atalanta bc,1.78,300000.0,2023-2024,serie-a
+davide zappacosta,atalanta bc,1.82,6000000.0,2023-2024,serie-a
+nadir zortea,atalanta bc,1.87,3000000.0,2023-2024,serie-a
+marco palestra,atalanta bc,1.86,1000000.0,2023-2024,serie-a
+teun koopmeiners,atalanta bc,1.84,50000000.0,2023-2024,serie-a
+charles de ketelaere,atalanta bc,1.92,34000000.0,2023-2024,serie-a
+aleksey miranchuk,atalanta bc,1.82,10000000.0,2023-2024,serie-a
+alessandro cortinovis,atalanta bc,1.8,400000.0,2023-2024,serie-a
+andrea bonanomi,atalanta bc,,,2023-2024,serie-a
+ademola lookman,atalanta bc,1.74,40000000.0,2023-2024,serie-a
+tommaso de nipoti,atalanta bc,1.8,200000.0,2023-2024,serie-a
+gianluca scamacca,atalanta bc,1.95,35000000.0,2023-2024,serie-a
+el bilal toure,atalanta bc,1.85,20000000.0,2023-2024,serie-a
+duvan zapata,atalanta bc,1.88,8000000.0,2023-2024,serie-a
+luis muriel,atalanta bc,1.8,2000000.0,2023-2024,serie-a
+siren diao,atalanta bc,1.89,1500000.0,2023-2024,serie-a
+moustapha cisse,atalanta bc,1.82,800000.0,2023-2024,serie-a
+lukasz skorupski,bologna fc,1.88,3500000.0,2023-2024,serie-a
+federico ravaglia,bologna fc,1.96,1000000.0,2023-2024,serie-a
+nicola bagnolini,bologna fc,1.94,200000.0,2023-2024,serie-a
+tito gasperini,bologna fc,,,2023-2024,serie-a
+sam beukema,bologna fc,1.88,18000000.0,2023-2024,serie-a
+jhon lucumi,bologna fc,1.87,17000000.0,2023-2024,serie-a
+stefan posch,bologna fc,1.9,14000000.0,2023-2024,serie-a
+mihajlo ilic,bologna fc,1.92,4000000.0,2023-2024,serie-a
+adama soumaoro,bologna fc,1.87,2000000.0,2023-2024,serie-a
+kevin bonifazi,bologna fc,1.87,1800000.0,2023-2024,serie-a
+joaquin sosa,bologna fc,1.89,1500000.0,2023-2024,serie-a
+riccardo stivanello,bologna fc,1.88,200000.0,2023-2024,serie-a
+riccardo calafiori,bologna fc,1.88,30000000.0,2023-2024,serie-a
+victor kristiansen,bologna fc,1.81,15000000.0,2023-2024,serie-a
+tommaso corazza,bologna fc,1.74,1000000.0,2023-2024,serie-a
+charalampos lykogiannis,bologna fc,1.91,1000000.0,2023-2024,serie-a
+lorenzo de silvestri,bologna fc,1.87,400000.0,2023-2024,serie-a
+jerdy schouten,bologna fc,1.85,28000000.0,2023-2024,serie-a
+nikola moro,bologna fc,1.84,5000000.0,2023-2024,serie-a
+oussama el azzouzi,bologna fc,1.89,2500000.0,2023-2024,serie-a
+lewis ferguson,bologna fc,1.81,24000000.0,2023-2024,serie-a
+nicolas dominguez,bologna fc,1.79,17000000.0,2023-2024,serie-a
+michel aebischer,bologna fc,1.83,9000000.0,2023-2024,serie-a
+kacper urbanski,bologna fc,1.83,7000000.0,2023-2024,serie-a
+remo freuler,bologna fc,1.8,6500000.0,2023-2024,serie-a
+niklas pyyhtia,bologna fc,1.88,1200000.0,2023-2024,serie-a
+giovanni fabbian,bologna fc,1.86,14000000.0,2023-2024,serie-a
+jens odgaard,bologna fc,1.88,4500000.0,2023-2024,serie-a
+jesper karlsson,bologna fc,1.79,8000000.0,2023-2024,serie-a
+riccardo orsolini,bologna fc,1.83,16000000.0,2023-2024,serie-a
+dan ndoye,bologna fc,1.84,14000000.0,2023-2024,serie-a
+alexis saelemaekers,bologna fc,1.8,12000000.0,2023-2024,serie-a
+joshua zirkzee,bologna fc,1.93,50000000.0,2023-2024,serie-a
+santiago castro,bologna fc,1.79,12000000.0,2023-2024,serie-a
+marko arnautovic,bologna fc,1.92,4000000.0,2023-2024,serie-a
+sydney van hooijdonk,bologna fc,1.9,4000000.0,2023-2024,serie-a
+tommaso ravaglioli,bologna fc,,,2023-2024,serie-a
+mile svilar,as roma,1.89,9000000.0,2023-2024,serie-a
+rui patricio,as roma,1.9,1000000.0,2023-2024,serie-a
+renato marin,as roma,1.93,500000.0,2023-2024,serie-a
+pietro boer,as roma,1.93,150000.0,2023-2024,serie-a
+evan ndicka,as roma,1.92,25000000.0,2023-2024,serie-a
+gianluca mancini,as roma,1.9,25000000.0,2023-2024,serie-a
+dean huijsen,as roma,1.97,10000000.0,2023-2024,serie-a
+diego llorente,as roma,1.86,7000000.0,2023-2024,serie-a
+marash kumbulla,as roma,1.91,4500000.0,2023-2024,serie-a
+chris smalling,as roma,1.94,2500000.0,2023-2024,serie-a
+matteo plaia,as roma,1.94,,2023-2024,serie-a
+lovro golic,as roma,1.93,,2023-2024,serie-a
+angelino,as roma,1.71,8000000.0,2023-2024,serie-a
+leonardo spinazzola,as roma,1.86,4000000.0,2023-2024,serie-a
+jan oliveras,as roma,1.72,150000.0,2023-2024,serie-a
+rasmus kristensen,as roma,1.87,10000000.0,2023-2024,serie-a
+zeki celik,as roma,1.8,6000000.0,2023-2024,serie-a
+rick karsdorp,as roma,1.84,5000000.0,2023-2024,serie-a
+mattia mannini,as roma,1.73,,2023-2024,serie-a
+bryan cristante,as roma,1.86,20000000.0,2023-2024,serie-a
+leandro paredes,as roma,1.8,8000000.0,2023-2024,serie-a
+martin vetkal,as roma,1.81,50000.0,2023-2024,serie-a
+edoardo bove,as roma,1.81,18000000.0,2023-2024,serie-a
+renato sanches,as roma,1.76,6500000.0,2023-2024,serie-a
+niccolo pisilli,as roma,1.8,3500000.0,2023-2024,serie-a
+riccardo pagano,as roma,1.75,2500000.0,2023-2024,serie-a
+francesco dalessio,as roma,1.82,100000.0,2023-2024,serie-a
+nicola zalewski,as roma,1.75,12000000.0,2023-2024,serie-a
+lorenzo pellegrini,as roma,1.86,25000000.0,2023-2024,serie-a
+tommaso baldanzi,as roma,1.7,15000000.0,2023-2024,serie-a
+houssem aouar,as roma,1.75,10000000.0,2023-2024,serie-a
+stephan el shaarawy,as roma,1.78,5000000.0,2023-2024,serie-a
+luigi cherubini,as roma,1.75,350000.0,2023-2024,serie-a
+ola solbakken,as roma,1.89,2500000.0,2023-2024,serie-a
+joao costa,as roma,1.78,1000000.0,2023-2024,serie-a
+paulo dybala,as roma,1.77,20000000.0,2023-2024,serie-a
+tammy abraham,as roma,1.94,30000000.0,2023-2024,serie-a
+romelu lukaku,as roma,1.91,30000000.0,2023-2024,serie-a
+sardar azmoun,as roma,1.86,8000000.0,2023-2024,serie-a
+andrea belotti,as roma,1.81,5000000.0,2023-2024,serie-a
+filippo alessio,as roma,,100000.0,2023-2024,serie-a
+oliver christensen,acf fiorentina,1.9,3000000.0,2023-2024,serie-a
+pietro terracciano,acf fiorentina,1.93,2500000.0,2023-2024,serie-a
+tommaso martinelli,acf fiorentina,1.94,1000000.0,2023-2024,serie-a
+tommaso vannucchi,acf fiorentina,1.97,400000.0,2023-2024,serie-a
+nikola milenkovic,acf fiorentina,1.95,15000000.0,2023-2024,serie-a
+lucas martinez quarta,acf fiorentina,1.83,15000000.0,2023-2024,serie-a
+luca ranieri,acf fiorentina,1.87,8000000.0,2023-2024,serie-a
+yerry mina,acf fiorentina,1.95,3000000.0,2023-2024,serie-a
+christian dalle mura,acf fiorentina,1.88,850000.0,2023-2024,serie-a
+pietro comuzzo,acf fiorentina,1.85,700000.0,2023-2024,serie-a
+christian biagetti,acf fiorentina,,150000.0,2023-2024,serie-a
+fabiano parisi,acf fiorentina,1.78,9500000.0,2023-2024,serie-a
+cristiano biraghi,acf fiorentina,1.85,3500000.0,2023-2024,serie-a
+niccolo fortini,acf fiorentina,1.85,500000.0,2023-2024,serie-a
+michael kayode,acf fiorentina,1.79,25000000.0,2023-2024,serie-a
+dodo,acf fiorentina,1.66,17000000.0,2023-2024,serie-a
+niccolo pierozzi,acf fiorentina,1.84,1800000.0,2023-2024,serie-a
+davide faraoni,acf fiorentina,1.8,1500000.0,2023-2024,serie-a
+sofyan amrabat,acf fiorentina,1.85,22000000.0,2023-2024,serie-a
+arthur melo,acf fiorentina,1.72,15000000.0,2023-2024,serie-a
+rolando mandragora,acf fiorentina,1.83,8500000.0,2023-2024,serie-a
+maxime lopez,acf fiorentina,1.67,7500000.0,2023-2024,serie-a
+lorenzo amatucci,acf fiorentina,1.72,1000000.0,2023-2024,serie-a
+gaetano castrovilli,acf fiorentina,1.87,7000000.0,2023-2024,serie-a
+alfred duncan,acf fiorentina,1.78,4000000.0,2023-2024,serie-a
+gino infantino,acf fiorentina,1.78,3000000.0,2023-2024,serie-a
+lucas beltran,acf fiorentina,1.76,16000000.0,2023-2024,serie-a
+antonin barak,acf fiorentina,1.9,4500000.0,2023-2024,serie-a
+giacomo bonaventura,acf fiorentina,1.8,3000000.0,2023-2024,serie-a
+abdelhamid sabiri,acf fiorentina,1.86,2200000.0,2023-2024,serie-a
+riccardo sottil,acf fiorentina,1.8,6000000.0,2023-2024,serie-a
+josip brekalo,acf fiorentina,1.75,3500000.0,2023-2024,serie-a
+maat daniel caprini,acf fiorentina,1.8,,2023-2024,serie-a
+nico gonzalez,acf fiorentina,1.8,35000000.0,2023-2024,serie-a
+jonathan ikone,acf fiorentina,1.75,10000000.0,2023-2024,serie-a
+aleksandr kokorin,acf fiorentina,1.84,800000.0,2023-2024,serie-a
+christian kouame,acf fiorentina,1.85,7500000.0,2023-2024,serie-a
+luka jovic,acf fiorentina,1.82,7000000.0,2023-2024,serie-a
+mbala nzola,acf fiorentina,1.85,7000000.0,2023-2024,serie-a
+andrea belotti,acf fiorentina,1.81,5000000.0,2023-2024,serie-a
+fallou sene,acf fiorentina,1.87,200000.0,2023-2024,serie-a
+vanja milinkovicsavic,torino fc,2.02,5000000.0,2023-2024,serie-a
+mihai popa,torino fc,1.9,800000.0,2023-2024,serie-a
+luca gemello,torino fc,1.9,300000.0,2023-2024,serie-a
+pietro passador,torino fc,1.96,100000.0,2023-2024,serie-a
+matteo brezzo,torino fc,,25000.0,2023-2024,serie-a
+alessandro buongiorno,torino fc,1.9,35000000.0,2023-2024,serie-a
+wilfried singo,torino fc,1.9,25000000.0,2023-2024,serie-a
+perr schuurs,torino fc,1.91,25000000.0,2023-2024,serie-a
+matteo lovato,torino fc,1.88,4000000.0,2023-2024,serie-a
+david zima,torino fc,1.92,4000000.0,2023-2024,serie-a
+saba sazonov,torino fc,1.94,2800000.0,2023-2024,serie-a
+koffi djidji,torino fc,1.84,2500000.0,2023-2024,serie-a
+adam masina,torino fc,1.91,1500000.0,2023-2024,serie-a
+alessandro dellavalle,torino fc,1.89,800000.0,2023-2024,serie-a
+ange caumenan nguessan,torino fc,1.87,200000.0,2023-2024,serie-a
+ricardo rodriguez,torino fc,1.82,3500000.0,2023-2024,serie-a
+vimoj muntu wa mungu,torino fc,1.67,300000.0,2023-2024,serie-a
+jacopo antolini,torino fc,,100000.0,2023-2024,serie-a
+mergim vojvoda,torino fc,1.87,3000000.0,2023-2024,serie-a
+come bianay balcot,torino fc,1.88,200000.0,2023-2024,serie-a
+samuele ricci,torino fc,1.81,22000000.0,2023-2024,serie-a
+adrien tameze,torino fc,1.82,5000000.0,2023-2024,serie-a
+ivan ilic,torino fc,1.86,18000000.0,2023-2024,serie-a
+karol linetty,torino fc,1.75,3500000.0,2023-2024,serie-a
+emirhan ilkhan,torino fc,1.75,3000000.0,2023-2024,serie-a
+gvidas gineitis,torino fc,1.91,2000000.0,2023-2024,serie-a
+aaron ciammaglichella,torino fc,1.8,1000000.0,2023-2024,serie-a
+raoul bellanova,torino fc,1.88,15000000.0,2023-2024,serie-a
+brandon soppy,torino fc,1.8,2000000.0,2023-2024,serie-a
+brian bayeye,torino fc,1.82,400000.0,2023-2024,serie-a
+ali dembele,torino fc,1.89,300000.0,2023-2024,serie-a
+valentino lazaro,torino fc,1.81,3500000.0,2023-2024,serie-a
+nikola vlasic,torino fc,1.79,10000000.0,2023-2024,serie-a
+simone verdi,torino fc,1.74,2500000.0,2023-2024,serie-a
+jonathan silva,torino fc,1.86,400000.0,2023-2024,serie-a
+nemanja radonjic,torino fc,1.82,2800000.0,2023-2024,serie-a
+yann karamoh,torino fc,1.84,2500000.0,2023-2024,serie-a
+alieu njie,torino fc,1.85,300000.0,2023-2024,serie-a
+demba seck,torino fc,1.9,2000000.0,2023-2024,serie-a
+zanos savva,torino fc,1.91,1000000.0,2023-2024,serie-a
+uros kabic,torino fc,1.83,1000000.0,2023-2024,serie-a
+duvan zapata,torino fc,1.88,8000000.0,2023-2024,serie-a
+antonio sanabria,torino fc,1.8,7000000.0,2023-2024,serie-a
+pietro pellegri,torino fc,1.89,3000000.0,2023-2024,serie-a
+david okereke,torino fc,1.81,2400000.0,2023-2024,serie-a
+ivan provedel,ss lazio,1.94,14000000.0,2023-2024,serie-a
+christos mandas,ss lazio,1.89,3000000.0,2023-2024,serie-a
+luigi sepe,ss lazio,1.85,500000.0,2023-2024,serie-a
+federico magro,ss lazio,1.9,250000.0,2023-2024,serie-a
+marius adamonis,ss lazio,1.91,200000.0,2023-2024,serie-a
+alessio furlanetto,ss lazio,1.91,50000.0,2023-2024,serie-a
+davide renzetti,ss lazio,1.94,50000.0,2023-2024,serie-a
+alessio romagnoli,ss lazio,1.85,15000000.0,2023-2024,serie-a
+nicolo casale,ss lazio,1.91,14000000.0,2023-2024,serie-a
+mario gila,ss lazio,1.85,13000000.0,2023-2024,serie-a
+patric,ss lazio,1.84,4000000.0,2023-2024,serie-a
+fabio andrea ruggeri,ss lazio,1.84,200000.0,2023-2024,serie-a
+matteo dutu,ss lazio,1.92,200000.0,2023-2024,serie-a
+luca pellegrini,ss lazio,1.78,3500000.0,2023-2024,serie-a
+dimitrije kamenovic,ss lazio,1.89,800000.0,2023-2024,serie-a
+adam marusic,ss lazio,1.85,5000000.0,2023-2024,serie-a
+elseid hysaj,ss lazio,1.82,2500000.0,2023-2024,serie-a
+nicolo rovella,ss lazio,1.79,18000000.0,2023-2024,serie-a
+danilo cataldi,ss lazio,1.8,5500000.0,2023-2024,serie-a
+matteo guendouzi,ss lazio,1.85,25000000.0,2023-2024,serie-a
+toma basic,ss lazio,1.9,2800000.0,2023-2024,serie-a
+matias vecino,ss lazio,1.87,2500000.0,2023-2024,serie-a
+larsson coulibaly,ss lazio,1.8,50000.0,2023-2024,serie-a
+manuel lazzari,ss lazio,1.74,4000000.0,2023-2024,serie-a
+daichi kamada,ss lazio,1.8,18000000.0,2023-2024,serie-a
+luis alberto,ss lazio,1.83,11000000.0,2023-2024,serie-a
+andre anderson,ss lazio,1.8,400000.0,2023-2024,serie-a
+luca napolitano,ss lazio,1.71,50000.0,2023-2024,serie-a
+mattia zaccagni,ss lazio,1.77,20000000.0,2023-2024,serie-a
+sana fernandes,ss lazio,1.65,800000.0,2023-2024,serie-a
+gustav isaksen,ss lazio,1.81,12000000.0,2023-2024,serie-a
+felipe anderson,ss lazio,1.75,8000000.0,2023-2024,serie-a
+pedro,ss lazio,1.67,1000000.0,2023-2024,serie-a
+diego gonzalez,ss lazio,1.77,1000000.0,2023-2024,serie-a
+cristiano lombardi,ss lazio,1.8,100000.0,2023-2024,serie-a
+taty castellanos,ss lazio,1.78,15000000.0,2023-2024,serie-a
+ciro immobile,ss lazio,1.85,4000000.0,2023-2024,serie-a
+josep martinez,genoa cfc,1.91,8000000.0,2023-2024,serie-a
+nicola leali,genoa cfc,1.93,600000.0,2023-2024,serie-a
+franz stolz,genoa cfc,1.93,200000.0,2023-2024,serie-a
+simone calvani,genoa cfc,1.89,150000.0,2023-2024,serie-a
+daniele sommariva,genoa cfc,1.85,100000.0,2023-2024,serie-a
+radu dragusin,genoa cfc,1.91,25000000.0,2023-2024,serie-a
+koni de winter,genoa cfc,1.91,12000000.0,2023-2024,serie-a
+johan vasquez,genoa cfc,1.85,10000000.0,2023-2024,serie-a
+alan matturro,genoa cfc,1.89,4000000.0,2023-2024,serie-a
+mattia bani,genoa cfc,1.88,2500000.0,2023-2024,serie-a
+giorgio cittadini,genoa cfc,1.93,2400000.0,2023-2024,serie-a
+alessandro vogliacco,genoa cfc,1.86,2000000.0,2023-2024,serie-a
+davide biraschi,genoa cfc,1.82,900000.0,2023-2024,serie-a
+faroukou cisse,genoa cfc,1.87,200000.0,2023-2024,serie-a
+tommaso pittino,genoa cfc,1.89,150000.0,2023-2024,serie-a
+djed spence,genoa cfc,1.84,8000000.0,2023-2024,serie-a
+aaron martin,genoa cfc,1.78,5000000.0,2023-2024,serie-a
+ridgeciano haps,genoa cfc,1.75,900000.0,2023-2024,serie-a
+silvan hefti,genoa cfc,1.83,2500000.0,2023-2024,serie-a
+stefano sabelli,genoa cfc,1.76,1500000.0,2023-2024,serie-a
+emil bohinen,genoa cfc,1.89,1800000.0,2023-2024,serie-a
+filip jagiello,genoa cfc,1.79,1100000.0,2023-2024,serie-a
+milan badelj,genoa cfc,1.86,800000.0,2023-2024,serie-a
+morten frendrup,genoa cfc,1.78,15000000.0,2023-2024,serie-a
+berkan kutlu,genoa cfc,1.86,3800000.0,2023-2024,serie-a
+morten thorsby,genoa cfc,1.88,3000000.0,2023-2024,serie-a
+pablo galdames,genoa cfc,1.76,1500000.0,2023-2024,serie-a
+filippo melegoni,genoa cfc,1.86,1200000.0,2023-2024,serie-a
+kevin strootman,genoa cfc,1.86,800000.0,2023-2024,serie-a
+leandre kuavita,genoa cfc,1.8,400000.0,2023-2024,serie-a
+riccardo arboscello,genoa cfc,,200000.0,2023-2024,serie-a
+ruslan malinovskyi,genoa cfc,1.81,8000000.0,2023-2024,serie-a
+mattia aramu,genoa cfc,1.8,1300000.0,2023-2024,serie-a
+christos papadopoulos,genoa cfc,1.88,800000.0,2023-2024,serie-a
+junior messias,genoa cfc,1.74,2500000.0,2023-2024,serie-a
+seydou fini,genoa cfc,1.78,1000000.0,2023-2024,serie-a
+albert gudmundsson,genoa cfc,1.77,30000000.0,2023-2024,serie-a
+mateo retegui,genoa cfc,1.86,16000000.0,2023-2024,serie-a
+vitinha,genoa cfc,1.78,14000000.0,2023-2024,serie-a
+david ankeye,genoa cfc,1.91,2000000.0,2023-2024,serie-a
+caleb ekuban,genoa cfc,1.82,1500000.0,2023-2024,serie-a
+george puscas,genoa cfc,1.88,1500000.0,2023-2024,serie-a
+massimo coda,genoa cfc,1.84,1000000.0,2023-2024,serie-a
+yoan bornosuzov,genoa cfc,1.95,100000.0,2023-2024,serie-a
+maduka okoye,udinese calcio,1.98,4000000.0,2023-2024,serie-a
+marco silvestri,udinese calcio,1.91,1000000.0,2023-2024,serie-a
+daniele padelli,udinese calcio,1.91,150000.0,2023-2024,serie-a
+federico mosca,udinese calcio,1.92,100000.0,2023-2024,serie-a
+edoardo piana,udinese calcio,1.98,25000.0,2023-2024,serie-a
+joel malusa,udinese calcio,,,2023-2024,serie-a
+nehuen perez,udinese calcio,1.86,13000000.0,2023-2024,serie-a
+jaka bijol,udinese calcio,1.9,10000000.0,2023-2024,serie-a
+thomas kristensen,udinese calcio,1.98,4500000.0,2023-2024,serie-a
+enzo ebosse,udinese calcio,1.85,2500000.0,2023-2024,serie-a
+lautaro giannetti,udinese calcio,1.85,2500000.0,2023-2024,serie-a
+adam masina,udinese calcio,1.91,1500000.0,2023-2024,serie-a
+matteo palma,udinese calcio,1.94,1000000.0,2023-2024,serie-a
+christian kabasele,udinese calcio,1.87,1000000.0,2023-2024,serie-a
+antonio tikvic,udinese calcio,1.95,700000.0,2023-2024,serie-a
+axel guessand,udinese calcio,1.92,500000.0,2023-2024,serie-a
+james abankwah,udinese calcio,1.88,300000.0,2023-2024,serie-a
+samuel john nwachukwu,udinese calcio,1.91,150000.0,2023-2024,serie-a
+jordan zemura,udinese calcio,1.73,5000000.0,2023-2024,serie-a
+hassane kamara,udinese calcio,1.7,4500000.0,2023-2024,serie-a
+festy ebosele,udinese calcio,1.8,6000000.0,2023-2024,serie-a
+kingsley ehizibue,udinese calcio,1.89,2200000.0,2023-2024,serie-a
+joao ferreira,udinese calcio,1.85,2000000.0,2023-2024,serie-a
+walace,udinese calcio,1.88,6000000.0,2023-2024,serie-a
+etienne camara,udinese calcio,1.91,1500000.0,2023-2024,serie-a
+sandi lovric,udinese calcio,1.8,8000000.0,2023-2024,serie-a
+martin payero,udinese calcio,1.82,4500000.0,2023-2024,serie-a
+oier zarraga,udinese calcio,1.75,2000000.0,2023-2024,serie-a
+roberto pereyra,udinese calcio,1.82,2000000.0,2023-2024,serie-a
+domingos quina,udinese calcio,1.73,1500000.0,2023-2024,serie-a
+marco ballarini,udinese calcio,1.86,75000.0,2023-2024,serie-a
+bor zunec,udinese calcio,,10000.0,2023-2024,serie-a
+lazar samardzic,udinese calcio,1.84,20000000.0,2023-2024,serie-a
+simone pafundi,udinese calcio,1.66,10000000.0,2023-2024,serie-a
+david pejicic,udinese calcio,,1000000.0,2023-2024,serie-a
+marley ake,udinese calcio,1.78,1600000.0,2023-2024,serie-a
+florian thauvin,udinese calcio,1.81,3000000.0,2023-2024,serie-a
+beto,udinese calcio,1.94,20000000.0,2023-2024,serie-a
+lorenzo lucca,udinese calcio,2.01,12000000.0,2023-2024,serie-a
+brenner,udinese calcio,1.75,7000000.0,2023-2024,serie-a
+keinan davis,udinese calcio,1.89,3000000.0,2023-2024,serie-a
+isaac success,udinese calcio,1.82,2500000.0,2023-2024,serie-a
+gerard deulofeu,udinese calcio,1.77,1000000.0,2023-2024,serie-a
+vivaldo semedo,udinese calcio,1.92,500000.0,2023-2024,serie-a
+sekou diawara,udinese calcio,1.87,250000.0,2023-2024,serie-a
+lorenzo montipo,hellas verona,1.91,3500000.0,2023-2024,serie-a
+simone perilli,hellas verona,1.96,200000.0,2023-2024,serie-a
+giacomo toniolo,hellas verona,,100000.0,2023-2024,serie-a
+mattia chiesa,hellas verona,1.9,100000.0,2023-2024,serie-a
+alessandro berardi,hellas verona,1.85,50000.0,2023-2024,serie-a
+isak hien,hellas verona,1.91,20000000.0,2023-2024,serie-a
+diego coppola,hellas verona,1.93,6000000.0,2023-2024,serie-a
+bruno amione,hellas verona,1.87,3000000.0,2023-2024,serie-a
+giangiacomo magnani,hellas verona,1.92,3000000.0,2023-2024,serie-a
+pawe dawidowicz,hellas verona,1.89,3000000.0,2023-2024,serie-a
+federico ceccherini,hellas verona,1.87,1000000.0,2023-2024,serie-a
+koray gunter,hellas verona,1.85,850000.0,2023-2024,serie-a
+christian corradi,hellas verona,,800000.0,2023-2024,serie-a
+nicolo calabrese,hellas verona,,150000.0,2023-2024,serie-a
+josh doig,hellas verona,1.89,6000000.0,2023-2024,serie-a
+juan cabal,hellas verona,1.86,3500000.0,2023-2024,serie-a
+ruben vinagre,hellas verona,1.74,2400000.0,2023-2024,serie-a
+filippo terracciano,hellas verona,1.86,4500000.0,2023-2024,serie-a
+fabien centonze,hellas verona,1.82,3000000.0,2023-2024,serie-a
+jackson tchatchoua,hellas verona,1.8,3000000.0,2023-2024,serie-a
+davide faraoni,hellas verona,1.8,1500000.0,2023-2024,serie-a
+martin hongla,hellas verona,1.82,2500000.0,2023-2024,serie-a
+dani silva,hellas verona,1.8,2000000.0,2023-2024,serie-a
+reda belahyane,hellas verona,1.73,500000.0,2023-2024,serie-a
+charlys,hellas verona,1.88,100000.0,2023-2024,serie-a
+joselito,hellas verona,1.84,75000.0,2023-2024,serie-a
+michael folorunsho,hellas verona,1.9,8500000.0,2023-2024,serie-a
+suat serdar,hellas verona,1.84,5000000.0,2023-2024,serie-a
+ondrej duda,hellas verona,1.8,4000000.0,2023-2024,serie-a
+nicola patane,hellas verona,,150000.0,2023-2024,serie-a
+darko lazovic,hellas verona,1.81,1500000.0,2023-2024,serie-a
+tomas suslov,hellas verona,1.74,7000000.0,2023-2024,serie-a
+alphadjo cisse,hellas verona,1.81,1400000.0,2023-2024,serie-a
+riccardo saponara,hellas verona,1.83,700000.0,2023-2024,serie-a
+ajdin hrustic,hellas verona,1.8,600000.0,2023-2024,serie-a
+stefan mitrovic,hellas verona,1.82,1800000.0,2023-2024,serie-a
+jayden braaf,hellas verona,1.81,800000.0,2023-2024,serie-a
+cyril ngonge,hellas verona,1.8,12000000.0,2023-2024,serie-a
+tijjani noslin,hellas verona,1.78,10000000.0,2023-2024,serie-a
+jordi mboula,hellas verona,1.83,1200000.0,2023-2024,serie-a
+elayis tavsan,hellas verona,1.83,1000000.0,2023-2024,serie-a
+yayah kallon,hellas verona,1.75,1000000.0,2023-2024,serie-a
+denis cazzadori,hellas verona,1.75,125000.0,2023-2024,serie-a
+karol swiderski,hellas verona,1.84,5000000.0,2023-2024,serie-a
+federico bonazzoli,hellas verona,1.85,2500000.0,2023-2024,serie-a
+thomas henry,hellas verona,1.91,2000000.0,2023-2024,serie-a
+siren diao,hellas verona,1.89,1500000.0,2023-2024,serie-a
+milan djuric,hellas verona,1.99,1500000.0,2023-2024,serie-a
+juan manuel cruz,hellas verona,1.85,450000.0,2023-2024,serie-a
+junior ajayi,hellas verona,1.85,150000.0,2023-2024,serie-a
+alessio cragno,us sassuolo,1.84,1500000.0,2023-2024,serie-a
+andrea consigli,us sassuolo,1.89,800000.0,2023-2024,serie-a
+daniel theiner,us sassuolo,,150000.0,2023-2024,serie-a
+gianluca pegolo,us sassuolo,1.83,100000.0,2023-2024,serie-a
+alessandro scacchetti,us sassuolo,,10000.0,2023-2024,serie-a
+mattia viti,us sassuolo,1.9,5000000.0,2023-2024,serie-a
+marash kumbulla,us sassuolo,1.91,4500000.0,2023-2024,serie-a
+martin erlic,us sassuolo,1.93,3000000.0,2023-2024,serie-a
+ruan,us sassuolo,1.87,2500000.0,2023-2024,serie-a
+gian marco ferrari,us sassuolo,1.89,1400000.0,2023-2024,serie-a
+kevin miranda,us sassuolo,1.88,350000.0,2023-2024,serie-a
+seb loeffen,us sassuolo,1.88,150000.0,2023-2024,serie-a
+matias vina,us sassuolo,1.75,8000000.0,2023-2024,serie-a
+josh doig,us sassuolo,1.89,6000000.0,2023-2024,serie-a
+matteo falasca,us sassuolo,,150000.0,2023-2024,serie-a
+jeremy toljan,us sassuolo,1.82,3500000.0,2023-2024,serie-a
+filippo missori,us sassuolo,1.82,1500000.0,2023-2024,serie-a
+yeferson paz,us sassuolo,1.76,500000.0,2023-2024,serie-a
+maxime lopez,us sassuolo,1.67,7500000.0,2023-2024,serie-a
+daniel boloca,us sassuolo,1.85,7000000.0,2023-2024,serie-a
+luca lipani,us sassuolo,1.85,4000000.0,2023-2024,serie-a
+uros racic,us sassuolo,1.93,2500000.0,2023-2024,serie-a
+matheus henrique,us sassuolo,1.75,8500000.0,2023-2024,serie-a
+justin kumi,us sassuolo,,800000.0,2023-2024,serie-a
+pedro obiang,us sassuolo,1.86,500000.0,2023-2024,serie-a
+salim abubakar,us sassuolo,,25000.0,2023-2024,serie-a
+marcus pedersen,us sassuolo,1.84,5500000.0,2023-2024,serie-a
+kristian thorstvedt,us sassuolo,1.89,8000000.0,2023-2024,serie-a
+nedim bajrami,us sassuolo,1.79,4500000.0,2023-2024,serie-a
+cristian volpato,us sassuolo,1.87,4500000.0,2023-2024,serie-a
+armand lauriente,us sassuolo,1.71,10000000.0,2023-2024,serie-a
+emil konradsen ceide,us sassuolo,1.85,2000000.0,2023-2024,serie-a
+domenico berardi,us sassuolo,1.83,10000000.0,2023-2024,serie-a
+samu castillejo,us sassuolo,1.82,600000.0,2023-2024,serie-a
+andrea pinamonti,us sassuolo,1.85,15000000.0,2023-2024,serie-a
+agustin alvarez,us sassuolo,1.77,4500000.0,2023-2024,serie-a
+samuele mulattieri,us sassuolo,1.83,4000000.0,2023-2024,serie-a
+gregoire defrel,us sassuolo,1.79,1000000.0,2023-2024,serie-a
+wladimiro falcone,us lecce,1.95,5000000.0,2023-2024,serie-a
+federico brancolini,us lecce,1.92,200000.0,2023-2024,serie-a
+alexandru borbei,us lecce,1.91,150000.0,2023-2024,serie-a
+jasper samooja,us lecce,1.93,75000.0,2023-2024,serie-a
+marin pongracic,us lecce,1.93,7000000.0,2023-2024,serie-a
+federico baschirotto,us lecce,1.87,6000000.0,2023-2024,serie-a
+ahmed touba,us lecce,1.9,1600000.0,2023-2024,serie-a
+kastriot dermaku,us lecce,1.94,250000.0,2023-2024,serie-a
+sebastian esposito,us lecce,1.91,200000.0,2023-2024,serie-a
+mats lemmens,us lecce,1.86,150000.0,2023-2024,serie-a
+zinedin smajlovic,us lecce,1.91,100000.0,2023-2024,serie-a
+patrick dorgu,us lecce,1.85,12000000.0,2023-2024,serie-a
+antonino gallo,us lecce,1.83,4500000.0,2023-2024,serie-a
+valentin gendrey,us lecce,1.79,7000000.0,2023-2024,serie-a
+lorenzo venuti,us lecce,1.79,1200000.0,2023-2024,serie-a
+ylber ramadani,us lecce,1.85,4000000.0,2023-2024,serie-a
+alexis blin,us lecce,1.86,3000000.0,2023-2024,serie-a
+giacomo faticanti,us lecce,1.86,800000.0,2023-2024,serie-a
+youssef maleh,us lecce,1.79,4500000.0,2023-2024,serie-a
+joan gonzalez,us lecce,1.9,4500000.0,2023-2024,serie-a
+mohamed kaba,us lecce,1.85,3500000.0,2023-2024,serie-a
+hamza rafia,us lecce,1.81,1700000.0,2023-2024,serie-a
+daniel samek,us lecce,1.84,1200000.0,2023-2024,serie-a
+thorir johann helgason,us lecce,1.87,1000000.0,2023-2024,serie-a
+medon berisha,us lecce,1.86,1000000.0,2023-2024,serie-a
+remi oudin,us lecce,1.86,3500000.0,2023-2024,serie-a
+marcin listkowski,us lecce,1.78,200000.0,2023-2024,serie-a
+lameck banda,us lecce,1.69,6000000.0,2023-2024,serie-a
+federico di francesco,us lecce,1.71,1400000.0,2023-2024,serie-a
+nicola sansone,us lecce,1.74,1000000.0,2023-2024,serie-a
+gabriel strefezza,us lecce,1.68,6000000.0,2023-2024,serie-a
+pontus almqvist,us lecce,1.83,3000000.0,2023-2024,serie-a
+santiago pierotti,us lecce,1.89,2500000.0,2023-2024,serie-a
+jeppe corfitzen,us lecce,1.79,400000.0,2023-2024,serie-a
+nikola krstovic,us lecce,1.85,6000000.0,2023-2024,serie-a
+roberto piccoli,us lecce,1.9,4000000.0,2023-2024,serie-a
+assan ceesay,us lecce,1.88,2000000.0,2023-2024,serie-a
+rares burnete,us lecce,1.85,700000.0,2023-2024,serie-a
+joel voelkerling persson,us lecce,1.94,400000.0,2023-2024,serie-a
+simone scuffet,cagliari calcio,1.93,2500000.0,2023-2024,serie-a
+boris radunovic,cagliari calcio,1.94,1000000.0,2023-2024,serie-a
+velizariliya iliev,cagliari calcio,1.94,100000.0,2023-2024,serie-a
+simone aresti,cagliari calcio,1.87,75000.0,2023-2024,serie-a
+alberto dossena,cagliari calcio,1.95,5000000.0,2023-2024,serie-a
+adam obert,cagliari calcio,1.88,3500000.0,2023-2024,serie-a
+mateusz wieteska,cagliari calcio,1.87,3000000.0,2023-2024,serie-a
+yerry mina,cagliari calcio,1.95,3000000.0,2023-2024,serie-a
+pantelis hatzidiakos,cagliari calcio,1.85,2500000.0,2023-2024,serie-a
+giorgio altare,cagliari calcio,1.9,2000000.0,2023-2024,serie-a
+edoardo goldaniga,cagliari calcio,1.93,1200000.0,2023-2024,serie-a
+elio capradossi,cagliari calcio,1.85,300000.0,2023-2024,serie-a
+tommaso augello,cagliari calcio,1.8,2000000.0,2023-2024,serie-a
+paulo azzi,cagliari calcio,1.88,1000000.0,2023-2024,serie-a
+gabriele zappa,cagliari calcio,1.87,2500000.0,2023-2024,serie-a
+alessandro di pardo,cagliari calcio,1.82,900000.0,2023-2024,serie-a
+matteo prati,cagliari calcio,1.85,10000000.0,2023-2024,serie-a
+antoine makoumbou,cagliari calcio,1.87,4500000.0,2023-2024,serie-a
+ibrahim sulemana,cagliari calcio,1.8,4000000.0,2023-2024,serie-a
+nahitan nandez,cagliari calcio,1.72,5000000.0,2023-2024,serie-a
+alessandro deiola,cagliari calcio,1.9,1900000.0,2023-2024,serie-a
+marko rog,cagliari calcio,1.8,1300000.0,2023-2024,serie-a
+christos kourfalidis,cagliari calcio,1.78,800000.0,2023-2024,serie-a
+nunzio lella,cagliari calcio,1.86,750000.0,2023-2024,serie-a
+jakub jankto,cagliari calcio,1.84,1200000.0,2023-2024,serie-a
+gianluca gaetano,cagliari calcio,1.83,6000000.0,2023-2024,serie-a
+gaetano oristanio,cagliari calcio,1.74,4000000.0,2023-2024,serie-a
+gaston pereiro,cagliari calcio,1.88,1000000.0,2023-2024,serie-a
+nicolas viola,cagliari calcio,1.8,800000.0,2023-2024,serie-a
+marco mancosu,cagliari calcio,1.77,400000.0,2023-2024,serie-a
+alessandro vinciguerra,cagliari calcio,1.67,200000.0,2023-2024,serie-a
+jacopo desogus,cagliari calcio,1.74,200000.0,2023-2024,serie-a
+zito luvumbo,cagliari calcio,1.71,7500000.0,2023-2024,serie-a
+eldor shomurodov,cagliari calcio,1.9,5000000.0,2023-2024,serie-a
+andrea petagna,cagliari calcio,1.9,3800000.0,2023-2024,serie-a
+gianluca lapadula,cagliari calcio,1.78,1500000.0,2023-2024,serie-a
+kingstone mutandwa,cagliari calcio,1.8,1000000.0,2023-2024,serie-a
+leonardo pavoletti,cagliari calcio,1.88,800000.0,2023-2024,serie-a

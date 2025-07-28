@@ -1,721 +1,597 @@
 nombre,club_actual,altura,valor,temporada,liga
-thibaut courtois,Real Madrid,2.0,45000000.0,2022-2023,LaLiga
-andriy lunin,Real Madrid,1.91,5000000.0,2022-2023,LaLiga
-mario de luis,Atlético Madrileño,1.85,500000.0,2022-2023,LaLiga
-luis lópez,SD Eibar,1.97,300000.0,2022-2023,LaLiga
-lucas cañizares,SC Farense,1.88,200000.0,2022-2023,LaLiga
-diego piñeiro,Without Club,1.85,,2022-2023,LaLiga
-fran gonzález,Real Madrid Castilla,1.99,,2022-2023,LaLiga
-éder militão,Real Madrid,1.86,70000000.0,2022-2023,LaLiga
-david alaba,Real Madrid,1.8,40000000.0,2022-2023,LaLiga
-antonio rüdiger,Real Madrid,1.9,32000000.0,2022-2023,LaLiga
-nacho fernández,Al-Qadsiah FC,1.8,6000000.0,2022-2023,LaLiga
-jesús vallejo,Albacete Balompié,1.84,2000000.0,2022-2023,LaLiga
-marvel,CD Leganés,1.84,1000000.0,2022-2023,LaLiga
-ferland mendy,Real Madrid,1.8,25000000.0,2022-2023,LaLiga
-daniel carvajal,Real Madrid,1.73,12000000.0,2022-2023,LaLiga
-lucas vázquez,Without Club,1.73,8000000.0,2022-2023,LaLiga
-álvaro odriozola,Real Sociedad,1.76,5000000.0,2022-2023,LaLiga
-vinícius tobias,Shakhtar Donetsk,1.77,3000000.0,2022-2023,LaLiga
-aurélien tchouaméni,Real Madrid,1.88,85000000.0,2022-2023,LaLiga
-casemiro,Manchester United,1.85,40000000.0,2022-2023,LaLiga
-mario martín,Real Madrid,1.77,250000.0,2022-2023,LaLiga
-federico valverde,Real Madrid,1.82,100000000.0,2022-2023,LaLiga
-eduardo camavinga,Real Madrid,1.82,85000000.0,2022-2023,LaLiga
-toni kroos,nan,1.83,15000000.0,2022-2023,LaLiga
-dani ceballos,Real Madrid,1.79,12000000.0,2022-2023,LaLiga
-luka modrić,AC Milan,1.72,10000000.0,2022-2023,LaLiga
-carlos dotor,Málaga CF,1.8,700000.0,2022-2023,LaLiga
-marco asensio,Paris Saint-Germain,1.82,25000000.0,2022-2023,LaLiga
-sergio arribas,UD Almería,1.74,5000000.0,2022-2023,LaLiga
-nico paz,Como 1907,1.86,2000000.0,2022-2023,LaLiga
-vinicius junior,Real Madrid,1.76,150000000.0,2022-2023,LaLiga
-eden hazard,nan,1.75,5000000.0,2022-2023,LaLiga
-rodrygo,Real Madrid,1.74,100000000.0,2022-2023,LaLiga
-karim benzema,Al-Ittihad Club,1.85,25000000.0,2022-2023,LaLiga
-álvaro rodríguez,Real Madrid,1.93,6000000.0,2022-2023,LaLiga
-mariano díaz,Without Club,1.8,2500000.0,2022-2023,LaLiga
-marc-andré ter stegen,FC Barcelona,1.87,35000000.0,2022-2023,LaLiga
-iñaki peña,FC Barcelona,1.84,4000000.0,2022-2023,LaLiga
-arnau tenas,Paris Saint-Germain,1.85,2000000.0,2022-2023,LaLiga
-ander astralaga,Granada CF,1.9,,2022-2023,LaLiga
-ronald araujo,FC Barcelona,1.92,70000000.0,2022-2023,LaLiga
-andreas christensen,FC Barcelona,1.87,40000000.0,2022-2023,LaLiga
-eric garcía,FC Barcelona,1.82,10000000.0,2022-2023,LaLiga
-chadi riad,Crystal Palace,1.87,500000.0,2022-2023,LaLiga
-gerard piqué,nan,1.94,,2022-2023,LaLiga
-alejandro balde,FC Barcelona,1.75,50000000.0,2022-2023,LaLiga
-marcos alonso,Celta de Vigo,1.88,5000000.0,2022-2023,LaLiga
-jordi alba,Inter Miami CF,1.7,5000000.0,2022-2023,LaLiga
-álex valle,Como 1907,1.78,500000.0,2022-2023,LaLiga
-jules koundé,FC Barcelona,1.8,60000000.0,2022-2023,LaLiga
-héctor bellerín,Real Betis Balompié,1.78,8000000.0,2022-2023,LaLiga
-sergio busquets,Inter Miami CF,1.89,5000000.0,2022-2023,LaLiga
-álvaro sanz,Al-Shahania SC,1.7,700000.0,2022-2023,LaLiga
-marc casadó,FC Barcelona,1.72,300000.0,2022-2023,LaLiga
-pau prim,Al-Sadd SC,1.79,,2022-2023,LaLiga
-pedri,FC Barcelona,1.74,100000000.0,2022-2023,LaLiga
-gavi,FC Barcelona,1.73,90000000.0,2022-2023,LaLiga
-frenkie de jong,FC Barcelona,1.81,75000000.0,2022-2023,LaLiga
-franck kessié,Al-Ahli SFC,1.83,25000000.0,2022-2023,LaLiga
-miralem pjanić,Without Club,1.81,6000000.0,2022-2023,LaLiga
-sergi roberto,Como 1907,1.78,5000000.0,2022-2023,LaLiga
-aleix garrido,SD Eibar,1.7,300000.0,2022-2023,LaLiga
-unai hernández,Al-Ittihad Club,1.71,,2022-2023,LaLiga
-pablo torre,RCD Mallorca,1.73,3000000.0,2022-2023,LaLiga
-raphinha,FC Barcelona,1.76,60000000.0,2022-2023,LaLiga
-ansu fati,AS Monaco,1.78,35000000.0,2022-2023,LaLiga
-estanis pedrola,UC Sampdoria,1.85,500000.0,2022-2023,LaLiga
-ángel alarcón,FC Porto B,1.75,,2022-2023,LaLiga
-dani rodríguez,FC Barcelona Atlètic,1.7,,2022-2023,LaLiga
-ousmane dembélé,Paris Saint-Germain,1.78,60000000.0,2022-2023,LaLiga
-ilias akhomach,Villarreal CF,1.75,3000000.0,2022-2023,LaLiga
-lamine yamal,FC Barcelona,1.8,,2022-2023,LaLiga
-robert lewandowski,FC Barcelona,1.85,30000000.0,2022-2023,LaLiga
-ferran torres,FC Barcelona,1.84,30000000.0,2022-2023,LaLiga
-memphis depay,Sport Club Corinthians Paulista,1.78,14000000.0,2022-2023,LaLiga
-pierre-emerick aubameyang,Without Club,1.87,4000000.0,2022-2023,LaLiga
-marc guiu,Chelsea FC,1.87,,2022-2023,LaLiga
-jan oblak,Atlético de Madrid,1.88,35000000.0,2022-2023,LaLiga
-ivo grbic,Sheffield United,1.95,3500000.0,2022-2023,LaLiga
-alejandro iturbe,Elche CF,1.86,150000.0,2022-2023,LaLiga
-antonio gomis,FC Vizela,1.91,150000.0,2022-2023,LaLiga
-sergio mestre,Real Madrid Castilla,1.93,,2022-2023,LaLiga
-josé maría giménez,Atlético de Madrid,1.85,35000000.0,2022-2023,LaLiga
-mario hermoso,AS Roma,1.84,20000000.0,2022-2023,LaLiga
-stefan savic,Trabzonspor,1.87,6000000.0,2022-2023,LaLiga
-axel witsel,Without Club,1.86,5000000.0,2022-2023,LaLiga
-felipe,nan,1.9,2000000.0,2022-2023,LaLiga
-marco moreno,SD Eibar,1.91,200000.0,2022-2023,LaLiga
-ilias kostis,Atlético Madrileño,1.88,100000.0,2022-2023,LaLiga
-adrián corral,Atlético Madrid C,1.79,50000.0,2022-2023,LaLiga
-reinildo mandava,Sunderland AFC,1.8,25000000.0,2022-2023,LaLiga
-renan lodi,Al-Hilal SFC,1.73,20000000.0,2022-2023,LaLiga
-sergio reguilón,Without Club,1.78,10000000.0,2022-2023,LaLiga
-nahuel molina,Atlético de Madrid,1.75,35000000.0,2022-2023,LaLiga
-matt doherty,Wolverhampton Wanderers,1.85,5000000.0,2022-2023,LaLiga
-sergio diez,UD Ibiza,1.78,200000.0,2022-2023,LaLiga
-geoffrey kondogbia,Olympique Marseille,1.88,14000000.0,2022-2023,LaLiga
-rodrigo de paul,Atlético de Madrid,1.8,40000000.0,2022-2023,LaLiga
-koke,Atlético de Madrid,1.76,16000000.0,2022-2023,LaLiga
-saúl ñíguez,Atlético de Madrid,1.84,10000000.0,2022-2023,LaLiga
-pablo barrios,Atlético de Madrid,1.81,5000000.0,2022-2023,LaLiga
-alberto moreno,Without Club,1.75,150000.0,2022-2023,LaLiga
-aitor gismera,Atlético Madrileño,1.82,150000.0,2022-2023,LaLiga
-marcos llorente,Atlético de Madrid,1.84,35000000.0,2022-2023,LaLiga
-thomas lemar,Atlético de Madrid,1.71,22000000.0,2022-2023,LaLiga
-antonio alemán,CD San Roque de Lepe,,,2022-2023,LaLiga
-yannick carrasco,Al-Shabab FC,1.81,25000000.0,2022-2023,LaLiga
-salim el jebari,Atlético Madrileño,1.78,,2022-2023,LaLiga
-ángel correa,Tigres UANL,1.71,30000000.0,2022-2023,LaLiga
-diego bri,Córdoba CF,1.77,150000.0,2022-2023,LaLiga
-joão félix,Chelsea FC,1.81,50000000.0,2022-2023,LaLiga
-matheus cunha,Manchester United,1.83,25000000.0,2022-2023,LaLiga
-antoine griezmann,Atlético de Madrid,1.76,25000000.0,2022-2023,LaLiga
-álvaro morata,Galatasaray,1.89,20000000.0,2022-2023,LaLiga
-memphis depay,Sport Club Corinthians Paulista,1.78,14000000.0,2022-2023,LaLiga
-carlos martín,Atlético de Madrid,1.8,500000.0,2022-2023,LaLiga
-abde raihani,Atlético Madrileño,1.87,,2022-2023,LaLiga
-álex remiro,Real Sociedad,1.91,25000000.0,2022-2023,LaLiga
-andoni zubiaurre,Johor Darul Ta'zim,1.89,300000.0,2022-2023,LaLiga
-unai marrero,Real Sociedad,1.89,250000.0,2022-2023,LaLiga
-egoitz arana,Real Sociedad B,1.97,50000.0,2022-2023,LaLiga
-robin le normand,Atlético de Madrid,1.87,35000000.0,2022-2023,LaLiga
-igor zubeldia,Real Sociedad,1.81,15000000.0,2022-2023,LaLiga
-aritz elustondo,Real Sociedad,1.8,14000000.0,2022-2023,LaLiga
-jon pacheco,Real Sociedad,1.84,6000000.0,2022-2023,LaLiga
-aritz arambarri,SD Eibar,1.86,500000.0,2022-2023,LaLiga
-aihen muñoz,Real Sociedad,1.75,6000000.0,2022-2023,LaLiga
-diego rico,Getafe CF,1.83,3000000.0,2022-2023,LaLiga
-jonathan gómez,Albacete Balompié,1.78,500000.0,2022-2023,LaLiga
-andoni gorosabel,Athletic Bilbao,1.74,9000000.0,2022-2023,LaLiga
-martín zubimendi,Arsenal FC,1.81,40000000.0,2022-2023,LaLiga
-asier illarramendi,Without Club,1.79,2000000.0,2022-2023,LaLiga
-urko gonzález de zárate,Real Sociedad,1.89,700000.0,2022-2023,LaLiga
-mikel merino,Arsenal FC,1.89,50000000.0,2022-2023,LaLiga
-ander guevara,Deportivo Alavés,1.8,2500000.0,2022-2023,LaLiga
-beñat turrientes,Real Sociedad,1.81,2000000.0,2022-2023,LaLiga
-jon ander olasagasti,Levante UD,1.76,1000000.0,2022-2023,LaLiga
-brais méndez,Real Sociedad,1.84,25000000.0,2022-2023,LaLiga
-david silva,nan,1.7,4000000.0,2022-2023,LaLiga
-pablo marín,Real Sociedad,1.78,1000000.0,2022-2023,LaLiga
-jon magunazelaia,SD Eibar,1.8,700000.0,2022-2023,LaLiga
-ander barrenetxea,Real Sociedad,1.75,6000000.0,2022-2023,LaLiga
-martín merquelanz,Without Club,1.76,800000.0,2022-2023,LaLiga
-takefusa kubo,Real Sociedad,1.73,25000000.0,2022-2023,LaLiga
-mohamed-ali cho,OGC Nice,1.82,12000000.0,2022-2023,LaLiga
-álex sola,Getafe CF,1.78,3000000.0,2022-2023,LaLiga
-robert navarro,Athletic Bilbao,1.78,3000000.0,2022-2023,LaLiga
-ander martín,Burgos CF,1.77,400000.0,2022-2023,LaLiga
-alexander isak,Newcastle United,1.92,70000000.0,2022-2023,LaLiga
-mikel oyarzabal,Real Sociedad,1.81,40000000.0,2022-2023,LaLiga
-umar sadiq,Real Sociedad,1.91,18000000.0,2022-2023,LaLiga
-alexander sørloth,Atlético de Madrid,1.95,12000000.0,2022-2023,LaLiga
-jon karrikaburu,Real Sociedad,1.83,5000000.0,2022-2023,LaLiga
-carlos fernández,Real Sociedad,1.85,3000000.0,2022-2023,LaLiga
-gerónimo rulli,Olympique Marseille,1.89,10000000.0,2022-2023,LaLiga
-filip jørgensen,Chelsea FC,1.92,1500000.0,2022-2023,LaLiga
-pepe reina,nan,1.88,700000.0,2022-2023,LaLiga
-iker álvarez,Córdoba CF,1.9,500000.0,2022-2023,LaLiga
-gianni cassaro,CE Sabadell FC,1.92,100000.0,2022-2023,LaLiga
-pau torres,Aston Villa,1.92,45000000.0,2022-2023,LaLiga
-jorge cuenca,Fulham FC,1.9,5000000.0,2022-2023,LaLiga
-aïssa mandi,LOSC Lille,1.86,3000000.0,2022-2023,LaLiga
-mamadou mbacke,FC Barcelona Atlètic,1.89,2800000.0,2022-2023,LaLiga
-raúl albiol,Without Club,1.9,2500000.0,2022-2023,LaLiga
-adrián de la fuente,Levante UD,1.79,800000.0,2022-2023,LaLiga
-pervis estupiñán,Brighton & Hove Albion,1.75,32000000.0,2022-2023,LaLiga
-alfonso pedraza,Villarreal CF,1.84,15000000.0,2022-2023,LaLiga
-johan mojica,RCD Mallorca,1.85,3000000.0,2022-2023,LaLiga
-alberto moreno,Como 1907,1.71,3000000.0,2022-2023,LaLiga
-dani tasende,Real Zaragoza,1.72,700000.0,2022-2023,LaLiga
-carlos romero,RCD Espanyol Barcelona,1.74,100000.0,2022-2023,LaLiga
-juan foyth,Villarreal CF,1.87,25000000.0,2022-2023,LaLiga
-kiko femenía,Getafe CF,1.74,2500000.0,2022-2023,LaLiga
-sergio carreira,Celta de Vigo,1.7,1500000.0,2022-2023,LaLiga
-marcos sánchez,CD Numancia,1.78,,2022-2023,LaLiga
-étienne capoue,Without Club,1.89,3000000.0,2022-2023,LaLiga
-francis coquelin,FC Nantes,1.77,3000000.0,2022-2023,LaLiga
-dani parejo,Villarreal CF,1.82,6000000.0,2022-2023,LaLiga
-manu morlanes,RCD Mallorca,1.78,4000000.0,2022-2023,LaLiga
-manu trigueros,Granada CF,1.78,4000000.0,2022-2023,LaLiga
-ramón terrats,RCD Espanyol Barcelona,1.81,4000000.0,2022-2023,LaLiga
-alberto del moral,Real Oviedo,1.85,1000000.0,2022-2023,LaLiga
-carlo garcía,Villarreal CF B,1.82,800000.0,2022-2023,LaLiga
-antonio pacheco,Albacete Balompié,1.84,400000.0,2022-2023,LaLiga
-rodri alonso,Moreirense FC,1.72,100000.0,2022-2023,LaLiga
-giovani lo celso,Real Betis Balompié,1.77,14000000.0,2022-2023,LaLiga
-arnaut danjuma,Villarreal CF,1.78,25000000.0,2022-2023,LaLiga
-álex baena,Atlético de Madrid,1.74,20000000.0,2022-2023,LaLiga
-diego collado,Gil Vicente FC,1.83,1000000.0,2022-2023,LaLiga
-yéremy pino,Villarreal CF,1.72,40000000.0,2022-2023,LaLiga
-samuel chukwueze,AC Milan,1.72,25000000.0,2022-2023,LaLiga
-haissem hassan,Real Oviedo,1.75,1500000.0,2022-2023,LaLiga
-nicolas jackson,Chelsea FC,1.87,30000000.0,2022-2023,LaLiga
-gerard moreno,Villarreal CF,1.8,20000000.0,2022-2023,LaLiga
-fer niño,Burgos CF,1.91,3000000.0,2022-2023,LaLiga
-josé luis morales,Levante UD,1.8,3000000.0,2022-2023,LaLiga
-jorge pascual,Villarreal CF,1.87,,2022-2023,LaLiga
-giorgi mamardashvili,Liverpool FC,1.97,25000000.0,2022-2023,LaLiga
-jaume doménech,Without Club,1.85,1000000.0,2022-2023,LaLiga
-iago herrerín,Without Club,1.87,500000.0,2022-2023,LaLiga
-emilio bernad,CD Teruel,1.84,300000.0,2022-2023,LaLiga
-cristian rivero,Valencia CF,1.88,200000.0,2022-2023,LaLiga
-charlie pérez,Real Unión Club,,25000.0,2022-2023,LaLiga
-mouctar diakhaby,Valencia CF,1.92,6000000.0,2022-2023,LaLiga
-cenk özkacar,Valencia CF,1.9,5000000.0,2022-2023,LaLiga
-eray cömert,Valencia CF,1.83,3500000.0,2022-2023,LaLiga
-gabriel paulista,Besiktas JK,1.85,2500000.0,2022-2023,LaLiga
-cristhian mosquera,Valencia CF,1.91,1000000.0,2022-2023,LaLiga
-rubén iranzo,Valencia Mestalla,1.82,200000.0,2022-2023,LaLiga
-josé gayà,Valencia CF,1.72,30000000.0,2022-2023,LaLiga
-jesús vázquez,Valencia CF,1.82,3000000.0,2022-2023,LaLiga
-toni lato,RCD Mallorca,1.71,2500000.0,2022-2023,LaLiga
-thierry correia,Valencia CF,1.76,8000000.0,2022-2023,LaLiga
-dimitri foulquier,Valencia CF,1.83,2500000.0,2022-2023,LaLiga
-hugo guillamón,Valencia CF,1.78,14000000.0,2022-2023,LaLiga
-uros racic,Aris Thessaloniki,1.93,6500000.0,2022-2023,LaLiga
-carlos soler,Paris Saint-Germain,1.8,25000000.0,2022-2023,LaLiga
-yunus musah,AC Milan,1.78,18000000.0,2022-2023,LaLiga
-nico gonzález,Manchester City,1.88,10000000.0,2022-2023,LaLiga
-ilaix moriba,Celta de Vigo,1.85,4000000.0,2022-2023,LaLiga
-javi guerra,Valencia CF,1.87,2000000.0,2022-2023,LaLiga
-koba koindredi,FC Basel 1893,1.84,1000000.0,2022-2023,LaLiga
-tiago ribeiro,CD Feirense,1.83,200000.0,2022-2023,LaLiga
-yellu santiago,Without Club,1.92,100000.0,2022-2023,LaLiga
-andré almeida,Valencia CF,1.76,20000000.0,2022-2023,LaLiga
-justin kluivert,AFC Bournemouth,1.72,14000000.0,2022-2023,LaLiga
-samuel lino,Atlético de Madrid,1.77,16000000.0,2022-2023,LaLiga
-samu castillejo,Johor Darul Ta'zim,1.82,6000000.0,2022-2023,LaLiga
-diego lópez,Valencia CF,1.72,1500000.0,2022-2023,LaLiga
-fran pérez,Valencia CF,1.76,500000.0,2022-2023,LaLiga
-manu vallejo,AD Ceuta FC,1.67,2400000.0,2022-2023,LaLiga
-maxi gómez,Club Nacional,1.86,7000000.0,2022-2023,LaLiga
-hugo duro,Valencia CF,1.77,4000000.0,2022-2023,LaLiga
-edinson cavani,CA Boca Juniors,1.84,3000000.0,2022-2023,LaLiga
-marcos andré,Real Valladolid CF,1.85,2500000.0,2022-2023,LaLiga
-alberto marí,Valencia CF,1.83,800000.0,2022-2023,LaLiga
-mario dominguez,Valencia Mestalla,1.75,50000.0,2022-2023,LaLiga
-rui silva,Sporting CP,1.91,15000000.0,2022-2023,LaLiga
-dani martín,CD Tenerife,1.87,1500000.0,2022-2023,LaLiga
-claudio bravo,nan,1.84,1000000.0,2022-2023,LaLiga
-fran vieites,Real Betis Balompié,1.96,200000.0,2022-2023,LaLiga
-germán garcía,Betis Deportivo Balompié,,,2022-2023,LaLiga
-luiz felipe,Rayo Vallecano,1.87,15000000.0,2022-2023,LaLiga
-edgar gonzález,UD Almería,1.92,9000000.0,2022-2023,LaLiga
-germán pezzella,CA River Plate,1.87,5000000.0,2022-2023,LaLiga
-víctor ruiz,nan,1.84,1200000.0,2022-2023,LaLiga
-félix garreta,Betis Deportivo Balompié,1.83,200000.0,2022-2023,LaLiga
-ricardo visus,Widzew Lodz,1.92,150000.0,2022-2023,LaLiga
-álex moreno,Aston Villa,1.79,15000000.0,2022-2023,LaLiga
-abner,Olympique Lyon,1.81,7000000.0,2022-2023,LaLiga
-juan miranda,Bologna FC 1909,1.85,7000000.0,2022-2023,LaLiga
-youssouf sabaly,Al-Duhail SC,1.73,5000000.0,2022-2023,LaLiga
-aitor ruibal,Real Betis Balompié,1.76,5000000.0,2022-2023,LaLiga
-martín montoya,Without Club,1.75,1200000.0,2022-2023,LaLiga
-fran delgado,SC Farense,1.81,350000.0,2022-2023,LaLiga
-guido rodríguez,West Ham United,1.85,28000000.0,2022-2023,LaLiga
-william carvalho,Without Club,1.87,14000000.0,2022-2023,LaLiga
-paul akouokou,Olympique Lyon,1.81,3500000.0,2022-2023,LaLiga
-andrés guardado,nan,1.67,1500000.0,2022-2023,LaLiga
-víctor camarasa,Without Club,1.83,800000.0,2022-2023,LaLiga
-quique fernández,RC Deportivo Fabril,1.77,150000.0,2022-2023,LaLiga
-nabil fekir,Al-Jazira Club,1.73,20000000.0,2022-2023,LaLiga
-sergio canales,CF Monterrey,1.78,15000000.0,2022-2023,LaLiga
-dani pérez,Betis Deportivo Balompié,1.73,300000.0,2022-2023,LaLiga
-juanmi,Getafe CF,1.72,12000000.0,2022-2023,LaLiga
-juan cruz,CD Leganés,1.8,1500000.0,2022-2023,LaLiga
-josé alonso lara,Without Club,1.62,350000.0,2022-2023,LaLiga
-luiz henrique,Zenit St. Petersburg,1.82,15000000.0,2022-2023,LaLiga
-rodri sánchez,Al-Arabi SC,1.75,8000000.0,2022-2023,LaLiga
-rober gonzález,NEC Nijmegen,1.69,2000000.0,2022-2023,LaLiga
-joaquín,nan,1.81,1500000.0,2022-2023,LaLiga
-borja iglesias,Real Betis Balompié,1.87,20000000.0,2022-2023,LaLiga
-willian josé,Esporte Clube Bahia,1.86,6000000.0,2022-2023,LaLiga
-ayoze pérez,Villarreal CF,1.78,6000000.0,2022-2023,LaLiga
-loren morón,Aris Thessaloniki,1.85,2000000.0,2022-2023,LaLiga
-bono,Al-Hilal SFC,1.95,12000000.0,2022-2023,LaLiga
-marko dmitrovic,RCD Espanyol Barcelona,1.89,4000000.0,2022-2023,LaLiga
-alberto flores,Sevilla Atlético,1.87,200000.0,2022-2023,LaLiga
-matías árbol,Club Atlético Antoniano,1.84,25000.0,2022-2023,LaLiga
-marius herzig,SV Schalding-Heining,1.88,,2022-2023,LaLiga
-loïc badé,Sevilla FC,1.91,12000000.0,2022-2023,LaLiga
-tanguy nianzou,Sevilla FC,1.91,7500000.0,2022-2023,LaLiga
-marcão,Sevilla FC,1.85,7500000.0,2022-2023,LaLiga
-karim rekik,Al-Jazira Club,1.86,4000000.0,2022-2023,LaLiga
-kike salas,Sevilla FC,1.88,1000000.0,2022-2023,LaLiga
-xavi sintes,Córdoba CF,1.9,150000.0,2022-2023,LaLiga
-marcos acuña,CA River Plate,1.72,10000000.0,2022-2023,LaLiga
-alex telles,Botafogo de Futebol e Regatas,1.81,7500000.0,2022-2023,LaLiga
-pablo pérez,Atlético Madrileño,1.74,200000.0,2022-2023,LaLiga
-diego hormigo,Without Club,1.82,100000.0,2022-2023,LaLiga
-gonzalo montiel,CA River Plate,1.75,12000000.0,2022-2023,LaLiga
-josé ángel carmona,Sevilla FC,1.84,4000000.0,2022-2023,LaLiga
-jesús navas,nan,1.7,3000000.0,2022-2023,LaLiga
-pape gueye,Villarreal CF,1.89,10000000.0,2022-2023,LaLiga
-nemanja gudelj,Sevilla FC,1.87,4000000.0,2022-2023,LaLiga
-fernando,Sport Club Internacional,1.83,3000000.0,2022-2023,LaLiga
-joan jordán,Sevilla FC,1.85,9000000.0,2022-2023,LaLiga
-óliver torres,CF Monterrey,1.75,9000000.0,2022-2023,LaLiga
-ivan rakitic,nan,1.84,4000000.0,2022-2023,LaLiga
-thomas delaney,FC Copenhagen,1.82,2000000.0,2022-2023,LaLiga
-manu bueno,Sevilla Atlético,1.78,300000.0,2022-2023,LaLiga
-pedro ortiz,Córdoba CF,1.84,200000.0,2022-2023,LaLiga
-isco,Real Betis Balompié,1.76,5000000.0,2022-2023,LaLiga
-nacho quintana,CD Eldense,1.78,200000.0,2022-2023,LaLiga
-bryan gil,Tottenham Hotspur,1.75,15000000.0,2022-2023,LaLiga
-lucas ocampos,CF Monterrey,1.87,12000000.0,2022-2023,LaLiga
-papu gómez,Calcio Padova,1.67,3000000.0,2022-2023,LaLiga
-erik lamela,AEK Athens,1.84,9000000.0,2022-2023,LaLiga
-jesús corona,CF Monterrey,1.73,8000000.0,2022-2023,LaLiga
-adnan januzaj,Sevilla FC,1.86,6000000.0,2022-2023,LaLiga
-suso,Cádiz CF,1.77,6000000.0,2022-2023,LaLiga
-munir el haddadi,Without Club,1.77,3500000.0,2022-2023,LaLiga
-carlos álvarez,Levante UD,1.68,400000.0,2022-2023,LaLiga
-youssef en-nesyri,Fenerbahce,1.88,20000000.0,2022-2023,LaLiga
-rafa mir,Sevilla FC,1.91,10000000.0,2022-2023,LaLiga
-kasper dolberg,RSC Anderlecht,1.87,7000000.0,2022-2023,LaLiga
-iván romero,Levante UD,1.73,800000.0,2022-2023,LaLiga
-unai simón,Athletic Bilbao,1.9,25000000.0,2022-2023,LaLiga
-julen agirrezabala,Valencia CF,1.87,5000000.0,2022-2023,LaLiga
-ibon ispizua,Barakaldo CF,1.85,100000.0,2022-2023,LaLiga
-ander iru,Sestao River,1.88,100000.0,2022-2023,LaLiga
-yeray álvarez,Athletic Bilbao,1.82,15000000.0,2022-2023,LaLiga
-dani vivian,Athletic Bilbao,1.84,14000000.0,2022-2023,LaLiga
-iñigo martínez,FC Barcelona,1.82,10000000.0,2022-2023,LaLiga
-aitor paredes,Athletic Bilbao,1.85,1000000.0,2022-2023,LaLiga
-yuri berchiche,Athletic Bilbao,1.81,2000000.0,2022-2023,LaLiga
-mikel balenziaga,nan,1.77,500000.0,2022-2023,LaLiga
-iñigo lekue,Athletic Bilbao,1.8,3000000.0,2022-2023,LaLiga
-óscar de marcos,nan,1.82,1800000.0,2022-2023,LaLiga
-ander capa,nan,1.75,1800000.0,2022-2023,LaLiga
-mikel vesga,Athletic Bilbao,1.91,6000000.0,2022-2023,LaLiga
-peru nolaskoain,SD Eibar,1.86,1000000.0,2022-2023,LaLiga
-unai vencedor,Athletic Bilbao,1.76,9000000.0,2022-2023,LaLiga
-oier zarraga,Udinese Calcio,1.75,3000000.0,2022-2023,LaLiga
-ander herrera,CA Boca Juniors,1.82,2500000.0,2022-2023,LaLiga
-dani garcía,Olympiacos Piraeus,1.8,2000000.0,2022-2023,LaLiga
-junior bita,Bilbao Athletic,1.82,50000.0,2022-2023,LaLiga
-oihan sancet,Athletic Bilbao,1.88,30000000.0,2022-2023,LaLiga
-iker muniain,nan,1.69,9000000.0,2022-2023,LaLiga
-raúl garcía,nan,1.84,2500000.0,2022-2023,LaLiga
-unai gómez,Athletic Bilbao,1.83,100000.0,2022-2023,LaLiga
-nico williams,Athletic Bilbao,1.81,30000000.0,2022-2023,LaLiga
-álex berenguer,Athletic Bilbao,1.75,15000000.0,2022-2023,LaLiga
-jon morcillo,Albacete Balompié,1.83,3000000.0,2022-2023,LaLiga
-iñaki williams,Athletic Bilbao,1.86,25000000.0,2022-2023,LaLiga
-adu ares,Athletic Bilbao,1.83,500000.0,2022-2023,LaLiga
-asier villalibre,Deportivo Alavés,1.82,2500000.0,2022-2023,LaLiga
-gorka guruzeta,Athletic Bilbao,1.88,2000000.0,2022-2023,LaLiga
-sergio herrera,CA Osasuna,1.92,8000000.0,2022-2023,LaLiga
-aitor fernández,CA Osasuna,1.82,3000000.0,2022-2023,LaLiga
-juan pérez,SD Huesca,1.91,600000.0,2022-2023,LaLiga
-darío ramos,CD Arenteiro,1.91,200000.0,2022-2023,LaLiga
-pablo valencia,Without Club,1.88,200000.0,2022-2023,LaLiga
-yoel ramírez,CD Tudelano,1.84,50000.0,2022-2023,LaLiga
-david garcía,Al-Rayyan SC,1.86,20000000.0,2022-2023,LaLiga
-unai garcía,Panetolikos GFS,1.86,2500000.0,2022-2023,LaLiga
-aridane hernández,Without Club,1.88,1000000.0,2022-2023,LaLiga
-jorge herrando,CA Osasuna,1.92,400000.0,2022-2023,LaLiga
-manu sánchez,Celta de Vigo,1.71,10000000.0,2022-2023,LaLiga
-juan cruz,CA Osasuna,1.82,2500000.0,2022-2023,LaLiga
-nacho vidal,Real Oviedo,1.8,5000000.0,2022-2023,LaLiga
-rubén peña,CD Leganés,1.7,2500000.0,2022-2023,LaLiga
-diego moreno,SD Ponferradina,1.77,800000.0,2022-2023,LaLiga
-lucas torró,CA Osasuna,1.9,8000000.0,2022-2023,LaLiga
-iker muñoz,CA Osasuna,1.8,500000.0,2022-2023,LaLiga
-jon moncayola,CA Osasuna,1.82,12000000.0,2022-2023,LaLiga
-darko brasanac,Without Club,1.78,2000000.0,2022-2023,LaLiga
-pablo ibáñez,Deportivo Alavés,1.79,1500000.0,2022-2023,LaLiga
-aimar oroz,CA Osasuna,1.77,15000000.0,2022-2023,LaLiga
-roberto torres,Without Club,1.78,1200000.0,2022-2023,LaLiga
-javi martínez,SD Eibar,1.81,1000000.0,2022-2023,LaLiga
-abde ezzalzouli,Real Betis Balompié,1.77,15000000.0,2022-2023,LaLiga
-moi gómez,CA Osasuna,1.76,10000000.0,2022-2023,LaLiga
-rubén garcía,CA Osasuna,1.72,6000000.0,2022-2023,LaLiga
-kike barja,CA Osasuna,1.79,4000000.0,2022-2023,LaLiga
-iker benito,CA Osasuna,1.76,300000.0,2022-2023,LaLiga
-chimy ávila,Real Betis Balompié,1.72,9000000.0,2022-2023,LaLiga
-ante budimir,CA Osasuna,1.9,6000000.0,2022-2023,LaLiga
-kike garcía,RCD Espanyol Barcelona,1.86,1800000.0,2022-2023,LaLiga
-paulo gazzaniga,Girona FC,1.95,3000000.0,2022-2023,LaLiga
-juan carlos,Girona FC,1.87,300000.0,2022-2023,LaLiga
-toni fuidias,Girona FC,1.95,300000.0,2022-2023,LaLiga
-lluc matas,Without Club,,,2022-2023,LaLiga
-santiago bueno,Wolverhampton Wanderers,1.9,8000000.0,2022-2023,LaLiga
-david lópez,Girona FC,1.85,2000000.0,2022-2023,LaLiga
-alexander callens,AEK Athens,1.86,1800000.0,2022-2023,LaLiga
-bernardo espinosa,nan,1.92,1500000.0,2022-2023,LaLiga
-juanpe,Atlético de San Luis,1.9,1500000.0,2022-2023,LaLiga
-eric monjonell,UD Ibiza,1.87,300000.0,2022-2023,LaLiga
-biel farrés,Girona FC B,1.8,,2022-2023,LaLiga
-miguel gutiérrez,Girona FC,1.8,10000000.0,2022-2023,LaLiga
-javi hernández,CD Leganés,1.8,2500000.0,2022-2023,LaLiga
-arnau martínez,Girona FC,1.82,15000000.0,2022-2023,LaLiga
-yan couto,Borussia Dortmund,1.68,4000000.0,2022-2023,LaLiga
-oriol romeu,FC Barcelona,1.83,5000000.0,2022-2023,LaLiga
-ibrahima kébé,Without Club,1.86,500000.0,2022-2023,LaLiga
-aleix garcía,Bayer 04 Leverkusen,1.73,10000000.0,2022-2023,LaLiga
-yangel herrera,Girona FC,1.84,5000000.0,2022-2023,LaLiga
-ramón terrats,RCD Espanyol Barcelona,1.81,4000000.0,2022-2023,LaLiga
-álex sala,Córdoba CF,1.85,200000.0,2022-2023,LaLiga
-iván martín,Girona FC,1.78,3000000.0,2022-2023,LaLiga
-reinier,Real Madrid,1.85,2000000.0,2022-2023,LaLiga
-borja garcía,nan,1.75,1000000.0,2022-2023,LaLiga
-samu saiz,Eyüpspor,1.74,900000.0,2022-2023,LaLiga
-ricard artero,Girona FC B,1.81,,2022-2023,LaLiga
-rodrigo riquelme,Real Betis Balompié,1.74,12000000.0,2022-2023,LaLiga
-toni villa,SD Eibar,1.72,2500000.0,2022-2023,LaLiga
-óscar ureña,FC Barcelona Atlètic,1.71,400000.0,2022-2023,LaLiga
-joel roca,Girona FC,1.76,,2022-2023,LaLiga
-viktor tsygankov,Girona FC,1.78,22000000.0,2022-2023,LaLiga
-valery fernández,Girona FC,1.82,1500000.0,2022-2023,LaLiga
-manu vallejo,AD Ceuta FC,1.67,2400000.0,2022-2023,LaLiga
-taty castellanos,SS Lazio,1.78,15000000.0,2022-2023,LaLiga
-cristhian stuani,Girona FC,1.84,2000000.0,2022-2023,LaLiga
-pau víctor,FC Barcelona,1.84,300000.0,2022-2023,LaLiga
-dawda camara,Girona FC B,,,2022-2023,LaLiga
-agustín marchesín,CA Boca Juniors,1.88,2000000.0,2022-2023,LaLiga
-iván villar,Celta de Vigo,1.86,2000000.0,2022-2023,LaLiga
-christian joel,Sporting Gijón,1.93,500000.0,2022-2023,LaLiga
-coke carrillo,RC Celta Fortuna,1.88,100000.0,2022-2023,LaLiga
-ruly garcía,FC Vizela,1.88,50000.0,2022-2023,LaLiga
-diego alves,nan,1.87,,2022-2023,LaLiga
-joseph aidoo,Celta de Vigo,1.81,8000000.0,2022-2023,LaLiga
-unai núñez,Celta de Vigo,1.86,6000000.0,2022-2023,LaLiga
-carlos domínguez,Celta de Vigo,1.87,800000.0,2022-2023,LaLiga
-sergio barcia,UD Las Palmas,1.86,300000.0,2022-2023,LaLiga
-javi domínguez,Mérida AD,1.95,200000.0,2022-2023,LaLiga
-javi galán,Atlético de Madrid,1.72,12000000.0,2022-2023,LaLiga
-fernando medrano,CD Mirandés,1.72,200000.0,2022-2023,LaLiga
-tincho conde,RC Celta Fortuna,,150000.0,2022-2023,LaLiga
-hugo mallo,Without Club,1.73,3000000.0,2022-2023,LaLiga
-óscar mingueza,Celta de Vigo,1.84,2500000.0,2022-2023,LaLiga
-kevin vázquez,Sporting Gijón,1.75,1000000.0,2022-2023,LaLiga
-renato tapia,Al-Wasl FC,1.85,6000000.0,2022-2023,LaLiga
-fran beltrán,Celta de Vigo,1.65,15000000.0,2022-2023,LaLiga
-luca de la torre,San Diego FC,1.77,3000000.0,2022-2023,LaLiga
-hugo sotelo,Celta de Vigo,1.8,150000.0,2022-2023,LaLiga
-augusto solari,CA Rosario Central,1.78,1500000.0,2022-2023,LaLiga
-gabri veiga,FC Porto,1.85,30000000.0,2022-2023,LaLiga
-óscar rodríguez,Without Club,1.74,8000000.0,2022-2023,LaLiga
-miguel baeza,CD Nacional,1.77,900000.0,2022-2023,LaLiga
-franco cervi,Celta de Vigo,1.66,3000000.0,2022-2023,LaLiga
-williot swedberg,Celta de Vigo,1.87,3000000.0,2022-2023,LaLiga
-hugo álvarez,Celta de Vigo,1.76,200000.0,2022-2023,LaLiga
-carles pérez,Aris Thessaloniki,1.73,5000000.0,2022-2023,LaLiga
-miguel rodríguez,FC Utrecht,1.79,1000000.0,2022-2023,LaLiga
-jørgen strand larsen,Wolverhampton Wanderers,1.93,11000000.0,2022-2023,LaLiga
-iago aspas,Celta de Vigo,1.76,6000000.0,2022-2023,LaLiga
-haris seferovic,Without Club,1.89,4000000.0,2022-2023,LaLiga
-gonçalo paciência,Sport Club do Recife,1.84,2000000.0,2022-2023,LaLiga
-pablo durán,Celta de Vigo,1.76,250000.0,2022-2023,LaLiga
-fran lópez,Alondras CF,,,2022-2023,LaLiga
-benjamin lecomte,Montpellier HSC,1.86,4000000.0,2022-2023,LaLiga
-fernando pacheco,Without Club,1.87,2500000.0,2022-2023,LaLiga
-álvaro fernández,Sevilla FC,1.85,2500000.0,2022-2023,LaLiga
-joan garcía,FC Barcelona,1.94,400000.0,2022-2023,LaLiga
-ángel fortuño,RCD Espanyol Barcelona,1.83,300000.0,2022-2023,LaLiga
-césar montes,Lokomotiv Moscow,1.95,8000000.0,2022-2023,LaLiga
-leandro cabrera,RCD Espanyol Barcelona,1.9,2500000.0,2022-2023,LaLiga
-fernando calero,RCD Espanyol Barcelona,1.84,2000000.0,2022-2023,LaLiga
-sergi gómez,Without Club,1.85,2000000.0,2022-2023,LaLiga
-simo keddari,Al-Arabi SC,1.83,500000.0,2022-2023,LaLiga
-brian oliván,Without Club,1.75,6000000.0,2022-2023,LaLiga
-adrià pedrosa,Sevilla FC,1.72,5000000.0,2022-2023,LaLiga
-ronaël pierre-gabriel,GNK Dinamo Zagreb,1.77,3500000.0,2022-2023,LaLiga
-óscar gil,Oud-Heverlee Leuven,1.75,3000000.0,2022-2023,LaLiga
-rubén sánchez,RCD Espanyol Barcelona,1.85,700000.0,2022-2023,LaLiga
-omar el hilali,RCD Espanyol Barcelona,1.83,500000.0,2022-2023,LaLiga
-vini souza,VfL Wolfsburg,1.87,6000000.0,2022-2023,LaLiga
-sergi darder,RCD Mallorca,1.8,16000000.0,2022-2023,LaLiga
-edu expósito,RCD Espanyol Barcelona,1.78,4000000.0,2022-2023,LaLiga
-keidi bare,Real Zaragoza,1.74,3000000.0,2022-2023,LaLiga
-josé gragera,RCD Espanyol Barcelona,1.86,2500000.0,2022-2023,LaLiga
-pol lozano,RCD Espanyol Barcelona,1.76,1500000.0,2022-2023,LaLiga
-roger martínez,Without Club,1.77,400000.0,2022-2023,LaLiga
-dani villahermosa,FC Andorra,1.72,250000.0,2022-2023,LaLiga
-nico melamed,UD Almería,1.73,6000000.0,2022-2023,LaLiga
-denis suárez,Villarreal CF,1.76,5000000.0,2022-2023,LaLiga
-javi puado,RCD Espanyol Barcelona,1.77,8000000.0,2022-2023,LaLiga
-josé carlos lazo,Albacete Balompié,1.78,2500000.0,2022-2023,LaLiga
-abde damar,CF Fuenlabrada,1.72,150000.0,2022-2023,LaLiga
-kenneth soler,Without Club,1.75,100000.0,2022-2023,LaLiga
-adrián embarba,UD Almería,1.73,2500000.0,2022-2023,LaLiga
-aleix vidal,nan,1.77,1500000.0,2022-2023,LaLiga
-luca koleosho,Burnley FC,1.75,1000000.0,2022-2023,LaLiga
-joselu,Al-Gharafa SC,1.91,6000000.0,2022-2023,LaLiga
-martin braithwaite,Grêmio Foot-Ball Porto Alegrense,1.77,5000000.0,2022-2023,LaLiga
-dani gómez,Real Zaragoza,1.78,1500000.0,2022-2023,LaLiga
-nabil touaizi,Albacete Balompié,1.83,200000.0,2022-2023,LaLiga
-fernando pacheco,Without Club,1.87,2500000.0,2022-2023,LaLiga
-fernando martínez,UD Almería,1.83,2000000.0,2022-2023,LaLiga
-diego mariño,Albacete Balompié,1.85,300000.0,2022-2023,LaLiga
-diego fuoli,CE Sabadell FC,1.88,200000.0,2022-2023,LaLiga
-srdjan babic,Spartak Moscow,1.94,3500000.0,2022-2023,LaLiga
-kaiky,UD Almería,1.82,3000000.0,2022-2023,LaLiga
-rodrigo ely,Grêmio Foot-Ball Porto Alegrense,1.88,3000000.0,2022-2023,LaLiga
-chumi,UD Almería,1.83,2000000.0,2022-2023,LaLiga
-sergio akieme,Stade Reims,1.75,7500000.0,2022-2023,LaLiga
-álex centelles,UD Almería,1.85,1500000.0,2022-2023,LaLiga
-álex pozo,Jagiellonia Bialystok,1.72,3000000.0,2022-2023,LaLiga
-houboulang mendes,UD Almería,1.85,2000000.0,2022-2023,LaLiga
-samú costa,RCD Mallorca,1.85,5000000.0,2022-2023,LaLiga
-iñigo eguaras,Without Club,1.81,1200000.0,2022-2023,LaLiga
-césar de la hoz,Without Club,1.79,1200000.0,2022-2023,LaLiga
-lucas robertone,UD Almería,1.69,7000000.0,2022-2023,LaLiga
-gonzalo melero,UD Almería,1.83,4000000.0,2022-2023,LaLiga
-arnau puigmal,UD Almería,1.73,2000000.0,2022-2023,LaLiga
-gui guedes,UD Almería,1.84,1200000.0,2022-2023,LaLiga
-martin svidersky,UD Almería B,1.81,500000.0,2022-2023,LaLiga
-marcos peña,UD Almería,1.8,,2022-2023,LaLiga
-largie ramazani,Leeds United,1.68,6000000.0,2022-2023,LaLiga
-lázaro,UD Almería,1.81,6000000.0,2022-2023,LaLiga
-josé carlos lazo,Albacete Balompié,1.78,2500000.0,2022-2023,LaLiga
-adrián embarba,UD Almería,1.73,2500000.0,2022-2023,LaLiga
-francisco portillo,Without Club,1.69,1500000.0,2022-2023,LaLiga
-curro sánchez,Burgos CF,1.76,1000000.0,2022-2023,LaLiga
-arvin appiah,UD Almería,1.77,500000.0,2022-2023,LaLiga
-carlos rojas,UD Almería B,1.76,,2022-2023,LaLiga
-umar sadiq,Real Sociedad,1.91,18000000.0,2022-2023,LaLiga
-el bilal touré,Atalanta BC,1.85,12000000.0,2022-2023,LaLiga
-luis suárez,UD Almería,1.81,8000000.0,2022-2023,LaLiga
-léo baptistão,UD Almería,1.83,1800000.0,2022-2023,LaLiga
-marko milovanovic,FC Alverca,1.97,1000000.0,2022-2023,LaLiga
-dyego sousa,Without Club,1.89,800000.0,2022-2023,LaLiga
-marciano sanca,UD Almería,1.82,,2022-2023,LaLiga
-predrag rajković,Al-Ittihad Club,1.91,10000000.0,2022-2023,LaLiga
-dominik greif,RCD Mallorca,1.97,1500000.0,2022-2023,LaLiga
-leo román,RCD Mallorca,1.89,300000.0,2022-2023,LaLiga
-pere garcía,RCD Mallorca B,1.93,25000.0,2022-2023,LaLiga
-martin valjent,RCD Mallorca,1.87,4500000.0,2022-2023,LaLiga
-antonio raíllo,RCD Mallorca,1.87,4000000.0,2022-2023,LaLiga
-josé copete,RCD Mallorca,1.9,3500000.0,2022-2023,LaLiga
-dennis hadzikadunic,FC Rostov,1.91,3000000.0,2022-2023,LaLiga
-matija nastasić,Without Club,1.87,1500000.0,2022-2023,LaLiga
-franco russo,Qatar SC,1.86,800000.0,2022-2023,LaLiga
-benjamín garay,Pontevedra CF,1.83,100000.0,2022-2023,LaLiga
-josep gayá,FC Zimbru Chisinau,1.85,100000.0,2022-2023,LaLiga
-ludwig augustinsson,RSC Anderlecht,1.81,2500000.0,2022-2023,LaLiga
-braian cufré,CA Central Córdoba (SdE),1.79,1200000.0,2022-2023,LaLiga
-jaume costa,Without Club,1.71,1200000.0,2022-2023,LaLiga
-marcos fernández,RCD Espanyol B,1.76,25000.0,2022-2023,LaLiga
-pablo maffeo,RCD Mallorca,1.72,8000000.0,2022-2023,LaLiga
-giovanni gonzález,FC Krasnodar,1.73,2000000.0,2022-2023,LaLiga
-rodrigo battaglia,CA Boca Juniors,1.87,1500000.0,2022-2023,LaLiga
-manu morlanes,RCD Mallorca,1.78,4000000.0,2022-2023,LaLiga
-iñigo ruiz de galarreta,Athletic Bilbao,1.75,3000000.0,2022-2023,LaLiga
-iddrisu baba,UD Almería,1.82,3000000.0,2022-2023,LaLiga
-antonio sánchez,RCD Mallorca,1.79,2500000.0,2022-2023,LaLiga
-clément grenier,Without Club,1.86,800000.0,2022-2023,LaLiga
-miquel llabrés,CE Andratx,,100000.0,2022-2023,LaLiga
-luis montiel,RCD Mallorca B,,25000.0,2022-2023,LaLiga
-rubén quintanilla,UD Almería,,25000.0,2022-2023,LaLiga
-dani rodríguez,RCD Mallorca,1.78,1200000.0,2022-2023,LaLiga
-lago júnior,CD Lugo,1.8,900000.0,2022-2023,LaLiga
-javi llabrés,RCD Mallorca,1.74,300000.0,2022-2023,LaLiga
-kang-in lee,Paris Saint-Germain,1.74,22000000.0,2022-2023,LaLiga
-amath ndiaye,Real Valladolid CF,1.73,2000000.0,2022-2023,LaLiga
-tòfol montiel,Without Club,1.78,150000.0,2022-2023,LaLiga
-miguelito,CD Atlético Baleares,1.75,50000.0,2022-2023,LaLiga
-vedat muriqi,RCD Mallorca,1.94,15000000.0,2022-2023,LaLiga
-tino kadewere,Aris Thessaloniki,1.83,4000000.0,2022-2023,LaLiga
-abdón prats,RCD Mallorca,1.81,1200000.0,2022-2023,LaLiga
-ángel rodríguez,Without Club,1.71,1000000.0,2022-2023,LaLiga
-stole dimitrievski,Valencia CF,1.88,4000000.0,2022-2023,LaLiga
-miguel ángel morro,Leixões SC,1.95,600000.0,2022-2023,LaLiga
-diego lópez,nan,1.96,300000.0,2022-2023,LaLiga
-alejandro catena,CA Osasuna,1.94,8000000.0,2022-2023,LaLiga
-florian lejeune,Rayo Vallecano,1.9,4000000.0,2022-2023,LaLiga
-abdul mumin,Rayo Vallecano,1.88,1500000.0,2022-2023,LaLiga
-esteban saveljich,Real Murcia CF,1.87,500000.0,2022-2023,LaLiga
-fran garcía,Real Madrid,1.69,12000000.0,2022-2023,LaLiga
-pep chavarría,Rayo Vallecano,1.74,1500000.0,2022-2023,LaLiga
-iván balliu,Rayo Vallecano,1.72,4000000.0,2022-2023,LaLiga
-mario hernández,Without Club,1.77,600000.0,2022-2023,LaLiga
-mario suárez,nan,1.89,300000.0,2022-2023,LaLiga
-santi comesaña,Villarreal CF,1.88,7500000.0,2022-2023,LaLiga
-óscar valentín,Rayo Vallecano,1.77,5000000.0,2022-2023,LaLiga
-unai lópez,Rayo Vallecano,1.7,3500000.0,2022-2023,LaLiga
-pathé ciss,Rayo Vallecano,1.86,3000000.0,2022-2023,LaLiga
-diego méndez,Rayo Vallecano B,1.82,,2022-2023,LaLiga
-oscar trejo,Rayo Vallecano,1.8,3000000.0,2022-2023,LaLiga
-randy nteka,Rayo Vallecano,1.89,1800000.0,2022-2023,LaLiga
-josé pozo,Pogon Szczecin,1.71,1000000.0,2022-2023,LaLiga
-álvaro garcía,Rayo Vallecano,1.67,6000000.0,2022-2023,LaLiga
-bebé,UD Ibiza,1.9,800000.0,2022-2023,LaLiga
-pablo muñoz,CD Guadalajara,1.7,,2022-2023,LaLiga
-salvi sánchez,Without Club,1.7,1500000.0,2022-2023,LaLiga
-andrés martín,Racing Santander,1.78,1000000.0,2022-2023,LaLiga
-isi palazón,Rayo Vallecano,1.69,12000000.0,2022-2023,LaLiga
-sergio camello,Rayo Vallecano,1.82,10000000.0,2022-2023,LaLiga
-raúl de tomás,Al-Wakrah SC,1.8,8000000.0,2022-2023,LaLiga
-radamel falcao,Without Club,1.77,2000000.0,2022-2023,LaLiga
-jordi masip,nan,1.8,1000000.0,2022-2023,LaLiga
-sergio asenjo,nan,1.89,1000000.0,2022-2023,LaLiga
-álvaro aceves,Real Valladolid CF,1.9,200000.0,2022-2023,LaLiga
-javi sánchez,Real Valladolid CF,1.89,3000000.0,2022-2023,LaLiga
-joaquín fernández,Sporting Kansas City,1.9,3000000.0,2022-2023,LaLiga
-jawad el yamiq,Without Club,1.93,2000000.0,2022-2023,LaLiga
-zouhair feddal,nan,1.91,1300000.0,2022-2023,LaLiga
-víctor rofino,UD Leiria,1.85,100000.0,2022-2023,LaLiga
-david torres,Real Valladolid CF,1.82,50000.0,2022-2023,LaLiga
-lucas olaza,FC Krasnodar,1.73,2500000.0,2022-2023,LaLiga
-sergio escudero,Deportivo de La Coruña,1.76,1500000.0,2022-2023,LaLiga
-diego moreno,Without Club,1.75,100000.0,2022-2023,LaLiga
-iván fresneda,Sporting CP,1.83,15000000.0,2022-2023,LaLiga
-luis pérez,Without Club,1.73,1500000.0,2022-2023,LaLiga
-lucas rosa,Ajax Amsterdam,1.77,1000000.0,2022-2023,LaLiga
-martin hongla,Granada CF,1.82,3000000.0,2022-2023,LaLiga
-mickaël malsa,Wydad Casablanca,1.79,1500000.0,2022-2023,LaLiga
-monchu,Aris Thessaloniki,1.73,5000000.0,2022-2023,LaLiga
-kike pérez,Venezia FC,1.84,4500000.0,2022-2023,LaLiga
-álvaro aguado,Without Club,1.75,3000000.0,2022-2023,LaLiga
-roque mesa,Without Club,1.72,2500000.0,2022-2023,LaLiga
-mario maroto,Real Valladolid CF,1.76,150000.0,2022-2023,LaLiga
-alberto quintana,Antequera CF,1.86,100000.0,2022-2023,LaLiga
-selim amallah,Real Valladolid CF,1.85,3000000.0,2022-2023,LaLiga
-darwin machís,Without Club,1.71,3000000.0,2022-2023,LaLiga
-toni villa,SD Eibar,1.72,2500000.0,2022-2023,LaLiga
-kenedy,CF Pachuca,1.8,1500000.0,2022-2023,LaLiga
-tunde akinsola,Avs Futebol,1.75,50000.0,2022-2023,LaLiga
-gonzalo plata,CR Flamengo,1.78,5000000.0,2022-2023,LaLiga
-anuar,AD Ceuta FC,1.73,900000.0,2022-2023,LaLiga
-iván sánchez,Without Club,1.69,800000.0,2022-2023,LaLiga
-manu pozo,SC União Torreense,1.68,300000.0,2022-2023,LaLiga
-óscar plano,Without Club,1.79,3000000.0,2022-2023,LaLiga
-cyle larin,RCD Mallorca,1.88,8000000.0,2022-2023,LaLiga
-shon weissman,Granada CF,1.74,4000000.0,2022-2023,LaLiga
-sergi guardiola,Córdoba CF,1.85,2000000.0,2022-2023,LaLiga
-sergio león,Atlético Palma del Río CF,1.76,2000000.0,2022-2023,LaLiga
-juanjo narváez,Al-Jabalain FC,1.81,800000.0,2022-2023,LaLiga
-sekou gassama,Without Club,1.89,300000.0,2022-2023,LaLiga
-iván cédric,UD Las Palmas,1.87,300000.0,2022-2023,LaLiga
-roberto arroyo,CA Osasuna Promesas,1.81,300000.0,2022-2023,LaLiga
-edgar badia,Cultural Leonesa,1.8,3000000.0,2022-2023,LaLiga
-axel werner,CA Rosario Central,1.91,800000.0,2022-2023,LaLiga
-juanpe navarro,Without Club,1.84,,2022-2023,LaLiga
-jesús lópez,UD Almería B,1.87,,2022-2023,LaLiga
-luismi quirant,CD Eldense B,,,2022-2023,LaLiga
-lisandro magallán,CA Vélez Sarsfield,1.85,1800000.0,2022-2023,LaLiga
-enzo roco,Fatih Karagümrük,1.92,1500000.0,2022-2023,LaLiga
-diego gonzález,Without Club,1.85,1500000.0,2022-2023,LaLiga
-pedro bigas,Elche CF,1.81,1000000.0,2022-2023,LaLiga
-john donald,Elche CF,1.82,1000000.0,2022-2023,LaLiga
-federico fernández,nan,1.89,700000.0,2022-2023,LaLiga
-gonzalo verdú,Without Club,1.85,700000.0,2022-2023,LaLiga
-javi pamies,Valencia Mestalla,,,2022-2023,LaLiga
-manuel cocca,Arsenal FC,1.8,,2022-2023,LaLiga
-johan mojica,RCD Mallorca,1.85,3000000.0,2022-2023,LaLiga
-lautaro blanco,CA Boca Juniors,1.76,2800000.0,2022-2023,LaLiga
-carlos clerc,Without Club,1.81,1500000.0,2022-2023,LaLiga
-josé ángel carmona,Sevilla FC,1.84,4000000.0,2022-2023,LaLiga
-pol lirola,Olympique Marseille,1.83,2000000.0,2022-2023,LaLiga
-helibelton palacios,Millonarios FC,1.81,1200000.0,2022-2023,LaLiga
-carles marco,CD Laredo,1.83,,2022-2023,LaLiga
-gerard gumbau,Rayo Vallecano,1.88,3500000.0,2022-2023,LaLiga
-omar mascarell,RCD Mallorca,1.81,3000000.0,2022-2023,LaLiga
-raúl guti,Real Zaragoza,1.78,2500000.0,2022-2023,LaLiga
-domingos quina,Pafos FC,1.73,1800000.0,2022-2023,LaLiga
-pape cheikh,Al-Arabi SCC,1.8,900000.0,2022-2023,LaLiga
-branislav knezevic,Zeleznicar Pancevo,1.88,,2022-2023,LaLiga
-alejandro alfaro,SC União Torreense,1.83,,2022-2023,LaLiga
-rodrigo mendoza,Elche CF,1.82,,2022-2023,LaLiga
-álex collado,Al-Shamal SC,1.77,3000000.0,2022-2023,LaLiga
-nicolás fernández mercau,Elche CF,1.72,2000000.0,2022-2023,LaLiga
-randy nteka,Rayo Vallecano,1.89,1800000.0,2022-2023,LaLiga
-javier pastore,nan,1.87,500000.0,2022-2023,LaLiga
-pere milla,RCD Espanyol Barcelona,1.8,3000000.0,2022-2023,LaLiga
-tete morente,US Lecce,1.84,2500000.0,2022-2023,LaLiga
-fidel,Without Club,1.8,1000000.0,2022-2023,LaLiga
-josan,Elche CF,1.76,1000000.0,2022-2023,LaLiga
-lucas boyé,Granada CF,1.83,10000000.0,2022-2023,LaLiga
-ezequiel ponce,Houston Dynamo FC,1.81,2500000.0,2022-2023,LaLiga
-roger martí,Cádiz CF,1.79,2000000.0,2022-2023,LaLiga
-conan ledesma,CA River Plate,1.83,8000000.0,2022-2023,LaLiga
-david gil,Cádiz CF,1.86,700000.0,2022-2023,LaLiga
-victor aznar,Cádiz CF Mirandilla,1.92,50000.0,2022-2023,LaLiga
-nando almodóvar,Hércules CF,1.92,50000.0,2022-2023,LaLiga
-fali,Cádiz CF,1.86,2500000.0,2022-2023,LaLiga
-víctor chust,Cádiz CF,1.84,2500000.0,2022-2023,LaLiga
-jorge meré,Without Club,1.82,1200000.0,2022-2023,LaLiga
-luis hernández,Cádiz CF,1.82,1000000.0,2022-2023,LaLiga
-momo mbaye,Academia Puerto Cabello,1.92,700000.0,2022-2023,LaLiga
-juan cala,nan,1.86,600000.0,2022-2023,LaLiga
-carlos garcía,CE Sabadell FC,1.88,200000.0,2022-2023,LaLiga
-lautaro spatz,Algeciras CF,1.85,150000.0,2022-2023,LaLiga
-alfonso espino,Rayo Vallecano,1.72,3500000.0,2022-2023,LaLiga
-santiago arzamendia,Club Estudiantes de La Plata,1.72,1200000.0,2022-2023,LaLiga
-joseba zaldua,Without Club,1.74,2500000.0,2022-2023,LaLiga
-iza carcelén,Cádiz CF,1.7,1500000.0,2022-2023,LaLiga
-raúl parra,GD Estoril Praia,1.87,300000.0,2022-2023,LaLiga
-kikín,Atlético Sanluqueño CF,,50000.0,2022-2023,LaLiga
-antonio blanco,Deportivo Alavés,1.76,2500000.0,2022-2023,LaLiga
-tomás alarcón,CSD Colo-Colo,1.76,1500000.0,2022-2023,LaLiga
-josé mari,nan,1.82,400000.0,2022-2023,LaLiga
-jon ander garrido,nan,1.85,300000.0,2022-2023,LaLiga
-álex fernández,Cádiz CF,1.83,4000000.0,2022-2023,LaLiga
-rubén alcaraz,Cádiz CF,1.8,2000000.0,2022-2023,LaLiga
-gonzalo escalante,Cádiz CF,1.82,2000000.0,2022-2023,LaLiga
-fede san emeterio,Cádiz CF,1.76,2000000.0,2022-2023,LaLiga
-youba diarra,TSV Hartberg,1.78,900000.0,2022-2023,LaLiga
-álvaro bastida,Cádiz CF Mirandilla,1.79,600000.0,2022-2023,LaLiga
-curro muñoz,Real Oviedo Vetusta,1.85,50000.0,2022-2023,LaLiga
-moussa diakité,Cádiz CF,1.89,50000.0,2022-2023,LaLiga
-brian ocampo,Cádiz CF,1.72,2000000.0,2022-2023,LaLiga
-awer mabil,CD Castellón,1.78,1200000.0,2022-2023,LaLiga
-alberto perea,Without Club,1.8,1000000.0,2022-2023,LaLiga
-josé antonio de la rosa,Cádiz CF,1.74,300000.0,2022-2023,LaLiga
-théo bongonda,Spartak Moscow,1.75,4000000.0,2022-2023,LaLiga
-iván alejo,Real Valladolid CF,1.86,1200000.0,2022-2023,LaLiga
-mamady diarra,FC Sheriff Tiraspol,1.8,300000.0,2022-2023,LaLiga
-choco lozano,Santos Laguna,1.83,2500000.0,2022-2023,LaLiga
-rubén sobrino,Cádiz CF,1.85,2000000.0,2022-2023,LaLiga
-roger martí,Cádiz CF,1.79,2000000.0,2022-2023,LaLiga
-sergi guardiola,Córdoba CF,1.85,2000000.0,2022-2023,LaLiga
-chris ramos,Cádiz CF,1.9,1500000.0,2022-2023,LaLiga
-álvaro negredo,nan,1.86,1000000.0,2022-2023,LaLiga
-lucas pérez,Without Club,1.8,800000.0,2022-2023,LaLiga
-álvaro giménez,Without Club,1.83,600000.0,2022-2023,LaLiga
-francisco mwepu,Cádiz CF,1.78,150000.0,2022-2023,LaLiga
-etta eyong,Villarreal CF,1.81,50000.0,2022-2023,LaLiga
+thibaut courtois,real madrid,2.0,45000000.0,2022-2023,laliga
+andriy lunin,real madrid,1.91,5000000.0,2022-2023,laliga
+mario de luis,real madrid,1.85,500000.0,2022-2023,laliga
+luis lopez,real madrid,1.97,300000.0,2022-2023,laliga
+lucas canizares,real madrid,1.88,200000.0,2022-2023,laliga
+diego pineiro,real madrid,1.85,,2022-2023,laliga
+fran gonzalez,real madrid,1.99,,2022-2023,laliga
+eder militao,real madrid,1.86,70000000.0,2022-2023,laliga
+david alaba,real madrid,1.8,40000000.0,2022-2023,laliga
+antonio rudiger,real madrid,1.9,32000000.0,2022-2023,laliga
+nacho fernandez,real madrid,1.8,6000000.0,2022-2023,laliga
+jesus vallejo,real madrid,1.84,2000000.0,2022-2023,laliga
+marvel,real madrid,1.84,1000000.0,2022-2023,laliga
+ferland mendy,real madrid,1.8,25000000.0,2022-2023,laliga
+daniel carvajal,real madrid,1.73,12000000.0,2022-2023,laliga
+lucas vazquez,real madrid,1.73,8000000.0,2022-2023,laliga
+alvaro odriozola,real madrid,1.76,5000000.0,2022-2023,laliga
+vinicius tobias,real madrid,1.77,3000000.0,2022-2023,laliga
+aurelien tchouameni,real madrid,1.88,85000000.0,2022-2023,laliga
+casemiro,real madrid,1.85,40000000.0,2022-2023,laliga
+mario martin,real madrid,1.77,250000.0,2022-2023,laliga
+federico valverde,real madrid,1.82,100000000.0,2022-2023,laliga
+eduardo camavinga,real madrid,1.82,85000000.0,2022-2023,laliga
+toni kroos,real madrid,1.83,15000000.0,2022-2023,laliga
+dani ceballos,real madrid,1.79,12000000.0,2022-2023,laliga
+luka modric,real madrid,1.72,10000000.0,2022-2023,laliga
+carlos dotor,real madrid,1.8,700000.0,2022-2023,laliga
+marco asensio,real madrid,1.82,25000000.0,2022-2023,laliga
+sergio arribas,real madrid,1.74,5000000.0,2022-2023,laliga
+nico paz,real madrid,1.86,2000000.0,2022-2023,laliga
+vinicius junior,real madrid,1.76,150000000.0,2022-2023,laliga
+eden hazard,real madrid,1.75,5000000.0,2022-2023,laliga
+rodrygo,real madrid,1.74,100000000.0,2022-2023,laliga
+karim benzema,real madrid,1.85,25000000.0,2022-2023,laliga
+alvaro rodriguez,real madrid,1.93,6000000.0,2022-2023,laliga
+mariano diaz,real madrid,1.8,2500000.0,2022-2023,laliga
+marcandre ter stegen,fc barcelona,1.87,35000000.0,2022-2023,laliga
+inaki pena,fc barcelona,1.84,4000000.0,2022-2023,laliga
+arnau tenas,fc barcelona,1.85,2000000.0,2022-2023,laliga
+ander astralaga,fc barcelona,1.9,,2022-2023,laliga
+ronald araujo,fc barcelona,1.92,70000000.0,2022-2023,laliga
+andreas christensen,fc barcelona,1.87,40000000.0,2022-2023,laliga
+eric garcia,fc barcelona,1.82,10000000.0,2022-2023,laliga
+chadi riad,fc barcelona,1.87,500000.0,2022-2023,laliga
+gerard pique,fc barcelona,1.94,,2022-2023,laliga
+alejandro balde,fc barcelona,1.75,50000000.0,2022-2023,laliga
+marcos alonso,fc barcelona,1.88,5000000.0,2022-2023,laliga
+jordi alba,fc barcelona,1.7,5000000.0,2022-2023,laliga
+alex valle,fc barcelona,1.78,500000.0,2022-2023,laliga
+jules kounde,fc barcelona,1.8,60000000.0,2022-2023,laliga
+hector bellerin,fc barcelona,1.78,8000000.0,2022-2023,laliga
+sergio busquets,fc barcelona,1.89,5000000.0,2022-2023,laliga
+alvaro sanz,fc barcelona,1.7,700000.0,2022-2023,laliga
+marc casado,fc barcelona,1.72,300000.0,2022-2023,laliga
+pau prim,fc barcelona,1.79,,2022-2023,laliga
+pedri,fc barcelona,1.74,100000000.0,2022-2023,laliga
+gavi,fc barcelona,1.73,90000000.0,2022-2023,laliga
+frenkie de jong,fc barcelona,1.81,75000000.0,2022-2023,laliga
+franck kessie,fc barcelona,1.83,25000000.0,2022-2023,laliga
+miralem pjanic,fc barcelona,1.81,6000000.0,2022-2023,laliga
+sergi roberto,fc barcelona,1.78,5000000.0,2022-2023,laliga
+aleix garrido,fc barcelona,1.7,300000.0,2022-2023,laliga
+unai hernandez,fc barcelona,1.71,,2022-2023,laliga
+pablo torre,fc barcelona,1.73,3000000.0,2022-2023,laliga
+raphinha,fc barcelona,1.76,60000000.0,2022-2023,laliga
+ansu fati,fc barcelona,1.78,35000000.0,2022-2023,laliga
+estanis pedrola,fc barcelona,1.85,500000.0,2022-2023,laliga
+angel alarcon,fc barcelona,1.75,,2022-2023,laliga
+dani rodriguez,fc barcelona,1.7,,2022-2023,laliga
+ousmane dembele,fc barcelona,1.78,60000000.0,2022-2023,laliga
+ilias akhomach,fc barcelona,1.75,3000000.0,2022-2023,laliga
+lamine yamal,fc barcelona,1.8,,2022-2023,laliga
+robert lewandowski,fc barcelona,1.85,30000000.0,2022-2023,laliga
+ferran torres,fc barcelona,1.84,30000000.0,2022-2023,laliga
+memphis depay,fc barcelona,1.78,14000000.0,2022-2023,laliga
+pierreemerick aubameyang,fc barcelona,1.87,4000000.0,2022-2023,laliga
+marc guiu,fc barcelona,1.87,,2022-2023,laliga
+jan oblak,atletico de madrid,1.88,35000000.0,2022-2023,laliga
+ivo grbic,atletico de madrid,1.95,3500000.0,2022-2023,laliga
+alejandro iturbe,atletico de madrid,1.86,150000.0,2022-2023,laliga
+antonio gomis,atletico de madrid,1.91,150000.0,2022-2023,laliga
+sergio mestre,atletico de madrid,1.93,,2022-2023,laliga
+jose maria gimenez,atletico de madrid,1.85,35000000.0,2022-2023,laliga
+mario hermoso,atletico de madrid,1.84,20000000.0,2022-2023,laliga
+stefan savic,atletico de madrid,1.87,6000000.0,2022-2023,laliga
+axel witsel,atletico de madrid,1.86,5000000.0,2022-2023,laliga
+felipe,atletico de madrid,1.9,2000000.0,2022-2023,laliga
+marco moreno,atletico de madrid,1.91,200000.0,2022-2023,laliga
+ilias kostis,atletico de madrid,1.88,100000.0,2022-2023,laliga
+adrian corral,atletico de madrid,1.79,50000.0,2022-2023,laliga
+reinildo mandava,atletico de madrid,1.8,25000000.0,2022-2023,laliga
+renan lodi,atletico de madrid,1.73,20000000.0,2022-2023,laliga
+sergio reguilon,atletico de madrid,1.78,10000000.0,2022-2023,laliga
+nahuel molina,atletico de madrid,1.75,35000000.0,2022-2023,laliga
+matt doherty,atletico de madrid,1.85,5000000.0,2022-2023,laliga
+sergio diez,atletico de madrid,1.78,200000.0,2022-2023,laliga
+geoffrey kondogbia,atletico de madrid,1.88,14000000.0,2022-2023,laliga
+rodrigo de paul,atletico de madrid,1.8,40000000.0,2022-2023,laliga
+koke,atletico de madrid,1.76,16000000.0,2022-2023,laliga
+saul niguez,atletico de madrid,1.84,10000000.0,2022-2023,laliga
+pablo barrios,atletico de madrid,1.81,5000000.0,2022-2023,laliga
+alberto moreno,atletico de madrid,1.75,150000.0,2022-2023,laliga
+aitor gismera,atletico de madrid,1.82,150000.0,2022-2023,laliga
+marcos llorente,atletico de madrid,1.84,35000000.0,2022-2023,laliga
+thomas lemar,atletico de madrid,1.71,22000000.0,2022-2023,laliga
+antonio aleman,atletico de madrid,,,2022-2023,laliga
+yannick carrasco,atletico de madrid,1.81,25000000.0,2022-2023,laliga
+salim el jebari,atletico de madrid,1.78,,2022-2023,laliga
+angel correa,atletico de madrid,1.71,30000000.0,2022-2023,laliga
+diego bri,atletico de madrid,1.77,150000.0,2022-2023,laliga
+joao felix,atletico de madrid,1.81,50000000.0,2022-2023,laliga
+matheus cunha,atletico de madrid,1.83,25000000.0,2022-2023,laliga
+antoine griezmann,atletico de madrid,1.76,25000000.0,2022-2023,laliga
+alvaro morata,atletico de madrid,1.89,20000000.0,2022-2023,laliga
+memphis depay,atletico de madrid,1.78,14000000.0,2022-2023,laliga
+carlos martin,atletico de madrid,1.8,500000.0,2022-2023,laliga
+abde raihani,atletico de madrid,1.87,,2022-2023,laliga
+alex remiro,real sociedad,1.91,25000000.0,2022-2023,laliga
+andoni zubiaurre,real sociedad,1.89,300000.0,2022-2023,laliga
+unai marrero,real sociedad,1.89,250000.0,2022-2023,laliga
+egoitz arana,real sociedad,1.97,50000.0,2022-2023,laliga
+robin le normand,real sociedad,1.87,35000000.0,2022-2023,laliga
+igor zubeldia,real sociedad,1.81,15000000.0,2022-2023,laliga
+aritz elustondo,real sociedad,1.8,14000000.0,2022-2023,laliga
+jon pacheco,real sociedad,1.84,6000000.0,2022-2023,laliga
+aritz arambarri,real sociedad,1.86,500000.0,2022-2023,laliga
+aihen munoz,real sociedad,1.75,6000000.0,2022-2023,laliga
+diego rico,real sociedad,1.83,3000000.0,2022-2023,laliga
+jonathan gomez,real sociedad,1.78,500000.0,2022-2023,laliga
+andoni gorosabel,real sociedad,1.74,9000000.0,2022-2023,laliga
+martin zubimendi,real sociedad,1.81,40000000.0,2022-2023,laliga
+asier illarramendi,real sociedad,1.79,2000000.0,2022-2023,laliga
+urko gonzalez de zarate,real sociedad,1.89,700000.0,2022-2023,laliga
+mikel merino,real sociedad,1.89,50000000.0,2022-2023,laliga
+ander guevara,real sociedad,1.8,2500000.0,2022-2023,laliga
+benat turrientes,real sociedad,1.81,2000000.0,2022-2023,laliga
+jon ander olasagasti,real sociedad,1.76,1000000.0,2022-2023,laliga
+brais mendez,real sociedad,1.84,25000000.0,2022-2023,laliga
+david silva,real sociedad,1.7,4000000.0,2022-2023,laliga
+pablo marin,real sociedad,1.78,1000000.0,2022-2023,laliga
+jon magunazelaia,real sociedad,1.8,700000.0,2022-2023,laliga
+ander barrenetxea,real sociedad,1.75,6000000.0,2022-2023,laliga
+martin merquelanz,real sociedad,1.76,800000.0,2022-2023,laliga
+takefusa kubo,real sociedad,1.73,25000000.0,2022-2023,laliga
+mohamedali cho,real sociedad,1.82,12000000.0,2022-2023,laliga
+alex sola,real sociedad,1.78,3000000.0,2022-2023,laliga
+robert navarro,real sociedad,1.78,3000000.0,2022-2023,laliga
+ander martin,real sociedad,1.77,400000.0,2022-2023,laliga
+alexander isak,real sociedad,1.92,70000000.0,2022-2023,laliga
+mikel oyarzabal,real sociedad,1.81,40000000.0,2022-2023,laliga
+umar sadiq,real sociedad,1.91,18000000.0,2022-2023,laliga
+alexander srloth,real sociedad,1.95,12000000.0,2022-2023,laliga
+jon karrikaburu,real sociedad,1.83,5000000.0,2022-2023,laliga
+carlos fernandez,real sociedad,1.85,3000000.0,2022-2023,laliga
+geronimo rulli,villarreal cf,1.89,10000000.0,2022-2023,laliga
+filip jrgensen,villarreal cf,1.92,1500000.0,2022-2023,laliga
+pepe reina,villarreal cf,1.88,700000.0,2022-2023,laliga
+iker alvarez,villarreal cf,1.9,500000.0,2022-2023,laliga
+gianni cassaro,villarreal cf,1.92,100000.0,2022-2023,laliga
+pau torres,villarreal cf,1.92,45000000.0,2022-2023,laliga
+jorge cuenca,villarreal cf,1.9,5000000.0,2022-2023,laliga
+aissa mandi,villarreal cf,1.86,3000000.0,2022-2023,laliga
+mamadou mbacke,villarreal cf,1.89,2800000.0,2022-2023,laliga
+raul albiol,villarreal cf,1.9,2500000.0,2022-2023,laliga
+adrian de la fuente,villarreal cf,1.79,800000.0,2022-2023,laliga
+pervis estupinan,villarreal cf,1.75,32000000.0,2022-2023,laliga
+alfonso pedraza,villarreal cf,1.84,15000000.0,2022-2023,laliga
+johan mojica,villarreal cf,1.85,3000000.0,2022-2023,laliga
+alberto moreno,villarreal cf,1.71,3000000.0,2022-2023,laliga
+dani tasende,villarreal cf,1.72,700000.0,2022-2023,laliga
+carlos romero,villarreal cf,1.74,100000.0,2022-2023,laliga
+juan foyth,villarreal cf,1.87,25000000.0,2022-2023,laliga
+kiko femenia,villarreal cf,1.74,2500000.0,2022-2023,laliga
+sergio carreira,villarreal cf,1.7,1500000.0,2022-2023,laliga
+marcos sanchez,villarreal cf,1.78,,2022-2023,laliga
+etienne capoue,villarreal cf,1.89,3000000.0,2022-2023,laliga
+francis coquelin,villarreal cf,1.77,3000000.0,2022-2023,laliga
+dani parejo,villarreal cf,1.82,6000000.0,2022-2023,laliga
+manu morlanes,villarreal cf,1.78,4000000.0,2022-2023,laliga
+manu trigueros,villarreal cf,1.78,4000000.0,2022-2023,laliga
+ramon terrats,villarreal cf,1.81,4000000.0,2022-2023,laliga
+alberto del moral,villarreal cf,1.85,1000000.0,2022-2023,laliga
+carlo garcia,villarreal cf,1.82,800000.0,2022-2023,laliga
+antonio pacheco,villarreal cf,1.84,400000.0,2022-2023,laliga
+rodri alonso,villarreal cf,1.72,100000.0,2022-2023,laliga
+giovani lo celso,villarreal cf,1.77,14000000.0,2022-2023,laliga
+arnaut danjuma,villarreal cf,1.78,25000000.0,2022-2023,laliga
+alex baena,villarreal cf,1.74,20000000.0,2022-2023,laliga
+diego collado,villarreal cf,1.83,1000000.0,2022-2023,laliga
+yeremy pino,villarreal cf,1.72,40000000.0,2022-2023,laliga
+samuel chukwueze,villarreal cf,1.72,25000000.0,2022-2023,laliga
+haissem hassan,villarreal cf,1.75,1500000.0,2022-2023,laliga
+nicolas jackson,villarreal cf,1.87,30000000.0,2022-2023,laliga
+gerard moreno,villarreal cf,1.8,20000000.0,2022-2023,laliga
+fer nino,villarreal cf,1.91,3000000.0,2022-2023,laliga
+jose luis morales,villarreal cf,1.8,3000000.0,2022-2023,laliga
+jorge pascual,villarreal cf,1.87,,2022-2023,laliga
+giorgi mamardashvili,valencia cf,1.97,25000000.0,2022-2023,laliga
+jaume domenech,valencia cf,1.85,1000000.0,2022-2023,laliga
+iago herrerin,valencia cf,1.87,500000.0,2022-2023,laliga
+emilio bernad,valencia cf,1.84,300000.0,2022-2023,laliga
+cristian rivero,valencia cf,1.88,200000.0,2022-2023,laliga
+charlie perez,valencia cf,,25000.0,2022-2023,laliga
+mouctar diakhaby,valencia cf,1.92,6000000.0,2022-2023,laliga
+cenk ozkacar,valencia cf,1.9,5000000.0,2022-2023,laliga
+eray comert,valencia cf,1.83,3500000.0,2022-2023,laliga
+gabriel paulista,valencia cf,1.85,2500000.0,2022-2023,laliga
+cristhian mosquera,valencia cf,1.91,1000000.0,2022-2023,laliga
+ruben iranzo,valencia cf,1.82,200000.0,2022-2023,laliga
+jose gaya,valencia cf,1.72,30000000.0,2022-2023,laliga
+jesus vazquez,valencia cf,1.82,3000000.0,2022-2023,laliga
+toni lato,valencia cf,1.71,2500000.0,2022-2023,laliga
+thierry correia,valencia cf,1.76,8000000.0,2022-2023,laliga
+dimitri foulquier,valencia cf,1.83,2500000.0,2022-2023,laliga
+hugo guillamon,valencia cf,1.78,14000000.0,2022-2023,laliga
+uros racic,valencia cf,1.93,6500000.0,2022-2023,laliga
+carlos soler,valencia cf,1.8,25000000.0,2022-2023,laliga
+yunus musah,valencia cf,1.78,18000000.0,2022-2023,laliga
+nico gonzalez,valencia cf,1.88,10000000.0,2022-2023,laliga
+ilaix moriba,valencia cf,1.85,4000000.0,2022-2023,laliga
+javi guerra,valencia cf,1.87,2000000.0,2022-2023,laliga
+koba koindredi,valencia cf,1.84,1000000.0,2022-2023,laliga
+tiago ribeiro,valencia cf,1.83,200000.0,2022-2023,laliga
+yellu santiago,valencia cf,1.92,100000.0,2022-2023,laliga
+andre almeida,valencia cf,1.76,20000000.0,2022-2023,laliga
+justin kluivert,valencia cf,1.72,14000000.0,2022-2023,laliga
+samuel lino,valencia cf,1.77,16000000.0,2022-2023,laliga
+samu castillejo,valencia cf,1.82,6000000.0,2022-2023,laliga
+diego lopez,valencia cf,1.72,1500000.0,2022-2023,laliga
+fran perez,valencia cf,1.76,500000.0,2022-2023,laliga
+manu vallejo,valencia cf,1.67,2400000.0,2022-2023,laliga
+maxi gomez,valencia cf,1.86,7000000.0,2022-2023,laliga
+hugo duro,valencia cf,1.77,4000000.0,2022-2023,laliga
+edinson cavani,valencia cf,1.84,3000000.0,2022-2023,laliga
+marcos andre,valencia cf,1.85,2500000.0,2022-2023,laliga
+alberto mari,valencia cf,1.83,800000.0,2022-2023,laliga
+mario dominguez,valencia cf,1.75,50000.0,2022-2023,laliga
+rui silva,real betis balompie,1.91,15000000.0,2022-2023,laliga
+dani martin,real betis balompie,1.87,1500000.0,2022-2023,laliga
+claudio bravo,real betis balompie,1.84,1000000.0,2022-2023,laliga
+fran vieites,real betis balompie,1.96,200000.0,2022-2023,laliga
+german garcia,real betis balompie,,,2022-2023,laliga
+luiz felipe,real betis balompie,1.87,15000000.0,2022-2023,laliga
+edgar gonzalez,real betis balompie,1.92,9000000.0,2022-2023,laliga
+german pezzella,real betis balompie,1.87,5000000.0,2022-2023,laliga
+victor ruiz,real betis balompie,1.84,1200000.0,2022-2023,laliga
+felix garreta,real betis balompie,1.83,200000.0,2022-2023,laliga
+ricardo visus,real betis balompie,1.92,150000.0,2022-2023,laliga
+alex moreno,real betis balompie,1.79,15000000.0,2022-2023,laliga
+abner,real betis balompie,1.81,7000000.0,2022-2023,laliga
+juan miranda,real betis balompie,1.85,7000000.0,2022-2023,laliga
+youssouf sabaly,real betis balompie,1.73,5000000.0,2022-2023,laliga
+aitor ruibal,real betis balompie,1.76,5000000.0,2022-2023,laliga
+martin montoya,real betis balompie,1.75,1200000.0,2022-2023,laliga
+fran delgado,real betis balompie,1.81,350000.0,2022-2023,laliga
+guido rodriguez,real betis balompie,1.85,28000000.0,2022-2023,laliga
+william carvalho,real betis balompie,1.87,14000000.0,2022-2023,laliga
+paul akouokou,real betis balompie,1.81,3500000.0,2022-2023,laliga
+andres guardado,real betis balompie,1.67,1500000.0,2022-2023,laliga
+victor camarasa,real betis balompie,1.83,800000.0,2022-2023,laliga
+quique fernandez,real betis balompie,1.77,150000.0,2022-2023,laliga
+nabil fekir,real betis balompie,1.73,20000000.0,2022-2023,laliga
+sergio canales,real betis balompie,1.78,15000000.0,2022-2023,laliga
+dani perez,real betis balompie,1.73,300000.0,2022-2023,laliga
+juanmi,real betis balompie,1.72,12000000.0,2022-2023,laliga
+juan cruz,real betis balompie,1.8,1500000.0,2022-2023,laliga
+jose alonso lara,real betis balompie,1.62,350000.0,2022-2023,laliga
+luiz henrique,real betis balompie,1.82,15000000.0,2022-2023,laliga
+rodri sanchez,real betis balompie,1.75,8000000.0,2022-2023,laliga
+rober gonzalez,real betis balompie,1.69,2000000.0,2022-2023,laliga
+joaquin,real betis balompie,1.81,1500000.0,2022-2023,laliga
+borja iglesias,real betis balompie,1.87,20000000.0,2022-2023,laliga
+willian jose,real betis balompie,1.86,6000000.0,2022-2023,laliga
+ayoze perez,real betis balompie,1.78,6000000.0,2022-2023,laliga
+loren moron,real betis balompie,1.85,2000000.0,2022-2023,laliga
+bono,sevilla fc,1.95,12000000.0,2022-2023,laliga
+marko dmitrovic,sevilla fc,1.89,4000000.0,2022-2023,laliga
+alberto flores,sevilla fc,1.87,200000.0,2022-2023,laliga
+matias arbol,sevilla fc,1.84,25000.0,2022-2023,laliga
+marius herzig,sevilla fc,1.88,,2022-2023,laliga
+loic bade,sevilla fc,1.91,12000000.0,2022-2023,laliga
+tanguy nianzou,sevilla fc,1.91,7500000.0,2022-2023,laliga
+marcao,sevilla fc,1.85,7500000.0,2022-2023,laliga
+karim rekik,sevilla fc,1.86,4000000.0,2022-2023,laliga
+kike salas,sevilla fc,1.88,1000000.0,2022-2023,laliga
+xavi sintes,sevilla fc,1.9,150000.0,2022-2023,laliga
+marcos acuna,sevilla fc,1.72,10000000.0,2022-2023,laliga
+alex telles,sevilla fc,1.81,7500000.0,2022-2023,laliga
+pablo perez,sevilla fc,1.74,200000.0,2022-2023,laliga
+diego hormigo,sevilla fc,1.82,100000.0,2022-2023,laliga
+gonzalo montiel,sevilla fc,1.75,12000000.0,2022-2023,laliga
+jose angel carmona,sevilla fc,1.84,4000000.0,2022-2023,laliga
+jesus navas,sevilla fc,1.7,3000000.0,2022-2023,laliga
+pape gueye,sevilla fc,1.89,10000000.0,2022-2023,laliga
+nemanja gudelj,sevilla fc,1.87,4000000.0,2022-2023,laliga
+fernando,sevilla fc,1.83,3000000.0,2022-2023,laliga
+joan jordan,sevilla fc,1.85,9000000.0,2022-2023,laliga
+oliver torres,sevilla fc,1.75,9000000.0,2022-2023,laliga
+ivan rakitic,sevilla fc,1.84,4000000.0,2022-2023,laliga
+thomas delaney,sevilla fc,1.82,2000000.0,2022-2023,laliga
+manu bueno,sevilla fc,1.78,300000.0,2022-2023,laliga
+pedro ortiz,sevilla fc,1.84,200000.0,2022-2023,laliga
+isco,sevilla fc,1.76,5000000.0,2022-2023,laliga
+nacho quintana,sevilla fc,1.78,200000.0,2022-2023,laliga
+bryan gil,sevilla fc,1.75,15000000.0,2022-2023,laliga
+lucas ocampos,sevilla fc,1.87,12000000.0,2022-2023,laliga
+papu gomez,sevilla fc,1.67,3000000.0,2022-2023,laliga
+erik lamela,sevilla fc,1.84,9000000.0,2022-2023,laliga
+jesus corona,sevilla fc,1.73,8000000.0,2022-2023,laliga
+adnan januzaj,sevilla fc,1.86,6000000.0,2022-2023,laliga
+suso,sevilla fc,1.77,6000000.0,2022-2023,laliga
+munir el haddadi,sevilla fc,1.77,3500000.0,2022-2023,laliga
+carlos alvarez,sevilla fc,1.68,400000.0,2022-2023,laliga
+youssef ennesyri,sevilla fc,1.88,20000000.0,2022-2023,laliga
+rafa mir,sevilla fc,1.91,10000000.0,2022-2023,laliga
+kasper dolberg,sevilla fc,1.87,7000000.0,2022-2023,laliga
+ivan romero,sevilla fc,1.73,800000.0,2022-2023,laliga
+unai simon,athletic bilbao,1.9,25000000.0,2022-2023,laliga
+julen agirrezabala,athletic bilbao,1.87,5000000.0,2022-2023,laliga
+ibon ispizua,athletic bilbao,1.85,100000.0,2022-2023,laliga
+ander iru,athletic bilbao,1.88,100000.0,2022-2023,laliga
+yeray alvarez,athletic bilbao,1.82,15000000.0,2022-2023,laliga
+dani vivian,athletic bilbao,1.84,14000000.0,2022-2023,laliga
+inigo martinez,athletic bilbao,1.82,10000000.0,2022-2023,laliga
+aitor paredes,athletic bilbao,1.85,1000000.0,2022-2023,laliga
+yuri berchiche,athletic bilbao,1.81,2000000.0,2022-2023,laliga
+mikel balenziaga,athletic bilbao,1.77,500000.0,2022-2023,laliga
+inigo lekue,athletic bilbao,1.8,3000000.0,2022-2023,laliga
+oscar de marcos,athletic bilbao,1.82,1800000.0,2022-2023,laliga
+ander capa,athletic bilbao,1.75,1800000.0,2022-2023,laliga
+mikel vesga,athletic bilbao,1.91,6000000.0,2022-2023,laliga
+peru nolaskoain,athletic bilbao,1.86,1000000.0,2022-2023,laliga
+unai vencedor,athletic bilbao,1.76,9000000.0,2022-2023,laliga
+oier zarraga,athletic bilbao,1.75,3000000.0,2022-2023,laliga
+ander herrera,athletic bilbao,1.82,2500000.0,2022-2023,laliga
+dani garcia,athletic bilbao,1.8,2000000.0,2022-2023,laliga
+junior bita,athletic bilbao,1.82,50000.0,2022-2023,laliga
+oihan sancet,athletic bilbao,1.88,30000000.0,2022-2023,laliga
+iker muniain,athletic bilbao,1.69,9000000.0,2022-2023,laliga
+raul garcia,athletic bilbao,1.84,2500000.0,2022-2023,laliga
+unai gomez,athletic bilbao,1.83,100000.0,2022-2023,laliga
+nico williams,athletic bilbao,1.81,30000000.0,2022-2023,laliga
+alex berenguer,athletic bilbao,1.75,15000000.0,2022-2023,laliga
+jon morcillo,athletic bilbao,1.83,3000000.0,2022-2023,laliga
+inaki williams,athletic bilbao,1.86,25000000.0,2022-2023,laliga
+adu ares,athletic bilbao,1.83,500000.0,2022-2023,laliga
+asier villalibre,athletic bilbao,1.82,2500000.0,2022-2023,laliga
+gorka guruzeta,athletic bilbao,1.88,2000000.0,2022-2023,laliga
+sergio herrera,ca osasuna,1.92,8000000.0,2022-2023,laliga
+aitor fernandez,ca osasuna,1.82,3000000.0,2022-2023,laliga
+juan perez,ca osasuna,1.91,600000.0,2022-2023,laliga
+dario ramos,ca osasuna,1.91,200000.0,2022-2023,laliga
+pablo valencia,ca osasuna,1.88,200000.0,2022-2023,laliga
+yoel ramirez,ca osasuna,1.84,50000.0,2022-2023,laliga
+david garcia,ca osasuna,1.86,20000000.0,2022-2023,laliga
+unai garcia,ca osasuna,1.86,2500000.0,2022-2023,laliga
+aridane hernandez,ca osasuna,1.88,1000000.0,2022-2023,laliga
+jorge herrando,ca osasuna,1.92,400000.0,2022-2023,laliga
+manu sanchez,ca osasuna,1.71,10000000.0,2022-2023,laliga
+juan cruz,ca osasuna,1.82,2500000.0,2022-2023,laliga
+nacho vidal,ca osasuna,1.8,5000000.0,2022-2023,laliga
+ruben pena,ca osasuna,1.7,2500000.0,2022-2023,laliga
+diego moreno,ca osasuna,1.77,800000.0,2022-2023,laliga
+lucas torro,ca osasuna,1.9,8000000.0,2022-2023,laliga
+iker munoz,ca osasuna,1.8,500000.0,2022-2023,laliga
+jon moncayola,ca osasuna,1.82,12000000.0,2022-2023,laliga
+darko brasanac,ca osasuna,1.78,2000000.0,2022-2023,laliga
+pablo ibanez,ca osasuna,1.79,1500000.0,2022-2023,laliga
+aimar oroz,ca osasuna,1.77,15000000.0,2022-2023,laliga
+roberto torres,ca osasuna,1.78,1200000.0,2022-2023,laliga
+javi martinez,ca osasuna,1.81,1000000.0,2022-2023,laliga
+abde ezzalzouli,ca osasuna,1.77,15000000.0,2022-2023,laliga
+moi gomez,ca osasuna,1.76,10000000.0,2022-2023,laliga
+ruben garcia,ca osasuna,1.72,6000000.0,2022-2023,laliga
+kike barja,ca osasuna,1.79,4000000.0,2022-2023,laliga
+iker benito,ca osasuna,1.76,300000.0,2022-2023,laliga
+chimy avila,ca osasuna,1.72,9000000.0,2022-2023,laliga
+ante budimir,ca osasuna,1.9,6000000.0,2022-2023,laliga
+kike garcia,ca osasuna,1.86,1800000.0,2022-2023,laliga
+paulo gazzaniga,girona fc,1.95,3000000.0,2022-2023,laliga
+juan carlos,girona fc,1.87,300000.0,2022-2023,laliga
+toni fuidias,girona fc,1.95,300000.0,2022-2023,laliga
+lluc matas,girona fc,,,2022-2023,laliga
+santiago bueno,girona fc,1.9,8000000.0,2022-2023,laliga
+david lopez,girona fc,1.85,2000000.0,2022-2023,laliga
+alexander callens,girona fc,1.86,1800000.0,2022-2023,laliga
+bernardo espinosa,girona fc,1.92,1500000.0,2022-2023,laliga
+juanpe,girona fc,1.9,1500000.0,2022-2023,laliga
+eric monjonell,girona fc,1.87,300000.0,2022-2023,laliga
+biel farres,girona fc,1.8,,2022-2023,laliga
+miguel gutierrez,girona fc,1.8,10000000.0,2022-2023,laliga
+javi hernandez,girona fc,1.8,2500000.0,2022-2023,laliga
+arnau martinez,girona fc,1.82,15000000.0,2022-2023,laliga
+yan couto,girona fc,1.68,4000000.0,2022-2023,laliga
+oriol romeu,girona fc,1.83,5000000.0,2022-2023,laliga
+ibrahima kebe,girona fc,1.86,500000.0,2022-2023,laliga
+aleix garcia,girona fc,1.73,10000000.0,2022-2023,laliga
+yangel herrera,girona fc,1.84,5000000.0,2022-2023,laliga
+ramon terrats,girona fc,1.81,4000000.0,2022-2023,laliga
+alex sala,girona fc,1.85,200000.0,2022-2023,laliga
+ivan martin,girona fc,1.78,3000000.0,2022-2023,laliga
+reinier,girona fc,1.85,2000000.0,2022-2023,laliga
+borja garcia,girona fc,1.75,1000000.0,2022-2023,laliga
+samu saiz,girona fc,1.74,900000.0,2022-2023,laliga
+ricard artero,girona fc,1.81,,2022-2023,laliga
+rodrigo riquelme,girona fc,1.74,12000000.0,2022-2023,laliga
+toni villa,girona fc,1.72,2500000.0,2022-2023,laliga
+oscar urena,girona fc,1.71,400000.0,2022-2023,laliga
+joel roca,girona fc,1.76,,2022-2023,laliga
+viktor tsygankov,girona fc,1.78,22000000.0,2022-2023,laliga
+valery fernandez,girona fc,1.82,1500000.0,2022-2023,laliga
+manu vallejo,girona fc,1.67,2400000.0,2022-2023,laliga
+taty castellanos,girona fc,1.78,15000000.0,2022-2023,laliga
+cristhian stuani,girona fc,1.84,2000000.0,2022-2023,laliga
+pau victor,girona fc,1.84,300000.0,2022-2023,laliga
+dawda camara,girona fc,,,2022-2023,laliga
+agustin marchesin,celta de vigo,1.88,2000000.0,2022-2023,laliga
+ivan villar,celta de vigo,1.86,2000000.0,2022-2023,laliga
+christian joel,celta de vigo,1.93,500000.0,2022-2023,laliga
+coke carrillo,celta de vigo,1.88,100000.0,2022-2023,laliga
+ruly garcia,celta de vigo,1.88,50000.0,2022-2023,laliga
+diego alves,celta de vigo,1.87,,2022-2023,laliga
+joseph aidoo,celta de vigo,1.81,8000000.0,2022-2023,laliga
+unai nunez,celta de vigo,1.86,6000000.0,2022-2023,laliga
+carlos dominguez,celta de vigo,1.87,800000.0,2022-2023,laliga
+sergio barcia,celta de vigo,1.86,300000.0,2022-2023,laliga
+javi dominguez,celta de vigo,1.95,200000.0,2022-2023,laliga
+javi galan,celta de vigo,1.72,12000000.0,2022-2023,laliga
+fernando medrano,celta de vigo,1.72,200000.0,2022-2023,laliga
+tincho conde,celta de vigo,,150000.0,2022-2023,laliga
+hugo mallo,celta de vigo,1.73,3000000.0,2022-2023,laliga
+oscar mingueza,celta de vigo,1.84,2500000.0,2022-2023,laliga
+kevin vazquez,celta de vigo,1.75,1000000.0,2022-2023,laliga
+renato tapia,celta de vigo,1.85,6000000.0,2022-2023,laliga
+fran beltran,celta de vigo,1.65,15000000.0,2022-2023,laliga
+luca de la torre,celta de vigo,1.77,3000000.0,2022-2023,laliga
+hugo sotelo,celta de vigo,1.8,150000.0,2022-2023,laliga
+augusto solari,celta de vigo,1.78,1500000.0,2022-2023,laliga
+gabri veiga,celta de vigo,1.85,30000000.0,2022-2023,laliga
+oscar rodriguez,celta de vigo,1.74,8000000.0,2022-2023,laliga
+miguel baeza,celta de vigo,1.77,900000.0,2022-2023,laliga
+franco cervi,celta de vigo,1.66,3000000.0,2022-2023,laliga
+williot swedberg,celta de vigo,1.87,3000000.0,2022-2023,laliga
+hugo alvarez,celta de vigo,1.76,200000.0,2022-2023,laliga
+carles perez,celta de vigo,1.73,5000000.0,2022-2023,laliga
+miguel rodriguez,celta de vigo,1.79,1000000.0,2022-2023,laliga
+jrgen strand larsen,celta de vigo,1.93,11000000.0,2022-2023,laliga
+iago aspas,celta de vigo,1.76,6000000.0,2022-2023,laliga
+haris seferovic,celta de vigo,1.89,4000000.0,2022-2023,laliga
+goncalo paciencia,celta de vigo,1.84,2000000.0,2022-2023,laliga
+pablo duran,celta de vigo,1.76,250000.0,2022-2023,laliga
+fran lopez,celta de vigo,,,2022-2023,laliga
+benjamin lecomte,rcd espanyol barcelona,1.86,4000000.0,2022-2023,laliga
+fernando pacheco,rcd espanyol barcelona,1.87,2500000.0,2022-2023,laliga
+alvaro fernandez,rcd espanyol barcelona,1.85,2500000.0,2022-2023,laliga
+joan garcia,rcd espanyol barcelona,1.94,400000.0,2022-2023,laliga
+angel fortuno,rcd espanyol barcelona,1.83,300000.0,2022-2023,laliga
+cesar montes,rcd espanyol barcelona,1.95,8000000.0,2022-2023,laliga
+leandro cabrera,rcd espanyol barcelona,1.9,2500000.0,2022-2023,laliga
+fernando calero,rcd espanyol barcelona,1.84,2000000.0,2022-2023,laliga
+sergi gomez,rcd espanyol barcelona,1.85,2000000.0,2022-2023,laliga
+simo keddari,rcd espanyol barcelona,1.83,500000.0,2022-2023,laliga
+brian olivan,rcd espanyol barcelona,1.75,6000000.0,2022-2023,laliga
+adria pedrosa,rcd espanyol barcelona,1.72,5000000.0,2022-2023,laliga
+ronael pierregabriel,rcd espanyol barcelona,1.77,3500000.0,2022-2023,laliga
+oscar gil,rcd espanyol barcelona,1.75,3000000.0,2022-2023,laliga
+ruben sanchez,rcd espanyol barcelona,1.85,700000.0,2022-2023,laliga
+omar el hilali,rcd espanyol barcelona,1.83,500000.0,2022-2023,laliga
+vini souza,rcd espanyol barcelona,1.87,6000000.0,2022-2023,laliga
+sergi darder,rcd espanyol barcelona,1.8,16000000.0,2022-2023,laliga
+edu exposito,rcd espanyol barcelona,1.78,4000000.0,2022-2023,laliga
+keidi bare,rcd espanyol barcelona,1.74,3000000.0,2022-2023,laliga
+jose gragera,rcd espanyol barcelona,1.86,2500000.0,2022-2023,laliga
+pol lozano,rcd espanyol barcelona,1.76,1500000.0,2022-2023,laliga
+roger martinez,rcd espanyol barcelona,1.77,400000.0,2022-2023,laliga
+dani villahermosa,rcd espanyol barcelona,1.72,250000.0,2022-2023,laliga
+nico melamed,rcd espanyol barcelona,1.73,6000000.0,2022-2023,laliga
+denis suarez,rcd espanyol barcelona,1.76,5000000.0,2022-2023,laliga
+javi puado,rcd espanyol barcelona,1.77,8000000.0,2022-2023,laliga
+jose carlos lazo,rcd espanyol barcelona,1.78,2500000.0,2022-2023,laliga
+abde damar,rcd espanyol barcelona,1.72,150000.0,2022-2023,laliga
+kenneth soler,rcd espanyol barcelona,1.75,100000.0,2022-2023,laliga
+adrian embarba,rcd espanyol barcelona,1.73,2500000.0,2022-2023,laliga
+aleix vidal,rcd espanyol barcelona,1.77,1500000.0,2022-2023,laliga
+luca koleosho,rcd espanyol barcelona,1.75,1000000.0,2022-2023,laliga
+joselu,rcd espanyol barcelona,1.91,6000000.0,2022-2023,laliga
+martin braithwaite,rcd espanyol barcelona,1.77,5000000.0,2022-2023,laliga
+dani gomez,rcd espanyol barcelona,1.78,1500000.0,2022-2023,laliga
+nabil touaizi,rcd espanyol barcelona,1.83,200000.0,2022-2023,laliga
+predrag rajkovic,rcd mallorca,1.91,10000000.0,2022-2023,laliga
+dominik greif,rcd mallorca,1.97,1500000.0,2022-2023,laliga
+leo roman,rcd mallorca,1.89,300000.0,2022-2023,laliga
+pere garcia,rcd mallorca,1.93,25000.0,2022-2023,laliga
+martin valjent,rcd mallorca,1.87,4500000.0,2022-2023,laliga
+antonio raillo,rcd mallorca,1.87,4000000.0,2022-2023,laliga
+jose copete,rcd mallorca,1.9,3500000.0,2022-2023,laliga
+dennis hadzikadunic,rcd mallorca,1.91,3000000.0,2022-2023,laliga
+matija nastasic,rcd mallorca,1.87,1500000.0,2022-2023,laliga
+franco russo,rcd mallorca,1.86,800000.0,2022-2023,laliga
+benjamin garay,rcd mallorca,1.83,100000.0,2022-2023,laliga
+josep gaya,rcd mallorca,1.85,100000.0,2022-2023,laliga
+ludwig augustinsson,rcd mallorca,1.81,2500000.0,2022-2023,laliga
+braian cufre,rcd mallorca,1.79,1200000.0,2022-2023,laliga
+jaume costa,rcd mallorca,1.71,1200000.0,2022-2023,laliga
+marcos fernandez,rcd mallorca,1.76,25000.0,2022-2023,laliga
+pablo maffeo,rcd mallorca,1.72,8000000.0,2022-2023,laliga
+giovanni gonzalez,rcd mallorca,1.73,2000000.0,2022-2023,laliga
+rodrigo battaglia,rcd mallorca,1.87,1500000.0,2022-2023,laliga
+manu morlanes,rcd mallorca,1.78,4000000.0,2022-2023,laliga
+inigo ruiz de galarreta,rcd mallorca,1.75,3000000.0,2022-2023,laliga
+iddrisu baba,rcd mallorca,1.82,3000000.0,2022-2023,laliga
+antonio sanchez,rcd mallorca,1.79,2500000.0,2022-2023,laliga
+clement grenier,rcd mallorca,1.86,800000.0,2022-2023,laliga
+miquel llabres,rcd mallorca,,100000.0,2022-2023,laliga
+luis montiel,rcd mallorca,,25000.0,2022-2023,laliga
+ruben quintanilla,rcd mallorca,,25000.0,2022-2023,laliga
+dani rodriguez,rcd mallorca,1.78,1200000.0,2022-2023,laliga
+lago junior,rcd mallorca,1.8,900000.0,2022-2023,laliga
+javi llabres,rcd mallorca,1.74,300000.0,2022-2023,laliga
+kangin lee,rcd mallorca,1.74,22000000.0,2022-2023,laliga
+amath ndiaye,rcd mallorca,1.73,2000000.0,2022-2023,laliga
+tofol montiel,rcd mallorca,1.78,150000.0,2022-2023,laliga
+miguelito,rcd mallorca,1.75,50000.0,2022-2023,laliga
+vedat muriqi,rcd mallorca,1.94,15000000.0,2022-2023,laliga
+tino kadewere,rcd mallorca,1.83,4000000.0,2022-2023,laliga
+abdon prats,rcd mallorca,1.81,1200000.0,2022-2023,laliga
+angel rodriguez,rcd mallorca,1.71,1000000.0,2022-2023,laliga
+stole dimitrievski,rayo vallecano,1.88,4000000.0,2022-2023,laliga
+miguel angel morro,rayo vallecano,1.95,600000.0,2022-2023,laliga
+diego lopez,rayo vallecano,1.96,300000.0,2022-2023,laliga
+alejandro catena,rayo vallecano,1.94,8000000.0,2022-2023,laliga
+florian lejeune,rayo vallecano,1.9,4000000.0,2022-2023,laliga
+abdul mumin,rayo vallecano,1.88,1500000.0,2022-2023,laliga
+esteban saveljich,rayo vallecano,1.87,500000.0,2022-2023,laliga
+fran garcia,rayo vallecano,1.69,12000000.0,2022-2023,laliga
+pep chavarria,rayo vallecano,1.74,1500000.0,2022-2023,laliga
+ivan balliu,rayo vallecano,1.72,4000000.0,2022-2023,laliga
+mario hernandez,rayo vallecano,1.77,600000.0,2022-2023,laliga
+mario suarez,rayo vallecano,1.89,300000.0,2022-2023,laliga
+santi comesana,rayo vallecano,1.88,7500000.0,2022-2023,laliga
+oscar valentin,rayo vallecano,1.77,5000000.0,2022-2023,laliga
+unai lopez,rayo vallecano,1.7,3500000.0,2022-2023,laliga
+pathe ciss,rayo vallecano,1.86,3000000.0,2022-2023,laliga
+diego mendez,rayo vallecano,1.82,,2022-2023,laliga
+oscar trejo,rayo vallecano,1.8,3000000.0,2022-2023,laliga
+randy nteka,rayo vallecano,1.89,1800000.0,2022-2023,laliga
+jose pozo,rayo vallecano,1.71,1000000.0,2022-2023,laliga
+alvaro garcia,rayo vallecano,1.67,6000000.0,2022-2023,laliga
+bebe,rayo vallecano,1.9,800000.0,2022-2023,laliga
+pablo munoz,rayo vallecano,1.7,,2022-2023,laliga
+salvi sanchez,rayo vallecano,1.7,1500000.0,2022-2023,laliga
+andres martin,rayo vallecano,1.78,1000000.0,2022-2023,laliga
+isi palazon,rayo vallecano,1.69,12000000.0,2022-2023,laliga
+sergio camello,rayo vallecano,1.82,10000000.0,2022-2023,laliga
+raul de tomas,rayo vallecano,1.8,8000000.0,2022-2023,laliga
+radamel falcao,rayo vallecano,1.77,2000000.0,2022-2023,laliga
+edgar badia,elche cf,1.8,3000000.0,2022-2023,laliga
+axel werner,elche cf,1.91,800000.0,2022-2023,laliga
+juanpe navarro,elche cf,1.84,,2022-2023,laliga
+jesus lopez,elche cf,1.87,,2022-2023,laliga
+luismi quirant,elche cf,,,2022-2023,laliga
+lisandro magallan,elche cf,1.85,1800000.0,2022-2023,laliga
+enzo roco,elche cf,1.92,1500000.0,2022-2023,laliga
+diego gonzalez,elche cf,1.85,1500000.0,2022-2023,laliga
+pedro bigas,elche cf,1.81,1000000.0,2022-2023,laliga
+john donald,elche cf,1.82,1000000.0,2022-2023,laliga
+federico fernandez,elche cf,1.89,700000.0,2022-2023,laliga
+gonzalo verdu,elche cf,1.85,700000.0,2022-2023,laliga
+javi pamies,elche cf,,,2022-2023,laliga
+manuel cocca,elche cf,1.8,,2022-2023,laliga
+johan mojica,elche cf,1.85,3000000.0,2022-2023,laliga
+lautaro blanco,elche cf,1.76,2800000.0,2022-2023,laliga
+carlos clerc,elche cf,1.81,1500000.0,2022-2023,laliga
+jose angel carmona,elche cf,1.84,4000000.0,2022-2023,laliga
+pol lirola,elche cf,1.83,2000000.0,2022-2023,laliga
+helibelton palacios,elche cf,1.81,1200000.0,2022-2023,laliga
+carles marco,elche cf,1.83,,2022-2023,laliga
+gerard gumbau,elche cf,1.88,3500000.0,2022-2023,laliga
+omar mascarell,elche cf,1.81,3000000.0,2022-2023,laliga
+raul guti,elche cf,1.78,2500000.0,2022-2023,laliga
+domingos quina,elche cf,1.73,1800000.0,2022-2023,laliga
+pape cheikh,elche cf,1.8,900000.0,2022-2023,laliga
+branislav knezevic,elche cf,1.88,,2022-2023,laliga
+alejandro alfaro,elche cf,1.83,,2022-2023,laliga
+rodrigo mendoza,elche cf,1.82,,2022-2023,laliga
+alex collado,elche cf,1.77,3000000.0,2022-2023,laliga
+nicolas fernandez mercau,elche cf,1.72,2000000.0,2022-2023,laliga
+randy nteka,elche cf,1.89,1800000.0,2022-2023,laliga
+javier pastore,elche cf,1.87,500000.0,2022-2023,laliga
+pere milla,elche cf,1.8,3000000.0,2022-2023,laliga
+tete morente,elche cf,1.84,2500000.0,2022-2023,laliga
+fidel,elche cf,1.8,1000000.0,2022-2023,laliga
+josan,elche cf,1.76,1000000.0,2022-2023,laliga
+lucas boye,elche cf,1.83,10000000.0,2022-2023,laliga
+ezequiel ponce,elche cf,1.81,2500000.0,2022-2023,laliga
+roger marti,elche cf,1.79,2000000.0,2022-2023,laliga

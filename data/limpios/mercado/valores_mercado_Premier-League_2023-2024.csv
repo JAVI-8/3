@@ -1,856 +1,765 @@
 nombre,club_actual,altura,valor,temporada,liga
-ederson,Manchester City,1.88,35000000.0,2023-2024,Premier-League
-stefan ortega,Manchester City,1.85,9000000.0,2023-2024,Premier-League
-zack steffen,Colorado Rapids,1.91,2000000.0,2023-2024,Premier-League
-true grant,Manchester City U21,,500000.0,2023-2024,Premier-League
-scott carson,Without Club,1.88,200000.0,2023-2024,Premier-League
-rúben dias,Manchester City,1.87,80000000.0,2023-2024,Premier-League
-manuel akanji,Manchester City,1.88,45000000.0,2023-2024,Premier-League
-nathan aké,Manchester City,1.8,40000000.0,2023-2024,Premier-League
-john stones,Manchester City,1.88,38000000.0,2023-2024,Premier-League
-taylor harwood-bellis,Southampton FC,1.88,22000000.0,2023-2024,Premier-League
-aymeric laporte,Al-Nassr FC,1.91,20000000.0,2023-2024,Premier-League
-max alleyne,Manchester City U21,1.85,500000.0,2023-2024,Premier-League
-josko gvardiol,Manchester City,1.85,75000000.0,2023-2024,Premier-League
-josh wilson-esbrand,Manchester City,1.76,4000000.0,2023-2024,Premier-League
-rico lewis,Manchester City,1.7,38000000.0,2023-2024,Premier-League
-kyle walker,Burnley FC,1.83,13000000.0,2023-2024,Premier-League
-issa kaboré,Manchester City,1.8,10000000.0,2023-2024,Premier-League
-rodri,Manchester City,1.91,120000000.0,2023-2024,Premier-League
-kalvin phillips,Manchester City,1.79,25000000.0,2023-2024,Premier-League
-máximo perrone,Como 1907,1.77,9000000.0,2023-2024,Premier-League
-mahamadou susoho,Manchester City U21,1.75,1500000.0,2023-2024,Premier-League
-jacob wright,Norwich City,1.78,800000.0,2023-2024,Premier-League
-matheus nunes,Manchester City,1.83,50000000.0,2023-2024,Premier-League
-mateo kovacic,Manchester City,1.77,30000000.0,2023-2024,Premier-League
-cole palmer,Chelsea FC,1.85,80000000.0,2023-2024,Premier-League
-bernardo silva,Manchester City,1.73,70000000.0,2023-2024,Premier-League
-kevin de bruyne,SSC Napoli,1.81,50000000.0,2023-2024,Premier-League
-james mcatee,Manchester City,1.8,12000000.0,2023-2024,Premier-League
-jérémy doku,Manchester City,1.73,65000000.0,2023-2024,Premier-League
-jack grealish,Manchester City,1.8,60000000.0,2023-2024,Premier-League
-sergio gómez,Real Sociedad,1.71,10000000.0,2023-2024,Premier-League
-micah hamilton,Middlesbrough FC,1.77,2000000.0,2023-2024,Premier-League
-phil foden,Manchester City,1.71,150000000.0,2023-2024,Premier-League
-oscar bobb,Manchester City,1.75,25000000.0,2023-2024,Premier-League
-erling haaland,Manchester City,1.95,180000000.0,2023-2024,Premier-League
-julián alvarez,Atlético de Madrid,1.7,90000000.0,2023-2024,Premier-League
-david raya,Arsenal FC,1.83,35000000.0,2023-2024,Premier-League
-aaron ramsdale,Southampton FC,1.9,25000000.0,2023-2024,Premier-League
-matt turner,Nottingham Forest,1.91,7000000.0,2023-2024,Premier-League
-karl hein,Arsenal FC,1.93,2000000.0,2023-2024,Premier-League
-arthur okonkwo,Wrexham AFC,1.98,1800000.0,2023-2024,Premier-League
-william saliba,Arsenal FC,1.92,80000000.0,2023-2024,Premier-League
-gabriel magalhães,Arsenal FC,1.9,70000000.0,2023-2024,Premier-League
-jakub kiwior,Arsenal FC,1.89,30000000.0,2023-2024,Premier-League
-rob holding,Crystal Palace,1.89,5000000.0,2023-2024,Premier-League
-ayden heaven,Manchester United,1.89,300000.0,2023-2024,Premier-League
-oleksandr zinchenko,Arsenal FC,1.75,38000000.0,2023-2024,Premier-League
-kieran tierney,Celtic FC,1.8,12000000.0,2023-2024,Premier-League
-lino sousa,Aston Villa U21,1.85,2000000.0,2023-2024,Premier-League
-myles lewis-skelly,Arsenal FC,1.78,2000000.0,2023-2024,Premier-League
-ben white,Arsenal FC,1.86,55000000.0,2023-2024,Premier-League
-jurrien timber,Arsenal FC,1.79,38000000.0,2023-2024,Premier-League
-takehiro tomiyasu,Without Club,1.88,35000000.0,2023-2024,Premier-League
-reuell walters,Luton Town,1.86,4000000.0,2023-2024,Premier-League
-cédric soares,São Paulo Futebol Clube,1.71,2000000.0,2023-2024,Premier-League
-james sweet,St Albans City,1.8,250000.0,2023-2024,Premier-League
-thomas partey,Without Club,1.85,18000000.0,2023-2024,Premier-League
-jorginho,CR Flamengo,1.8,12000000.0,2023-2024,Premier-League
-mohamed elneny,Al-Jazira Club,1.79,3500000.0,2023-2024,Premier-League
-bradley ibrahim,Plymouth Argyle,1.85,400000.0,2023-2024,Premier-League
-declan rice,Arsenal FC,1.88,120000000.0,2023-2024,Premier-League
-albert sambi lokonga,Arsenal FC,1.83,15000000.0,2023-2024,Premier-League
-mauro bandeira,Without Club,1.78,200000.0,2023-2024,Premier-League
-martin ødegaard,Arsenal FC,1.78,110000000.0,2023-2024,Premier-League
-emile smith rowe,Fulham FC,1.82,22000000.0,2023-2024,Premier-League
-fábio vieira,Arsenal FC,1.7,22000000.0,2023-2024,Premier-League
-gabriel martinelli,Arsenal FC,1.78,70000000.0,2023-2024,Premier-League
-leandro trossard,Arsenal FC,1.72,35000000.0,2023-2024,Premier-League
-charles sagoe jr,Arsenal FC U21,,600000.0,2023-2024,Premier-League
-bukayo saka,Arsenal FC,1.78,140000000.0,2023-2024,Premier-League
-reiss nelson,Arsenal FC,1.75,15000000.0,2023-2024,Premier-League
-ethan nwaneri,Arsenal FC,1.76,8000000.0,2023-2024,Premier-League
-amario cozier-duberry,Bolton Wanderers,1.7,2000000.0,2023-2024,Premier-League
-kai havertz,Arsenal FC,1.93,70000000.0,2023-2024,Premier-League
-gabriel jesus,Arsenal FC,1.75,65000000.0,2023-2024,Premier-League
-eddie nketiah,Crystal Palace,1.75,30000000.0,2023-2024,Premier-League
-robert sánchez,Chelsea FC,1.97,20000000.0,2023-2024,Premier-League
-djordje petrovic,AFC Bournemouth,1.94,20000000.0,2023-2024,Premier-League
-marcus bettinelli,Manchester City,1.93,1000000.0,2023-2024,Premier-League
-lucas bergström,RCD Mallorca,2.05,700000.0,2023-2024,Premier-League
-teddy sharman-lowe,Bolton Wanderers,1.89,300000.0,2023-2024,Premier-League
-eddie beach,Kilmarnock FC,1.96,250000.0,2023-2024,Premier-League
-max merrick,Chelsea FC U21,,,2023-2024,Premier-League
-ted curd,Chelsea FC U21,1.9,,2023-2024,Premier-League
-levi colwill,Chelsea FC,1.87,50000000.0,2023-2024,Premier-League
-axel disasi,Chelsea FC,1.91,40000000.0,2023-2024,Premier-League
-benoît badiashile,Chelsea FC,1.94,30000000.0,2023-2024,Premier-League
-wesley fofana,Chelsea FC,1.85,25000000.0,2023-2024,Premier-League
-trevoh chalobah,Chelsea FC,1.92,13000000.0,2023-2024,Premier-League
-malang sarr,RC Lens,1.83,4000000.0,2023-2024,Premier-League
-thiago silva,Fluminense Football Club,1.81,1000000.0,2023-2024,Premier-League
-josh brooking,Aldershot Town,,500000.0,2023-2024,Premier-League
-harrison murray-campbell,Chelsea FC U21,1.89,250000.0,2023-2024,Premier-League
-billy gee,Norwich City U21,,,2023-2024,Premier-League
-ian maatsen,Aston Villa,1.78,40000000.0,2023-2024,Premier-League
-ben chilwell,Chelsea FC,1.8,28000000.0,2023-2024,Premier-League
-marc cucurella,Chelsea FC,1.73,25000000.0,2023-2024,Premier-League
-bashir humphreys,Burnley FC,1.86,4800000.0,2023-2024,Premier-League
-ishé samuels-smith,Chelsea FC U21,1.86,500000.0,2023-2024,Premier-League
-zak sturge,Millwall FC,1.88,250000.0,2023-2024,Premier-League
-dylan williams,Burton Albion,1.77,200000.0,2023-2024,Premier-League
-reece james,Chelsea FC,1.8,40000000.0,2023-2024,Premier-League
-malo gusto,Chelsea FC,1.78,35000000.0,2023-2024,Premier-League
-alfie gilchrist,Chelsea FC,1.83,5000000.0,2023-2024,Premier-League
-josh acheampong,Chelsea FC,1.85,300000.0,2023-2024,Premier-League
-moisés caicedo,Chelsea FC,1.78,75000000.0,2023-2024,Premier-League
-roméo lavia,Chelsea FC,1.81,35000000.0,2023-2024,Premier-League
-lesley ugochukwu,Chelsea FC,1.9,25000000.0,2023-2024,Premier-League
-ollie harrison,Chelsea FC U21,,,2023-2024,Premier-League
-enzo fernández,Chelsea FC,1.78,75000000.0,2023-2024,Premier-League
-conor gallagher,Atlético de Madrid,1.82,50000000.0,2023-2024,Premier-League
-andrey santos,Chelsea FC,1.8,15000000.0,2023-2024,Premier-League
-carney chukwuemeka,Chelsea FC,1.88,15000000.0,2023-2024,Premier-League
-cesare casadei,Torino FC,1.92,10000000.0,2023-2024,Premier-League
-alex matos,Chelsea FC U21,1.75,1200000.0,2023-2024,Premier-League
-michael golding,Leicester City,1.8,300000.0,2023-2024,Premier-League
-jimi tauriainen,Chelsea FC U21,1.88,200000.0,2023-2024,Premier-League
-kiano dyer,Chelsea FC U21,1.78,,2023-2024,Premier-League
-diego moreira,RC Strasbourg Alsace,1.79,3000000.0,2023-2024,Premier-League
-cole palmer,Chelsea FC,1.85,80000000.0,2023-2024,Premier-League
-leo castledine,Chelsea FC U21,1.75,900000.0,2023-2024,Premier-League
-mykhaylo mudryk,Chelsea FC,1.75,35000000.0,2023-2024,Premier-League
-tyrique george,Chelsea FC,1.81,,2023-2024,Premier-League
-raheem sterling,Chelsea FC,1.7,35000000.0,2023-2024,Premier-League
-noni madueke,Arsenal FC,1.82,28000000.0,2023-2024,Premier-League
-christopher nkunku,Chelsea FC,1.77,65000000.0,2023-2024,Premier-League
-nicolas jackson,Chelsea FC,1.87,35000000.0,2023-2024,Premier-League
-armando broja,Chelsea FC,1.91,22000000.0,2023-2024,Premier-League
-david datro fofana,Chelsea FC,1.82,12000000.0,2023-2024,Premier-League
-deivid washington,Santos FC,1.87,9000000.0,2023-2024,Premier-League
-mason burstow,Hull City,1.87,1800000.0,2023-2024,Premier-League
-ronnie stutter,Chelsea FC U21,1.8,200000.0,2023-2024,Premier-League
-alisson,Liverpool FC,1.93,28000000.0,2023-2024,Premier-League
-caoimhín kelleher,Brentford FC,1.88,20000000.0,2023-2024,Premier-League
-vitezslav jaros,Ajax Amsterdam,1.9,5000000.0,2023-2024,Premier-League
-adrián,Real Betis Balompié,1.9,600000.0,2023-2024,Premier-League
-marcelo pitaluga,Fluminense Football Club,1.93,300000.0,2023-2024,Premier-League
-fabian mrozek,Liverpool FC U21,1.92,200000.0,2023-2024,Premier-League
-ibrahima konaté,Liverpool FC,1.94,45000000.0,2023-2024,Premier-League
-virgil van dijk,Liverpool FC,1.95,30000000.0,2023-2024,Premier-League
-joe gomez,Liverpool FC,1.88,28000000.0,2023-2024,Premier-League
-jarell quansah,Bayer 04 Leverkusen,1.9,22000000.0,2023-2024,Premier-League
-joel matip,nan,1.95,8000000.0,2023-2024,Premier-League
-nat phillips,West Bromwich Albion,1.9,3500000.0,2023-2024,Premier-League
-rhys williams,Liverpool FC,1.95,1800000.0,2023-2024,Premier-League
-luke chambers,Liverpool FC U21,1.81,1500000.0,2023-2024,Premier-League
-amara nallo,Liverpool FC U21,1.86,,2023-2024,Premier-League
-andrew robertson,Liverpool FC,1.78,30000000.0,2023-2024,Premier-League
-konstantinos tsimikas,Liverpool FC,1.79,22000000.0,2023-2024,Premier-League
-owen beck,Liverpool FC U21,1.77,1250000.0,2023-2024,Premier-League
-calum scanlon,Liverpool FC U21,,700000.0,2023-2024,Premier-League
-trent alexander-arnold,Real Madrid,1.8,70000000.0,2023-2024,Premier-League
-conor bradley,Liverpool FC,1.81,15000000.0,2023-2024,Premier-League
-calvin ramsay,Liverpool FC,1.77,4000000.0,2023-2024,Premier-League
-ryan gravenberch,Liverpool FC,1.9,35000000.0,2023-2024,Premier-League
-wataru endo,Liverpool FC,1.78,13000000.0,2023-2024,Premier-League
-stefan bajcetic,Liverpool FC,1.85,11000000.0,2023-2024,Premier-League
-alexis mac allister,Liverpool FC,1.76,75000000.0,2023-2024,Premier-League
-curtis jones,Liverpool FC,1.85,35000000.0,2023-2024,Premier-League
-thiago alcántara,nan,1.74,10000000.0,2023-2024,Premier-League
-bobby clark,Red Bull Salzburg,1.78,1000000.0,2023-2024,Premier-League
-james mcconnell,Liverpool FC U21,,500000.0,2023-2024,Premier-League
-trey nyoni,Liverpool FC U21,1.8,500000.0,2023-2024,Premier-League
-tom hill,Harrogate Town,1.9,300000.0,2023-2024,Premier-League
-dominik szoboszlai,Liverpool FC,1.87,75000000.0,2023-2024,Premier-League
-harvey elliott,Liverpool FC,1.7,35000000.0,2023-2024,Premier-League
-fábio carvalho,Brentford FC,1.7,14000000.0,2023-2024,Premier-League
-mateusz musialowski,Omonia Nicosia,1.75,300000.0,2023-2024,Premier-League
-luis díaz,Liverpool FC,1.8,75000000.0,2023-2024,Premier-League
-cody gakpo,Liverpool FC,1.93,50000000.0,2023-2024,Premier-League
-lewis koumas,Liverpool FC U21,1.82,1000000.0,2023-2024,Premier-League
-mohamed salah,Liverpool FC,1.75,55000000.0,2023-2024,Premier-League
-ben doak,Liverpool FC,1.73,10000000.0,2023-2024,Premier-League
-kaide gordon,Liverpool FC U21,1.73,1200000.0,2023-2024,Premier-League
-darwin núñez,Liverpool FC,1.87,70000000.0,2023-2024,Premier-League
-diogo jota,---,1.78,50000000.0,2023-2024,Premier-League
-jayden danns,Liverpool FC U21,1.83,1000000.0,2023-2024,Premier-League
-guglielmo vicario,Tottenham Hotspur,1.94,35000000.0,2023-2024,Premier-League
-hugo lloris,Los Angeles FC,1.88,1200000.0,2023-2024,Premier-League
-fraser forster,Without Club,2.01,1200000.0,2023-2024,Premier-League
-brandon austin,Tottenham Hotspur,1.88,600000.0,2023-2024,Premier-League
-alfie whiteman,Without Club,1.88,500000.0,2023-2024,Premier-League
-cristian romero,Tottenham Hotspur,1.85,60000000.0,2023-2024,Premier-League
-micky van de ven,Tottenham Hotspur,1.93,55000000.0,2023-2024,Premier-League
-radu drăgușin,Tottenham Hotspur,1.91,25000000.0,2023-2024,Premier-League
-davinson sánchez,Galatasaray,1.87,17000000.0,2023-2024,Premier-League
-eric dier,AS Monaco,1.91,12000000.0,2023-2024,Premier-League
-ben davies,Tottenham Hotspur,1.81,10000000.0,2023-2024,Premier-League
-joe rodon,Leeds United,1.93,8000000.0,2023-2024,Premier-League
-ashley phillips,Tottenham Hotspur,1.96,2200000.0,2023-2024,Premier-League
-japhet tanganga,Millwall FC,1.84,1800000.0,2023-2024,Premier-League
-alfie dorrington,Aberdeen FC,,500000.0,2023-2024,Premier-League
-destiny udogie,Tottenham Hotspur,1.88,45000000.0,2023-2024,Premier-League
-sergio reguilón,Without Club,1.78,12000000.0,2023-2024,Premier-League
-ryan sessegnon,Fulham FC,1.78,10000000.0,2023-2024,Premier-League
-pedro porro,Tottenham Hotspur,1.73,45000000.0,2023-2024,Premier-League
-emerson royal,AC Milan,1.83,18000000.0,2023-2024,Premier-League
-yves bissouma,Tottenham Hotspur,1.82,35000000.0,2023-2024,Premier-League
-rodrigo bentancur,Tottenham Hotspur,1.87,35000000.0,2023-2024,Premier-League
-pierre-emile højbjerg,Olympique Marseille,1.85,18000000.0,2023-2024,Premier-League
-oliver skipp,Leicester City,1.75,15000000.0,2023-2024,Premier-League
-pape matar sarr,Tottenham Hotspur,1.84,45000000.0,2023-2024,Premier-League
-tyrese hall,Tottenham Hotspur U21,,,2023-2024,Premier-League
-james maddison,Tottenham Hotspur,1.75,70000000.0,2023-2024,Premier-League
-dejan kulusevski,Tottenham Hotspur,1.86,55000000.0,2023-2024,Premier-League
-giovani lo celso,Real Betis Balompié,1.77,16000000.0,2023-2024,Premier-League
-heung-min son,Tottenham Hotspur,1.84,45000000.0,2023-2024,Premier-League
-timo werner,RB Leipzig,1.8,17000000.0,2023-2024,Premier-League
-bryan gil,Tottenham Hotspur,1.75,14000000.0,2023-2024,Premier-League
-manor solomon,Tottenham Hotspur,1.7,13000000.0,2023-2024,Premier-League
-yago santiago,Elche CF,1.8,200000.0,2023-2024,Premier-League
-mikey moore,Tottenham Hotspur,1.8,,2023-2024,Premier-League
-brennan johnson,Tottenham Hotspur,1.86,48000000.0,2023-2024,Premier-League
-ivan perišić,PSV Eindhoven,1.86,2000000.0,2023-2024,Premier-League
-jamie donley,Tottenham Hotspur U21,1.83,1500000.0,2023-2024,Premier-League
-richarlison,Tottenham Hotspur,1.84,38000000.0,2023-2024,Premier-League
-alejo veliz,CA Rosario Central,1.86,9000000.0,2023-2024,Premier-League
-dane scarlett,Tottenham Hotspur,1.8,1800000.0,2023-2024,Premier-League
-andré onana,Manchester United,1.9,35000000.0,2023-2024,Premier-League
-dean henderson,Crystal Palace,1.88,12000000.0,2023-2024,Premier-League
-altay bayındır,Manchester United,1.98,10000000.0,2023-2024,Premier-League
-radek vítek,Manchester United U21,1.98,300000.0,2023-2024,Premier-League
-tom heaton,Manchester United,1.88,250000.0,2023-2024,Premier-League
-dermot mee,Manchester United U21,1.83,,2023-2024,Premier-League
-lisandro martínez,Manchester United,1.75,45000000.0,2023-2024,Premier-League
-raphaël varane,nan,1.91,20000000.0,2023-2024,Premier-League
-harry maguire,Manchester United,1.94,18000000.0,2023-2024,Premier-League
-victor lindelöf,Without Club,1.87,15000000.0,2023-2024,Premier-League
-willy kambwala,Villarreal CF,1.92,5000000.0,2023-2024,Premier-League
-jonny evans,nan,1.88,2000000.0,2023-2024,Premier-League
-rhys bennett,Manchester United U21,1.87,,2023-2024,Premier-League
-louis jackson,Manchester United U21,1.91,,2023-2024,Premier-League
-luke shaw,Manchester United,1.78,32000000.0,2023-2024,Premier-League
-tyrell malacia,Manchester United,1.69,18000000.0,2023-2024,Premier-League
-sergio reguilón,Without Club,1.78,12000000.0,2023-2024,Premier-League
-álvaro carreras,Real Madrid,1.86,7000000.0,2023-2024,Premier-League
-brandon williams,Without Club,1.8,2500000.0,2023-2024,Premier-League
-harry amass,Manchester United,1.81,,2023-2024,Premier-League
-diogo dalot,Manchester United,1.83,35000000.0,2023-2024,Premier-League
-aaron wan-bissaka,West Ham United,1.83,20000000.0,2023-2024,Premier-League
-habeeb ogunneye,Newport County,,,2023-2024,Premier-League
-sofyan amrabat,Fenerbahce,1.85,22000000.0,2023-2024,Premier-League
-casemiro,Manchester United,1.85,20000000.0,2023-2024,Premier-League
-toby collyer,Manchester United,1.8,200000.0,2023-2024,Premier-League
-kobbie mainoo,Manchester United,1.8,50000000.0,2023-2024,Premier-League
-scott mctominay,SSC Napoli,1.91,32000000.0,2023-2024,Premier-League
-christian eriksen,Without Club,1.82,8000000.0,2023-2024,Premier-League
-donny van de beek,Girona FC,1.84,5000000.0,2023-2024,Premier-League
-daniel gore,Rotherham United,,900000.0,2023-2024,Premier-League
-bruno fernandes,Manchester United,1.79,70000000.0,2023-2024,Premier-League
-alejandro garnacho,Manchester United,1.8,45000000.0,2023-2024,Premier-League
-mason mount,Manchester United,1.81,35000000.0,2023-2024,Premier-League
-hannibal,Burnley FC,1.83,9000000.0,2023-2024,Premier-League
-marcus rashford,Manchester United,1.85,60000000.0,2023-2024,Premier-League
-jadon sancho,Manchester United,1.8,30000000.0,2023-2024,Premier-League
-shola shoretire,PAOK Thessaloniki,1.71,4000000.0,2023-2024,Premier-League
-antony,Manchester United,1.72,25000000.0,2023-2024,Premier-League
-amad diallo,Manchester United,1.73,18000000.0,2023-2024,Premier-League
-facundo pellistri,Panathinaikos FC,1.75,8000000.0,2023-2024,Premier-League
-omari forson,AC Monza,1.79,2000000.0,2023-2024,Premier-League
-rasmus højlund,Manchester United,1.91,65000000.0,2023-2024,Premier-League
-anthony martial,AEK Athens,1.81,10000000.0,2023-2024,Premier-League
-joe hugill,Barnet FC,1.88,200000.0,2023-2024,Premier-League
-ethan wheatley,Manchester United,1.87,,2023-2024,Premier-League
-emiliano martínez,Aston Villa,1.95,28000000.0,2023-2024,Premier-League
-joe gauci,Aston Villa,1.94,1500000.0,2023-2024,Premier-League
-robin olsen,Malmö FF,1.96,1500000.0,2023-2024,Premier-League
-filip marschall,Aston Villa,1.95,800000.0,2023-2024,Premier-League
-oliwier zych,Raków Częstochowa,1.93,800000.0,2023-2024,Premier-League
-james wright,Aston Villa U21,1.88,200000.0,2023-2024,Premier-League
-sam proctor,Aston Villa U21,,,2023-2024,Premier-League
-lander emery,Real Unión Club,,,2023-2024,Premier-League
-pau torres,Aston Villa,1.92,45000000.0,2023-2024,Premier-League
-ezri konsa,Aston Villa,1.83,35000000.0,2023-2024,Premier-League
-diego carlos,Fenerbahce,1.85,16000000.0,2023-2024,Premier-League
-tyrone mings,Aston Villa,1.96,13000000.0,2023-2024,Premier-League
-clément lenglet,Atlético de Madrid,1.86,10000000.0,2023-2024,Premier-League
-calum chambers,Cardiff City,1.82,4000000.0,2023-2024,Premier-League
-kortney hause,Without Club,1.91,2000000.0,2023-2024,Premier-League
-josh feeney,Huddersfield Town,1.96,500000.0,2023-2024,Premier-League
-finley munroe,Swindon Town,1.81,100000.0,2023-2024,Premier-League
-álex moreno,Aston Villa,1.79,13000000.0,2023-2024,Premier-League
-lucas digne,Aston Villa,1.78,12000000.0,2023-2024,Premier-League
-lino sousa,Aston Villa U21,1.85,2000000.0,2023-2024,Premier-League
-sebastian revan,Wrexham AFC,1.81,350000.0,2023-2024,Premier-League
-travis patterson,Aston Villa U21,,,2023-2024,Premier-League
-matty cash,Aston Villa,1.85,28000000.0,2023-2024,Premier-League
-kaine kesler-hayden,Coventry City,1.75,2200000.0,2023-2024,Premier-League
-boubacar kamara,Aston Villa,1.84,38000000.0,2023-2024,Premier-League
-leander dendoncker,Aston Villa,1.88,7000000.0,2023-2024,Premier-League
-douglas luiz,Juventus FC,1.77,70000000.0,2023-2024,Premier-League
-john mcginn,Aston Villa,1.78,30000000.0,2023-2024,Premier-League
-youri tielemans,Aston Villa,1.77,25000000.0,2023-2024,Premier-League
-tim iroegbunam,Everton FC,1.83,4000000.0,2023-2024,Premier-League
-jacob ramsey,Aston Villa,1.8,35000000.0,2023-2024,Premier-League
-emiliano buendía,Aston Villa,1.72,22000000.0,2023-2024,Premier-League
-nicolò zaniolo,Galatasaray,1.9,20000000.0,2023-2024,Premier-League
-morgan rogers,Aston Villa,1.87,15000000.0,2023-2024,Premier-League
-philippe coutinho,Clube de Regatas Vasco da Gama,1.72,7500000.0,2023-2024,Premier-League
-omari kellyman,Chelsea FC U21,1.91,1000000.0,2023-2024,Premier-League
-tommi o'reilly,Crewe Alexandra,1.7,200000.0,2023-2024,Premier-League
-jaden philogene,Ipswich Town,1.81,15000000.0,2023-2024,Premier-League
-kadan young,Aston Villa U21,1.76,,2023-2024,Premier-League
-moussa diaby,Al-Ittihad Club,1.7,55000000.0,2023-2024,Premier-League
-leon bailey,Aston Villa,1.78,42000000.0,2023-2024,Premier-League
-bertrand traoré,Ajax Amsterdam,1.81,9000000.0,2023-2024,Premier-League
-ollie watkins,Aston Villa,1.8,65000000.0,2023-2024,Premier-League
-jhon durán,Fenerbahce,1.85,20000000.0,2023-2024,Premier-League
-cameron archer,Southampton FC,1.75,13000000.0,2023-2024,Premier-League
-nick pope,Newcastle United,1.98,16000000.0,2023-2024,Premier-League
-martin dúbravka,Newcastle United,1.91,1000000.0,2023-2024,Premier-League
-loris karius,FC Schalke 04,1.91,1000000.0,2023-2024,Premier-League
-mark gillespie,Newcastle United,1.91,300000.0,2023-2024,Premier-League
-adam harrison,Newcastle United U21,,,2023-2024,Premier-League
-aidan harris,Newcastle United U21,,,2023-2024,Premier-League
-sven botman,Newcastle United,1.93,45000000.0,2023-2024,Premier-League
-fabian schär,Newcastle United,1.86,10000000.0,2023-2024,Premier-League
-dan burn,Newcastle United,2.01,8000000.0,2023-2024,Premier-League
-jamaal lascelles,Newcastle United,1.88,7000000.0,2023-2024,Premier-League
-kell watts,Cambridge United,1.92,250000.0,2023-2024,Premier-League
-lewis hall,Newcastle United,1.79,18000000.0,2023-2024,Premier-League
-matt targett,Newcastle United,1.83,10000000.0,2023-2024,Premier-League
-jamal lewis,Without Club,1.78,3500000.0,2023-2024,Premier-League
-paul dummett,Without Club,1.83,900000.0,2023-2024,Premier-League
-alex murphy,Newcastle United,1.88,250000.0,2023-2024,Premier-League
-tino livramento,Newcastle United,1.82,35000000.0,2023-2024,Premier-League
-kieran trippier,Newcastle United,1.73,10000000.0,2023-2024,Premier-League
-emil krafth,Newcastle United,1.84,2500000.0,2023-2024,Premier-League
-javier manquillo,Without Club,1.78,1800000.0,2023-2024,Premier-League
-harrison ashby,Newcastle United,1.79,1200000.0,2023-2024,Premier-League
-bruno guimarães,Newcastle United,1.82,85000000.0,2023-2024,Premier-League
-isaac hayden,Newcastle United,1.87,1800000.0,2023-2024,Premier-League
-joelinton,Newcastle United,1.86,40000000.0,2023-2024,Premier-League
-sandro tonali,Newcastle United,1.81,38000000.0,2023-2024,Premier-League
-joe willock,Newcastle United,1.86,30000000.0,2023-2024,Premier-League
-sean longstaff,Leeds United,1.87,25000000.0,2023-2024,Premier-League
-lewis miley,Newcastle United,1.89,22000000.0,2023-2024,Premier-League
-elliot anderson,Nottingham Forest,1.79,15000000.0,2023-2024,Premier-League
-jeff hendrick,Without Club,1.85,500000.0,2023-2024,Premier-League
-lucas de bolle,Portimonense SAD,,150000.0,2023-2024,Premier-League
-travis hernes,Newcastle United U21,1.79,150000.0,2023-2024,Premier-League
-james huntley,Without Club,,,2023-2024,Premier-League
-matt ritchie,Portsmouth FC,1.73,1000000.0,2023-2024,Premier-League
-joe white,Newcastle United,1.86,300000.0,2023-2024,Premier-League
-anthony gordon,Newcastle United,1.83,60000000.0,2023-2024,Premier-League
-harvey barnes,Newcastle United,1.82,35000000.0,2023-2024,Premier-League
-ryan fraser,Southampton FC,1.63,3000000.0,2023-2024,Premier-League
-amadou diallo,Without Club,1.66,400000.0,2023-2024,Premier-League
-miguel almirón,Atlanta United FC,1.74,20000000.0,2023-2024,Premier-League
-jacob murphy,Newcastle United,1.79,15000000.0,2023-2024,Premier-League
-alexander isak,Newcastle United,1.92,75000000.0,2023-2024,Premier-League
-callum wilson,Without Club,1.8,13000000.0,2023-2024,Premier-League
-ben parkinson,Newcastle United U21,1.83,250000.0,2023-2024,Premier-League
-michael ndiweni,Newcastle Blue Star,,,2023-2024,Premier-League
-bart verbruggen,Brighton & Hove Albion,1.94,18000000.0,2023-2024,Premier-League
-jason steele,Brighton & Hove Albion,1.88,3500000.0,2023-2024,Premier-League
-carl rushworth,Brighton & Hove Albion,1.91,3000000.0,2023-2024,Premier-League
-tom mcgill,Brighton & Hove Albion,1.85,600000.0,2023-2024,Premier-League
-adam webster,Brighton & Hove Albion,1.9,20000000.0,2023-2024,Premier-League
-jan paul van hecke,Brighton & Hove Albion,1.89,18000000.0,2023-2024,Premier-League
-igor,Brighton & Hove Albion,1.88,17000000.0,2023-2024,Premier-League
-lewis dunk,Brighton & Hove Albion,1.92,12000000.0,2023-2024,Premier-League
-ed turns,Exeter City,1.86,400000.0,2023-2024,Premier-League
-ben jackson,Without Club,1.9,200000.0,2023-2024,Premier-League
-leigh kavanagh,Bohemian Football Club,1.89,200000.0,2023-2024,Premier-League
-noel atom,Brighton & Hove Albion U21,1.92,,2023-2024,Premier-League
-pervis estupiñán,Brighton & Hove Albion,1.75,30000000.0,2023-2024,Premier-League
-imari samuels,Dundee FC,1.87,100000.0,2023-2024,Premier-League
-tariq lamptey,Brighton & Hove Albion,1.63,12000000.0,2023-2024,Premier-League
-joël veltman,Brighton & Hove Albion,1.84,10000000.0,2023-2024,Premier-League
-odeluga offiah,Preston North End,1.87,300000.0,2023-2024,Premier-League
-carlos baleba,Brighton & Hove Albion,1.79,22000000.0,2023-2024,Premier-League
-billy gilmour,SSC Napoli,1.7,18000000.0,2023-2024,Premier-League
-jack hinchy,Notts County,,150000.0,2023-2024,Premier-League
-jack hinshelwood,Brighton & Hove Albion,1.82,16000000.0,2023-2024,Premier-League
-valentín barco,RC Strasbourg Alsace,1.7,13000000.0,2023-2024,Premier-League
-jakub moder,Feyenoord Rotterdam,1.91,10000000.0,2023-2024,Premier-League
-pascal groß,Borussia Dortmund,1.81,8000000.0,2023-2024,Premier-League
-mahmoud dahoud,Eintracht Frankfurt,1.78,6000000.0,2023-2024,Premier-League
-yasin ayari,Brighton & Hove Albion,1.72,4500000.0,2023-2024,Premier-League
-steven alzate,Hull City,1.8,4000000.0,2023-2024,Premier-League
-james milner,Brighton & Hove Albion,1.75,1000000.0,2023-2024,Premier-League
-marc leonard,Birmingham City,1.8,450000.0,2023-2024,Premier-League
-jensen weir,Wigan Athletic,1.84,300000.0,2023-2024,Premier-League
-samy chouchane,Without Club,1.8,250000.0,2023-2024,Premier-League
-julio enciso,Brighton & Hove Albion,1.73,22000000.0,2023-2024,Premier-League
-facundo buonanotte,Brighton & Hove Albion,1.74,18000000.0,2023-2024,Premier-League
-andrew moran,Brighton & Hove Albion,1.77,3000000.0,2023-2024,Premier-League
-adam lallana,nan,1.72,1000000.0,2023-2024,Premier-League
-kaoru mitoma,Brighton & Hove Albion,1.78,45000000.0,2023-2024,Premier-League
-simon adingra,Sunderland AFC,1.75,30000000.0,2023-2024,Premier-League
-ansu fati,AS Monaco,1.78,25000000.0,2023-2024,Premier-League
-abdallah sima,Brighton & Hove Albion,1.88,7500000.0,2023-2024,Premier-League
-jeremy sarmiento,Brighton & Hove Albion,1.78,4500000.0,2023-2024,Premier-League
-luca barrington,Without Club,,150000.0,2023-2024,Premier-League
-cameron peupion,ADO Den Haag,1.75,100000.0,2023-2024,Premier-League
-solly march,Brighton & Hove Albion,1.8,18000000.0,2023-2024,Premier-League
-benicio baker,Millwall FC,,400000.0,2023-2024,Premier-League
-evan ferguson,Brighton & Hove Albion,1.88,50000000.0,2023-2024,Premier-League
-joão pedro,Chelsea FC,1.82,45000000.0,2023-2024,Premier-League
-danny welbeck,Brighton & Hove Albion,1.85,5000000.0,2023-2024,Premier-League
-joshua duffus,Brighton & Hove Albion U21,1.87,500000.0,2023-2024,Premier-League
-mark o'mahony,Reading FC,1.82,300000.0,2023-2024,Premier-League
-matt turner,Nottingham Forest,1.91,7000000.0,2023-2024,Premier-League
-odysseas vlachodimos,Newcastle United,1.91,7000000.0,2023-2024,Premier-League
-matz sels,Nottingham Forest,1.88,7000000.0,2023-2024,Premier-League
-ethan horvath,Cardiff City,1.95,1800000.0,2023-2024,Premier-League
-wayne hennessey,nan,1.98,250000.0,2023-2024,Premier-League
-murillo,Nottingham Forest,1.8,35000000.0,2023-2024,Premier-League
-moussa niakhaté,Olympique Lyon,1.9,16000000.0,2023-2024,Premier-League
-andrew omobamidele,RC Strasbourg Alsace,1.88,11000000.0,2023-2024,Premier-League
-scott mckenna,GNK Dinamo Zagreb,1.89,9000000.0,2023-2024,Premier-League
-joe worrall,Burnley FC,1.9,7500000.0,2023-2024,Premier-League
-willy boly,Nottingham Forest,1.95,2500000.0,2023-2024,Premier-League
-felipe,nan,1.9,1500000.0,2023-2024,Premier-League
-zach abbott,Nottingham Forest U21,,300000.0,2023-2024,Premier-League
-nuno tavares,SS Lazio,1.83,15000000.0,2023-2024,Premier-League
-harry toffolo,Without Club,1.83,5000000.0,2023-2024,Premier-League
-neco williams,Nottingham Forest,1.83,17000000.0,2023-2024,Premier-League
-ola aina,Nottingham Forest,1.84,12000000.0,2023-2024,Premier-League
-gonzalo montiel,CA River Plate,1.75,10000000.0,2023-2024,Premier-League
-serge aurier,Without Club,1.76,3700000.0,2023-2024,Premier-League
-ibrahim sangaré,Nottingham Forest,1.91,30000000.0,2023-2024,Premier-League
-danilo,Botafogo de Futebol e Regatas,1.77,28000000.0,2023-2024,Premier-League
-orel mangala,Olympique Lyon,1.78,20000000.0,2023-2024,Premier-League
-cheikhou kouyaté,Without Club,1.89,1000000.0,2023-2024,Premier-League
-jamie mcdonnell,Mansfield Town,,200000.0,2023-2024,Premier-League
-nicolás domínguez,Nottingham Forest,1.79,17000000.0,2023-2024,Premier-League
-andrey santos,Chelsea FC,1.8,15000000.0,2023-2024,Premier-League
-ryan yates,Nottingham Forest,1.9,12000000.0,2023-2024,Premier-League
-remo freuler,Bologna FC 1909,1.8,6500000.0,2023-2024,Premier-League
-lewis o'brien,Nottingham Forest,1.73,5000000.0,2023-2024,Premier-League
-harry arter,Precision FC,1.77,400000.0,2023-2024,Premier-League
-morgan gibbs-white,Nottingham Forest,1.71,40000000.0,2023-2024,Premier-League
-giovanni reyna,Borussia Dortmund,1.85,18000000.0,2023-2024,Premier-League
-brandon aguilera,Rio Ave FC,1.79,300000.0,2023-2024,Premier-League
-callum hudson-odoi,Nottingham Forest,1.78,18000000.0,2023-2024,Premier-League
-alex mighten,San Diego FC,1.71,600000.0,2023-2024,Premier-League
-brennan johnson,Tottenham Hotspur,1.86,48000000.0,2023-2024,Premier-League
-anthony elanga,Newcastle United,1.78,22000000.0,2023-2024,Premier-League
-josh bowler,Nottingham Forest,1.84,1500000.0,2023-2024,Premier-League
-taiwo awoniyi,Nottingham Forest,1.83,28000000.0,2023-2024,Premier-League
-chris wood,Nottingham Forest,1.91,7000000.0,2023-2024,Premier-League
-divock origi,Milan Futuro,1.89,5000000.0,2023-2024,Premier-League
-emmanuel dennis,Nottingham Forest,1.75,4200000.0,2023-2024,Premier-League
-rodrigo ribeiro,Sporting CP,1.86,3000000.0,2023-2024,Premier-League
-ui-jo hwang,Alanyaspor,1.85,1800000.0,2023-2024,Premier-League
-joe gardner,Mansfield Town,,150000.0,2023-2024,Premier-League
-detlef esapa osong,Nottingham Forest U21,,150000.0,2023-2024,Premier-League
-alphonse areola,West Ham United,1.95,10000000.0,2023-2024,Premier-League
-lukasz fabianski,Without Club,1.9,700000.0,2023-2024,Premier-League
-joseph anang,St. Patrick's Athletic,1.9,300000.0,2023-2024,Premier-League
-jacob knightbridge,Oxford United,,,2023-2024,Premier-League
-nayef aguerd,West Ham United,1.9,35000000.0,2023-2024,Premier-League
-kurt zouma,Without Club,1.9,25000000.0,2023-2024,Premier-League
-konstantinos mavropanos,West Ham United,1.94,20000000.0,2023-2024,Premier-League
-thilo kehrer,AS Monaco,1.86,10000000.0,2023-2024,Premier-League
-kaelan casey,West Ham United,1.85,1000000.0,2023-2024,Premier-League
-angelo ogbonna,Without Club,1.91,700000.0,2023-2024,Premier-League
-levi laing,Cavalry FC,1.88,150000.0,2023-2024,Premier-League
-emerson,West Ham United,1.76,12000000.0,2023-2024,Premier-League
-aaron cresswell,Stoke City,1.7,900000.0,2023-2024,Premier-League
-oliver scarles,West Ham United,1.8,400000.0,2023-2024,Premier-League
-ben johnson,Ipswich Town,1.84,8000000.0,2023-2024,Premier-League
-vladimír coufal,Without Club,1.74,8000000.0,2023-2024,Premier-League
-edson álvarez,West Ham United,1.9,35000000.0,2023-2024,Premier-League
-tomas soucek,West Ham United,1.92,30000000.0,2023-2024,Premier-League
-kalvin phillips,Manchester City,1.79,25000000.0,2023-2024,Premier-League
-flynn downes,Southampton FC,1.78,9000000.0,2023-2024,Premier-League
-conor coventry,Charlton Athletic,1.77,1500000.0,2023-2024,Premier-League
-james ward-prowse,West Ham United,1.77,30000000.0,2023-2024,Premier-League
-pablo fornals,Real Betis Balompié,1.78,14000000.0,2023-2024,Premier-League
-lewis orford,West Ham United,1.82,400000.0,2023-2024,Premier-League
-dan chesters,Salford City,,200000.0,2023-2024,Premier-League
-lucas paquetá,West Ham United,1.8,65000000.0,2023-2024,Premier-League
-george earthy,West Ham United,1.8,1000000.0,2023-2024,Premier-League
-kamarai swyer,Northampton Town,1.83,250000.0,2023-2024,Premier-League
-saïd benrahma,NEOM SC,1.72,20000000.0,2023-2024,Premier-League
-maxwel cornet,West Ham United,1.79,9000000.0,2023-2024,Premier-League
-mohammed kudus,Tottenham Hotspur,1.77,50000000.0,2023-2024,Premier-League
-jarrod bowen,West Ham United,1.76,50000000.0,2023-2024,Premier-League
-danny ings,Without Club,1.77,8000000.0,2023-2024,Premier-League
-michail antonio,Without Club,1.8,4000000.0,2023-2024,Premier-League
-callum marshall,West Ham United,1.72,2000000.0,2023-2024,Premier-League
-divin mubama,Stoke City,1.83,1000000.0,2023-2024,Premier-League
-dean henderson,Crystal Palace,1.88,12000000.0,2023-2024,Premier-League
-sam johnstone,Wolverhampton Wanderers,1.93,10000000.0,2023-2024,Premier-League
-joe whitworth,Exeter City,1.79,1000000.0,2023-2024,Premier-League
-remi matthews,Crystal Palace,1.92,500000.0,2023-2024,Premier-League
-marc guéhi,Crystal Palace,1.82,38000000.0,2023-2024,Premier-League
-joachim andersen,Fulham FC,1.92,35000000.0,2023-2024,Premier-League
-chris richards,Crystal Palace,1.88,12000000.0,2023-2024,Premier-League
-rob holding,Crystal Palace,1.89,5000000.0,2023-2024,Premier-League
-nathan ferguson,Without Club,1.84,1000000.0,2023-2024,Premier-League
-james tomkins,nan,1.92,700000.0,2023-2024,Premier-League
-seán grehan,Doncaster Rovers,1.82,150000.0,2023-2024,Premier-League
-tyrick mitchell,Crystal Palace,1.81,25000000.0,2023-2024,Premier-League
-tayo adaramola,Crystal Palace U21,1.77,800000.0,2023-2024,Premier-League
-daniel muñoz,Crystal Palace,1.81,18000000.0,2023-2024,Premier-League
-nathaniel clyne,Crystal Palace,1.75,1500000.0,2023-2024,Premier-League
-joel ward,Without Club,1.86,1000000.0,2023-2024,Premier-League
-cheick doucouré,Crystal Palace,1.8,35000000.0,2023-2024,Premier-League
-adam wharton,Crystal Palace,1.82,30000000.0,2023-2024,Premier-League
-jefferson lerma,Crystal Palace,1.79,20000000.0,2023-2024,Premier-League
-jaïro riedewald,Without Club,1.82,3000000.0,2023-2024,Premier-League
-david ozoh,Crystal Palace,1.89,700000.0,2023-2024,Premier-League
-kaden rodney,Crystal Palace U21,1.89,200000.0,2023-2024,Premier-League
-will hughes,Crystal Palace,1.85,9000000.0,2023-2024,Premier-League
-naouirou ahamada,Crystal Palace,1.83,8000000.0,2023-2024,Premier-League
-jack wells-morrison,Without Club,1.8,200000.0,2023-2024,Premier-League
-jeffrey schlupp,Without Club,1.78,7000000.0,2023-2024,Premier-League
-eberechi eze,Crystal Palace,1.78,55000000.0,2023-2024,Premier-League
-matheus frança,Crystal Palace,1.84,15000000.0,2023-2024,Premier-League
-jadan raymond,Without Club,,,2023-2024,Premier-League
-john-kymani gordon,Colchester United,1.81,200000.0,2023-2024,Premier-League
-michael olise,Bayern Munich,1.84,55000000.0,2023-2024,Premier-League
-jordan ayew,Leicester City,1.82,4000000.0,2023-2024,Premier-League
-jesurun rak-sakyi,Crystal Palace,1.78,2000000.0,2023-2024,Premier-League
-malcolm ebiowei,Crystal Palace,1.85,1500000.0,2023-2024,Premier-League
-franco umeh-chibueze,Crystal Palace U21,,75000.0,2023-2024,Premier-League
-roshaun mathurin,Without Club,,,2023-2024,Premier-League
-jean-philippe mateta,Crystal Palace,1.92,20000000.0,2023-2024,Premier-League
-odsonne edouard,Crystal Palace,1.87,18000000.0,2023-2024,Premier-League
-luke plange,Grasshopper Club Zurich,1.88,800000.0,2023-2024,Premier-League
-ademola ola-adebomi,Crystal Palace U21,1.95,250000.0,2023-2024,Premier-League
-josé sá,Wolverhampton Wanderers,1.92,14000000.0,2023-2024,Premier-League
-daniel bentley,Wolverhampton Wanderers,1.93,2000000.0,2023-2024,Premier-League
-tom king,Wolverhampton Wanderers,1.94,200000.0,2023-2024,Premier-League
-louie moulden,Norwich City,1.9,175000.0,2023-2024,Premier-League
-maximilian kilman,West Ham United,1.94,32000000.0,2023-2024,Premier-League
-toti,Wolverhampton Wanderers,1.87,20000000.0,2023-2024,Premier-League
-santiago bueno,Wolverhampton Wanderers,1.9,8000000.0,2023-2024,Premier-League
-yerson mosquera,Wolverhampton Wanderers,1.88,6000000.0,2023-2024,Premier-League
-craig dawson,Without Club,1.88,2000000.0,2023-2024,Premier-League
-justin hubner,Without Club,1.87,350000.0,2023-2024,Premier-League
-alfie pond,Wolverhampton Wanderers U21,1.91,250000.0,2023-2024,Premier-League
-temple ojinnaka,Wolverhampton Wanderers U21,1.91,,2023-2024,Premier-League
-rayan aït-nouri,Manchester City,1.8,35000000.0,2023-2024,Premier-League
-hugo bueno,Wolverhampton Wanderers,1.8,6000000.0,2023-2024,Premier-League
-aaron keto-diyawa,Without Club,,,2023-2024,Premier-League
-nélson semedo,Without Club,1.77,12000000.0,2023-2024,Premier-League
-jonny otto,Deportivo Alavés,1.75,5000000.0,2023-2024,Premier-League
-ki-jana hoever,Wolverhampton Wanderers,1.83,4500000.0,2023-2024,Premier-League
-matt doherty,Wolverhampton Wanderers,1.85,3000000.0,2023-2024,Premier-League
-wesley okoduwa,Wolverhampton Wanderers U21,,,2023-2024,Premier-League
-mario lemina,Galatasaray,1.84,10000000.0,2023-2024,Premier-League
-boubacar traoré,Wolverhampton Wanderers,1.83,6000000.0,2023-2024,Premier-League
-joe hodge,CD Tondela,1.72,1500000.0,2023-2024,Premier-League
-bruno jordão,Radomiak Radom,1.8,700000.0,2023-2024,Premier-League
-harvey griffiths,Wolverhampton Wanderers U21,1.9,150000.0,2023-2024,Premier-League
-matheus nunes,Manchester City,1.83,50000000.0,2023-2024,Premier-League
-joão gomes,Wolverhampton Wanderers,1.76,35000000.0,2023-2024,Premier-League
-jean-ricner bellegarde,Wolverhampton Wanderers,1.72,15000000.0,2023-2024,Premier-League
-tommy doyle,Birmingham City,1.72,10000000.0,2023-2024,Premier-League
-matthew whittingham,Without Club,,,2023-2024,Premier-League
-luke cundle,Millwall FC,1.71,5000000.0,2023-2024,Premier-League
-chem campbell,Stevenage FC,1.8,900000.0,2023-2024,Premier-League
-tawanda chirewa,Wolverhampton Wanderers,1.81,500000.0,2023-2024,Premier-League
-noha lemina,FC Annecy,1.68,500000.0,2023-2024,Premier-League
-ty barnett,Wolverhampton Wanderers U21,,,2023-2024,Premier-League
-owen hesketh,Radcliffe FC,1.8,,2023-2024,Premier-League
-enso gonzález,Wolverhampton Wanderers,1.69,4000000.0,2023-2024,Premier-League
-emilio ballard-matthews,Wolverhampton Wanderers U18,,,2023-2024,Premier-League
-pedro neto,Chelsea FC,1.74,55000000.0,2023-2024,Premier-League
-pablo sarabia,Al-Arabi SC,1.74,10000000.0,2023-2024,Premier-League
-matheus cunha,Manchester United,1.83,45000000.0,2023-2024,Premier-League
-hee-chan hwang,Wolverhampton Wanderers,1.77,25000000.0,2023-2024,Premier-League
-fábio silva,Wolverhampton Wanderers,1.85,11000000.0,2023-2024,Premier-League
-sasa kalajdzic,Wolverhampton Wanderers,2.0,5000000.0,2023-2024,Premier-League
-nathan fraser,Wolverhampton Wanderers,1.88,1000000.0,2023-2024,Premier-League
-leon chiwome,Wolverhampton Wanderers U21,1.86,1000000.0,2023-2024,Premier-League
-fletcher holman,Wolverhampton Wanderers U21,,,2023-2024,Premier-League
-mark flekken,Bayer 04 Leverkusen,1.95,12000000.0,2023-2024,Premier-League
-thomas strakosha,AEK Athens,1.93,3000000.0,2023-2024,Premier-League
-hákon rafn valdimarsson,Brentford FC,1.95,2500000.0,2023-2024,Premier-League
-matthew cox,Brentford FC,1.83,800000.0,2023-2024,Premier-League
-ellery balcombe,Brentford FC,1.9,300000.0,2023-2024,Premier-League
-vincent angelini,Al-Riyadh SC,1.9,100000.0,2023-2024,Premier-League
-nathan collins,Brentford FC,1.93,25000000.0,2023-2024,Premier-League
-kristoffer ajer,Brentford FC,1.98,15000000.0,2023-2024,Premier-League
-ethan pinnock,Brentford FC,1.94,12000000.0,2023-2024,Premier-League
-zanka,Los Angeles Galaxy,1.89,1000000.0,2023-2024,Premier-League
-ben mee,Without Club,1.8,1000000.0,2023-2024,Premier-League
-ji-soo kim,1.FC Kaiserslautern,1.92,600000.0,2023-2024,Premier-League
-charlie goode,Stevenage FC,1.96,500000.0,2023-2024,Premier-League
-benjamin fredrick,Brentford FC B,1.87,150000.0,2023-2024,Premier-League
-benjamin arthur,Brentford FC,,,2023-2024,Premier-League
-rico henry,Brentford FC,1.7,20000000.0,2023-2024,Premier-League
-keane lewis-potter,Brentford FC,1.7,15000000.0,2023-2024,Premier-League
-sergio reguilón,Without Club,1.78,12000000.0,2023-2024,Premier-League
-val adedokun,Brentford FC B,,150000.0,2023-2024,Premier-League
-aaron hickey,Brentford FC,1.85,28000000.0,2023-2024,Premier-League
-mads roerslev,Brentford FC,1.84,10000000.0,2023-2024,Premier-League
-fin stevens,FC St. Pauli,1.79,450000.0,2023-2024,Premier-League
-vitaly janelt,Brentford FC,1.84,22000000.0,2023-2024,Premier-League
-christian nørgaard,Arsenal FC,1.87,18000000.0,2023-2024,Premier-League
-yunus emre konak,Brentford FC,1.81,3500000.0,2023-2024,Premier-League
-mathias jensen,Brentford FC,1.8,28000000.0,2023-2024,Premier-League
-josh dasilva,Without Club,1.84,10000000.0,2023-2024,Premier-League
-yegor yarmolyuk,Brentford FC,1.8,10000000.0,2023-2024,Premier-League
-frank onyeka,Brentford FC,1.83,9000000.0,2023-2024,Premier-League
-shandon baptiste,Luton Town,1.8,2500000.0,2023-2024,Premier-League
-paris maghoma,Brentford FC,1.84,350000.0,2023-2024,Premier-League
-ethan brierley,Exeter City,1.73,300000.0,2023-2024,Premier-League
-ryan trevitt,Brentford FC,1.7,275000.0,2023-2024,Premier-League
-mikkel damsgaard,Brentford FC,1.8,10000000.0,2023-2024,Premier-League
-saman ghoddos,Kalba FC,1.75,2000000.0,2023-2024,Premier-League
-kevin schade,Brentford FC,1.85,22000000.0,2023-2024,Premier-League
-myles peart-harris,Brentford FC,1.87,700000.0,2023-2024,Premier-League
-bryan mbeumo,Manchester United,1.71,40000000.0,2023-2024,Premier-League
-michael olakigbe,Brentford FC B,1.8,600000.0,2023-2024,Premier-League
-ivan toney,Al-Ahli SFC,1.85,50000000.0,2023-2024,Premier-League
-yoane wissa,Brentford FC,1.76,28000000.0,2023-2024,Premier-League
-neal maupay,Olympique Marseille,1.71,12000000.0,2023-2024,Premier-League
-mark travers,Everton FC,1.91,3500000.0,2023-2024,Premier-League
-ionuț radu,Celta de Vigo,1.88,3000000.0,2023-2024,Premier-League
-neto,AFC Bournemouth,1.9,2500000.0,2023-2024,Premier-League
-will dennis,AFC Bournemouth,1.88,350000.0,2023-2024,Premier-League
-darren randolph,nan,1.87,300000.0,2023-2024,Premier-League
-cameron plain,Poole Town FC,1.87,100000.0,2023-2024,Premier-League
-callan mckenna,AFC Bournemouth U21,,100000.0,2023-2024,Premier-League
-ilya zabarnyi,AFC Bournemouth,1.89,32000000.0,2023-2024,Premier-League
-marcos senesi,AFC Bournemouth,1.85,22000000.0,2023-2024,Premier-League
-lloyd kelly,Juventus FC,1.89,18000000.0,2023-2024,Premier-League
-chris mepham,AFC Bournemouth,1.9,6000000.0,2023-2024,Premier-League
-james hill,AFC Bournemouth,1.84,2000000.0,2023-2024,Premier-League
-max kinsey,Truro City FC,1.84,,2023-2024,Premier-League
-milos kerkez,Liverpool FC,1.8,20000000.0,2023-2024,Premier-League
-ben greenwood,Farnborough FC,1.7,,2023-2024,Premier-League
-max aarons,Rangers FC,1.77,16000000.0,2023-2024,Premier-League
-ryan fredericks,nan,1.81,1000000.0,2023-2024,Premier-League
-adam smith,AFC Bournemouth,1.74,1000000.0,2023-2024,Premier-League
-tyler adams,AFC Bournemouth,1.75,15000000.0,2023-2024,Premier-League
-ryan christie,AFC Bournemouth,1.78,12000000.0,2023-2024,Premier-League
-philip billing,AFC Bournemouth,1.93,22000000.0,2023-2024,Premier-League
-alex scott,AFC Bournemouth,1.78,20000000.0,2023-2024,Premier-League
-lewis cook,AFC Bournemouth,1.75,12000000.0,2023-2024,Premier-League
-joe rothwell,Rangers FC,1.85,2500000.0,2023-2024,Premier-League
-gavin kilkenny,Swindon Town,1.75,300000.0,2023-2024,Premier-League
-romain faivre,AFC Bournemouth,1.8,15000000.0,2023-2024,Premier-League
-marcus tavernier,AFC Bournemouth,1.78,20000000.0,2023-2024,Premier-League
-hamed junior traoré,AFC Bournemouth,1.77,17000000.0,2023-2024,Premier-League
-justin kluivert,AFC Bournemouth,1.72,14000000.0,2023-2024,Premier-League
-emiliano marcondes,Norwich City,1.82,1500000.0,2023-2024,Premier-League
-dango ouattara,AFC Bournemouth,1.77,20000000.0,2023-2024,Premier-League
-luis sinisterra,AFC Bournemouth,1.72,17000000.0,2023-2024,Premier-League
-antoine semenyo,AFC Bournemouth,1.85,10000000.0,2023-2024,Premier-League
-jaidon anthony,Burnley FC,1.83,6000000.0,2023-2024,Premier-League
-david brooks,AFC Bournemouth,1.73,8000000.0,2023-2024,Premier-League
-dominic sadi,AFC Bournemouth U21,1.74,100000.0,2023-2024,Premier-League
-michael dacosta,AFC Bournemouth U21,1.86,,2023-2024,Premier-League
-dominic solanke,Tottenham Hotspur,1.86,40000000.0,2023-2024,Premier-League
-enes ünal,AFC Bournemouth,1.87,18000000.0,2023-2024,Premier-League
-kieffer moore,Sheffield United,1.96,2000000.0,2023-2024,Premier-League
-jamal lowe,Sheffield Wednesday,1.83,1500000.0,2023-2024,Premier-League
-daniel adu-adjei,AFC Bournemouth U21,,,2023-2024,Premier-League
-jordan pickford,Everton FC,1.85,22000000.0,2023-2024,Premier-League
-joão virgínia,Without Club,1.92,800000.0,2023-2024,Premier-League
-andy lonergan,Without Club,1.93,100000.0,2023-2024,Premier-League
-billy crellin,Without Club,1.85,,2023-2024,Premier-League
-jarrad branthwaite,Everton FC,1.95,42000000.0,2023-2024,Premier-League
-james tarkowski,Everton FC,1.85,13000000.0,2023-2024,Premier-League
-ben godfrey,Atalanta BC,1.84,10000000.0,2023-2024,Premier-League
-michael keane,Everton FC,1.88,6000000.0,2023-2024,Premier-League
-mason holgate,Al-Gharafa SC,1.87,5000000.0,2023-2024,Premier-League
-elijah campbell,Everton FC U21,1.82,,2023-2024,Premier-League
-vitaliy mykolenko,Everton FC,1.8,28000000.0,2023-2024,Premier-League
-mackenzie hunt,Fleetwood Town,1.73,200000.0,2023-2024,Premier-League
-nathan patterson,Everton FC,1.89,15000000.0,2023-2024,Premier-League
-ashley young,Without Club,1.75,500000.0,2023-2024,Premier-League
-séamus coleman,Everton FC,1.77,500000.0,2023-2024,Premier-League
-amadou onana,Aston Villa,1.95,50000000.0,2023-2024,Premier-League
-james garner,Everton FC,1.82,22000000.0,2023-2024,Premier-League
-idrissa gueye,Everton FC,1.74,3000000.0,2023-2024,Premier-League
-andré gomes,LOSC Lille,1.9,10000000.0,2023-2024,Premier-League
-lewis warrington,Leyton Orient,1.82,500000.0,2023-2024,Premier-League
-tyler onyango,Everton FC U21,1.96,500000.0,2023-2024,Premier-League
-jenson metcalfe,Everton FC U21,1.83,150000.0,2023-2024,Premier-League
-abdoulaye doucouré,Without Club,1.83,10000000.0,2023-2024,Premier-League
-dele alli,Como 1907,1.88,5000000.0,2023-2024,Premier-League
-alex iwobi,Fulham FC,1.83,25000000.0,2023-2024,Premier-League
-dwight mcneil,Everton FC,1.83,22000000.0,2023-2024,Premier-League
-arnaut danjuma,Villarreal CF,1.78,13000000.0,2023-2024,Premier-League
-lewis dobbin,Aston Villa,1.75,2500000.0,2023-2024,Premier-League
-jack harrison,Leeds United,1.75,18000000.0,2023-2024,Premier-League
-dominic calvert-lewin,Without Club,1.89,22000000.0,2023-2024,Premier-League
-beto,Everton FC,1.94,20000000.0,2023-2024,Premier-League
-neal maupay,Olympique Marseille,1.71,12000000.0,2023-2024,Premier-League
-chermiti,Everton FC,1.92,9000000.0,2023-2024,Premier-League
-tom cannon,Sheffield United,1.8,4000000.0,2023-2024,Premier-League
-bernd leno,Fulham FC,1.9,13000000.0,2023-2024,Premier-League
-marek rodák,Al-Ettifaq FC,1.94,3000000.0,2023-2024,Premier-League
-steven benda,Fulham FC,1.92,1000000.0,2023-2024,Premier-League
-tosin adarabioyo,Chelsea FC,1.97,20000000.0,2023-2024,Premier-League
-issa diop,Fulham FC,1.94,20000000.0,2023-2024,Premier-League
-calvin bassey,Fulham FC,1.85,16000000.0,2023-2024,Premier-League
-tim ream,Charlotte FC,1.86,800000.0,2023-2024,Premier-League
-luc de fougerolles,Fulham FC U21,1.83,300000.0,2023-2024,Premier-League
-antonee robinson,Fulham FC,1.83,25000000.0,2023-2024,Premier-League
-fodé ballo-touré,Without Club,1.82,3000000.0,2023-2024,Premier-League
-timothy castagne,Fulham FC,1.85,17000000.0,2023-2024,Premier-League
-kenny tete,Fulham FC,1.8,15000000.0,2023-2024,Premier-League
-kevin mbabu,FC Midtjylland,1.84,4000000.0,2023-2024,Premier-League
-devan tanton,Chesterfield FC,1.75,250000.0,2023-2024,Premier-League
-joão palhinha,Bayern Munich,1.9,55000000.0,2023-2024,Premier-League
-saša lukić,Fulham FC,1.82,10000000.0,2023-2024,Premier-League
-harrison reed,Fulham FC,1.81,15000000.0,2023-2024,Premier-League
-tom cairney,Fulham FC,1.85,2000000.0,2023-2024,Premier-League
-tyrese francois,Wigan Athletic,1.73,600000.0,2023-2024,Premier-League
-matt dibley-dias,Chesterfield FC,1.83,500000.0,2023-2024,Premier-League
-josh king,Fulham FC,1.73,200000.0,2023-2024,Premier-League
-andreas pereira,Fulham FC,1.78,20000000.0,2023-2024,Premier-League
-luke harris,Fulham FC,1.77,1000000.0,2023-2024,Premier-League
-kristian sekularac,Without Club,1.85,200000.0,2023-2024,Premier-League
-alex iwobi,Fulham FC,1.83,25000000.0,2023-2024,Premier-League
-willian,Without Club,1.75,3000000.0,2023-2024,Premier-League
-harry wilson,Fulham FC,1.73,17000000.0,2023-2024,Premier-League
-adama traoré,Fulham FC,1.78,9000000.0,2023-2024,Premier-League
-bobby de cordova-reid,Leicester City,1.7,5000000.0,2023-2024,Premier-League
-aleksandar mitrović,Al-Hilal SFC,1.89,28000000.0,2023-2024,Premier-League
-armando broja,Chelsea FC,1.91,22000000.0,2023-2024,Premier-League
-rodrigo muniz,Fulham FC,1.86,20000000.0,2023-2024,Premier-League
-raúl jiménez,Fulham FC,1.87,5000000.0,2023-2024,Premier-League
-carlos vinícius,Without Club,1.9,4000000.0,2023-2024,Premier-League
-jay stansfield,Birmingham City,1.87,3500000.0,2023-2024,Premier-League
-james trafford,Burnley FC,1.92,18000000.0,2023-2024,Premier-League
-arijanet muric,Ipswich Town,1.98,7000000.0,2023-2024,Premier-League
-lawrence vigouroux,Swansea City,1.94,300000.0,2023-2024,Premier-League
-denis franchi,Ternana Calcio,1.89,250000.0,2023-2024,Premier-League
-jordan beyer,Burnley FC,1.87,13000000.0,2023-2024,Premier-League
-ameen al-dakhil,VfB Stuttgart,1.87,12000000.0,2023-2024,Premier-League
-dara o'shea,Ipswich Town,1.89,7000000.0,2023-2024,Premier-League
-hjalmar ekdal,Burnley FC,1.87,7000000.0,2023-2024,Premier-League
-maxime estève,Burnley FC,1.93,7000000.0,2023-2024,Premier-League
-hannes delcroix,Burnley FC,1.83,4000000.0,2023-2024,Premier-League
-luke mcnally,Bristol City,1.93,3800000.0,2023-2024,Premier-League
-cj egan-riley,Olympique Marseille,1.83,1500000.0,2023-2024,Premier-League
-charlie taylor,Southampton FC,1.83,3000000.0,2023-2024,Premier-League
-lorenz assignon,VfB Stuttgart,1.81,10000000.0,2023-2024,Premier-League
-connor roberts,Burnley FC,1.75,7000000.0,2023-2024,Premier-League
-vitinho,Botafogo de Futebol e Regatas,1.74,5000000.0,2023-2024,Premier-League
-sander berge,Fulham FC,1.95,20000000.0,2023-2024,Premier-League
-jack cork,Burnley FC U21,1.85,800000.0,2023-2024,Premier-League
-josh brownhill,Without Club,1.79,15000000.0,2023-2024,Premier-League
-josh cullen,Burnley FC,1.75,10000000.0,2023-2024,Premier-League
-han-noah massengo,FC Augsburg,1.78,4000000.0,2023-2024,Premier-League
-aaron ramsey,Burnley FC,1.81,15000000.0,2023-2024,Premier-League
-anass zaroury,RC Lens,1.76,9000000.0,2023-2024,Premier-League
-scott twine,Bristol City,1.74,3000000.0,2023-2024,Premier-League
-mike trésor,Burnley FC,1.72,12000000.0,2023-2024,Premier-League
-jacob bruun larsen,Burnley FC,1.83,8000000.0,2023-2024,Premier-League
-darko churlinov,Burnley FC,1.8,1500000.0,2023-2024,Premier-League
-dara costelloe,Wigan Athletic,1.75,325000.0,2023-2024,Premier-League
-wilson odobert,Tottenham Hotspur,1.82,10000000.0,2023-2024,Premier-League
-luca koleosho,Burnley FC,1.75,7000000.0,2023-2024,Premier-League
-benson manuel,Burnley FC,1.66,5000000.0,2023-2024,Premier-League
-nathan redmond,Without Club,1.73,5000000.0,2023-2024,Premier-League
-jóhann berg gudmundsson,Al-Dhafra FC,1.86,1000000.0,2023-2024,Premier-League
-enock agyei,Burnley FC,1.72,800000.0,2023-2024,Premier-League
-lyle foster,Burnley FC,1.85,13000000.0,2023-2024,Premier-League
-david datro fofana,Chelsea FC,1.82,12000000.0,2023-2024,Premier-League
-zeki amdouni,Burnley FC,1.85,12000000.0,2023-2024,Premier-League
-michael obafemi,Burnley FC,1.7,2200000.0,2023-2024,Premier-League
-jay rodríguez,Wrexham AFC,1.85,1000000.0,2023-2024,Premier-League
-ivo grbic,Sheffield United,1.95,3500000.0,2023-2024,Premier-League
-wes foderingham,West Ham United,1.85,900000.0,2023-2024,Premier-League
-adam davies,Sheffield United,1.85,500000.0,2023-2024,Premier-League
-jordan amissah,Burton Albion,1.98,250000.0,2023-2024,Premier-League
-anel ahmedhodzic,Sheffield United,1.9,18000000.0,2023-2024,Premier-League
-auston trusty,Celtic FC,1.9,7000000.0,2023-2024,Premier-League
-mason holgate,Al-Gharafa SC,1.87,5000000.0,2023-2024,Premier-League
-john egan,Hull City,1.85,4000000.0,2023-2024,Premier-League
-jack robinson,Sheffield United,1.8,1000000.0,2023-2024,Premier-League
-chris basham,nan,1.9,300000.0,2023-2024,Premier-League
-evan easton,Sheffield United U21,1.89,,2023-2024,Premier-League
-dovydas sasnauskas,Sheffield United U21,,,2023-2024,Premier-League
-luke thomas,Leicester City,1.81,6000000.0,2023-2024,Premier-League
-yasser larouci,ESTAC Troyes,1.76,3000000.0,2023-2024,Premier-League
-max lowe,Sheffield Wednesday,1.75,2500000.0,2023-2024,Premier-League
-rhys norrington-davies,Sheffield United,1.81,2500000.0,2023-2024,Premier-League
-jili buyabu,Sheffield United U21,1.82,200000.0,2023-2024,Premier-League
-jayden bogle,Leeds United,1.78,3800000.0,2023-2024,Premier-League
-george baldock,---,1.78,2500000.0,2023-2024,Premier-League
-femi seriki,Sheffield United,1.83,300000.0,2023-2024,Premier-League
-sam curtis,Sheffield United U21,1.85,150000.0,2023-2024,Premier-League
-vini souza,VfL Wolfsburg,1.87,12000000.0,2023-2024,Premier-League
-tom davies,Sheffield United,1.8,5000000.0,2023-2024,Premier-League
-andre brooks,Sheffield United,1.8,2500000.0,2023-2024,Premier-League
-anis slimane,Norwich City,1.88,2500000.0,2023-2024,Premier-League
-oliver norwood,Stockport County,1.75,1000000.0,2023-2024,Premier-League
-ismaila coulibaly,LASK,1.83,1000000.0,2023-2024,Premier-League
-ben osborn,Derby County,1.76,1000000.0,2023-2024,Premier-League
-john fleck,Chesterfield FC,1.69,900000.0,2023-2024,Premier-League
-oliver arblaster,Sheffield United,1.8,450000.0,2023-2024,Premier-League
-sydie peck,Sheffield United,1.73,200000.0,2023-2024,Premier-League
-billy blacker,Tranmere Rovers,,100000.0,2023-2024,Premier-League
-owen hampson,Sheffield United U21,,,2023-2024,Premier-League
-gustavo hamer,Sheffield United,1.69,15000000.0,2023-2024,Premier-League
-james mcatee,Manchester City,1.8,12000000.0,2023-2024,Premier-League
-bénie traoré,FC Basel 1893,1.72,4000000.0,2023-2024,Premier-League
-louie marsh,Sheffield United,1.76,100000.0,2023-2024,Premier-League
-cameron archer,Southampton FC,1.75,13000000.0,2023-2024,Premier-League
-ben brereton díaz,Southampton FC,1.85,8000000.0,2023-2024,Premier-League
-oli mcburnie,Without Club,1.88,4500000.0,2023-2024,Premier-League
-rhian brewster,Without Club,1.8,3000000.0,2023-2024,Premier-League
-william osula,Newcastle United,1.91,3000000.0,2023-2024,Premier-League
-daniel jebbison,Preston North End,1.9,1000000.0,2023-2024,Premier-League
-antwoine hackford,Sheffield United U21,1.77,500000.0,2023-2024,Premier-League
-ryan oné,Sheffield United,1.88,200000.0,2023-2024,Premier-League
-thomas kaminski,Charlton Athletic,1.9,3000000.0,2023-2024,Premier-League
-tim krul,Without Club,1.93,500000.0,2023-2024,Premier-League
-jack walton,Luton Town,1.84,400000.0,2023-2024,Premier-League
-james shea,Luton Town,1.85,200000.0,2023-2024,Premier-League
-teden mengi,Luton Town,1.86,12000000.0,2023-2024,Premier-League
-tom holmes,Luton Town,1.94,3500000.0,2023-2024,Premier-League
-gabriel osho,AJ Auxerre,1.85,3000000.0,2023-2024,Premier-League
-mads andersen,Luton Town,1.94,3000000.0,2023-2024,Premier-League
-tom lockyer,Luton Town,1.85,2500000.0,2023-2024,Premier-League
-reece burke,Charlton Athletic,1.89,1800000.0,2023-2024,Premier-League
-dan potts,Without Club,1.83,900000.0,2023-2024,Premier-League
-aidan francis-clarke,Braintree Town,1.81,,2023-2024,Premier-League
-christian chigozie,Luton Town U21,,,2023-2024,Premier-League
-ryan giles,Hull City,1.83,4500000.0,2023-2024,Premier-League
-amari'i bell,Charlton Athletic,1.8,2500000.0,2023-2024,Premier-League
-joe johnson,Luton Town,1.8,100000.0,2023-2024,Premier-League
-issa kaboré,Manchester City,1.8,10000000.0,2023-2024,Premier-League
-daiki hashioka,SK Slavia Prague,1.84,2000000.0,2023-2024,Premier-League
-marvelous nakamba,Luton Town,1.77,5000000.0,2023-2024,Premier-League
-pelly ruddock mpanzu,Without Club,1.75,1500000.0,2023-2024,Premier-League
-dominic dos santos martins,Without Club,,,2023-2024,Premier-League
-albert sambi lokonga,Arsenal FC,1.83,15000000.0,2023-2024,Premier-League
-ross barkley,Aston Villa,1.89,8000000.0,2023-2024,Premier-League
-allan campbell,Without Club,1.74,2000000.0,2023-2024,Premier-League
-jordan clark,Luton Town,1.83,1000000.0,2023-2024,Premier-League
-luke berry,Charlton Athletic,1.77,400000.0,2023-2024,Premier-League
-louie watson,Crawley Town,1.76,250000.0,2023-2024,Premier-League
-elliot thorpe,Without Club,1.76,200000.0,2023-2024,Premier-League
-axel piesold,Galway United FC,,150000.0,2023-2024,Premier-League
-jake burger,Rochdale AFC,,,2023-2024,Premier-League
-jayden luker,Luton Town U21,,,2023-2024,Premier-League
-fred onyedinma,Wycombe Wanderers,1.85,500000.0,2023-2024,Premier-League
-alfie doughty,Luton Town,1.83,10000000.0,2023-2024,Premier-League
-tahith chong,Luton Town,1.85,6000000.0,2023-2024,Premier-League
-zack nelson,Luton Town,,100000.0,2023-2024,Premier-League
-dion pereira,Crawley Town,1.8,175000.0,2023-2024,Premier-League
-chiedozie ogbene,Ipswich Town,1.81,8000000.0,2023-2024,Premier-League
-andros townsend,Antalyaspor,1.81,1800000.0,2023-2024,Premier-League
-john mcatee,Bolton Wanderers,1.8,300000.0,2023-2024,Premier-League
-carlton morris,Derby County,1.85,13000000.0,2023-2024,Premier-League
-elijah adebayo,Luton Town,1.93,12000000.0,2023-2024,Premier-League
-jacob brown,Luton Town,1.78,4000000.0,2023-2024,Premier-League
-cauley woodrow,Luton Town,1.84,1000000.0,2023-2024,Premier-League
-joe taylor,Huddersfield Town,1.7,350000.0,2023-2024,Premier-League
-admiral muskwe,IFK Mariehamn,1.83,275000.0,2023-2024,Premier-League
-taylan harris,Luton Town U21,1.81,,2023-2024,Premier-League
+ederson,manchester city,1.88,35000000.0,2023-2024,premier-league
+stefan ortega,manchester city,1.85,9000000.0,2023-2024,premier-league
+zack steffen,manchester city,1.91,2000000.0,2023-2024,premier-league
+true grant,manchester city,,500000.0,2023-2024,premier-league
+scott carson,manchester city,1.88,200000.0,2023-2024,premier-league
+ruben dias,manchester city,1.87,80000000.0,2023-2024,premier-league
+manuel akanji,manchester city,1.88,45000000.0,2023-2024,premier-league
+nathan ake,manchester city,1.8,40000000.0,2023-2024,premier-league
+john stones,manchester city,1.88,38000000.0,2023-2024,premier-league
+taylor harwoodbellis,manchester city,1.88,22000000.0,2023-2024,premier-league
+aymeric laporte,manchester city,1.91,20000000.0,2023-2024,premier-league
+max alleyne,manchester city,1.85,500000.0,2023-2024,premier-league
+josko gvardiol,manchester city,1.85,75000000.0,2023-2024,premier-league
+josh wilsonesbrand,manchester city,1.76,4000000.0,2023-2024,premier-league
+rico lewis,manchester city,1.7,38000000.0,2023-2024,premier-league
+kyle walker,manchester city,1.83,13000000.0,2023-2024,premier-league
+issa kabore,manchester city,1.8,10000000.0,2023-2024,premier-league
+rodri,manchester city,1.91,120000000.0,2023-2024,premier-league
+kalvin phillips,manchester city,1.79,25000000.0,2023-2024,premier-league
+maximo perrone,manchester city,1.77,9000000.0,2023-2024,premier-league
+mahamadou susoho,manchester city,1.75,1500000.0,2023-2024,premier-league
+jacob wright,manchester city,1.78,800000.0,2023-2024,premier-league
+matheus nunes,manchester city,1.83,50000000.0,2023-2024,premier-league
+mateo kovacic,manchester city,1.77,30000000.0,2023-2024,premier-league
+cole palmer,manchester city,1.85,80000000.0,2023-2024,premier-league
+bernardo silva,manchester city,1.73,70000000.0,2023-2024,premier-league
+kevin de bruyne,manchester city,1.81,50000000.0,2023-2024,premier-league
+james mcatee,manchester city,1.8,12000000.0,2023-2024,premier-league
+jeremy doku,manchester city,1.73,65000000.0,2023-2024,premier-league
+jack grealish,manchester city,1.8,60000000.0,2023-2024,premier-league
+sergio gomez,manchester city,1.71,10000000.0,2023-2024,premier-league
+micah hamilton,manchester city,1.77,2000000.0,2023-2024,premier-league
+phil foden,manchester city,1.71,150000000.0,2023-2024,premier-league
+oscar bobb,manchester city,1.75,25000000.0,2023-2024,premier-league
+erling haaland,manchester city,1.95,180000000.0,2023-2024,premier-league
+julian alvarez,manchester city,1.7,90000000.0,2023-2024,premier-league
+david raya,arsenal fc,1.83,35000000.0,2023-2024,premier-league
+aaron ramsdale,arsenal fc,1.9,25000000.0,2023-2024,premier-league
+matt turner,arsenal fc,1.91,7000000.0,2023-2024,premier-league
+karl hein,arsenal fc,1.93,2000000.0,2023-2024,premier-league
+arthur okonkwo,arsenal fc,1.98,1800000.0,2023-2024,premier-league
+william saliba,arsenal fc,1.92,80000000.0,2023-2024,premier-league
+gabriel magalhaes,arsenal fc,1.9,70000000.0,2023-2024,premier-league
+jakub kiwior,arsenal fc,1.89,30000000.0,2023-2024,premier-league
+rob holding,arsenal fc,1.89,5000000.0,2023-2024,premier-league
+ayden heaven,arsenal fc,1.89,300000.0,2023-2024,premier-league
+oleksandr zinchenko,arsenal fc,1.75,38000000.0,2023-2024,premier-league
+kieran tierney,arsenal fc,1.8,12000000.0,2023-2024,premier-league
+lino sousa,arsenal fc,1.85,2000000.0,2023-2024,premier-league
+myles lewisskelly,arsenal fc,1.78,2000000.0,2023-2024,premier-league
+ben white,arsenal fc,1.86,55000000.0,2023-2024,premier-league
+jurrien timber,arsenal fc,1.79,38000000.0,2023-2024,premier-league
+takehiro tomiyasu,arsenal fc,1.88,35000000.0,2023-2024,premier-league
+reuell walters,arsenal fc,1.86,4000000.0,2023-2024,premier-league
+cedric soares,arsenal fc,1.71,2000000.0,2023-2024,premier-league
+james sweet,arsenal fc,1.8,250000.0,2023-2024,premier-league
+thomas partey,arsenal fc,1.85,18000000.0,2023-2024,premier-league
+jorginho,arsenal fc,1.8,12000000.0,2023-2024,premier-league
+mohamed elneny,arsenal fc,1.79,3500000.0,2023-2024,premier-league
+bradley ibrahim,arsenal fc,1.85,400000.0,2023-2024,premier-league
+declan rice,arsenal fc,1.88,120000000.0,2023-2024,premier-league
+albert sambi lokonga,arsenal fc,1.83,15000000.0,2023-2024,premier-league
+mauro bandeira,arsenal fc,1.78,200000.0,2023-2024,premier-league
+martin degaard,arsenal fc,1.78,110000000.0,2023-2024,premier-league
+emile smith rowe,arsenal fc,1.82,22000000.0,2023-2024,premier-league
+fabio vieira,arsenal fc,1.7,22000000.0,2023-2024,premier-league
+gabriel martinelli,arsenal fc,1.78,70000000.0,2023-2024,premier-league
+leandro trossard,arsenal fc,1.72,35000000.0,2023-2024,premier-league
+charles sagoe jr,arsenal fc,,600000.0,2023-2024,premier-league
+bukayo saka,arsenal fc,1.78,140000000.0,2023-2024,premier-league
+reiss nelson,arsenal fc,1.75,15000000.0,2023-2024,premier-league
+ethan nwaneri,arsenal fc,1.76,8000000.0,2023-2024,premier-league
+amario cozierduberry,arsenal fc,1.7,2000000.0,2023-2024,premier-league
+kai havertz,arsenal fc,1.93,70000000.0,2023-2024,premier-league
+gabriel jesus,arsenal fc,1.75,65000000.0,2023-2024,premier-league
+eddie nketiah,arsenal fc,1.75,30000000.0,2023-2024,premier-league
+robert sanchez,chelsea fc,1.97,20000000.0,2023-2024,premier-league
+djordje petrovic,chelsea fc,1.94,20000000.0,2023-2024,premier-league
+marcus bettinelli,chelsea fc,1.93,1000000.0,2023-2024,premier-league
+lucas bergstrom,chelsea fc,2.05,700000.0,2023-2024,premier-league
+teddy sharmanlowe,chelsea fc,1.89,300000.0,2023-2024,premier-league
+eddie beach,chelsea fc,1.96,250000.0,2023-2024,premier-league
+max merrick,chelsea fc,,,2023-2024,premier-league
+ted curd,chelsea fc,1.9,,2023-2024,premier-league
+levi colwill,chelsea fc,1.87,50000000.0,2023-2024,premier-league
+axel disasi,chelsea fc,1.91,40000000.0,2023-2024,premier-league
+benoit badiashile,chelsea fc,1.94,30000000.0,2023-2024,premier-league
+wesley fofana,chelsea fc,1.85,25000000.0,2023-2024,premier-league
+trevoh chalobah,chelsea fc,1.92,13000000.0,2023-2024,premier-league
+malang sarr,chelsea fc,1.83,4000000.0,2023-2024,premier-league
+thiago silva,chelsea fc,1.81,1000000.0,2023-2024,premier-league
+josh brooking,chelsea fc,,500000.0,2023-2024,premier-league
+harrison murraycampbell,chelsea fc,1.89,250000.0,2023-2024,premier-league
+billy gee,chelsea fc,,,2023-2024,premier-league
+ian maatsen,chelsea fc,1.78,40000000.0,2023-2024,premier-league
+ben chilwell,chelsea fc,1.8,28000000.0,2023-2024,premier-league
+marc cucurella,chelsea fc,1.73,25000000.0,2023-2024,premier-league
+bashir humphreys,chelsea fc,1.86,4800000.0,2023-2024,premier-league
+ishe samuelssmith,chelsea fc,1.86,500000.0,2023-2024,premier-league
+zak sturge,chelsea fc,1.88,250000.0,2023-2024,premier-league
+dylan williams,chelsea fc,1.77,200000.0,2023-2024,premier-league
+reece james,chelsea fc,1.8,40000000.0,2023-2024,premier-league
+malo gusto,chelsea fc,1.78,35000000.0,2023-2024,premier-league
+alfie gilchrist,chelsea fc,1.83,5000000.0,2023-2024,premier-league
+josh acheampong,chelsea fc,1.85,300000.0,2023-2024,premier-league
+moises caicedo,chelsea fc,1.78,75000000.0,2023-2024,premier-league
+romeo lavia,chelsea fc,1.81,35000000.0,2023-2024,premier-league
+lesley ugochukwu,chelsea fc,1.9,25000000.0,2023-2024,premier-league
+ollie harrison,chelsea fc,,,2023-2024,premier-league
+enzo fernandez,chelsea fc,1.78,75000000.0,2023-2024,premier-league
+conor gallagher,chelsea fc,1.82,50000000.0,2023-2024,premier-league
+andrey santos,chelsea fc,1.8,15000000.0,2023-2024,premier-league
+carney chukwuemeka,chelsea fc,1.88,15000000.0,2023-2024,premier-league
+cesare casadei,chelsea fc,1.92,10000000.0,2023-2024,premier-league
+alex matos,chelsea fc,1.75,1200000.0,2023-2024,premier-league
+michael golding,chelsea fc,1.8,300000.0,2023-2024,premier-league
+jimi tauriainen,chelsea fc,1.88,200000.0,2023-2024,premier-league
+kiano dyer,chelsea fc,1.78,,2023-2024,premier-league
+diego moreira,chelsea fc,1.79,3000000.0,2023-2024,premier-league
+cole palmer,chelsea fc,1.85,80000000.0,2023-2024,premier-league
+leo castledine,chelsea fc,1.75,900000.0,2023-2024,premier-league
+mykhaylo mudryk,chelsea fc,1.75,35000000.0,2023-2024,premier-league
+tyrique george,chelsea fc,1.81,,2023-2024,premier-league
+raheem sterling,chelsea fc,1.7,35000000.0,2023-2024,premier-league
+noni madueke,chelsea fc,1.82,28000000.0,2023-2024,premier-league
+christopher nkunku,chelsea fc,1.77,65000000.0,2023-2024,premier-league
+nicolas jackson,chelsea fc,1.87,35000000.0,2023-2024,premier-league
+armando broja,chelsea fc,1.91,22000000.0,2023-2024,premier-league
+david datro fofana,chelsea fc,1.82,12000000.0,2023-2024,premier-league
+deivid washington,chelsea fc,1.87,9000000.0,2023-2024,premier-league
+mason burstow,chelsea fc,1.87,1800000.0,2023-2024,premier-league
+ronnie stutter,chelsea fc,1.8,200000.0,2023-2024,premier-league
+alisson,liverpool fc,1.93,28000000.0,2023-2024,premier-league
+caoimhin kelleher,liverpool fc,1.88,20000000.0,2023-2024,premier-league
+vitezslav jaros,liverpool fc,1.9,5000000.0,2023-2024,premier-league
+adrian,liverpool fc,1.9,600000.0,2023-2024,premier-league
+marcelo pitaluga,liverpool fc,1.93,300000.0,2023-2024,premier-league
+fabian mrozek,liverpool fc,1.92,200000.0,2023-2024,premier-league
+ibrahima konate,liverpool fc,1.94,45000000.0,2023-2024,premier-league
+virgil van dijk,liverpool fc,1.95,30000000.0,2023-2024,premier-league
+joe gomez,liverpool fc,1.88,28000000.0,2023-2024,premier-league
+jarell quansah,liverpool fc,1.9,22000000.0,2023-2024,premier-league
+joel matip,liverpool fc,1.95,8000000.0,2023-2024,premier-league
+nat phillips,liverpool fc,1.9,3500000.0,2023-2024,premier-league
+rhys williams,liverpool fc,1.95,1800000.0,2023-2024,premier-league
+luke chambers,liverpool fc,1.81,1500000.0,2023-2024,premier-league
+amara nallo,liverpool fc,1.86,,2023-2024,premier-league
+andrew robertson,liverpool fc,1.78,30000000.0,2023-2024,premier-league
+konstantinos tsimikas,liverpool fc,1.79,22000000.0,2023-2024,premier-league
+owen beck,liverpool fc,1.77,1250000.0,2023-2024,premier-league
+calum scanlon,liverpool fc,,700000.0,2023-2024,premier-league
+trent alexanderarnold,liverpool fc,1.8,70000000.0,2023-2024,premier-league
+conor bradley,liverpool fc,1.81,15000000.0,2023-2024,premier-league
+calvin ramsay,liverpool fc,1.77,4000000.0,2023-2024,premier-league
+ryan gravenberch,liverpool fc,1.9,35000000.0,2023-2024,premier-league
+wataru endo,liverpool fc,1.78,13000000.0,2023-2024,premier-league
+stefan bajcetic,liverpool fc,1.85,11000000.0,2023-2024,premier-league
+alexis mac allister,liverpool fc,1.76,75000000.0,2023-2024,premier-league
+curtis jones,liverpool fc,1.85,35000000.0,2023-2024,premier-league
+thiago alcantara,liverpool fc,1.74,10000000.0,2023-2024,premier-league
+bobby clark,liverpool fc,1.78,1000000.0,2023-2024,premier-league
+james mcconnell,liverpool fc,,500000.0,2023-2024,premier-league
+trey nyoni,liverpool fc,1.8,500000.0,2023-2024,premier-league
+tom hill,liverpool fc,1.9,300000.0,2023-2024,premier-league
+dominik szoboszlai,liverpool fc,1.87,75000000.0,2023-2024,premier-league
+harvey elliott,liverpool fc,1.7,35000000.0,2023-2024,premier-league
+fabio carvalho,liverpool fc,1.7,14000000.0,2023-2024,premier-league
+mateusz musialowski,liverpool fc,1.75,300000.0,2023-2024,premier-league
+luis diaz,liverpool fc,1.8,75000000.0,2023-2024,premier-league
+cody gakpo,liverpool fc,1.93,50000000.0,2023-2024,premier-league
+lewis koumas,liverpool fc,1.82,1000000.0,2023-2024,premier-league
+mohamed salah,liverpool fc,1.75,55000000.0,2023-2024,premier-league
+ben doak,liverpool fc,1.73,10000000.0,2023-2024,premier-league
+kaide gordon,liverpool fc,1.73,1200000.0,2023-2024,premier-league
+darwin nunez,liverpool fc,1.87,70000000.0,2023-2024,premier-league
+diogo jota,liverpool fc,1.78,50000000.0,2023-2024,premier-league
+jayden danns,liverpool fc,1.83,1000000.0,2023-2024,premier-league
+guglielmo vicario,tottenham hotspur,1.94,35000000.0,2023-2024,premier-league
+hugo lloris,tottenham hotspur,1.88,1200000.0,2023-2024,premier-league
+fraser forster,tottenham hotspur,2.01,1200000.0,2023-2024,premier-league
+brandon austin,tottenham hotspur,1.88,600000.0,2023-2024,premier-league
+alfie whiteman,tottenham hotspur,1.88,500000.0,2023-2024,premier-league
+cristian romero,tottenham hotspur,1.85,60000000.0,2023-2024,premier-league
+micky van de ven,tottenham hotspur,1.93,55000000.0,2023-2024,premier-league
+radu dragusin,tottenham hotspur,1.91,25000000.0,2023-2024,premier-league
+davinson sanchez,tottenham hotspur,1.87,17000000.0,2023-2024,premier-league
+eric dier,tottenham hotspur,1.91,12000000.0,2023-2024,premier-league
+ben davies,tottenham hotspur,1.81,10000000.0,2023-2024,premier-league
+joe rodon,tottenham hotspur,1.93,8000000.0,2023-2024,premier-league
+ashley phillips,tottenham hotspur,1.96,2200000.0,2023-2024,premier-league
+japhet tanganga,tottenham hotspur,1.84,1800000.0,2023-2024,premier-league
+alfie dorrington,tottenham hotspur,,500000.0,2023-2024,premier-league
+destiny udogie,tottenham hotspur,1.88,45000000.0,2023-2024,premier-league
+sergio reguilon,tottenham hotspur,1.78,12000000.0,2023-2024,premier-league
+ryan sessegnon,tottenham hotspur,1.78,10000000.0,2023-2024,premier-league
+pedro porro,tottenham hotspur,1.73,45000000.0,2023-2024,premier-league
+emerson royal,tottenham hotspur,1.83,18000000.0,2023-2024,premier-league
+yves bissouma,tottenham hotspur,1.82,35000000.0,2023-2024,premier-league
+rodrigo bentancur,tottenham hotspur,1.87,35000000.0,2023-2024,premier-league
+pierreemile hjbjerg,tottenham hotspur,1.85,18000000.0,2023-2024,premier-league
+oliver skipp,tottenham hotspur,1.75,15000000.0,2023-2024,premier-league
+pape matar sarr,tottenham hotspur,1.84,45000000.0,2023-2024,premier-league
+tyrese hall,tottenham hotspur,,,2023-2024,premier-league
+james maddison,tottenham hotspur,1.75,70000000.0,2023-2024,premier-league
+dejan kulusevski,tottenham hotspur,1.86,55000000.0,2023-2024,premier-league
+giovani lo celso,tottenham hotspur,1.77,16000000.0,2023-2024,premier-league
+heungmin son,tottenham hotspur,1.84,45000000.0,2023-2024,premier-league
+timo werner,tottenham hotspur,1.8,17000000.0,2023-2024,premier-league
+bryan gil,tottenham hotspur,1.75,14000000.0,2023-2024,premier-league
+manor solomon,tottenham hotspur,1.7,13000000.0,2023-2024,premier-league
+yago santiago,tottenham hotspur,1.8,200000.0,2023-2024,premier-league
+mikey moore,tottenham hotspur,1.8,,2023-2024,premier-league
+brennan johnson,tottenham hotspur,1.86,48000000.0,2023-2024,premier-league
+ivan perisic,tottenham hotspur,1.86,2000000.0,2023-2024,premier-league
+jamie donley,tottenham hotspur,1.83,1500000.0,2023-2024,premier-league
+richarlison,tottenham hotspur,1.84,38000000.0,2023-2024,premier-league
+alejo veliz,tottenham hotspur,1.86,9000000.0,2023-2024,premier-league
+dane scarlett,tottenham hotspur,1.8,1800000.0,2023-2024,premier-league
+andre onana,manchester united,1.9,35000000.0,2023-2024,premier-league
+dean henderson,manchester united,1.88,12000000.0,2023-2024,premier-league
+altay bayndr,manchester united,1.98,10000000.0,2023-2024,premier-league
+radek vitek,manchester united,1.98,300000.0,2023-2024,premier-league
+tom heaton,manchester united,1.88,250000.0,2023-2024,premier-league
+dermot mee,manchester united,1.83,,2023-2024,premier-league
+lisandro martinez,manchester united,1.75,45000000.0,2023-2024,premier-league
+raphael varane,manchester united,1.91,20000000.0,2023-2024,premier-league
+harry maguire,manchester united,1.94,18000000.0,2023-2024,premier-league
+victor lindelof,manchester united,1.87,15000000.0,2023-2024,premier-league
+willy kambwala,manchester united,1.92,5000000.0,2023-2024,premier-league
+jonny evans,manchester united,1.88,2000000.0,2023-2024,premier-league
+rhys bennett,manchester united,1.87,,2023-2024,premier-league
+louis jackson,manchester united,1.91,,2023-2024,premier-league
+luke shaw,manchester united,1.78,32000000.0,2023-2024,premier-league
+tyrell malacia,manchester united,1.69,18000000.0,2023-2024,premier-league
+sergio reguilon,manchester united,1.78,12000000.0,2023-2024,premier-league
+alvaro carreras,manchester united,1.86,7000000.0,2023-2024,premier-league
+brandon williams,manchester united,1.8,2500000.0,2023-2024,premier-league
+harry amass,manchester united,1.81,,2023-2024,premier-league
+diogo dalot,manchester united,1.83,35000000.0,2023-2024,premier-league
+aaron wanbissaka,manchester united,1.83,20000000.0,2023-2024,premier-league
+habeeb ogunneye,manchester united,,,2023-2024,premier-league
+sofyan amrabat,manchester united,1.85,22000000.0,2023-2024,premier-league
+casemiro,manchester united,1.85,20000000.0,2023-2024,premier-league
+toby collyer,manchester united,1.8,200000.0,2023-2024,premier-league
+kobbie mainoo,manchester united,1.8,50000000.0,2023-2024,premier-league
+scott mctominay,manchester united,1.91,32000000.0,2023-2024,premier-league
+christian eriksen,manchester united,1.82,8000000.0,2023-2024,premier-league
+donny van de beek,manchester united,1.84,5000000.0,2023-2024,premier-league
+daniel gore,manchester united,,900000.0,2023-2024,premier-league
+bruno fernandes,manchester united,1.79,70000000.0,2023-2024,premier-league
+alejandro garnacho,manchester united,1.8,45000000.0,2023-2024,premier-league
+mason mount,manchester united,1.81,35000000.0,2023-2024,premier-league
+hannibal,manchester united,1.83,9000000.0,2023-2024,premier-league
+marcus rashford,manchester united,1.85,60000000.0,2023-2024,premier-league
+jadon sancho,manchester united,1.8,30000000.0,2023-2024,premier-league
+shola shoretire,manchester united,1.71,4000000.0,2023-2024,premier-league
+antony,manchester united,1.72,25000000.0,2023-2024,premier-league
+amad diallo,manchester united,1.73,18000000.0,2023-2024,premier-league
+facundo pellistri,manchester united,1.75,8000000.0,2023-2024,premier-league
+omari forson,manchester united,1.79,2000000.0,2023-2024,premier-league
+rasmus hjlund,manchester united,1.91,65000000.0,2023-2024,premier-league
+anthony martial,manchester united,1.81,10000000.0,2023-2024,premier-league
+joe hugill,manchester united,1.88,200000.0,2023-2024,premier-league
+ethan wheatley,manchester united,1.87,,2023-2024,premier-league
+emiliano martinez,aston villa,1.95,28000000.0,2023-2024,premier-league
+joe gauci,aston villa,1.94,1500000.0,2023-2024,premier-league
+robin olsen,aston villa,1.96,1500000.0,2023-2024,premier-league
+filip marschall,aston villa,1.95,800000.0,2023-2024,premier-league
+oliwier zych,aston villa,1.93,800000.0,2023-2024,premier-league
+james wright,aston villa,1.88,200000.0,2023-2024,premier-league
+sam proctor,aston villa,,,2023-2024,premier-league
+lander emery,aston villa,,,2023-2024,premier-league
+pau torres,aston villa,1.92,45000000.0,2023-2024,premier-league
+ezri konsa,aston villa,1.83,35000000.0,2023-2024,premier-league
+diego carlos,aston villa,1.85,16000000.0,2023-2024,premier-league
+tyrone mings,aston villa,1.96,13000000.0,2023-2024,premier-league
+clement lenglet,aston villa,1.86,10000000.0,2023-2024,premier-league
+calum chambers,aston villa,1.82,4000000.0,2023-2024,premier-league
+kortney hause,aston villa,1.91,2000000.0,2023-2024,premier-league
+josh feeney,aston villa,1.96,500000.0,2023-2024,premier-league
+finley munroe,aston villa,1.81,100000.0,2023-2024,premier-league
+alex moreno,aston villa,1.79,13000000.0,2023-2024,premier-league
+lucas digne,aston villa,1.78,12000000.0,2023-2024,premier-league
+lino sousa,aston villa,1.85,2000000.0,2023-2024,premier-league
+sebastian revan,aston villa,1.81,350000.0,2023-2024,premier-league
+travis patterson,aston villa,,,2023-2024,premier-league
+matty cash,aston villa,1.85,28000000.0,2023-2024,premier-league
+kaine keslerhayden,aston villa,1.75,2200000.0,2023-2024,premier-league
+boubacar kamara,aston villa,1.84,38000000.0,2023-2024,premier-league
+leander dendoncker,aston villa,1.88,7000000.0,2023-2024,premier-league
+douglas luiz,aston villa,1.77,70000000.0,2023-2024,premier-league
+john mcginn,aston villa,1.78,30000000.0,2023-2024,premier-league
+youri tielemans,aston villa,1.77,25000000.0,2023-2024,premier-league
+tim iroegbunam,aston villa,1.83,4000000.0,2023-2024,premier-league
+jacob ramsey,aston villa,1.8,35000000.0,2023-2024,premier-league
+emiliano buendia,aston villa,1.72,22000000.0,2023-2024,premier-league
+nicolo zaniolo,aston villa,1.9,20000000.0,2023-2024,premier-league
+morgan rogers,aston villa,1.87,15000000.0,2023-2024,premier-league
+philippe coutinho,aston villa,1.72,7500000.0,2023-2024,premier-league
+omari kellyman,aston villa,1.91,1000000.0,2023-2024,premier-league
+tommi oreilly,aston villa,1.7,200000.0,2023-2024,premier-league
+jaden philogene,aston villa,1.81,15000000.0,2023-2024,premier-league
+kadan young,aston villa,1.76,,2023-2024,premier-league
+moussa diaby,aston villa,1.7,55000000.0,2023-2024,premier-league
+leon bailey,aston villa,1.78,42000000.0,2023-2024,premier-league
+bertrand traore,aston villa,1.81,9000000.0,2023-2024,premier-league
+ollie watkins,aston villa,1.8,65000000.0,2023-2024,premier-league
+jhon duran,aston villa,1.85,20000000.0,2023-2024,premier-league
+cameron archer,aston villa,1.75,13000000.0,2023-2024,premier-league
+nick pope,newcastle united,1.98,16000000.0,2023-2024,premier-league
+martin dubravka,newcastle united,1.91,1000000.0,2023-2024,premier-league
+loris karius,newcastle united,1.91,1000000.0,2023-2024,premier-league
+mark gillespie,newcastle united,1.91,300000.0,2023-2024,premier-league
+adam harrison,newcastle united,,,2023-2024,premier-league
+aidan harris,newcastle united,,,2023-2024,premier-league
+sven botman,newcastle united,1.93,45000000.0,2023-2024,premier-league
+fabian schar,newcastle united,1.86,10000000.0,2023-2024,premier-league
+dan burn,newcastle united,2.01,8000000.0,2023-2024,premier-league
+jamaal lascelles,newcastle united,1.88,7000000.0,2023-2024,premier-league
+kell watts,newcastle united,1.92,250000.0,2023-2024,premier-league
+lewis hall,newcastle united,1.79,18000000.0,2023-2024,premier-league
+matt targett,newcastle united,1.83,10000000.0,2023-2024,premier-league
+jamal lewis,newcastle united,1.78,3500000.0,2023-2024,premier-league
+paul dummett,newcastle united,1.83,900000.0,2023-2024,premier-league
+alex murphy,newcastle united,1.88,250000.0,2023-2024,premier-league
+tino livramento,newcastle united,1.82,35000000.0,2023-2024,premier-league
+kieran trippier,newcastle united,1.73,10000000.0,2023-2024,premier-league
+emil krafth,newcastle united,1.84,2500000.0,2023-2024,premier-league
+javier manquillo,newcastle united,1.78,1800000.0,2023-2024,premier-league
+harrison ashby,newcastle united,1.79,1200000.0,2023-2024,premier-league
+bruno guimaraes,newcastle united,1.82,85000000.0,2023-2024,premier-league
+isaac hayden,newcastle united,1.87,1800000.0,2023-2024,premier-league
+joelinton,newcastle united,1.86,40000000.0,2023-2024,premier-league
+sandro tonali,newcastle united,1.81,38000000.0,2023-2024,premier-league
+joe willock,newcastle united,1.86,30000000.0,2023-2024,premier-league
+sean longstaff,newcastle united,1.87,25000000.0,2023-2024,premier-league
+lewis miley,newcastle united,1.89,22000000.0,2023-2024,premier-league
+elliot anderson,newcastle united,1.79,15000000.0,2023-2024,premier-league
+jeff hendrick,newcastle united,1.85,500000.0,2023-2024,premier-league
+lucas de bolle,newcastle united,,150000.0,2023-2024,premier-league
+travis hernes,newcastle united,1.79,150000.0,2023-2024,premier-league
+james huntley,newcastle united,,,2023-2024,premier-league
+matt ritchie,newcastle united,1.73,1000000.0,2023-2024,premier-league
+joe white,newcastle united,1.86,300000.0,2023-2024,premier-league
+anthony gordon,newcastle united,1.83,60000000.0,2023-2024,premier-league
+harvey barnes,newcastle united,1.82,35000000.0,2023-2024,premier-league
+ryan fraser,newcastle united,1.63,3000000.0,2023-2024,premier-league
+amadou diallo,newcastle united,1.66,400000.0,2023-2024,premier-league
+miguel almiron,newcastle united,1.74,20000000.0,2023-2024,premier-league
+jacob murphy,newcastle united,1.79,15000000.0,2023-2024,premier-league
+alexander isak,newcastle united,1.92,75000000.0,2023-2024,premier-league
+callum wilson,newcastle united,1.8,13000000.0,2023-2024,premier-league
+ben parkinson,newcastle united,1.83,250000.0,2023-2024,premier-league
+michael ndiweni,newcastle united,,,2023-2024,premier-league
+bart verbruggen,brighton hove albion,1.94,18000000.0,2023-2024,premier-league
+jason steele,brighton hove albion,1.88,3500000.0,2023-2024,premier-league
+carl rushworth,brighton hove albion,1.91,3000000.0,2023-2024,premier-league
+tom mcgill,brighton hove albion,1.85,600000.0,2023-2024,premier-league
+adam webster,brighton hove albion,1.9,20000000.0,2023-2024,premier-league
+jan paul van hecke,brighton hove albion,1.89,18000000.0,2023-2024,premier-league
+igor,brighton hove albion,1.88,17000000.0,2023-2024,premier-league
+lewis dunk,brighton hove albion,1.92,12000000.0,2023-2024,premier-league
+ed turns,brighton hove albion,1.86,400000.0,2023-2024,premier-league
+ben jackson,brighton hove albion,1.9,200000.0,2023-2024,premier-league
+leigh kavanagh,brighton hove albion,1.89,200000.0,2023-2024,premier-league
+noel atom,brighton hove albion,1.92,,2023-2024,premier-league
+pervis estupinan,brighton hove albion,1.75,30000000.0,2023-2024,premier-league
+imari samuels,brighton hove albion,1.87,100000.0,2023-2024,premier-league
+tariq lamptey,brighton hove albion,1.63,12000000.0,2023-2024,premier-league
+joel veltman,brighton hove albion,1.84,10000000.0,2023-2024,premier-league
+odeluga offiah,brighton hove albion,1.87,300000.0,2023-2024,premier-league
+carlos baleba,brighton hove albion,1.79,22000000.0,2023-2024,premier-league
+billy gilmour,brighton hove albion,1.7,18000000.0,2023-2024,premier-league
+jack hinchy,brighton hove albion,,150000.0,2023-2024,premier-league
+jack hinshelwood,brighton hove albion,1.82,16000000.0,2023-2024,premier-league
+valentin barco,brighton hove albion,1.7,13000000.0,2023-2024,premier-league
+jakub moder,brighton hove albion,1.91,10000000.0,2023-2024,premier-league
+pascal gro,brighton hove albion,1.81,8000000.0,2023-2024,premier-league
+mahmoud dahoud,brighton hove albion,1.78,6000000.0,2023-2024,premier-league
+yasin ayari,brighton hove albion,1.72,4500000.0,2023-2024,premier-league
+steven alzate,brighton hove albion,1.8,4000000.0,2023-2024,premier-league
+james milner,brighton hove albion,1.75,1000000.0,2023-2024,premier-league
+marc leonard,brighton hove albion,1.8,450000.0,2023-2024,premier-league
+jensen weir,brighton hove albion,1.84,300000.0,2023-2024,premier-league
+samy chouchane,brighton hove albion,1.8,250000.0,2023-2024,premier-league
+julio enciso,brighton hove albion,1.73,22000000.0,2023-2024,premier-league
+facundo buonanotte,brighton hove albion,1.74,18000000.0,2023-2024,premier-league
+andrew moran,brighton hove albion,1.77,3000000.0,2023-2024,premier-league
+adam lallana,brighton hove albion,1.72,1000000.0,2023-2024,premier-league
+kaoru mitoma,brighton hove albion,1.78,45000000.0,2023-2024,premier-league
+simon adingra,brighton hove albion,1.75,30000000.0,2023-2024,premier-league
+ansu fati,brighton hove albion,1.78,25000000.0,2023-2024,premier-league
+abdallah sima,brighton hove albion,1.88,7500000.0,2023-2024,premier-league
+jeremy sarmiento,brighton hove albion,1.78,4500000.0,2023-2024,premier-league
+luca barrington,brighton hove albion,,150000.0,2023-2024,premier-league
+cameron peupion,brighton hove albion,1.75,100000.0,2023-2024,premier-league
+solly march,brighton hove albion,1.8,18000000.0,2023-2024,premier-league
+benicio baker,brighton hove albion,,400000.0,2023-2024,premier-league
+evan ferguson,brighton hove albion,1.88,50000000.0,2023-2024,premier-league
+joao pedro,brighton hove albion,1.82,45000000.0,2023-2024,premier-league
+danny welbeck,brighton hove albion,1.85,5000000.0,2023-2024,premier-league
+joshua duffus,brighton hove albion,1.87,500000.0,2023-2024,premier-league
+mark omahony,brighton hove albion,1.82,300000.0,2023-2024,premier-league
+matt turner,nottingham forest,1.91,7000000.0,2023-2024,premier-league
+odysseas vlachodimos,nottingham forest,1.91,7000000.0,2023-2024,premier-league
+matz sels,nottingham forest,1.88,7000000.0,2023-2024,premier-league
+ethan horvath,nottingham forest,1.95,1800000.0,2023-2024,premier-league
+wayne hennessey,nottingham forest,1.98,250000.0,2023-2024,premier-league
+murillo,nottingham forest,1.8,35000000.0,2023-2024,premier-league
+moussa niakhate,nottingham forest,1.9,16000000.0,2023-2024,premier-league
+andrew omobamidele,nottingham forest,1.88,11000000.0,2023-2024,premier-league
+scott mckenna,nottingham forest,1.89,9000000.0,2023-2024,premier-league
+joe worrall,nottingham forest,1.9,7500000.0,2023-2024,premier-league
+willy boly,nottingham forest,1.95,2500000.0,2023-2024,premier-league
+felipe,nottingham forest,1.9,1500000.0,2023-2024,premier-league
+zach abbott,nottingham forest,,300000.0,2023-2024,premier-league
+nuno tavares,nottingham forest,1.83,15000000.0,2023-2024,premier-league
+harry toffolo,nottingham forest,1.83,5000000.0,2023-2024,premier-league
+neco williams,nottingham forest,1.83,17000000.0,2023-2024,premier-league
+ola aina,nottingham forest,1.84,12000000.0,2023-2024,premier-league
+gonzalo montiel,nottingham forest,1.75,10000000.0,2023-2024,premier-league
+serge aurier,nottingham forest,1.76,3700000.0,2023-2024,premier-league
+ibrahim sangare,nottingham forest,1.91,30000000.0,2023-2024,premier-league
+danilo,nottingham forest,1.77,28000000.0,2023-2024,premier-league
+orel mangala,nottingham forest,1.78,20000000.0,2023-2024,premier-league
+cheikhou kouyate,nottingham forest,1.89,1000000.0,2023-2024,premier-league
+jamie mcdonnell,nottingham forest,,200000.0,2023-2024,premier-league
+nicolas dominguez,nottingham forest,1.79,17000000.0,2023-2024,premier-league
+andrey santos,nottingham forest,1.8,15000000.0,2023-2024,premier-league
+ryan yates,nottingham forest,1.9,12000000.0,2023-2024,premier-league
+remo freuler,nottingham forest,1.8,6500000.0,2023-2024,premier-league
+lewis obrien,nottingham forest,1.73,5000000.0,2023-2024,premier-league
+harry arter,nottingham forest,1.77,400000.0,2023-2024,premier-league
+morgan gibbswhite,nottingham forest,1.71,40000000.0,2023-2024,premier-league
+giovanni reyna,nottingham forest,1.85,18000000.0,2023-2024,premier-league
+brandon aguilera,nottingham forest,1.79,300000.0,2023-2024,premier-league
+callum hudsonodoi,nottingham forest,1.78,18000000.0,2023-2024,premier-league
+alex mighten,nottingham forest,1.71,600000.0,2023-2024,premier-league
+brennan johnson,nottingham forest,1.86,48000000.0,2023-2024,premier-league
+anthony elanga,nottingham forest,1.78,22000000.0,2023-2024,premier-league
+josh bowler,nottingham forest,1.84,1500000.0,2023-2024,premier-league
+taiwo awoniyi,nottingham forest,1.83,28000000.0,2023-2024,premier-league
+chris wood,nottingham forest,1.91,7000000.0,2023-2024,premier-league
+divock origi,nottingham forest,1.89,5000000.0,2023-2024,premier-league
+emmanuel dennis,nottingham forest,1.75,4200000.0,2023-2024,premier-league
+rodrigo ribeiro,nottingham forest,1.86,3000000.0,2023-2024,premier-league
+uijo hwang,nottingham forest,1.85,1800000.0,2023-2024,premier-league
+joe gardner,nottingham forest,,150000.0,2023-2024,premier-league
+detlef esapa osong,nottingham forest,,150000.0,2023-2024,premier-league
+alphonse areola,west ham united,1.95,10000000.0,2023-2024,premier-league
+lukasz fabianski,west ham united,1.9,700000.0,2023-2024,premier-league
+joseph anang,west ham united,1.9,300000.0,2023-2024,premier-league
+jacob knightbridge,west ham united,,,2023-2024,premier-league
+nayef aguerd,west ham united,1.9,35000000.0,2023-2024,premier-league
+kurt zouma,west ham united,1.9,25000000.0,2023-2024,premier-league
+konstantinos mavropanos,west ham united,1.94,20000000.0,2023-2024,premier-league
+thilo kehrer,west ham united,1.86,10000000.0,2023-2024,premier-league
+kaelan casey,west ham united,1.85,1000000.0,2023-2024,premier-league
+angelo ogbonna,west ham united,1.91,700000.0,2023-2024,premier-league
+levi laing,west ham united,1.88,150000.0,2023-2024,premier-league
+emerson,west ham united,1.76,12000000.0,2023-2024,premier-league
+aaron cresswell,west ham united,1.7,900000.0,2023-2024,premier-league
+oliver scarles,west ham united,1.8,400000.0,2023-2024,premier-league
+ben johnson,west ham united,1.84,8000000.0,2023-2024,premier-league
+vladimir coufal,west ham united,1.74,8000000.0,2023-2024,premier-league
+edson alvarez,west ham united,1.9,35000000.0,2023-2024,premier-league
+tomas soucek,west ham united,1.92,30000000.0,2023-2024,premier-league
+kalvin phillips,west ham united,1.79,25000000.0,2023-2024,premier-league
+flynn downes,west ham united,1.78,9000000.0,2023-2024,premier-league
+conor coventry,west ham united,1.77,1500000.0,2023-2024,premier-league
+james wardprowse,west ham united,1.77,30000000.0,2023-2024,premier-league
+pablo fornals,west ham united,1.78,14000000.0,2023-2024,premier-league
+lewis orford,west ham united,1.82,400000.0,2023-2024,premier-league
+dan chesters,west ham united,,200000.0,2023-2024,premier-league
+lucas paqueta,west ham united,1.8,65000000.0,2023-2024,premier-league
+george earthy,west ham united,1.8,1000000.0,2023-2024,premier-league
+kamarai swyer,west ham united,1.83,250000.0,2023-2024,premier-league
+said benrahma,west ham united,1.72,20000000.0,2023-2024,premier-league
+maxwel cornet,west ham united,1.79,9000000.0,2023-2024,premier-league
+mohammed kudus,west ham united,1.77,50000000.0,2023-2024,premier-league
+jarrod bowen,west ham united,1.76,50000000.0,2023-2024,premier-league
+danny ings,west ham united,1.77,8000000.0,2023-2024,premier-league
+michail antonio,west ham united,1.8,4000000.0,2023-2024,premier-league
+callum marshall,west ham united,1.72,2000000.0,2023-2024,premier-league
+divin mubama,west ham united,1.83,1000000.0,2023-2024,premier-league
+dean henderson,crystal palace,1.88,12000000.0,2023-2024,premier-league
+sam johnstone,crystal palace,1.93,10000000.0,2023-2024,premier-league
+joe whitworth,crystal palace,1.79,1000000.0,2023-2024,premier-league
+remi matthews,crystal palace,1.92,500000.0,2023-2024,premier-league
+marc guehi,crystal palace,1.82,38000000.0,2023-2024,premier-league
+joachim andersen,crystal palace,1.92,35000000.0,2023-2024,premier-league
+chris richards,crystal palace,1.88,12000000.0,2023-2024,premier-league
+rob holding,crystal palace,1.89,5000000.0,2023-2024,premier-league
+nathan ferguson,crystal palace,1.84,1000000.0,2023-2024,premier-league
+james tomkins,crystal palace,1.92,700000.0,2023-2024,premier-league
+sean grehan,crystal palace,1.82,150000.0,2023-2024,premier-league
+tyrick mitchell,crystal palace,1.81,25000000.0,2023-2024,premier-league
+tayo adaramola,crystal palace,1.77,800000.0,2023-2024,premier-league
+daniel munoz,crystal palace,1.81,18000000.0,2023-2024,premier-league
+nathaniel clyne,crystal palace,1.75,1500000.0,2023-2024,premier-league
+joel ward,crystal palace,1.86,1000000.0,2023-2024,premier-league
+cheick doucoure,crystal palace,1.8,35000000.0,2023-2024,premier-league
+adam wharton,crystal palace,1.82,30000000.0,2023-2024,premier-league
+jefferson lerma,crystal palace,1.79,20000000.0,2023-2024,premier-league
+jairo riedewald,crystal palace,1.82,3000000.0,2023-2024,premier-league
+david ozoh,crystal palace,1.89,700000.0,2023-2024,premier-league
+kaden rodney,crystal palace,1.89,200000.0,2023-2024,premier-league
+will hughes,crystal palace,1.85,9000000.0,2023-2024,premier-league
+naouirou ahamada,crystal palace,1.83,8000000.0,2023-2024,premier-league
+jack wellsmorrison,crystal palace,1.8,200000.0,2023-2024,premier-league
+jeffrey schlupp,crystal palace,1.78,7000000.0,2023-2024,premier-league
+eberechi eze,crystal palace,1.78,55000000.0,2023-2024,premier-league
+matheus franca,crystal palace,1.84,15000000.0,2023-2024,premier-league
+jadan raymond,crystal palace,,,2023-2024,premier-league
+johnkymani gordon,crystal palace,1.81,200000.0,2023-2024,premier-league
+michael olise,crystal palace,1.84,55000000.0,2023-2024,premier-league
+jordan ayew,crystal palace,1.82,4000000.0,2023-2024,premier-league
+jesurun raksakyi,crystal palace,1.78,2000000.0,2023-2024,premier-league
+malcolm ebiowei,crystal palace,1.85,1500000.0,2023-2024,premier-league
+franco umehchibueze,crystal palace,,75000.0,2023-2024,premier-league
+roshaun mathurin,crystal palace,,,2023-2024,premier-league
+jeanphilippe mateta,crystal palace,1.92,20000000.0,2023-2024,premier-league
+odsonne edouard,crystal palace,1.87,18000000.0,2023-2024,premier-league
+luke plange,crystal palace,1.88,800000.0,2023-2024,premier-league
+ademola olaadebomi,crystal palace,1.95,250000.0,2023-2024,premier-league
+jose sa,wolverhampton wanderers,1.92,14000000.0,2023-2024,premier-league
+daniel bentley,wolverhampton wanderers,1.93,2000000.0,2023-2024,premier-league
+tom king,wolverhampton wanderers,1.94,200000.0,2023-2024,premier-league
+louie moulden,wolverhampton wanderers,1.9,175000.0,2023-2024,premier-league
+maximilian kilman,wolverhampton wanderers,1.94,32000000.0,2023-2024,premier-league
+toti,wolverhampton wanderers,1.87,20000000.0,2023-2024,premier-league
+santiago bueno,wolverhampton wanderers,1.9,8000000.0,2023-2024,premier-league
+yerson mosquera,wolverhampton wanderers,1.88,6000000.0,2023-2024,premier-league
+craig dawson,wolverhampton wanderers,1.88,2000000.0,2023-2024,premier-league
+justin hubner,wolverhampton wanderers,1.87,350000.0,2023-2024,premier-league
+alfie pond,wolverhampton wanderers,1.91,250000.0,2023-2024,premier-league
+temple ojinnaka,wolverhampton wanderers,1.91,,2023-2024,premier-league
+rayan aitnouri,wolverhampton wanderers,1.8,35000000.0,2023-2024,premier-league
+hugo bueno,wolverhampton wanderers,1.8,6000000.0,2023-2024,premier-league
+aaron ketodiyawa,wolverhampton wanderers,,,2023-2024,premier-league
+nelson semedo,wolverhampton wanderers,1.77,12000000.0,2023-2024,premier-league
+jonny otto,wolverhampton wanderers,1.75,5000000.0,2023-2024,premier-league
+kijana hoever,wolverhampton wanderers,1.83,4500000.0,2023-2024,premier-league
+matt doherty,wolverhampton wanderers,1.85,3000000.0,2023-2024,premier-league
+wesley okoduwa,wolverhampton wanderers,,,2023-2024,premier-league
+mario lemina,wolverhampton wanderers,1.84,10000000.0,2023-2024,premier-league
+boubacar traore,wolverhampton wanderers,1.83,6000000.0,2023-2024,premier-league
+joe hodge,wolverhampton wanderers,1.72,1500000.0,2023-2024,premier-league
+bruno jordao,wolverhampton wanderers,1.8,700000.0,2023-2024,premier-league
+harvey griffiths,wolverhampton wanderers,1.9,150000.0,2023-2024,premier-league
+matheus nunes,wolverhampton wanderers,1.83,50000000.0,2023-2024,premier-league
+joao gomes,wolverhampton wanderers,1.76,35000000.0,2023-2024,premier-league
+jeanricner bellegarde,wolverhampton wanderers,1.72,15000000.0,2023-2024,premier-league
+tommy doyle,wolverhampton wanderers,1.72,10000000.0,2023-2024,premier-league
+matthew whittingham,wolverhampton wanderers,,,2023-2024,premier-league
+luke cundle,wolverhampton wanderers,1.71,5000000.0,2023-2024,premier-league
+chem campbell,wolverhampton wanderers,1.8,900000.0,2023-2024,premier-league
+tawanda chirewa,wolverhampton wanderers,1.81,500000.0,2023-2024,premier-league
+noha lemina,wolverhampton wanderers,1.68,500000.0,2023-2024,premier-league
+ty barnett,wolverhampton wanderers,,,2023-2024,premier-league
+owen hesketh,wolverhampton wanderers,1.8,,2023-2024,premier-league
+enso gonzalez,wolverhampton wanderers,1.69,4000000.0,2023-2024,premier-league
+emilio ballardmatthews,wolverhampton wanderers,,,2023-2024,premier-league
+pedro neto,wolverhampton wanderers,1.74,55000000.0,2023-2024,premier-league
+pablo sarabia,wolverhampton wanderers,1.74,10000000.0,2023-2024,premier-league
+matheus cunha,wolverhampton wanderers,1.83,45000000.0,2023-2024,premier-league
+heechan hwang,wolverhampton wanderers,1.77,25000000.0,2023-2024,premier-league
+fabio silva,wolverhampton wanderers,1.85,11000000.0,2023-2024,premier-league
+sasa kalajdzic,wolverhampton wanderers,2.0,5000000.0,2023-2024,premier-league
+nathan fraser,wolverhampton wanderers,1.88,1000000.0,2023-2024,premier-league
+leon chiwome,wolverhampton wanderers,1.86,1000000.0,2023-2024,premier-league
+fletcher holman,wolverhampton wanderers,,,2023-2024,premier-league
+mark flekken,brentford fc,1.95,12000000.0,2023-2024,premier-league
+thomas strakosha,brentford fc,1.93,3000000.0,2023-2024,premier-league
+hakon rafn valdimarsson,brentford fc,1.95,2500000.0,2023-2024,premier-league
+matthew cox,brentford fc,1.83,800000.0,2023-2024,premier-league
+ellery balcombe,brentford fc,1.9,300000.0,2023-2024,premier-league
+vincent angelini,brentford fc,1.9,100000.0,2023-2024,premier-league
+nathan collins,brentford fc,1.93,25000000.0,2023-2024,premier-league
+kristoffer ajer,brentford fc,1.98,15000000.0,2023-2024,premier-league
+ethan pinnock,brentford fc,1.94,12000000.0,2023-2024,premier-league
+zanka,brentford fc,1.89,1000000.0,2023-2024,premier-league
+ben mee,brentford fc,1.8,1000000.0,2023-2024,premier-league
+jisoo kim,brentford fc,1.92,600000.0,2023-2024,premier-league
+charlie goode,brentford fc,1.96,500000.0,2023-2024,premier-league
+benjamin fredrick,brentford fc,1.87,150000.0,2023-2024,premier-league
+benjamin arthur,brentford fc,,,2023-2024,premier-league
+rico henry,brentford fc,1.7,20000000.0,2023-2024,premier-league
+keane lewispotter,brentford fc,1.7,15000000.0,2023-2024,premier-league
+sergio reguilon,brentford fc,1.78,12000000.0,2023-2024,premier-league
+val adedokun,brentford fc,,150000.0,2023-2024,premier-league
+aaron hickey,brentford fc,1.85,28000000.0,2023-2024,premier-league
+mads roerslev,brentford fc,1.84,10000000.0,2023-2024,premier-league
+fin stevens,brentford fc,1.79,450000.0,2023-2024,premier-league
+vitaly janelt,brentford fc,1.84,22000000.0,2023-2024,premier-league
+christian nrgaard,brentford fc,1.87,18000000.0,2023-2024,premier-league
+yunus emre konak,brentford fc,1.81,3500000.0,2023-2024,premier-league
+mathias jensen,brentford fc,1.8,28000000.0,2023-2024,premier-league
+josh dasilva,brentford fc,1.84,10000000.0,2023-2024,premier-league
+yegor yarmolyuk,brentford fc,1.8,10000000.0,2023-2024,premier-league
+frank onyeka,brentford fc,1.83,9000000.0,2023-2024,premier-league
+shandon baptiste,brentford fc,1.8,2500000.0,2023-2024,premier-league
+paris maghoma,brentford fc,1.84,350000.0,2023-2024,premier-league
+ethan brierley,brentford fc,1.73,300000.0,2023-2024,premier-league
+ryan trevitt,brentford fc,1.7,275000.0,2023-2024,premier-league
+mikkel damsgaard,brentford fc,1.8,10000000.0,2023-2024,premier-league
+saman ghoddos,brentford fc,1.75,2000000.0,2023-2024,premier-league
+kevin schade,brentford fc,1.85,22000000.0,2023-2024,premier-league
+myles peartharris,brentford fc,1.87,700000.0,2023-2024,premier-league
+bryan mbeumo,brentford fc,1.71,40000000.0,2023-2024,premier-league
+michael olakigbe,brentford fc,1.8,600000.0,2023-2024,premier-league
+ivan toney,brentford fc,1.85,50000000.0,2023-2024,premier-league
+yoane wissa,brentford fc,1.76,28000000.0,2023-2024,premier-league
+neal maupay,brentford fc,1.71,12000000.0,2023-2024,premier-league
+mark travers,afc bournemouth,1.91,3500000.0,2023-2024,premier-league
+ionut radu,afc bournemouth,1.88,3000000.0,2023-2024,premier-league
+neto,afc bournemouth,1.9,2500000.0,2023-2024,premier-league
+will dennis,afc bournemouth,1.88,350000.0,2023-2024,premier-league
+darren randolph,afc bournemouth,1.87,300000.0,2023-2024,premier-league
+cameron plain,afc bournemouth,1.87,100000.0,2023-2024,premier-league
+callan mckenna,afc bournemouth,,100000.0,2023-2024,premier-league
+ilya zabarnyi,afc bournemouth,1.89,32000000.0,2023-2024,premier-league
+marcos senesi,afc bournemouth,1.85,22000000.0,2023-2024,premier-league
+lloyd kelly,afc bournemouth,1.89,18000000.0,2023-2024,premier-league
+chris mepham,afc bournemouth,1.9,6000000.0,2023-2024,premier-league
+james hill,afc bournemouth,1.84,2000000.0,2023-2024,premier-league
+max kinsey,afc bournemouth,1.84,,2023-2024,premier-league
+milos kerkez,afc bournemouth,1.8,20000000.0,2023-2024,premier-league
+ben greenwood,afc bournemouth,1.7,,2023-2024,premier-league
+max aarons,afc bournemouth,1.77,16000000.0,2023-2024,premier-league
+ryan fredericks,afc bournemouth,1.81,1000000.0,2023-2024,premier-league
+adam smith,afc bournemouth,1.74,1000000.0,2023-2024,premier-league
+tyler adams,afc bournemouth,1.75,15000000.0,2023-2024,premier-league
+ryan christie,afc bournemouth,1.78,12000000.0,2023-2024,premier-league
+philip billing,afc bournemouth,1.93,22000000.0,2023-2024,premier-league
+alex scott,afc bournemouth,1.78,20000000.0,2023-2024,premier-league
+lewis cook,afc bournemouth,1.75,12000000.0,2023-2024,premier-league
+joe rothwell,afc bournemouth,1.85,2500000.0,2023-2024,premier-league
+gavin kilkenny,afc bournemouth,1.75,300000.0,2023-2024,premier-league
+romain faivre,afc bournemouth,1.8,15000000.0,2023-2024,premier-league
+marcus tavernier,afc bournemouth,1.78,20000000.0,2023-2024,premier-league
+hamed junior traore,afc bournemouth,1.77,17000000.0,2023-2024,premier-league
+justin kluivert,afc bournemouth,1.72,14000000.0,2023-2024,premier-league
+emiliano marcondes,afc bournemouth,1.82,1500000.0,2023-2024,premier-league
+dango ouattara,afc bournemouth,1.77,20000000.0,2023-2024,premier-league
+luis sinisterra,afc bournemouth,1.72,17000000.0,2023-2024,premier-league
+antoine semenyo,afc bournemouth,1.85,10000000.0,2023-2024,premier-league
+jaidon anthony,afc bournemouth,1.83,6000000.0,2023-2024,premier-league
+david brooks,afc bournemouth,1.73,8000000.0,2023-2024,premier-league
+dominic sadi,afc bournemouth,1.74,100000.0,2023-2024,premier-league
+michael dacosta,afc bournemouth,1.86,,2023-2024,premier-league
+dominic solanke,afc bournemouth,1.86,40000000.0,2023-2024,premier-league
+enes unal,afc bournemouth,1.87,18000000.0,2023-2024,premier-league
+kieffer moore,afc bournemouth,1.96,2000000.0,2023-2024,premier-league
+jamal lowe,afc bournemouth,1.83,1500000.0,2023-2024,premier-league
+daniel aduadjei,afc bournemouth,,,2023-2024,premier-league
+jordan pickford,everton fc,1.85,22000000.0,2023-2024,premier-league
+joao virginia,everton fc,1.92,800000.0,2023-2024,premier-league
+andy lonergan,everton fc,1.93,100000.0,2023-2024,premier-league
+billy crellin,everton fc,1.85,,2023-2024,premier-league
+jarrad branthwaite,everton fc,1.95,42000000.0,2023-2024,premier-league
+james tarkowski,everton fc,1.85,13000000.0,2023-2024,premier-league
+ben godfrey,everton fc,1.84,10000000.0,2023-2024,premier-league
+michael keane,everton fc,1.88,6000000.0,2023-2024,premier-league
+mason holgate,everton fc,1.87,5000000.0,2023-2024,premier-league
+elijah campbell,everton fc,1.82,,2023-2024,premier-league
+vitaliy mykolenko,everton fc,1.8,28000000.0,2023-2024,premier-league
+mackenzie hunt,everton fc,1.73,200000.0,2023-2024,premier-league
+nathan patterson,everton fc,1.89,15000000.0,2023-2024,premier-league
+ashley young,everton fc,1.75,500000.0,2023-2024,premier-league
+seamus coleman,everton fc,1.77,500000.0,2023-2024,premier-league
+amadou onana,everton fc,1.95,50000000.0,2023-2024,premier-league
+james garner,everton fc,1.82,22000000.0,2023-2024,premier-league
+idrissa gueye,everton fc,1.74,3000000.0,2023-2024,premier-league
+andre gomes,everton fc,1.9,10000000.0,2023-2024,premier-league
+lewis warrington,everton fc,1.82,500000.0,2023-2024,premier-league
+tyler onyango,everton fc,1.96,500000.0,2023-2024,premier-league
+jenson metcalfe,everton fc,1.83,150000.0,2023-2024,premier-league
+abdoulaye doucoure,everton fc,1.83,10000000.0,2023-2024,premier-league
+dele alli,everton fc,1.88,5000000.0,2023-2024,premier-league
+alex iwobi,everton fc,1.83,25000000.0,2023-2024,premier-league
+dwight mcneil,everton fc,1.83,22000000.0,2023-2024,premier-league
+arnaut danjuma,everton fc,1.78,13000000.0,2023-2024,premier-league
+lewis dobbin,everton fc,1.75,2500000.0,2023-2024,premier-league
+jack harrison,everton fc,1.75,18000000.0,2023-2024,premier-league
+dominic calvertlewin,everton fc,1.89,22000000.0,2023-2024,premier-league
+beto,everton fc,1.94,20000000.0,2023-2024,premier-league
+neal maupay,everton fc,1.71,12000000.0,2023-2024,premier-league
+chermiti,everton fc,1.92,9000000.0,2023-2024,premier-league
+tom cannon,everton fc,1.8,4000000.0,2023-2024,premier-league
+bernd leno,fulham fc,1.9,13000000.0,2023-2024,premier-league
+marek rodak,fulham fc,1.94,3000000.0,2023-2024,premier-league
+steven benda,fulham fc,1.92,1000000.0,2023-2024,premier-league
+tosin adarabioyo,fulham fc,1.97,20000000.0,2023-2024,premier-league
+issa diop,fulham fc,1.94,20000000.0,2023-2024,premier-league
+calvin bassey,fulham fc,1.85,16000000.0,2023-2024,premier-league
+tim ream,fulham fc,1.86,800000.0,2023-2024,premier-league
+luc de fougerolles,fulham fc,1.83,300000.0,2023-2024,premier-league
+antonee robinson,fulham fc,1.83,25000000.0,2023-2024,premier-league
+fode ballotoure,fulham fc,1.82,3000000.0,2023-2024,premier-league
+timothy castagne,fulham fc,1.85,17000000.0,2023-2024,premier-league
+kenny tete,fulham fc,1.8,15000000.0,2023-2024,premier-league
+kevin mbabu,fulham fc,1.84,4000000.0,2023-2024,premier-league
+devan tanton,fulham fc,1.75,250000.0,2023-2024,premier-league
+joao palhinha,fulham fc,1.9,55000000.0,2023-2024,premier-league
+sasa lukic,fulham fc,1.82,10000000.0,2023-2024,premier-league
+harrison reed,fulham fc,1.81,15000000.0,2023-2024,premier-league
+tom cairney,fulham fc,1.85,2000000.0,2023-2024,premier-league
+tyrese francois,fulham fc,1.73,600000.0,2023-2024,premier-league
+matt dibleydias,fulham fc,1.83,500000.0,2023-2024,premier-league
+josh king,fulham fc,1.73,200000.0,2023-2024,premier-league
+andreas pereira,fulham fc,1.78,20000000.0,2023-2024,premier-league
+luke harris,fulham fc,1.77,1000000.0,2023-2024,premier-league
+kristian sekularac,fulham fc,1.85,200000.0,2023-2024,premier-league
+alex iwobi,fulham fc,1.83,25000000.0,2023-2024,premier-league
+willian,fulham fc,1.75,3000000.0,2023-2024,premier-league
+harry wilson,fulham fc,1.73,17000000.0,2023-2024,premier-league
+adama traore,fulham fc,1.78,9000000.0,2023-2024,premier-league
+bobby de cordovareid,fulham fc,1.7,5000000.0,2023-2024,premier-league
+aleksandar mitrovic,fulham fc,1.89,28000000.0,2023-2024,premier-league
+armando broja,fulham fc,1.91,22000000.0,2023-2024,premier-league
+rodrigo muniz,fulham fc,1.86,20000000.0,2023-2024,premier-league
+raul jimenez,fulham fc,1.87,5000000.0,2023-2024,premier-league
+carlos vinicius,fulham fc,1.9,4000000.0,2023-2024,premier-league
+jay stansfield,fulham fc,1.87,3500000.0,2023-2024,premier-league
+james trafford,burnley fc,1.92,18000000.0,2023-2024,premier-league
+arijanet muric,burnley fc,1.98,7000000.0,2023-2024,premier-league
+lawrence vigouroux,burnley fc,1.94,300000.0,2023-2024,premier-league
+denis franchi,burnley fc,1.89,250000.0,2023-2024,premier-league
+jordan beyer,burnley fc,1.87,13000000.0,2023-2024,premier-league
+ameen aldakhil,burnley fc,1.87,12000000.0,2023-2024,premier-league
+dara oshea,burnley fc,1.89,7000000.0,2023-2024,premier-league
+hjalmar ekdal,burnley fc,1.87,7000000.0,2023-2024,premier-league
+maxime esteve,burnley fc,1.93,7000000.0,2023-2024,premier-league
+hannes delcroix,burnley fc,1.83,4000000.0,2023-2024,premier-league
+luke mcnally,burnley fc,1.93,3800000.0,2023-2024,premier-league
+cj eganriley,burnley fc,1.83,1500000.0,2023-2024,premier-league
+charlie taylor,burnley fc,1.83,3000000.0,2023-2024,premier-league
+lorenz assignon,burnley fc,1.81,10000000.0,2023-2024,premier-league
+connor roberts,burnley fc,1.75,7000000.0,2023-2024,premier-league
+vitinho,burnley fc,1.74,5000000.0,2023-2024,premier-league
+sander berge,burnley fc,1.95,20000000.0,2023-2024,premier-league
+jack cork,burnley fc,1.85,800000.0,2023-2024,premier-league
+josh brownhill,burnley fc,1.79,15000000.0,2023-2024,premier-league
+josh cullen,burnley fc,1.75,10000000.0,2023-2024,premier-league
+hannoah massengo,burnley fc,1.78,4000000.0,2023-2024,premier-league
+aaron ramsey,burnley fc,1.81,15000000.0,2023-2024,premier-league
+anass zaroury,burnley fc,1.76,9000000.0,2023-2024,premier-league
+scott twine,burnley fc,1.74,3000000.0,2023-2024,premier-league
+mike tresor,burnley fc,1.72,12000000.0,2023-2024,premier-league
+jacob bruun larsen,burnley fc,1.83,8000000.0,2023-2024,premier-league
+darko churlinov,burnley fc,1.8,1500000.0,2023-2024,premier-league
+dara costelloe,burnley fc,1.75,325000.0,2023-2024,premier-league
+wilson odobert,burnley fc,1.82,10000000.0,2023-2024,premier-league
+luca koleosho,burnley fc,1.75,7000000.0,2023-2024,premier-league
+benson manuel,burnley fc,1.66,5000000.0,2023-2024,premier-league
+nathan redmond,burnley fc,1.73,5000000.0,2023-2024,premier-league
+johann berg gudmundsson,burnley fc,1.86,1000000.0,2023-2024,premier-league
+enock agyei,burnley fc,1.72,800000.0,2023-2024,premier-league
+lyle foster,burnley fc,1.85,13000000.0,2023-2024,premier-league
+david datro fofana,burnley fc,1.82,12000000.0,2023-2024,premier-league
+zeki amdouni,burnley fc,1.85,12000000.0,2023-2024,premier-league
+michael obafemi,burnley fc,1.7,2200000.0,2023-2024,premier-league
+jay rodriguez,burnley fc,1.85,1000000.0,2023-2024,premier-league

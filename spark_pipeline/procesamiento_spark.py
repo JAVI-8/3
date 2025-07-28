@@ -18,14 +18,15 @@ mercado = spark.read.option("header", True).csv(f"{base_path}/mercado/mercado.cs
 for df_name in ["fbref", "understat", "defense", "mercado"]:
     df = locals()[df_name]
     df = df.withColumn("nombre", lower(trim(col("nombre")))) \
-           .withColumn("liga", lower(trim(col("liga"))))
+           .withColumn("club_actual", lower(trim(col("club_actual")))) \
+               .withColumn("liga", lower(trim(col("liga"))))
     locals()[df_name] = df
 
 # Join de todas las fuentes
 unido = fbref \
-    .join(understat, ["nombre", "temporada", "liga"], "outer") \
-    .join(defense, ["nombre", "temporada", "liga"], "outer") \
-    .join(mercado, ["nombre", "temporada", "liga"], "left")
+    .join(understat, ["nombre", "club_actual", "temporada", "liga"], "inner") \
+    .join(defense, ["nombre", "club_actual","temporada", "liga"], "inner") \
+    .join(mercado, ["nombre", "club_actual","temporada", "liga"], "inner")
 
 # Convertir columnas necesarias a float
 columnas_num = ["goles", "asistencias", "minutos_jugados", "goles_esperados", "asistencias_esperadas", "goles_esperados_noPen", "valor_mercado_eur"]
@@ -44,6 +45,6 @@ unido = unido.withColumn(
 unido = unido.withColumn("asistencias_esperadas_por_90", spark_round(col("asistencias_esperadas") / (col("minutos_jugados") / 90), 2))
 
 # Exportar como Parquet
-unido.write.mode("overwrite").parquet("data/final/merge_jugadores.parquet")
+unido.write.mode("overwrite").parquet("data/final2/merge_jugadores2.parquet")
 
 print("✅ Datos procesados y exportados en formato Parquet.")

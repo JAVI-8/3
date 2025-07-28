@@ -12,7 +12,7 @@ if (!require("worldfootballR")) {
 library(worldfootballR)
 
 # Ruta de salida personalizada
-output_dir <- "C:/Universidad/Master BDDE UCM/TFM/TFM/data/mercado"
+output_dir <- "C:/Universidad/Master BDDE UCM/TFM/TFM/prueba_data/mercado"
 if (!dir.exists(output_dir)) dir.create(output_dir, recursive = TRUE)
 
 # Definir ligas y temporadas
