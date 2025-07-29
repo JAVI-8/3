@@ -1,0 +1,757 @@
+Player,Pos,Squad,Height,Value,Season,Competition
+ederson,Goalkeeper,Manchester City,1.88,40000000.0,2022-2023,premier-league
+stefan ortega,Goalkeeper,Manchester City,1.85,9000000.0,2022-2023,premier-league
+zack steffen,Goalkeeper,Manchester City,1.91,3500000.0,2022-2023,premier-league
+scott carson,Goalkeeper,Manchester City,1.88,200000.0,2022-2023,premier-league
+ruben dias,Centre-Back,Manchester City,1.87,80000000.0,2022-2023,premier-league
+nathan ake,Centre-Back,Manchester City,1.8,42000000.0,2022-2023,premier-league
+john stones,Centre-Back,Manchester City,1.88,40000000.0,2022-2023,premier-league
+manuel akanji,Centre-Back,Manchester City,1.88,38000000.0,2022-2023,premier-league
+aymeric laporte,Centre-Back,Manchester City,1.91,25000000.0,2022-2023,premier-league
+luke mbete,Centre-Back,Manchester City,1.85,2000000.0,2022-2023,premier-league
+josh wilsonesbrand,Left-Back,Manchester City,1.76,1500000.0,2022-2023,premier-league
+benjamin mendy,Left-Back,Manchester City,1.85,,2022-2023,premier-league
+joao cancelo,Right-Back,Manchester City,1.82,50000000.0,2022-2023,premier-league
+rico lewis,Right-Back,Manchester City,1.7,20000000.0,2022-2023,premier-league
+kyle walker,Right-Back,Manchester City,1.83,13000000.0,2022-2023,premier-league
+rodri,Defensive Midfield,Manchester City,1.91,90000000.0,2022-2023,premier-league
+kalvin phillips,Defensive Midfield,Manchester City,1.79,32000000.0,2022-2023,premier-league
+maximo perrone,Defensive Midfield,Manchester City,1.77,10000000.0,2022-2023,premier-league
+claudio gomes,Defensive Midfield,Manchester City,1.71,1400000.0,2022-2023,premier-league
+shea charles,Defensive Midfield,Manchester City,1.89,,2022-2023,premier-league
+ilkay gundogan,Central Midfield,Manchester City,1.8,20000000.0,2022-2023,premier-league
+alex robertson,Central Midfield,Manchester City,1.82,50000.0,2022-2023,premier-league
+bernardo silva,Attacking Midfield,Manchester City,1.73,80000000.0,2022-2023,premier-league
+kevin de bruyne,Attacking Midfield,Manchester City,1.81,70000000.0,2022-2023,premier-league
+cole palmer,Attacking Midfield,Manchester City,1.85,15000000.0,2022-2023,premier-league
+nico oreilly,Attacking Midfield,Manchester City,1.93,,2022-2023,premier-league
+jack grealish,Left Winger,Manchester City,1.8,75000000.0,2022-2023,premier-league
+sergio gomez,Left Winger,Manchester City,1.71,13000000.0,2022-2023,premier-league
+phil foden,Right Winger,Manchester City,1.71,110000000.0,2022-2023,premier-league
+riyad mahrez,Right Winger,Manchester City,1.79,20000000.0,2022-2023,premier-league
+ben knight,Right Winger,Manchester City,1.7,300000.0,2022-2023,premier-league
+erling haaland,Centre-Forward,Manchester City,1.95,180000000.0,2022-2023,premier-league
+julian alvarez,Centre-Forward,Manchester City,1.7,60000000.0,2022-2023,premier-league
+liam delap,Centre-Forward,Manchester City,1.86,5000000.0,2022-2023,premier-league
+aaron ramsdale,Goalkeeper,Arsenal FC,1.9,40000000.0,2022-2023,premier-league
+matt turner,Goalkeeper,Arsenal FC,1.91,8000000.0,2022-2023,premier-league
+karl hein,Goalkeeper,Arsenal FC,1.93,1500000.0,2022-2023,premier-league
+james hillson,Goalkeeper,Arsenal FC,1.87,,2022-2023,premier-league
+william saliba,Centre-Back,Arsenal FC,1.92,65000000.0,2022-2023,premier-league
+gabriel magalhaes,Centre-Back,Arsenal FC,1.9,55000000.0,2022-2023,premier-league
+jakub kiwior,Centre-Back,Arsenal FC,1.89,25000000.0,2022-2023,premier-league
+auston trusty,Centre-Back,Arsenal FC,1.9,10000000.0,2022-2023,premier-league
+rob holding,Centre-Back,Arsenal FC,1.89,8000000.0,2022-2023,premier-league
+oleksandr zinchenko,Left-Back,Arsenal FC,1.75,42000000.0,2022-2023,premier-league
+kieran tierney,Left-Back,Arsenal FC,1.8,25000000.0,2022-2023,premier-league
+lino sousa,Left-Back,Arsenal FC,1.85,500000.0,2022-2023,premier-league
+ben white,Right-Back,Arsenal FC,1.86,55000000.0,2022-2023,premier-league
+takehiro tomiyasu,Right-Back,Arsenal FC,1.88,25000000.0,2022-2023,premier-league
+ainsley maitlandniles,Right-Back,Arsenal FC,1.8,8000000.0,2022-2023,premier-league
+cedric soares,Right-Back,Arsenal FC,1.71,3000000.0,2022-2023,premier-league
+reuell walters,Right-Back,Arsenal FC,1.86,,2022-2023,premier-league
+thomas partey,Defensive Midfield,Arsenal FC,1.85,35000000.0,2022-2023,premier-league
+jorginho,Defensive Midfield,Arsenal FC,1.8,25000000.0,2022-2023,premier-league
+granit xhaka,Defensive Midfield,Arsenal FC,1.86,20000000.0,2022-2023,premier-league
+mohamed elneny,Defensive Midfield,Arsenal FC,1.79,6000000.0,2022-2023,premier-league
+bradley ibrahim,Defensive Midfield,Arsenal FC,1.85,400000.0,2022-2023,premier-league
+albert sambi lokonga,Central Midfield,Arsenal FC,1.83,15000000.0,2022-2023,premier-league
+matt smith,Central Midfield,Arsenal FC,1.76,350000.0,2022-2023,premier-league
+catalin cirjan,Central Midfield,Arsenal FC,1.74,250000.0,2022-2023,premier-league
+mauro bandeira,Central Midfield,Arsenal FC,1.78,,2022-2023,premier-league
+martin degaard,Attacking Midfield,Arsenal FC,1.78,90000000.0,2022-2023,premier-league
+emile smith rowe,Attacking Midfield,Arsenal FC,1.82,35000000.0,2022-2023,premier-league
+fabio vieira,Attacking Midfield,Arsenal FC,1.7,25000000.0,2022-2023,premier-league
+gabriel martinelli,Left Winger,Arsenal FC,1.78,80000000.0,2022-2023,premier-league
+leandro trossard,Left Winger,Arsenal FC,1.72,35000000.0,2022-2023,premier-league
+charles sagoe jr,Left Winger,Arsenal FC,,,2022-2023,premier-league
+bukayo saka,Right Winger,Arsenal FC,1.78,120000000.0,2022-2023,premier-league
+nicolas pepe,Right Winger,Arsenal FC,1.83,18000000.0,2022-2023,premier-league
+marquinhos,Right Winger,Arsenal FC,1.75,12000000.0,2022-2023,premier-league
+reiss nelson,Right Winger,Arsenal FC,1.75,12000000.0,2022-2023,premier-league
+amario cozierduberry,Right Winger,Arsenal FC,1.7,300000.0,2022-2023,premier-league
+ethan nwaneri,Right Winger,Arsenal FC,1.76,,2022-2023,premier-league
+gabriel jesus,Centre-Forward,Arsenal FC,1.75,75000000.0,2022-2023,premier-league
+eddie nketiah,Centre-Forward,Arsenal FC,1.75,25000000.0,2022-2023,premier-league
+khayon edwards,Centre-Forward,Arsenal FC,1.8,300000.0,2022-2023,premier-league
+nathan butleroyedeji,Centre-Forward,Arsenal FC,1.77,100000.0,2022-2023,premier-league
+kepa arrizabalaga,Goalkeeper,Chelsea FC,1.88,18000000.0,2022-2023,premier-league
+edouard mendy,Goalkeeper,Chelsea FC,1.94,12000000.0,2022-2023,premier-league
+gabriel slonina,Goalkeeper,Chelsea FC,1.93,9000000.0,2022-2023,premier-league
+marcus bettinelli,Goalkeeper,Chelsea FC,1.93,1500000.0,2022-2023,premier-league
+lucas bergstrom,Goalkeeper,Chelsea FC,2.05,250000.0,2022-2023,premier-league
+ethan wady,Goalkeeper,Chelsea FC,,,2022-2023,premier-league
+wesley fofana,Centre-Back,Chelsea FC,1.85,55000000.0,2022-2023,premier-league
+benoit badiashile,Centre-Back,Chelsea FC,1.94,40000000.0,2022-2023,premier-league
+trevoh chalobah,Centre-Back,Chelsea FC,1.92,18000000.0,2022-2023,premier-league
+kalidou koulibaly,Centre-Back,Chelsea FC,1.86,15000000.0,2022-2023,premier-league
+ethan ampadu,Centre-Back,Chelsea FC,1.82,9000000.0,2022-2023,premier-league
+cesar azpilicueta,Centre-Back,Chelsea FC,1.78,5000000.0,2022-2023,premier-league
+thiago silva,Centre-Back,Chelsea FC,1.81,2000000.0,2022-2023,premier-league
+ben chilwell,Left-Back,Chelsea FC,1.8,35000000.0,2022-2023,premier-league
+marc cucurella,Left-Back,Chelsea FC,1.73,35000000.0,2022-2023,premier-league
+lewis hall,Left-Back,Chelsea FC,1.79,10000000.0,2022-2023,premier-league
+bashir humphreys,Left-Back,Chelsea FC,1.86,3000000.0,2022-2023,premier-league
+abdul rahman baba,Left-Back,Chelsea FC,1.79,1200000.0,2022-2023,premier-league
+reece james,Right-Back,Chelsea FC,1.8,65000000.0,2022-2023,premier-league
+alfie gilchrist,Right-Back,Chelsea FC,1.83,,2022-2023,premier-league
+jorginho,Defensive Midfield,Chelsea FC,1.8,25000000.0,2022-2023,premier-league
+denis zakaria,Defensive Midfield,Chelsea FC,1.9,18000000.0,2022-2023,premier-league
+ngolo kante,Defensive Midfield,Chelsea FC,1.68,15000000.0,2022-2023,premier-league
+billy gilmour,Defensive Midfield,Chelsea FC,1.7,12000000.0,2022-2023,premier-league
+enzo fernandez,Central Midfield,Chelsea FC,1.78,80000000.0,2022-2023,premier-league
+mateo kovacic,Central Midfield,Chelsea FC,1.77,38000000.0,2022-2023,premier-league
+conor gallagher,Central Midfield,Chelsea FC,1.82,32000000.0,2022-2023,premier-league
+ruben loftuscheek,Central Midfield,Chelsea FC,1.91,25000000.0,2022-2023,premier-league
+carney chukwuemeka,Central Midfield,Chelsea FC,1.88,15000000.0,2022-2023,premier-league
+mason mount,Attacking Midfield,Chelsea FC,1.81,60000000.0,2022-2023,premier-league
+harvey vale,Attacking Midfield,Chelsea FC,1.81,2000000.0,2022-2023,premier-league
+omari hutchinson,Attacking Midfield,Chelsea FC,1.74,1000000.0,2022-2023,premier-league
+mykhaylo mudryk,Left Winger,Chelsea FC,1.75,50000000.0,2022-2023,premier-league
+callum hudsonodoi,Left Winger,Chelsea FC,1.78,15000000.0,2022-2023,premier-league
+raheem sterling,Right Winger,Chelsea FC,1.7,55000000.0,2022-2023,premier-league
+noni madueke,Right Winger,Chelsea FC,1.82,30000000.0,2022-2023,premier-league
+christian pulisic,Right Winger,Chelsea FC,1.77,25000000.0,2022-2023,premier-league
+hakim ziyech,Right Winger,Chelsea FC,1.8,16000000.0,2022-2023,premier-league
+joao felix,Second Striker,Chelsea FC,1.81,50000000.0,2022-2023,premier-league
+kai havertz,Centre-Forward,Chelsea FC,1.93,55000000.0,2022-2023,premier-league
+armando broja,Centre-Forward,Chelsea FC,1.91,28000000.0,2022-2023,premier-league
+david datro fofana,Centre-Forward,Chelsea FC,1.82,10000000.0,2022-2023,premier-league
+pierreemerick aubameyang,Centre-Forward,Chelsea FC,1.87,4000000.0,2022-2023,premier-league
+dean henderson,Goalkeeper,Manchester United,1.88,18000000.0,2022-2023,premier-league
+david de gea,Goalkeeper,Manchester United,1.92,13000000.0,2022-2023,premier-league
+matej kovar,Goalkeeper,Manchester United,1.96,1800000.0,2022-2023,premier-league
+martin dubravka,Goalkeeper,Manchester United,1.91,1500000.0,2022-2023,premier-league
+jack butland,Goalkeeper,Manchester United,1.96,1500000.0,2022-2023,premier-league
+tom heaton,Goalkeeper,Manchester United,1.88,500000.0,2022-2023,premier-league
+nathan bishop,Goalkeeper,Manchester United,1.85,300000.0,2022-2023,premier-league
+radek vitek,Goalkeeper,Manchester United,1.98,150000.0,2022-2023,premier-league
+lisandro martinez,Centre-Back,Manchester United,1.75,50000000.0,2022-2023,premier-league
+raphael varane,Centre-Back,Manchester United,1.91,35000000.0,2022-2023,premier-league
+harry maguire,Centre-Back,Manchester United,1.94,20000000.0,2022-2023,premier-league
+victor lindelof,Centre-Back,Manchester United,1.87,18000000.0,2022-2023,premier-league
+teden mengi,Centre-Back,Manchester United,1.86,2000000.0,2022-2023,premier-league
+phil jones,Centre-Back,Manchester United,1.85,1500000.0,2022-2023,premier-league
+rhys bennett,Centre-Back,Manchester United,1.87,,2022-2023,premier-league
+tyler fredricson,Centre-Back,Manchester United,,,2022-2023,premier-league
+luke shaw,Left-Back,Manchester United,1.78,42000000.0,2022-2023,premier-league
+tyrell malacia,Left-Back,Manchester United,1.69,22000000.0,2022-2023,premier-league
+brandon williams,Left-Back,Manchester United,1.8,7000000.0,2022-2023,premier-league
+alvaro carreras,Left-Back,Manchester United,1.86,7000000.0,2022-2023,premier-league
+diogo dalot,Right-Back,Manchester United,1.83,40000000.0,2022-2023,premier-league
+aaron wanbissaka,Right-Back,Manchester United,1.83,25000000.0,2022-2023,premier-league
+axel tuanzebe,Right-Back,Manchester United,1.85,4500000.0,2022-2023,premier-league
+marc jurado,Right-Back,Manchester United,1.78,,2022-2023,premier-league
+casemiro,Defensive Midfield,Manchester United,1.85,40000000.0,2022-2023,premier-league
+james garner,Defensive Midfield,Manchester United,1.82,14000000.0,2022-2023,premier-league
+scott mctominay,Central Midfield,Manchester United,1.91,25000000.0,2022-2023,premier-league
+christian eriksen,Central Midfield,Manchester United,1.82,22000000.0,2022-2023,premier-league
+marcel sabitzer,Central Midfield,Manchester United,1.78,20000000.0,2022-2023,premier-league
+fred,Central Midfield,Manchester United,1.69,20000000.0,2022-2023,premier-league
+donny van de beek,Central Midfield,Manchester United,1.84,13000000.0,2022-2023,premier-league
+zidane iqbal,Central Midfield,Manchester United,1.81,1000000.0,2022-2023,premier-league
+kobbie mainoo,Central Midfield,Manchester United,1.8,800000.0,2022-2023,premier-league
+bruno fernandes,Attacking Midfield,Manchester United,1.79,75000000.0,2022-2023,premier-league
+alejandro garnacho,Attacking Midfield,Manchester United,1.8,25000000.0,2022-2023,premier-league
+hannibal,Attacking Midfield,Manchester United,1.83,8000000.0,2022-2023,premier-league
+marcus rashford,Left Winger,Manchester United,1.85,80000000.0,2022-2023,premier-league
+jadon sancho,Left Winger,Manchester United,1.8,45000000.0,2022-2023,premier-league
+shola shoretire,Left Winger,Manchester United,1.71,4000000.0,2022-2023,premier-league
+antony,Right Winger,Manchester United,1.72,60000000.0,2022-2023,premier-league
+amad diallo,Right Winger,Manchester United,1.73,18000000.0,2022-2023,premier-league
+anthony elanga,Right Winger,Manchester United,1.78,18000000.0,2022-2023,premier-league
+facundo pellistri,Right Winger,Manchester United,1.75,6000000.0,2022-2023,premier-league
+mason greenwood,Right Winger,Manchester United,1.81,,2022-2023,premier-league
+cristiano ronaldo,Centre-Forward,Manchester United,1.88,15000000.0,2022-2023,premier-league
+anthony martial,Centre-Forward,Manchester United,1.81,15000000.0,2022-2023,premier-league
+wout weghorst,Centre-Forward,Manchester United,1.97,12000000.0,2022-2023,premier-league
+charlie mcneill,Centre-Forward,Manchester United,1.81,200000.0,2022-2023,premier-league
+alisson,Goalkeeper,Liverpool FC,1.93,35000000.0,2022-2023,premier-league
+caoimhin kelleher,Goalkeeper,Liverpool FC,1.88,12000000.0,2022-2023,premier-league
+adrian,Goalkeeper,Liverpool FC,1.9,800000.0,2022-2023,premier-league
+harvey davies,Goalkeeper,Liverpool FC,1.9,300000.0,2022-2023,premier-league
+ibrahima konate,Centre-Back,Liverpool FC,1.94,38000000.0,2022-2023,premier-league
+virgil van dijk,Centre-Back,Liverpool FC,1.95,35000000.0,2022-2023,premier-league
+joe gomez,Centre-Back,Liverpool FC,1.88,22000000.0,2022-2023,premier-league
+joel matip,Centre-Back,Liverpool FC,1.95,12000000.0,2022-2023,premier-league
+sepp van den berg,Centre-Back,Liverpool FC,1.92,5000000.0,2022-2023,premier-league
+nat phillips,Centre-Back,Liverpool FC,1.9,4000000.0,2022-2023,premier-league
+rhys williams,Centre-Back,Liverpool FC,1.95,2000000.0,2022-2023,premier-league
+jarell quansah,Centre-Back,Liverpool FC,1.9,400000.0,2022-2023,premier-league
+luke chambers,Centre-Back,Liverpool FC,1.81,300000.0,2022-2023,premier-league
+andrew robertson,Left-Back,Liverpool FC,1.78,40000000.0,2022-2023,premier-league
+konstantinos tsimikas,Left-Back,Liverpool FC,1.79,18000000.0,2022-2023,premier-league
+trent alexanderarnold,Right-Back,Liverpool FC,1.8,65000000.0,2022-2023,premier-league
+calvin ramsay,Right-Back,Liverpool FC,1.77,5000000.0,2022-2023,premier-league
+fabinho,Defensive Midfield,Liverpool FC,1.88,42000000.0,2022-2023,premier-league
+arthur melo,Defensive Midfield,Liverpool FC,1.72,15000000.0,2022-2023,premier-league
+stefan bajcetic,Defensive Midfield,Liverpool FC,1.85,13000000.0,2022-2023,premier-league
+jordan henderson,Defensive Midfield,Liverpool FC,1.82,10000000.0,2022-2023,premier-league
+curtis jones,Central Midfield,Liverpool FC,1.85,22000000.0,2022-2023,premier-league
+thiago alcantara,Central Midfield,Liverpool FC,1.74,15000000.0,2022-2023,premier-league
+naby keita,Central Midfield,Liverpool FC,1.72,12000000.0,2022-2023,premier-league
+alex oxladechamberlain,Central Midfield,Liverpool FC,1.8,7000000.0,2022-2023,premier-league
+james milner,Central Midfield,Liverpool FC,1.75,1500000.0,2022-2023,premier-league
+bobby clark,Central Midfield,Liverpool FC,1.78,350000.0,2022-2023,premier-league
+jake cain,Central Midfield,Liverpool FC,1.76,200000.0,2022-2023,premier-league
+harvey elliott,Attacking Midfield,Liverpool FC,1.7,35000000.0,2022-2023,premier-league
+fabio carvalho,Attacking Midfield,Liverpool FC,1.7,16000000.0,2022-2023,premier-league
+luis diaz,Left Winger,Liverpool FC,1.8,75000000.0,2022-2023,premier-league
+cody gakpo,Left Winger,Liverpool FC,1.93,55000000.0,2022-2023,premier-league
+mohamed salah,Right Winger,Liverpool FC,1.75,65000000.0,2022-2023,premier-league
+ben doak,Right Winger,Liverpool FC,1.73,,2022-2023,premier-league
+melkamu frauendorf,Right Winger,Liverpool FC,1.8,,2022-2023,premier-league
+darwin nunez,Centre-Forward,Liverpool FC,1.87,65000000.0,2022-2023,premier-league
+diogo jota,Centre-Forward,Liverpool FC,1.78,50000000.0,2022-2023,premier-league
+roberto firmino,Centre-Forward,Liverpool FC,1.81,18000000.0,2022-2023,premier-league
+layton stewart,Centre-Forward,Liverpool FC,1.8,,2022-2023,premier-league
+hugo lloris,Goalkeeper,Tottenham Hotspur,1.88,3000000.0,2022-2023,premier-league
+fraser forster,Goalkeeper,Tottenham Hotspur,2.01,1500000.0,2022-2023,premier-league
+alfie whiteman,Goalkeeper,Tottenham Hotspur,1.88,500000.0,2022-2023,premier-league
+brandon austin,Goalkeeper,Tottenham Hotspur,1.88,300000.0,2022-2023,premier-league
+cristian romero,Centre-Back,Tottenham Hotspur,1.85,60000000.0,2022-2023,premier-league
+eric dier,Centre-Back,Tottenham Hotspur,1.91,18000000.0,2022-2023,premier-league
+davinson sanchez,Centre-Back,Tottenham Hotspur,1.87,15000000.0,2022-2023,premier-league
+ben davies,Centre-Back,Tottenham Hotspur,1.81,15000000.0,2022-2023,premier-league
+clement lenglet,Centre-Back,Tottenham Hotspur,1.86,10000000.0,2022-2023,premier-league
+japhet tanganga,Centre-Back,Tottenham Hotspur,1.84,7000000.0,2022-2023,premier-league
+ryan sessegnon,Left-Back,Tottenham Hotspur,1.78,18000000.0,2022-2023,premier-league
+djed spence,Left-Back,Tottenham Hotspur,1.84,10000000.0,2022-2023,premier-league
+pedro porro,Right-Back,Tottenham Hotspur,1.73,40000000.0,2022-2023,premier-league
+emerson royal,Right-Back,Tottenham Hotspur,1.83,20000000.0,2022-2023,premier-league
+matt doherty,Right-Back,Tottenham Hotspur,1.85,5000000.0,2022-2023,premier-league
+pierreemile hjbjerg,Defensive Midfield,Tottenham Hotspur,1.85,45000000.0,2022-2023,premier-league
+rodrigo bentancur,Defensive Midfield,Tottenham Hotspur,1.87,40000000.0,2022-2023,premier-league
+yves bissouma,Defensive Midfield,Tottenham Hotspur,1.82,18000000.0,2022-2023,premier-league
+oliver skipp,Defensive Midfield,Tottenham Hotspur,1.75,15000000.0,2022-2023,premier-league
+harvey white,Defensive Midfield,Tottenham Hotspur,1.68,600000.0,2022-2023,premier-league
+matthew craig,Defensive Midfield,Tottenham Hotspur,1.84,,2022-2023,premier-league
+george abbott,Defensive Midfield,Tottenham Hotspur,1.75,,2022-2023,premier-league
+pape matar sarr,Central Midfield,Tottenham Hotspur,1.84,15000000.0,2022-2023,premier-league
+dejan kulusevski,Attacking Midfield,Tottenham Hotspur,1.86,50000000.0,2022-2023,premier-league
+alfie devine,Attacking Midfield,Tottenham Hotspur,1.82,900000.0,2022-2023,premier-league
+heungmin son,Left Winger,Tottenham Hotspur,1.84,50000000.0,2022-2023,premier-league
+arnaut danjuma,Left Winger,Tottenham Hotspur,1.78,25000000.0,2022-2023,premier-league
+bryan gil,Left Winger,Tottenham Hotspur,1.75,15000000.0,2022-2023,premier-league
+romaine mundle,Left Winger,Tottenham Hotspur,,300000.0,2022-2023,premier-league
+yago santiago,Left Winger,Tottenham Hotspur,1.8,,2022-2023,premier-league
+ivan perisic,Right Winger,Tottenham Hotspur,1.86,7000000.0,2022-2023,premier-league
+lucas moura,Right Winger,Tottenham Hotspur,1.72,6000000.0,2022-2023,premier-league
+harry kane,Centre-Forward,Tottenham Hotspur,1.88,90000000.0,2022-2023,premier-league
+richarlison,Centre-Forward,Tottenham Hotspur,1.84,48000000.0,2022-2023,premier-league
+nick pope,Goalkeeper,Newcastle United,1.98,20000000.0,2022-2023,premier-league
+martin dubravka,Goalkeeper,Newcastle United,1.91,1500000.0,2022-2023,premier-league
+loris karius,Goalkeeper,Newcastle United,1.91,1200000.0,2022-2023,premier-league
+karl darlow,Goalkeeper,Newcastle United,1.9,1000000.0,2022-2023,premier-league
+mark gillespie,Goalkeeper,Newcastle United,1.91,300000.0,2022-2023,premier-league
+sven botman,Centre-Back,Newcastle United,1.93,45000000.0,2022-2023,premier-league
+fabian schar,Centre-Back,Newcastle United,1.86,10000000.0,2022-2023,premier-league
+dan burn,Centre-Back,Newcastle United,2.01,10000000.0,2022-2023,premier-league
+jamaal lascelles,Centre-Back,Newcastle United,1.88,4500000.0,2022-2023,premier-league
+federico fernandez,Centre-Back,Newcastle United,1.89,700000.0,2022-2023,premier-league
+ciaran clark,Centre-Back,Newcastle United,1.85,600000.0,2022-2023,premier-league
+kell watts,Centre-Back,Newcastle United,1.92,300000.0,2022-2023,premier-league
+matt targett,Left-Back,Newcastle United,1.83,13000000.0,2022-2023,premier-league
+jamal lewis,Left-Back,Newcastle United,1.78,6000000.0,2022-2023,premier-league
+paul dummett,Left-Back,Newcastle United,1.83,1000000.0,2022-2023,premier-league
+kieran trippier,Right-Back,Newcastle United,1.73,11000000.0,2022-2023,premier-league
+emil krafth,Right-Back,Newcastle United,1.84,3000000.0,2022-2023,premier-league
+javier manquillo,Right-Back,Newcastle United,1.78,2500000.0,2022-2023,premier-league
+harrison ashby,Right-Back,Newcastle United,1.79,1000000.0,2022-2023,premier-league
+bruno guimaraes,Defensive Midfield,Newcastle United,1.82,70000000.0,2022-2023,premier-league
+isaac hayden,Defensive Midfield,Newcastle United,1.87,3500000.0,2022-2023,premier-league
+joelinton,Central Midfield,Newcastle United,1.86,42000000.0,2022-2023,premier-league
+joe willock,Central Midfield,Newcastle United,1.86,38000000.0,2022-2023,premier-league
+sean longstaff,Central Midfield,Newcastle United,1.87,25000000.0,2022-2023,premier-league
+elliot anderson,Central Midfield,Newcastle United,1.79,8000000.0,2022-2023,premier-league
+jonjo shelvey,Central Midfield,Newcastle United,1.84,5000000.0,2022-2023,premier-league
+jeff hendrick,Central Midfield,Newcastle United,1.85,1500000.0,2022-2023,premier-league
+matty longstaff,Central Midfield,Newcastle United,1.71,1000000.0,2022-2023,premier-league
+lewis miley,Central Midfield,Newcastle United,1.89,,2022-2023,premier-league
+matt ritchie,Right Midfield,Newcastle United,1.73,1000000.0,2022-2023,premier-league
+anthony gordon,Left Winger,Newcastle United,1.83,35000000.0,2022-2023,premier-league
+allan saintmaximin,Left Winger,Newcastle United,1.73,32000000.0,2022-2023,premier-league
+ryan fraser,Left Winger,Newcastle United,1.63,6000000.0,2022-2023,premier-league
+miguel almiron,Right Winger,Newcastle United,1.74,32000000.0,2022-2023,premier-league
+jacob murphy,Right Winger,Newcastle United,1.79,15000000.0,2022-2023,premier-league
+alexander isak,Centre-Forward,Newcastle United,1.92,70000000.0,2022-2023,premier-league
+callum wilson,Centre-Forward,Newcastle United,1.8,16000000.0,2022-2023,premier-league
+chris wood,Centre-Forward,Newcastle United,1.91,8000000.0,2022-2023,premier-league
+robert sanchez,Goalkeeper,Brighton & Hove Albion,1.97,22000000.0,2022-2023,premier-league
+jason steele,Goalkeeper,Brighton & Hove Albion,1.88,4000000.0,2022-2023,premier-league
+tom mcgill,Goalkeeper,Brighton & Hove Albion,1.85,600000.0,2022-2023,premier-league
+levi colwill,Centre-Back,Brighton & Hove Albion,1.87,30000000.0,2022-2023,premier-league
+adam webster,Centre-Back,Brighton & Hove Albion,1.9,25000000.0,2022-2023,premier-league
+lewis dunk,Centre-Back,Brighton & Hove Albion,1.92,16000000.0,2022-2023,premier-league
+jan paul van hecke,Centre-Back,Brighton & Hove Albion,1.89,5000000.0,2022-2023,premier-league
+ed turns,Centre-Back,Brighton & Hove Albion,1.86,350000.0,2022-2023,premier-league
+antef tsoungui,Centre-Back,Brighton & Hove Albion,1.85,250000.0,2022-2023,premier-league
+pervis estupinan,Left-Back,Brighton & Hove Albion,1.75,32000000.0,2022-2023,premier-league
+haydon roberts,Left-Back,Brighton & Hove Albion,1.84,700000.0,2022-2023,premier-league
+james furlong,Left-Back,Brighton & Hove Albion,1.78,275000.0,2022-2023,premier-league
+imari samuels,Left-Back,Brighton & Hove Albion,1.87,150000.0,2022-2023,premier-league
+tariq lamptey,Right-Back,Brighton & Hove Albion,1.63,12000000.0,2022-2023,premier-league
+joel veltman,Right-Back,Brighton & Hove Albion,1.84,10000000.0,2022-2023,premier-league
+odeluga offiah,Right-Back,Brighton & Hove Albion,1.87,200000.0,2022-2023,premier-league
+moises caicedo,Defensive Midfield,Brighton & Hove Albion,1.78,75000000.0,2022-2023,premier-league
+billy gilmour,Defensive Midfield,Brighton & Hove Albion,1.7,12000000.0,2022-2023,premier-league
+jack hinchy,Defensive Midfield,Brighton & Hove Albion,,100000.0,2022-2023,premier-league
+alexis mac allister,Central Midfield,Brighton & Hove Albion,1.76,65000000.0,2022-2023,premier-league
+jakub moder,Central Midfield,Brighton & Hove Albion,1.91,10000000.0,2022-2023,premier-league
+pascal gro,Central Midfield,Brighton & Hove Albion,1.81,8000000.0,2022-2023,premier-league
+yasin ayari,Central Midfield,Brighton & Hove Albion,1.72,6000000.0,2022-2023,premier-league
+steven alzate,Central Midfield,Brighton & Hove Albion,1.8,4000000.0,2022-2023,premier-league
+taylor richards,Central Midfield,Brighton & Hove Albion,1.8,400000.0,2022-2023,premier-league
+jack spong,Central Midfield,Brighton & Hove Albion,,150000.0,2022-2023,premier-league
+enock mwepu,Central Midfield,Brighton & Hove Albion,1.84,,2022-2023,premier-league
+jack hinshelwood,Central Midfield,Brighton & Hove Albion,1.82,,2022-2023,premier-league
+julio enciso,Attacking Midfield,Brighton & Hove Albion,1.73,22000000.0,2022-2023,premier-league
+facundo buonanotte,Attacking Midfield,Brighton & Hove Albion,1.74,12000000.0,2022-2023,premier-league
+adam lallana,Attacking Midfield,Brighton & Hove Albion,1.72,1200000.0,2022-2023,premier-league
+andrew moran,Attacking Midfield,Brighton & Hove Albion,1.77,300000.0,2022-2023,premier-league
+leandro trossard,Left Winger,Brighton & Hove Albion,1.72,35000000.0,2022-2023,premier-league
+kaoru mitoma,Left Winger,Brighton & Hove Albion,1.78,32000000.0,2022-2023,premier-league
+jeremy sarmiento,Left Winger,Brighton & Hove Albion,1.78,5000000.0,2022-2023,premier-league
+cameron peupion,Left Winger,Brighton & Hove Albion,1.75,125000.0,2022-2023,premier-league
+solly march,Right Winger,Brighton & Hove Albion,1.8,22000000.0,2022-2023,premier-league
+evan ferguson,Centre-Forward,Brighton & Hove Albion,1.88,30000000.0,2022-2023,premier-league
+neal maupay,Centre-Forward,Brighton & Hove Albion,1.71,10000000.0,2022-2023,premier-league
+deniz undav,Centre-Forward,Brighton & Hove Albion,1.79,10000000.0,2022-2023,premier-league
+danny welbeck,Centre-Forward,Brighton & Hove Albion,1.85,7000000.0,2022-2023,premier-league
+aaron connolly,Centre-Forward,Brighton & Hove Albion,1.74,4000000.0,2022-2023,premier-league
+emiliano martinez,Goalkeeper,Aston Villa,1.95,28000000.0,2022-2023,premier-league
+robin olsen,Goalkeeper,Aston Villa,1.96,1500000.0,2022-2023,premier-league
+jed steer,Goalkeeper,Aston Villa,1.83,500000.0,2022-2023,premier-league
+viljami sinisalo,Goalkeeper,Aston Villa,1.9,500000.0,2022-2023,premier-league
+oliwier zych,Goalkeeper,Aston Villa,1.93,50000.0,2022-2023,premier-league
+filip marschall,Goalkeeper,Aston Villa,1.95,,2022-2023,premier-league
+james wright,Goalkeeper,Aston Villa,1.88,,2022-2023,premier-league
+ezri konsa,Centre-Back,Aston Villa,1.83,25000000.0,2022-2023,premier-league
+tyrone mings,Centre-Back,Aston Villa,1.96,22000000.0,2022-2023,premier-league
+diego carlos,Centre-Back,Aston Villa,1.85,20000000.0,2022-2023,premier-league
+jan bednarek,Centre-Back,Aston Villa,1.89,14000000.0,2022-2023,premier-league
+calum chambers,Centre-Back,Aston Villa,1.82,8000000.0,2022-2023,premier-league
+kortney hause,Centre-Back,Aston Villa,1.91,2200000.0,2022-2023,premier-league
+josh feeney,Centre-Back,Aston Villa,1.96,300000.0,2022-2023,premier-league
+sil swinkels,Centre-Back,Aston Villa,,150000.0,2022-2023,premier-league
+alex moreno,Left-Back,Aston Villa,1.79,15000000.0,2022-2023,premier-league
+lucas digne,Left-Back,Aston Villa,1.78,15000000.0,2022-2023,premier-league
+ludwig augustinsson,Left-Back,Aston Villa,1.81,2500000.0,2022-2023,premier-league
+sebastian revan,Left-Back,Aston Villa,1.81,,2022-2023,premier-league
+travis patterson,Left-Back,Aston Villa,,,2022-2023,premier-league
+matty cash,Right-Back,Aston Villa,1.85,25000000.0,2022-2023,premier-league
+ashley young,Right-Back,Aston Villa,1.75,600000.0,2022-2023,premier-league
+boubacar kamara,Defensive Midfield,Aston Villa,1.84,30000000.0,2022-2023,premier-league
+leander dendoncker,Defensive Midfield,Aston Villa,1.88,15000000.0,2022-2023,premier-league
+marvelous nakamba,Defensive Midfield,Aston Villa,1.77,4000000.0,2022-2023,premier-league
+lamare bogarde,Defensive Midfield,Aston Villa,1.85,450000.0,2022-2023,premier-league
+douglas luiz,Central Midfield,Aston Villa,1.77,40000000.0,2022-2023,premier-league
+john mcginn,Central Midfield,Aston Villa,1.78,27000000.0,2022-2023,premier-league
+morgan sanson,Central Midfield,Aston Villa,1.8,6000000.0,2022-2023,premier-league
+tim iroegbunam,Central Midfield,Aston Villa,1.83,5000000.0,2022-2023,premier-league
+jacob ramsey,Left Midfield,Aston Villa,1.8,42000000.0,2022-2023,premier-league
+emiliano buendia,Attacking Midfield,Aston Villa,1.72,28000000.0,2022-2023,premier-league
+philippe coutinho,Attacking Midfield,Aston Villa,1.72,10000000.0,2022-2023,premier-league
+tommi oreilly,Attacking Midfield,Aston Villa,1.7,,2022-2023,premier-league
+jaden philogene,Left Winger,Aston Villa,1.81,2800000.0,2022-2023,premier-league
+kadan young,Left Winger,Aston Villa,1.76,,2022-2023,premier-league
+leon bailey,Right Winger,Aston Villa,1.78,28000000.0,2022-2023,premier-league
+bertrand traore,Right Winger,Aston Villa,1.81,12000000.0,2022-2023,premier-league
+ollie watkins,Centre-Forward,Aston Villa,1.8,40000000.0,2022-2023,premier-league
+danny ings,Centre-Forward,Aston Villa,1.77,12000000.0,2022-2023,premier-league
+cameron archer,Centre-Forward,Aston Villa,1.75,12000000.0,2022-2023,premier-league
+jhon duran,Centre-Forward,Aston Villa,1.85,12000000.0,2022-2023,premier-league
+keinan davis,Centre-Forward,Aston Villa,1.89,3000000.0,2022-2023,premier-league
+jose sa,Goalkeeper,Wolverhampton Wanderers,1.92,18000000.0,2022-2023,premier-league
+matija sarkic,Goalkeeper,Wolverhampton Wanderers,,2000000.0,2022-2023,premier-league
+daniel bentley,Goalkeeper,Wolverhampton Wanderers,1.93,2000000.0,2022-2023,premier-league
+louie moulden,Goalkeeper,Wolverhampton Wanderers,1.9,200000.0,2022-2023,premier-league
+jackson smith,Goalkeeper,Wolverhampton Wanderers,1.87,150000.0,2022-2023,premier-league
+maximilian kilman,Centre-Back,Wolverhampton Wanderers,1.94,30000000.0,2022-2023,premier-league
+nathan collins,Centre-Back,Wolverhampton Wanderers,1.93,22000000.0,2022-2023,premier-league
+conor coady,Centre-Back,Wolverhampton Wanderers,1.85,12000000.0,2022-2023,premier-league
+toti,Centre-Back,Wolverhampton Wanderers,1.87,6000000.0,2022-2023,premier-league
+yerson mosquera,Centre-Back,Wolverhampton Wanderers,1.88,3000000.0,2022-2023,premier-league
+willy boly,Centre-Back,Wolverhampton Wanderers,1.95,2500000.0,2022-2023,premier-league
+craig dawson,Centre-Back,Wolverhampton Wanderers,1.88,2000000.0,2022-2023,premier-league
+rayan aitnouri,Left-Back,Wolverhampton Wanderers,1.8,22000000.0,2022-2023,premier-league
+hugo bueno,Left-Back,Wolverhampton Wanderers,1.8,6000000.0,2022-2023,premier-league
+nelson semedo,Right-Back,Wolverhampton Wanderers,1.77,15000000.0,2022-2023,premier-league
+jonny otto,Right-Back,Wolverhampton Wanderers,1.75,13000000.0,2022-2023,premier-league
+kijana hoever,Right-Back,Wolverhampton Wanderers,1.83,3500000.0,2022-2023,premier-league
+dexter lembikisa,Right-Back,Wolverhampton Wanderers,1.8,,2022-2023,premier-league
+ruben neves,Defensive Midfield,Wolverhampton Wanderers,1.8,40000000.0,2022-2023,premier-league
+leander dendoncker,Defensive Midfield,Wolverhampton Wanderers,1.88,15000000.0,2022-2023,premier-league
+mario lemina,Defensive Midfield,Wolverhampton Wanderers,1.84,10000000.0,2022-2023,premier-league
+boubacar traore,Defensive Midfield,Wolverhampton Wanderers,1.83,5000000.0,2022-2023,premier-league
+joe hodge,Defensive Midfield,Wolverhampton Wanderers,1.72,2000000.0,2022-2023,premier-league
+harvey griffiths,Defensive Midfield,Wolverhampton Wanderers,1.9,,2022-2023,premier-league
+matheus nunes,Central Midfield,Wolverhampton Wanderers,1.83,45000000.0,2022-2023,premier-league
+joao gomes,Central Midfield,Wolverhampton Wanderers,1.76,18000000.0,2022-2023,premier-league
+joao moutinho,Central Midfield,Wolverhampton Wanderers,1.7,1500000.0,2022-2023,premier-league
+connor ronan,Central Midfield,Wolverhampton Wanderers,1.71,800000.0,2022-2023,premier-league
+morgan gibbswhite,Attacking Midfield,Wolverhampton Wanderers,1.71,40000000.0,2022-2023,premier-league
+daniel podence,Attacking Midfield,Wolverhampton Wanderers,1.7,20000000.0,2022-2023,premier-league
+luke cundle,Attacking Midfield,Wolverhampton Wanderers,1.71,3000000.0,2022-2023,premier-league
+chem campbell,Attacking Midfield,Wolverhampton Wanderers,1.8,1000000.0,2022-2023,premier-league
+goncalo guedes,Left Winger,Wolverhampton Wanderers,1.79,23000000.0,2022-2023,premier-league
+chiquinho,Left Winger,Wolverhampton Wanderers,1.79,2000000.0,2022-2023,premier-league
+pedro neto,Right Winger,Wolverhampton Wanderers,1.74,28000000.0,2022-2023,premier-league
+pablo sarabia,Right Winger,Wolverhampton Wanderers,1.74,14000000.0,2022-2023,premier-league
+adama traore,Right Winger,Wolverhampton Wanderers,1.78,10000000.0,2022-2023,premier-league
+matheus cunha,Second Striker,Wolverhampton Wanderers,1.83,25000000.0,2022-2023,premier-league
+sasa kalajdzic,Centre-Forward,Wolverhampton Wanderers,2.0,15000000.0,2022-2023,premier-league
+heechan hwang,Centre-Forward,Wolverhampton Wanderers,1.77,12000000.0,2022-2023,premier-league
+raul jimenez,Centre-Forward,Wolverhampton Wanderers,1.87,6000000.0,2022-2023,premier-league
+diego costa,Centre-Forward,Wolverhampton Wanderers,1.86,2000000.0,2022-2023,premier-league
+nathan fraser,Centre-Forward,Wolverhampton Wanderers,1.88,,2022-2023,premier-league
+alphonse areola,Goalkeeper,West Ham United,1.95,8000000.0,2022-2023,premier-league
+lukasz fabianski,Goalkeeper,West Ham United,1.9,900000.0,2022-2023,premier-league
+darren randolph,Goalkeeper,West Ham United,1.87,400000.0,2022-2023,premier-league
+nathan trott,Goalkeeper,West Ham United,1.88,400000.0,2022-2023,premier-league
+krisztian hegyi,Goalkeeper,West Ham United,1.96,250000.0,2022-2023,premier-league
+joseph anang,Goalkeeper,West Ham United,1.9,100000.0,2022-2023,premier-league
+nayef aguerd,Centre-Back,West Ham United,1.9,35000000.0,2022-2023,premier-league
+kurt zouma,Centre-Back,West Ham United,1.9,22000000.0,2022-2023,premier-league
+thilo kehrer,Centre-Back,West Ham United,1.86,18000000.0,2022-2023,premier-league
+craig dawson,Centre-Back,West Ham United,1.88,2000000.0,2022-2023,premier-league
+angelo ogbonna,Centre-Back,West Ham United,1.91,900000.0,2022-2023,premier-league
+jamal baptiste,Centre-Back,West Ham United,1.9,250000.0,2022-2023,premier-league
+levi laing,Centre-Back,West Ham United,1.88,,2022-2023,premier-league
+michael forbes,Centre-Back,West Ham United,1.88,,2022-2023,premier-league
+kaelan casey,Centre-Back,West Ham United,1.85,,2022-2023,premier-league
+emerson,Left-Back,West Ham United,1.76,12000000.0,2022-2023,premier-league
+aaron cresswell,Left-Back,West Ham United,1.7,1200000.0,2022-2023,premier-league
+oliver scarles,Left-Back,West Ham United,1.8,200000.0,2022-2023,premier-league
+regan clayton,Left-Back,West Ham United,1.84,,2022-2023,premier-league
+ben johnson,Right-Back,West Ham United,1.84,10000000.0,2022-2023,premier-league
+vladimir coufal,Right-Back,West Ham United,1.74,9000000.0,2022-2023,premier-league
+harrison ashby,Right-Back,West Ham United,1.79,1000000.0,2022-2023,premier-league
+tomas soucek,Defensive Midfield,West Ham United,1.92,35000000.0,2022-2023,premier-league
+flynn downes,Defensive Midfield,West Ham United,1.78,9000000.0,2022-2023,premier-league
+conor coventry,Defensive Midfield,West Ham United,1.77,1800000.0,2022-2023,premier-league
+pierre ekwah,Defensive Midfield,West Ham United,1.89,500000.0,2022-2023,premier-league
+keenan appiahforson,Defensive Midfield,West Ham United,1.74,300000.0,2022-2023,premier-league
+freddie potts,Defensive Midfield,West Ham United,1.83,250000.0,2022-2023,premier-league
+declan rice,Central Midfield,West Ham United,1.88,90000000.0,2022-2023,premier-league
+pablo fornals,Central Midfield,West Ham United,1.78,22000000.0,2022-2023,premier-league
+lewis orford,Central Midfield,West Ham United,1.82,,2022-2023,premier-league
+dan chesters,Right Midfield,West Ham United,,250000.0,2022-2023,premier-league
+lucas paqueta,Attacking Midfield,West Ham United,1.8,45000000.0,2022-2023,premier-league
+nikola vlasic,Attacking Midfield,West Ham United,1.79,17000000.0,2022-2023,premier-league
+manuel lanzini,Attacking Midfield,West Ham United,1.7,6000000.0,2022-2023,premier-league
+kamarai swyer,Attacking Midfield,West Ham United,1.83,150000.0,2022-2023,premier-league
+said benrahma,Left Winger,West Ham United,1.72,25000000.0,2022-2023,premier-league
+maxwel cornet,Left Winger,West Ham United,1.79,12000000.0,2022-2023,premier-league
+armstrong okoflex,Left Winger,West Ham United,1.86,500000.0,2022-2023,premier-league
+jarrod bowen,Right Winger,West Ham United,1.76,38000000.0,2022-2023,premier-league
+gianluca scamacca,Centre-Forward,West Ham United,1.95,22000000.0,2022-2023,premier-league
+danny ings,Centre-Forward,West Ham United,1.77,12000000.0,2022-2023,premier-league
+michail antonio,Centre-Forward,West Ham United,1.8,7000000.0,2022-2023,premier-league
+divin mubama,Centre-Forward,West Ham United,1.83,250000.0,2022-2023,premier-league
+jordan pickford,Goalkeeper,Everton FC,1.85,22000000.0,2022-2023,premier-league
+asmir begovic,Goalkeeper,Everton FC,1.99,800000.0,2022-2023,premier-league
+eldin jakupovic,Goalkeeper,Everton FC,1.91,200000.0,2022-2023,premier-league
+andy lonergan,Goalkeeper,Everton FC,1.93,150000.0,2022-2023,premier-league
+james tarkowski,Centre-Back,Everton FC,1.85,18000000.0,2022-2023,premier-league
+ben godfrey,Centre-Back,Everton FC,1.84,13000000.0,2022-2023,premier-league
+conor coady,Centre-Back,Everton FC,1.85,12000000.0,2022-2023,premier-league
+michael keane,Centre-Back,Everton FC,1.88,10000000.0,2022-2023,premier-league
+yerry mina,Centre-Back,Everton FC,1.95,10000000.0,2022-2023,premier-league
+mason holgate,Centre-Back,Everton FC,1.87,9000000.0,2022-2023,premier-league
+reece welch,Centre-Back,Everton FC,,500000.0,2022-2023,premier-league
+vitaliy mykolenko,Left-Back,Everton FC,1.8,25000000.0,2022-2023,premier-league
+ruben vinagre,Left-Back,Everton FC,1.74,4000000.0,2022-2023,premier-league
+ishe samuelssmith,Left-Back,Everton FC,1.86,,2022-2023,premier-league
+nathan patterson,Right-Back,Everton FC,1.89,16000000.0,2022-2023,premier-league
+seamus coleman,Right-Back,Everton FC,1.77,1000000.0,2022-2023,premier-league
+kyle john,Right-Back,Everton FC,1.76,150000.0,2022-2023,premier-league
+amadou onana,Defensive Midfield,Everton FC,1.95,45000000.0,2022-2023,premier-league
+james garner,Defensive Midfield,Everton FC,1.82,14000000.0,2022-2023,premier-league
+allan,Defensive Midfield,Everton FC,1.75,6000000.0,2022-2023,premier-league
+idrissa gueye,Defensive Midfield,Everton FC,1.74,5000000.0,2022-2023,premier-league
+jeanphilippe gbamin,Defensive Midfield,Everton FC,1.86,4800000.0,2022-2023,premier-league
+andre gomes,Central Midfield,Everton FC,1.9,16000000.0,2022-2023,premier-league
+tom davies,Central Midfield,Everton FC,1.8,9000000.0,2022-2023,premier-league
+lewis warrington,Central Midfield,Everton FC,1.82,500000.0,2022-2023,premier-league
+isaac price,Central Midfield,Everton FC,1.88,400000.0,2022-2023,premier-league
+abdoulaye doucoure,Attacking Midfield,Everton FC,1.83,12000000.0,2022-2023,premier-league
+dele alli,Attacking Midfield,Everton FC,1.88,8000000.0,2022-2023,premier-league
+sean mcallister,Attacking Midfield,Everton FC,1.79,,2022-2023,premier-league
+anthony gordon,Left Winger,Everton FC,1.83,35000000.0,2022-2023,premier-league
+alex iwobi,Left Winger,Everton FC,1.83,28000000.0,2022-2023,premier-league
+dwight mcneil,Left Winger,Everton FC,1.83,20000000.0,2022-2023,premier-league
+demarai gray,Left Winger,Everton FC,1.83,20000000.0,2022-2023,premier-league
+andros townsend,Right Winger,Everton FC,1.81,1500000.0,2022-2023,premier-league
+stanley mills,Right Winger,Everton FC,1.8,150000.0,2022-2023,premier-league
+dominic calvertlewin,Centre-Forward,Everton FC,1.89,25000000.0,2022-2023,premier-league
+neal maupay,Centre-Forward,Everton FC,1.71,10000000.0,2022-2023,premier-league
+tom cannon,Centre-Forward,Everton FC,1.8,5000000.0,2022-2023,premier-league
+ellis simms,Centre-Forward,Everton FC,1.91,4000000.0,2022-2023,premier-league
+salomon rondon,Centre-Forward,Everton FC,1.89,2000000.0,2022-2023,premier-league
+dean henderson,Goalkeeper,Nottingham Forest,1.88,18000000.0,2022-2023,premier-league
+keylor navas,Goalkeeper,Nottingham Forest,1.85,4000000.0,2022-2023,premier-league
+wayne hennessey,Goalkeeper,Nottingham Forest,1.98,400000.0,2022-2023,premier-league
+jordan smith,Goalkeeper,Nottingham Forest,1.83,250000.0,2022-2023,premier-league
+adnan kanuric,Goalkeeper,Nottingham Forest,1.94,150000.0,2022-2023,premier-league
+george shelvey,Goalkeeper,Nottingham Forest,1.89,,2022-2023,premier-league
+moussa niakhate,Centre-Back,Nottingham Forest,1.9,18000000.0,2022-2023,premier-league
+loic bade,Centre-Back,Nottingham Forest,1.91,12000000.0,2022-2023,premier-league
+joe worrall,Centre-Back,Nottingham Forest,1.9,12000000.0,2022-2023,premier-league
+scott mckenna,Centre-Back,Nottingham Forest,1.89,10000000.0,2022-2023,premier-league
+giulian biancone,Centre-Back,Nottingham Forest,1.87,6000000.0,2022-2023,premier-league
+jonathan panzo,Centre-Back,Nottingham Forest,1.88,3000000.0,2022-2023,premier-league
+willy boly,Centre-Back,Nottingham Forest,1.95,2500000.0,2022-2023,premier-league
+loic mbe soh,Centre-Back,Nottingham Forest,1.87,2000000.0,2022-2023,premier-league
+felipe,Centre-Back,Nottingham Forest,1.9,2000000.0,2022-2023,premier-league
+steve cook,Centre-Back,Nottingham Forest,1.85,1800000.0,2022-2023,premier-league
+aaron donnelly,Centre-Back,Nottingham Forest,1.85,400000.0,2022-2023,premier-league
+zach abbott,Centre-Back,Nottingham Forest,,250000.0,2022-2023,premier-league
+renan lodi,Left-Back,Nottingham Forest,1.73,20000000.0,2022-2023,premier-league
+omar richards,Left-Back,Nottingham Forest,1.74,5000000.0,2022-2023,premier-league
+harry toffolo,Left-Back,Nottingham Forest,1.83,3500000.0,2022-2023,premier-league
+neco williams,Right-Back,Nottingham Forest,1.83,20000000.0,2022-2023,premier-league
+serge aurier,Right-Back,Nottingham Forest,1.76,8000000.0,2022-2023,premier-league
+danilo,Defensive Midfield,Nottingham Forest,1.77,28000000.0,2022-2023,premier-league
+orel mangala,Defensive Midfield,Nottingham Forest,1.78,16000000.0,2022-2023,premier-league
+cheikhou kouyate,Defensive Midfield,Nottingham Forest,1.89,2000000.0,2022-2023,premier-league
+jack colback,Defensive Midfield,Nottingham Forest,1.77,600000.0,2022-2023,premier-league
+ryan yates,Central Midfield,Nottingham Forest,1.9,11000000.0,2022-2023,premier-league
+lewis obrien,Central Midfield,Nottingham Forest,1.73,8000000.0,2022-2023,premier-league
+remo freuler,Central Midfield,Nottingham Forest,1.8,8000000.0,2022-2023,premier-league
+jonjo shelvey,Central Midfield,Nottingham Forest,1.84,5000000.0,2022-2023,premier-league
+cafu,Central Midfield,Nottingham Forest,1.85,600000.0,2022-2023,premier-league
+harry arter,Central Midfield,Nottingham Forest,1.77,400000.0,2022-2023,premier-league
+oliver hammond,Central Midfield,Nottingham Forest,1.79,250000.0,2022-2023,premier-league
+billy fewster,Central Midfield,Nottingham Forest,1.78,,2022-2023,premier-league
+alex gibsonhammond,Right Midfield,Nottingham Forest,1.78,150000.0,2022-2023,premier-league
+morgan gibbswhite,Attacking Midfield,Nottingham Forest,1.71,40000000.0,2022-2023,premier-league
+gustavo scarpa,Attacking Midfield,Nottingham Forest,1.77,10000000.0,2022-2023,premier-league
+jesse lingard,Attacking Midfield,Nottingham Forest,1.74,8000000.0,2022-2023,premier-league
+alex mighten,Left Winger,Nottingham Forest,1.71,600000.0,2022-2023,premier-league
+brennan johnson,Right Winger,Nottingham Forest,1.86,38000000.0,2022-2023,premier-league
+josh bowler,Right Winger,Nottingham Forest,1.84,1800000.0,2022-2023,premier-league
+taiwo awoniyi,Centre-Forward,Nottingham Forest,1.83,25000000.0,2022-2023,premier-league
+emmanuel dennis,Centre-Forward,Nottingham Forest,1.75,8000000.0,2022-2023,premier-league
+chris wood,Centre-Forward,Nottingham Forest,1.91,8000000.0,2022-2023,premier-league
+sam surridge,Centre-Forward,Nottingham Forest,1.9,5000000.0,2022-2023,premier-league
+andre ayew,Centre-Forward,Nottingham Forest,1.75,1800000.0,2022-2023,premier-league
+dale taylor,Centre-Forward,Nottingham Forest,1.85,500000.0,2022-2023,premier-league
+lyle taylor,Centre-Forward,Nottingham Forest,1.88,300000.0,2022-2023,premier-league
+detlef esapa osong,Centre-Forward,Nottingham Forest,,,2022-2023,premier-league
+david raya,Goalkeeper,Brentford FC,1.83,30000000.0,2022-2023,premier-league
+thomas strakosha,Goalkeeper,Brentford FC,1.93,3500000.0,2022-2023,premier-league
+matthew cox,Goalkeeper,Brentford FC,1.83,500000.0,2022-2023,premier-league
+ellery balcombe,Goalkeeper,Brentford FC,1.9,300000.0,2022-2023,premier-league
+kristoffer ajer,Centre-Back,Brentford FC,1.98,16000000.0,2022-2023,premier-league
+ethan pinnock,Centre-Back,Brentford FC,1.94,14000000.0,2022-2023,premier-league
+mads bech srensen,Centre-Back,Brentford FC,1.89,2500000.0,2022-2023,premier-league
+pontus jansson,Centre-Back,Brentford FC,1.96,2500000.0,2022-2023,premier-league
+ben mee,Centre-Back,Brentford FC,1.8,2000000.0,2022-2023,premier-league
+zanka,Centre-Back,Brentford FC,1.89,1500000.0,2022-2023,premier-league
+charlie goode,Centre-Back,Brentford FC,1.96,600000.0,2022-2023,premier-league
+tristan crama,Centre-Back,Brentford FC,1.92,100000.0,2022-2023,premier-league
+rico henry,Left-Back,Brentford FC,1.7,28000000.0,2022-2023,premier-league
+keane lewispotter,Left-Back,Brentford FC,1.7,12000000.0,2022-2023,premier-league
+aaron hickey,Right-Back,Brentford FC,1.85,25000000.0,2022-2023,premier-league
+mads roerslev,Right-Back,Brentford FC,1.84,6000000.0,2022-2023,premier-league
+fin stevens,Right-Back,Brentford FC,1.79,300000.0,2022-2023,premier-league
+vitaly janelt,Defensive Midfield,Brentford FC,1.84,20000000.0,2022-2023,premier-league
+christian nrgaard,Defensive Midfield,Brentford FC,1.87,16000000.0,2022-2023,premier-league
+mathias jensen,Central Midfield,Brentford FC,1.8,22000000.0,2022-2023,premier-league
+josh dasilva,Central Midfield,Brentford FC,1.84,16000000.0,2022-2023,premier-league
+frank onyeka,Central Midfield,Brentford FC,1.83,8000000.0,2022-2023,premier-league
+shandon baptiste,Central Midfield,Brentford FC,1.8,3000000.0,2022-2023,premier-league
+yegor yarmolyuk,Central Midfield,Brentford FC,1.8,400000.0,2022-2023,premier-league
+ryan trevitt,Central Midfield,Brentford FC,1.7,100000.0,2022-2023,premier-league
+mikkel damsgaard,Attacking Midfield,Brentford FC,1.8,13000000.0,2022-2023,premier-league
+saman ghoddos,Attacking Midfield,Brentford FC,1.75,2000000.0,2022-2023,premier-league
+alex gilbert,Attacking Midfield,Brentford FC,1.83,100000.0,2022-2023,premier-league
+kevin schade,Left Winger,Brentford FC,1.85,25000000.0,2022-2023,premier-league
+sergi canos,Left Winger,Brentford FC,1.77,9000000.0,2022-2023,premier-league
+tariqe fosu,Left Winger,Brentford FC,1.8,1800000.0,2022-2023,premier-league
+bryan mbeumo,Right Winger,Brentford FC,1.71,35000000.0,2022-2023,premier-league
+michael olakigbe,Right Winger,Brentford FC,1.8,,2022-2023,premier-league
+ivan toney,Centre-Forward,Brentford FC,1.85,35000000.0,2022-2023,premier-league
+yoane wissa,Centre-Forward,Brentford FC,1.76,18000000.0,2022-2023,premier-league
+halil dervisoglu,Centre-Forward,Brentford FC,1.83,2000000.0,2022-2023,premier-league
+illan meslier,Goalkeeper,Leeds United,1.97,20000000.0,2022-2023,premier-league
+kristoffer klaesson,Goalkeeper,Leeds United,1.89,1800000.0,2022-2023,premier-league
+joel robles,Goalkeeper,Leeds United,1.94,1000000.0,2022-2023,premier-league
+dani van den heuvel,Goalkeeper,Leeds United,1.88,,2022-2023,premier-league
+robin koch,Centre-Back,Leeds United,1.92,18000000.0,2022-2023,premier-league
+pascal struijk,Centre-Back,Leeds United,1.9,18000000.0,2022-2023,premier-league
+maximilian wober,Centre-Back,Leeds United,1.88,14000000.0,2022-2023,premier-league
+diego llorente,Centre-Back,Leeds United,1.86,12000000.0,2022-2023,premier-league
+charlie cresswell,Centre-Back,Leeds United,1.9,5000000.0,2022-2023,premier-league
+liam cooper,Centre-Back,Leeds United,1.86,3000000.0,2022-2023,premier-league
+diogo monteiro,Centre-Back,Leeds United,1.86,500000.0,2022-2023,premier-league
+jeremiah chilokoamullen,Centre-Back,Leeds United,,,2022-2023,premier-league
+kris moore,Centre-Back,Leeds United,,,2022-2023,premier-league
+james debayo,Centre-Back,Leeds United,,,2022-2023,premier-league
+junior firpo,Left-Back,Leeds United,1.84,10000000.0,2022-2023,premier-league
+leo fuhr hjelde,Left-Back,Leeds United,1.9,1500000.0,2022-2023,premier-league
+rasmus kristensen,Right-Back,Leeds United,1.87,13000000.0,2022-2023,premier-league
+cody drameh,Right-Back,Leeds United,1.81,3500000.0,2022-2023,premier-league
+jamie shackleton,Right-Back,Leeds United,1.68,2000000.0,2022-2023,premier-league
+luke ayling,Right-Back,Leeds United,1.83,1800000.0,2022-2023,premier-league
+tyler adams,Defensive Midfield,Leeds United,1.75,18000000.0,2022-2023,premier-league
+marc roca,Defensive Midfield,Leeds United,1.84,10000000.0,2022-2023,premier-league
+archie gray,Defensive Midfield,Leeds United,1.87,200000.0,2022-2023,premier-league
+alfie mccalmont,Defensive Midfield,Leeds United,1.75,150000.0,2022-2023,premier-league
+weston mckennie,Central Midfield,Leeds United,1.85,18000000.0,2022-2023,premier-league
+darko gyabi,Central Midfield,Leeds United,1.96,3000000.0,2022-2023,premier-league
+mateusz klich,Central Midfield,Leeds United,1.83,2000000.0,2022-2023,premier-league
+adam forshaw,Central Midfield,Leeds United,1.75,1200000.0,2022-2023,premier-league
+charlie allen,Central Midfield,Leeds United,1.85,,2022-2023,premier-league
+joe snowdon,Central Midfield,Leeds United,,,2022-2023,premier-league
+stuart dallas,Left Midfield,Leeds United,1.83,1500000.0,2022-2023,premier-league
+brenden aaronson,Attacking Midfield,Leeds United,1.77,25000000.0,2022-2023,premier-league
+luis sinisterra,Left Winger,Leeds United,1.72,22000000.0,2022-2023,premier-league
+crysencio summerville,Left Winger,Leeds United,1.74,15000000.0,2022-2023,premier-league
+amari miller,Left Winger,Leeds United,1.74,,2022-2023,premier-league
+jack harrison,Right Winger,Leeds United,1.75,22000000.0,2022-2023,premier-league
+wilfried gnonto,Right Winger,Leeds United,1.7,18000000.0,2022-2023,premier-league
+daniel james,Right Winger,Leeds United,1.71,12000000.0,2022-2023,premier-league
+sonny perkins,Right Winger,Leeds United,1.89,1200000.0,2022-2023,premier-league
+ian poveda,Right Winger,Leeds United,1.67,900000.0,2022-2023,premier-league
+tyler roberts,Second Striker,Leeds United,1.8,3000000.0,2022-2023,premier-league
+georginio rutter,Centre-Forward,Leeds United,1.82,18000000.0,2022-2023,premier-league
+patrick bamford,Centre-Forward,Leeds United,1.85,9000000.0,2022-2023,premier-league
+joe gelhardt,Centre-Forward,Leeds United,1.79,8000000.0,2022-2023,premier-league
+rodrigo,Centre-Forward,Leeds United,1.82,6000000.0,2022-2023,premier-league
+sam greenwood,Centre-Forward,Leeds United,1.8,5000000.0,2022-2023,premier-league
+mateo joseph,Centre-Forward,Leeds United,1.85,900000.0,2022-2023,premier-league
+sam johnstone,Goalkeeper,Crystal Palace,1.93,6000000.0,2022-2023,premier-league
+jack butland,Goalkeeper,Crystal Palace,1.96,1500000.0,2022-2023,premier-league
+vicente guaita,Goalkeeper,Crystal Palace,1.9,1000000.0,2022-2023,premier-league
+joe whitworth,Goalkeeper,Crystal Palace,1.79,900000.0,2022-2023,premier-league
+remi matthews,Goalkeeper,Crystal Palace,1.92,350000.0,2022-2023,premier-league
+owen goodman,Goalkeeper,Crystal Palace,1.93,150000.0,2022-2023,premier-league
+marc guehi,Centre-Back,Crystal Palace,1.82,35000000.0,2022-2023,premier-league
+joachim andersen,Centre-Back,Crystal Palace,1.92,30000000.0,2022-2023,premier-league
+chris richards,Centre-Back,Crystal Palace,1.88,10000000.0,2022-2023,premier-league
+nathan ferguson,Centre-Back,Crystal Palace,1.84,1200000.0,2022-2023,premier-league
+james tomkins,Centre-Back,Crystal Palace,1.92,800000.0,2022-2023,premier-league
+kofi balmer,Centre-Back,Crystal Palace,1.89,200000.0,2022-2023,premier-league
+tyrick mitchell,Left-Back,Crystal Palace,1.81,22000000.0,2022-2023,premier-league
+tayo adaramola,Left-Back,Crystal Palace,1.77,1500000.0,2022-2023,premier-league
+nathaniel clyne,Right-Back,Crystal Palace,1.75,2000000.0,2022-2023,premier-league
+joel ward,Right-Back,Crystal Palace,1.86,1200000.0,2022-2023,premier-league
+david boateng,Right-Back,Crystal Palace,1.76,50000.0,2022-2023,premier-league
+cheick doucoure,Defensive Midfield,Crystal Palace,1.8,35000000.0,2022-2023,premier-league
+jairo riedewald,Defensive Midfield,Crystal Palace,1.82,3000000.0,2022-2023,premier-league
+luka milivojevic,Defensive Midfield,Crystal Palace,1.83,2000000.0,2022-2023,premier-league
+kaden rodney,Defensive Midfield,Crystal Palace,1.89,250000.0,2022-2023,premier-league
+david ozoh,Defensive Midfield,Crystal Palace,1.89,,2022-2023,premier-league
+albert sambi lokonga,Central Midfield,Crystal Palace,1.83,15000000.0,2022-2023,premier-league
+naouirou ahamada,Central Midfield,Crystal Palace,1.83,10000000.0,2022-2023,premier-league
+will hughes,Central Midfield,Crystal Palace,1.85,5000000.0,2022-2023,premier-league
+james mcarthur,Central Midfield,Crystal Palace,1.78,400000.0,2022-2023,premier-league
+jack wellsmorrison,Central Midfield,Crystal Palace,1.8,300000.0,2022-2023,premier-league
+killian phillips,Central Midfield,Crystal Palace,1.9,150000.0,2022-2023,premier-league
+jeffrey schlupp,Left Midfield,Crystal Palace,1.78,7000000.0,2022-2023,premier-league
+eberechi eze,Attacking Midfield,Crystal Palace,1.78,40000000.0,2022-2023,premier-league
+wilfried zaha,Left Winger,Crystal Palace,1.8,22000000.0,2022-2023,premier-league
+johnkymani gordon,Left Winger,Crystal Palace,1.81,100000.0,2022-2023,premier-league
+adler nascimento,Left Winger,Crystal Palace,1.83,,2022-2023,premier-league
+michael olise,Right Winger,Crystal Palace,1.84,38000000.0,2022-2023,premier-league
+jordan ayew,Right Winger,Crystal Palace,1.82,5000000.0,2022-2023,premier-league
+malcolm ebiowei,Right Winger,Crystal Palace,1.85,3000000.0,2022-2023,premier-league
+odsonne edouard,Centre-Forward,Crystal Palace,1.87,15000000.0,2022-2023,premier-league
+jeanphilippe mateta,Centre-Forward,Crystal Palace,1.92,7000000.0,2022-2023,premier-league
+luke plange,Centre-Forward,Crystal Palace,1.88,1000000.0,2022-2023,premier-league
+bernd leno,Goalkeeper,Fulham FC,1.9,12000000.0,2022-2023,premier-league
+paulo gazzaniga,Goalkeeper,Fulham FC,1.95,3000000.0,2022-2023,premier-league
+marek rodak,Goalkeeper,Fulham FC,1.94,3000000.0,2022-2023,premier-league
+george wickens,Goalkeeper,Fulham FC,1.98,250000.0,2022-2023,premier-league
+issa diop,Centre-Back,Fulham FC,1.94,18000000.0,2022-2023,premier-league
+tosin adarabioyo,Centre-Back,Fulham FC,1.97,16000000.0,2022-2023,premier-league
+shane duffy,Centre-Back,Fulham FC,1.93,2000000.0,2022-2023,premier-league
+tim ream,Centre-Back,Fulham FC,1.86,1000000.0,2022-2023,premier-league
+connor mcavoy,Centre-Back,Fulham FC,1.9,250000.0,2022-2023,premier-league
+charlie robinson,Centre-Back,Fulham FC,,,2022-2023,premier-league
+antonee robinson,Left-Back,Fulham FC,1.83,15000000.0,2022-2023,premier-league
+layvin kurzawa,Left-Back,Fulham FC,1.82,3000000.0,2022-2023,premier-league
+joe bryan,Left-Back,Fulham FC,1.7,2200000.0,2022-2023,premier-league
+stefan parkes,Left-Back,Fulham FC,,150000.0,2022-2023,premier-league
+kenny tete,Right-Back,Fulham FC,1.8,15000000.0,2022-2023,premier-league
+kevin mbabu,Right-Back,Fulham FC,1.84,3500000.0,2022-2023,premier-league
+cedric soares,Right-Back,Fulham FC,1.71,3000000.0,2022-2023,premier-league
+marlon fossey,Right-Back,Fulham FC,1.79,2500000.0,2022-2023,premier-league
+steven sessegnon,Right-Back,Fulham FC,1.75,800000.0,2022-2023,premier-league
+luciano dauriahenry,Right-Back,Fulham FC,1.74,150000.0,2022-2023,premier-league
+joao palhinha,Defensive Midfield,Fulham FC,1.9,40000000.0,2022-2023,premier-league
+sasa lukic,Defensive Midfield,Fulham FC,1.82,12000000.0,2022-2023,premier-league
+nathaniel chalobah,Defensive Midfield,Fulham FC,1.85,1800000.0,2022-2023,premier-league
+adrion pajaziti,Defensive Midfield,Fulham FC,1.8,200000.0,2022-2023,premier-league
+harrison reed,Central Midfield,Fulham FC,1.81,18000000.0,2022-2023,premier-league
+tom cairney,Central Midfield,Fulham FC,1.85,2000000.0,2022-2023,premier-league
+josh onomah,Central Midfield,Fulham FC,1.85,1500000.0,2022-2023,premier-league
+tyrese francois,Central Midfield,Fulham FC,1.73,500000.0,2022-2023,premier-league
+matt dibleydias,Central Midfield,Fulham FC,1.83,,2022-2023,premier-league
+andreas pereira,Attacking Midfield,Fulham FC,1.78,18000000.0,2022-2023,premier-league
+luke harris,Attacking Midfield,Fulham FC,1.77,500000.0,2022-2023,premier-league
+kristian sekularac,Attacking Midfield,Fulham FC,1.85,150000.0,2022-2023,premier-league
+manor solomon,Left Winger,Fulham FC,1.7,18000000.0,2022-2023,premier-league
+willian,Left Winger,Fulham FC,1.75,3000000.0,2022-2023,premier-league
+neeskens kebano,Left Winger,Fulham FC,1.7,2000000.0,2022-2023,premier-league
+ollie oneill,Left Winger,Fulham FC,,250000.0,2022-2023,premier-league
+martial godo,Left Winger,Fulham FC,1.69,100000.0,2022-2023,premier-league
+harry wilson,Right Winger,Fulham FC,1.73,16000000.0,2022-2023,premier-league
+daniel james,Right Winger,Fulham FC,1.71,12000000.0,2022-2023,premier-league
+bobby de cordovareid,Right Winger,Fulham FC,1.7,7000000.0,2022-2023,premier-league
+anthony knockaert,Right Winger,Fulham FC,1.72,900000.0,2022-2023,premier-league
+aleksandar mitrovic,Centre-Forward,Fulham FC,1.89,28000000.0,2022-2023,premier-league
+carlos vinicius,Centre-Forward,Fulham FC,1.9,6000000.0,2022-2023,premier-league
+rodrigo muniz,Centre-Forward,Fulham FC,1.86,5000000.0,2022-2023,premier-league
+jay stansfield,Centre-Forward,Fulham FC,1.87,1200000.0,2022-2023,premier-league
+terry ablade,Centre-Forward,Fulham FC,1.81,200000.0,2022-2023,premier-league
+callum mcfarlane,Centre-Forward,Fulham FC,1.85,,2022-2023,premier-league
+neto,Goalkeeper,AFC Bournemouth,1.9,2500000.0,2022-2023,premier-league
+mark travers,Goalkeeper,AFC Bournemouth,1.91,2000000.0,2022-2023,premier-league
+darren randolph,Goalkeeper,AFC Bournemouth,1.87,400000.0,2022-2023,premier-league
+will dennis,Goalkeeper,AFC Bournemouth,1.88,150000.0,2022-2023,premier-league
+cameron plain,Goalkeeper,AFC Bournemouth,1.87,100000.0,2022-2023,premier-league
+marcos senesi,Centre-Back,AFC Bournemouth,1.85,22000000.0,2022-2023,premier-league
+ilya zabarnyi,Centre-Back,AFC Bournemouth,1.89,20000000.0,2022-2023,premier-league
+lloyd kelly,Centre-Back,AFC Bournemouth,1.89,18000000.0,2022-2023,premier-league
+chris mepham,Centre-Back,AFC Bournemouth,1.9,8000000.0,2022-2023,premier-league
+jack stephens,Centre-Back,AFC Bournemouth,1.85,3500000.0,2022-2023,premier-league
+james hill,Centre-Back,AFC Bournemouth,1.84,1000000.0,2022-2023,premier-league
+chris francis,Centre-Back,AFC Bournemouth,,,2022-2023,premier-league
+max kinsey,Centre-Back,AFC Bournemouth,1.84,,2022-2023,premier-league
+owen bevan,Centre-Back,AFC Bournemouth,1.86,,2022-2023,premier-league
+matias vina,Left-Back,AFC Bournemouth,1.75,8000000.0,2022-2023,premier-league
+jordan zemura,Left-Back,AFC Bournemouth,1.73,6000000.0,2022-2023,premier-league
+ben greenwood,Left-Back,AFC Bournemouth,1.7,100000.0,2022-2023,premier-league
+jack stacey,Right-Back,AFC Bournemouth,1.8,2000000.0,2022-2023,premier-league
+ryan fredericks,Right-Back,AFC Bournemouth,1.81,1500000.0,2022-2023,premier-league
+adam smith,Right-Back,AFC Bournemouth,1.74,1200000.0,2022-2023,premier-league
+brooklyn genesini,Right-Back,AFC Bournemouth,1.8,50000.0,2022-2023,premier-league
+jefferson lerma,Defensive Midfield,AFC Bournemouth,1.79,20000000.0,2022-2023,premier-league
+ryan christie,Defensive Midfield,AFC Bournemouth,1.78,10000000.0,2022-2023,premier-league
+jack wadham,Midfielder,AFC Bournemouth,1.83,100000.0,2022-2023,premier-league
+philip billing,Central Midfield,AFC Bournemouth,1.93,20000000.0,2022-2023,premier-league
+lewis cook,Central Midfield,AFC Bournemouth,1.75,10000000.0,2022-2023,premier-league
+joe rothwell,Central Midfield,AFC Bournemouth,1.85,4000000.0,2022-2023,premier-league
+ben pearson,Central Midfield,AFC Bournemouth,1.76,2200000.0,2022-2023,premier-league
+gavin kilkenny,Central Midfield,AFC Bournemouth,1.75,400000.0,2022-2023,premier-league
+ferdinand okoh,Central Midfield,AFC Bournemouth,1.8,,2022-2023,premier-league
+marcus tavernier,Left Midfield,AFC Bournemouth,1.78,17000000.0,2022-2023,premier-league
+hamed junior traore,Attacking Midfield,AFC Bournemouth,1.77,22000000.0,2022-2023,premier-league
+emiliano marcondes,Attacking Midfield,AFC Bournemouth,1.82,1500000.0,2022-2023,premier-league
+dango ouattara,Left Winger,AFC Bournemouth,1.77,25000000.0,2022-2023,premier-league
+antoine semenyo,Left Winger,AFC Bournemouth,1.85,9000000.0,2022-2023,premier-league
+jaidon anthony,Left Winger,AFC Bournemouth,1.83,9000000.0,2022-2023,premier-league
+siriki dembele,Left Winger,AFC Bournemouth,1.73,2000000.0,2022-2023,premier-league
+junior stanislas,Left Winger,AFC Bournemouth,1.83,500000.0,2022-2023,premier-league
+david brooks,Right Winger,AFC Bournemouth,1.73,12000000.0,2022-2023,premier-league
+dominic sadi,Right Winger,AFC Bournemouth,1.74,100000.0,2022-2023,premier-league
+michael dacosta,Right Winger,AFC Bournemouth,1.86,,2022-2023,premier-league
+dominic solanke,Centre-Forward,AFC Bournemouth,1.86,20000000.0,2022-2023,premier-league
+kieffer moore,Centre-Forward,AFC Bournemouth,1.96,4000000.0,2022-2023,premier-league
+jamal lowe,Centre-Forward,AFC Bournemouth,1.83,1500000.0,2022-2023,premier-league
+christian saydee,Centre-Forward,AFC Bournemouth,1.84,400000.0,2022-2023,premier-league
+euan pollock,Centre-Forward,AFC Bournemouth,1.73,,2022-2023,premier-league
+daniel aduadjei,Centre-Forward,AFC Bournemouth,,,2022-2023,premier-league

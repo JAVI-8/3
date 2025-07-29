@@ -1,0 +1,597 @@
+Player,Pos,Squad,Height,Value,Season,Competition
+thibaut courtois,Goalkeeper,Real Madrid,2.0,45000000.0,2022-2023,laliga
+andriy lunin,Goalkeeper,Real Madrid,1.91,5000000.0,2022-2023,laliga
+mario de luis,Goalkeeper,Real Madrid,1.85,500000.0,2022-2023,laliga
+luis lopez,Goalkeeper,Real Madrid,1.97,300000.0,2022-2023,laliga
+lucas canizares,Goalkeeper,Real Madrid,1.88,200000.0,2022-2023,laliga
+diego pineiro,Goalkeeper,Real Madrid,1.85,,2022-2023,laliga
+fran gonzalez,Goalkeeper,Real Madrid,1.99,,2022-2023,laliga
+eder militao,Centre-Back,Real Madrid,1.86,70000000.0,2022-2023,laliga
+david alaba,Centre-Back,Real Madrid,1.8,40000000.0,2022-2023,laliga
+antonio rudiger,Centre-Back,Real Madrid,1.9,32000000.0,2022-2023,laliga
+nacho fernandez,Centre-Back,Real Madrid,1.8,6000000.0,2022-2023,laliga
+jesus vallejo,Centre-Back,Real Madrid,1.84,2000000.0,2022-2023,laliga
+marvel,Centre-Back,Real Madrid,1.84,1000000.0,2022-2023,laliga
+ferland mendy,Left-Back,Real Madrid,1.8,25000000.0,2022-2023,laliga
+daniel carvajal,Right-Back,Real Madrid,1.73,12000000.0,2022-2023,laliga
+lucas vazquez,Right-Back,Real Madrid,1.73,8000000.0,2022-2023,laliga
+alvaro odriozola,Right-Back,Real Madrid,1.76,5000000.0,2022-2023,laliga
+vinicius tobias,Right-Back,Real Madrid,1.77,3000000.0,2022-2023,laliga
+aurelien tchouameni,Defensive Midfield,Real Madrid,1.88,85000000.0,2022-2023,laliga
+casemiro,Defensive Midfield,Real Madrid,1.85,40000000.0,2022-2023,laliga
+mario martin,Defensive Midfield,Real Madrid,1.77,250000.0,2022-2023,laliga
+federico valverde,Central Midfield,Real Madrid,1.82,100000000.0,2022-2023,laliga
+eduardo camavinga,Central Midfield,Real Madrid,1.82,85000000.0,2022-2023,laliga
+toni kroos,Central Midfield,Real Madrid,1.83,15000000.0,2022-2023,laliga
+dani ceballos,Central Midfield,Real Madrid,1.79,12000000.0,2022-2023,laliga
+luka modric,Central Midfield,Real Madrid,1.72,10000000.0,2022-2023,laliga
+carlos dotor,Central Midfield,Real Madrid,1.8,700000.0,2022-2023,laliga
+marco asensio,Attacking Midfield,Real Madrid,1.82,25000000.0,2022-2023,laliga
+sergio arribas,Attacking Midfield,Real Madrid,1.74,5000000.0,2022-2023,laliga
+nico paz,Attacking Midfield,Real Madrid,1.86,2000000.0,2022-2023,laliga
+vinicius junior,Left Winger,Real Madrid,1.76,150000000.0,2022-2023,laliga
+eden hazard,Left Winger,Real Madrid,1.75,5000000.0,2022-2023,laliga
+rodrygo,Right Winger,Real Madrid,1.74,100000000.0,2022-2023,laliga
+karim benzema,Centre-Forward,Real Madrid,1.85,25000000.0,2022-2023,laliga
+alvaro rodriguez,Centre-Forward,Real Madrid,1.93,6000000.0,2022-2023,laliga
+mariano diaz,Centre-Forward,Real Madrid,1.8,2500000.0,2022-2023,laliga
+marcandre ter stegen,Goalkeeper,FC Barcelona,1.87,35000000.0,2022-2023,laliga
+inaki pena,Goalkeeper,FC Barcelona,1.84,4000000.0,2022-2023,laliga
+arnau tenas,Goalkeeper,FC Barcelona,1.85,2000000.0,2022-2023,laliga
+ander astralaga,Goalkeeper,FC Barcelona,1.9,,2022-2023,laliga
+ronald araujo,Centre-Back,FC Barcelona,1.92,70000000.0,2022-2023,laliga
+andreas christensen,Centre-Back,FC Barcelona,1.87,40000000.0,2022-2023,laliga
+eric garcia,Centre-Back,FC Barcelona,1.82,10000000.0,2022-2023,laliga
+chadi riad,Centre-Back,FC Barcelona,1.87,500000.0,2022-2023,laliga
+gerard pique,Centre-Back,FC Barcelona,1.94,,2022-2023,laliga
+alejandro balde,Left-Back,FC Barcelona,1.75,50000000.0,2022-2023,laliga
+marcos alonso,Left-Back,FC Barcelona,1.88,5000000.0,2022-2023,laliga
+jordi alba,Left-Back,FC Barcelona,1.7,5000000.0,2022-2023,laliga
+alex valle,Left-Back,FC Barcelona,1.78,500000.0,2022-2023,laliga
+jules kounde,Right-Back,FC Barcelona,1.8,60000000.0,2022-2023,laliga
+hector bellerin,Right-Back,FC Barcelona,1.78,8000000.0,2022-2023,laliga
+sergio busquets,Defensive Midfield,FC Barcelona,1.89,5000000.0,2022-2023,laliga
+alvaro sanz,Defensive Midfield,FC Barcelona,1.7,700000.0,2022-2023,laliga
+marc casado,Defensive Midfield,FC Barcelona,1.72,300000.0,2022-2023,laliga
+pau prim,Defensive Midfield,FC Barcelona,1.79,,2022-2023,laliga
+pedri,Central Midfield,FC Barcelona,1.74,100000000.0,2022-2023,laliga
+gavi,Central Midfield,FC Barcelona,1.73,90000000.0,2022-2023,laliga
+frenkie de jong,Central Midfield,FC Barcelona,1.81,75000000.0,2022-2023,laliga
+franck kessie,Central Midfield,FC Barcelona,1.83,25000000.0,2022-2023,laliga
+miralem pjanic,Central Midfield,FC Barcelona,1.81,6000000.0,2022-2023,laliga
+sergi roberto,Central Midfield,FC Barcelona,1.78,5000000.0,2022-2023,laliga
+aleix garrido,Central Midfield,FC Barcelona,1.7,300000.0,2022-2023,laliga
+unai hernandez,Central Midfield,FC Barcelona,1.71,,2022-2023,laliga
+pablo torre,Attacking Midfield,FC Barcelona,1.73,3000000.0,2022-2023,laliga
+raphinha,Left Winger,FC Barcelona,1.76,60000000.0,2022-2023,laliga
+ansu fati,Left Winger,FC Barcelona,1.78,35000000.0,2022-2023,laliga
+estanis pedrola,Left Winger,FC Barcelona,1.85,500000.0,2022-2023,laliga
+angel alarcon,Left Winger,FC Barcelona,1.75,,2022-2023,laliga
+dani rodriguez,Left Winger,FC Barcelona,1.7,,2022-2023,laliga
+ousmane dembele,Right Winger,FC Barcelona,1.78,60000000.0,2022-2023,laliga
+ilias akhomach,Right Winger,FC Barcelona,1.75,3000000.0,2022-2023,laliga
+lamine yamal,Right Winger,FC Barcelona,1.8,,2022-2023,laliga
+robert lewandowski,Centre-Forward,FC Barcelona,1.85,30000000.0,2022-2023,laliga
+ferran torres,Centre-Forward,FC Barcelona,1.84,30000000.0,2022-2023,laliga
+memphis depay,Centre-Forward,FC Barcelona,1.78,14000000.0,2022-2023,laliga
+pierreemerick aubameyang,Centre-Forward,FC Barcelona,1.87,4000000.0,2022-2023,laliga
+marc guiu,Centre-Forward,FC Barcelona,1.87,,2022-2023,laliga
+jan oblak,Goalkeeper,Atlético de Madrid,1.88,35000000.0,2022-2023,laliga
+ivo grbic,Goalkeeper,Atlético de Madrid,1.95,3500000.0,2022-2023,laliga
+alejandro iturbe,Goalkeeper,Atlético de Madrid,1.86,150000.0,2022-2023,laliga
+antonio gomis,Goalkeeper,Atlético de Madrid,1.91,150000.0,2022-2023,laliga
+sergio mestre,Goalkeeper,Atlético de Madrid,1.93,,2022-2023,laliga
+jose maria gimenez,Centre-Back,Atlético de Madrid,1.85,35000000.0,2022-2023,laliga
+mario hermoso,Centre-Back,Atlético de Madrid,1.84,20000000.0,2022-2023,laliga
+stefan savic,Centre-Back,Atlético de Madrid,1.87,6000000.0,2022-2023,laliga
+axel witsel,Centre-Back,Atlético de Madrid,1.86,5000000.0,2022-2023,laliga
+felipe,Centre-Back,Atlético de Madrid,1.9,2000000.0,2022-2023,laliga
+marco moreno,Centre-Back,Atlético de Madrid,1.91,200000.0,2022-2023,laliga
+ilias kostis,Centre-Back,Atlético de Madrid,1.88,100000.0,2022-2023,laliga
+adrian corral,Centre-Back,Atlético de Madrid,1.79,50000.0,2022-2023,laliga
+reinildo mandava,Left-Back,Atlético de Madrid,1.8,25000000.0,2022-2023,laliga
+renan lodi,Left-Back,Atlético de Madrid,1.73,20000000.0,2022-2023,laliga
+sergio reguilon,Left-Back,Atlético de Madrid,1.78,10000000.0,2022-2023,laliga
+nahuel molina,Right-Back,Atlético de Madrid,1.75,35000000.0,2022-2023,laliga
+matt doherty,Right-Back,Atlético de Madrid,1.85,5000000.0,2022-2023,laliga
+sergio diez,Right-Back,Atlético de Madrid,1.78,200000.0,2022-2023,laliga
+geoffrey kondogbia,Defensive Midfield,Atlético de Madrid,1.88,14000000.0,2022-2023,laliga
+rodrigo de paul,Central Midfield,Atlético de Madrid,1.8,40000000.0,2022-2023,laliga
+koke,Central Midfield,Atlético de Madrid,1.76,16000000.0,2022-2023,laliga
+saul niguez,Central Midfield,Atlético de Madrid,1.84,10000000.0,2022-2023,laliga
+pablo barrios,Central Midfield,Atlético de Madrid,1.81,5000000.0,2022-2023,laliga
+alberto moreno,Central Midfield,Atlético de Madrid,1.75,150000.0,2022-2023,laliga
+aitor gismera,Central Midfield,Atlético de Madrid,1.82,150000.0,2022-2023,laliga
+marcos llorente,Right Midfield,Atlético de Madrid,1.84,35000000.0,2022-2023,laliga
+thomas lemar,Attacking Midfield,Atlético de Madrid,1.71,22000000.0,2022-2023,laliga
+antonio aleman,Attacking Midfield,Atlético de Madrid,,,2022-2023,laliga
+yannick carrasco,Left Winger,Atlético de Madrid,1.81,25000000.0,2022-2023,laliga
+salim el jebari,Left Winger,Atlético de Madrid,1.78,,2022-2023,laliga
+angel correa,Right Winger,Atlético de Madrid,1.71,30000000.0,2022-2023,laliga
+diego bri,Right Winger,Atlético de Madrid,1.77,150000.0,2022-2023,laliga
+joao felix,Second Striker,Atlético de Madrid,1.81,50000000.0,2022-2023,laliga
+matheus cunha,Second Striker,Atlético de Madrid,1.83,25000000.0,2022-2023,laliga
+antoine griezmann,Centre-Forward,Atlético de Madrid,1.76,25000000.0,2022-2023,laliga
+alvaro morata,Centre-Forward,Atlético de Madrid,1.89,20000000.0,2022-2023,laliga
+memphis depay,Centre-Forward,Atlético de Madrid,1.78,14000000.0,2022-2023,laliga
+carlos martin,Centre-Forward,Atlético de Madrid,1.8,500000.0,2022-2023,laliga
+abde raihani,Centre-Forward,Atlético de Madrid,1.87,,2022-2023,laliga
+alex remiro,Goalkeeper,Real Sociedad,1.91,25000000.0,2022-2023,laliga
+andoni zubiaurre,Goalkeeper,Real Sociedad,1.89,300000.0,2022-2023,laliga
+unai marrero,Goalkeeper,Real Sociedad,1.89,250000.0,2022-2023,laliga
+egoitz arana,Goalkeeper,Real Sociedad,1.97,50000.0,2022-2023,laliga
+robin le normand,Centre-Back,Real Sociedad,1.87,35000000.0,2022-2023,laliga
+igor zubeldia,Centre-Back,Real Sociedad,1.81,15000000.0,2022-2023,laliga
+aritz elustondo,Centre-Back,Real Sociedad,1.8,14000000.0,2022-2023,laliga
+jon pacheco,Centre-Back,Real Sociedad,1.84,6000000.0,2022-2023,laliga
+aritz arambarri,Centre-Back,Real Sociedad,1.86,500000.0,2022-2023,laliga
+aihen munoz,Left-Back,Real Sociedad,1.75,6000000.0,2022-2023,laliga
+diego rico,Left-Back,Real Sociedad,1.83,3000000.0,2022-2023,laliga
+jonathan gomez,Left-Back,Real Sociedad,1.78,500000.0,2022-2023,laliga
+andoni gorosabel,Right-Back,Real Sociedad,1.74,9000000.0,2022-2023,laliga
+martin zubimendi,Defensive Midfield,Real Sociedad,1.81,40000000.0,2022-2023,laliga
+asier illarramendi,Defensive Midfield,Real Sociedad,1.79,2000000.0,2022-2023,laliga
+urko gonzalez de zarate,Defensive Midfield,Real Sociedad,1.89,700000.0,2022-2023,laliga
+mikel merino,Central Midfield,Real Sociedad,1.89,50000000.0,2022-2023,laliga
+ander guevara,Central Midfield,Real Sociedad,1.8,2500000.0,2022-2023,laliga
+benat turrientes,Central Midfield,Real Sociedad,1.81,2000000.0,2022-2023,laliga
+jon ander olasagasti,Central Midfield,Real Sociedad,1.76,1000000.0,2022-2023,laliga
+brais mendez,Attacking Midfield,Real Sociedad,1.84,25000000.0,2022-2023,laliga
+david silva,Attacking Midfield,Real Sociedad,1.7,4000000.0,2022-2023,laliga
+pablo marin,Attacking Midfield,Real Sociedad,1.78,1000000.0,2022-2023,laliga
+jon magunazelaia,Attacking Midfield,Real Sociedad,1.8,700000.0,2022-2023,laliga
+ander barrenetxea,Left Winger,Real Sociedad,1.75,6000000.0,2022-2023,laliga
+martin merquelanz,Left Winger,Real Sociedad,1.76,800000.0,2022-2023,laliga
+takefusa kubo,Right Winger,Real Sociedad,1.73,25000000.0,2022-2023,laliga
+mohamedali cho,Right Winger,Real Sociedad,1.82,12000000.0,2022-2023,laliga
+alex sola,Right Winger,Real Sociedad,1.78,3000000.0,2022-2023,laliga
+robert navarro,Right Winger,Real Sociedad,1.78,3000000.0,2022-2023,laliga
+ander martin,Right Winger,Real Sociedad,1.77,400000.0,2022-2023,laliga
+alexander isak,Centre-Forward,Real Sociedad,1.92,70000000.0,2022-2023,laliga
+mikel oyarzabal,Centre-Forward,Real Sociedad,1.81,40000000.0,2022-2023,laliga
+umar sadiq,Centre-Forward,Real Sociedad,1.91,18000000.0,2022-2023,laliga
+alexander srloth,Centre-Forward,Real Sociedad,1.95,12000000.0,2022-2023,laliga
+jon karrikaburu,Centre-Forward,Real Sociedad,1.83,5000000.0,2022-2023,laliga
+carlos fernandez,Centre-Forward,Real Sociedad,1.85,3000000.0,2022-2023,laliga
+geronimo rulli,Goalkeeper,Villarreal CF,1.89,10000000.0,2022-2023,laliga
+filip jrgensen,Goalkeeper,Villarreal CF,1.92,1500000.0,2022-2023,laliga
+pepe reina,Goalkeeper,Villarreal CF,1.88,700000.0,2022-2023,laliga
+iker alvarez,Goalkeeper,Villarreal CF,1.9,500000.0,2022-2023,laliga
+gianni cassaro,Goalkeeper,Villarreal CF,1.92,100000.0,2022-2023,laliga
+pau torres,Centre-Back,Villarreal CF,1.92,45000000.0,2022-2023,laliga
+jorge cuenca,Centre-Back,Villarreal CF,1.9,5000000.0,2022-2023,laliga
+aissa mandi,Centre-Back,Villarreal CF,1.86,3000000.0,2022-2023,laliga
+mamadou mbacke,Centre-Back,Villarreal CF,1.89,2800000.0,2022-2023,laliga
+raul albiol,Centre-Back,Villarreal CF,1.9,2500000.0,2022-2023,laliga
+adrian de la fuente,Centre-Back,Villarreal CF,1.79,800000.0,2022-2023,laliga
+pervis estupinan,Left-Back,Villarreal CF,1.75,32000000.0,2022-2023,laliga
+alfonso pedraza,Left-Back,Villarreal CF,1.84,15000000.0,2022-2023,laliga
+johan mojica,Left-Back,Villarreal CF,1.85,3000000.0,2022-2023,laliga
+alberto moreno,Left-Back,Villarreal CF,1.71,3000000.0,2022-2023,laliga
+dani tasende,Left-Back,Villarreal CF,1.72,700000.0,2022-2023,laliga
+carlos romero,Left-Back,Villarreal CF,1.74,100000.0,2022-2023,laliga
+juan foyth,Right-Back,Villarreal CF,1.87,25000000.0,2022-2023,laliga
+kiko femenia,Right-Back,Villarreal CF,1.74,2500000.0,2022-2023,laliga
+sergio carreira,Right-Back,Villarreal CF,1.7,1500000.0,2022-2023,laliga
+marcos sanchez,Right-Back,Villarreal CF,1.78,,2022-2023,laliga
+etienne capoue,Defensive Midfield,Villarreal CF,1.89,3000000.0,2022-2023,laliga
+francis coquelin,Defensive Midfield,Villarreal CF,1.77,3000000.0,2022-2023,laliga
+dani parejo,Central Midfield,Villarreal CF,1.82,6000000.0,2022-2023,laliga
+manu morlanes,Central Midfield,Villarreal CF,1.78,4000000.0,2022-2023,laliga
+manu trigueros,Central Midfield,Villarreal CF,1.78,4000000.0,2022-2023,laliga
+ramon terrats,Central Midfield,Villarreal CF,1.81,4000000.0,2022-2023,laliga
+alberto del moral,Central Midfield,Villarreal CF,1.85,1000000.0,2022-2023,laliga
+carlo garcia,Central Midfield,Villarreal CF,1.82,800000.0,2022-2023,laliga
+antonio pacheco,Central Midfield,Villarreal CF,1.84,400000.0,2022-2023,laliga
+rodri alonso,Central Midfield,Villarreal CF,1.72,100000.0,2022-2023,laliga
+giovani lo celso,Attacking Midfield,Villarreal CF,1.77,14000000.0,2022-2023,laliga
+arnaut danjuma,Left Winger,Villarreal CF,1.78,25000000.0,2022-2023,laliga
+alex baena,Left Winger,Villarreal CF,1.74,20000000.0,2022-2023,laliga
+diego collado,Left Winger,Villarreal CF,1.83,1000000.0,2022-2023,laliga
+yeremy pino,Right Winger,Villarreal CF,1.72,40000000.0,2022-2023,laliga
+samuel chukwueze,Right Winger,Villarreal CF,1.72,25000000.0,2022-2023,laliga
+haissem hassan,Right Winger,Villarreal CF,1.75,1500000.0,2022-2023,laliga
+nicolas jackson,Centre-Forward,Villarreal CF,1.87,30000000.0,2022-2023,laliga
+gerard moreno,Centre-Forward,Villarreal CF,1.8,20000000.0,2022-2023,laliga
+fer nino,Centre-Forward,Villarreal CF,1.91,3000000.0,2022-2023,laliga
+jose luis morales,Centre-Forward,Villarreal CF,1.8,3000000.0,2022-2023,laliga
+jorge pascual,Centre-Forward,Villarreal CF,1.87,,2022-2023,laliga
+giorgi mamardashvili,Goalkeeper,Valencia CF,1.97,25000000.0,2022-2023,laliga
+jaume domenech,Goalkeeper,Valencia CF,1.85,1000000.0,2022-2023,laliga
+iago herrerin,Goalkeeper,Valencia CF,1.87,500000.0,2022-2023,laliga
+emilio bernad,Goalkeeper,Valencia CF,1.84,300000.0,2022-2023,laliga
+cristian rivero,Goalkeeper,Valencia CF,1.88,200000.0,2022-2023,laliga
+charlie perez,Goalkeeper,Valencia CF,,25000.0,2022-2023,laliga
+mouctar diakhaby,Centre-Back,Valencia CF,1.92,6000000.0,2022-2023,laliga
+cenk ozkacar,Centre-Back,Valencia CF,1.9,5000000.0,2022-2023,laliga
+eray comert,Centre-Back,Valencia CF,1.83,3500000.0,2022-2023,laliga
+gabriel paulista,Centre-Back,Valencia CF,1.85,2500000.0,2022-2023,laliga
+cristhian mosquera,Centre-Back,Valencia CF,1.91,1000000.0,2022-2023,laliga
+ruben iranzo,Centre-Back,Valencia CF,1.82,200000.0,2022-2023,laliga
+jose gaya,Left-Back,Valencia CF,1.72,30000000.0,2022-2023,laliga
+jesus vazquez,Left-Back,Valencia CF,1.82,3000000.0,2022-2023,laliga
+toni lato,Left-Back,Valencia CF,1.71,2500000.0,2022-2023,laliga
+thierry correia,Right-Back,Valencia CF,1.76,8000000.0,2022-2023,laliga
+dimitri foulquier,Right-Back,Valencia CF,1.83,2500000.0,2022-2023,laliga
+hugo guillamon,Defensive Midfield,Valencia CF,1.78,14000000.0,2022-2023,laliga
+uros racic,Defensive Midfield,Valencia CF,1.93,6500000.0,2022-2023,laliga
+carlos soler,Central Midfield,Valencia CF,1.8,25000000.0,2022-2023,laliga
+yunus musah,Central Midfield,Valencia CF,1.78,18000000.0,2022-2023,laliga
+nico gonzalez,Central Midfield,Valencia CF,1.88,10000000.0,2022-2023,laliga
+ilaix moriba,Central Midfield,Valencia CF,1.85,4000000.0,2022-2023,laliga
+javi guerra,Central Midfield,Valencia CF,1.87,2000000.0,2022-2023,laliga
+koba koindredi,Central Midfield,Valencia CF,1.84,1000000.0,2022-2023,laliga
+tiago ribeiro,Central Midfield,Valencia CF,1.83,200000.0,2022-2023,laliga
+yellu santiago,Central Midfield,Valencia CF,1.92,100000.0,2022-2023,laliga
+andre almeida,Attacking Midfield,Valencia CF,1.76,20000000.0,2022-2023,laliga
+justin kluivert,Attacking Midfield,Valencia CF,1.72,14000000.0,2022-2023,laliga
+samuel lino,Left Winger,Valencia CF,1.77,16000000.0,2022-2023,laliga
+samu castillejo,Right Winger,Valencia CF,1.82,6000000.0,2022-2023,laliga
+diego lopez,Right Winger,Valencia CF,1.72,1500000.0,2022-2023,laliga
+fran perez,Right Winger,Valencia CF,1.76,500000.0,2022-2023,laliga
+manu vallejo,Second Striker,Valencia CF,1.67,2400000.0,2022-2023,laliga
+maxi gomez,Centre-Forward,Valencia CF,1.86,7000000.0,2022-2023,laliga
+hugo duro,Centre-Forward,Valencia CF,1.77,4000000.0,2022-2023,laliga
+edinson cavani,Centre-Forward,Valencia CF,1.84,3000000.0,2022-2023,laliga
+marcos andre,Centre-Forward,Valencia CF,1.85,2500000.0,2022-2023,laliga
+alberto mari,Centre-Forward,Valencia CF,1.83,800000.0,2022-2023,laliga
+mario dominguez,Centre-Forward,Valencia CF,1.75,50000.0,2022-2023,laliga
+rui silva,Goalkeeper,Real Betis Balompié,1.91,15000000.0,2022-2023,laliga
+dani martin,Goalkeeper,Real Betis Balompié,1.87,1500000.0,2022-2023,laliga
+claudio bravo,Goalkeeper,Real Betis Balompié,1.84,1000000.0,2022-2023,laliga
+fran vieites,Goalkeeper,Real Betis Balompié,1.96,200000.0,2022-2023,laliga
+german garcia,Goalkeeper,Real Betis Balompié,,,2022-2023,laliga
+luiz felipe,Centre-Back,Real Betis Balompié,1.87,15000000.0,2022-2023,laliga
+edgar gonzalez,Centre-Back,Real Betis Balompié,1.92,9000000.0,2022-2023,laliga
+german pezzella,Centre-Back,Real Betis Balompié,1.87,5000000.0,2022-2023,laliga
+victor ruiz,Centre-Back,Real Betis Balompié,1.84,1200000.0,2022-2023,laliga
+felix garreta,Centre-Back,Real Betis Balompié,1.83,200000.0,2022-2023,laliga
+ricardo visus,Centre-Back,Real Betis Balompié,1.92,150000.0,2022-2023,laliga
+alex moreno,Left-Back,Real Betis Balompié,1.79,15000000.0,2022-2023,laliga
+abner,Left-Back,Real Betis Balompié,1.81,7000000.0,2022-2023,laliga
+juan miranda,Left-Back,Real Betis Balompié,1.85,7000000.0,2022-2023,laliga
+youssouf sabaly,Right-Back,Real Betis Balompié,1.73,5000000.0,2022-2023,laliga
+aitor ruibal,Right-Back,Real Betis Balompié,1.76,5000000.0,2022-2023,laliga
+martin montoya,Right-Back,Real Betis Balompié,1.75,1200000.0,2022-2023,laliga
+fran delgado,Right-Back,Real Betis Balompié,1.81,350000.0,2022-2023,laliga
+guido rodriguez,Defensive Midfield,Real Betis Balompié,1.85,28000000.0,2022-2023,laliga
+william carvalho,Defensive Midfield,Real Betis Balompié,1.87,14000000.0,2022-2023,laliga
+paul akouokou,Defensive Midfield,Real Betis Balompié,1.81,3500000.0,2022-2023,laliga
+andres guardado,Central Midfield,Real Betis Balompié,1.67,1500000.0,2022-2023,laliga
+victor camarasa,Central Midfield,Real Betis Balompié,1.83,800000.0,2022-2023,laliga
+quique fernandez,Central Midfield,Real Betis Balompié,1.77,150000.0,2022-2023,laliga
+nabil fekir,Attacking Midfield,Real Betis Balompié,1.73,20000000.0,2022-2023,laliga
+sergio canales,Attacking Midfield,Real Betis Balompié,1.78,15000000.0,2022-2023,laliga
+dani perez,Attacking Midfield,Real Betis Balompié,1.73,300000.0,2022-2023,laliga
+juanmi,Left Winger,Real Betis Balompié,1.72,12000000.0,2022-2023,laliga
+juan cruz,Left Winger,Real Betis Balompié,1.8,1500000.0,2022-2023,laliga
+jose alonso lara,Left Winger,Real Betis Balompié,1.62,350000.0,2022-2023,laliga
+luiz henrique,Right Winger,Real Betis Balompié,1.82,15000000.0,2022-2023,laliga
+rodri sanchez,Right Winger,Real Betis Balompié,1.75,8000000.0,2022-2023,laliga
+rober gonzalez,Right Winger,Real Betis Balompié,1.69,2000000.0,2022-2023,laliga
+joaquin,Right Winger,Real Betis Balompié,1.81,1500000.0,2022-2023,laliga
+borja iglesias,Centre-Forward,Real Betis Balompié,1.87,20000000.0,2022-2023,laliga
+willian jose,Centre-Forward,Real Betis Balompié,1.86,6000000.0,2022-2023,laliga
+ayoze perez,Centre-Forward,Real Betis Balompié,1.78,6000000.0,2022-2023,laliga
+loren moron,Centre-Forward,Real Betis Balompié,1.85,2000000.0,2022-2023,laliga
+bono,Goalkeeper,Sevilla FC,1.95,12000000.0,2022-2023,laliga
+marko dmitrovic,Goalkeeper,Sevilla FC,1.89,4000000.0,2022-2023,laliga
+alberto flores,Goalkeeper,Sevilla FC,1.87,200000.0,2022-2023,laliga
+matias arbol,Goalkeeper,Sevilla FC,1.84,25000.0,2022-2023,laliga
+marius herzig,Goalkeeper,Sevilla FC,1.88,,2022-2023,laliga
+loic bade,Centre-Back,Sevilla FC,1.91,12000000.0,2022-2023,laliga
+tanguy nianzou,Centre-Back,Sevilla FC,1.91,7500000.0,2022-2023,laliga
+marcao,Centre-Back,Sevilla FC,1.85,7500000.0,2022-2023,laliga
+karim rekik,Centre-Back,Sevilla FC,1.86,4000000.0,2022-2023,laliga
+kike salas,Centre-Back,Sevilla FC,1.88,1000000.0,2022-2023,laliga
+xavi sintes,Centre-Back,Sevilla FC,1.9,150000.0,2022-2023,laliga
+marcos acuna,Left-Back,Sevilla FC,1.72,10000000.0,2022-2023,laliga
+alex telles,Left-Back,Sevilla FC,1.81,7500000.0,2022-2023,laliga
+pablo perez,Left-Back,Sevilla FC,1.74,200000.0,2022-2023,laliga
+diego hormigo,Left-Back,Sevilla FC,1.82,100000.0,2022-2023,laliga
+gonzalo montiel,Right-Back,Sevilla FC,1.75,12000000.0,2022-2023,laliga
+jose angel carmona,Right-Back,Sevilla FC,1.84,4000000.0,2022-2023,laliga
+jesus navas,Right-Back,Sevilla FC,1.7,3000000.0,2022-2023,laliga
+pape gueye,Defensive Midfield,Sevilla FC,1.89,10000000.0,2022-2023,laliga
+nemanja gudelj,Defensive Midfield,Sevilla FC,1.87,4000000.0,2022-2023,laliga
+fernando,Defensive Midfield,Sevilla FC,1.83,3000000.0,2022-2023,laliga
+joan jordan,Central Midfield,Sevilla FC,1.85,9000000.0,2022-2023,laliga
+oliver torres,Central Midfield,Sevilla FC,1.75,9000000.0,2022-2023,laliga
+ivan rakitic,Central Midfield,Sevilla FC,1.84,4000000.0,2022-2023,laliga
+thomas delaney,Central Midfield,Sevilla FC,1.82,2000000.0,2022-2023,laliga
+manu bueno,Central Midfield,Sevilla FC,1.78,300000.0,2022-2023,laliga
+pedro ortiz,Central Midfield,Sevilla FC,1.84,200000.0,2022-2023,laliga
+isco,Attacking Midfield,Sevilla FC,1.76,5000000.0,2022-2023,laliga
+nacho quintana,Attacking Midfield,Sevilla FC,1.78,200000.0,2022-2023,laliga
+bryan gil,Left Winger,Sevilla FC,1.75,15000000.0,2022-2023,laliga
+lucas ocampos,Left Winger,Sevilla FC,1.87,12000000.0,2022-2023,laliga
+papu gomez,Left Winger,Sevilla FC,1.67,3000000.0,2022-2023,laliga
+erik lamela,Right Winger,Sevilla FC,1.84,9000000.0,2022-2023,laliga
+jesus corona,Right Winger,Sevilla FC,1.73,8000000.0,2022-2023,laliga
+adnan januzaj,Right Winger,Sevilla FC,1.86,6000000.0,2022-2023,laliga
+suso,Right Winger,Sevilla FC,1.77,6000000.0,2022-2023,laliga
+munir el haddadi,Right Winger,Sevilla FC,1.77,3500000.0,2022-2023,laliga
+carlos alvarez,Right Winger,Sevilla FC,1.68,400000.0,2022-2023,laliga
+youssef ennesyri,Centre-Forward,Sevilla FC,1.88,20000000.0,2022-2023,laliga
+rafa mir,Centre-Forward,Sevilla FC,1.91,10000000.0,2022-2023,laliga
+kasper dolberg,Centre-Forward,Sevilla FC,1.87,7000000.0,2022-2023,laliga
+ivan romero,Centre-Forward,Sevilla FC,1.73,800000.0,2022-2023,laliga
+unai simon,Goalkeeper,Athletic Bilbao,1.9,25000000.0,2022-2023,laliga
+julen agirrezabala,Goalkeeper,Athletic Bilbao,1.87,5000000.0,2022-2023,laliga
+ibon ispizua,Goalkeeper,Athletic Bilbao,1.85,100000.0,2022-2023,laliga
+ander iru,Goalkeeper,Athletic Bilbao,1.88,100000.0,2022-2023,laliga
+yeray alvarez,Centre-Back,Athletic Bilbao,1.82,15000000.0,2022-2023,laliga
+dani vivian,Centre-Back,Athletic Bilbao,1.84,14000000.0,2022-2023,laliga
+inigo martinez,Centre-Back,Athletic Bilbao,1.82,10000000.0,2022-2023,laliga
+aitor paredes,Centre-Back,Athletic Bilbao,1.85,1000000.0,2022-2023,laliga
+yuri berchiche,Left-Back,Athletic Bilbao,1.81,2000000.0,2022-2023,laliga
+mikel balenziaga,Left-Back,Athletic Bilbao,1.77,500000.0,2022-2023,laliga
+inigo lekue,Right-Back,Athletic Bilbao,1.8,3000000.0,2022-2023,laliga
+oscar de marcos,Right-Back,Athletic Bilbao,1.82,1800000.0,2022-2023,laliga
+ander capa,Right-Back,Athletic Bilbao,1.75,1800000.0,2022-2023,laliga
+mikel vesga,Defensive Midfield,Athletic Bilbao,1.91,6000000.0,2022-2023,laliga
+peru nolaskoain,Defensive Midfield,Athletic Bilbao,1.86,1000000.0,2022-2023,laliga
+unai vencedor,Central Midfield,Athletic Bilbao,1.76,9000000.0,2022-2023,laliga
+oier zarraga,Central Midfield,Athletic Bilbao,1.75,3000000.0,2022-2023,laliga
+ander herrera,Central Midfield,Athletic Bilbao,1.82,2500000.0,2022-2023,laliga
+dani garcia,Central Midfield,Athletic Bilbao,1.8,2000000.0,2022-2023,laliga
+junior bita,Central Midfield,Athletic Bilbao,1.82,50000.0,2022-2023,laliga
+oihan sancet,Attacking Midfield,Athletic Bilbao,1.88,30000000.0,2022-2023,laliga
+iker muniain,Attacking Midfield,Athletic Bilbao,1.69,9000000.0,2022-2023,laliga
+raul garcia,Attacking Midfield,Athletic Bilbao,1.84,2500000.0,2022-2023,laliga
+unai gomez,Attacking Midfield,Athletic Bilbao,1.83,100000.0,2022-2023,laliga
+nico williams,Left Winger,Athletic Bilbao,1.81,30000000.0,2022-2023,laliga
+alex berenguer,Left Winger,Athletic Bilbao,1.75,15000000.0,2022-2023,laliga
+jon morcillo,Left Winger,Athletic Bilbao,1.83,3000000.0,2022-2023,laliga
+inaki williams,Right Winger,Athletic Bilbao,1.86,25000000.0,2022-2023,laliga
+adu ares,Right Winger,Athletic Bilbao,1.83,500000.0,2022-2023,laliga
+asier villalibre,Centre-Forward,Athletic Bilbao,1.82,2500000.0,2022-2023,laliga
+gorka guruzeta,Centre-Forward,Athletic Bilbao,1.88,2000000.0,2022-2023,laliga
+sergio herrera,Goalkeeper,CA Osasuna,1.92,8000000.0,2022-2023,laliga
+aitor fernandez,Goalkeeper,CA Osasuna,1.82,3000000.0,2022-2023,laliga
+juan perez,Goalkeeper,CA Osasuna,1.91,600000.0,2022-2023,laliga
+dario ramos,Goalkeeper,CA Osasuna,1.91,200000.0,2022-2023,laliga
+pablo valencia,Goalkeeper,CA Osasuna,1.88,200000.0,2022-2023,laliga
+yoel ramirez,Goalkeeper,CA Osasuna,1.84,50000.0,2022-2023,laliga
+david garcia,Centre-Back,CA Osasuna,1.86,20000000.0,2022-2023,laliga
+unai garcia,Centre-Back,CA Osasuna,1.86,2500000.0,2022-2023,laliga
+aridane hernandez,Centre-Back,CA Osasuna,1.88,1000000.0,2022-2023,laliga
+jorge herrando,Centre-Back,CA Osasuna,1.92,400000.0,2022-2023,laliga
+manu sanchez,Left-Back,CA Osasuna,1.71,10000000.0,2022-2023,laliga
+juan cruz,Left-Back,CA Osasuna,1.82,2500000.0,2022-2023,laliga
+nacho vidal,Right-Back,CA Osasuna,1.8,5000000.0,2022-2023,laliga
+ruben pena,Right-Back,CA Osasuna,1.7,2500000.0,2022-2023,laliga
+diego moreno,Right-Back,CA Osasuna,1.77,800000.0,2022-2023,laliga
+lucas torro,Defensive Midfield,CA Osasuna,1.9,8000000.0,2022-2023,laliga
+iker munoz,Defensive Midfield,CA Osasuna,1.8,500000.0,2022-2023,laliga
+jon moncayola,Central Midfield,CA Osasuna,1.82,12000000.0,2022-2023,laliga
+darko brasanac,Central Midfield,CA Osasuna,1.78,2000000.0,2022-2023,laliga
+pablo ibanez,Central Midfield,CA Osasuna,1.79,1500000.0,2022-2023,laliga
+aimar oroz,Attacking Midfield,CA Osasuna,1.77,15000000.0,2022-2023,laliga
+roberto torres,Attacking Midfield,CA Osasuna,1.78,1200000.0,2022-2023,laliga
+javi martinez,Attacking Midfield,CA Osasuna,1.81,1000000.0,2022-2023,laliga
+abde ezzalzouli,Left Winger,CA Osasuna,1.77,15000000.0,2022-2023,laliga
+moi gomez,Left Winger,CA Osasuna,1.76,10000000.0,2022-2023,laliga
+ruben garcia,Right Winger,CA Osasuna,1.72,6000000.0,2022-2023,laliga
+kike barja,Right Winger,CA Osasuna,1.79,4000000.0,2022-2023,laliga
+iker benito,Right Winger,CA Osasuna,1.76,300000.0,2022-2023,laliga
+chimy avila,Centre-Forward,CA Osasuna,1.72,9000000.0,2022-2023,laliga
+ante budimir,Centre-Forward,CA Osasuna,1.9,6000000.0,2022-2023,laliga
+kike garcia,Centre-Forward,CA Osasuna,1.86,1800000.0,2022-2023,laliga
+paulo gazzaniga,Goalkeeper,Girona FC,1.95,3000000.0,2022-2023,laliga
+juan carlos,Goalkeeper,Girona FC,1.87,300000.0,2022-2023,laliga
+toni fuidias,Goalkeeper,Girona FC,1.95,300000.0,2022-2023,laliga
+lluc matas,Goalkeeper,Girona FC,,,2022-2023,laliga
+santiago bueno,Centre-Back,Girona FC,1.9,8000000.0,2022-2023,laliga
+david lopez,Centre-Back,Girona FC,1.85,2000000.0,2022-2023,laliga
+alexander callens,Centre-Back,Girona FC,1.86,1800000.0,2022-2023,laliga
+bernardo espinosa,Centre-Back,Girona FC,1.92,1500000.0,2022-2023,laliga
+juanpe,Centre-Back,Girona FC,1.9,1500000.0,2022-2023,laliga
+eric monjonell,Centre-Back,Girona FC,1.87,300000.0,2022-2023,laliga
+biel farres,Centre-Back,Girona FC,1.8,,2022-2023,laliga
+miguel gutierrez,Left-Back,Girona FC,1.8,10000000.0,2022-2023,laliga
+javi hernandez,Left-Back,Girona FC,1.8,2500000.0,2022-2023,laliga
+arnau martinez,Right-Back,Girona FC,1.82,15000000.0,2022-2023,laliga
+yan couto,Right-Back,Girona FC,1.68,4000000.0,2022-2023,laliga
+oriol romeu,Defensive Midfield,Girona FC,1.83,5000000.0,2022-2023,laliga
+ibrahima kebe,Defensive Midfield,Girona FC,1.86,500000.0,2022-2023,laliga
+aleix garcia,Central Midfield,Girona FC,1.73,10000000.0,2022-2023,laliga
+yangel herrera,Central Midfield,Girona FC,1.84,5000000.0,2022-2023,laliga
+ramon terrats,Central Midfield,Girona FC,1.81,4000000.0,2022-2023,laliga
+alex sala,Central Midfield,Girona FC,1.85,200000.0,2022-2023,laliga
+ivan martin,Attacking Midfield,Girona FC,1.78,3000000.0,2022-2023,laliga
+reinier,Attacking Midfield,Girona FC,1.85,2000000.0,2022-2023,laliga
+borja garcia,Attacking Midfield,Girona FC,1.75,1000000.0,2022-2023,laliga
+samu saiz,Attacking Midfield,Girona FC,1.74,900000.0,2022-2023,laliga
+ricard artero,Attacking Midfield,Girona FC,1.81,,2022-2023,laliga
+rodrigo riquelme,Left Winger,Girona FC,1.74,12000000.0,2022-2023,laliga
+toni villa,Left Winger,Girona FC,1.72,2500000.0,2022-2023,laliga
+oscar urena,Left Winger,Girona FC,1.71,400000.0,2022-2023,laliga
+joel roca,Left Winger,Girona FC,1.76,,2022-2023,laliga
+viktor tsygankov,Right Winger,Girona FC,1.78,22000000.0,2022-2023,laliga
+valery fernandez,Right Winger,Girona FC,1.82,1500000.0,2022-2023,laliga
+manu vallejo,Second Striker,Girona FC,1.67,2400000.0,2022-2023,laliga
+taty castellanos,Centre-Forward,Girona FC,1.78,15000000.0,2022-2023,laliga
+cristhian stuani,Centre-Forward,Girona FC,1.84,2000000.0,2022-2023,laliga
+pau victor,Centre-Forward,Girona FC,1.84,300000.0,2022-2023,laliga
+dawda camara,Centre-Forward,Girona FC,,,2022-2023,laliga
+agustin marchesin,Goalkeeper,Celta de Vigo,1.88,2000000.0,2022-2023,laliga
+ivan villar,Goalkeeper,Celta de Vigo,1.86,2000000.0,2022-2023,laliga
+christian joel,Goalkeeper,Celta de Vigo,1.93,500000.0,2022-2023,laliga
+coke carrillo,Goalkeeper,Celta de Vigo,1.88,100000.0,2022-2023,laliga
+ruly garcia,Goalkeeper,Celta de Vigo,1.88,50000.0,2022-2023,laliga
+diego alves,Goalkeeper,Celta de Vigo,1.87,,2022-2023,laliga
+joseph aidoo,Centre-Back,Celta de Vigo,1.81,8000000.0,2022-2023,laliga
+unai nunez,Centre-Back,Celta de Vigo,1.86,6000000.0,2022-2023,laliga
+carlos dominguez,Centre-Back,Celta de Vigo,1.87,800000.0,2022-2023,laliga
+sergio barcia,Centre-Back,Celta de Vigo,1.86,300000.0,2022-2023,laliga
+javi dominguez,Centre-Back,Celta de Vigo,1.95,200000.0,2022-2023,laliga
+javi galan,Left-Back,Celta de Vigo,1.72,12000000.0,2022-2023,laliga
+fernando medrano,Left-Back,Celta de Vigo,1.72,200000.0,2022-2023,laliga
+tincho conde,Left-Back,Celta de Vigo,,150000.0,2022-2023,laliga
+hugo mallo,Right-Back,Celta de Vigo,1.73,3000000.0,2022-2023,laliga
+oscar mingueza,Right-Back,Celta de Vigo,1.84,2500000.0,2022-2023,laliga
+kevin vazquez,Right-Back,Celta de Vigo,1.75,1000000.0,2022-2023,laliga
+renato tapia,Defensive Midfield,Celta de Vigo,1.85,6000000.0,2022-2023,laliga
+fran beltran,Central Midfield,Celta de Vigo,1.65,15000000.0,2022-2023,laliga
+luca de la torre,Central Midfield,Celta de Vigo,1.77,3000000.0,2022-2023,laliga
+hugo sotelo,Central Midfield,Celta de Vigo,1.8,150000.0,2022-2023,laliga
+augusto solari,Right Midfield,Celta de Vigo,1.78,1500000.0,2022-2023,laliga
+gabri veiga,Attacking Midfield,Celta de Vigo,1.85,30000000.0,2022-2023,laliga
+oscar rodriguez,Attacking Midfield,Celta de Vigo,1.74,8000000.0,2022-2023,laliga
+miguel baeza,Attacking Midfield,Celta de Vigo,1.77,900000.0,2022-2023,laliga
+franco cervi,Left Winger,Celta de Vigo,1.66,3000000.0,2022-2023,laliga
+williot swedberg,Left Winger,Celta de Vigo,1.87,3000000.0,2022-2023,laliga
+hugo alvarez,Left Winger,Celta de Vigo,1.76,200000.0,2022-2023,laliga
+carles perez,Right Winger,Celta de Vigo,1.73,5000000.0,2022-2023,laliga
+miguel rodriguez,Right Winger,Celta de Vigo,1.79,1000000.0,2022-2023,laliga
+jrgen strand larsen,Centre-Forward,Celta de Vigo,1.93,11000000.0,2022-2023,laliga
+iago aspas,Centre-Forward,Celta de Vigo,1.76,6000000.0,2022-2023,laliga
+haris seferovic,Centre-Forward,Celta de Vigo,1.89,4000000.0,2022-2023,laliga
+goncalo paciencia,Centre-Forward,Celta de Vigo,1.84,2000000.0,2022-2023,laliga
+pablo duran,Centre-Forward,Celta de Vigo,1.76,250000.0,2022-2023,laliga
+fran lopez,Centre-Forward,Celta de Vigo,,,2022-2023,laliga
+benjamin lecomte,Goalkeeper,RCD Espanyol Barcelona,1.86,4000000.0,2022-2023,laliga
+fernando pacheco,Goalkeeper,RCD Espanyol Barcelona,1.87,2500000.0,2022-2023,laliga
+alvaro fernandez,Goalkeeper,RCD Espanyol Barcelona,1.85,2500000.0,2022-2023,laliga
+joan garcia,Goalkeeper,RCD Espanyol Barcelona,1.94,400000.0,2022-2023,laliga
+angel fortuno,Goalkeeper,RCD Espanyol Barcelona,1.83,300000.0,2022-2023,laliga
+cesar montes,Centre-Back,RCD Espanyol Barcelona,1.95,8000000.0,2022-2023,laliga
+leandro cabrera,Centre-Back,RCD Espanyol Barcelona,1.9,2500000.0,2022-2023,laliga
+fernando calero,Centre-Back,RCD Espanyol Barcelona,1.84,2000000.0,2022-2023,laliga
+sergi gomez,Centre-Back,RCD Espanyol Barcelona,1.85,2000000.0,2022-2023,laliga
+simo keddari,Centre-Back,RCD Espanyol Barcelona,1.83,500000.0,2022-2023,laliga
+brian olivan,Left-Back,RCD Espanyol Barcelona,1.75,6000000.0,2022-2023,laliga
+adria pedrosa,Left-Back,RCD Espanyol Barcelona,1.72,5000000.0,2022-2023,laliga
+ronael pierregabriel,Right-Back,RCD Espanyol Barcelona,1.77,3500000.0,2022-2023,laliga
+oscar gil,Right-Back,RCD Espanyol Barcelona,1.75,3000000.0,2022-2023,laliga
+ruben sanchez,Right-Back,RCD Espanyol Barcelona,1.85,700000.0,2022-2023,laliga
+omar el hilali,Right-Back,RCD Espanyol Barcelona,1.83,500000.0,2022-2023,laliga
+vini souza,Defensive Midfield,RCD Espanyol Barcelona,1.87,6000000.0,2022-2023,laliga
+sergi darder,Central Midfield,RCD Espanyol Barcelona,1.8,16000000.0,2022-2023,laliga
+edu exposito,Central Midfield,RCD Espanyol Barcelona,1.78,4000000.0,2022-2023,laliga
+keidi bare,Central Midfield,RCD Espanyol Barcelona,1.74,3000000.0,2022-2023,laliga
+jose gragera,Central Midfield,RCD Espanyol Barcelona,1.86,2500000.0,2022-2023,laliga
+pol lozano,Central Midfield,RCD Espanyol Barcelona,1.76,1500000.0,2022-2023,laliga
+roger martinez,Central Midfield,RCD Espanyol Barcelona,1.77,400000.0,2022-2023,laliga
+dani villahermosa,Central Midfield,RCD Espanyol Barcelona,1.72,250000.0,2022-2023,laliga
+nico melamed,Attacking Midfield,RCD Espanyol Barcelona,1.73,6000000.0,2022-2023,laliga
+denis suarez,Attacking Midfield,RCD Espanyol Barcelona,1.76,5000000.0,2022-2023,laliga
+javi puado,Left Winger,RCD Espanyol Barcelona,1.77,8000000.0,2022-2023,laliga
+jose carlos lazo,Left Winger,RCD Espanyol Barcelona,1.78,2500000.0,2022-2023,laliga
+abde damar,Left Winger,RCD Espanyol Barcelona,1.72,150000.0,2022-2023,laliga
+kenneth soler,Left Winger,RCD Espanyol Barcelona,1.75,100000.0,2022-2023,laliga
+adrian embarba,Right Winger,RCD Espanyol Barcelona,1.73,2500000.0,2022-2023,laliga
+aleix vidal,Right Winger,RCD Espanyol Barcelona,1.77,1500000.0,2022-2023,laliga
+luca koleosho,Right Winger,RCD Espanyol Barcelona,1.75,1000000.0,2022-2023,laliga
+joselu,Centre-Forward,RCD Espanyol Barcelona,1.91,6000000.0,2022-2023,laliga
+martin braithwaite,Centre-Forward,RCD Espanyol Barcelona,1.77,5000000.0,2022-2023,laliga
+dani gomez,Centre-Forward,RCD Espanyol Barcelona,1.78,1500000.0,2022-2023,laliga
+nabil touaizi,Centre-Forward,RCD Espanyol Barcelona,1.83,200000.0,2022-2023,laliga
+predrag rajkovic,Goalkeeper,RCD Mallorca,1.91,10000000.0,2022-2023,laliga
+dominik greif,Goalkeeper,RCD Mallorca,1.97,1500000.0,2022-2023,laliga
+leo roman,Goalkeeper,RCD Mallorca,1.89,300000.0,2022-2023,laliga
+pere garcia,Goalkeeper,RCD Mallorca,1.93,25000.0,2022-2023,laliga
+martin valjent,Centre-Back,RCD Mallorca,1.87,4500000.0,2022-2023,laliga
+antonio raillo,Centre-Back,RCD Mallorca,1.87,4000000.0,2022-2023,laliga
+jose copete,Centre-Back,RCD Mallorca,1.9,3500000.0,2022-2023,laliga
+dennis hadzikadunic,Centre-Back,RCD Mallorca,1.91,3000000.0,2022-2023,laliga
+matija nastasic,Centre-Back,RCD Mallorca,1.87,1500000.0,2022-2023,laliga
+franco russo,Centre-Back,RCD Mallorca,1.86,800000.0,2022-2023,laliga
+benjamin garay,Centre-Back,RCD Mallorca,1.83,100000.0,2022-2023,laliga
+josep gaya,Centre-Back,RCD Mallorca,1.85,100000.0,2022-2023,laliga
+ludwig augustinsson,Left-Back,RCD Mallorca,1.81,2500000.0,2022-2023,laliga
+braian cufre,Left-Back,RCD Mallorca,1.79,1200000.0,2022-2023,laliga
+jaume costa,Left-Back,RCD Mallorca,1.71,1200000.0,2022-2023,laliga
+marcos fernandez,Left-Back,RCD Mallorca,1.76,25000.0,2022-2023,laliga
+pablo maffeo,Right-Back,RCD Mallorca,1.72,8000000.0,2022-2023,laliga
+giovanni gonzalez,Right-Back,RCD Mallorca,1.73,2000000.0,2022-2023,laliga
+rodrigo battaglia,Defensive Midfield,RCD Mallorca,1.87,1500000.0,2022-2023,laliga
+manu morlanes,Central Midfield,RCD Mallorca,1.78,4000000.0,2022-2023,laliga
+inigo ruiz de galarreta,Central Midfield,RCD Mallorca,1.75,3000000.0,2022-2023,laliga
+iddrisu baba,Central Midfield,RCD Mallorca,1.82,3000000.0,2022-2023,laliga
+antonio sanchez,Central Midfield,RCD Mallorca,1.79,2500000.0,2022-2023,laliga
+clement grenier,Central Midfield,RCD Mallorca,1.86,800000.0,2022-2023,laliga
+miquel llabres,Central Midfield,RCD Mallorca,,100000.0,2022-2023,laliga
+luis montiel,Central Midfield,RCD Mallorca,,25000.0,2022-2023,laliga
+ruben quintanilla,Central Midfield,RCD Mallorca,,25000.0,2022-2023,laliga
+dani rodriguez,Attacking Midfield,RCD Mallorca,1.78,1200000.0,2022-2023,laliga
+lago junior,Left Winger,RCD Mallorca,1.8,900000.0,2022-2023,laliga
+javi llabres,Left Winger,RCD Mallorca,1.74,300000.0,2022-2023,laliga
+kangin lee,Right Winger,RCD Mallorca,1.74,22000000.0,2022-2023,laliga
+amath ndiaye,Right Winger,RCD Mallorca,1.73,2000000.0,2022-2023,laliga
+tofol montiel,Right Winger,RCD Mallorca,1.78,150000.0,2022-2023,laliga
+miguelito,Right Winger,RCD Mallorca,1.75,50000.0,2022-2023,laliga
+vedat muriqi,Centre-Forward,RCD Mallorca,1.94,15000000.0,2022-2023,laliga
+tino kadewere,Centre-Forward,RCD Mallorca,1.83,4000000.0,2022-2023,laliga
+abdon prats,Centre-Forward,RCD Mallorca,1.81,1200000.0,2022-2023,laliga
+angel rodriguez,Centre-Forward,RCD Mallorca,1.71,1000000.0,2022-2023,laliga
+stole dimitrievski,Goalkeeper,Rayo Vallecano,1.88,4000000.0,2022-2023,laliga
+miguel angel morro,Goalkeeper,Rayo Vallecano,1.95,600000.0,2022-2023,laliga
+diego lopez,Goalkeeper,Rayo Vallecano,1.96,300000.0,2022-2023,laliga
+alejandro catena,Centre-Back,Rayo Vallecano,1.94,8000000.0,2022-2023,laliga
+florian lejeune,Centre-Back,Rayo Vallecano,1.9,4000000.0,2022-2023,laliga
+abdul mumin,Centre-Back,Rayo Vallecano,1.88,1500000.0,2022-2023,laliga
+esteban saveljich,Centre-Back,Rayo Vallecano,1.87,500000.0,2022-2023,laliga
+fran garcia,Left-Back,Rayo Vallecano,1.69,12000000.0,2022-2023,laliga
+pep chavarria,Left-Back,Rayo Vallecano,1.74,1500000.0,2022-2023,laliga
+ivan balliu,Right-Back,Rayo Vallecano,1.72,4000000.0,2022-2023,laliga
+mario hernandez,Right-Back,Rayo Vallecano,1.77,600000.0,2022-2023,laliga
+mario suarez,Defensive Midfield,Rayo Vallecano,1.89,300000.0,2022-2023,laliga
+santi comesana,Central Midfield,Rayo Vallecano,1.88,7500000.0,2022-2023,laliga
+oscar valentin,Central Midfield,Rayo Vallecano,1.77,5000000.0,2022-2023,laliga
+unai lopez,Central Midfield,Rayo Vallecano,1.7,3500000.0,2022-2023,laliga
+pathe ciss,Central Midfield,Rayo Vallecano,1.86,3000000.0,2022-2023,laliga
+diego mendez,Central Midfield,Rayo Vallecano,1.82,,2022-2023,laliga
+oscar trejo,Attacking Midfield,Rayo Vallecano,1.8,3000000.0,2022-2023,laliga
+randy nteka,Attacking Midfield,Rayo Vallecano,1.89,1800000.0,2022-2023,laliga
+jose pozo,Attacking Midfield,Rayo Vallecano,1.71,1000000.0,2022-2023,laliga
+alvaro garcia,Left Winger,Rayo Vallecano,1.67,6000000.0,2022-2023,laliga
+bebe,Left Winger,Rayo Vallecano,1.9,800000.0,2022-2023,laliga
+pablo munoz,Left Winger,Rayo Vallecano,1.7,,2022-2023,laliga
+salvi sanchez,Right Winger,Rayo Vallecano,1.7,1500000.0,2022-2023,laliga
+andres martin,Right Winger,Rayo Vallecano,1.78,1000000.0,2022-2023,laliga
+isi palazon,Second Striker,Rayo Vallecano,1.69,12000000.0,2022-2023,laliga
+sergio camello,Centre-Forward,Rayo Vallecano,1.82,10000000.0,2022-2023,laliga
+raul de tomas,Centre-Forward,Rayo Vallecano,1.8,8000000.0,2022-2023,laliga
+radamel falcao,Centre-Forward,Rayo Vallecano,1.77,2000000.0,2022-2023,laliga
+edgar badia,Goalkeeper,Elche CF,1.8,3000000.0,2022-2023,laliga
+axel werner,Goalkeeper,Elche CF,1.91,800000.0,2022-2023,laliga
+juanpe navarro,Goalkeeper,Elche CF,1.84,,2022-2023,laliga
+jesus lopez,Goalkeeper,Elche CF,1.87,,2022-2023,laliga
+luismi quirant,Goalkeeper,Elche CF,,,2022-2023,laliga
+lisandro magallan,Centre-Back,Elche CF,1.85,1800000.0,2022-2023,laliga
+enzo roco,Centre-Back,Elche CF,1.92,1500000.0,2022-2023,laliga
+diego gonzalez,Centre-Back,Elche CF,1.85,1500000.0,2022-2023,laliga
+pedro bigas,Centre-Back,Elche CF,1.81,1000000.0,2022-2023,laliga
+john donald,Centre-Back,Elche CF,1.82,1000000.0,2022-2023,laliga
+federico fernandez,Centre-Back,Elche CF,1.89,700000.0,2022-2023,laliga
+gonzalo verdu,Centre-Back,Elche CF,1.85,700000.0,2022-2023,laliga
+javi pamies,Centre-Back,Elche CF,,,2022-2023,laliga
+manuel cocca,Centre-Back,Elche CF,1.8,,2022-2023,laliga
+johan mojica,Left-Back,Elche CF,1.85,3000000.0,2022-2023,laliga
+lautaro blanco,Left-Back,Elche CF,1.76,2800000.0,2022-2023,laliga
+carlos clerc,Left-Back,Elche CF,1.81,1500000.0,2022-2023,laliga
+jose angel carmona,Right-Back,Elche CF,1.84,4000000.0,2022-2023,laliga
+pol lirola,Right-Back,Elche CF,1.83,2000000.0,2022-2023,laliga
+helibelton palacios,Right-Back,Elche CF,1.81,1200000.0,2022-2023,laliga
+carles marco,Right-Back,Elche CF,1.83,,2022-2023,laliga
+gerard gumbau,Defensive Midfield,Elche CF,1.88,3500000.0,2022-2023,laliga
+omar mascarell,Defensive Midfield,Elche CF,1.81,3000000.0,2022-2023,laliga
+raul guti,Central Midfield,Elche CF,1.78,2500000.0,2022-2023,laliga
+domingos quina,Central Midfield,Elche CF,1.73,1800000.0,2022-2023,laliga
+pape cheikh,Central Midfield,Elche CF,1.8,900000.0,2022-2023,laliga
+branislav knezevic,Central Midfield,Elche CF,1.88,,2022-2023,laliga
+alejandro alfaro,Central Midfield,Elche CF,1.83,,2022-2023,laliga
+rodrigo mendoza,Central Midfield,Elche CF,1.82,,2022-2023,laliga
+alex collado,Attacking Midfield,Elche CF,1.77,3000000.0,2022-2023,laliga
+nicolas fernandez mercau,Attacking Midfield,Elche CF,1.72,2000000.0,2022-2023,laliga
+randy nteka,Attacking Midfield,Elche CF,1.89,1800000.0,2022-2023,laliga
+javier pastore,Attacking Midfield,Elche CF,1.87,500000.0,2022-2023,laliga
+pere milla,Left Winger,Elche CF,1.8,3000000.0,2022-2023,laliga
+tete morente,Left Winger,Elche CF,1.84,2500000.0,2022-2023,laliga
+fidel,Left Winger,Elche CF,1.8,1000000.0,2022-2023,laliga
+josan,Right Winger,Elche CF,1.76,1000000.0,2022-2023,laliga
+lucas boye,Centre-Forward,Elche CF,1.83,10000000.0,2022-2023,laliga
+ezequiel ponce,Centre-Forward,Elche CF,1.81,2500000.0,2022-2023,laliga
+roger marti,Centre-Forward,Elche CF,1.79,2000000.0,2022-2023,laliga
