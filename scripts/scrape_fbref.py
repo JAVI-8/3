@@ -39,6 +39,6 @@ def crear_tablas(competition_id: int, season_label: str, league_name: str):
         fbref_D_url = build_defense_url(competition_id, season_label, type, slug)
         df = extraer_tabla_jugadores(fbref_D_url, id)
         time.sleep(10)
-        nombre_archivo = f"data2/{type}/{slug.replace('-', '')}_{season_label.replace('-', '_')}_{type}.csv"
+        nombre_archivo = f"data/{type}/{slug.replace('-', '')}_{season_label.replace('-', '_')}_{type}.csv"
         df.to_csv(nombre_archivo, index=False)
         print(f"✅ Guardado: {nombre_archivo}")

@@ -4,6 +4,9 @@ from scrape_fbref import crear_tablas
 # Definir ligas y temporadas
 ligas = [
     {"name": "La Liga", "slug": "laliga", "code": 12},
+    {"name": "Premier League", "slug": "premier-league", "code": 9},
+    {"name": "Serie A", "slug": "serie-a", "code": 11},
+    {"name": "Bundesliga", "slug": "bundesliga", "code": 20}
 ]
 
 temporadas = ["2022-2023", "2023-2024", "2024-2025"]

@@ -5,8 +5,8 @@ import unicodedata
 import re
 from rapidfuzz import process
 # Carpeta de origen y destino
-FOLDER_ORIGEN = Path("data2")
-FOLDER_DESTINO = Path("data2/limpios")
+FOLDER_ORIGEN = Path("data")
+FOLDER_DESTINO = Path("data/limpios")
 FOLDER_DESTINO.mkdir(parents=True, exist_ok=True)
 
 SUBCARPETAS = ["stats", "defense", "misc", "passing", "possession", "shooting", "mercado"]
@@ -23,10 +23,10 @@ COLUMNAS_UTILES = {
        "Player", "Squad", "Fls", "Off","Crs", "Recov", "Won%"
     ],
     "passing": [
-       "Player", "Squad", "Cmp", "Cmp%","Cmp%.1", "Cmp%.2", "Cmp%.3", "xAG", "xA", "A-xAG", "Kp", "1/3", "PPA", "CrsPA"
+       "Player", "Squad", "Cmp", "Cmp%", "Att.1", "Cmp%.1", "Att.2", "Cmp%.2", "Att.3", "Cmp%.3", "xAG", "xA", "A-xAG", "Kp", "1/3", "PPA", "CrsPA"
     ],
     "possession": [
-       "Player", "Squad", "Def 3rd", "Mid 3rd","Att 3rd", "Att Pen", "live", "Att", "Succ%", "Tkld%	", "PrgDist", "1/3", "CPA", "Mis", "Dis"
+       "Player", "Squad", "Def 3rd", "Mid 3rd","Att 3rd", "Att Pen", "Live", "Att", "Succ%", "Tkld", "Tkld%", "PrgDist", "1/3", "CPA", "Mis", "Dis"
     ],
     "shooting": [
        "Player", "Squad", "Sh", "SoT","G/Sh", "xG", "npxG", "npxG/Sh", "G-xG"
@@ -45,9 +45,9 @@ def estandarizar_columnas(df, carpeta):
     elif carpeta == "misc":
         df = df.rename(columns={"Crs": "Crosses", "Won%": "Aerialwon%"})
     elif carpeta == "passing":
-        df = df.rename(columns={"Cmp": "Pass_cmp", "Cmp%": "Pass_cmp%", "Cmp%.1": "Pass_cmp_Short%", "Cmp%.2": "Pass_cmp_Medium%", "Cmp%.3": "Pass_cmp_Long%", "Kp": "Key_pases", "1/3": "Pass_cmp_Att_3rd"})
+        df = df.rename(columns={"Cmp": "Pass_cmp", "Cmp%": "Pass_cmp%", "Cmp%.1": "Pass_cmp_Short%", "Att.1": "Pass_Short", "Cmp%.2": "Pass_cmp_Medium%", "Att.2": "Pass_Medium", "Cmp%.3": "Pass_cmp_Long%", "Att.3": "pass_Long", "Kp": "Key_pases", "1/3": "Pass_cmp_Att_3rd"})
     elif carpeta == "possession":
-        df = df.rename(columns={"Def 3rd": "Touch_Def_3rd", "Mid 3rd": "Touch_Mid_3rd", "Att 3rd": "Touch_Att_3rd", "Att Pen": "Touch_Att_Pen", "live": "touch_Live", "Att": "drib_Att", "Succ%": "drib_Succ%", "Tkld%": "Tckl_Drib%", "1/3": "Carries_Att_3rd", "CPA": "Carries_Att_Pen", "Mis": "fail_To_Gain_Control", "Dis": "Loss_Control_Tackle"})
+        df = df.rename(columns={"Def 3rd": "Touch_Def_3rd", "Mid 3rd": "Touch_Mid_3rd", "Att 3rd": "Touch_Att_3rd", "Att Pen": "Touch_Att_Pen", "Live": "touch_Live", "Att": "drib_Att", "Succ%": "drib_Succ%", "Tkld": "Tckl_Drib" ,"Tkld%": "Tckl_Drib%", "1/3": "Carries_Att_3rd", "CPA": "Carries_Att_Pen", "Mis": "fail_To_Gain_Control", "Dis": "Loss_Control_Tackle"})
     elif carpeta == "shooting":
         df = df.rename(columns={"Crs": "crosses", "Won%": "Aerialwon%"})
     elif carpeta == "mercado":
