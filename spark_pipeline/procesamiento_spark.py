@@ -2,7 +2,7 @@ from pyspark.sql import SparkSession
 from pyspark.sql.functions import col, lower, trim, round as spark_round, when
 from pyspark.sql.types import FloatType
 from scoring_utils import calcular_penalty_score, calcular_performance_score
-
+from infravalorados import train_models_by_position
 # Cargar CSV unificados
 base_path = "data/limpios"
 
@@ -112,15 +112,18 @@ position_metrics = {
         'Sh', 'SoT', 'G/Sh', 'xG', 'npxG', 'npxG/Sh', 'G-xG'
     ]
 }
-penalty_metrics = {
-    'YellowC': 2.0,
-    'RedC': 5.0,
-    'Fls': 1.0,
-    'Off': 1.5,  # solo si es atacante
-    'Err': 2.0,
-    'Loss_Control_Tackle': 1.0,
-    'fail_To_Gain_Control': 0.5
-}
+
+variables_por_90 = [
+    'Gls', 'Ast', 'PrgC', 'PrgP', 'PrgR', 'Fls', 'Off', 'Crosses', 'Recov',
+    'Tack_Def_3rd', 'Tack_Mid_3rd', 'Tack_Att_3rd', 'Tkl', 'TklW', 'Int', 'Blocks',
+    'Block_Shots', 'Bolck_Pass', 'Clearences', 'Err', 'Pass_cmp', 'Pass_Short',
+    'Pass_Medium', 'Pass_Long', 'xAG', 'xA', 'A-xAG', 'Pass_cmp_Att_3rd', 'PPA',
+    'CrsPA', 'Touch_Def_3rd', 'Touch_Mid_3rd', 'Touch_Att_3rd', 'Touch_Att_Pen',
+    'touch_Live', 'drib_Att', 'Tckl_Drib', 'PrgDist', 'Carries_Att_3rd',
+    'Carries_Att_Pen', 'fail_To_Gain_Control', 'Loss_Control_Tackle',
+    'Sh', 'SoT', 'xG', 'npxG'
+]
+
 def crear_sesion():
     # Crear sesión Spark
     spark = SparkSession.builder \
@@ -171,17 +174,49 @@ def columnas_con_porcentaje(df):
 
     return df
 
+def normalizar_por_90_min(df):
+    for col_name in variables_por_90:
+        if col_name in df.columns:
+            df = df.withColumn(
+                col_name,
+                when(col("Min") > 0, (col(col_name) / col("Min")) * 90).otherwise(0)
+            )
+    return df
+
+def calcular_adjusted_score(df):
+    df = df.withColumn("adjusted_score", col("performance_score") - col("penalty_score"))
+    return df
 def guardar_en_parquet(df):
     df.write.mode("overwrite").parquet("data/final/merge_jugadores.parquet")
     print("Datos procesados y exportados en formato Parquet.")
     
 def procesar():
     spark = crear_sesion()
+    print("Uniendo los datasets...")
     df = union_datasets(spark)
+    
+    print("convertir a float...")
     df = conversion_float(df)
+    
+    print("Uniendo los datasets...")
     df = columnas_con_porcentaje(df)
+    
+    print("normalizando las variables x 90min...")
+    df = normalizar_por_90_min(df)
+    
+    print("calculando penalty score...")
     df = calcular_penalty_score(df)
+    
+    print("calculando el performance score...")
     df = calcular_performance_score(df, position_metrics)
+    
+    print("calcuando el adjusted score...")
+    df = calcular_adjusted_score(df)
+    
+    print("calculando valor estimado de los jugadores...")
+    df = train_models_by_position(df, position_metrics)
+    
+    print("guardando el dataset en formato parquet...")
     guardar_en_parquet(df)
 
 

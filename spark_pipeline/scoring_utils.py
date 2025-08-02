@@ -10,20 +10,41 @@ def sum_vector(vec):
 
 def calcular_penalty_score(df):
     
-    return df.fillna(0, subset=[
-        'YellowC', 'RedC', 'Fls', 'Off', 'Err', 'Loss_Control_Tackle', 'fail_To_Gain_Control'
-    ]).withColumn("penalty_score",
-        col("YellowC") * 2.0 +
-        col("RedC") * 5.0 +
-        col("Fls") * 1.0 +
-        col("Err") * 2.0 +
-        col("Loss_Control_Tackle") * 1.0 +
-        col("fail_To_Gain_Control") * 0.5 +
-        when(
-            col("Pos").rlike("Forward|Winger|Striker|Attacking Midfield|Second Striker"),
-            col("Off") * 1.5
-        ).otherwise(0)
-    )
+    # Pesos ajustados y razonables
+    penalty_weights = {
+        'YellowC': 1.0,
+        'RedC': 2.5,
+        'Fls': 0.2,
+        'Err': 1.0,
+        'Loss_Control_Tackle': 0.5,
+        'fail_To_Gain_Control': 0.3,
+        'Off': 0.5  # solo para ofensivos
+    }
+
+    for metric, weight in penalty_weights.items():
+        if metric == 'Off':
+            df = df.withColumn(
+                "penalty_Off",
+                when(
+                    col("Pos").rlike("Left Winger|Right Winger|Second Striker|Attacking Midfield|Centre-Forward"),
+                    when(col("Min") > 0, (col("Off") / col("Min")) * 90 * weight).otherwise(0)
+                ).otherwise(0)
+            )
+        else:
+            if metric in df.columns:
+                df = df.withColumn(
+                    f"penalty_{metric}",
+                    when(col("Min") > 0, (col(metric) / col("Min")) * 90 * weight).otherwise(0)
+                )
+
+    # Suma de todas las penalizaciones parciales
+    penalty_cols = [f"penalty_{k}" for k in penalty_weights.keys()]
+    df = df.fillna(0, subset=penalty_cols)
+
+    penalty_expr = sum([col(c) for c in penalty_cols])
+    df = df.withColumn("penalty_score", penalty_expr)
+
+    return df
 
 def calcular_performance_score(df, position_metrics):
 
