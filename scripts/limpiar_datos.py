@@ -9,7 +9,7 @@ FOLDER_ORIGEN = Path("data")
 FOLDER_DESTINO = Path("data/limpios")
 FOLDER_DESTINO.mkdir(parents=True, exist_ok=True)
 
-SUBCARPETAS = ["stats", "defense", "misc", "passing", "possession", "shooting", "mercado"]
+SUBCARPETAS = ["stats", "defense", "misc", "passing", "possession", "shooting", "mercado", "keepers", "keepersadv"]
 
 # Columnas clave a conservar por carpeta
 COLUMNAS_UTILES = {
@@ -33,6 +33,12 @@ COLUMNAS_UTILES = {
     ],
     "mercado": [
         "player_name", "player_position", "squad", "player_height_mtrs", "player_market_value_euro"
+    ],
+    "keepers": [
+        "Player", "Squad", "GA", "SoTA", "Save%", "CS%", "PKatt", "Save%.1"
+    ],
+    "keepersadv": [
+        "Player", "Squad", "PSxG", "PSxG/SoT", "PSxG+/-", "Launch%", "Opp", "Stp%", "#OPA" 
     ]
 }
 
@@ -52,6 +58,10 @@ def estandarizar_columnas(df, carpeta):
         df = df.rename(columns={"Crs": "crosses", "Won%": "Aerialwon%"})
     elif carpeta == "mercado":
         df = df.rename(columns={ "player_name": "Player", "squad": "Squad", "player_position": "Pos", "player_height_mtrs": "Height", "player_market_value_euro": "Value"})
+    elif carpeta == "keepers":
+        df = df.rename(columns={"Save%.1": "P_Save%"})
+    elif carpeta == "keepersadv":
+        df = df.rename(columns = {"Opp": "Crosses_Opp", "Stp%": "Crosses_stp%"})
         
     if "Player" in df.columns:
        df["Player"] = df["Player"].astype(str).apply(normalizar)
@@ -164,7 +174,7 @@ def limpiar():
             ruta_destino[carpeta] = archivo_salida
             #dataframes por categoria
             dataframes[carpeta] = unidos
-    #igualar nombres de transfermarht con los demas
+    #igualar nombres de transfermarkt con los demas
     igualar_nombres(dataframes)
     
     #guardar dataframes en csvs

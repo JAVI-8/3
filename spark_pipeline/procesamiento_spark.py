@@ -19,7 +19,7 @@ float_columns = [
 ]
 
 position_metrics = {
-    'Goalkeeper': [],
+    'GK': [],
     'Centre-Back': [
         'Tkl', 'Int', 'Blocks', 'Clearences', 'Aerialwon%',
         'Touch_Def_3rd', 'Tack_Def_3rd', 'Pass_cmp%', 'PrgC', 'PrgP',
