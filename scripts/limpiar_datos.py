@@ -47,7 +47,7 @@ def estandarizar_columnas(df, carpeta):
     if carpeta == "stats":
         df = df.rename(columns={"CrdY": "YellowC", "CrdR": "RedC"})
     elif carpeta == "defense":
-        df = df.rename(columns={"Def 3rd": "Tack_Def_3rd", "Mid 3rd": "Tack_Mid_3rd", "Att 3rd": "Tack_Att_3rd", "Tkl.1": "Tkl", "Sh": "Block_Shots", "Pass": "Bolck_Pass", "Clr": "Clearences"})
+        df = df.rename(columns={"Def 3rd": "Tack_Def_3rd", "Mid 3rd": "Tack_Mid_3rd", "Att 3rd": "Tack_Att_3rd", "Tkl.1": "Tkl", "Sh": "Block_Shots", "Pass": "Block_Pass", "Clr": "Clearences"})
     elif carpeta == "misc":
         df = df.rename(columns={"Crs": "Crosses", "Won%": "Aerialwon%"})
     elif carpeta == "passing":

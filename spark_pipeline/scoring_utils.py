@@ -2,6 +2,118 @@ from pyspark.sql.functions import col, when, lit, udf
 from pyspark.sql.types import FloatType
 from pyspark.ml.feature import VectorAssembler, MinMaxScaler
 from functools import reduce
+from pyspark.ml.linalg import DenseVector
+from pyspark.sql.functions import udf
+from pyspark.sql.types import ArrayType, FloatType
+from pyspark.ml.functions import vector_to_array
+import builtins
+position_metrics = {
+    
+    "Goalkeeper": {"Recov_per90": 0.3, "Clearences_per90": 0.2, "Pass_cmp%": 0.3, "GA_per90": 0.3, "SoTA_per90": 0.4, "Save%": 0.6, "CS%": 0.3, "Effective_Penalty_Saves": 0.2,
+        "PSxG/SoT_per90": 0.6, "PSxG_per90": 0.6, "PSxG+/-_per90": 0.5, "Launch%": 0.2, "Effective_Cross_stop": 0.5, "#OPA_per90": 0.4
+    },
+    "Centre-Back": {
+        "Int_per90": 0.4, "Blocks_per90": 0.3, "Clearences_per90": 0.5, "Aerialwon%": 0.6,
+        "Touch_Def_3rd_per90": 0.2, "Tack_Def_3rd_per90": 0.4, "PrgC_per90": 0.1, "PrgP_per90": 0.2, "Effective_Pass_Short": 0.2,
+        "Effective_Pass_Medium": 0.2, "Effective_Pass_Long": 0.3,
+        "Effective_Tkl": 0.5, "Block_Shots_per90": 0.4, "Effective_Tackles_vsDrib": 0.3,
+        "PrgDist_per90": 0.1
+    },
+    "Left-Back":{ 
+        "PrgC_per90": 0.3, "PrgP_per90": 0.2, "Crosses_per90": 0.4, "Recov_per90": 0.4, "Tack_Def_3rd_per90": 0.4, "Effective_Tkl": 0.5, "Int_per90": 0.5,
+        "Block_Shots_per90": 0.4, "Block_Pass_per90": 0.4, "Clearences_per90": 0.5, "Effective_Pass_Short": 0.2,
+        "Effective_Pass_Medium": 0.3, "Effective_Pass_Long": 0.1, "xA_per90": 0.2,
+        "A-xAG_per90": 0.2, "CrsPA_per90": 0.3, "Touch_Def_3rd_per90": 0.3, "Touch_Att_3rd_per90": 0.4, "Effective_Drib": 0.2,
+        "PrgDist_per90": 0.4, "Carries_Att_3rd_per90": 0.2, "Touch_Live_per90": 0.3, "Effective_Tackles_vsDrib": 0.5
+    },
+    "Right-Back": {
+        "PrgC_per90": 0.3, "PrgP_per90": 0.2, "Crosses_per90": 0.4, "Recov_per90": 0.4, "Tack_Def_3rd_per90": 0.4, "Effective_Tkl": 0.5, "Int_per90": 0.5,
+        "Block_Shots_per90": 0.4, "Block_Pass_per90": 0.4, "Clearences_per90": 0.5, "Effective_Pass_Short": 0.2,
+        "Effective_Pass_Medium": 0.3, "Effective_Pass_Long": 0.1, "xA_per90": 0.2,
+        "A-xAG_per90": 0.2, "CrsPA_per90": 0.3, "Touch_Def_3rd_per90": 0.3, "Touch_Att_3rd_per90": 0.4, "Effective_Drib": 0.2,
+        "PrgDist_per90": 0.4, "Carries_Att_3rd_per90": 0.2, "Touch_Live_per90": 0.3, "Effective_Tackles_vsDrib": 0.5
+    },
+    "Defensive Midfield": {
+        "Int_per90": 0.4, "Blocks_per90": 0.5, "Clearences_per90": 0.3, "Aerialwon%": 0.3, "Touch_Def_3rd_per90": 0.2,
+        "Touch_Mid_3rd_per90": 0.4, "Tack_Def_3rd_per90": 0.4, "Effective_Pass_Short": 0.6,
+        "Effective_Pass_Medium": 0.5, "Effective_Pass_Long": 0.5, "PrgC_per90": 0.2, "PrgP_per90": 0.3,
+        "Effective_Tkl": 0.5, "Block_Shots_per90": 0.3,"PrgDist_per90": 0.2, "Recov_per90": 0.4,
+        "Tack_Mid_3rd_per90": 0.3, "Touch_Live_per90": 0.4
+   } ,
+    "Central Midfield": {
+        "Ast_per90": 0.2, "PrgC_per90": 0.3, "PrgP_per90": 0.4, "Recov_per90": 0.3, "Aerialwon%": 0.2, "Tack_Def_3rd_per90": 0.3, "Tack_Mid_3rd_per90": 0.4,
+        "Tack_Att_3rd_per90": 0.4, "Effective_Tkl": 0.4, "Int_per90": 0.4, "Block_Pass_per90": 0.3,"Effective_Pass_Short": 0.6,
+        "Effective_Pass_Medium": 0.6, "Effective_Pass_Long": 0.5, "xAG_per90":0.2, "xA": 0.2, "A-xAG_per90": 0.2, "Pass_cmp_Att_3rd_per90": 0.3, "PPA_per90": 0.4,
+        "Touch_Def_3rd_per90": 0.3, "Touch_Mid_3rd_per90": 0.4, "Touch_Att_3rd_per90": 0.3, "Effective_Tackles_vsDrib": 0.2,
+        "PrgDist_per90": 0.3, "Carries_Att_3rd_per90": 0.4, "Touch_Live_per90": 0.2, "Effective_Drib": 0.2
+    },
+    "Attacking Midfield": {
+        "Ast_per90": 0.3, "PrgC_per90": 0.3, "PrgP_per90": 0.4, "PrgR_per90": 0.4, "Tack_Att_3rd_per90": 0.3, "Tack_Mid_3rd_per90": 0.2, "Block_Pass_per90": 0.2,
+        "Effective_Pass_Short": 0.5, "Effective_Pass_Medium": 0.5, "Effective_Pass_Long": 0.3, "xAG_per90": 0.5, "xA_per90": 0.4, "A-xAG_per90":0.3, "Pass_cmp_Att_3rd_per90": 0.5, "PPA_per90": 0.4,
+        "Touch_Mid_3rd": 0.3, "Touch_Att_3rd": 0.4, "Touch_Att_Pen": 0.2, "Effective_Drib": 0.3,
+        "Effective_Tackles_vsDrib": 0.1, "PrgDist_per90": 0.2, "Carries_Att_3rd_per90": 0.3, "Carries_Att_Pen_per90": 0.4,
+        "Sh_per90": 0.2, "SoT_per90": 0.3, "G/Sh_per90": 0.2, "Touch_Live_per90": 0.2, "Effective_Tkl": 0.2
+    },
+    "Right Midfield": {
+        "Gls_per90": 0.1, "Ast_per90": 0.2, "PrgC_per90": 0.4, "PrgP_per90": 0.3, "PrgR_per90": 0.3, "Crosses_per90": 0.4, "Tack_Mid_3rd_per90": 0.3, "Tack_Att_3rd_per90": 0.3,
+        "Effective_Tkl": 0.2, "Block_Pass_per90": 0.2, "Effective_Pass_Short": 0.4,
+        "Effective_Pass_Medium": 0.4, "Effective_Pass_Long": 0.2, "xAG_per90": 0.3, "xA_per90": 0.3, "A-xAG_per90": 0.3, "Pass_cmp_Att_3rd_per90": 0.4, "PPA_per90": 0.5, "CrsPA_per90": 0.5,
+        "Touch_Mid_3rd_per90": 0.3, "Touch_Att_3rd_per90": 0.4, "Effective_Drib": 0.5, "Effective_Tackles_vsDrib": 0.2, "PrgDist_per90": 0.4, "Carries_Att_3rd_per90": 0.5, "Carries_Att_Pen_per90": 0.4,
+        "Sh_per90": 0.2, "SoT_per90": 0.2, "G/Sh_per90": 0.2
+   } ,
+    "Left Midfield": {
+        "Gls_per90": 0.1, "Ast_per90": 0.2, "PrgC_per90": 0.4, "PrgP_per90": 0.3, "PrgR_per90": 0.3, "Crosses_per90": 0.4, "Tack_Mid_3rd_per90": 0.3, "Tack_Att_3rd_per90": 0.3,
+        "Effective_Tkl": 0.2, "Block_Pass_per90": 0.2, "Effective_Pass_Short": 0.4,
+        "Effective_Pass_Medium": 0.4, "Effective_Pass_Long": 0.2, "xAG_per90": 0.3, "xA_per90": 0.3, "A-xAG_per90": 0.3, "Pass_cmp_Att_3rd_per90": 0.4, "PPA_per90": 0.5, "CrsPA_per90": 0.5,
+        "Touch_Mid_3rd_per90": 0.3, "Touch_Att_3rd_per90": 0.4, "Effective_Drib": 0.5, "Effective_Tackles_vsDrib": 0.2, "PrgDist_per90": 0.4, "Carries_Att_3rd_per90": 0.5, "Carries_Att_Pen_per90": 0.4,
+        "Sh_per90": 0.2, "SoT_per90": 0.2, "G/Sh_per90": 0.2
+    },
+    "Left Winger": {
+        "Gls_per90": 0.2, "Ast_per90": 0.3, "PrgC_per90": 0.5, "PrgP_per90": 0.4, "PrgR_per90": 0.4, "Crosses_per90": 0.3, "Tack_Att_3rd_per90": 0.4, "Effective_Tkl": 0.2,
+        "Block_Pass_per90": 0.1, "Effective_Pass_Short": 0.3,
+        "Effective_Pass_Medium": 0.3, "Effective_Pass_Long": 0.2, "PPA_per90": 0.5, "CrsPA_per90": 0.6, "Touch_Att_3rd_per90": 0.5,
+        "Touch_Att_Pen_per90": 0.5, "Effective_Drib": 0.6, "Effective_Tackles_vsDrib": 0.1,
+        "PrgDist_per90": 0.3, "Carries_Att_3rd_per90": 0.4, "Carries_Att_Pen_per90": 0.5, "xAG_per90": 0.3, "xA_per90": 0.3,
+        "Sh_per90": 0.4, "SoT_per90": 0.3, "G/Sh_per90": 0.3, "xG_per90": 0.5, "npxG_per90": 0.3, "G-xG_per90": 0.3
+    },
+    "Right Winger": {
+        "Gls_per90": 0.2, "Ast_per90": 0.3, "PrgC_per90": 0.5, "PrgP_per90": 0.4, "PrgR_per90": 0.4, "Crosses_per90": 0.3, "Tack_Att_3rd_per90": 0.4, "Effective_Tkl": 0.2,
+        "Block_Pass_per90": 0.1, "Effective_Pass_Short": 0.3,
+        "Effective_Pass_Medium": 0.3, "Effective_Pass_Long": 0.2, "PPA_per90": 0.5, "CrsPA_per90": 0.6, "Touch_Att_3rd_per90": 0.5,
+        "Touch_Att_Pen_per90": 0.5, "Effective_Drib": 0.6, "Effective_Tackles_vsDrib": 0.1,
+        "PrgDist_per90": 0.3, "Carries_Att_3rd_per90": 0.4, "Carries_Att_Pen_per90": 0.5, "xAG_per90": 0.3, "xA_per90": 0.3,
+        "Sh_per90": 0.4, "SoT_per90": 0.3, "G/Sh_per90": 0.3, "xG_per90": 0.5, "npxG_per90": 0.3, "G-xG_per90": 0.3
+    },
+    "Second Striker": {
+        "Gls_per90": 0.3, "Ast_per90": 0.3, "PrgC_per90": 0.4, "PrgP_per90": 0.5, "PrgR_per90": 0.6, "Tack_Att_3rd_per90": 0.4, "Block_Pass_per90": 0.1,
+        "Effective_Pass_Short": 0.4,
+        "Effective_Pass_Medium": 0.3, "Effective_Pass_Long": 0.2, "xAG_per90": 0.5, "xA_per90": 0.4,
+        "Pass_cmp_Att_3rd_per90": 0.4, "PPA_per90": 0.5, "Touch_Mid_3rd_per90": 0.3, "Touch_Att_3rd_per90": 0.6, "Touch_Att_Pen_per90": 0.5,
+        "Effective_Drib":0.4, "Effective_Tackles_vsDrib": 0.1, "PrgDist_per90": 0.3,
+        "Carries_Att_3rd_per90": 0.3, "Carries_Att_Pen_per90": 0.4,
+        "Sh_per90": 0.3, "SoT_per90": 0.6, "G/Sh_per90": 0.5, "xG_per90": 0.6, "npxG_per90": 0.4, "G-xG_per90": 0.5, "Touch_Live_per90": 0.2, "Effective_Tkl": 0.1
+    },
+    "Centre-Forward": {
+        "Gls_per90":0.3, "Ast_per90":0.2, "PrgR_per90": 0.3, "Aerialwon%": 0.5, "Tack_Att_3rd_per90": 0.5, "Effective_Tkl": 0.4, "Block_Pass_per90": 0.2,
+        "Effective_Pass_Short": 0.3,
+        "Effective_Pass_Medium": 0.2, "Effective_Pass_Long": 0.1, "xAG_per90": 0.4,
+        "xA_per90": 0.4, "Pass_cmp_Att_3rd_per90": 0.4, "Touch_Att_3rd_per90": 0.5, "Touch_Mid_3rd_per90": 0.2, "Touch_Att_Pen_per90": 0.6,
+        "Carries_Att_Pen_per90": 0.5, "Effective_Drib": 0.4, 
+        "Sh_per90": 0.5, "SoT_per90": 0.6, "G/Sh_per90": 0.5, "xG_per90": 0.7, "npxG_per90": 0.5, "G-xG_per90": 0.4
+    }
+}
+
+def normalize_weights_by_position():
+    normalized = {}
+    for position, weights in position_metrics.items():
+        total = sum(weights.values())
+        if total == 0:
+            raise ValueError(f"La posición '{position}' tiene una suma de pesos igual a cero.")
+        normalized[position] = [
+            (metric, builtins.round(weight / total, 4)) for metric, weight in weights.items()
+        ]
+    return normalized
+
 
 # UDF para sumar valores de un vector (normalizado)
 @udf(FloatType())
@@ -46,38 +158,62 @@ def calcular_penalty_score(df):
 
     return df
 
-def calcular_performance_score(df, position_metrics):
-
-    def procesar_posicion_x_temporada(df, pos, metrics):
-        # Obtener todas las temporadas
+def calcular_performance_score_con_pesos(df):
+    def procesar_posicion_x_temporada(df, pos, metric_weight_tuples):
+        available_columns = df.columns
         seasons = [row["Season"] for row in df.select("Season").distinct().collect()]
         df_pos_season_list = []
 
         for season in seasons:
-            df_season = df.filter((col("Pos") == pos) & (col("Season") == season)).fillna(0, subset=metrics)
+            df_season = df.filter((col("Pos") == pos) & (col("Season") == season))
 
-            #combina todas las métricas en un solo vector numérico.
+            metrics = [m for m, _ in metric_weight_tuples if m in available_columns]
+            weights = [w for m, w in metric_weight_tuples if m in available_columns]
+            metric_weight_tuples_filtered = list(zip(metrics, weights))
+
+            if not metric_weight_tuples_filtered:
+                continue
+
+            df_season = df_season.fillna(0, metrics)
+
             assembler = VectorAssembler(inputCols=metrics, outputCol="features_vec")
             df_season = assembler.transform(df_season)
 
-            # transforma cada métrica del vector entre 0 y 1, escalando en base a los valores mínimos y máximos de esa posición.
             scaler = MinMaxScaler(inputCol="features_vec", outputCol="scaled_features")
             scaler_model = scaler.fit(df_season)
             df_season = scaler_model.transform(df_season)
 
-            #suma las variables escaladas para calcular el performance_score
-            df_season = df_season.withColumn("performance_score", sum_vector("scaled_features")) \
-                                 .drop("features_vec", "scaled_features") \
-                                 .withColumn("Evaluated_Position", lit(pos))
+            #convertir el vector a array usando librería oficial de PySpark ML
+            df_season = df_season.withColumn("scaled_array", vector_to_array("scaled_features"))
 
+            # calcular columnas ponderadas
+            weighted_cols = []
+            for i, (metric, weight) in enumerate(metric_weight_tuples_filtered):
+                weighted_col_name = f"{metric}_weighted"
+                df_season = df_season.withColumn(weighted_col_name, col("scaled_array")[i] * lit(weight))
+                weighted_cols.append(col(weighted_col_name))
+
+            if weighted_cols:
+                df_season = df_season.withColumn("performance_score", sum(weighted_cols))
+            else:
+                df_season = df_season.withColumn("performance_score", lit(0.0))
+
+            # eliminar columnas temporales
+            cols_to_drop = ["features_vec", "scaled_features", "scaled_array"] + \
+                           [f"{metric}_weighted" for metric, _ in metric_weight_tuples_filtered]
+            df_season = df_season.drop(*cols_to_drop)
+
+            df_season = df_season.withColumn("Evaluated_Position", lit(pos))
             df_pos_season_list.append(df_season)
-        #une los dataframes por temporada ordenandolo por nombre
-        return reduce(lambda df1, df2: df1.unionByName(df2), df_pos_season_list)
 
-    # Procesar todas las posiciones
+        return reduce(lambda df1, df2: df1.unionByName(df2, allowMissingColumns=True), df_pos_season_list) if df_pos_season_list else df.limit(0)
+
     scored_dfs = []
-    for pos, metrics in position_metrics.items():
-        if metrics:  # solo si hay métricas para esa posición
-            scored_dfs.append(procesar_posicion_x_temporada(df, pos, metrics))
+    position_metrics_normalized = normalize_weights_by_position()
+    for pos, metric_weight_tuples in position_metrics_normalized.items():
+        if metric_weight_tuples:
+            scored_df = procesar_posicion_x_temporada(df, pos, metric_weight_tuples)
+            if scored_df.count() > 0:
+                scored_dfs.append(scored_df)
 
-    return reduce(lambda df1, df2: df1.unionByName(df2), scored_dfs)
+    return reduce(lambda df1, df2: df1.unionByName(df2, allowMissingColumns=True), scored_dfs) if scored_dfs else df.limit(0)
