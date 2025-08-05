@@ -1,7 +1,6 @@
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col, lower, trim, round, when
 from pyspark.sql.types import FloatType
-from scoring_utils import calcular_penalty_score, calcular_performance_score_con_pesos
 from pyspark import SparkConf
 # Cargar CSV unificados
 base_path = "data/limpios"
@@ -19,7 +18,15 @@ float_columns = [
         "SoTA", "Save%", "CS%", "PKatt", "P_Save%", "PSxG","PSxG/SoT", "PSxG+/-", "Launch%", 
         "Crosses_Opp", "Crosses_stp%", "#OPA"
 ]
-
+penalty_weights = {
+        'YellowC': 1.0,
+        'RedC': 2.5,
+        'Fls': 0.2,
+        'Err': 1.0,
+        'Loss_Control_Tackle': 0.5,
+        'fail_To_Gain_Control': 0.3,
+        'Off': 0.5  # solo para ofensivos
+    }
 variables_por_90 = [
     "Gls", "Ast", "PrgC", "PrgP", "PrgR", "Fls", "Off", "Crosses", "Recov",
     "Tack_Def_3rd", "Tack_Mid_3rd", "Tack_Att_3rd", "Tkl", "TklW", "Int", "Blocks",
@@ -29,7 +36,7 @@ variables_por_90 = [
     "Touch_Live", "drib_Att", "Tckl_Drib", "PrgDist", "Carries_Att_3rd",
     "Carries_Att_Pen", "fail_To_Gain_Control", "Loss_Control_Tackle",
     "Sh", "SoT", "xG", "npxG", "GA", "SoTA", "PKatt", "PSxG",
-    "PSxG/SoT", "PSxG+/-", "Crosses_Opp", "#OPA"
+    "PSxG/SoT", "PSxG+/-", "Crosses_Opp", "#OPA", "YellowC", "RedC"
 ]
 def combinacion_variables(df):
     df = df.withColumn("Effective_Pass_Short", col("Pass_Short") * col("Pass_cmp_Short%"))
@@ -45,43 +52,11 @@ def combinacion_variables(df):
 
 def crear_sesion():
     # Crear sesión Spark
-    conf = SparkConf().set("spark.driver.memory", "12g")
+    conf = SparkConf().set("spark.driver.memory", "6g")
     spark = SparkSession.builder \
     .appName("scouting_pipeline") \
     .getOrCreate()
     return spark
-'''
-def union_datasets(spark):
-    stats = spark.read.option("header", True).csv(f"{base_path}/stats/stats.csv")
-    misc = spark.read.option("header", True).csv(f"{base_path}/misc/misc.csv")
-    defense = spark.read.option("header", True).csv(f"{base_path}/defense/defense.csv")
-    passing = spark.read.option("header", True).csv(f"{base_path}/passing/passing.csv")
-    possession = spark.read.option("header", True).csv(f"{base_path}/possession/possession.csv")
-    shooting = spark.read.option("header", True).csv(f"{base_path}/shooting/shooting.csv")
-    mercado = spark.read.option("header", True).csv(f"{base_path}/mercado/mercado.csv")
-    keepers = spark.read.option("header", True).csv(f"{base_path}/keepers/keepers.csv")
-    keepersadv = spark.read.option("header", True).csv(f"{base_path}/keepersadv/keepersadv.csv")
-    
-    # Normalizar claves para join
-    for df_name in ["stats", "misc", "defense", "passing", "possession", "shooting", "mercado", "keepers", "keepersadv"]:
-        df = locals()[df_name]
-        df = df.withColumn("Player", lower(trim(col("Player")))) \
-            .withColumn("Squad", lower(trim(col("Squad")))) \
-                .withColumn("Competition", lower(trim(col("Competition"))))
-        locals()[df_name] = df
-
-    # Join de todas las fuentes
-    unido = stats \
-        .join(misc, ["Player", "Squad", "Season", "Competition"], "inner") \
-            .join(defense, ["Player", "Squad", "Season", "Competition"], "inner") \
-                .join(passing, ["Player", "Squad", "Season", "Competition"], "inner") \
-                    .join(possession, ["Player", "Squad", "Season", "Competition"], "inner") \
-                        .join(shooting, ["Player", "Squad", "Season", "Competition"], "inner") \
-                            .join(mercado, ["Player", "Squad", "Season", "Competition"], "inner")\
-                                .join(keepers, ["Player", "Squad", "Season", "Competition"], "left")\
-                                    .join(keepersadv, ["Player", "Squad", "Season", "Competition"], "left")
-    return unido
-'''
 
 def union_datasets(spark):
     sources = {
@@ -140,51 +115,32 @@ def normalizar_por_90_min(df):
         )
     return df
 
-def calcular_adjusted_score(df):
-    df = df.withColumn("adjusted_score", col("performance_score") - col("penalty_score"))
-    return df
 def guardar_en_parquet(df):
-    df.select(
-    "Player", "Squad", "Season", "Competition", "Pos", "Value",
-    "performance_score", "penalty_score", "adjusted_score", "Evaluated_Position"
-).repartition(10).write.mode("overwrite").parquet("data/final/merge_jugadores.parquet")
+    df.write.mode("overwrite").parquet("data/unidos/merge_jugadores.parquet")
+    print("Datos procesados y exportados en formato Parquet.")
 
 
 def procesar():
     spark = crear_sesion()
-    print("Uniendo los datasets...")
-    df = union_datasets(spark)
-    
-    print("convertir a float...")
-    df = conversion_float(df)
-    
-    print("Uniendo los datasets...")
-    df = columnas_con_porcentaje(df)
-    
-    print("normalizando las variables x 90min...")
-    df = normalizar_por_90_min(df)
-    
-    df.write.mode("overwrite").parquet("data/unidos/merge_jugadores.parquet")
-    print("Datos procesados y exportados en formato Parquet.")
-    
-    df = combinacion_variables(df)
-    
-    print("calculando penalty score...")
-    df = calcular_penalty_score(df)
-    
-    print("calculando el performance score...")
-    df = calcular_performance_score_con_pesos(df)
-    
-    print("calcuando el adjusted score...")
-    df = calcular_adjusted_score(df)
-    
-    #print("calculando valor estimado de los jugadores...")
-    #df = train_models_by_position(df, position_metrics)
-    
-    
-    
-    print("guardando el dataset en formato parquet...")
-    guardar_en_parquet(df)
+    try:
+        print("Uniendo los datasets...")
+        df = union_datasets(spark)
+        
+        print("convertir a float...")
+        df = conversion_float(df)
+        
+        print("Uniendo los datasets...")
+        df = columnas_con_porcentaje(df)
+        
+        print("normalizando las variables x 90min...")
+        df = normalizar_por_90_min(df)
+        
+        df = combinacion_variables(df)
+        
+        print("guardando unidos...")
+        guardar_en_parquet(df)
+    finally:
+        spark.stop()
 
 
 procesar()

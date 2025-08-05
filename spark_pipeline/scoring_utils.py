@@ -7,6 +7,8 @@ from pyspark.sql.functions import udf
 from pyspark.sql.types import ArrayType, FloatType
 from pyspark.ml.functions import vector_to_array
 import builtins
+from pyspark.sql import SparkSession
+from pyspark import SparkConf
 position_metrics = {
     
     "Goalkeeper": {"Recov_per90": 0.3, "Clearences_per90": 0.2, "Pass_cmp%": 0.3, "GA_per90": 0.3, "SoTA_per90": 0.4, "Save%": 0.6, "CS%": 0.3, "Effective_Penalty_Saves": 0.2,
@@ -103,6 +105,8 @@ position_metrics = {
     }
 }
 
+
+
 def normalize_weights_by_position():
     normalized = {}
     for position, weights in position_metrics.items():
@@ -121,40 +125,39 @@ def sum_vector(vec):
     return float(sum(vec))
 
 def calcular_penalty_score(df):
-    
-    # Pesos ajustados y razonables
     penalty_weights = {
-        'YellowC': 1.0,
-        'RedC': 2.5,
-        'Fls': 0.2,
-        'Err': 1.0,
-        'Loss_Control_Tackle': 0.5,
-        'fail_To_Gain_Control': 0.3,
-        'Off': 0.5  # solo para ofensivos
+        'YellowC_per90': 1.0,
+        'RedC_per90': 2.5,
+        'Fls_per90': 0.2,
+        'Err_per90': 1.0,
+        'Loss_Control_Tackle_per90': 0.3,
+        'fail_To_Gain_Control_per90': 0.2,
+        'Off_per90': 0.3  # solo para ofensivos
     }
 
+    created_penalty_cols = []
+
     for metric, weight in penalty_weights.items():
-        if metric == 'Off':
+        col_name = f"penalty_{metric}" if metric != "Off_per90" else "penalty_Off"
+
+        if metric == 'Off_per90':
             df = df.withColumn(
-                "penalty_Off",
+                col_name,
                 when(
                     col("Pos").rlike("Left Winger|Right Winger|Second Striker|Attacking Midfield|Centre-Forward"),
-                    when(col("Min") > 0, (col("Off") / col("Min")) * 90 * weight).otherwise(0)
-                ).otherwise(0)
+                    col(metric) * lit(weight)
+                ).otherwise(0.0)
             )
-        else:
-            if metric in df.columns:
-                df = df.withColumn(
-                    f"penalty_{metric}",
-                    when(col("Min") > 0, (col(metric) / col("Min")) * 90 * weight).otherwise(0)
-                )
+        elif metric in df.columns:
+            df = df.withColumn(col_name, col(metric) * lit(weight))
 
-    # Suma de todas las penalizaciones parciales
-    penalty_cols = [f"penalty_{k}" for k in penalty_weights.keys()]
+        created_penalty_cols.append(col_name)
+
+    # Filtrar solo las que realmente existen
+    penalty_cols = [c for c in created_penalty_cols if c in df.columns]
+
     df = df.fillna(0, subset=penalty_cols)
-
-    penalty_expr = sum([col(c) for c in penalty_cols])
-    df = df.withColumn("penalty_score", penalty_expr)
+    df = df.withColumn("penalty_score", sum([col(c) for c in penalty_cols]))
 
     return df
 
@@ -217,3 +220,48 @@ def calcular_performance_score_con_pesos(df):
                 scored_dfs.append(scored_df)
 
     return reduce(lambda df1, df2: df1.unionByName(df2, allowMissingColumns=True), scored_dfs) if scored_dfs else df.limit(0)
+
+def crear_sesion():
+    # Crear sesión Spark
+    conf = SparkConf().set("spark.driver.memory", "6g")
+    spark = SparkSession.builder \
+    .appName("performance_score") \
+    .getOrCreate()
+    return spark
+
+def cargar_df(spark):
+    df = spark.read.parquet("data/unidos/merge_jugadores.parquet")
+    return df
+
+def calcular_adjusted_score(df):
+    df = df.withColumn("adjusted_score", col("performance_score") - col("penalty_score"))
+    return df
+
+def guardar_en_parquet(df):
+    df.select(
+        "Player", "Squad", "Season", "Competition", "Pos", "Value",
+        "performance_score", "penalty_score", "adjusted_score", "Evaluated_Position"
+    ).repartition(10).write.mode("overwrite").parquet("data/final/merge_jugadores.parquet")
+
+def procesar():
+    spark = crear_sesion()
+    try:
+        print("cargando dataset...")
+        df = cargar_df(spark)
+        
+        print("calcular penalty_score...")
+        df = calcular_penalty_score(df)
+        
+        print("calcular performance_score...")
+        df = calcular_performance_score_con_pesos(df)
+        
+        print("calculando adjusted_score...")
+        df = calcular_adjusted_score(df)
+        
+        print("guardando performance_score...")
+        guardar_en_parquet(df)
+        print("el dataset se ha guardado correctamente en formato parquet")
+    finally:
+        spark.stop()
+        
+procesar()
