@@ -126,13 +126,13 @@ def sum_vector(vec):
 
 def calcular_penalty_score(df):
     penalty_weights = {
-        'YellowC_per90': 1.0,
-        'RedC_per90': 2.5,
-        'Fls_per90': 0.2,
-        'Err_per90': 1.0,
-        'Loss_Control_Tackle_per90': 0.3,
-        'fail_To_Gain_Control_per90': 0.2,
-        'Off_per90': 0.3  # solo para ofensivos
+        'YellowC_per90': 0.03,
+        'RedC_per90': 0.1,
+        'Fls_per90': 0.01,
+        'Err_per90': 0.05,
+        'Loss_Control_Tackle_per90': 0.02,
+        'fail_To_Gain_Control_per90': 0.01,
+        'Off_per90': 0.02  # solo para ofensivos
     }
 
     created_penalty_cols = []
@@ -239,7 +239,7 @@ def calcular_adjusted_score(df):
 
 def guardar_en_parquet(df):
     df.select(
-        "Player", "Squad", "Season", "Competition", "Pos", "Value",
+        "Player", "Squad", "Season", "Competition", "Pos", "Min", "MP", "Starts", "Value",
         "performance_score", "penalty_score", "adjusted_score", "Evaluated_Position"
     ).repartition(10).write.mode("overwrite").parquet("data/final/merge_jugadores.parquet")
 

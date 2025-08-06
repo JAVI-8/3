@@ -17,10 +17,11 @@ if (!dir.exists(output_dir)) dir.create(output_dir, recursive = TRUE)
 
 # Definir ligas y temporadas
 ligas <- list(
-  Germany = "Bundesliga",
-  Spain = "LaLiga",
-  England = "Premier League",
-  Italy = "Serie A"
+  #Germany = "Bundesliga",
+  #Spain = "LaLiga",
+  #England = "Premier League",
+  #Italy = "Serie A"
+  France = "Ligue 1"
 )
 anios <- 2022:2024
 

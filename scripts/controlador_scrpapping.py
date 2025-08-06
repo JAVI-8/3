@@ -6,7 +6,8 @@ ligas = [
     {"name": "La Liga", "slug": "laliga", "code": 12},
     {"name": "Premier League", "slug": "premier-league", "code": 9},
     {"name": "Serie A", "slug": "serie-a", "code": 11},
-    {"name": "Bundesliga", "slug": "bundesliga", "code": 20}
+    {"name": "Bundesliga", "slug": "bundesliga", "code": 20},
+    {"name": "Ligue-1", "slug": "ligue-1", "code": 13}
 ]
 
 temporadas = ["2022-2023", "2023-2024", "2024-2025"]
