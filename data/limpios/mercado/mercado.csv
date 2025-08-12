@@ -54,7 +54,7 @@ felix passlack,Right-Back,Dortmund,1.7,1500000.0,2022-2023,bundesliga
 mateu morey,Right-Back,Dortmund,1.73,1000000.0,2022-2023,bundesliga
 emre can,Defensive Midfield,Dortmund,1.86,14000000.0,2022-2023,bundesliga
 salih ozcan,Defensive Midfield,Dortmund,1.83,13000000.0,2022-2023,bundesliga
-abdoulaye kamara,Defensive Midfield,Dortmund,1.85,1000000.0,2022-2023,bundesliga
+abdoulaye niakhate ndiaye,Defensive Midfield,Dortmund,1.85,1000000.0,2022-2023,bundesliga
 mahmoud dahoud,Central Midfield,Dortmund,1.78,12000000.0,2022-2023,bundesliga
 jude bellingham,Attacking Midfield,Dortmund,1.86,120000000.0,2022-2023,bundesliga
 julian brandt,Attacking Midfield,Dortmund,1.85,40000000.0,2022-2023,bundesliga
@@ -101,7 +101,7 @@ andre silva,Centre-Forward,RB Leipzig,1.86,15000000.0,2022-2023,bundesliga
 alexander srloth,Centre-Forward,RB Leipzig,1.95,12000000.0,2022-2023,bundesliga
 yussuf poulsen,Centre-Forward,RB Leipzig,1.92,7000000.0,2022-2023,bundesliga
 lukas hradecky,Goalkeeper,Leverkusen,1.92,2500000.0,2022-2023,bundesliga
-patric,Goalkeeper,Leverkusen,1.83,1500000.0,2022-2023,bundesliga
+patrick pentz,Goalkeeper,Leverkusen,1.83,1500000.0,2022-2023,bundesliga
 andre,Goalkeeper,Leverkusen,1.9,1200000.0,2022-2023,bundesliga
 niklas lomb,Goalkeeper,Leverkusen,1.86,250000.0,2022-2023,bundesliga
 maximilian neutgens,Goalkeeper,Leverkusen,1.88,,2022-2023,bundesliga
@@ -157,7 +157,7 @@ makoto hasebe,Defensive Midfield,Eintracht Frankfurt,1.8,800000.0,2022-2023,bund
 djibril sow,Central Midfield,Eintracht Frankfurt,1.84,22000000.0,2022-2023,bundesliga
 paxten aaronson,Central Midfield,Eintracht Frankfurt,1.75,4500000.0,2022-2023,bundesliga
 sebastian rode,Central Midfield,Eintracht Frankfurt,1.79,2000000.0,2022-2023,bundesliga
-mehdi loune,Central Midfield,Eintracht Frankfurt,1.72,300000.0,2022-2023,bundesliga
+mehdi puchherrantz,Central Midfield,Eintracht Frankfurt,1.72,300000.0,2022-2023,bundesliga
 junior dina ebimbe,Right Midfield,Eintracht Frankfurt,1.84,10000000.0,2022-2023,bundesliga
 filip kostic,Left Midfield,Eintracht Frankfurt,1.84,22000000.0,2022-2023,bundesliga
 daichi kamada,Attacking Midfield,Eintracht Frankfurt,1.8,27000000.0,2022-2023,bundesliga
@@ -328,7 +328,7 @@ aissa laidouni,Central Midfield,Union Berlin,1.84,7000000.0,2022-2023,bundesliga
 morten thorsby,Central Midfield,Union Berlin,1.88,5500000.0,2022-2023,bundesliga
 andras schafer,Central Midfield,Union Berlin,1.78,5000000.0,2022-2023,bundesliga
 paul seguin,Central Midfield,Union Berlin,1.86,2500000.0,2022-2023,bundesliga
-kevin mohwald,Central Midfield,Union Berlin,1.82,600000.0,2022-2023,bundesliga
+kevin van den kerkhof,Central Midfield,Union Berlin,1.82,600000.0,2022-2023,bundesliga
 milos pantovic,Attacking Midfield,Union Berlin,1.86,1500000.0,2022-2023,bundesliga
 genki haraguchi,Attacking Midfield,Union Berlin,1.78,1000000.0,2022-2023,bundesliga
 sheraldo becker,Left Winger,Union Berlin,1.8,17000000.0,2022-2023,bundesliga
@@ -462,7 +462,7 @@ timo horn,Goalkeeper,Köln,1.92,1500000.0,2022-2023,bundesliga
 julian baumgartlinger,Goalkeeper,Köln,1.92,100000.0,2022-2023,bundesliga
 matthias kobbing,Goalkeeper,Köln,1.96,100000.0,2022-2023,bundesliga
 timo hubers,Centre-Back,Köln,1.9,8500000.0,2022-2023,bundesliga
-jeff chabot,Centre-Back,Köln,1.95,5500000.0,2022-2023,bundesliga
+jeff reineadelaide,Centre-Back,Köln,1.95,5500000.0,2022-2023,bundesliga
 luca kilian,Centre-Back,Köln,1.92,3500000.0,2022-2023,bundesliga
 nikola soldo,Centre-Back,Köln,1.89,1500000.0,2022-2023,bundesliga
 elias baum,Centre-Back,Köln,1.93,250000.0,2022-2023,bundesliga
@@ -568,7 +568,7 @@ harry kane,Centre-Forward,Bayern Munich,1.88,100000000.0,2023-2024,bundesliga
 mathys tel,Centre-Forward,Bayern Munich,1.83,40000000.0,2023-2024,bundesliga
 eric maxim choupomoting,Centre-Forward,Bayern Munich,1.91,2500000.0,2023-2024,bundesliga
 matej kovar,Goalkeeper,Leverkusen,1.96,7000000.0,2023-2024,bundesliga
-patric,Goalkeeper,Leverkusen,1.83,3000000.0,2023-2024,bundesliga
+patrick pentz,Goalkeeper,Leverkusen,1.83,3000000.0,2023-2024,bundesliga
 lukas hradecky,Goalkeeper,Leverkusen,1.92,2500000.0,2023-2024,bundesliga
 niklas lomb,Goalkeeper,Leverkusen,1.86,250000.0,2023-2024,bundesliga
 edmond tapsoba,Centre-Back,Leverkusen,1.94,45000000.0,2023-2024,bundesliga
@@ -648,7 +648,7 @@ thomas meunier,Right-Back,Dortmund,1.91,2500000.0,2023-2024,bundesliga
 mateu morey,Right-Back,Dortmund,1.73,800000.0,2023-2024,bundesliga
 salih ozcan,Defensive Midfield,Dortmund,1.83,10000000.0,2023-2024,bundesliga
 emre can,Defensive Midfield,Dortmund,1.86,10000000.0,2023-2024,bundesliga
-abdoulaye kamara,Defensive Midfield,Dortmund,1.85,1500000.0,2023-2024,bundesliga
+abdoulaye niakhate ndiaye,Defensive Midfield,Dortmund,1.85,1500000.0,2023-2024,bundesliga
 felix nmecha,Central Midfield,Dortmund,1.9,20000000.0,2023-2024,bundesliga
 marcel sabitzer,Central Midfield,Dortmund,1.78,20000000.0,2023-2024,bundesliga
 kjellarik watjen,Central Midfield,Dortmund,1.84,2000000.0,2023-2024,bundesliga
@@ -732,7 +732,7 @@ donny van de beek,Central Midfield,Eintracht Frankfurt,1.84,5000000.0,2023-2024,
 paxten aaronson,Central Midfield,Eintracht Frankfurt,1.75,4500000.0,2023-2024,bundesliga
 sebastian rode,Central Midfield,Eintracht Frankfurt,1.79,1000000.0,2023-2024,bundesliga
 sidney raebiger,Central Midfield,Eintracht Frankfurt,1.76,300000.0,2023-2024,bundesliga
-mehdi loune,Central Midfield,Eintracht Frankfurt,1.72,300000.0,2023-2024,bundesliga
+mehdi puchherrantz,Central Midfield,Eintracht Frankfurt,1.72,300000.0,2023-2024,bundesliga
 harpreet ghotra,Central Midfield,Eintracht Frankfurt,1.8,100000.0,2023-2024,bundesliga
 junior dina ebimbe,Right Midfield,Eintracht Frankfurt,1.84,12000000.0,2023-2024,bundesliga
 fares chaibi,Attacking Midfield,Eintracht Frankfurt,1.83,18000000.0,2023-2024,bundesliga
@@ -964,7 +964,7 @@ marvin schwabe,Goalkeeper,Köln,1.9,4000000.0,2023-2024,bundesliga
 philipp pentke,Goalkeeper,Köln,1.91,300000.0,2023-2024,bundesliga
 jonas nickisch,Goalkeeper,Köln,1.91,200000.0,2023-2024,bundesliga
 matthias kobbing,Goalkeeper,Köln,1.96,100000.0,2023-2024,bundesliga
-jeff chabot,Centre-Back,Köln,1.95,9000000.0,2023-2024,bundesliga
+jeff reineadelaide,Centre-Back,Köln,1.95,9000000.0,2023-2024,bundesliga
 timo hubers,Centre-Back,Köln,1.9,5500000.0,2023-2024,bundesliga
 luca kilian,Centre-Back,Köln,1.92,2000000.0,2023-2024,bundesliga
 dominique heintz,Centre-Back,Köln,1.88,800000.0,2023-2024,bundesliga
@@ -1076,7 +1076,7 @@ odilon kossounou,Centre-Back,Leverkusen,1.91,25000000.0,2024-2025,bundesliga
 jeanuel belocian,Centre-Back,Leverkusen,1.86,15000000.0,2024-2025,bundesliga
 mario hermoso,Centre-Back,Leverkusen,1.84,7000000.0,2024-2025,bundesliga
 andre,Centre-Back,Leverkusen,1.86,,2024-2025,bundesliga
-ben doak,Centre-Back,Leverkusen,1.85,,2024-2025,bundesliga
+ben old,Centre-Back,Leverkusen,1.85,,2024-2025,bundesliga
 alejandro grimaldo,Left-Back,Leverkusen,1.71,30000000.0,2024-2025,bundesliga
 jeremie frimpong,Right-Back,Leverkusen,1.72,50000000.0,2024-2025,bundesliga
 nordi mukiele,Right-Back,Leverkusen,1.87,10000000.0,2024-2025,bundesliga
@@ -1140,7 +1140,7 @@ dennis seimen,Goalkeeper,Stuttgart,1.92,2500000.0,2024-2025,bundesliga
 fabian bredlow,Goalkeeper,Stuttgart,1.9,800000.0,2024-2025,bundesliga
 stefan drljaca,Goalkeeper,Stuttgart,1.92,325000.0,2024-2025,bundesliga
 finn jeltsch,Centre-Back,Stuttgart,1.88,20000000.0,2024-2025,bundesliga
-jeff chabot,Centre-Back,Stuttgart,1.95,12000000.0,2024-2025,bundesliga
+jeff reineadelaide,Centre-Back,Stuttgart,1.95,12000000.0,2024-2025,bundesliga
 anthony rouault,Centre-Back,Stuttgart,1.86,10000000.0,2024-2025,bundesliga
 ameen aldakhil,Centre-Back,Stuttgart,1.87,7500000.0,2024-2025,bundesliga
 luca jaquez,Centre-Back,Stuttgart,1.87,6000000.0,2024-2025,bundesliga
@@ -1248,7 +1248,7 @@ oliver baumann,Goalkeeper,Hoffenheim,1.87,3000000.0,2024-2025,bundesliga
 luca philipp,Goalkeeper,Hoffenheim,1.92,750000.0,2024-2025,bundesliga
 karl jakob hein,Goalkeeper,Hoffenheim,1.89,250000.0,2024-2025,bundesliga
 lukas petersson,Goalkeeper,Hoffenheim,1.95,250000.0,2024-2025,bundesliga
-benjamin lade,Goalkeeper,Hoffenheim,1.87,,2024-2025,bundesliga
+benjamin andre,Goalkeeper,Hoffenheim,1.87,,2024-2025,bundesliga
 maximilian philipp,Goalkeeper,Hoffenheim,1.9,,2024-2025,bundesliga
 leo skiri stigard,Centre-Back,Hoffenheim,1.83,10000000.0,2024-2025,bundesliga
 ozan kabak,Centre-Back,Hoffenheim,1.87,5000000.0,2024-2025,bundesliga
@@ -1499,7 +1499,7 @@ adam dzwigaa,Centre-Back,St. Pauli,1.85,600000.0,2024-2025,bundesliga
 emil holm,Centre-Back,St. Pauli,1.92,125000.0,2024-2025,bundesliga
 muhammad dahaba,Centre-Back,St. Pauli,1.94,125000.0,2024-2025,bundesliga
 lars ritzka,Left-Back,St. Pauli,1.85,1000000.0,2024-2025,bundesliga
-julien yanda,Left-Back,St. Pauli,1.83,250000.0,2024-2025,bundesliga
+julien le cardinal,Left-Back,St. Pauli,1.83,250000.0,2024-2025,bundesliga
 philipp treu,Right-Back,St. Pauli,1.73,5000000.0,2024-2025,bundesliga
 manolis saliakas,Right-Back,St. Pauli,1.77,3000000.0,2024-2025,bundesliga
 finley stevens,Right-Back,St. Pauli,1.79,500000.0,2024-2025,bundesliga
@@ -1609,7 +1609,7 @@ mario hermoso,Centre-Back,Atlético Madrid,1.84,20000000.0,2022-2023,laliga
 stefan savic,Centre-Back,Atlético Madrid,1.87,6000000.0,2022-2023,laliga
 axel witsel,Centre-Back,Atlético Madrid,1.86,5000000.0,2022-2023,laliga
 felipe,Centre-Back,Atlético Madrid,1.9,2000000.0,2022-2023,laliga
-gian marco ferrari,Centre-Back,Atlético Madrid,1.91,200000.0,2022-2023,laliga
+marlos moreno,Centre-Back,Atlético Madrid,1.91,200000.0,2022-2023,laliga
 ilias kostis,Centre-Back,Atlético Madrid,1.88,100000.0,2022-2023,laliga
 adrian,Centre-Back,Atlético Madrid,1.79,50000.0,2022-2023,laliga
 reinildo mandava,Left-Back,Atlético Madrid,1.8,25000000.0,2022-2023,laliga
@@ -1797,10 +1797,10 @@ borja iglesias,Centre-Forward,Betis,1.87,20000000.0,2022-2023,laliga
 willian jose,Centre-Forward,Betis,1.86,6000000.0,2022-2023,laliga
 ayoze perez,Centre-Forward,Betis,1.78,6000000.0,2022-2023,laliga
 loren moron,Centre-Forward,Betis,1.85,2000000.0,2022-2023,laliga
-bono,Goalkeeper,Sevilla,1.95,12000000.0,2022-2023,laliga
+simon ebonog,Goalkeeper,Sevilla,1.95,12000000.0,2022-2023,laliga
 marko dmitrovic,Goalkeeper,Sevilla,1.89,4000000.0,2022-2023,laliga
 alberto flores,Goalkeeper,Sevilla,1.87,200000.0,2022-2023,laliga
-matias arbol,Goalkeeper,Sevilla,1.84,25000.0,2022-2023,laliga
+matias fernandezpardo,Goalkeeper,Sevilla,1.84,25000.0,2022-2023,laliga
 marius herzig,Goalkeeper,Sevilla,1.88,,2022-2023,laliga
 loic bade,Centre-Back,Sevilla,1.91,12000000.0,2022-2023,laliga
 tanguy nianzou,Centre-Back,Sevilla,1.91,7500000.0,2022-2023,laliga
@@ -2164,7 +2164,7 @@ ronald araujo,Centre-Back,Barcelona,1.92,70000000.0,2023-2024,laliga
 andreas christensen,Centre-Back,Barcelona,1.87,40000000.0,2023-2024,laliga
 pau cubarsi,Centre-Back,Barcelona,1.84,30000000.0,2023-2024,laliga
 eric garcia,Centre-Back,Barcelona,1.82,20000000.0,2023-2024,laliga
-mikayil faye,Centre-Back,Barcelona,1.83,10000000.0,2023-2024,laliga
+mikayil ngor faye,Centre-Back,Barcelona,1.83,10000000.0,2023-2024,laliga
 inigo martinez,Centre-Back,Barcelona,1.82,5000000.0,2023-2024,laliga
 alejandro balde,Left-Back,Barcelona,1.75,40000000.0,2023-2024,laliga
 marcos alonso,Left-Back,Barcelona,1.88,2000000.0,2023-2024,laliga
@@ -2245,7 +2245,7 @@ axel witsel,Centre-Back,Atlético Madrid,1.86,3500000.0,2023-2024,laliga
 stefan savic,Centre-Back,Atlético Madrid,1.87,2500000.0,2023-2024,laliga
 cesar azpilicueta,Centre-Back,Atlético Madrid,1.78,2000000.0,2023-2024,laliga
 gabriel paulista,Centre-Back,Atlético Madrid,1.85,2000000.0,2023-2024,laliga
-gian marco ferrari,Centre-Back,Atlético Madrid,1.91,400000.0,2023-2024,laliga
+marlos moreno,Centre-Back,Atlético Madrid,1.91,400000.0,2023-2024,laliga
 ilias kostis,Centre-Back,Atlético Madrid,1.88,300000.0,2023-2024,laliga
 reinildo mandava,Left-Back,Atlético Madrid,1.8,9000000.0,2023-2024,laliga
 javi galan,Left-Back,Atlético Madrid,1.72,7000000.0,2023-2024,laliga
@@ -2323,7 +2323,7 @@ yuri berchiche,Left-Back,Athletic Bilbao,1.81,1800000.0,2023-2024,laliga
 imanol,Left-Back,Athletic Bilbao,1.77,1200000.0,2023-2024,laliga
 inigo lekue,Right-Back,Athletic Bilbao,1.8,3000000.0,2023-2024,laliga
 oscar de marcos,Right-Back,Athletic Bilbao,1.82,1500000.0,2023-2024,laliga
-hugo rincon,Right-Back,Athletic Bilbao,1.83,250000.0,2023-2024,laliga
+hugo boutsingkham,Right-Back,Athletic Bilbao,1.83,250000.0,2023-2024,laliga
 mikel vesga,Defensive Midfield,Athletic Bilbao,1.91,4000000.0,2023-2024,laliga
 peru nolaskoain,Defensive Midfield,Athletic Bilbao,1.86,1000000.0,2023-2024,laliga
 benat prados,Central Midfield,Athletic Bilbao,1.8,15000000.0,2023-2024,laliga
@@ -2418,11 +2418,11 @@ roman yaremchuk,Centre-Forward,Valencia,1.91,3500000.0,2023-2024,laliga
 alberto mari,Centre-Forward,Valencia,1.83,1500000.0,2023-2024,laliga
 mario dominguez,Centre-Forward,Valencia,1.75,200000.0,2023-2024,laliga
 joselu,Centre-Forward,Valencia,1.83,100000.0,2023-2024,laliga
-bono,Goalkeeper,Sevilla,1.95,9000000.0,2023-2024,laliga
+simon ebonog,Goalkeeper,Sevilla,1.95,9000000.0,2023-2024,laliga
 rjan nyland,Goalkeeper,Sevilla,1.92,1400000.0,2023-2024,laliga
 marko dmitrovic,Goalkeeper,Sevilla,1.89,900000.0,2023-2024,laliga
 alberto flores,Goalkeeper,Sevilla,1.87,300000.0,2023-2024,laliga
-matias arbol,Goalkeeper,Sevilla,1.84,100000.0,2023-2024,laliga
+matias fernandezpardo,Goalkeeper,Sevilla,1.84,100000.0,2023-2024,laliga
 rafael romero,Goalkeeper,Sevilla,1.9,,2023-2024,laliga
 loic bade,Centre-Back,Sevilla,1.91,14000000.0,2023-2024,laliga
 kike salas,Centre-Back,Sevilla,1.88,10000000.0,2023-2024,laliga
@@ -2530,7 +2530,7 @@ carlos protesoni,Defensive Midfield,Alavés,1.85,1500000.0,2023-2024,laliga
 ander guevara,Central Midfield,Alavés,1.8,5000000.0,2023-2024,laliga
 jon guridi,Central Midfield,Alavés,1.79,4000000.0,2023-2024,laliga
 tomas mendes,Central Midfield,Alavés,,200000.0,2023-2024,laliga
-selu diallo,Central Midfield,Alavés,1.87,200000.0,2023-2024,laliga
+papa amadou diallo,Central Midfield,Alavés,1.87,200000.0,2023-2024,laliga
 ianis hagi,Attacking Midfield,Alavés,1.82,2000000.0,2023-2024,laliga
 ander sanchez,Attacking Midfield,Alavés,,100000.0,2023-2024,laliga
 luis rioja,Left Winger,Alavés,1.76,4000000.0,2023-2024,laliga
@@ -2899,7 +2899,7 @@ pau navarro,Centre-Back,Villarreal,1.85,3000000.0,2024-2025,laliga
 eric bailly,Centre-Back,Villarreal,1.87,2000000.0,2024-2025,laliga
 raul albiol,Centre-Back,Villarreal,1.9,1000000.0,2024-2025,laliga
 antonio espigares,Centre-Back,Villarreal,1.87,500000.0,2024-2025,laliga
-jean butez,Centre-Back,Villarreal,1.88,200000.0,2024-2025,laliga
+dany jean,Centre-Back,Villarreal,1.88,200000.0,2024-2025,laliga
 sergi cardona,Left-Back,Villarreal,1.86,10000000.0,2024-2025,laliga
 alfonso pedraza,Left-Back,Villarreal,1.84,2500000.0,2024-2025,laliga
 juan bernat,Left-Back,Villarreal,1.7,2000000.0,2024-2025,laliga
@@ -2972,7 +2972,7 @@ warren madrigal,Centre-Forward,Valencia,1.85,400000.0,2024-2025,laliga
 alvaro fernandez,Goalkeeper,Sevilla,1.85,2000000.0,2024-2025,laliga
 rjan nyland,Goalkeeper,Sevilla,1.92,900000.0,2024-2025,laliga
 alberto flores,Goalkeeper,Sevilla,1.87,300000.0,2024-2025,laliga
-matias arbol,Goalkeeper,Sevilla,1.84,100000.0,2024-2025,laliga
+matias fernandezpardo,Goalkeeper,Sevilla,1.84,100000.0,2024-2025,laliga
 rafael romero,Goalkeeper,Sevilla,1.9,,2024-2025,laliga
 loic bade,Centre-Back,Sevilla,1.91,25000000.0,2024-2025,laliga
 kike salas,Centre-Back,Sevilla,1.88,8000000.0,2024-2025,laliga
@@ -3305,6 +3305,1613 @@ sergio camello,Centre-Forward,Rayo Vallecano,1.82,3000000.0,2024-2025,laliga
 raul de tomas,Centre-Forward,Rayo Vallecano,1.8,700000.0,2024-2025,laliga
 sergi guardiola,Centre-Forward,Rayo Vallecano,1.85,500000.0,2024-2025,laliga
 etienne etoo,Centre-Forward,Rayo Vallecano,1.91,200000.0,2024-2025,laliga
+gianluigi donnarumma,Goalkeeper,Paris S-G,1.96,45000000.0,2022-2023,ligue-1
+keylor navas,Goalkeeper,Paris S-G,1.85,4000000.0,2022-2023,ligue-1
+sergi,Goalkeeper,Paris S-G,1.96,3000000.0,2022-2023,ligue-1
+lucas,Goalkeeper,Paris S-G,1.87,300000.0,2022-2023,ligue-1
+alexandre letellier,Goalkeeper,Paris S-G,1.93,300000.0,2022-2023,ligue-1
+marquinhos,Centre-Back,Paris S-G,1.83,65000000.0,2022-2023,ligue-1
+presnel kimpembe,Centre-Back,Paris S-G,1.83,28000000.0,2022-2023,ligue-1
+abdou diallo,Centre-Back,Paris S-G,1.86,10000000.0,2022-2023,ligue-1
+danilo pereira,Centre-Back,Paris S-G,1.88,10000000.0,2022-2023,ligue-1
+el chadaille bitshiabu,Centre-Back,Paris S-G,1.96,7000000.0,2022-2023,ligue-1
+sergio ramos,Centre-Back,Paris S-G,1.84,4500000.0,2022-2023,ligue-1
+nehemiah fernandez,Centre-Back,Paris S-G,1.84,250000.0,2022-2023,ligue-1
+nuno mendes,Left-Back,Paris S-G,1.8,65000000.0,2022-2023,ligue-1
+juan bernat,Left-Back,Paris S-G,1.7,10000000.0,2022-2023,ligue-1
+serif nhaga,Left-Back,Paris S-G,1.76,,2022-2023,ligue-1
+achraf hakimi,Right-Back,Paris S-G,1.81,65000000.0,2022-2023,ligue-1
+nordi mukiele,Right-Back,Paris S-G,1.87,18000000.0,2022-2023,ligue-1
+timothee pembele,Right-Back,Paris S-G,1.83,5000000.0,2022-2023,ligue-1
+hugo guillamon,Right-Back,Paris S-G,1.78,250000.0,2022-2023,ligue-1
+leandro paredes,Defensive Midfield,Paris S-G,1.8,12000000.0,2022-2023,ligue-1
+idrissa gana gueye,Defensive Midfield,Paris S-G,1.74,5000000.0,2022-2023,ligue-1
+vitinha,Central Midfield,Paris S-G,1.72,42000000.0,2022-2023,ligue-1
+marco verratti,Central Midfield,Paris S-G,1.65,40000000.0,2022-2023,ligue-1
+fabian ruiz pena,Central Midfield,Paris S-G,1.89,32000000.0,2022-2023,ligue-1
+carlos soler,Central Midfield,Paris S-G,1.8,25000000.0,2022-2023,ligue-1
+warren zaireemery,Central Midfield,Paris S-G,1.78,20000000.0,2022-2023,ligue-1
+renato sanches,Central Midfield,Paris S-G,1.76,15000000.0,2022-2023,ligue-1
+ayman kari,Central Midfield,Paris S-G,1.76,1000000.0,2022-2023,ligue-1
+neymar,Attacking Midfield,Paris S-G,1.75,60000000.0,2022-2023,ligue-1
+ismael gharbi,Left Winger,Paris S-G,1.73,5000000.0,2022-2023,ligue-1
+lionel messi,Right Winger,Paris S-G,1.7,35000000.0,2022-2023,ligue-1
+pablo sarabia,Right Winger,Paris S-G,1.74,14000000.0,2022-2023,ligue-1
+kylian mbappe,Centre-Forward,Paris S-G,1.78,180000000.0,2022-2023,ligue-1
+arnaud kalimuendo,Centre-Forward,Paris S-G,1.75,22000000.0,2022-2023,ligue-1
+hugo ekitike,Centre-Forward,Paris S-G,1.9,20000000.0,2022-2023,ligue-1
+mauro icardi,Centre-Forward,Paris S-G,1.81,19000000.0,2022-2023,ligue-1
+ilyes housni,Centre-Forward,Paris S-G,1.72,3500000.0,2022-2023,ligue-1
+dogan alemdar,Goalkeeper,Stade Rennais FC,1.92,4000000.0,2022-2023,ligue-1
+steve mandanda,Goalkeeper,Stade Rennais FC,1.87,1000000.0,2022-2023,ligue-1
+elias damergy,Goalkeeper,Stade Rennais FC,1.86,150000.0,2022-2023,ligue-1
+romain del castillo,Goalkeeper,Stade Rennais FC,1.86,150000.0,2022-2023,ligue-1
+arthur theate,Centre-Back,Stade Rennais FC,1.85,22000000.0,2022-2023,ligue-1
+loic bade,Centre-Back,Stade Rennais FC,1.91,12000000.0,2022-2023,ligue-1
+warmed omari,Centre-Back,Stade Rennais FC,1.88,9000000.0,2022-2023,ligue-1
+joe rodon,Centre-Back,Stade Rennais FC,1.93,7000000.0,2022-2023,ligue-1
+jeanuel belocian,Centre-Back,Stade Rennais FC,1.86,7000000.0,2022-2023,ligue-1
+christopher wooh,Centre-Back,Stade Rennais FC,1.91,6000000.0,2022-2023,ligue-1
+jeremy jacquet,Centre-Back,Stade Rennais FC,1.9,50000.0,2022-2023,ligue-1
+adrien truffert,Left-Back,Stade Rennais FC,1.76,18000000.0,2022-2023,ligue-1
+djed spence,Left-Back,Stade Rennais FC,1.84,10000000.0,2022-2023,ligue-1
+birger meling,Left-Back,Stade Rennais FC,1.73,5000000.0,2022-2023,ligue-1
+leo skiri stigard,Left-Back,Stade Rennais FC,1.76,50000.0,2022-2023,ligue-1
+hamari traore,Right-Back,Stade Rennais FC,1.75,10000000.0,2022-2023,ligue-1
+lorenz assignon,Right-Back,Stade Rennais FC,1.81,5000000.0,2022-2023,ligue-1
+guela doue,Right-Back,Stade Rennais FC,1.87,300000.0,2022-2023,ligue-1
+baptiste santamaria,Defensive Midfield,Stade Rennais FC,1.83,14000000.0,2022-2023,ligue-1
+lesley ugochukwu,Defensive Midfield,Stade Rennais FC,1.9,9000000.0,2022-2023,ligue-1
+fran,Defensive Midfield,Stade Rennais FC,1.78,350000.0,2022-2023,ligue-1
+benjamin bourigeaud,Central Midfield,Stade Rennais FC,1.78,18000000.0,2022-2023,ligue-1
+flavien tait,Central Midfield,Stade Rennais FC,1.76,6000000.0,2022-2023,ligue-1
+xeka,Central Midfield,Stade Rennais FC,1.85,6000000.0,2022-2023,ligue-1
+gabriel osei misehouy,Right Midfield,Stade Rennais FC,1.78,50000.0,2022-2023,ligue-1
+lovro majer,Attacking Midfield,Stade Rennais FC,1.78,20000000.0,2022-2023,ligue-1
+martin terrier,Left Winger,Stade Rennais FC,1.84,30000000.0,2022-2023,ligue-1
+jeremy doku,Left Winger,Stade Rennais FC,1.73,28000000.0,2022-2023,ligue-1
+kamaldeen sulemana,Left Winger,Stade Rennais FC,1.75,22000000.0,2022-2023,ligue-1
+ibrahim salah,Left Winger,Stade Rennais FC,1.86,3000000.0,2022-2023,ligue-1
+desire doue,Right Winger,Stade Rennais FC,1.81,15000000.0,2022-2023,ligue-1
+amine gouiri,Centre-Forward,Stade Rennais FC,1.81,35000000.0,2022-2023,ligue-1
+arnaud kalimuendo,Centre-Forward,Stade Rennais FC,1.75,22000000.0,2022-2023,ligue-1
+gaetan laborde,Centre-Forward,Stade Rennais FC,1.81,16000000.0,2022-2023,ligue-1
+serhou guirassy,Centre-Forward,Stade Rennais FC,1.87,14000000.0,2022-2023,ligue-1
+karl toko ekambi,Centre-Forward,Stade Rennais FC,1.82,8000000.0,2022-2023,ligue-1
+matthis abline,Centre-Forward,Stade Rennais FC,1.82,4500000.0,2022-2023,ligue-1
+alan do marcolino,Centre-Forward,Stade Rennais FC,1.94,150000.0,2022-2023,ligue-1
+alexander nubel,Goalkeeper,Monaco,1.93,8000000.0,2022-2023,ligue-1
+thomas dahne,Goalkeeper,Monaco,1.93,1000000.0,2022-2023,ligue-1
+yann aurel bisseck,Goalkeeper,Monaco,1.94,200000.0,2022-2023,ligue-1
+benoit badiashile,Centre-Back,Monaco,1.94,40000000.0,2022-2023,ligue-1
+axel disasi,Centre-Back,Monaco,1.91,30000000.0,2022-2023,ligue-1
+guillermo maripan,Centre-Back,Monaco,1.93,10000000.0,2022-2023,ligue-1
+malang sarr,Centre-Back,Monaco,1.83,6000000.0,2022-2023,ligue-1
+chrislain matsima,Centre-Back,Monaco,1.93,6000000.0,2022-2023,ligue-1
+yllan okou,Centre-Back,Monaco,1.89,300000.0,2022-2023,ligue-1
+henrique,Left-Back,Monaco,1.78,20000000.0,2022-2023,ligue-1
+ismail jakobs,Left-Back,Monaco,1.84,6000000.0,2022-2023,ligue-1
+vanderson,Right-Back,Monaco,1.73,20000000.0,2022-2023,ligue-1
+ruben aguilar,Right-Back,Monaco,1.72,7000000.0,2022-2023,ligue-1
+nazim babai,Right-Back,Monaco,1.71,,2022-2023,ligue-1
+mohamed camara,Defensive Midfield,Monaco,1.73,30000000.0,2022-2023,ligue-1
+youssouf fofana,Defensive Midfield,Monaco,1.85,25000000.0,2022-2023,ligue-1
+soungoutou magassa,Defensive Midfield,Monaco,1.9,800000.0,2022-2023,ligue-1
+eliot matazo,Central Midfield,Monaco,1.7,7000000.0,2022-2023,ligue-1
+jean lucas,Central Midfield,Monaco,1.81,5000000.0,2022-2023,ligue-1
+edan diop,Central Midfield,Monaco,1.85,2000000.0,2022-2023,ligue-1
+aleksandr golovin,Attacking Midfield,Monaco,1.78,28000000.0,2022-2023,ligue-1
+kevin volland,Attacking Midfield,Monaco,1.79,8000000.0,2022-2023,ligue-1
+felix lemarechal,Attacking Midfield,Monaco,1.8,1000000.0,2022-2023,ligue-1
+eliesse ben seghir,Left Winger,Monaco,1.78,18000000.0,2022-2023,ligue-1
+sofiane diop,Left Winger,Monaco,1.75,15000000.0,2022-2023,ligue-1
+takumi minamino,Left Winger,Monaco,1.72,6000000.0,2022-2023,ligue-1
+krepin diatta,Right Winger,Monaco,1.75,15000000.0,2022-2023,ligue-1
+maghnes akliouche,Right Winger,Monaco,1.83,6000000.0,2022-2023,ligue-1
+gelson martins,Right Winger,Monaco,1.73,5000000.0,2022-2023,ligue-1
+breel embolo,Centre-Forward,Monaco,1.87,20000000.0,2022-2023,ligue-1
+wissam ben yedder,Centre-Forward,Monaco,1.7,15000000.0,2022-2023,ligue-1
+myron boadu,Centre-Forward,Monaco,1.81,7000000.0,2022-2023,ligue-1
+anthony lopes,Goalkeeper,Lyon,1.84,8000000.0,2022-2023,ligue-1
+remy riou,Goalkeeper,Lyon,1.91,400000.0,2022-2023,ligue-1
+kayne bonnevie,Goalkeeper,Lyon,1.91,200000.0,2022-2023,ligue-1
+castello lukeba,Centre-Back,Lyon,1.84,25000000.0,2022-2023,ligue-1
+sinaly diomande,Centre-Back,Lyon,1.84,9000000.0,2022-2023,ligue-1
+dejan lovren,Centre-Back,Lyon,1.88,2500000.0,2022-2023,ligue-1
+mamadou sarr,Centre-Back,Lyon,1.94,1000000.0,2022-2023,ligue-1
+jerome boateng,Centre-Back,Lyon,1.92,800000.0,2022-2023,ligue-1
+damien da silva,Centre-Back,Lyon,1.84,500000.0,2022-2023,ligue-1
+nicolas tagliafico,Left-Back,Lyon,1.71,9000000.0,2022-2023,ligue-1
+henrique,Left-Back,Lyon,1.73,1000000.0,2022-2023,ligue-1
+achraf laaziri,Left-Back,Lyon,1.77,250000.0,2022-2023,ligue-1
+malo gusto,Right-Back,Lyon,1.78,25000000.0,2022-2023,ligue-1
+sael kumbedi,Right-Back,Lyon,1.75,12000000.0,2022-2023,ligue-1
+johann lepenant,Defensive Midfield,Lyon,1.76,10000000.0,2022-2023,ligue-1
+thiago mendes,Defensive Midfield,Lyon,1.77,5000000.0,2022-2023,ligue-1
+maxence caqueret,Central Midfield,Lyon,1.74,25000000.0,2022-2023,ligue-1
+corentin tolisso,Central Midfield,Lyon,1.81,14000000.0,2022-2023,ligue-1
+mohamed el arouch,Central Midfield,Lyon,1.66,2000000.0,2022-2023,ligue-1
+romain faivre,Right Midfield,Lyon,1.8,10000000.0,2022-2023,ligue-1
+lucas paqueta,Attacking Midfield,Lyon,1.8,45000000.0,2022-2023,ligue-1
+houssem aouar,Attacking Midfield,Lyon,1.75,13000000.0,2022-2023,ligue-1
+jeff reineadelaide,Attacking Midfield,Lyon,1.84,5000000.0,2022-2023,ligue-1
+djibrail dib,Attacking Midfield,Lyon,1.75,150000.0,2022-2023,ligue-1
+bradley barcola,Left Winger,Lyon,1.82,18000000.0,2022-2023,ligue-1
+jeffinho,Left Winger,Lyon,1.76,8000000.0,2022-2023,ligue-1
+rayan cherki,Right Winger,Lyon,1.77,30000000.0,2022-2023,ligue-1
+tete,Right Winger,Lyon,1.75,25000000.0,2022-2023,ligue-1
+alexandre lacazette,Centre-Forward,Lyon,1.75,14000000.0,2022-2023,ligue-1
+moussa dembele,Centre-Forward,Lyon,1.87,12000000.0,2022-2023,ligue-1
+karl toko ekambi,Centre-Forward,Lyon,1.82,8000000.0,2022-2023,ligue-1
+amin sarr,Centre-Forward,Lyon,1.88,8000000.0,2022-2023,ligue-1
+tino kadewere,Centre-Forward,Lyon,1.83,4000000.0,2022-2023,ligue-1
+sekou lega,Centre-Forward,Lyon,1.92,150000.0,2022-2023,ligue-1
+pau lopez,Goalkeeper,Marseille,1.89,14000000.0,2022-2023,ligue-1
+ruben blanco,Goalkeeper,Marseille,1.88,4000000.0,2022-2023,ligue-1
+simo,Goalkeeper,Marseille,1.86,400000.0,2022-2023,ligue-1
+chancel mbemba,Centre-Back,Marseille,1.82,20000000.0,2022-2023,ligue-1
+duje caletacar,Centre-Back,Marseille,1.93,11000000.0,2022-2023,ligue-1
+samuel gigot,Centre-Back,Marseille,1.87,10000000.0,2022-2023,ligue-1
+leonardo balerdi,Centre-Back,Marseille,1.87,10000000.0,2022-2023,ligue-1
+sead kolasinac,Centre-Back,Marseille,1.83,8000000.0,2022-2023,ligue-1
+isaak toure,Centre-Back,Marseille,2.06,6000000.0,2022-2023,ligue-1
+eric bailly,Centre-Back,Marseille,1.87,5000000.0,2022-2023,ligue-1
+wesley said,Centre-Back,Marseille,1.84,150000.0,2022-2023,ligue-1
+nuno tavares,Left-Back,Marseille,1.83,18000000.0,2022-2023,ligue-1
+emran soglo,Left-Back,Marseille,1.78,,2022-2023,ligue-1
+jonathan clauss,Right-Back,Marseille,1.78,14000000.0,2022-2023,ligue-1
+issa kabore,Right-Back,Marseille,1.8,7000000.0,2022-2023,ligue-1
+pol lirola,Right-Back,Marseille,1.83,2000000.0,2022-2023,ligue-1
+pape gueye,Defensive Midfield,Marseille,1.89,10000000.0,2022-2023,ligue-1
+bartug elmaz,Defensive Midfield,Marseille,1.79,300000.0,2022-2023,ligue-1
+raimane daou,Defensive Midfield,Marseille,1.82,,2022-2023,ligue-1
+matteo guendouzi,Central Midfield,Marseille,1.85,25000000.0,2022-2023,ligue-1
+valentin rongier,Central Midfield,Marseille,1.73,22000000.0,2022-2023,ligue-1
+gerson,Central Midfield,Marseille,1.84,16000000.0,2022-2023,ligue-1
+jordan veretout,Central Midfield,Marseille,1.77,16000000.0,2022-2023,ligue-1
+azzedine ounahi,Central Midfield,Marseille,1.82,12000000.0,2022-2023,ligue-1
+esey gebreyesus,Right Midfield,Marseille,1.82,100000.0,2022-2023,ligue-1
+ruslan malinovskyi,Attacking Midfield,Marseille,1.81,15000000.0,2022-2023,ligue-1
+amine harit,Attacking Midfield,Marseille,1.8,12000000.0,2022-2023,ligue-1
+dimitri payet,Attacking Midfield,Marseille,1.75,1800000.0,2022-2023,ligue-1
+salim ben seghir,Left Winger,Marseille,1.77,500000.0,2022-2023,ligue-1
+cengiz under,Right Winger,Marseille,1.73,20000000.0,2022-2023,ligue-1
+francois mughe,Right Winger,Marseille,1.73,300000.0,2022-2023,ligue-1
+vitinha,Centre-Forward,Marseille,1.78,18000000.0,2022-2023,ligue-1
+arkadiusz milik,Centre-Forward,Marseille,1.86,8000000.0,2022-2023,ligue-1
+luis javier suarez,Centre-Forward,Marseille,1.81,8000000.0,2022-2023,ligue-1
+bamba dieng,Centre-Forward,Marseille,1.78,8000000.0,2022-2023,ligue-1
+cedric bakambu,Centre-Forward,Marseille,1.82,5000000.0,2022-2023,ligue-1
+alexis sanchez,Centre-Forward,Marseille,1.69,4000000.0,2022-2023,ligue-1
+kasper schmeichel,Goalkeeper,Nice,1.89,2000000.0,2022-2023,ligue-1
+marcin buka,Goalkeeper,Nice,1.99,2000000.0,2022-2023,ligue-1
+teddy boulhendi,Goalkeeper,Nice,1.85,150000.0,2022-2023,ligue-1
+enzo garrido,Goalkeeper,Nice,1.84,,2022-2023,ligue-1
+jeanclair todibo,Centre-Back,Nice,1.9,30000000.0,2022-2023,ligue-1
+youssouf ndayishimiye,Centre-Back,Nice,1.83,12000000.0,2022-2023,ligue-1
+flavius daniliuc,Centre-Back,Nice,1.88,8000000.0,2022-2023,ligue-1
+mattia viti,Centre-Back,Nice,1.9,7000000.0,2022-2023,ligue-1
+mads bech srensen,Centre-Back,Nice,1.89,2500000.0,2022-2023,ligue-1
+dante,Centre-Back,Nice,1.88,600000.0,2022-2023,ligue-1
+yannis nahounou,Centre-Back,Nice,1.93,150000.0,2022-2023,ligue-1
+melvin bard,Left-Back,Nice,1.73,7000000.0,2022-2023,ligue-1
+ayoub amraoui,Left-Back,Nice,1.84,2500000.0,2022-2023,ligue-1
+joe bryan,Left-Back,Nice,1.7,2200000.0,2022-2023,ligue-1
+jordan lotomba,Right-Back,Nice,1.77,8000000.0,2022-2023,ligue-1
+youcef atal,Right-Back,Nice,1.76,7000000.0,2022-2023,ligue-1
+antoine mendy,Right-Back,Nice,1.87,1000000.0,2022-2023,ligue-1
+mario lemina,Defensive Midfield,Nice,1.84,10000000.0,2022-2023,ligue-1
+pablo rosario,Defensive Midfield,Nice,1.85,6000000.0,2022-2023,ligue-1
+alexis beka beka,Defensive Midfield,Nice,1.78,4500000.0,2022-2023,ligue-1
+reda belahyane,Defensive Midfield,Nice,1.73,300000.0,2022-2023,ligue-1
+theo trinker,Defensive Midfield,Nice,1.67,100000.0,2022-2023,ligue-1
+khephren thuram,Central Midfield,Nice,1.92,40000000.0,2022-2023,ligue-1
+hicham boudaoui,Central Midfield,Nice,1.75,8000000.0,2022-2023,ligue-1
+ross barkley,Central Midfield,Nice,1.89,6000000.0,2022-2023,ligue-1
+aaron ramsey,Central Midfield,Nice,1.78,2500000.0,2022-2023,ligue-1
+soudeysse kari,Central Midfield,Nice,1.75,100000.0,2022-2023,ligue-1
+daouda traore,Central Midfield,Nice,1.88,100000.0,2022-2023,ligue-1
+tom louchet,Right Midfield,Nice,1.78,100000.0,2022-2023,ligue-1
+calvin stengs,Attacking Midfield,Nice,1.87,10000000.0,2022-2023,ligue-1
+alexis claudemaurice,Attacking Midfield,Nice,1.76,4500000.0,2022-2023,ligue-1
+rares ilie,Attacking Midfield,Nice,1.86,2500000.0,2022-2023,ligue-1
+andrea dacourt,Attacking Midfield,Nice,1.84,,2022-2023,ligue-1
+sofiane diop,Left Winger,Nice,1.75,15000000.0,2022-2023,ligue-1
+bilal brahimi,Left Winger,Nice,1.83,7000000.0,2022-2023,ligue-1
+nicolas pepe,Right Winger,Nice,1.83,18000000.0,2022-2023,ligue-1
+badredine bouanani,Right Winger,Nice,1.77,6000000.0,2022-2023,ligue-1
+amine gouiri,Centre-Forward,Nice,1.81,35000000.0,2022-2023,ligue-1
+terem moffi,Centre-Forward,Nice,1.88,20000000.0,2022-2023,ligue-1
+gaetan laborde,Centre-Forward,Nice,1.81,16000000.0,2022-2023,ligue-1
+andy delort,Centre-Forward,Nice,1.81,7000000.0,2022-2023,ligue-1
+lucas chevalier,Goalkeeper,Lille,1.89,10000000.0,2022-2023,ligue-1
+leo jardim,Goalkeeper,Lille,1.88,3000000.0,2022-2023,ligue-1
+benoit costil,Goalkeeper,Lille,1.88,1000000.0,2022-2023,ligue-1
+adam jakubech,Goalkeeper,Lille,1.88,300000.0,2022-2023,ligue-1
+tom negrel,Goalkeeper,Lille,1.92,50000.0,2022-2023,ligue-1
+tiago djalo,Centre-Back,Lille,1.9,16000000.0,2022-2023,ligue-1
+leny yoro,Centre-Back,Lille,1.9,10000000.0,2022-2023,ligue-1
+bafode diakite,Centre-Back,Lille,1.84,10000000.0,2022-2023,ligue-1
+alex sandro,Centre-Back,Lille,1.91,5000000.0,2022-2023,ligue-1
+jose fonte,Centre-Back,Lille,1.91,600000.0,2022-2023,ligue-1
+abdoulaye ousmane,Centre-Back,Lille,1.83,50000.0,2022-2023,ligue-1
+gabriel gudmundsson,Left-Back,Lille,1.8,4500000.0,2022-2023,ligue-1
+ismaily,Left-Back,Lille,1.77,2500000.0,2022-2023,ligue-1
+akim zedadka,Right-Back,Lille,1.74,2500000.0,2022-2023,ligue-1
+simon ramet,Right-Back,Lille,1.7,150000.0,2022-2023,ligue-1
+benjamin andre,Defensive Midfield,Lille,1.8,9000000.0,2022-2023,ligue-1
+carlos baleba,Defensive Midfield,Lille,1.79,5000000.0,2022-2023,ligue-1
+jonas martin,Defensive Midfield,Lille,1.84,1500000.0,2022-2023,ligue-1
+andre gomes,Central Midfield,Lille,1.9,16000000.0,2022-2023,ligue-1
+angel gomes,Attacking Midfield,Lille,1.68,16000000.0,2022-2023,ligue-1
+yusuf yazc,Attacking Midfield,Lille,1.83,9000000.0,2022-2023,ligue-1
+remy cabella,Attacking Midfield,Lille,1.72,5000000.0,2022-2023,ligue-1
+matteo makhabe,Attacking Midfield,Lille,1.7,100000.0,2022-2023,ligue-1
+jonathan bamba,Left Winger,Lille,1.75,20000000.0,2022-2023,ligue-1
+alan virginius,Left Winger,Lille,1.8,4000000.0,2022-2023,ligue-1
+timothy weah,Right Winger,Lille,1.83,14000000.0,2022-2023,ligue-1
+edon zhegrova,Right Winger,Lille,1.8,8000000.0,2022-2023,ligue-1
+adam ounas,Right Winger,Lille,1.72,7000000.0,2022-2023,ligue-1
+isaac palazon camacho,Right Winger,Lille,1.77,1200000.0,2022-2023,ligue-1
+ichem ferrah,Right Winger,Lille,1.71,100000.0,2022-2023,ligue-1
+jonathan david,Centre-Forward,Lille,1.78,60000000.0,2022-2023,ligue-1
+mohamed lamine bayo,Centre-Forward,Lille,1.87,6000000.0,2022-2023,ligue-1
+amine messoussa,Centre-Forward,Lille,1.8,400000.0,2022-2023,ligue-1
+brice samba,Goalkeeper,Lens,1.87,13000000.0,2022-2023,ligue-1
+wuilker farinez,Goalkeeper,Lens,1.8,3500000.0,2022-2023,ligue-1
+jeanlouis leca,Goalkeeper,Lens,1.8,200000.0,2022-2023,ligue-1
+yannick pandor,Goalkeeper,Lens,1.92,150000.0,2022-2023,ligue-1
+kevin danso,Centre-Back,Lens,1.9,22000000.0,2022-2023,ligue-1
+facundo medina,Centre-Back,Lens,1.84,22000000.0,2022-2023,ligue-1
+christopher wooh,Centre-Back,Lens,1.91,6000000.0,2022-2023,ligue-1
+jonathan gradit,Centre-Back,Lens,1.8,5000000.0,2022-2023,ligue-1
+julien le cardinal,Centre-Back,Lens,1.84,2000000.0,2022-2023,ligue-1
+steven fortes,Centre-Back,Lens,1.92,400000.0,2022-2023,ligue-1
+ismaelo ganiou,Centre-Back,Lens,1.85,50000.0,2022-2023,ligue-1
+deiver machado,Left-Back,Lens,1.8,4000000.0,2022-2023,ligue-1
+massadio haidara,Left-Back,Lens,1.79,3000000.0,2022-2023,ligue-1
+ismael boura,Left-Back,Lens,1.73,1000000.0,2022-2023,ligue-1
+przemysaw frankowski,Right-Back,Lens,1.75,9000000.0,2022-2023,ligue-1
+salis abdul samed,Defensive Midfield,Lens,1.79,18000000.0,2022-2023,ligue-1
+jean onana,Defensive Midfield,Lens,1.89,6000000.0,2022-2023,ligue-1
+patrick berg,Defensive Midfield,Lens,1.77,4500000.0,2022-2023,ligue-1
+yacouba barry,Defensive Midfield,Lens,1.88,100000.0,2022-2023,ligue-1
+adrien louveau,Defensive Midfield,Lens,1.9,100000.0,2022-2023,ligue-1
+fode ballotoure,Defensive Midfield,Lens,1.89,,2022-2023,ligue-1
+seko fofana,Central Midfield,Lens,1.85,32000000.0,2022-2023,ligue-1
+ukasz poreba,Central Midfield,Lens,1.79,2000000.0,2022-2023,ligue-1
+mamadou camara,Central Midfield,Lens,1.83,250000.0,2022-2023,ligue-1
+yahia fofana,Central Midfield,Lens,1.8,150000.0,2022-2023,ligue-1
+jimmy cabot,Right Midfield,Lens,1.64,3500000.0,2022-2023,ligue-1
+angelo fulgini,Attacking Midfield,Lens,1.82,9000000.0,2022-2023,ligue-1
+david costa,Attacking Midfield,Lens,1.68,8000000.0,2022-2023,ligue-1
+adrien thomasson,Attacking Midfield,Lens,1.75,6000000.0,2022-2023,ligue-1
+alexis claudemaurice,Attacking Midfield,Lens,1.76,4500000.0,2022-2023,ligue-1
+gael kakuta,Attacking Midfield,Lens,1.73,1800000.0,2022-2023,ligue-1
+nolan bonte,Attacking Midfield,Lens,1.75,100000.0,2022-2023,ligue-1
+lois openda,Centre-Forward,Lens,1.77,35000000.0,2022-2023,ligue-1
+adam buksa,Centre-Forward,Lens,1.91,5000000.0,2022-2023,ligue-1
+ignatius ganago,Centre-Forward,Lens,1.76,4000000.0,2022-2023,ligue-1
+florian sotoca,Centre-Forward,Lens,1.87,4000000.0,2022-2023,ligue-1
+wesley said,Centre-Forward,Lens,1.71,2000000.0,2022-2023,ligue-1
+remy labeau lascary,Centre-Forward,Lens,1.84,500000.0,2022-2023,ligue-1
+ibrahima balde,Centre-Forward,Lens,1.85,400000.0,2022-2023,ligue-1
+yvon mvogo,Goalkeeper,Lorient,1.9,3500000.0,2022-2023,ligue-1
+rodrigo de paul,Goalkeeper,Lorient,1.88,3000000.0,2022-2023,ligue-1
+julian weigl,Goalkeeper,Lorient,1.95,500000.0,2022-2023,ligue-1
+vito mannone,Goalkeeper,Lorient,1.88,300000.0,2022-2023,ligue-1
+teddy teuma,Goalkeeper,Lorient,1.78,150000.0,2022-2023,ligue-1
+montassar talbi,Centre-Back,Lorient,1.9,8000000.0,2022-2023,ligue-1
+chrislain matsima,Centre-Back,Lorient,1.93,6000000.0,2022-2023,ligue-1
+julien laporte,Centre-Back,Lorient,1.85,2500000.0,2022-2023,ligue-1
+bamo meite,Centre-Back,Lorient,1.84,2500000.0,2022-2023,ligue-1
+loris mouyokolo,Centre-Back,Lorient,1.94,500000.0,2022-2023,ligue-1
+maxime wackers,Centre-Back,Lorient,1.84,150000.0,2022-2023,ligue-1
+aurelien pelon,Centre-Back,Lorient,1.86,50000.0,2022-2023,ligue-1
+darlin yongwa,Left-Back,Lorient,1.77,1200000.0,2022-2023,ligue-1
+vincent le goff,Left-Back,Lorient,1.77,1000000.0,2022-2023,ligue-1
+leo petrot,Left-Back,Lorient,1.88,900000.0,2022-2023,ligue-1
+samuel moutoussamy,Left-Back,Lorient,1.83,500000.0,2022-2023,ligue-1
+gedeon kalulu,Right-Back,Lorient,1.79,5000000.0,2022-2023,ligue-1
+igor,Right-Back,Lorient,1.73,1500000.0,2022-2023,ligue-1
+jan paul van hecke,Right-Back,Lorient,1.85,,2022-2023,ligue-1
+laurent abergel,Defensive Midfield,Lorient,1.7,3000000.0,2022-2023,ligue-1
+bonke innocent,Defensive Midfield,Lorient,1.78,2000000.0,2022-2023,ligue-1
+enzo le fee,Central Midfield,Lorient,1.73,20000000.0,2022-2023,ligue-1
+jeanvictor makengo,Central Midfield,Lorient,1.77,10000000.0,2022-2023,ligue-1
+quentin boisgard,Central Midfield,Lorient,1.74,1000000.0,2022-2023,ligue-1
+ayman kari,Central Midfield,Lorient,1.76,1000000.0,2022-2023,ligue-1
+jan paul van hecke,Central Midfield,Lorient,1.75,100000.0,2022-2023,ligue-1
+romain faivre,Right Midfield,Lorient,1.8,10000000.0,2022-2023,ligue-1
+theo le bris,Left Midfield,Lorient,1.7,3000000.0,2022-2023,ligue-1
+julien ponceau,Attacking Midfield,Lorient,1.7,2500000.0,2022-2023,ligue-1
+adil aouchiche,Attacking Midfield,Lorient,1.81,2200000.0,2022-2023,ligue-1
+dango ouattara,Left Winger,Lorient,1.77,25000000.0,2022-2023,ligue-1
+armand lauriente,Left Winger,Lorient,1.71,18000000.0,2022-2023,ligue-1
+yoann cathline,Left Winger,Lorient,1.76,2000000.0,2022-2023,ligue-1
+erwan colas,Left Winger,Lorient,1.79,,2022-2023,ligue-1
+stephane diarra,Right Winger,Lorient,1.73,2500000.0,2022-2023,ligue-1
+terem moffi,Centre-Forward,Lorient,1.88,20000000.0,2022-2023,ligue-1
+bamba dieng,Centre-Forward,Lorient,1.78,8000000.0,2022-2023,ligue-1
+ibrahima kone,Centre-Forward,Lorient,1.9,4000000.0,2022-2023,ligue-1
+adrian grbic,Centre-Forward,Lorient,1.88,1500000.0,2022-2023,ligue-1
+pablo pagis,Centre-Forward,Lorient,1.8,1500000.0,2022-2023,ligue-1
+sirine doucoure,Centre-Forward,Lorient,1.95,500000.0,2022-2023,ligue-1
+eli junior kroupi,Centre-Forward,Lorient,1.79,400000.0,2022-2023,ligue-1
+alban lafont,Goalkeeper,Nantes,1.96,16000000.0,2022-2023,ligue-1
+remy descamps,Goalkeeper,Nantes,1.96,700000.0,2022-2023,ligue-1
+denis petric,Goalkeeper,Nantes,1.86,150000.0,2022-2023,ligue-1
+joao victor,Centre-Back,Nantes,1.87,7000000.0,2022-2023,ligue-1
+andrei girotto,Centre-Back,Nantes,1.86,4000000.0,2022-2023,ligue-1
+jeancharles castelletto,Centre-Back,Nantes,1.86,3500000.0,2022-2023,ligue-1
+nicolas pallois,Centre-Back,Nantes,1.89,900000.0,2022-2023,ligue-1
+nathan zeze,Centre-Back,Nantes,1.9,400000.0,2022-2023,ligue-1
+robin voisine,Centre-Back,Nantes,1.88,150000.0,2022-2023,ligue-1
+junior dina ebimbe,Centre-Back,Nantes,1.93,100000.0,2022-2023,ligue-1
+quentin merlin,Left-Back,Nantes,1.74,7000000.0,2022-2023,ligue-1
+jaouen hadjam,Left-Back,Nantes,1.85,2000000.0,2022-2023,ligue-1
+charles traore,Left-Back,Nantes,1.8,600000.0,2022-2023,ligue-1
+fabien centonze,Right-Back,Nantes,1.82,4000000.0,2022-2023,ligue-1
+dennis appiah,Right-Back,Nantes,1.79,1500000.0,2022-2023,ligue-1
+fabio,Right-Back,Nantes,1.72,1200000.0,2022-2023,ligue-1
+sebastien corchia,Right-Back,Nantes,1.76,1000000.0,2022-2023,ligue-1
+mathieu acapandie,Right-Back,Nantes,1.82,,2022-2023,ligue-1
+pedro chirivella,Defensive Midfield,Nantes,1.78,6000000.0,2022-2023,ligue-1
+lohann doucet,Defensive Midfield,Nantes,1.8,700000.0,2022-2023,ligue-1
+samuel moutoussamy,Central Midfield,Nantes,1.76,5000000.0,2022-2023,ligue-1
+moussa sissoko,Central Midfield,Nantes,1.87,2500000.0,2022-2023,ligue-1
+mohamed achi,Central Midfield,Nantes,1.81,300000.0,2022-2023,ligue-1
+florent mollet,Attacking Midfield,Nantes,1.75,2000000.0,2022-2023,ligue-1
+gor manvelyan,Attacking Midfield,Nantes,1.8,400000.0,2022-2023,ligue-1
+iago,Attacking Midfield,Nantes,1.83,150000.0,2022-2023,ligue-1
+samuel bamba,Attacking Midfield,Nantes,1.71,150000.0,2022-2023,ligue-1
+moses simon,Left Winger,Nantes,1.68,8000000.0,2022-2023,ligue-1
+marcus coco,Left Winger,Nantes,1.84,1200000.0,2022-2023,ligue-1
+ludovic blas,Right Winger,Nantes,1.8,20000000.0,2022-2023,ligue-1
+abdoul kader bamba,Right Winger,Nantes,1.77,900000.0,2022-2023,ligue-1
+stredair appuah,Right Winger,Nantes,1.85,150000.0,2022-2023,ligue-1
+andy delort,Centre-Forward,Nantes,1.81,7000000.0,2022-2023,ligue-1
+mostafa mohamed,Centre-Forward,Nantes,1.85,6000000.0,2022-2023,ligue-1
+evann guessand,Centre-Forward,Nantes,1.88,4500000.0,2022-2023,ligue-1
+ignatius ganago,Centre-Forward,Nantes,1.76,4000000.0,2022-2023,ligue-1
+joeloic affamah,Centre-Forward,Nantes,1.75,125000.0,2022-2023,ligue-1
+maxime dupe,Goalkeeper,Toulouse,1.88,2500000.0,2022-2023,ligue-1
+kjetil haug,Goalkeeper,Toulouse,1.87,400000.0,2022-2023,ligue-1
+thomas himeur,Goalkeeper,Toulouse,1.92,150000.0,2022-2023,ligue-1
+guillaume restes,Goalkeeper,Toulouse,1.88,,2022-2023,ligue-1
+anthony rouault,Centre-Back,Toulouse,1.86,10000000.0,2022-2023,ligue-1
+rasmus nicolaisen,Centre-Back,Toulouse,1.91,6000000.0,2022-2023,ligue-1
+logan costa,Centre-Back,Toulouse,1.9,1200000.0,2022-2023,ligue-1
+moussa diarra,Centre-Back,Toulouse,1.85,800000.0,2022-2023,ligue-1
+kevin keben biakolo,Centre-Back,Toulouse,1.87,400000.0,2022-2023,ligue-1
+christian mawissa,Centre-Back,Toulouse,1.84,250000.0,2022-2023,ligue-1
+issiaga sylla,Left-Back,Toulouse,1.8,2500000.0,2022-2023,ligue-1
+gabriel suazo,Left-Back,Toulouse,1.78,2500000.0,2022-2023,ligue-1
+oliver zanden,Left-Back,Toulouse,1.83,1000000.0,2022-2023,ligue-1
+ylies aradj,Left-Back,Toulouse,1.79,50000.0,2022-2023,ligue-1
+mikkel desler,Right-Back,Toulouse,1.84,2500000.0,2022-2023,ligue-1
+warren kamanzi,Right-Back,Toulouse,1.77,1200000.0,2022-2023,ligue-1
+branco van den boomen,Central Midfield,Toulouse,1.88,12000000.0,2022-2023,ligue-1
+stijn spierings,Central Midfield,Toulouse,1.88,6000000.0,2022-2023,ligue-1
+brecht dejaegere,Central Midfield,Toulouse,1.73,1800000.0,2022-2023,ligue-1
+vincent sierro,Central Midfield,Toulouse,1.85,1500000.0,2022-2023,ligue-1
+theocharis tsingaras,Central Midfield,Toulouse,1.75,1200000.0,2022-2023,ligue-1
+steve mounie,Central Midfield,Toulouse,1.85,400000.0,2022-2023,ligue-1
+fares chaibi,Attacking Midfield,Toulouse,1.83,10000000.0,2022-2023,ligue-1
+denis genreau,Attacking Midfield,Toulouse,1.75,1500000.0,2022-2023,ligue-1
+naatan skytta,Attacking Midfield,Toulouse,1.74,500000.0,2022-2023,ligue-1
+edhy zuliani,Attacking Midfield,Toulouse,,50000.0,2022-2023,ligue-1
+veljko birmancevic,Left Winger,Toulouse,1.79,3000000.0,2022-2023,ligue-1
+rafael ratao,Left Winger,Toulouse,1.77,2500000.0,2022-2023,ligue-1
+junior flemmings,Left Winger,Toulouse,1.8,350000.0,2022-2023,ligue-1
+zakaria aboukhlal,Right Winger,Toulouse,1.79,9000000.0,2022-2023,ligue-1
+nathan ngoumou,Right Winger,Toulouse,1.85,5000000.0,2022-2023,ligue-1
+thijs dallinga,Centre-Forward,Toulouse,1.9,12000000.0,2022-2023,ligue-1
+rhys healey,Centre-Forward,Toulouse,1.8,2500000.0,2022-2023,ligue-1
+ado onaiwu,Centre-Forward,Toulouse,1.8,1500000.0,2022-2023,ligue-1
+said hamulic,Centre-Forward,Toulouse,1.86,1500000.0,2022-2023,ligue-1
+yanis begraoui,Centre-Forward,Toulouse,1.79,1000000.0,2022-2023,ligue-1
+bonota traore,Centre-Forward,Toulouse,1.81,50000.0,2022-2023,ligue-1
+marco bizot,Goalkeeper,Brest,1.93,3500000.0,2022-2023,ligue-1
+joaquin blazquez,Goalkeeper,Brest,1.93,400000.0,2022-2023,ligue-1
+gregoire coudert,Goalkeeper,Brest,1.92,150000.0,2022-2023,ligue-1
+lilian brassier,Centre-Back,Brest,1.86,5000000.0,2022-2023,ligue-1
+brendan chardonnet,Centre-Back,Brest,1.81,5000000.0,2022-2023,ligue-1
+jeankevin duverne,Centre-Back,Brest,1.86,4000000.0,2022-2023,ligue-1
+achraf dari,Centre-Back,Brest,1.88,2000000.0,2022-2023,ligue-1
+christophe herelle,Centre-Back,Brest,1.91,2000000.0,2022-2023,ligue-1
+josue escartin,Centre-Back,Brest,1.93,150000.0,2022-2023,ligue-1
+bradley locko,Left-Back,Brest,1.8,2500000.0,2022-2023,ligue-1
+jere uronen,Left-Back,Brest,1.77,1000000.0,2022-2023,ligue-1
+kenny lala,Right-Back,Brest,1.78,1500000.0,2022-2023,ligue-1
+noah fadiga,Right-Back,Brest,1.87,1200000.0,2022-2023,ligue-1
+pierre leesmelou,Defensive Midfield,Brest,1.85,4000000.0,2022-2023,ligue-1
+haris belkebla,Central Midfield,Brest,1.77,3000000.0,2022-2023,ligue-1
+mahdi camara,Central Midfield,Brest,1.78,3000000.0,2022-2023,ligue-1
+hugo magnetti,Central Midfield,Brest,1.8,2000000.0,2022-2023,ligue-1
+hianga mananga mbock,Central Midfield,Brest,1.86,1200000.0,2022-2023,ligue-1
+felix lemarechal,Attacking Midfield,Brest,1.8,1000000.0,2022-2023,ligue-1
+karamoko dembele,Attacking Midfield,Brest,1.67,500000.0,2022-2023,ligue-1
+mathias pereira lage,Left Winger,Brest,1.8,2000000.0,2022-2023,ligue-1
+youcef belaili,Left Winger,Brest,1.79,1500000.0,2022-2023,ligue-1
+axel camblan,Left Winger,Brest,1.74,400000.0,2022-2023,ligue-1
+franck honorat,Right Winger,Brest,1.8,10000000.0,2022-2023,ligue-1
+romain del castillo,Right Winger,Brest,1.72,3000000.0,2022-2023,ligue-1
+alberth elis,Right Winger,Brest,1.85,2500000.0,2022-2023,ligue-1
+steve mounie,Centre-Forward,Brest,1.89,5000000.0,2022-2023,ligue-1
+jeremy le douaron,Centre-Forward,Brest,1.89,4500000.0,2022-2023,ligue-1
+irvin cardona,Centre-Forward,Brest,1.85,2500000.0,2022-2023,ligue-1
+islam slimani,Centre-Forward,Brest,1.88,1500000.0,2022-2023,ligue-1
+tairyk arconte,Centre-Forward,Brest,1.81,500000.0,2022-2023,ligue-1
+remy labeau lascary,Centre-Forward,Brest,1.85,150000.0,2022-2023,ligue-1
+paul bernardoni,Goalkeeper,Angers,1.93,2500000.0,2022-2023,ligue-1
+yahia fofana,Goalkeeper,Angers,1.94,2000000.0,2022-2023,ligue-1
+melvin zinga,Goalkeeper,Angers,1.87,100000.0,2022-2023,ligue-1
+theo sainteluce,Goalkeeper,Angers,1.91,100000.0,2022-2023,ligue-1
+cedric hountondji,Centre-Back,Angers,1.94,2000000.0,2022-2023,ligue-1
+miha blazic,Centre-Back,Angers,1.85,1800000.0,2022-2023,ligue-1
+ousmane camara,Centre-Back,Angers,1.97,1500000.0,2022-2023,ligue-1
+abdoulaye bamba,Centre-Back,Angers,1.82,400000.0,2022-2023,ligue-1
+josep antoni gaya,Centre-Back,Angers,1.94,50000.0,2022-2023,ligue-1
+abdoulaye niakhate ndiaye,Centre-Back,Angers,,,2022-2023,ligue-1
+ismael drame,Centre-Back,Angers,1.86,,2022-2023,ligue-1
+abdoulaye niakhate ndiaye,Centre-Back,Angers,1.8,,2022-2023,ligue-1
+souleyman doumbia,Left-Back,Angers,1.78,2500000.0,2022-2023,ligue-1
+faouzi ghoulam,Left-Back,Angers,1.84,900000.0,2022-2023,ligue-1
+ilyes cheti,Left-Back,Angers,1.76,400000.0,2022-2023,ligue-1
+yan valery,Right-Back,Angers,1.85,2000000.0,2022-2023,ligue-1
+halid sabanovic,Right-Back,Angers,1.82,700000.0,2022-2023,ligue-1
+lilian raolisoa,Right-Back,Angers,1.78,200000.0,2022-2023,ligue-1
+mohamed ali cho,Right-Back,Angers,1.72,100000.0,2022-2023,ligue-1
+nabil bentaleb,Defensive Midfield,Angers,1.87,7000000.0,2022-2023,ligue-1
+batista mendy,Defensive Midfield,Angers,1.91,3000000.0,2022-2023,ligue-1
+ibrahim amadou,Defensive Midfield,Angers,1.82,1500000.0,2022-2023,ligue-1
+zinedine ould khaled,Defensive Midfield,Angers,1.95,200000.0,2022-2023,ligue-1
+salim akkal,Defensive Midfield,Angers,1.82,50000.0,2022-2023,ligue-1
+azzedine ounahi,Central Midfield,Angers,1.82,12000000.0,2022-2023,ligue-1
+antonin bobichon,Central Midfield,Angers,1.78,900000.0,2022-2023,ligue-1
+waniss taibi,Central Midfield,Angers,1.84,500000.0,2022-2023,ligue-1
+pierrick capelle,Central Midfield,Angers,1.81,250000.0,2022-2023,ligue-1
+yassin belkhdim,Central Midfield,Angers,1.75,100000.0,2022-2023,ligue-1
+himad abdelli,Attacking Midfield,Angers,1.85,2500000.0,2022-2023,ligue-1
+sofiane boufal,Left Winger,Angers,1.75,8000000.0,2022-2023,ligue-1
+abdallah sima,Left Winger,Angers,1.88,6000000.0,2022-2023,ligue-1
+jean matteo bahoya,Left Winger,Angers,1.8,1500000.0,2022-2023,ligue-1
+marin jakolis,Left Winger,Angers,1.82,600000.0,2022-2023,ligue-1
+farid el melali,Left Winger,Angers,1.68,600000.0,2022-2023,ligue-1
+jason mbock,Left Winger,Angers,1.79,150000.0,2022-2023,ligue-1
+sada thioub,Right Winger,Angers,1.79,1200000.0,2022-2023,ligue-1
+justinnoel kalumba,Right Winger,Angers,1.71,250000.0,2022-2023,ligue-1
+ibrahima niane,Centre-Forward,Angers,1.87,3000000.0,2022-2023,ligue-1
+adrien hunou,Centre-Forward,Angers,1.79,2500000.0,2022-2023,ligue-1
+amine salama,Centre-Forward,Angers,1.92,1500000.0,2022-2023,ligue-1
+lois diony,Centre-Forward,Angers,1.83,900000.0,2022-2023,ligue-1
+ulrick enemeella,Centre-Forward,Angers,1.84,200000.0,2022-2023,ligue-1
+guede nadje,Centre-Forward,Angers,1.84,150000.0,2022-2023,ligue-1
+ionut radu,Goalkeeper,Auxerre,1.88,3500000.0,2022-2023,ligue-1
+benoit costil,Goalkeeper,Auxerre,1.88,1000000.0,2022-2023,ligue-1
+donovan leon,Goalkeeper,Auxerre,1.87,500000.0,2022-2023,ligue-1
+theo de percin,Goalkeeper,Auxerre,1.85,150000.0,2022-2023,ligue-1
+vincenzo cozzella,Goalkeeper,Auxerre,1.9,100000.0,2022-2023,ligue-1
+isaak toure,Centre-Back,Auxerre,2.06,6000000.0,2022-2023,ligue-1
+jubal,Centre-Back,Auxerre,1.9,2000000.0,2022-2023,ligue-1
+theo pellenard,Centre-Back,Auxerre,1.84,1000000.0,2022-2023,ligue-1
+julian jeanvier,Centre-Back,Auxerre,1.83,800000.0,2022-2023,ligue-1
+alexandre coeff,Centre-Back,Auxerre,1.85,700000.0,2022-2023,ligue-1
+denys bain,Centre-Back,Auxerre,1.81,500000.0,2022-2023,ligue-1
+lamine buhanga,Centre-Back,Auxerre,1.88,100000.0,2022-2023,ligue-1
+gideon mensah,Left-Back,Auxerre,1.78,2500000.0,2022-2023,ligue-1
+kenjivan boto,Left-Back,Auxerre,1.83,400000.0,2022-2023,ligue-1
+quentin bernard,Left-Back,Auxerre,1.84,350000.0,2022-2023,ligue-1
+raphael lipinski,Left-Back,Auxerre,1.81,100000.0,2022-2023,ligue-1
+akim zedadka,Right-Back,Auxerre,1.74,2500000.0,2022-2023,ligue-1
+paul joly,Right-Back,Auxerre,1.82,1200000.0,2022-2023,ligue-1
+brayann pereira,Right-Back,Auxerre,1.72,600000.0,2022-2023,ligue-1
+elisha owusu,Defensive Midfield,Auxerre,1.82,2000000.0,2022-2023,ligue-1
+birama toure,Defensive Midfield,Auxerre,1.83,1800000.0,2022-2023,ligue-1
+ousmane camara,Defensive Midfield,Auxerre,1.84,150000.0,2022-2023,ligue-1
+natan,Defensive Midfield,Auxerre,1.76,100000.0,2022-2023,ligue-1
+hannoah massengo,Central Midfield,Auxerre,1.78,5000000.0,2022-2023,ligue-1
+rayan raveloson,Central Midfield,Auxerre,1.82,1800000.0,2022-2023,ligue-1
+youssouf mchangama,Central Midfield,Auxerre,1.75,900000.0,2022-2023,ligue-1
+kays ruizatil,Central Midfield,Auxerre,1.77,800000.0,2022-2023,ligue-1
+kevin danois,Central Midfield,Auxerre,1.83,100000.0,2022-2023,ligue-1
+hamza sakhi,Attacking Midfield,Auxerre,1.76,2000000.0,2022-2023,ligue-1
+mathias autret,Attacking Midfield,Auxerre,1.79,800000.0,2022-2023,ligue-1
+siriki dembele,Left Winger,Auxerre,1.73,2000000.0,2022-2023,ligue-1
+remy dugimont,Left Winger,Auxerre,1.82,100000.0,2022-2023,ligue-1
+gauthier hein,Right Winger,Auxerre,1.7,2000000.0,2022-2023,ligue-1
+gaetan perrin,Right Winger,Auxerre,1.69,1200000.0,2022-2023,ligue-1
+kylian silvestre,Right Winger,Auxerre,1.83,100000.0,2022-2023,ligue-1
+matthis abline,Centre-Forward,Auxerre,1.82,4500000.0,2022-2023,ligue-1
+mbaye niang,Centre-Forward,Auxerre,1.88,2500000.0,2022-2023,ligue-1
+lassine sinayoko,Centre-Forward,Auxerre,1.86,1200000.0,2022-2023,ligue-1
+nuno da costa,Centre-Forward,Auxerre,1.84,1000000.0,2022-2023,ligue-1
+gaetan charbonnier,Centre-Forward,Auxerre,1.88,500000.0,2022-2023,ligue-1
+ousmane camara,Centre-Forward,Auxerre,1.76,150000.0,2022-2023,ligue-1
+idjessi metsoko,Centre-Forward,Auxerre,,100000.0,2022-2023,ligue-1
+gianluigi donnarumma,Goalkeeper,Paris S-G,1.96,40000000.0,2023-2024,ligue-1
+arnau tenas,Goalkeeper,Paris S-G,1.85,5000000.0,2023-2024,ligue-1
+keylor navas,Goalkeeper,Paris S-G,1.85,1500000.0,2023-2024,ligue-1
+sergi,Goalkeeper,Paris S-G,1.96,1500000.0,2023-2024,ligue-1
+alexandre letellier,Goalkeeper,Paris S-G,1.93,250000.0,2023-2024,ligue-1
+louis mouquet,Goalkeeper,Paris S-G,1.87,,2023-2024,ligue-1
+marquinhos,Centre-Back,Paris S-G,1.83,50000000.0,2023-2024,ligue-1
+lucas beraldo,Centre-Back,Paris S-G,1.86,30000000.0,2023-2024,ligue-1
+milan skriniar,Centre-Back,Paris S-G,1.88,30000000.0,2023-2024,ligue-1
+presnel kimpembe,Centre-Back,Paris S-G,1.83,12000000.0,2023-2024,ligue-1
+danilo pereira,Centre-Back,Paris S-G,1.88,8000000.0,2023-2024,ligue-1
+joane gadou,Centre-Back,Paris S-G,1.95,500000.0,2023-2024,ligue-1
+nuno mendes,Left-Back,Paris S-G,1.8,55000000.0,2023-2024,ligue-1
+lucas hernandez,Left-Back,Paris S-G,1.84,40000000.0,2023-2024,ligue-1
+layvin kurzawa,Left-Back,Paris S-G,1.82,1800000.0,2023-2024,ligue-1
+serif nhaga,Left-Back,Paris S-G,1.76,,2023-2024,ligue-1
+achraf hakimi,Right-Back,Paris S-G,1.81,60000000.0,2023-2024,ligue-1
+nordi mukiele,Right-Back,Paris S-G,1.87,10000000.0,2023-2024,ligue-1
+yoram zague,Right-Back,Paris S-G,1.68,2500000.0,2023-2024,ligue-1
+manuel ugarte ribeiro,Defensive Midfield,Paris S-G,1.82,45000000.0,2023-2024,ligue-1
+warren zaireemery,Central Midfield,Paris S-G,1.78,60000000.0,2023-2024,ligue-1
+vitinha,Central Midfield,Paris S-G,1.72,50000000.0,2023-2024,ligue-1
+fabian ruiz pena,Central Midfield,Paris S-G,1.89,30000000.0,2023-2024,ligue-1
+carlos soler,Central Midfield,Paris S-G,1.8,20000000.0,2023-2024,ligue-1
+senny mayulu,Central Midfield,Paris S-G,1.83,5000000.0,2023-2024,ligue-1
+cher ndour,Central Midfield,Paris S-G,1.9,4000000.0,2023-2024,ligue-1
+ethan mbappe,Central Midfield,Paris S-G,1.8,1500000.0,2023-2024,ligue-1
+marco asensio,Attacking Midfield,Paris S-G,1.82,20000000.0,2023-2024,ligue-1
+bradley barcola,Left Winger,Paris S-G,1.82,50000000.0,2023-2024,ligue-1
+ismael gharbi,Left Winger,Paris S-G,1.73,7500000.0,2023-2024,ligue-1
+ousmane dembele,Right Winger,Paris S-G,1.78,60000000.0,2023-2024,ligue-1
+lee kangin,Right Winger,Paris S-G,1.74,25000000.0,2023-2024,ligue-1
+kylian mbappe,Centre-Forward,Paris S-G,1.78,180000000.0,2023-2024,ligue-1
+goncalo ramos,Centre-Forward,Paris S-G,1.85,50000000.0,2023-2024,ligue-1
+randal kolo muani,Centre-Forward,Paris S-G,1.87,45000000.0,2023-2024,ligue-1
+hugo ekitike,Centre-Forward,Paris S-G,1.9,20000000.0,2023-2024,ligue-1
+radosaw majecki,Goalkeeper,Monaco,1.93,5000000.0,2023-2024,ligue-1
+philipp kohn,Goalkeeper,Monaco,1.9,5000000.0,2023-2024,ligue-1
+yann aurel bisseck,Goalkeeper,Monaco,1.94,200000.0,2023-2024,ligue-1
+wilfried singo,Centre-Back,Monaco,1.9,25000000.0,2023-2024,ligue-1
+mohammed salisu,Centre-Back,Monaco,1.88,15000000.0,2023-2024,ligue-1
+guillermo maripan,Centre-Back,Monaco,1.93,10000000.0,2023-2024,ligue-1
+thilo kehrer,Centre-Back,Monaco,1.86,10000000.0,2023-2024,ligue-1
+chrislain matsima,Centre-Back,Monaco,1.93,7000000.0,2023-2024,ligue-1
+ritchy valme,Centre-Back,Monaco,,200000.0,2023-2024,ligue-1
+henrique,Left-Back,Monaco,1.78,20000000.0,2023-2024,ligue-1
+ismail jakobs,Left-Back,Monaco,1.84,8000000.0,2023-2024,ligue-1
+kassoum ouattara,Left-Back,Monaco,1.76,8000000.0,2023-2024,ligue-1
+antonin cartillier,Left-Back,Monaco,1.76,200000.0,2023-2024,ligue-1
+vanderson,Right-Back,Monaco,1.73,20000000.0,2023-2024,ligue-1
+ruben aguilar,Right-Back,Monaco,1.72,5000000.0,2023-2024,ligue-1
+nazim babai,Right-Back,Monaco,1.71,100000.0,2023-2024,ligue-1
+aurelien platret,Right-Back,Monaco,1.77,100000.0,2023-2024,ligue-1
+youssouf fofana,Defensive Midfield,Monaco,1.85,30000000.0,2023-2024,ligue-1
+denis zakaria,Defensive Midfield,Monaco,1.9,25000000.0,2023-2024,ligue-1
+mohamed camara,Defensive Midfield,Monaco,1.73,20000000.0,2023-2024,ligue-1
+soungoutou magassa,Defensive Midfield,Monaco,1.9,8000000.0,2023-2024,ligue-1
+eliot matazo,Central Midfield,Monaco,1.7,5000000.0,2023-2024,ligue-1
+edan diop,Central Midfield,Monaco,1.85,2000000.0,2023-2024,ligue-1
+mamadou coulibaly,Central Midfield,Monaco,,300000.0,2023-2024,ligue-1
+mayssam benama,Central Midfield,Monaco,1.77,150000.0,2023-2024,ligue-1
+aleksandr golovin,Attacking Midfield,Monaco,1.78,30000000.0,2023-2024,ligue-1
+felix lemarechal,Attacking Midfield,Monaco,1.8,5000000.0,2023-2024,ligue-1
+kevin volland,Attacking Midfield,Monaco,1.79,4000000.0,2023-2024,ligue-1
+saimon bouabre,Attacking Midfield,Monaco,1.74,200000.0,2023-2024,ligue-1
+takumi minamino,Left Winger,Monaco,1.72,20000000.0,2023-2024,ligue-1
+eliesse ben seghir,Left Winger,Monaco,1.78,15000000.0,2023-2024,ligue-1
+lucas michal,Left Winger,Monaco,,100000.0,2023-2024,ligue-1
+maghnes akliouche,Right Winger,Monaco,1.83,25000000.0,2023-2024,ligue-1
+krepin diatta,Right Winger,Monaco,1.75,12000000.0,2023-2024,ligue-1
+gelson martins,Right Winger,Monaco,1.73,2500000.0,2023-2024,ligue-1
+malamine efekele,Right Winger,Monaco,1.8,500000.0,2023-2024,ligue-1
+folarin balogun,Centre-Forward,Monaco,1.78,30000000.0,2023-2024,ligue-1
+breel embolo,Centre-Forward,Monaco,1.87,12000000.0,2023-2024,ligue-1
+wissam ben yedder,Centre-Forward,Monaco,1.7,8000000.0,2023-2024,ligue-1
+myron boadu,Centre-Forward,Monaco,1.81,5000000.0,2023-2024,ligue-1
+gauthier gallon,Goalkeeper,Stade Rennais FC,1.87,1200000.0,2023-2024,ligue-1
+steve mandanda,Goalkeeper,Stade Rennais FC,1.87,800000.0,2023-2024,ligue-1
+geoffrey lembet,Goalkeeper,Stade Rennais FC,1.86,150000.0,2023-2024,ligue-1
+yann aurel bisseck,Goalkeeper,Stade Rennais FC,,,2023-2024,ligue-1
+arthur theate,Centre-Back,Stade Rennais FC,1.85,20000000.0,2023-2024,ligue-1
+jeanuel belocian,Centre-Back,Stade Rennais FC,1.86,10000000.0,2023-2024,ligue-1
+alidu seidu,Centre-Back,Stade Rennais FC,1.73,9000000.0,2023-2024,ligue-1
+warmed omari,Centre-Back,Stade Rennais FC,1.88,8000000.0,2023-2024,ligue-1
+christopher wooh,Centre-Back,Stade Rennais FC,1.91,6000000.0,2023-2024,ligue-1
+mohamed amoura,Centre-Back,Stade Rennais FC,1.9,600000.0,2023-2024,ligue-1
+jeremy jacquet,Centre-Back,Stade Rennais FC,1.9,500000.0,2023-2024,ligue-1
+adrien truffert,Left-Back,Stade Rennais FC,1.76,18000000.0,2023-2024,ligue-1
+birger meling,Left-Back,Stade Rennais FC,1.73,3500000.0,2023-2024,ligue-1
+mahamadou nagida,Left-Back,Stade Rennais FC,1.76,500000.0,2023-2024,ligue-1
+lorenz assignon,Right-Back,Stade Rennais FC,1.81,10000000.0,2023-2024,ligue-1
+guela doue,Right-Back,Stade Rennais FC,1.87,7000000.0,2023-2024,ligue-1
+abdoul kader bamba,Right-Back,Stade Rennais FC,1.85,,2023-2024,ligue-1
+azor matusiwa,Defensive Midfield,Stade Rennais FC,1.73,12000000.0,2023-2024,ligue-1
+baptiste santamaria,Defensive Midfield,Stade Rennais FC,1.83,10000000.0,2023-2024,ligue-1
+nemanja matic,Defensive Midfield,Stade Rennais FC,1.94,3000000.0,2023-2024,ligue-1
+benjamin bourigeaud,Central Midfield,Stade Rennais FC,1.78,18000000.0,2023-2024,ligue-1
+enzo le fee,Central Midfield,Stade Rennais FC,1.73,18000000.0,2023-2024,ligue-1
+flavien tait,Central Midfield,Stade Rennais FC,1.76,2000000.0,2023-2024,ligue-1
+djaoui cisse,Central Midfield,Stade Rennais FC,1.88,100000.0,2023-2024,ligue-1
+lovro majer,Attacking Midfield,Stade Rennais FC,1.78,20000000.0,2023-2024,ligue-1
+jeremy doku,Left Winger,Stade Rennais FC,1.73,65000000.0,2023-2024,ligue-1
+martin terrier,Left Winger,Stade Rennais FC,1.84,20000000.0,2023-2024,ligue-1
+ibrahim salah,Left Winger,Stade Rennais FC,1.86,4000000.0,2023-2024,ligue-1
+desire doue,Right Winger,Stade Rennais FC,1.81,30000000.0,2023-2024,ligue-1
+ludovic blas,Right Winger,Stade Rennais FC,1.8,15000000.0,2023-2024,ligue-1
+fabian rieder,Right Winger,Stade Rennais FC,1.79,8000000.0,2023-2024,ligue-1
+amine gouiri,Centre-Forward,Stade Rennais FC,1.81,25000000.0,2023-2024,ligue-1
+arnaud kalimuendo,Centre-Forward,Stade Rennais FC,1.75,20000000.0,2023-2024,ligue-1
+matthis abline,Centre-Forward,Stade Rennais FC,1.82,6000000.0,2023-2024,ligue-1
+bertug yldrm,Centre-Forward,Stade Rennais FC,1.91,3500000.0,2023-2024,ligue-1
+mathis lambourde,Centre-Forward,Stade Rennais FC,1.79,500000.0,2023-2024,ligue-1
+lucas chevalier,Goalkeeper,Lille,1.89,25000000.0,2023-2024,ligue-1
+lisandru olmeta,Goalkeeper,Lille,1.9,200000.0,2023-2024,ligue-1
+vito mannone,Goalkeeper,Lille,1.88,200000.0,2023-2024,ligue-1
+adam jakubech,Goalkeeper,Lille,1.88,200000.0,2023-2024,ligue-1
+tom negrel,Goalkeeper,Lille,1.92,,2023-2024,ligue-1
+mohamedamine ezzarhouni,Goalkeeper,Lille,1.93,,2023-2024,ligue-1
+leny yoro,Centre-Back,Lille,1.9,50000000.0,2023-2024,ligue-1
+bafode diakite,Centre-Back,Lille,1.84,18000000.0,2023-2024,ligue-1
+tiago djalo,Centre-Back,Lille,1.9,12000000.0,2023-2024,ligue-1
+alex sandro,Centre-Back,Lille,1.91,8000000.0,2023-2024,ligue-1
+samuel umtiti,Centre-Back,Lille,1.82,2500000.0,2023-2024,ligue-1
+rafael fernandes,Centre-Back,Lille,1.91,1500000.0,2023-2024,ligue-1
+ousmane toure,Centre-Back,Lille,1.87,50000.0,2023-2024,ligue-1
+gabriel gudmundsson,Left-Back,Lille,1.8,5000000.0,2023-2024,ligue-1
+ismaily,Left-Back,Lille,1.77,1800000.0,2023-2024,ligue-1
+vincent burlet,Left-Back,Lille,1.8,,2023-2024,ligue-1
+tiago santos,Right-Back,Lille,1.75,15000000.0,2023-2024,ligue-1
+akim zedadka,Right-Back,Lille,1.74,2000000.0,2023-2024,ligue-1
+carlos baleba,Defensive Midfield,Lille,1.79,22000000.0,2023-2024,ligue-1
+nabil bentaleb,Defensive Midfield,Lille,1.87,10000000.0,2023-2024,ligue-1
+benjamin andre,Defensive Midfield,Lille,1.8,8000000.0,2023-2024,ligue-1
+ignacio miramon,Defensive Midfield,Lille,1.73,2500000.0,2023-2024,ligue-1
+lilian baret,Defensive Midfield,Lille,,,2023-2024,ligue-1
+ayyoub bouaddi,Central Midfield,Lille,1.86,6000000.0,2023-2024,ligue-1
+angel gomes,Attacking Midfield,Lille,1.68,25000000.0,2023-2024,ligue-1
+yusuf yazc,Attacking Midfield,Lille,1.83,10000000.0,2023-2024,ligue-1
+hakon arnar haraldsson,Attacking Midfield,Lille,1.78,9000000.0,2023-2024,ligue-1
+remy cabella,Attacking Midfield,Lille,1.72,3500000.0,2023-2024,ligue-1
+adame faiz,Attacking Midfield,Lille,1.76,,2023-2024,ligue-1
+alan virginius,Left Winger,Lille,1.8,3500000.0,2023-2024,ligue-1
+iago,Left Winger,Lille,1.68,3000000.0,2023-2024,ligue-1
+ivan cavaleiro,Left Winger,Lille,1.75,2000000.0,2023-2024,ligue-1
+aaron malouda,Left Winger,Lille,1.83,150000.0,2023-2024,ligue-1
+joffrey bazie,Left Winger,Lille,1.79,100000.0,2023-2024,ligue-1
+edon zhegrova,Right Winger,Lille,1.8,25000000.0,2023-2024,ligue-1
+adam ounas,Right Winger,Lille,1.72,4000000.0,2023-2024,ligue-1
+ichem ferrah,Right Winger,Lille,1.71,100000.0,2023-2024,ligue-1
+jonathan david,Centre-Forward,Lille,1.78,50000000.0,2023-2024,ligue-1
+andrej ilic,Centre-Forward,Lille,1.89,3000000.0,2023-2024,ligue-1
+amine messoussa,Centre-Forward,Lille,1.8,400000.0,2023-2024,ligue-1
+trevis dago,Centre-Forward,Lille,1.83,200000.0,2023-2024,ligue-1
+pau lopez,Goalkeeper,Marseille,1.89,10000000.0,2023-2024,ligue-1
+ruben blanco,Goalkeeper,Marseille,1.88,2000000.0,2023-2024,ligue-1
+simo,Goalkeeper,Marseille,1.86,300000.0,2023-2024,ligue-1
+branco van den boomen,Goalkeeper,Marseille,1.91,100000.0,2023-2024,ligue-1
+leonardo balerdi,Centre-Back,Marseille,1.87,20000000.0,2023-2024,ligue-1
+chancel mbemba,Centre-Back,Marseille,1.82,15000000.0,2023-2024,ligue-1
+samuel gigot,Centre-Back,Marseille,1.87,9000000.0,2023-2024,ligue-1
+isaak toure,Centre-Back,Marseille,2.06,7000000.0,2023-2024,ligue-1
+bamo meite,Centre-Back,Marseille,1.84,6000000.0,2023-2024,ligue-1
+roggerio nyakossi,Centre-Back,Marseille,1.94,100000.0,2023-2024,ligue-1
+wesley said,Centre-Back,Marseille,1.84,100000.0,2023-2024,ligue-1
+stephane sparagna,Centre-Back,Marseille,1.87,50000.0,2023-2024,ligue-1
+renan lodi,Left-Back,Marseille,1.73,18000000.0,2023-2024,ligue-1
+quentin merlin,Left-Back,Marseille,1.74,10000000.0,2023-2024,ligue-1
+ulisses garcia,Left-Back,Marseille,1.82,4000000.0,2023-2024,ligue-1
+emran soglo,Left-Back,Marseille,1.78,1000000.0,2023-2024,ligue-1
+jonathan clauss,Right-Back,Marseille,1.78,12000000.0,2023-2024,ligue-1
+michael amir murillo,Right-Back,Marseille,1.84,4000000.0,2023-2024,ligue-1
+amay caprice,Right-Back,Marseille,1.75,100000.0,2023-2024,ligue-1
+leo jousselin,Right-Back,Marseille,,,2023-2024,ligue-1
+brice negouai,Right-Back,Marseille,1.85,,2023-2024,ligue-1
+geoffrey kondogbia,Defensive Midfield,Marseille,1.88,12000000.0,2023-2024,ligue-1
+pape gueye,Defensive Midfield,Marseille,1.89,6000000.0,2023-2024,ligue-1
+jean onana,Defensive Midfield,Marseille,1.89,4000000.0,2023-2024,ligue-1
+raimane daou,Defensive Midfield,Marseille,1.82,150000.0,2023-2024,ligue-1
+noam mayokatika,Defensive Midfield,Marseille,1.84,50000.0,2023-2024,ligue-1
+matteo guendouzi,Central Midfield,Marseille,1.85,25000000.0,2023-2024,ligue-1
+jordan veretout,Central Midfield,Marseille,1.77,15000000.0,2023-2024,ligue-1
+azzedine ounahi,Central Midfield,Marseille,1.82,12000000.0,2023-2024,ligue-1
+valentin rongier,Central Midfield,Marseille,1.73,12000000.0,2023-2024,ligue-1
+bilal nadir,Central Midfield,Marseille,1.79,500000.0,2023-2024,ligue-1
+paolo sciortino,Central Midfield,Marseille,1.77,100000.0,2023-2024,ligue-1
+gael lafont,Central Midfield,Marseille,1.8,,2023-2024,ligue-1
+luis henrique,Right Midfield,Marseille,1.81,8000000.0,2023-2024,ligue-1
+amine harit,Attacking Midfield,Marseille,1.8,15000000.0,2023-2024,ligue-1
+andre,Attacking Midfield,Marseille,1.83,,2023-2024,ligue-1
+darryl bakola,Attacking Midfield,Marseille,1.78,,2023-2024,ligue-1
+iliman ndiaye,Left Winger,Marseille,1.8,15000000.0,2023-2024,ligue-1
+ismaila sarr,Right Winger,Marseille,1.85,18000000.0,2023-2024,ligue-1
+cengiz under,Right Winger,Marseille,1.73,14000000.0,2023-2024,ligue-1
+francois mughe,Right Winger,Marseille,1.73,800000.0,2023-2024,ligue-1
+alexis kabamba,Right Winger,Marseille,1.8,,2023-2024,ligue-1
+keyliane abdallah,Right Winger,Marseille,1.85,,2023-2024,ligue-1
+joaquin correa,Second Striker,Marseille,1.88,6000000.0,2023-2024,ligue-1
+vitinha,Centre-Forward,Marseille,1.78,14000000.0,2023-2024,ligue-1
+faris pemi moumbagna,Centre-Forward,Marseille,1.85,10000000.0,2023-2024,ligue-1
+pierreemerick aubameyang,Centre-Forward,Marseille,1.87,5000000.0,2023-2024,ligue-1
+sofiane sidi ali,Centre-Forward,Marseille,1.75,50000.0,2023-2024,ligue-1
+eric da silva moreira,Centre-Forward,Marseille,1.85,,2023-2024,ligue-1
+lucas perri,Goalkeeper,Lyon,1.97,6000000.0,2023-2024,ligue-1
+anthony lopes,Goalkeeper,Lyon,1.84,4000000.0,2023-2024,ligue-1
+mathieu patouillet,Goalkeeper,Lyon,1.88,400000.0,2023-2024,ligue-1
+justin bengui,Goalkeeper,Lyon,1.9,300000.0,2023-2024,ligue-1
+remy riou,Goalkeeper,Lyon,1.91,250000.0,2023-2024,ligue-1
+jake obrien,Centre-Back,Lyon,1.97,12000000.0,2023-2024,ligue-1
+duje caletacar,Centre-Back,Lyon,1.93,7000000.0,2023-2024,ligue-1
+sinaly diomande,Centre-Back,Lyon,1.84,4000000.0,2023-2024,ligue-1
+adryelson,Centre-Back,Lyon,1.82,4000000.0,2023-2024,ligue-1
+clinton mata,Centre-Back,Lyon,1.8,4000000.0,2023-2024,ligue-1
+dejan lovren,Centre-Back,Lyon,1.88,1200000.0,2023-2024,ligue-1
+mamadou sarr,Centre-Back,Lyon,1.94,1000000.0,2023-2024,ligue-1
+nicolas tagliafico,Left-Back,Lyon,1.71,8000000.0,2023-2024,ligue-1
+henrique,Left-Back,Lyon,1.73,1000000.0,2023-2024,ligue-1
+ainsley maitlandniles,Right-Back,Lyon,1.8,9000000.0,2023-2024,ligue-1
+sael kumbedi,Right-Back,Lyon,1.75,7000000.0,2023-2024,ligue-1
+orel mangala,Defensive Midfield,Lyon,1.78,20000000.0,2023-2024,ligue-1
+johann lepenant,Defensive Midfield,Lyon,1.76,6000000.0,2023-2024,ligue-1
+skelly alvero,Defensive Midfield,Lyon,2.02,4000000.0,2023-2024,ligue-1
+nemanja matic,Defensive Midfield,Lyon,1.94,3000000.0,2023-2024,ligue-1
+paul akouokou,Defensive Midfield,Lyon,1.81,1500000.0,2023-2024,ligue-1
+maxence caqueret,Central Midfield,Lyon,1.74,20000000.0,2023-2024,ligue-1
+corentin tolisso,Central Midfield,Lyon,1.81,5000000.0,2023-2024,ligue-1
+mahamadou diawara,Central Midfield,Lyon,1.87,3000000.0,2023-2024,ligue-1
+mohamed el arouch,Central Midfield,Lyon,1.66,1500000.0,2023-2024,ligue-1
+chaim el djebali,Central Midfield,Lyon,1.7,300000.0,2023-2024,ligue-1
+diego moreira,Left Midfield,Lyon,1.79,3000000.0,2023-2024,ligue-1
+jeff reineadelaide,Attacking Midfield,Lyon,1.84,2000000.0,2023-2024,ligue-1
+bradley barcola,Left Winger,Lyon,1.82,50000000.0,2023-2024,ligue-1
+said benrahma,Left Winger,Lyon,1.72,20000000.0,2023-2024,ligue-1
+malick fofana,Left Winger,Lyon,1.69,15000000.0,2023-2024,ligue-1
+jeffinho,Left Winger,Lyon,1.76,5000000.0,2023-2024,ligue-1
+rayan cherki,Right Winger,Lyon,1.77,25000000.0,2023-2024,ligue-1
+ernest nuamah,Right Winger,Lyon,1.78,18000000.0,2023-2024,ligue-1
+gift orban,Centre-Forward,Lyon,1.78,15000000.0,2023-2024,ligue-1
+alexandre lacazette,Centre-Forward,Lyon,1.75,9000000.0,2023-2024,ligue-1
+amin sarr,Centre-Forward,Lyon,1.88,4000000.0,2023-2024,ligue-1
+aliou badara balde,Centre-Forward,Lyon,1.76,4000000.0,2023-2024,ligue-1
+tino kadewere,Centre-Forward,Lyon,1.83,2500000.0,2023-2024,ligue-1
+marcin buka,Goalkeeper,Nice,1.99,20000000.0,2023-2024,ligue-1
+maxime dupe,Goalkeeper,Nice,1.88,1500000.0,2023-2024,ligue-1
+salvatore sirigu,Goalkeeper,Nice,1.92,275000.0,2023-2024,ligue-1
+teddy boulhendi,Goalkeeper,Nice,1.85,100000.0,2023-2024,ligue-1
+jeanclair todibo,Centre-Back,Nice,1.9,35000000.0,2023-2024,ligue-1
+youssouf ndayishimiye,Centre-Back,Nice,1.83,15000000.0,2023-2024,ligue-1
+robson bambu,Centre-Back,Nice,1.85,3000000.0,2023-2024,ligue-1
+dante,Centre-Back,Nice,1.88,500000.0,2023-2024,ligue-1
+amidou doumbouya,Centre-Back,Nice,1.82,300000.0,2023-2024,ligue-1
+yannis nahounou,Centre-Back,Nice,1.93,50000.0,2023-2024,ligue-1
+melvin bard,Left-Back,Nice,1.73,12000000.0,2023-2024,ligue-1
+romain perraud,Left-Back,Nice,1.73,5000000.0,2023-2024,ligue-1
+ayoub amraoui,Left-Back,Nice,1.84,1500000.0,2023-2024,ligue-1
+jordan lotomba,Right-Back,Nice,1.77,8000000.0,2023-2024,ligue-1
+youcef atal,Right-Back,Nice,1.76,4300000.0,2023-2024,ligue-1
+valentin rosier,Right-Back,Nice,1.75,4000000.0,2023-2024,ligue-1
+antoine mendy,Right-Back,Nice,1.87,800000.0,2023-2024,ligue-1
+pablo rosario,Defensive Midfield,Nice,1.85,8000000.0,2023-2024,ligue-1
+alexis beka beka,Defensive Midfield,Nice,1.78,1500000.0,2023-2024,ligue-1
+reda belahyane,Defensive Midfield,Nice,1.73,500000.0,2023-2024,ligue-1
+khephren thuram,Central Midfield,Nice,1.92,35000000.0,2023-2024,ligue-1
+hicham boudaoui,Central Midfield,Nice,1.75,9000000.0,2023-2024,ligue-1
+morgan sanson,Central Midfield,Nice,1.8,8000000.0,2023-2024,ligue-1
+issiaga camara,Central Midfield,Nice,1.7,100000.0,2023-2024,ligue-1
+daouda traore,Central Midfield,Nice,1.88,50000.0,2023-2024,ligue-1
+sami wattel,Central Midfield,Nice,1.8,,2023-2024,ligue-1
+tom louchet,Right Midfield,Nice,1.78,3000000.0,2023-2024,ligue-1
+alexis claudemaurice,Attacking Midfield,Nice,1.76,3500000.0,2023-2024,ligue-1
+jeremie boga,Left Winger,Nice,1.72,15000000.0,2023-2024,ligue-1
+sofiane diop,Left Winger,Nice,1.75,12000000.0,2023-2024,ligue-1
+bilal brahimi,Left Winger,Nice,1.83,3000000.0,2023-2024,ligue-1
+aliou badara balde,Left Winger,Nice,1.7,800000.0,2023-2024,ligue-1
+mohamed ali cho,Right Winger,Nice,1.82,10000000.0,2023-2024,ligue-1
+badredine bouanani,Right Winger,Nice,1.77,5000000.0,2023-2024,ligue-1
+kail boudache,Right Winger,Nice,,,2023-2024,ligue-1
+terem moffi,Centre-Forward,Nice,1.88,25000000.0,2023-2024,ligue-1
+gaetan laborde,Centre-Forward,Nice,1.81,10000000.0,2023-2024,ligue-1
+evann guessand,Centre-Forward,Nice,1.88,8000000.0,2023-2024,ligue-1
+brice samba,Goalkeeper,Lens,1.87,15000000.0,2023-2024,ligue-1
+wuilker farinez,Goalkeeper,Lens,1.8,700000.0,2023-2024,ligue-1
+jeanlouis leca,Goalkeeper,Lens,1.8,200000.0,2023-2024,ligue-1
+yannick pandor,Goalkeeper,Lens,1.92,100000.0,2023-2024,ligue-1
+kevin danso,Centre-Back,Lens,1.9,25000000.0,2023-2024,ligue-1
+facundo medina,Centre-Back,Lens,1.84,25000000.0,2023-2024,ligue-1
+jonathan gradit,Centre-Back,Lens,1.8,4500000.0,2023-2024,ligue-1
+abdukodir khusanov,Centre-Back,Lens,1.86,2500000.0,2023-2024,ligue-1
+julien le cardinal,Centre-Back,Lens,1.84,1500000.0,2023-2024,ligue-1
+keny mbala,Centre-Back,Lens,1.91,50000.0,2023-2024,ligue-1
+deiver machado,Left-Back,Lens,1.8,4000000.0,2023-2024,ligue-1
+faitout maouassa,Left-Back,Lens,1.7,4000000.0,2023-2024,ligue-1
+jhoanner chavez,Left-Back,Lens,1.82,2000000.0,2023-2024,ligue-1
+massadio haidara,Left-Back,Lens,1.79,2000000.0,2023-2024,ligue-1
+przemysaw frankowski,Right-Back,Lens,1.75,9000000.0,2023-2024,ligue-1
+ruben aguilar,Right-Back,Lens,1.72,5000000.0,2023-2024,ligue-1
+tom pouilly,Right-Back,Lens,1.8,,2023-2024,ligue-1
+salis abdul samed,Defensive Midfield,Lens,1.79,8000000.0,2023-2024,ligue-1
+nampalys mendy,Defensive Midfield,Lens,1.68,3000000.0,2023-2024,ligue-1
+noah joel sarenren bazee,Defensive Midfield,Lens,1.75,500000.0,2023-2024,ligue-1
+fode ballotoure,Defensive Midfield,Lens,1.89,200000.0,2023-2024,ligue-1
+andy diouf,Central Midfield,Lens,1.87,9000000.0,2023-2024,ligue-1
+neil el aynaoui,Central Midfield,Lens,1.85,8000000.0,2023-2024,ligue-1
+stijn spierings,Central Midfield,Lens,1.88,4500000.0,2023-2024,ligue-1
+jimmy cabot,Right Midfield,Lens,1.64,2500000.0,2023-2024,ligue-1
+david costa,Attacking Midfield,Lens,1.68,8000000.0,2023-2024,ligue-1
+angelo fulgini,Attacking Midfield,Lens,1.82,7000000.0,2023-2024,ligue-1
+adrien thomasson,Attacking Midfield,Lens,1.75,5000000.0,2023-2024,ligue-1
+ayanda sishuba,Attacking Midfield,Lens,1.69,500000.0,2023-2024,ligue-1
+nolan bonte,Attacking Midfield,Lens,1.75,50000.0,2023-2024,ligue-1
+adam abeddou,Attacking Midfield,Lens,1.7,,2023-2024,ligue-1
+oscar cortes,Left Winger,Lens,1.78,3500000.0,2023-2024,ligue-1
+anthony bermont,Left Winger,Lens,1.87,,2023-2024,ligue-1
+morgan guilavogui,Right Winger,Lens,1.89,3000000.0,2023-2024,ligue-1
+elye wahi,Centre-Forward,Lens,1.84,35000000.0,2023-2024,ligue-1
+wesley said,Centre-Forward,Lens,1.71,4000000.0,2023-2024,ligue-1
+florian sotoca,Centre-Forward,Lens,1.87,3000000.0,2023-2024,ligue-1
+ibrahima balde,Centre-Forward,Lens,1.85,300000.0,2023-2024,ligue-1
+matz sels,Goalkeeper,Strasbourg,1.88,7000000.0,2023-2024,ligue-1
+alaa bellaarouch,Goalkeeper,Strasbourg,1.89,2000000.0,2023-2024,ligue-1
+matthieu dreyer,Goalkeeper,Strasbourg,1.88,150000.0,2023-2024,ligue-1
+andre,Goalkeeper,Strasbourg,1.9,100000.0,2023-2024,ligue-1
+abakar sylla,Centre-Back,Strasbourg,1.88,12000000.0,2023-2024,ligue-1
+ismael doukoure,Centre-Back,Strasbourg,1.83,10000000.0,2023-2024,ligue-1
+gerzino nyamsi,Centre-Back,Strasbourg,1.94,4500000.0,2023-2024,ligue-1
+lucas perrin,Centre-Back,Strasbourg,1.88,3000000.0,2023-2024,ligue-1
+saidou sow,Centre-Back,Strasbourg,1.87,2500000.0,2023-2024,ligue-1
+steven baseya,Centre-Back,Strasbourg,1.9,50000.0,2023-2024,ligue-1
+eduard sobol,Left-Back,Strasbourg,1.86,1500000.0,2023-2024,ligue-1
+thomas delaine,Left-Back,Strasbourg,1.8,1000000.0,2023-2024,ligue-1
+maxime bastian,Left-Back,Strasbourg,1.84,600000.0,2023-2024,ligue-1
+alex fernandez,Left-Back,Strasbourg,1.76,,2023-2024,ligue-1
+frederic guilbert,Right-Back,Strasbourg,1.78,4000000.0,2023-2024,ligue-1
+marvin senaya,Right-Back,Strasbourg,1.81,2000000.0,2023-2024,ligue-1
+karol fila,Right-Back,Strasbourg,1.83,700000.0,2023-2024,ligue-1
+junior mwanga,Defensive Midfield,Strasbourg,1.84,7000000.0,2023-2024,ligue-1
+ibrahima sissoko,Defensive Midfield,Strasbourg,1.93,6000000.0,2023-2024,ligue-1
+jeaneudes aholou,Defensive Midfield,Strasbourg,1.86,800000.0,2023-2024,ligue-1
+rabby nzingoula,Defensive Midfield,Strasbourg,1.83,300000.0,2023-2024,ligue-1
+habib diarra,Central Midfield,Strasbourg,1.78,18000000.0,2023-2024,ligue-1
+jeanricner bellegarde,Central Midfield,Strasbourg,1.72,15000000.0,2023-2024,ligue-1
+andrey santos,Central Midfield,Strasbourg,1.8,15000000.0,2023-2024,ligue-1
+jessy deminguet,Central Midfield,Strasbourg,1.78,1200000.0,2023-2024,ligue-1
+sanjin prcic,Central Midfield,Strasbourg,1.81,1200000.0,2023-2024,ligue-1
+samir el mourabet,Central Midfield,Strasbourg,1.86,,2023-2024,ligue-1
+cheikh tidiane sabaly,Attacking Midfield,Strasbourg,1.76,,2023-2024,ligue-1
+jeremy sebas,Left Winger,Strasbourg,1.87,500000.0,2023-2024,ligue-1
+aboubacar ali,Left Winger,Strasbourg,1.83,150000.0,2023-2024,ligue-1
+tom saettel,Left Winger,Strasbourg,1.67,100000.0,2023-2024,ligue-1
+angelo,Right Winger,Strasbourg,1.8,15000000.0,2023-2024,ligue-1
+dilane bakwa,Right Winger,Strasbourg,1.8,10000000.0,2023-2024,ligue-1
+emanuel emegha,Centre-Forward,Strasbourg,1.96,12000000.0,2023-2024,ligue-1
+moise sahi dion,Centre-Forward,Strasbourg,1.75,2000000.0,2023-2024,ligue-1
+lebo mothiba,Centre-Forward,Strasbourg,1.82,1500000.0,2023-2024,ligue-1
+kevin gameiro,Centre-Forward,Strasbourg,1.72,700000.0,2023-2024,ligue-1
+mohamed bechikh,Centre-Forward,Strasbourg,1.83,150000.0,2023-2024,ligue-1
+patrick ouotro,Centre-Forward,Strasbourg,1.82,,2023-2024,ligue-1
+guillaume restes,Goalkeeper,Toulouse,1.88,18000000.0,2023-2024,ligue-1
+alex dominguez,Goalkeeper,Toulouse,1.87,300000.0,2023-2024,ligue-1
+thomas himeur,Goalkeeper,Toulouse,1.92,50000.0,2023-2024,ligue-1
+justin lacombe,Goalkeeper,Toulouse,1.92,50000.0,2023-2024,ligue-1
+logan costa,Centre-Back,Toulouse,1.9,12000000.0,2023-2024,ligue-1
+christian mawissa,Centre-Back,Toulouse,1.84,9000000.0,2023-2024,ligue-1
+anthony rouault,Centre-Back,Toulouse,1.86,7000000.0,2023-2024,ligue-1
+rasmus nicolaisen,Centre-Back,Toulouse,1.91,6000000.0,2023-2024,ligue-1
+moussa diarra,Centre-Back,Toulouse,1.85,2000000.0,2023-2024,ligue-1
+kevin keben biakolo,Centre-Back,Toulouse,1.87,500000.0,2023-2024,ligue-1
+nicolas ezequiel fernandez,Centre-Back,Toulouse,,,2023-2024,ligue-1
+gabriel suazo,Left-Back,Toulouse,1.78,3500000.0,2023-2024,ligue-1
+oliver zanden,Left-Back,Toulouse,1.83,800000.0,2023-2024,ligue-1
+ylies aradj,Left-Back,Toulouse,1.79,,2023-2024,ligue-1
+mikkel desler,Right-Back,Toulouse,1.84,3000000.0,2023-2024,ligue-1
+warren kamanzi,Right-Back,Toulouse,1.77,2000000.0,2023-2024,ligue-1
+stijn spierings,Central Midfield,Toulouse,1.88,4500000.0,2023-2024,ligue-1
+vincent sierro,Central Midfield,Toulouse,1.85,4000000.0,2023-2024,ligue-1
+cristian casseres jr,Central Midfield,Toulouse,1.76,4000000.0,2023-2024,ligue-1
+niklas schmidt,Central Midfield,Toulouse,1.84,3000000.0,2023-2024,ligue-1
+kleri serber,Central Midfield,Toulouse,1.72,250000.0,2023-2024,ligue-1
+noah joel sarenren bazee,Central Midfield,Toulouse,1.78,50000.0,2023-2024,ligue-1
+rafik messali,Right Midfield,Toulouse,1.77,,2023-2024,ligue-1
+aron dnnum,Left Midfield,Toulouse,1.78,3500000.0,2023-2024,ligue-1
+fares chaibi,Attacking Midfield,Toulouse,1.83,18000000.0,2023-2024,ligue-1
+denis genreau,Attacking Midfield,Toulouse,1.75,1500000.0,2023-2024,ligue-1
+gelabert,Attacking Midfield,Toulouse,1.82,1500000.0,2023-2024,ligue-1
+naatan skytta,Attacking Midfield,Toulouse,1.74,400000.0,2023-2024,ligue-1
+edhy zuliani,Attacking Midfield,Toulouse,,,2023-2024,ligue-1
+yann gboho,Left Winger,Toulouse,1.78,4000000.0,2023-2024,ligue-1
+ibrahim cissoko,Left Winger,Toulouse,1.88,1500000.0,2023-2024,ligue-1
+zakaria aboukhlal,Right Winger,Toulouse,1.79,10000000.0,2023-2024,ligue-1
+shavy babicka,Right Winger,Toulouse,1.79,2000000.0,2023-2024,ligue-1
+mamady bangre,Right Winger,Toulouse,1.71,800000.0,2023-2024,ligue-1
+noah edjouma,Right Winger,Toulouse,1.82,50000.0,2023-2024,ligue-1
+thijs dallinga,Centre-Forward,Toulouse,1.9,18000000.0,2023-2024,ligue-1
+frank magri,Centre-Forward,Toulouse,1.78,3000000.0,2023-2024,ligue-1
+yanis begraoui,Centre-Forward,Toulouse,1.79,900000.0,2023-2024,ligue-1
+bonota traore,Centre-Forward,Toulouse,1.81,50000.0,2023-2024,ligue-1
+yvon mvogo,Goalkeeper,Lorient,1.9,3000000.0,2023-2024,ligue-1
+fred,Goalkeeper,Lorient,1.96,1000000.0,2023-2024,ligue-1
+vito mannone,Goalkeeper,Lorient,1.88,200000.0,2023-2024,ligue-1
+dominique youfeigane,Goalkeeper,Lorient,1.88,150000.0,2023-2024,ligue-1
+montassar talbi,Centre-Back,Lorient,1.9,7000000.0,2023-2024,ligue-1
+isaak toure,Centre-Back,Lorient,2.06,7000000.0,2023-2024,ligue-1
+bamo meite,Centre-Back,Lorient,1.84,6000000.0,2023-2024,ligue-1
+formose mendy,Centre-Back,Lorient,1.91,4500000.0,2023-2024,ligue-1
+nathaniel adjei,Centre-Back,Lorient,1.91,2500000.0,2023-2024,ligue-1
+julien laporte,Centre-Back,Lorient,1.85,2000000.0,2023-2024,ligue-1
+loris mouyokolo,Centre-Back,Lorient,1.94,300000.0,2023-2024,ligue-1
+aurelien pelon,Centre-Back,Lorient,1.86,,2023-2024,ligue-1
+enzo genton,Centre-Back,Lorient,1.88,,2023-2024,ligue-1
+benjamin mendy,Left-Back,Lorient,1.85,2000000.0,2023-2024,ligue-1
+darlin yongwa,Left-Back,Lorient,1.77,1500000.0,2023-2024,ligue-1
+gino caoki,Left-Back,Lorient,1.78,50000.0,2023-2024,ligue-1
+vincent le goff,Left-Back,Lorient,1.77,,2023-2024,ligue-1
+gedeon kalulu,Right-Back,Lorient,1.79,3500000.0,2023-2024,ligue-1
+igor,Right-Back,Lorient,1.73,1000000.0,2023-2024,ligue-1
+dembo sylla,Right-Back,Lorient,1.75,700000.0,2023-2024,ligue-1
+laurent abergel,Defensive Midfield,Lorient,1.7,3000000.0,2023-2024,ligue-1
+tiemoue bakayoko,Defensive Midfield,Lorient,1.89,2000000.0,2023-2024,ligue-1
+bonke innocent,Defensive Midfield,Lorient,1.78,1000000.0,2023-2024,ligue-1
+carmel mabanza,Defensive Midfield,Lorient,1.87,,2023-2024,ligue-1
+imran louza,Central Midfield,Lorient,1.78,7000000.0,2023-2024,ligue-1
+jeanvictor makengo,Central Midfield,Lorient,1.77,6000000.0,2023-2024,ligue-1
+ayman kari,Central Midfield,Lorient,1.76,4000000.0,2023-2024,ligue-1
+quentin boisgard,Central Midfield,Lorient,1.74,700000.0,2023-2024,ligue-1
+arthur,Central Midfield,Lorient,1.73,,2023-2024,ligue-1
+romain faivre,Right Midfield,Lorient,1.8,15000000.0,2023-2024,ligue-1
+panos katseris,Right Midfield,Lorient,1.87,2500000.0,2023-2024,ligue-1
+theo le bris,Left Midfield,Lorient,1.7,2000000.0,2023-2024,ligue-1
+julien ponceau,Attacking Midfield,Lorient,1.7,3500000.0,2023-2024,ligue-1
+royce openda owaga,Left Winger,Lorient,,50000.0,2023-2024,ligue-1
+badredine bouanani,Right Winger,Lorient,1.77,5000000.0,2023-2024,ligue-1
+joel mvuka,Right Winger,Lorient,1.76,3500000.0,2023-2024,ligue-1
+eli junior kroupi,Centre-Forward,Lorient,1.79,15000000.0,2023-2024,ligue-1
+mohamed bamba,Centre-Forward,Lorient,1.85,6000000.0,2023-2024,ligue-1
+bamba dieng,Centre-Forward,Lorient,1.78,4000000.0,2023-2024,ligue-1
+tosin aiyegun,Centre-Forward,Lorient,1.79,3000000.0,2023-2024,ligue-1
+ibrahima kone,Centre-Forward,Lorient,1.9,2500000.0,2023-2024,ligue-1
+adrian grbic,Centre-Forward,Lorient,1.88,1200000.0,2023-2024,ligue-1
+pablo pagis,Centre-Forward,Lorient,1.8,1000000.0,2023-2024,ligue-1
+sirine doucoure,Centre-Forward,Lorient,1.95,1000000.0,2023-2024,ligue-1
+bassirou ndiaye,Centre-Forward,Lorient,1.81,500000.0,2023-2024,ligue-1
+alban lafont,Goalkeeper,Nantes,1.96,9000000.0,2023-2024,ligue-1
+remy descamps,Goalkeeper,Nantes,1.96,1500000.0,2023-2024,ligue-1
+hugo boutsingkham,Goalkeeper,Nantes,1.89,150000.0,2023-2024,ligue-1
+denis petric,Goalkeeper,Nantes,1.86,100000.0,2023-2024,ligue-1
+nathan zeze,Centre-Back,Nantes,1.9,5000000.0,2023-2024,ligue-1
+eray comert,Centre-Back,Nantes,1.83,4000000.0,2023-2024,ligue-1
+jeankevin duverne,Centre-Back,Nantes,1.86,3500000.0,2023-2024,ligue-1
+jeancharles castelletto,Centre-Back,Nantes,1.86,3500000.0,2023-2024,ligue-1
+bastien meupiyou,Centre-Back,Nantes,1.91,800000.0,2023-2024,ligue-1
+nicolas pallois,Centre-Back,Nantes,1.89,600000.0,2023-2024,ligue-1
+junior dina ebimbe,Centre-Back,Nantes,1.93,400000.0,2023-2024,ligue-1
+yannis mbemba,Centre-Back,Nantes,1.94,100000.0,2023-2024,ligue-1
+robin voisine,Centre-Back,Nantes,1.88,,2023-2024,ligue-1
+enzo mongo,Centre-Back,Nantes,1.85,,2023-2024,ligue-1
+quentin merlin,Left-Back,Nantes,1.74,10000000.0,2023-2024,ligue-1
+nicolas cozza,Left-Back,Nantes,1.78,3500000.0,2023-2024,ligue-1
+jaouen hadjam,Left-Back,Nantes,1.85,2000000.0,2023-2024,ligue-1
+hugo boutsingkham,Left-Back,Nantes,1.73,200000.0,2023-2024,ligue-1
+ronael pierregabriel,Right-Back,Nantes,1.77,3500000.0,2023-2024,ligue-1
+fabien centonze,Right-Back,Nantes,1.82,3000000.0,2023-2024,ligue-1
+kelvin amian,Right-Back,Nantes,1.8,2500000.0,2023-2024,ligue-1
+pedro chirivella,Defensive Midfield,Nantes,1.78,7000000.0,2023-2024,ligue-1
+lamine diack,Defensive Midfield,Nantes,1.86,1200000.0,2023-2024,ligue-1
+mathis oger,Defensive Midfield,Nantes,1.82,,2023-2024,ligue-1
+douglas,Central Midfield,Nantes,1.73,6000000.0,2023-2024,ligue-1
+samuel moutoussamy,Central Midfield,Nantes,1.76,3000000.0,2023-2024,ligue-1
+moussa sissoko,Central Midfield,Nantes,1.87,1200000.0,2023-2024,ligue-1
+mohamed achi,Central Midfield,Nantes,1.81,200000.0,2023-2024,ligue-1
+dehmaine tabibou,Central Midfield,Nantes,1.83,50000.0,2023-2024,ligue-1
+florent mollet,Attacking Midfield,Nantes,1.75,1800000.0,2023-2024,ligue-1
+moses simon,Left Winger,Nantes,1.68,12000000.0,2023-2024,ligue-1
+benie traore,Left Winger,Nantes,1.72,4000000.0,2023-2024,ligue-1
+marcus coco,Left Winger,Nantes,1.84,1500000.0,2023-2024,ligue-1
+adel mahamoud,Left Winger,Nantes,1.83,100000.0,2023-2024,ligue-1
+marquinhos,Right Winger,Nantes,1.75,7000000.0,2023-2024,ligue-1
+adson,Right Winger,Nantes,1.71,4500000.0,2023-2024,ligue-1
+abdoul kader bamba,Right Winger,Nantes,1.77,900000.0,2023-2024,ligue-1
+stredair appuah,Right Winger,Nantes,1.85,500000.0,2023-2024,ligue-1
+mostafa mohamed,Centre-Forward,Nantes,1.85,10000000.0,2023-2024,ligue-1
+matthis abline,Centre-Forward,Nantes,1.82,6000000.0,2023-2024,ligue-1
+ignatius ganago,Centre-Forward,Nantes,1.76,3000000.0,2023-2024,ligue-1
+tino kadewere,Centre-Forward,Nantes,1.83,2500000.0,2023-2024,ligue-1
+joeloic affamah,Centre-Forward,Nantes,1.75,100000.0,2023-2024,ligue-1
+marco bizot,Goalkeeper,Brest,1.93,4000000.0,2023-2024,ligue-1
+gregoire coudert,Goalkeeper,Brest,1.92,400000.0,2023-2024,ligue-1
+yan marillat,Goalkeeper,Brest,1.83,150000.0,2023-2024,ligue-1
+lilian brassier,Centre-Back,Brest,1.86,12000000.0,2023-2024,ligue-1
+brendan chardonnet,Centre-Back,Brest,1.81,8000000.0,2023-2024,ligue-1
+achraf dari,Centre-Back,Brest,1.88,2000000.0,2023-2024,ligue-1
+christophe herelle,Centre-Back,Brest,1.91,1500000.0,2023-2024,ligue-1
+julien le cardinal,Centre-Back,Brest,1.84,1500000.0,2023-2024,ligue-1
+josue escartin,Centre-Back,Brest,1.93,150000.0,2023-2024,ligue-1
+tommy le verge,Centre-Back,Brest,1.93,,2023-2024,ligue-1
+bradley locko,Left-Back,Brest,1.8,12000000.0,2023-2024,ligue-1
+jordan amavi,Left-Back,Brest,1.76,1200000.0,2023-2024,ligue-1
+antonin cartillier,Left-Back,Brest,1.76,200000.0,2023-2024,ligue-1
+kenny lala,Right-Back,Brest,1.78,3000000.0,2023-2024,ligue-1
+luck zogbe,Right-Back,Brest,1.78,100000.0,2023-2024,ligue-1
+pierre leesmelou,Defensive Midfield,Brest,1.85,10000000.0,2023-2024,ligue-1
+jonas martin,Defensive Midfield,Brest,1.84,1000000.0,2023-2024,ligue-1
+mahdi camara,Central Midfield,Brest,1.78,10000000.0,2023-2024,ligue-1
+hugo magnetti,Central Midfield,Brest,1.8,7000000.0,2023-2024,ligue-1
+hianga mananga mbock,Central Midfield,Brest,1.86,700000.0,2023-2024,ligue-1
+kamory doumbia,Attacking Midfield,Brest,1.7,5000000.0,2023-2024,ligue-1
+karamoko dembele,Attacking Midfield,Brest,1.67,900000.0,2023-2024,ligue-1
+adrien lebeau,Attacking Midfield,Brest,1.75,300000.0,2023-2024,ligue-1
+bilal brahimi,Left Winger,Brest,1.83,3000000.0,2023-2024,ligue-1
+mathias pereira lage,Left Winger,Brest,1.8,2500000.0,2023-2024,ligue-1
+axel camblan,Left Winger,Brest,1.74,500000.0,2023-2024,ligue-1
+djibril konte,Left Winger,Brest,1.82,50000.0,2023-2024,ligue-1
+romain del castillo,Right Winger,Brest,1.72,10000000.0,2023-2024,ligue-1
+martin satriano,Centre-Forward,Brest,1.87,7000000.0,2023-2024,ligue-1
+steve mounie,Centre-Forward,Brest,1.89,6000000.0,2023-2024,ligue-1
+jeremy le douaron,Centre-Forward,Brest,1.89,5000000.0,2023-2024,ligue-1
+arthur desmas,Goalkeeper,Le Havre,1.96,2500000.0,2023-2024,ligue-1
+mohamed lamine bayo,Goalkeeper,Le Havre,1.86,500000.0,2023-2024,ligue-1
+mathieu gorgelin,Goalkeeper,Le Havre,1.87,200000.0,2023-2024,ligue-1
+jan paul van hecke,Goalkeeper,Le Havre,1.86,150000.0,2023-2024,ligue-1
+arouna sangante,Centre-Back,Le Havre,1.89,10000000.0,2023-2024,ligue-1
+etienne youte kinkoue,Centre-Back,Le Havre,1.96,7000000.0,2023-2024,ligue-1
+gautier lloris,Centre-Back,Le Havre,1.91,3000000.0,2023-2024,ligue-1
+yoann salmier,Centre-Back,Le Havre,1.88,1500000.0,2023-2024,ligue-1
+yoni gomis,Centre-Back,Le Havre,1.86,50000.0,2023-2024,ligue-1
+aliou badara balde,Centre-Back,Le Havre,1.97,,2023-2024,ligue-1
+christopher operi,Left-Back,Le Havre,1.83,4000000.0,2023-2024,ligue-1
+cheick doumbia,Left-Back,Le Havre,1.75,50000.0,2023-2024,ligue-1
+loic nego,Right-Back,Le Havre,1.81,900000.0,2023-2024,ligue-1
+oualid el hajjam,Right-Back,Le Havre,1.81,800000.0,2023-2024,ligue-1
+abdoulaye toure,Defensive Midfield,Le Havre,1.88,3000000.0,2023-2024,ligue-1
+oussama targhalline,Defensive Midfield,Le Havre,1.86,2500000.0,2023-2024,ligue-1
+rassoul ndiaye,Defensive Midfield,Le Havre,1.79,2500000.0,2023-2024,ligue-1
+nolan mbemba,Defensive Midfield,Le Havre,1.81,350000.0,2023-2024,ligue-1
+alois confais,Defensive Midfield,Le Havre,1.74,250000.0,2023-2024,ligue-1
+matheo bodmer,Defensive Midfield,Le Havre,1.79,,2023-2024,ligue-1
+daler kuzyaev,Central Midfield,Le Havre,1.82,8000000.0,2023-2024,ligue-1
+yassine kechta,Central Midfield,Le Havre,1.74,5000000.0,2023-2024,ligue-1
+simon ebonog,Central Midfield,Le Havre,1.8,100000.0,2023-2024,ligue-1
+nabil alioui,Attacking Midfield,Le Havre,1.75,3200000.0,2023-2024,ligue-1
+mokrane bentoumi,Attacking Midfield,Le Havre,1.69,50000.0,2023-2024,ligue-1
+antoine joujou,Left Winger,Le Havre,1.89,1500000.0,2023-2024,ligue-1
+issa soumare,Left Winger,Le Havre,1.82,800000.0,2023-2024,ligue-1
+kandet diawara,Left Winger,Le Havre,1.8,400000.0,2023-2024,ligue-1
+josue casimir,Right Winger,Le Havre,1.78,3000000.0,2023-2024,ligue-1
+emmanuel sabbi,Right Winger,Le Havre,1.78,2500000.0,2023-2024,ligue-1
+samuel grandsir,Right Winger,Le Havre,1.7,1500000.0,2023-2024,ligue-1
+mohamed lamine bayo,Centre-Forward,Le Havre,1.87,5000000.0,2023-2024,ligue-1
+andre ayew,Centre-Forward,Le Havre,1.75,1000000.0,2023-2024,ligue-1
+elysee logbo,Centre-Forward,Le Havre,1.88,800000.0,2023-2024,ligue-1
+steve ngoura,Centre-Forward,Le Havre,1.93,400000.0,2023-2024,ligue-1
+guillaume dietsch,Goalkeeper,Metz,1.84,600000.0,2023-2024,ligue-1
+alexandre oukidja,Goalkeeper,Metz,1.84,500000.0,2023-2024,ligue-1
+marcaurele caillard,Goalkeeper,Metz,1.92,200000.0,2023-2024,ligue-1
+fali cande,Centre-Back,Metz,1.84,2500000.0,2023-2024,ligue-1
+christophe herelle,Centre-Back,Metz,1.91,1500000.0,2023-2024,ligue-1
+sadibou sane,Centre-Back,Metz,1.82,800000.0,2023-2024,ligue-1
+aboubacar ali,Centre-Back,Metz,1.87,300000.0,2023-2024,ligue-1
+ismael traore,Centre-Back,Metz,1.84,250000.0,2023-2024,ligue-1
+albin demouchy,Centre-Back,Metz,1.86,50000.0,2023-2024,ligue-1
+charles divialle,Centre-Back,Metz,1.93,,2023-2024,ligue-1
+matthieu udol,Left-Back,Metz,1.78,2500000.0,2023-2024,ligue-1
+kevin van den kerkhof,Right-Back,Metz,1.9,3000000.0,2023-2024,ligue-1
+koffi kouao,Right-Back,Metz,1.73,1500000.0,2023-2024,ligue-1
+maxime colin,Right-Back,Metz,1.8,900000.0,2023-2024,ligue-1
+sofiane alakouch,Right-Back,Metz,1.75,500000.0,2023-2024,ligue-1
+habib maiga,Defensive Midfield,Metz,1.81,2500000.0,2023-2024,ligue-1
+danley jeanjacques,Defensive Midfield,Metz,1.82,2000000.0,2023-2024,ligue-1
+kevin ndoram,Defensive Midfield,Metz,1.84,1500000.0,2023-2024,ligue-1
+warren tchimbembe,Defensive Midfield,Metz,1.8,300000.0,2023-2024,ligue-1
+lamine camara,Central Midfield,Metz,1.73,10000000.0,2023-2024,ligue-1
+arthur atta,Central Midfield,Metz,1.89,1000000.0,2023-2024,ligue-1
+jean nguessan,Central Midfield,Metz,1.77,800000.0,2023-2024,ligue-1
+joseph nduquidi,Central Midfield,Metz,1.87,800000.0,2023-2024,ligue-1
+sami lahssaini,Central Midfield,Metz,1.77,400000.0,2023-2024,ligue-1
+ablie jallow,Right Midfield,Metz,1.66,2000000.0,2023-2024,ligue-1
+youssef maziz,Attacking Midfield,Metz,1.75,1500000.0,2023-2024,ligue-1
+cheikh tidiane sabaly,Left Winger,Metz,1.68,2000000.0,2023-2024,ligue-1
+papa amadou diallo,Left Winger,Metz,1.82,1000000.0,2023-2024,ligue-1
+didier lamkel ze,Left Winger,Metz,1.89,1000000.0,2023-2024,ligue-1
+maidine douane,Left Winger,Metz,1.77,200000.0,2023-2024,ligue-1
+joel asoro,Right Winger,Metz,1.76,1500000.0,2023-2024,ligue-1
+malick mbaye,Right Winger,Metz,1.73,500000.0,2023-2024,ligue-1
+georges mikautadze,Centre-Forward,Metz,1.76,15000000.0,2023-2024,ligue-1
+oscar estupinan,Centre-Forward,Metz,1.82,4000000.0,2023-2024,ligue-1
+simon elisor,Centre-Forward,Metz,1.85,1000000.0,2023-2024,ligue-1
+benjamin tetteh,Centre-Forward,Metz,1.93,1000000.0,2023-2024,ligue-1
+ibou sane,Centre-Forward,Metz,1.79,300000.0,2023-2024,ligue-1
+gianluigi donnarumma,Goalkeeper,Paris S-G,1.96,40000000.0,2024-2025,ligue-1
+matvei safonov,Goalkeeper,Paris S-G,1.92,20000000.0,2024-2025,ligue-1
+arnau tenas,Goalkeeper,Paris S-G,1.85,3000000.0,2024-2025,ligue-1
+louis mouquet,Goalkeeper,Paris S-G,1.87,,2024-2025,ligue-1
+willian pacho,Centre-Back,Paris S-G,1.87,65000000.0,2024-2025,ligue-1
+marquinhos,Centre-Back,Paris S-G,1.83,35000000.0,2024-2025,ligue-1
+lucas beraldo,Centre-Back,Paris S-G,1.86,25000000.0,2024-2025,ligue-1
+milan skriniar,Centre-Back,Paris S-G,1.88,15000000.0,2024-2025,ligue-1
+presnel kimpembe,Centre-Back,Paris S-G,1.83,5000000.0,2024-2025,ligue-1
+axel tape,Centre-Back,Paris S-G,1.8,2000000.0,2024-2025,ligue-1
+noham kamara,Centre-Back,Paris S-G,1.83,500000.0,2024-2025,ligue-1
+naoufel el hannach,Centre-Back,Paris S-G,1.83,,2024-2025,ligue-1
+nuno mendes,Left-Back,Paris S-G,1.8,70000000.0,2024-2025,ligue-1
+lucas hernandez,Left-Back,Paris S-G,1.84,25000000.0,2024-2025,ligue-1
+achraf hakimi,Right-Back,Paris S-G,1.81,80000000.0,2024-2025,ligue-1
+yoram zague,Right-Back,Paris S-G,1.68,2500000.0,2024-2025,ligue-1
+joao neves,Defensive Midfield,Paris S-G,1.74,80000000.0,2024-2025,ligue-1
+gabriel moscardo,Defensive Midfield,Paris S-G,1.85,8000000.0,2024-2025,ligue-1
+vitinha,Central Midfield,Paris S-G,1.72,80000000.0,2024-2025,ligue-1
+warren zaireemery,Central Midfield,Paris S-G,1.78,55000000.0,2024-2025,ligue-1
+fabian ruiz pena,Central Midfield,Paris S-G,1.89,40000000.0,2024-2025,ligue-1
+carlos soler,Central Midfield,Paris S-G,1.8,18000000.0,2024-2025,ligue-1
+senny mayulu,Central Midfield,Paris S-G,1.83,15000000.0,2024-2025,ligue-1
+marco asensio,Attacking Midfield,Paris S-G,1.82,20000000.0,2024-2025,ligue-1
+wassim slama,Attacking Midfield,Paris S-G,,,2024-2025,ligue-1
+khvicha kvaratskhelia,Left Winger,Paris S-G,1.83,90000000.0,2024-2025,ligue-1
+bradley barcola,Left Winger,Paris S-G,1.82,70000000.0,2024-2025,ligue-1
+quentin ndjantou,Left Winger,Paris S-G,,,2024-2025,ligue-1
+ousmane dembele,Right Winger,Paris S-G,1.78,90000000.0,2024-2025,ligue-1
+desire doue,Right Winger,Paris S-G,1.81,90000000.0,2024-2025,ligue-1
+lee kangin,Right Winger,Paris S-G,1.74,25000000.0,2024-2025,ligue-1
+ibrahim mbaye,Right Winger,Paris S-G,1.75,3000000.0,2024-2025,ligue-1
+goncalo ramos,Centre-Forward,Paris S-G,1.85,40000000.0,2024-2025,ligue-1
+randal kolo muani,Centre-Forward,Paris S-G,1.87,30000000.0,2024-2025,ligue-1
+radosaw majecki,Goalkeeper,Monaco,1.93,6000000.0,2024-2025,ligue-1
+philipp kohn,Goalkeeper,Monaco,1.9,5000000.0,2024-2025,ligue-1
+jules stawiecki,Goalkeeper,Monaco,1.86,200000.0,2024-2025,ligue-1
+yann aurel bisseck,Goalkeeper,Monaco,1.94,100000.0,2024-2025,ligue-1
+wilfried singo,Centre-Back,Monaco,1.9,25000000.0,2024-2025,ligue-1
+thilo kehrer,Centre-Back,Monaco,1.86,20000000.0,2024-2025,ligue-1
+christian mawissa,Centre-Back,Monaco,1.84,15000000.0,2024-2025,ligue-1
+mohammed salisu,Centre-Back,Monaco,1.88,12000000.0,2024-2025,ligue-1
+guillermo maripan,Centre-Back,Monaco,1.93,4000000.0,2024-2025,ligue-1
+bradel kiwa,Centre-Back,Monaco,1.91,,2024-2025,ligue-1
+henrique,Left-Back,Monaco,1.78,15000000.0,2024-2025,ligue-1
+ismail jakobs,Left-Back,Monaco,1.84,7000000.0,2024-2025,ligue-1
+kassoum ouattara,Left-Back,Monaco,1.76,7000000.0,2024-2025,ligue-1
+vanderson,Right-Back,Monaco,1.73,20000000.0,2024-2025,ligue-1
+jordan teze,Right-Back,Monaco,1.83,9000000.0,2024-2025,ligue-1
+denis zakaria,Defensive Midfield,Monaco,1.9,30000000.0,2024-2025,ligue-1
+soungoutou magassa,Defensive Midfield,Monaco,1.9,12000000.0,2024-2025,ligue-1
+almoatasem al musrati,Defensive Midfield,Monaco,1.89,8000000.0,2024-2025,ligue-1
+abdoul kader bamba,Defensive Midfield,Monaco,,,2024-2025,ligue-1
+samuel nibombe,Defensive Midfield,Monaco,1.98,,2024-2025,ligue-1
+lamine camara,Central Midfield,Monaco,1.73,22000000.0,2024-2025,ligue-1
+eliot matazo,Central Midfield,Monaco,1.7,2000000.0,2024-2025,ligue-1
+edan diop,Central Midfield,Monaco,1.85,600000.0,2024-2025,ligue-1
+mamadou coulibaly,Central Midfield,Monaco,,200000.0,2024-2025,ligue-1
+mayssam benama,Central Midfield,Monaco,1.77,150000.0,2024-2025,ligue-1
+aleksandr golovin,Attacking Midfield,Monaco,1.78,20000000.0,2024-2025,ligue-1
+saimon bouabre,Attacking Midfield,Monaco,1.74,300000.0,2024-2025,ligue-1
+eliesse ben seghir,Left Winger,Monaco,1.78,28000000.0,2024-2025,ligue-1
+takumi minamino,Left Winger,Monaco,1.72,15000000.0,2024-2025,ligue-1
+lucas michal,Left Winger,Monaco,,500000.0,2024-2025,ligue-1
+maghnes akliouche,Right Winger,Monaco,1.83,45000000.0,2024-2025,ligue-1
+krepin diatta,Right Winger,Monaco,1.75,7000000.0,2024-2025,ligue-1
+mika biereth,Centre-Forward,Monaco,1.87,30000000.0,2024-2025,ligue-1
+folarin balogun,Centre-Forward,Monaco,1.78,18000000.0,2024-2025,ligue-1
+george ilenikhena,Centre-Forward,Monaco,1.85,15000000.0,2024-2025,ligue-1
+breel embolo,Centre-Forward,Monaco,1.87,12000000.0,2024-2025,ligue-1
+joan tincres,Centre-Forward,Monaco,1.82,100000.0,2024-2025,ligue-1
+geronimo rulli,Goalkeeper,Marseille,1.89,8000000.0,2024-2025,ligue-1
+jeffrey de lange,Goalkeeper,Marseille,1.9,2000000.0,2024-2025,ligue-1
+ruben blanco,Goalkeeper,Marseille,1.88,1000000.0,2024-2025,ligue-1
+branco van den boomen,Goalkeeper,Marseille,1.91,50000.0,2024-2025,ligue-1
+leonardo balerdi,Centre-Back,Marseille,1.87,20000000.0,2024-2025,ligue-1
+lilian brassier,Centre-Back,Marseille,1.86,10000000.0,2024-2025,ligue-1
+luiz felipe,Centre-Back,Marseille,1.87,5000000.0,2024-2025,ligue-1
+derek cornelius,Centre-Back,Marseille,1.87,5000000.0,2024-2025,ligue-1
+bamo meite,Centre-Back,Marseille,1.84,4000000.0,2024-2025,ligue-1
+chancel mbemba,Centre-Back,Marseille,1.82,2000000.0,2024-2025,ligue-1
+roggerio nyakossi,Centre-Back,Marseille,1.94,500000.0,2024-2025,ligue-1
+quentin merlin,Left-Back,Marseille,1.74,15000000.0,2024-2025,ligue-1
+ulisses garcia,Left-Back,Marseille,1.82,5000000.0,2024-2025,ligue-1
+emmanuel koum mbondo,Left-Back,Marseille,1.8,100000.0,2024-2025,ligue-1
+rony lopes,Left-Back,Marseille,1.88,,2024-2025,ligue-1
+amar dedic,Right-Back,Marseille,1.8,12000000.0,2024-2025,ligue-1
+michael amir murillo,Right-Back,Marseille,1.84,10000000.0,2024-2025,ligue-1
+pol lirola,Right-Back,Marseille,1.83,4000000.0,2024-2025,ligue-1
+pierreemile hjbjerg,Defensive Midfield,Marseille,1.85,20000000.0,2024-2025,ligue-1
+ismael bennacer,Defensive Midfield,Marseille,1.75,15000000.0,2024-2025,ligue-1
+geoffrey kondogbia,Defensive Midfield,Marseille,1.88,7000000.0,2024-2025,ligue-1
+adrien rabiot,Central Midfield,Marseille,1.91,25000000.0,2024-2025,ligue-1
+ismael kone,Central Midfield,Marseille,1.88,9000000.0,2024-2025,ligue-1
+valentin rongier,Central Midfield,Marseille,1.73,9000000.0,2024-2025,ligue-1
+bilal nadir,Central Midfield,Marseille,1.79,5000000.0,2024-2025,ligue-1
+gael lafont,Central Midfield,Marseille,1.8,,2024-2025,ligue-1
+luis henrique,Right Midfield,Marseille,1.81,25000000.0,2024-2025,ligue-1
+valentin carboni,Attacking Midfield,Marseille,1.85,12000000.0,2024-2025,ligue-1
+amine harit,Attacking Midfield,Marseille,1.8,8000000.0,2024-2025,ligue-1
+darryl bakola,Attacking Midfield,Marseille,1.78,200000.0,2024-2025,ligue-1
+jon rowe,Left Winger,Marseille,1.73,12000000.0,2024-2025,ligue-1
+enzo sternal,Left Winger,Marseille,1.74,1500000.0,2024-2025,ligue-1
+salim ben seghir,Left Winger,Marseille,1.77,400000.0,2024-2025,ligue-1
+mason greenwood,Right Winger,Marseille,1.81,40000000.0,2024-2025,ligue-1
+keyliane abdallah,Right Winger,Marseille,1.85,100000.0,2024-2025,ligue-1
+amine gouiri,Centre-Forward,Marseille,1.81,30000000.0,2024-2025,ligue-1
+elye wahi,Centre-Forward,Marseille,1.84,22000000.0,2024-2025,ligue-1
+neal maupay,Centre-Forward,Marseille,1.71,8000000.0,2024-2025,ligue-1
+faris pemi moumbagna,Centre-Forward,Marseille,1.85,5000000.0,2024-2025,ligue-1
+robinio vaz,Centre-Forward,Marseille,1.85,150000.0,2024-2025,ligue-1
+lucas chevalier,Goalkeeper,Lille,1.89,30000000.0,2024-2025,ligue-1
+lisandru olmeta,Goalkeeper,Lille,1.9,150000.0,2024-2025,ligue-1
+vito mannone,Goalkeeper,Lille,1.88,150000.0,2024-2025,ligue-1
+marcaurele caillard,Goalkeeper,Lille,1.92,100000.0,2024-2025,ligue-1
+bafode diakite,Centre-Back,Lille,1.84,28000000.0,2024-2025,ligue-1
+alex sandro,Centre-Back,Lille,1.91,20000000.0,2024-2025,ligue-1
+samuel umtiti,Centre-Back,Lille,1.82,1500000.0,2024-2025,ligue-1
+aissa mandi,Centre-Back,Lille,1.86,1200000.0,2024-2025,ligue-1
+rafael fernandes,Centre-Back,Lille,1.91,1000000.0,2024-2025,ligue-1
+ousmane toure,Centre-Back,Lille,1.87,500000.0,2024-2025,ligue-1
+isaac palazon camacho,Centre-Back,Lille,1.93,,2024-2025,ligue-1
+gabriel gudmundsson,Left-Back,Lille,1.8,7000000.0,2024-2025,ligue-1
+mitchel bakker,Left-Back,Lille,1.89,7000000.0,2024-2025,ligue-1
+ismaily,Left-Back,Lille,1.77,1200000.0,2024-2025,ligue-1
+vincent burlet,Left-Back,Lille,1.8,600000.0,2024-2025,ligue-1
+tiago santos,Right-Back,Lille,1.75,15000000.0,2024-2025,ligue-1
+thomas meunier,Right-Back,Lille,1.91,2000000.0,2024-2025,ligue-1
+akim zedadka,Right-Back,Lille,1.74,700000.0,2024-2025,ligue-1
+morgan costarelli,Right-Back,Lille,1.7,,2024-2025,ligue-1
+ngalayel mukau,Defensive Midfield,Lille,1.86,15000000.0,2024-2025,ligue-1
+nabil bentaleb,Defensive Midfield,Lille,1.87,6000000.0,2024-2025,ligue-1
+benjamin andre,Defensive Midfield,Lille,1.8,5000000.0,2024-2025,ligue-1
+ugo raghouber,Defensive Midfield,Lille,1.88,4000000.0,2024-2025,ligue-1
+lilian baret,Defensive Midfield,Lille,,,2024-2025,ligue-1
+ayyoub bouaddi,Central Midfield,Lille,1.86,28000000.0,2024-2025,ligue-1
+andre gomes,Central Midfield,Lille,1.9,6000000.0,2024-2025,ligue-1
+ethan mbappe,Central Midfield,Lille,1.8,5000000.0,2024-2025,ligue-1
+angel gomes,Attacking Midfield,Lille,1.68,20000000.0,2024-2025,ligue-1
+hakon arnar haraldsson,Attacking Midfield,Lille,1.78,18000000.0,2024-2025,ligue-1
+remy cabella,Attacking Midfield,Lille,1.72,2500000.0,2024-2025,ligue-1
+osame sahraoui,Left Winger,Lille,1.7,12000000.0,2024-2025,ligue-1
+aaron malouda,Left Winger,Lille,1.83,150000.0,2024-2025,ligue-1
+younes lachaab,Left Winger,Lille,1.76,50000.0,2024-2025,ligue-1
+soriba diaoune,Left Winger,Lille,,,2024-2025,ligue-1
+edon zhegrova,Right Winger,Lille,1.8,25000000.0,2024-2025,ligue-1
+jonathan david,Centre-Forward,Lille,1.78,45000000.0,2024-2025,ligue-1
+matias fernandezpardo,Centre-Forward,Lille,1.88,15000000.0,2024-2025,ligue-1
+chuba akpom,Centre-Forward,Lille,1.83,7000000.0,2024-2025,ligue-1
+andrej ilic,Centre-Forward,Lille,1.89,4000000.0,2024-2025,ligue-1
+mohamed lamine bayo,Centre-Forward,Lille,1.87,2800000.0,2024-2025,ligue-1
+lucas perri,Goalkeeper,Lyon,1.97,10000000.0,2024-2025,ligue-1
+anthony lopes,Goalkeeper,Lyon,1.84,1200000.0,2024-2025,ligue-1
+remy descamps,Goalkeeper,Lyon,1.96,1200000.0,2024-2025,ligue-1
+justin bengui,Goalkeeper,Lyon,1.9,400000.0,2024-2025,ligue-1
+lassine diarra,Goalkeeper,Lyon,1.9,50000.0,2024-2025,ligue-1
+andre silva,Goalkeeper,Lyon,,,2024-2025,ligue-1
+moussa niakhate,Centre-Back,Lyon,1.9,15000000.0,2024-2025,ligue-1
+duje caletacar,Centre-Back,Lyon,1.93,7000000.0,2024-2025,ligue-1
+adryelson,Centre-Back,Lyon,1.82,3500000.0,2024-2025,ligue-1
+clinton mata,Centre-Back,Lyon,1.8,3500000.0,2024-2025,ligue-1
+warmed omari,Centre-Back,Lyon,1.88,3000000.0,2024-2025,ligue-1
+abner,Left-Back,Lyon,1.81,7000000.0,2024-2025,ligue-1
+nicolas tagliafico,Left-Back,Lyon,1.71,6000000.0,2024-2025,ligue-1
+ainsley maitlandniles,Right-Back,Lyon,1.8,12000000.0,2024-2025,ligue-1
+sael kumbedi,Right-Back,Lyon,1.75,7000000.0,2024-2025,ligue-1
+teo barisic,Right-Back,Lyon,1.85,,2024-2025,ligue-1
+orel mangala,Defensive Midfield,Lyon,1.78,18000000.0,2024-2025,ligue-1
+tanner tessmann,Defensive Midfield,Lyon,1.88,6000000.0,2024-2025,ligue-1
+nemanja matic,Defensive Midfield,Lyon,1.94,2000000.0,2024-2025,ligue-1
+paul akouokou,Defensive Midfield,Lyon,1.81,800000.0,2024-2025,ligue-1
+mathys tel,Defensive Midfield,Lyon,1.83,,2024-2025,ligue-1
+maxence caqueret,Central Midfield,Lyon,1.74,16000000.0,2024-2025,ligue-1
+corentin tolisso,Central Midfield,Lyon,1.81,12000000.0,2024-2025,ligue-1
+jordan veretout,Central Midfield,Lyon,1.77,4000000.0,2024-2025,ligue-1
+mahamadou diawara,Central Midfield,Lyon,1.87,2000000.0,2024-2025,ligue-1
+thiago almada,Attacking Midfield,Lyon,1.71,25000000.0,2024-2025,ligue-1
+malick fofana,Left Winger,Lyon,1.69,30000000.0,2024-2025,ligue-1
+said benrahma,Left Winger,Lyon,1.72,10000000.0,2024-2025,ligue-1
+wilfried zaha,Left Winger,Lyon,1.8,5000000.0,2024-2025,ligue-1
+rayan cherki,Right Winger,Lyon,1.77,45000000.0,2024-2025,ligue-1
+ernest nuamah,Right Winger,Lyon,1.78,15000000.0,2024-2025,ligue-1
+georges mikautadze,Centre-Forward,Lyon,1.76,22000000.0,2024-2025,ligue-1
+gift orban,Centre-Forward,Lyon,1.78,10000000.0,2024-2025,ligue-1
+alexandre lacazette,Centre-Forward,Lyon,1.75,6000000.0,2024-2025,ligue-1
+aliou badara balde,Centre-Forward,Lyon,1.76,4000000.0,2024-2025,ligue-1
+alejandro rodriguez,Centre-Forward,Lyon,1.76,100000.0,2024-2025,ligue-1
+enzo molebe,Centre-Forward,Lyon,,100000.0,2024-2025,ligue-1
+ore petrovic,Goalkeeper,Strasbourg,1.94,20000000.0,2024-2025,ligue-1
+robin risser,Goalkeeper,Strasbourg,1.93,1500000.0,2024-2025,ligue-1
+alaa bellaarouch,Goalkeeper,Strasbourg,1.89,400000.0,2024-2025,ligue-1
+karljohan johnsson,Goalkeeper,Strasbourg,1.88,300000.0,2024-2025,ligue-1
+mamadou sarr,Centre-Back,Strasbourg,1.94,20000000.0,2024-2025,ligue-1
+ismael doukoure,Centre-Back,Strasbourg,1.83,18000000.0,2024-2025,ligue-1
+abakar sylla,Centre-Back,Strasbourg,1.88,10000000.0,2024-2025,ligue-1
+andrew omobamidele,Centre-Back,Strasbourg,1.88,8000000.0,2024-2025,ligue-1
+saidou sow,Centre-Back,Strasbourg,1.87,6000000.0,2024-2025,ligue-1
+yoni gomis,Centre-Back,Strasbourg,1.86,700000.0,2024-2025,ligue-1
+papa amadou diallo,Centre-Back,Strasbourg,,,2024-2025,ligue-1
+sacha lung,Centre-Back,Strasbourg,,,2024-2025,ligue-1
+caleb wiley,Left-Back,Strasbourg,1.8,8000000.0,2024-2025,ligue-1
+eduard sobol,Left-Back,Strasbourg,1.86,900000.0,2024-2025,ligue-1
+thomas delaine,Left-Back,Strasbourg,1.8,600000.0,2024-2025,ligue-1
+guela doue,Right-Back,Strasbourg,1.87,18000000.0,2024-2025,ligue-1
+marvin senaya,Right-Back,Strasbourg,1.81,1800000.0,2024-2025,ligue-1
+karol fila,Right-Back,Strasbourg,1.83,600000.0,2024-2025,ligue-1
+junior mwanga,Defensive Midfield,Strasbourg,1.84,6000000.0,2024-2025,ligue-1
+rabby nzingoula,Defensive Midfield,Strasbourg,1.83,2500000.0,2024-2025,ligue-1
+pape cheikh diop,Defensive Midfield,Strasbourg,1.93,800000.0,2024-2025,ligue-1
+andrey santos,Central Midfield,Strasbourg,1.8,35000000.0,2024-2025,ligue-1
+habib diarra,Central Midfield,Strasbourg,1.78,20000000.0,2024-2025,ligue-1
+valentin barco,Central Midfield,Strasbourg,1.7,12000000.0,2024-2025,ligue-1
+samir el mourabet,Central Midfield,Strasbourg,1.86,50000.0,2024-2025,ligue-1
+diego moreira,Left Midfield,Strasbourg,1.79,18000000.0,2024-2025,ligue-1
+sebastian nanasi,Left Midfield,Strasbourg,1.78,18000000.0,2024-2025,ligue-1
+felix lemarechal,Attacking Midfield,Strasbourg,1.8,10000000.0,2024-2025,ligue-1
+cheikh tidiane sabaly,Attacking Midfield,Strasbourg,1.76,,2024-2025,ligue-1
+oscar perea,Left Winger,Strasbourg,1.74,2000000.0,2024-2025,ligue-1
+nordine kandil,Left Winger,Strasbourg,1.67,1000000.0,2024-2025,ligue-1
+rayane messi,Left Winger,Strasbourg,1.75,800000.0,2024-2025,ligue-1
+jeremy sebas,Left Winger,Strasbourg,1.87,700000.0,2024-2025,ligue-1
+dilane bakwa,Right Winger,Strasbourg,1.8,25000000.0,2024-2025,ligue-1
+samuel amoameyaw,Right Winger,Strasbourg,1.74,4000000.0,2024-2025,ligue-1
+abdoul ouattara,Right Winger,Strasbourg,1.8,1200000.0,2024-2025,ligue-1
+ghianny kodia,Right Winger,Strasbourg,,,2024-2025,ligue-1
+emanuel emegha,Centre-Forward,Strasbourg,1.96,25000000.0,2024-2025,ligue-1
+milos lukovic,Centre-Forward,Strasbourg,1.84,5000000.0,2024-2025,ligue-1
+sekou mara,Centre-Forward,Strasbourg,1.83,5000000.0,2024-2025,ligue-1
+moise sahi dion,Centre-Forward,Strasbourg,1.75,1000000.0,2024-2025,ligue-1
+zoumana diallo,Centre-Forward,Strasbourg,1.85,,2024-2025,ligue-1
+brice samba,Goalkeeper,Lens,1.87,12000000.0,2024-2025,ligue-1
+mathew ryan,Goalkeeper,Lens,1.84,2500000.0,2024-2025,ligue-1
+herve koffi,Goalkeeper,Lens,1.86,1200000.0,2024-2025,ligue-1
+denis petric,Goalkeeper,Lens,1.86,100000.0,2024-2025,ligue-1
+leo roman,Goalkeeper,Lens,,,2024-2025,ligue-1
+adam delplace,Goalkeeper,Lens,,,2024-2025,ligue-1
+ilan jourdren,Goalkeeper,Lens,1.88,,2024-2025,ligue-1
+abdukodir khusanov,Centre-Back,Lens,1.86,35000000.0,2024-2025,ligue-1
+kevin danso,Centre-Back,Lens,1.9,25000000.0,2024-2025,ligue-1
+facundo medina,Centre-Back,Lens,1.84,25000000.0,2024-2025,ligue-1
+juma bah,Centre-Back,Lens,1.95,6000000.0,2024-2025,ligue-1
+malang sarr,Centre-Back,Lens,1.83,5000000.0,2024-2025,ligue-1
+jonathan gradit,Centre-Back,Lens,1.8,4000000.0,2024-2025,ligue-1
+nidal celik,Centre-Back,Lens,1.92,1800000.0,2024-2025,ligue-1
+ismaelo ganiou,Centre-Back,Lens,1.85,1000000.0,2024-2025,ligue-1
+kyllian antonio,Centre-Back,Lens,1.83,300000.0,2024-2025,ligue-1
+souleymane sagnan,Centre-Back,Lens,1.87,,2024-2025,ligue-1
+jhoanner chavez,Left-Back,Lens,1.82,3500000.0,2024-2025,ligue-1
+deiver machado,Left-Back,Lens,1.8,3000000.0,2024-2025,ligue-1
+massadio haidara,Left-Back,Lens,1.79,1500000.0,2024-2025,ligue-1
+oscar vilhelmsson,Left-Back,Lens,,,2024-2025,ligue-1
+przemysaw frankowski,Right-Back,Lens,1.75,7000000.0,2024-2025,ligue-1
+ruben aguilar,Right-Back,Lens,1.72,3500000.0,2024-2025,ligue-1
+tom pouilly,Right-Back,Lens,1.8,800000.0,2024-2025,ligue-1
+hamzat ojediran,Defensive Midfield,Lens,1.8,1800000.0,2024-2025,ligue-1
+nampalys mendy,Defensive Midfield,Lens,1.68,1800000.0,2024-2025,ligue-1
+andy diouf,Central Midfield,Lens,1.87,15000000.0,2024-2025,ligue-1
+neil el aynaoui,Central Midfield,Lens,1.85,15000000.0,2024-2025,ligue-1
+david costa,Attacking Midfield,Lens,1.68,6000000.0,2024-2025,ligue-1
+angelo fulgini,Attacking Midfield,Lens,1.82,5000000.0,2024-2025,ligue-1
+adrien thomasson,Attacking Midfield,Lens,1.75,5000000.0,2024-2025,ligue-1
+anass zaroury,Left Winger,Lens,1.76,8000000.0,2024-2025,ligue-1
+kembo diliwidi,Left Winger,Lens,1.8,50000.0,2024-2025,ligue-1
+jeremy agbonifo,Right Winger,Lens,1.78,5000000.0,2024-2025,ligue-1
+herve boua die,Right Winger,Lens,,,2024-2025,ligue-1
+mbala nzola,Centre-Forward,Lens,1.85,6000000.0,2024-2025,ligue-1
+martin satriano,Centre-Forward,Lens,1.87,5000000.0,2024-2025,ligue-1
+wesley said,Centre-Forward,Lens,1.71,3000000.0,2024-2025,ligue-1
+goduine koyalipou,Centre-Forward,Lens,1.84,2500000.0,2024-2025,ligue-1
+florian sotoca,Centre-Forward,Lens,1.87,2000000.0,2024-2025,ligue-1
+remy labeau lascary,Centre-Forward,Lens,1.84,2000000.0,2024-2025,ligue-1
+rayan fofana,Centre-Forward,Lens,,50000.0,2024-2025,ligue-1
+gabin capuano,Centre-Forward,Lens,,50000.0,2024-2025,ligue-1
+guillaume restes,Goalkeeper,Toulouse,1.88,20000000.0,2024-2025,ligue-1
+kjetil haug,Goalkeeper,Toulouse,1.87,600000.0,2024-2025,ligue-1
+alex dominguez,Goalkeeper,Toulouse,1.87,300000.0,2024-2025,ligue-1
+justin lacombe,Goalkeeper,Toulouse,1.92,,2024-2025,ligue-1
+mathys niflore,Goalkeeper,Toulouse,1.92,,2024-2025,ligue-1
+logan costa,Centre-Back,Toulouse,1.9,18000000.0,2024-2025,ligue-1
+charlie cresswell,Centre-Back,Toulouse,1.9,10000000.0,2024-2025,ligue-1
+mark mckenzie,Centre-Back,Toulouse,1.84,6000000.0,2024-2025,ligue-1
+rasmus nicolaisen,Centre-Back,Toulouse,1.91,4500000.0,2024-2025,ligue-1
+jaydee canvot,Centre-Back,Toulouse,1.88,4000000.0,2024-2025,ligue-1
+umit akdag,Centre-Back,Toulouse,1.92,600000.0,2024-2025,ligue-1
+dayann methalie,Centre-Back,Toulouse,,,2024-2025,ligue-1
+gabriel suazo,Left-Back,Toulouse,1.78,4000000.0,2024-2025,ligue-1
+ylies aradj,Left-Back,Toulouse,1.79,,2024-2025,ligue-1
+warren kamanzi,Right-Back,Toulouse,1.77,2000000.0,2024-2025,ligue-1
+djibril sidibe,Right-Back,Toulouse,1.83,1000000.0,2024-2025,ligue-1
+cristian casseres jr,Central Midfield,Toulouse,1.76,6000000.0,2024-2025,ligue-1
+vincent sierro,Central Midfield,Toulouse,1.85,4000000.0,2024-2025,ligue-1
+niklas schmidt,Central Midfield,Toulouse,1.84,1800000.0,2024-2025,ligue-1
+miha zajc,Central Midfield,Toulouse,1.78,1500000.0,2024-2025,ligue-1
+rafik messali,Right Midfield,Toulouse,1.77,800000.0,2024-2025,ligue-1
+aron dnnum,Left Midfield,Toulouse,1.78,4000000.0,2024-2025,ligue-1
+naatan skytta,Attacking Midfield,Toulouse,1.74,3000000.0,2024-2025,ligue-1
+denis genreau,Attacking Midfield,Toulouse,1.75,800000.0,2024-2025,ligue-1
+edhy zuliani,Attacking Midfield,Toulouse,,50000.0,2024-2025,ligue-1
+mathis saka,Attacking Midfield,Toulouse,1.72,50000.0,2024-2025,ligue-1
+yann gboho,Left Winger,Toulouse,1.78,8000000.0,2024-2025,ligue-1
+ilyas azizi,Left Winger,Toulouse,,,2024-2025,ligue-1
+zakaria aboukhlal,Right Winger,Toulouse,1.79,12000000.0,2024-2025,ligue-1
+shavy babicka,Right Winger,Toulouse,1.79,2500000.0,2024-2025,ligue-1
+noah edjouma,Right Winger,Toulouse,1.82,800000.0,2024-2025,ligue-1
+mamady bangre,Right Winger,Toulouse,1.71,500000.0,2024-2025,ligue-1
+frank magri,Centre-Forward,Toulouse,1.78,3000000.0,2024-2025,ligue-1
+joshua king,Centre-Forward,Toulouse,1.8,1800000.0,2024-2025,ligue-1
+alban lafont,Goalkeeper,Nantes,1.96,3000000.0,2024-2025,ligue-1
+anthony lopes,Goalkeeper,Nantes,1.84,1200000.0,2024-2025,ligue-1
+patrik carlgren,Goalkeeper,Nantes,1.89,600000.0,2024-2025,ligue-1
+hugo boutsingkham,Goalkeeper,Nantes,1.89,50000.0,2024-2025,ligue-1
+nathan zeze,Centre-Back,Nantes,1.9,15000000.0,2024-2025,ligue-1
+saidou sow,Centre-Back,Nantes,1.87,6000000.0,2024-2025,ligue-1
+jeancharles castelletto,Centre-Back,Nantes,1.86,3500000.0,2024-2025,ligue-1
+jeankevin duverne,Centre-Back,Nantes,1.86,2500000.0,2024-2025,ligue-1
+nicolas pallois,Centre-Back,Nantes,1.89,400000.0,2024-2025,ligue-1
+sekou doucoure,Centre-Back,Nantes,1.87,50000.0,2024-2025,ligue-1
+enzo mongo,Centre-Back,Nantes,1.85,,2024-2025,ligue-1
+nicolas cozza,Left-Back,Nantes,1.78,3500000.0,2024-2025,ligue-1
+kelvin amian,Right-Back,Nantes,1.8,2500000.0,2024-2025,ligue-1
+fabien centonze,Right-Back,Nantes,1.82,1800000.0,2024-2025,ligue-1
+mathieu acapandie,Right-Back,Nantes,1.82,,2024-2025,ligue-1
+johann lepenant,Defensive Midfield,Nantes,1.76,6000000.0,2024-2025,ligue-1
+pedro chirivella,Defensive Midfield,Nantes,1.78,5000000.0,2024-2025,ligue-1
+jeanphilippe gbamin,Defensive Midfield,Nantes,1.86,2000000.0,2024-2025,ligue-1
+francis coquelin,Defensive Midfield,Nantes,1.77,900000.0,2024-2025,ligue-1
+douglas,Central Midfield,Nantes,1.73,6000000.0,2024-2025,ligue-1
+dehmaine tabibou,Central Midfield,Nantes,1.83,200000.0,2024-2025,ligue-1
+louis leroux,Attacking Midfield,Nantes,1.84,4000000.0,2024-2025,ligue-1
+florent mollet,Attacking Midfield,Nantes,1.75,1200000.0,2024-2025,ligue-1
+moses simon,Left Winger,Nantes,1.68,12000000.0,2024-2025,ligue-1
+marcus coco,Left Winger,Nantes,1.84,1200000.0,2024-2025,ligue-1
+bahereba guirassy,Left Winger,Nantes,1.86,1000000.0,2024-2025,ligue-1
+adel mahamoud,Left Winger,Nantes,1.83,50000.0,2024-2025,ligue-1
+sorba thomas,Right Winger,Nantes,1.85,3500000.0,2024-2025,ligue-1
+matthis abline,Centre-Forward,Nantes,1.82,18000000.0,2024-2025,ligue-1
+mostafa mohamed,Centre-Forward,Nantes,1.85,5000000.0,2024-2025,ligue-1
+meschak elia,Centre-Forward,Nantes,1.73,4000000.0,2024-2025,ligue-1
+tino kadewere,Centre-Forward,Nantes,1.83,2500000.0,2024-2025,ligue-1
+ignatius ganago,Centre-Forward,Nantes,1.76,2000000.0,2024-2025,ligue-1
+plamedi nsingi,Centre-Forward,Nantes,1.89,,2024-2025,ligue-1
+marco bizot,Goalkeeper,Brest,1.93,3000000.0,2024-2025,ligue-1
+gregoire coudert,Goalkeeper,Brest,1.92,500000.0,2024-2025,ligue-1
+noah joel sarenren bazee,Goalkeeper,Brest,1.94,,2024-2025,ligue-1
+soumaila coulibaly,Centre-Back,Brest,1.91,8000000.0,2024-2025,ligue-1
+brendan chardonnet,Centre-Back,Brest,1.81,6000000.0,2024-2025,ligue-1
+abdoulaye niakhate ndiaye,Centre-Back,Brest,1.95,4000000.0,2024-2025,ligue-1
+julien le cardinal,Centre-Back,Brest,1.84,2000000.0,2024-2025,ligue-1
+achraf dari,Centre-Back,Brest,1.88,1500000.0,2024-2025,ligue-1
+unai vencedor paris,Centre-Back,Brest,1.86,,2024-2025,ligue-1
+raphael le guen,Centre-Back,Brest,1.96,,2024-2025,ligue-1
+bradley locko,Left-Back,Brest,1.8,9000000.0,2024-2025,ligue-1
+massadio haidara,Left-Back,Brest,1.79,1500000.0,2024-2025,ligue-1
+jordan amavi,Left-Back,Brest,1.76,1500000.0,2024-2025,ligue-1
+justin bourgault,Left-Back,Brest,1.85,800000.0,2024-2025,ligue-1
+luck zogbe,Right-Back,Brest,1.78,2500000.0,2024-2025,ligue-1
+kenny lala,Right-Back,Brest,1.78,2000000.0,2024-2025,ligue-1
+pierre leesmelou,Defensive Midfield,Brest,1.85,6000000.0,2024-2025,ligue-1
+edimilson fernandes,Defensive Midfield,Brest,1.87,3000000.0,2024-2025,ligue-1
+jonas martin,Defensive Midfield,Brest,1.84,600000.0,2024-2025,ligue-1
+hamidou makalou,Defensive Midfield,Brest,1.64,300000.0,2024-2025,ligue-1
+mahdi camara,Central Midfield,Brest,1.78,9000000.0,2024-2025,ligue-1
+hugo magnetti,Central Midfield,Brest,1.8,6000000.0,2024-2025,ligue-1
+hianga mananga mbock,Central Midfield,Brest,1.86,400000.0,2024-2025,ligue-1
+romain faivre,Right Midfield,Brest,1.8,6000000.0,2024-2025,ligue-1
+kamory doumbia,Attacking Midfield,Brest,1.7,4000000.0,2024-2025,ligue-1
+noan geraux,Attacking Midfield,Brest,,,2024-2025,ligue-1
+abdallah sima,Left Winger,Brest,1.88,9000000.0,2024-2025,ligue-1
+ibrahim salah,Left Winger,Brest,1.86,3000000.0,2024-2025,ligue-1
+mathias pereira lage,Left Winger,Brest,1.8,2500000.0,2024-2025,ligue-1
+axel camblan,Left Winger,Brest,1.74,500000.0,2024-2025,ligue-1
+leo skiri stigard,Left Winger,Brest,,,2024-2025,ligue-1
+romain del castillo,Right Winger,Brest,1.72,7000000.0,2024-2025,ligue-1
+ibrahim maza,Right Winger,Brest,,,2024-2025,ligue-1
+aliou badara balde,Centre-Forward,Brest,1.76,4000000.0,2024-2025,ligue-1
+ludovic ajorque,Centre-Forward,Brest,1.96,4000000.0,2024-2025,ligue-1
+jeremy le douaron,Centre-Forward,Brest,1.89,3000000.0,2024-2025,ligue-1
+saliou diop,Centre-Forward,Brest,1.87,50000.0,2024-2025,ligue-1
+donovan leon,Goalkeeper,Auxerre,1.87,1000000.0,2024-2025,ligue-1
+theo de percin,Goalkeeper,Auxerre,1.85,300000.0,2024-2025,ligue-1
+tom negrel,Goalkeeper,Auxerre,1.92,50000.0,2024-2025,ligue-1
+raphael adiceam,Goalkeeper,Auxerre,1.79,50000.0,2024-2025,ligue-1
+sinaly diomande,Centre-Back,Auxerre,1.84,5000000.0,2024-2025,ligue-1
+clement akpa,Centre-Back,Auxerre,1.81,5000000.0,2024-2025,ligue-1
+gabriel osho,Centre-Back,Auxerre,1.85,3000000.0,2024-2025,ligue-1
+jubal,Centre-Back,Auxerre,1.9,2500000.0,2024-2025,ligue-1
+theo pellenard,Centre-Back,Auxerre,1.84,700000.0,2024-2025,ligue-1
+saad agouzoul,Centre-Back,Auxerre,1.91,500000.0,2024-2025,ligue-1
+madiou keita,Centre-Back,Auxerre,1.89,150000.0,2024-2025,ligue-1
+victor bernth kristiansen,Centre-Back,Auxerre,1.87,100000.0,2024-2025,ligue-1
+neil glossoa,Centre-Back,Auxerre,1.88,,2024-2025,ligue-1
+telli siwe,Centre-Back,Auxerre,,,2024-2025,ligue-1
+marvyn muzungu,Centre-Back,Auxerre,1.92,,2024-2025,ligue-1
+gideon mensah,Left-Back,Auxerre,1.78,4000000.0,2024-2025,ligue-1
+fredrik oppegard,Left-Back,Auxerre,1.75,600000.0,2024-2025,ligue-1
+kijana hoever,Right-Back,Auxerre,1.83,5000000.0,2024-2025,ligue-1
+paul joly,Right-Back,Auxerre,1.82,1800000.0,2024-2025,ligue-1
+loic ngatta,Right-Back,Auxerre,1.75,100000.0,2024-2025,ligue-1
+elisha owusu,Defensive Midfield,Auxerre,1.82,3000000.0,2024-2025,ligue-1
+assane diousse,Defensive Midfield,Auxerre,1.75,700000.0,2024-2025,ligue-1
+rudy matondo,Defensive Midfield,Auxerre,1.8,300000.0,2024-2025,ligue-1
+nathan zeze,Defensive Midfield,Auxerre,1.77,100000.0,2024-2025,ligue-1
+kevin danois,Central Midfield,Auxerre,1.83,8000000.0,2024-2025,ligue-1
+hannoah massengo,Central Midfield,Auxerre,1.78,5000000.0,2024-2025,ligue-1
+rayan raveloson,Central Midfield,Auxerre,1.82,2000000.0,2024-2025,ligue-1
+yoann cisse,Left Midfield,Auxerre,,,2024-2025,ligue-1
+hamed junior traore,Attacking Midfield,Auxerre,1.77,20000000.0,2024-2025,ligue-1
+ben viadere,Attacking Midfield,Auxerre,1.76,,2024-2025,ligue-1
+aristide zossou,Left Winger,Auxerre,1.78,100000.0,2024-2025,ligue-1
+gaetan perrin,Right Winger,Auxerre,1.69,8000000.0,2024-2025,ligue-1
+lasso coulibaly,Right Winger,Auxerre,1.76,1200000.0,2024-2025,ligue-1
+eros maddy,Right Winger,Auxerre,1.77,150000.0,2024-2025,ligue-1
+lassine sinayoko,Centre-Forward,Auxerre,1.86,4000000.0,2024-2025,ligue-1
+theo bair,Centre-Forward,Auxerre,1.91,1800000.0,2024-2025,ligue-1
+ado onaiwu,Centre-Forward,Auxerre,1.8,1500000.0,2024-2025,ligue-1
+florian aye,Centre-Forward,Auxerre,1.84,1200000.0,2024-2025,ligue-1
+arthur desmas,Goalkeeper,Le Havre,1.96,1200000.0,2024-2025,ligue-1
+mathieu gorgelin,Goalkeeper,Le Havre,1.87,300000.0,2024-2025,ligue-1
+alex oxladechamberlain,Goalkeeper,Le Havre,,,2024-2025,ligue-1
+gabriel osei misehouy,Goalkeeper,Le Havre,1.87,,2024-2025,ligue-1
+arouna sangante,Centre-Back,Le Havre,1.89,8000000.0,2024-2025,ligue-1
+etienne youte kinkoue,Centre-Back,Le Havre,1.96,7000000.0,2024-2025,ligue-1
+gautier lloris,Centre-Back,Le Havre,1.91,3000000.0,2024-2025,ligue-1
+yoann salmier,Centre-Back,Le Havre,1.88,800000.0,2024-2025,ligue-1
+stephan zagadou,Centre-Back,Le Havre,,,2024-2025,ligue-1
+christopher operi,Left-Back,Le Havre,1.83,3800000.0,2024-2025,ligue-1
+fode ballotoure,Left-Back,Le Havre,1.82,1200000.0,2024-2025,ligue-1
+yanis zouaoui,Left-Back,Le Havre,1.83,800000.0,2024-2025,ligue-1
+timothee pembele,Right-Back,Le Havre,1.83,2500000.0,2024-2025,ligue-1
+loic nego,Right-Back,Le Havre,1.81,700000.0,2024-2025,ligue-1
+oualid el hajjam,Right-Back,Le Havre,1.81,300000.0,2024-2025,ligue-1
+junior mwanga,Defensive Midfield,Le Havre,1.84,6000000.0,2024-2025,ligue-1
+oussama targhalline,Defensive Midfield,Le Havre,1.86,4000000.0,2024-2025,ligue-1
+abdoulaye toure,Defensive Midfield,Le Havre,1.88,3000000.0,2024-2025,ligue-1
+rassoul ndiaye,Defensive Midfield,Le Havre,1.79,2000000.0,2024-2025,ligue-1
+alois confais,Defensive Midfield,Le Havre,1.74,150000.0,2024-2025,ligue-1
+matheo bodmer,Defensive Midfield,Le Havre,1.79,50000.0,2024-2025,ligue-1
+daren mosengo,Defensive Midfield,Le Havre,,,2024-2025,ligue-1
+yassine kechta,Central Midfield,Le Havre,1.74,5000000.0,2024-2025,ligue-1
+daler kuzyaev,Central Midfield,Le Havre,1.82,3500000.0,2024-2025,ligue-1
+mahamadou diawara,Central Midfield,Le Havre,1.87,2000000.0,2024-2025,ligue-1
+hernani,Central Midfield,Le Havre,,,2024-2025,ligue-1
+guynoel zohouri,Central Midfield,Le Havre,1.88,,2024-2025,ligue-1
+ismail bouneb,Attacking Midfield,Le Havre,1.82,50000.0,2024-2025,ligue-1
+antoine joujou,Left Winger,Le Havre,1.89,2000000.0,2024-2025,ligue-1
+issa soumare,Left Winger,Le Havre,1.82,2000000.0,2024-2025,ligue-1
+kandet diawara,Left Winger,Le Havre,1.8,400000.0,2024-2025,ligue-1
+josue casimir,Right Winger,Le Havre,1.78,4000000.0,2024-2025,ligue-1
+emmanuel sabbi,Right Winger,Le Havre,1.78,1500000.0,2024-2025,ligue-1
+samuel grandsir,Right Winger,Le Havre,1.7,800000.0,2024-2025,ligue-1
+ruben,Right Winger,Le Havre,1.93,,2024-2025,ligue-1
+ilyes housni,Centre-Forward,Le Havre,1.72,1500000.0,2024-2025,ligue-1
+steve ngoura,Centre-Forward,Le Havre,1.93,800000.0,2024-2025,ligue-1
+ahmed hassan,Centre-Forward,Le Havre,1.91,800000.0,2024-2025,ligue-1
+andre ayew,Centre-Forward,Le Havre,1.75,600000.0,2024-2025,ligue-1
+yann aurel bisseck,Centre-Forward,Le Havre,1.86,400000.0,2024-2025,ligue-1
+elysee logbo,Centre-Forward,Le Havre,1.88,400000.0,2024-2025,ligue-1
+enzo roco,Centre-Forward,Le Havre,1.89,,2024-2025,ligue-1
+yahia fofana,Goalkeeper,Angers,1.94,7000000.0,2024-2025,ligue-1
+melvin zinga,Goalkeeper,Angers,1.87,300000.0,2024-2025,ligue-1
+cheick oumar conde,Goalkeeper,Angers,1.89,,2024-2025,ligue-1
+emmanuel biumla,Centre-Back,Angers,1.85,4000000.0,2024-2025,ligue-1
+jordan lefort,Centre-Back,Angers,1.84,1500000.0,2024-2025,ligue-1
+cedric hountondji,Centre-Back,Angers,1.94,1200000.0,2024-2025,ligue-1
+ousmane camara,Centre-Back,Angers,1.97,400000.0,2024-2025,ligue-1
+abdoulaye bamba,Centre-Back,Angers,1.82,300000.0,2024-2025,ligue-1
+josep antoni gaya,Centre-Back,Angers,1.94,,2024-2025,ligue-1
+jacques ekomie,Left-Back,Angers,1.79,800000.0,2024-2025,ligue-1
+florent hanin,Left-Back,Angers,1.77,300000.0,2024-2025,ligue-1
+carlens arcus,Right-Back,Angers,1.76,1800000.0,2024-2025,ligue-1
+lilian raolisoa,Right-Back,Angers,1.78,800000.0,2024-2025,ligue-1
+halid sabanovic,Right-Back,Angers,1.82,150000.0,2024-2025,ligue-1
+marius louer,Right-Back,Angers,,,2024-2025,ligue-1
+jeaneudes aholou,Defensive Midfield,Angers,1.86,2000000.0,2024-2025,ligue-1
+zinedine ould khaled,Defensive Midfield,Angers,1.95,400000.0,2024-2025,ligue-1
+marius courcoul,Defensive Midfield,Angers,1.82,300000.0,2024-2025,ligue-1
+enzo caumont,Defensive Midfield,Angers,,50000.0,2024-2025,ligue-1
+haris belkebla,Central Midfield,Angers,1.77,2000000.0,2024-2025,ligue-1
+yassin belkhdim,Central Midfield,Angers,1.75,1000000.0,2024-2025,ligue-1
+joseph lopy,Central Midfield,Angers,1.81,300000.0,2024-2025,ligue-1
+pierrick capelle,Central Midfield,Angers,1.81,200000.0,2024-2025,ligue-1
+himad abdelli,Attacking Midfield,Angers,1.85,7000000.0,2024-2025,ligue-1
+amine adli,Attacking Midfield,Angers,,,2024-2025,ligue-1
+farid el melali,Left Winger,Angers,1.68,3500000.0,2024-2025,ligue-1
+jim allevinah,Right Winger,Angers,1.72,1500000.0,2024-2025,ligue-1
+zinedine ferhat,Right Winger,Angers,1.8,1000000.0,2024-2025,ligue-1
+justinnoel kalumba,Right Winger,Angers,1.71,400000.0,2024-2025,ligue-1
+willsem boussaid,Right Winger,Angers,,,2024-2025,ligue-1
+esteban lepaul,Centre-Forward,Angers,1.81,7000000.0,2024-2025,ligue-1
+bamba dieng,Centre-Forward,Angers,1.78,3000000.0,2024-2025,ligue-1
+lois diony,Centre-Forward,Angers,1.83,1200000.0,2024-2025,ligue-1
+ibrahima niane,Centre-Forward,Angers,1.87,1000000.0,2024-2025,ligue-1
+sidiki cherif,Centre-Forward,Angers,1.85,800000.0,2024-2025,ligue-1
+adrien hunou,Centre-Forward,Angers,1.79,400000.0,2024-2025,ligue-1
+prosper peter,Centre-Forward,Angers,,50000.0,2024-2025,ligue-1
+lanroy machine,Centre-Forward,Angers,1.83,,2024-2025,ligue-1
 ederson,Goalkeeper,Manchester City,1.88,40000000.0,2022-2023,premier-league
 stefan ortega,Goalkeeper,Manchester City,1.85,9000000.0,2022-2023,premier-league
 zack steffen,Goalkeeper,Manchester City,1.91,3500000.0,2022-2023,premier-league
@@ -3315,7 +4922,7 @@ john stones,Centre-Back,Manchester City,1.88,40000000.0,2022-2023,premier-league
 manuel akanji,Centre-Back,Manchester City,1.88,38000000.0,2022-2023,premier-league
 aymeric laporte,Centre-Back,Manchester City,1.91,25000000.0,2022-2023,premier-league
 luke woolfenden,Centre-Back,Manchester City,1.85,2000000.0,2022-2023,premier-league
-josh dasilva,Left-Back,Manchester City,1.76,1500000.0,2022-2023,premier-league
+josh wilsonesbrand,Left-Back,Manchester City,1.76,1500000.0,2022-2023,premier-league
 benjamin mendy,Left-Back,Manchester City,1.85,,2022-2023,premier-league
 joao cancelo,Right-Back,Manchester City,1.82,50000000.0,2022-2023,premier-league
 rico lewis,Right-Back,Manchester City,1.7,20000000.0,2022-2023,premier-league
@@ -3384,7 +4991,7 @@ nathan butleroyedeji,Centre-Forward,Arsenal,1.77,100000.0,2022-2023,premier-leag
 kepa arrizabalaga,Goalkeeper,Chelsea,1.88,18000000.0,2022-2023,premier-league
 edouard mendy,Goalkeeper,Chelsea,1.94,12000000.0,2022-2023,premier-league
 gabriel slonina,Goalkeeper,Chelsea,1.93,9000000.0,2022-2023,premier-league
-marcus bettinelli,Goalkeeper,Chelsea,1.93,1500000.0,2022-2023,premier-league
+marcus coco,Goalkeeper,Chelsea,1.93,1500000.0,2022-2023,premier-league
 lucas,Goalkeeper,Chelsea,2.05,250000.0,2022-2023,premier-league
 ethan wady,Goalkeeper,Chelsea,,,2022-2023,premier-league
 wesley fofana,Centre-Back,Chelsea,1.85,55000000.0,2022-2023,premier-league
@@ -3638,7 +5245,7 @@ diego carlos,Centre-Back,Aston Villa,1.85,20000000.0,2022-2023,premier-league
 jan bednarek,Centre-Back,Aston Villa,1.89,14000000.0,2022-2023,premier-league
 calum chambers,Centre-Back,Aston Villa,1.82,8000000.0,2022-2023,premier-league
 kortney hause,Centre-Back,Aston Villa,1.91,2200000.0,2022-2023,premier-league
-josh feeney,Centre-Back,Aston Villa,1.96,300000.0,2022-2023,premier-league
+josh wilsonesbrand,Centre-Back,Aston Villa,1.96,300000.0,2022-2023,premier-league
 sil swinkels,Centre-Back,Aston Villa,,150000.0,2022-2023,premier-league
 alex moreno,Left-Back,Aston Villa,1.79,15000000.0,2022-2023,premier-league
 lucas digne,Left-Back,Aston Villa,1.78,15000000.0,2022-2023,premier-league
@@ -3736,7 +5343,7 @@ harrison ashby,Right-Back,West Ham,1.79,1000000.0,2022-2023,premier-league
 tomas soucek,Defensive Midfield,West Ham,1.92,35000000.0,2022-2023,premier-league
 flynn downes,Defensive Midfield,West Ham,1.78,9000000.0,2022-2023,premier-league
 conor coventry,Defensive Midfield,West Ham,1.77,1800000.0,2022-2023,premier-league
-pierre ekwah,Defensive Midfield,West Ham,1.89,500000.0,2022-2023,premier-league
+pierre ekwah elimby,Defensive Midfield,West Ham,1.89,500000.0,2022-2023,premier-league
 keenan appiahforson,Defensive Midfield,West Ham,1.74,300000.0,2022-2023,premier-league
 fred,Defensive Midfield,West Ham,1.83,250000.0,2022-2023,premier-league
 declan rice,Central Midfield,West Ham,1.88,90000000.0,2022-2023,premier-league
@@ -3836,7 +5443,7 @@ gustavo scarpa,Attacking Midfield,Nott'ham Forest,1.77,10000000.0,2022-2023,prem
 jesse lingard,Attacking Midfield,Nott'ham Forest,1.74,8000000.0,2022-2023,premier-league
 alex mighten,Left Winger,Nott'ham Forest,1.71,600000.0,2022-2023,premier-league
 brennan johnson,Right Winger,Nott'ham Forest,1.86,38000000.0,2022-2023,premier-league
-josh bowler,Right Winger,Nott'ham Forest,1.84,1800000.0,2022-2023,premier-league
+josh wilsonesbrand,Right Winger,Nott'ham Forest,1.84,1800000.0,2022-2023,premier-league
 taiwo awoniyi,Centre-Forward,Nott'ham Forest,1.83,25000000.0,2022-2023,premier-league
 emmanuel dennis,Centre-Forward,Nott'ham Forest,1.75,8000000.0,2022-2023,premier-league
 chris wood,Centre-Forward,Nott'ham Forest,1.91,8000000.0,2022-2023,premier-league
@@ -3979,7 +5586,7 @@ connor mcavoy,Centre-Back,Fulham,1.9,250000.0,2022-2023,premier-league
 charlie robinson,Centre-Back,Fulham,,,2022-2023,premier-league
 antonee robinson,Left-Back,Fulham,1.83,15000000.0,2022-2023,premier-league
 layvin kurzawa,Left-Back,Fulham,1.82,3000000.0,2022-2023,premier-league
-bryan zaragoza,Left-Back,Fulham,1.7,2200000.0,2022-2023,premier-league
+joe bryan,Left-Back,Fulham,1.7,2200000.0,2022-2023,premier-league
 stefan parkes,Left-Back,Fulham,,150000.0,2022-2023,premier-league
 kenny tete,Right-Back,Fulham,1.8,15000000.0,2022-2023,premier-league
 kevin mbabu,Right-Back,Fulham,1.84,3500000.0,2022-2023,premier-league
@@ -4030,7 +5637,7 @@ max rosenfelder,Centre-Back,Bournemouth,1.84,,2022-2023,premier-league
 owen bevan,Centre-Back,Bournemouth,1.86,,2022-2023,premier-league
 matias vina,Left-Back,Bournemouth,1.75,8000000.0,2022-2023,premier-league
 jordan zemura,Left-Back,Bournemouth,1.73,6000000.0,2022-2023,premier-league
-ben doak,Left-Back,Bournemouth,1.7,100000.0,2022-2023,premier-league
+ben old,Left-Back,Bournemouth,1.7,100000.0,2022-2023,premier-league
 jack stacey,Right-Back,Bournemouth,1.8,2000000.0,2022-2023,premier-league
 ryan fredericks,Right-Back,Bournemouth,1.81,1500000.0,2022-2023,premier-league
 adam smith,Right-Back,Bournemouth,1.74,1200000.0,2022-2023,premier-league
@@ -4074,7 +5681,7 @@ taylor harwoodbellis,Centre-Back,Manchester City,1.88,22000000.0,2023-2024,premi
 aymeric laporte,Centre-Back,Manchester City,1.91,20000000.0,2023-2024,premier-league
 max alleyne,Centre-Back,Manchester City,1.85,500000.0,2023-2024,premier-league
 josko gvardiol,Left-Back,Manchester City,1.85,75000000.0,2023-2024,premier-league
-josh dasilva,Left-Back,Manchester City,1.76,4000000.0,2023-2024,premier-league
+josh wilsonesbrand,Left-Back,Manchester City,1.76,4000000.0,2023-2024,premier-league
 rico lewis,Right-Back,Manchester City,1.7,38000000.0,2023-2024,premier-league
 kyle walker,Right-Back,Manchester City,1.83,13000000.0,2023-2024,premier-league
 issa kabore,Right-Back,Manchester City,1.8,10000000.0,2023-2024,premier-league
@@ -4139,9 +5746,9 @@ gabriel jesus,Centre-Forward,Arsenal,1.75,65000000.0,2023-2024,premier-league
 eddie nketiah,Centre-Forward,Arsenal,1.75,30000000.0,2023-2024,premier-league
 robert sanchez,Goalkeeper,Chelsea,1.97,20000000.0,2023-2024,premier-league
 ore petrovic,Goalkeeper,Chelsea,1.94,20000000.0,2023-2024,premier-league
-marcus bettinelli,Goalkeeper,Chelsea,1.93,1000000.0,2023-2024,premier-league
+marcus coco,Goalkeeper,Chelsea,1.93,1000000.0,2023-2024,premier-league
 lucas,Goalkeeper,Chelsea,2.05,700000.0,2023-2024,premier-league
-teddy sharmanlowe,Goalkeeper,Chelsea,1.89,300000.0,2023-2024,premier-league
+teddy teuma,Goalkeeper,Chelsea,1.89,300000.0,2023-2024,premier-league
 eddie beach,Goalkeeper,Chelsea,1.96,250000.0,2023-2024,premier-league
 max merrick,Goalkeeper,Chelsea,,,2023-2024,premier-league
 ted curd,Goalkeeper,Chelsea,1.9,,2023-2024,premier-league
@@ -4179,7 +5786,7 @@ alex matos,Central Midfield,Chelsea,1.75,1200000.0,2023-2024,premier-league
 michael golding,Central Midfield,Chelsea,1.8,300000.0,2023-2024,premier-league
 jimi tauriainen,Central Midfield,Chelsea,1.88,200000.0,2023-2024,premier-league
 kiano dyer,Central Midfield,Chelsea,1.78,,2023-2024,premier-league
-diego,Left Midfield,Chelsea,1.79,3000000.0,2023-2024,premier-league
+diego moreira,Left Midfield,Chelsea,1.79,3000000.0,2023-2024,premier-league
 cole palmer,Attacking Midfield,Chelsea,1.85,80000000.0,2023-2024,premier-league
 leo roman,Attacking Midfield,Chelsea,1.75,900000.0,2023-2024,premier-league
 mykhailo mudryk,Left Winger,Chelsea,1.75,35000000.0,2023-2024,premier-league
@@ -4228,7 +5835,7 @@ tom hill,Central Midfield,Liverpool,1.9,300000.0,2023-2024,premier-league
 dominik szoboszlai,Attacking Midfield,Liverpool,1.87,75000000.0,2023-2024,premier-league
 harvey elliott,Attacking Midfield,Liverpool,1.7,35000000.0,2023-2024,premier-league
 fabio carvalho,Attacking Midfield,Liverpool,1.7,14000000.0,2023-2024,premier-league
-mateusz musialowski,Attacking Midfield,Liverpool,1.75,300000.0,2023-2024,premier-league
+mateusz lis,Attacking Midfield,Liverpool,1.75,300000.0,2023-2024,premier-league
 luis diaz,Left Winger,Liverpool,1.8,75000000.0,2023-2024,premier-league
 cody gakpo,Left Winger,Liverpool,1.93,50000000.0,2023-2024,premier-league
 lewis koumas,Left Winger,Liverpool,1.82,1000000.0,2023-2024,premier-league
@@ -4340,7 +5947,7 @@ tyrone mings,Centre-Back,Aston Villa,1.96,13000000.0,2023-2024,premier-league
 clement lenglet,Centre-Back,Aston Villa,1.86,10000000.0,2023-2024,premier-league
 calum chambers,Centre-Back,Aston Villa,1.82,4000000.0,2023-2024,premier-league
 kortney hause,Centre-Back,Aston Villa,1.91,2000000.0,2023-2024,premier-league
-josh feeney,Centre-Back,Aston Villa,1.96,500000.0,2023-2024,premier-league
+josh wilsonesbrand,Centre-Back,Aston Villa,1.96,500000.0,2023-2024,premier-league
 finley munroe,Centre-Back,Aston Villa,1.81,100000.0,2023-2024,premier-league
 alex moreno,Left-Back,Aston Villa,1.79,13000000.0,2023-2024,premier-league
 lucas digne,Left-Back,Aston Villa,1.78,12000000.0,2023-2024,premier-league
@@ -4501,7 +6108,7 @@ callum hudsonodoi,Left Winger,Nott'ham Forest,1.78,18000000.0,2023-2024,premier-
 alex mighten,Left Winger,Nott'ham Forest,1.71,600000.0,2023-2024,premier-league
 brennan johnson,Right Winger,Nott'ham Forest,1.86,48000000.0,2023-2024,premier-league
 anthony elanga,Right Winger,Nott'ham Forest,1.78,22000000.0,2023-2024,premier-league
-josh bowler,Right Winger,Nott'ham Forest,1.84,1500000.0,2023-2024,premier-league
+josh wilsonesbrand,Right Winger,Nott'ham Forest,1.84,1500000.0,2023-2024,premier-league
 taiwo awoniyi,Centre-Forward,Nott'ham Forest,1.83,28000000.0,2023-2024,premier-league
 chris wood,Centre-Forward,Nott'ham Forest,1.91,7000000.0,2023-2024,premier-league
 divock origi,Centre-Forward,Nott'ham Forest,1.89,5000000.0,2023-2024,premier-league
@@ -4689,7 +6296,7 @@ chris mepham,Centre-Back,Bournemouth,1.9,6000000.0,2023-2024,premier-league
 james hill,Centre-Back,Bournemouth,1.84,2000000.0,2023-2024,premier-league
 max rosenfelder,Centre-Back,Bournemouth,1.84,,2023-2024,premier-league
 milos kerkez,Left-Back,Bournemouth,1.8,20000000.0,2023-2024,premier-league
-ben doak,Left-Back,Bournemouth,1.7,,2023-2024,premier-league
+ben old,Left-Back,Bournemouth,1.7,,2023-2024,premier-league
 max aarons,Right-Back,Bournemouth,1.77,16000000.0,2023-2024,premier-league
 ryan fredericks,Right-Back,Bournemouth,1.81,1000000.0,2023-2024,premier-league
 adam smith,Right-Back,Bournemouth,1.74,1000000.0,2023-2024,premier-league
@@ -4827,7 +6434,7 @@ michael obafemi,Centre-Forward,Burnley,1.7,2200000.0,2023-2024,premier-league
 jay rodriguez,Centre-Forward,Burnley,1.85,1000000.0,2023-2024,premier-league
 ederson,Goalkeeper,Manchester City,1.88,20000000.0,2024-2025,premier-league
 stefan ortega,Goalkeeper,Manchester City,1.85,8000000.0,2024-2025,premier-league
-marcus bettinelli,Goalkeeper,Manchester City,1.93,600000.0,2024-2025,premier-league
+marcus coco,Goalkeeper,Manchester City,1.93,600000.0,2024-2025,premier-league
 scott carson,Goalkeeper,Manchester City,1.88,100000.0,2024-2025,premier-league
 spike brits,Goalkeeper,Manchester City,,,2024-2025,premier-league
 max rosenfelder,Goalkeeper,Manchester City,1.91,,2024-2025,premier-league
@@ -4842,7 +6449,7 @@ max alleyne,Centre-Back,Manchester City,1.85,500000.0,2024-2025,premier-league
 kaden braithwaite,Centre-Back,Manchester City,,,2024-2025,premier-league
 josko gvardiol,Left-Back,Manchester City,1.85,75000000.0,2024-2025,premier-league
 rayan aitnouri,Left-Back,Manchester City,1.8,35000000.0,2024-2025,premier-league
-josh dasilva,Left-Back,Manchester City,1.76,4000000.0,2024-2025,premier-league
+josh wilsonesbrand,Left-Back,Manchester City,1.76,4000000.0,2024-2025,premier-league
 rico lewis,Right-Back,Manchester City,1.7,40000000.0,2024-2025,premier-league
 kyle walker,Right-Back,Manchester City,1.83,4000000.0,2024-2025,premier-league
 issa kabore,Right-Back,Manchester City,1.8,4000000.0,2024-2025,premier-league
@@ -4874,7 +6481,7 @@ filip jrgensen,Goalkeeper,Chelsea,1.92,18000000.0,2024-2025,premier-league
 mike penders,Goalkeeper,Chelsea,2.0,12000000.0,2024-2025,premier-league
 gabriel slonina,Goalkeeper,Chelsea,1.93,3500000.0,2024-2025,premier-league
 lucas,Goalkeeper,Chelsea,2.05,700000.0,2024-2025,premier-league
-marcus bettinelli,Goalkeeper,Chelsea,1.93,600000.0,2024-2025,premier-league
+marcus coco,Goalkeeper,Chelsea,1.93,600000.0,2024-2025,premier-league
 max merrick,Goalkeeper,Chelsea,,,2024-2025,premier-league
 ted curd,Goalkeeper,Chelsea,1.9,,2024-2025,premier-league
 levi colwill,Centre-Back,Chelsea,1.87,55000000.0,2024-2025,premier-league
@@ -4884,7 +6491,7 @@ wesley fofana,Centre-Back,Chelsea,1.85,25000000.0,2024-2025,premier-league
 axel disasi,Centre-Back,Chelsea,1.91,22000000.0,2024-2025,premier-league
 benoit badiashile,Centre-Back,Chelsea,1.94,22000000.0,2024-2025,premier-league
 tosin adarabioyo,Centre-Back,Chelsea,1.97,20000000.0,2024-2025,premier-league
-mouhamadou sarr,Centre-Back,Chelsea,1.94,20000000.0,2024-2025,premier-league
+mamadou sarr,Centre-Back,Chelsea,1.94,20000000.0,2024-2025,premier-league
 aaron anselmino,Centre-Back,Chelsea,1.86,8000000.0,2024-2025,premier-league
 jack harrison,Centre-Back,Chelsea,1.89,500000.0,2024-2025,premier-league
 kaiden wilson,Centre-Back,Chelsea,,,2024-2025,premier-league
@@ -4947,7 +6554,7 @@ jurrien timber,Right-Back,Arsenal,1.79,55000000.0,2024-2025,premier-league
 ben white,Right-Back,Arsenal,1.86,45000000.0,2024-2025,premier-league
 takehiro tomiyasu,Right-Back,Arsenal,1.88,18000000.0,2024-2025,premier-league
 josh robinson,Right-Back,Arsenal,,,2024-2025,premier-league
-josh nichols,Right-Back,Arsenal,,,2024-2025,premier-league
+josh wilsonesbrand,Right-Back,Arsenal,,,2024-2025,premier-league
 thomas partey,Defensive Midfield,Arsenal,1.85,14000000.0,2024-2025,premier-league
 jorginho,Defensive Midfield,Arsenal,1.8,6000000.0,2024-2025,premier-league
 fran,Defensive Midfield,Arsenal,1.81,200000.0,2024-2025,premier-league
@@ -5063,7 +6670,7 @@ kevin danso,Centre-Back,Tottenham,1.9,25000000.0,2024-2025,premier-league
 radu dragusin,Centre-Back,Tottenham,1.91,25000000.0,2024-2025,premier-league
 ben davies,Centre-Back,Tottenham,1.81,6000000.0,2024-2025,premier-league
 alfie dorrington,Centre-Back,Tottenham,,700000.0,2024-2025,premier-league
-dante cassanova,Centre-Back,Tottenham,,,2024-2025,premier-league
+dante,Centre-Back,Tottenham,,,2024-2025,premier-league
 maeson king,Centre-Back,Tottenham,,,2024-2025,premier-league
 malachi hardy,Centre-Back,Tottenham,1.9,,2024-2025,premier-league
 destiny udogie,Left-Back,Tottenham,1.88,40000000.0,2024-2025,premier-league
@@ -5111,7 +6718,7 @@ travis patterson,Left-Back,Aston Villa,,,2024-2025,premier-league
 matty cash,Right-Back,Aston Villa,1.85,25000000.0,2024-2025,premier-league
 kosta nedeljkovic,Right-Back,Aston Villa,1.84,10000000.0,2024-2025,premier-league
 andres garcia,Right-Back,Aston Villa,1.85,7000000.0,2024-2025,premier-league
-triston rowe,Right-Back,Aston Villa,,,2024-2025,premier-league
+jon rowe,Right-Back,Aston Villa,,,2024-2025,premier-league
 amadou onana,Defensive Midfield,Aston Villa,1.95,50000000.0,2024-2025,premier-league
 boubacar kamara,Defensive Midfield,Aston Villa,1.84,40000000.0,2024-2025,premier-league
 lamare bogarde,Defensive Midfield,Aston Villa,1.85,6000000.0,2024-2025,premier-league
@@ -5327,7 +6934,7 @@ callum hudsonodoi,Left Winger,Nott'ham Forest,1.78,25000000.0,2024-2025,premier-
 ramon sosa,Left Winger,Nott'ham Forest,1.79,12000000.0,2024-2025,premier-league
 anthony elanga,Right Winger,Nott'ham Forest,1.78,42000000.0,2024-2025,premier-league
 jota silva,Right Winger,Nott'ham Forest,1.79,15000000.0,2024-2025,premier-league
-josh bowler,Right Winger,Nott'ham Forest,1.84,1000000.0,2024-2025,premier-league
+josh wilsonesbrand,Right Winger,Nott'ham Forest,1.84,1000000.0,2024-2025,premier-league
 taiwo awoniyi,Centre-Forward,Nott'ham Forest,1.83,16000000.0,2024-2025,premier-league
 chris wood,Centre-Forward,Nott'ham Forest,1.91,10000000.0,2024-2025,premier-league
 emmanuel dennis,Centre-Forward,Nott'ham Forest,1.75,2500000.0,2024-2025,premier-league
@@ -5378,7 +6985,7 @@ mateus mane,Centre-Forward,Wolverhampton Wanderers,,200000.0,2024-2025,premier-l
 mark flekken,Goalkeeper,Brentford,1.95,10000000.0,2024-2025,premier-league
 hakon rafn valdimarsson,Goalkeeper,Brentford,1.95,2500000.0,2024-2025,premier-league
 matthew cox,Goalkeeper,Brentford,1.83,800000.0,2024-2025,premier-league
-ben davies,Goalkeeper,Brentford,1.88,,2024-2025,premier-league
+ben old,Goalkeeper,Brentford,1.88,,2024-2025,premier-league
 julian eyestone,Goalkeeper,Brentford,2.0,,2024-2025,premier-league
 nathan collins,Centre-Back,Brentford,1.93,28000000.0,2024-2025,premier-league
 sepp van den berg,Centre-Back,Brentford,1.92,22000000.0,2024-2025,premier-league
@@ -5697,7 +7304,7 @@ nicolo casale,Centre-Back,Lazio,1.91,22000000.0,2022-2023,serie-a
 alessio romagnoli,Centre-Back,Lazio,1.85,18000000.0,2022-2023,serie-a
 patric,Centre-Back,Lazio,1.84,5000000.0,2022-2023,serie-a
 mario gila,Centre-Back,Lazio,1.85,3000000.0,2022-2023,serie-a
-andre,Centre-Back,Lazio,1.84,75000.0,2022-2023,serie-a
+fabio,Centre-Back,Lazio,1.84,75000.0,2022-2023,serie-a
 luca pellegrini,Left-Back,Lazio,1.78,7000000.0,2022-2023,serie-a
 fares chaibi,Left-Back,Lazio,1.83,2000000.0,2022-2023,serie-a
 dimitrije kamenovic,Left-Back,Lazio,1.89,700000.0,2022-2023,serie-a
@@ -5785,7 +7392,7 @@ nadir zortea,Right Midfield,Sassuolo,1.87,2000000.0,2022-2023,serie-a
 hamed junior traore,Attacking Midfield,Sassuolo,1.77,22000000.0,2022-2023,serie-a
 nedim bajrami,Attacking Midfield,Sassuolo,1.79,7500000.0,2022-2023,serie-a
 kristian thorstvedt,Attacking Midfield,Sassuolo,1.89,7500000.0,2022-2023,serie-a
-kevin bruno,Attacking Midfield,Sassuolo,,,2022-2023,serie-a
+kevin keben biakolo,Attacking Midfield,Sassuolo,,,2022-2023,serie-a
 armand lauriente,Left Winger,Sassuolo,1.71,18000000.0,2022-2023,serie-a
 emil forsberg,Left Winger,Sassuolo,1.85,2500000.0,2022-2023,serie-a
 domenico berardi,Right Winger,Sassuolo,1.83,18000000.0,2022-2023,serie-a
@@ -5891,7 +7498,7 @@ giorgos kyriakopoulos,Left-Back,Bologna,1.86,3800000.0,2022-2023,serie-a
 charalampos lykogiannis,Left-Back,Bologna,1.91,1000000.0,2022-2023,serie-a
 denso kasius,Right-Back,Bologna,1.83,1700000.0,2022-2023,serie-a
 lorenzo de silvestri,Right-Back,Bologna,1.87,400000.0,2022-2023,serie-a
-ibrahima mbaye,Right-Back,Bologna,1.88,300000.0,2022-2023,serie-a
+ibrahim mbaye,Right-Back,Bologna,1.88,300000.0,2022-2023,serie-a
 jerdy schouten,Defensive Midfield,Bologna,1.85,12000000.0,2022-2023,serie-a
 nikola moro,Defensive Midfield,Bologna,1.84,6500000.0,2022-2023,serie-a
 nicolas dominguez,Central Midfield,Bologna,1.79,17000000.0,2022-2023,serie-a
@@ -5941,7 +7548,7 @@ darko lazovic,Left Midfield,Hellas Verona,1.81,2500000.0,2022-2023,serie-a
 antonin barak,Attacking Midfield,Hellas Verona,1.9,10000000.0,2022-2023,serie-a
 simone verdi,Attacking Midfield,Hellas Verona,1.74,4000000.0,2022-2023,serie-a
 ajdin hrustic,Attacking Midfield,Hellas Verona,1.8,1500000.0,2022-2023,serie-a
-mateusz praszelik,Attacking Midfield,Hellas Verona,1.84,900000.0,2022-2023,serie-a
+mateusz lis,Attacking Midfield,Hellas Verona,1.84,900000.0,2022-2023,serie-a
 alessandro cortinovis,Attacking Midfield,Hellas Verona,1.8,700000.0,2022-2023,serie-a
 alphadjo cisse,Attacking Midfield,Hellas Verona,1.81,,2022-2023,serie-a
 jayden braaf,Left Winger,Hellas Verona,1.81,1000000.0,2022-2023,serie-a
@@ -5967,7 +7574,7 @@ luka lochoshvili,Centre-Back,Cremonese,1.92,1800000.0,2022-2023,serie-a
 luca netz,Centre-Back,Cremonese,1.87,1400000.0,2022-2023,serie-a
 alex ferrari,Centre-Back,Cremonese,1.91,1000000.0,2022-2023,serie-a
 matteo bianchetti,Centre-Back,Cremonese,1.89,800000.0,2022-2023,serie-a
-maissa ndiaye,Centre-Back,Cremonese,1.9,300000.0,2022-2023,serie-a
+massamba ndiaye,Centre-Back,Cremonese,1.9,300000.0,2022-2023,serie-a
 paolo gardoni,Centre-Back,Cremonese,1.89,25000.0,2022-2023,serie-a
 emanuele valeri,Left-Back,Cremonese,1.8,3500000.0,2022-2023,serie-a
 giacomo quagliata,Left-Back,Cremonese,1.8,2000000.0,2022-2023,serie-a
@@ -6031,7 +7638,7 @@ lautaro martinez,Centre-Forward,Inter,1.74,110000000.0,2023-2024,serie-a
 marcus thuram,Centre-Forward,Inter,1.92,65000000.0,2023-2024,serie-a
 marko arnautovic,Centre-Forward,Inter,1.92,4000000.0,2023-2024,serie-a
 alexis sanchez,Centre-Forward,Inter,1.69,2500000.0,2023-2024,serie-a
-amadou sarr,Centre-Forward,Inter,1.9,150000.0,2023-2024,serie-a
+mamadou sarr,Centre-Forward,Inter,1.9,150000.0,2023-2024,serie-a
 mike maignan,Goalkeeper,Milan,1.91,38000000.0,2023-2024,serie-a
 marco sportiello,Goalkeeper,Milan,1.92,1500000.0,2023-2024,serie-a
 noah joel sarenren bazee,Goalkeeper,Milan,,200000.0,2023-2024,serie-a
@@ -6365,7 +7972,7 @@ alessio romagnoli,Centre-Back,Lazio,1.85,15000000.0,2023-2024,serie-a
 nicolo casale,Centre-Back,Lazio,1.91,14000000.0,2023-2024,serie-a
 mario gila,Centre-Back,Lazio,1.85,13000000.0,2023-2024,serie-a
 patric,Centre-Back,Lazio,1.84,4000000.0,2023-2024,serie-a
-andre,Centre-Back,Lazio,1.84,200000.0,2023-2024,serie-a
+fabio,Centre-Back,Lazio,1.84,200000.0,2023-2024,serie-a
 jean matteo bahoya,Centre-Back,Lazio,1.92,200000.0,2023-2024,serie-a
 luca pellegrini,Left-Back,Lazio,1.78,3500000.0,2023-2024,serie-a
 dimitrije kamenovic,Left-Back,Lazio,1.89,800000.0,2023-2024,serie-a
@@ -6376,7 +7983,7 @@ danilo cataldi,Defensive Midfield,Lazio,1.8,5500000.0,2023-2024,serie-a
 matteo guendouzi,Central Midfield,Lazio,1.85,25000000.0,2023-2024,serie-a
 toma basic,Central Midfield,Lazio,1.9,2800000.0,2023-2024,serie-a
 matias vecino,Central Midfield,Lazio,1.87,2500000.0,2023-2024,serie-a
-lassana coulibaly,Central Midfield,Lazio,1.8,50000.0,2023-2024,serie-a
+lasso coulibaly,Central Midfield,Lazio,1.8,50000.0,2023-2024,serie-a
 manuel lazzari,Right Midfield,Lazio,1.74,4000000.0,2023-2024,serie-a
 daichi kamada,Attacking Midfield,Lazio,1.8,18000000.0,2023-2024,serie-a
 luis alberto,Attacking Midfield,Lazio,1.83,11000000.0,2023-2024,serie-a
@@ -6459,7 +8066,7 @@ festy ebosele,Right-Back,Udinese,1.8,6000000.0,2023-2024,serie-a
 kingsley ehizibue,Right-Back,Udinese,1.89,2200000.0,2023-2024,serie-a
 joao ferreira,Right-Back,Udinese,1.85,2000000.0,2023-2024,serie-a
 walace,Defensive Midfield,Udinese,1.88,6000000.0,2023-2024,serie-a
-etienne camara,Defensive Midfield,Udinese,1.91,1500000.0,2023-2024,serie-a
+etienne youte kinkoue,Defensive Midfield,Udinese,1.91,1500000.0,2023-2024,serie-a
 sandi lovric,Central Midfield,Udinese,1.8,8000000.0,2023-2024,serie-a
 martin payero,Central Midfield,Udinese,1.82,4500000.0,2023-2024,serie-a
 oier zarraga,Central Midfield,Udinese,1.75,2000000.0,2023-2024,serie-a
@@ -6676,7 +8283,7 @@ piotr zielinski,Central Midfield,Inter,1.8,10000000.0,2024-2025,serie-a
 henrikh mkhitaryan,Central Midfield,Inter,1.77,4000000.0,2024-2025,serie-a
 luke thomas,Central Midfield,Inter,1.77,1500000.0,2024-2025,serie-a
 luka topalovic,Central Midfield,Inter,1.87,1500000.0,2024-2025,serie-a
-luiz henrique,Right Midfield,Inter,1.81,25000000.0,2024-2025,serie-a
+luis henrique,Right Midfield,Inter,1.81,25000000.0,2024-2025,serie-a
 tajon buchanan,Right Midfield,Inter,1.83,6000000.0,2024-2025,serie-a
 nicola zalewski,Left Midfield,Inter,1.75,12000000.0,2024-2025,serie-a
 valentin carboni,Attacking Midfield,Inter,1.85,12000000.0,2024-2025,serie-a
@@ -7147,7 +8754,7 @@ filippo melegoni,Central Midfield,Genoa,1.86,700000.0,2024-2025,serie-a
 ruslan malinovskyi,Attacking Midfield,Genoa,1.81,2500000.0,2024-2025,serie-a
 christos papadopoulos,Attacking Midfield,Genoa,1.88,700000.0,2024-2025,serie-a
 gaston pereiro,Attacking Midfield,Genoa,1.88,500000.0,2024-2025,serie-a
-hugo cuenca,Attacking Midfield,Genoa,1.83,300000.0,2024-2025,serie-a
+hugo boutsingkham,Attacking Midfield,Genoa,1.83,300000.0,2024-2025,serie-a
 filippo carbone,Attacking Midfield,Genoa,,200000.0,2024-2025,serie-a
 roberto scaglione,Attacking Midfield,Genoa,,,2024-2025,serie-a
 maxwel cornet,Left Winger,Genoa,1.79,8000000.0,2024-2025,serie-a
@@ -7271,7 +8878,7 @@ davide faraoni,Right-Back,Hellas Verona,1.8,800000.0,2024-2025,serie-a
 daniel oyegoke,Right-Back,Hellas Verona,1.88,500000.0,2024-2025,serie-a
 reda belahyane,Defensive Midfield,Hellas Verona,1.73,10000000.0,2024-2025,serie-a
 david silva,Defensive Midfield,Hellas Verona,1.8,2500000.0,2024-2025,serie-a
-cheikh tidiane niasse,Defensive Midfield,Hellas Verona,1.88,2500000.0,2024-2025,serie-a
+cheikh tidiane sabaly,Defensive Midfield,Hellas Verona,1.88,2500000.0,2024-2025,serie-a
 suat serdar,Central Midfield,Hellas Verona,1.84,4500000.0,2024-2025,serie-a
 ondrej duda,Central Midfield,Hellas Verona,1.8,3500000.0,2024-2025,serie-a
 antoine bernede,Central Midfield,Hellas Verona,1.78,2500000.0,2024-2025,serie-a

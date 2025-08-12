@@ -240,275 +240,385 @@ marcandre ter stegen,Barcelona,9.0,22.0,63.6,12.5,1.0,0.0,2024-2025,laliga
 fran vieites,Betis,5.0,11.0,54.5,0.0,0.0,,2024-2025,laliga
 ivan villar,Celta Vigo,9.0,18.0,50.0,0.0,1.0,100.0,2024-2025,laliga
 krapyvtsov vladyslav,Girona,7.0,18.0,66.7,0.0,1.0,0.0,2024-2025,laliga
-alisson,Liverpool,43.0,147.0,72.1,37.8,4.0,33.3,2022-2023,premierleague
-alphonse areola,West Ham,7.0,16.0,68.8,50.0,2.0,0.0,2022-2023,premierleague
-kepa arrizabalaga,Chelsea,33.0,120.0,73.3,31.0,1.0,0.0,2022-2023,premierleague
-gavin bazunu,Southampton,56.0,120.0,54.2,12.5,2.0,50.0,2022-2023,premierleague
-asmir begovic,Everton,0.0,4.0,100.0,100.0,0.0,,2022-2023,premierleague
-daniel bentley,Wolves,3.0,13.0,76.9,0.0,0.0,,2022-2023,premierleague
-martin dubravka,Newcastle Utd,1.0,9.0,88.9,0.0,0.0,,2022-2023,premierleague
-ederson,Manchester City,32.0,77.0,62.3,31.4,3.0,0.0,2022-2023,premierleague
-ukasz fabianski,West Ham,48.0,154.0,70.1,22.2,4.0,33.3,2022-2023,premierleague
-fraser forster,Tottenham,24.0,55.0,60.0,23.1,3.0,33.3,2022-2023,premierleague
-david de gea,Manchester Utd,43.0,142.0,71.1,44.7,3.0,33.3,2022-2023,premierleague
-vicente guaita,Crystal Palace,34.0,116.0,72.4,22.2,2.0,0.0,2022-2023,premierleague
-dean henderson,Nott'ham Forest,31.0,85.0,65.9,33.3,5.0,50.0,2022-2023,premierleague
-wayne hennessey,Nott'ham Forest,5.0,14.0,64.3,33.3,0.0,,2022-2023,premierleague
-daniel iversen,Leicester City,22.0,59.0,66.1,8.3,2.0,0.0,2022-2023,premierleague
-sam johnstone,Crystal Palace,10.0,34.0,76.5,33.3,2.0,0.0,2022-2023,premierleague
-caoimhin kelleher,Liverpool,4.0,10.0,60.0,0.0,0.0,,2022-2023,premierleague
-bernd leno,Fulham,51.0,192.0,77.1,22.2,8.0,12.5,2022-2023,premierleague
-hugo lloris,Tottenham,39.0,117.0,67.5,28.0,1.0,0.0,2022-2023,premierleague
-emiliano martinez,Aston Villa,38.0,132.0,74.2,30.6,5.0,20.0,2022-2023,premierleague
-alex mccarthy,Southampton,17.0,30.0,46.7,0.0,1.0,0.0,2022-2023,premierleague
-edouard mendy,Chelsea,14.0,39.0,64.1,11.1,0.0,,2022-2023,premierleague
-illan meslier,Leeds United,67.0,158.0,59.5,14.7,3.0,0.0,2022-2023,premierleague
-keylor navas,Nott'ham Forest,32.0,83.0,66.3,5.9,4.0,0.0,2022-2023,premierleague
-neto,Bournemouth,39.0,138.0,74.6,22.2,5.0,0.0,2022-2023,premierleague
-robin olsen,Aston Villa,8.0,19.0,63.2,50.0,1.0,0.0,2022-2023,premierleague
-stefan ortega,Manchester City,1.0,15.0,93.3,66.7,0.0,,2022-2023,premierleague
-jordan pickford,Everton,57.0,181.0,71.3,21.6,6.0,16.7,2022-2023,premierleague
-nick pope,Newcastle Utd,32.0,118.0,74.6,37.8,5.0,50.0,2022-2023,premierleague
-aaron ramsdale,Arsenal,43.0,136.0,70.6,36.8,5.0,0.0,2022-2023,premierleague
-david raya,Brentford,46.0,197.0,77.7,31.6,2.0,0.0,2022-2023,premierleague
-joel robles,Leeds United,11.0,27.0,66.7,0.0,3.0,0.0,2022-2023,premierleague
-marek rodak,Fulham,2.0,4.0,50.0,50.0,0.0,,2022-2023,premierleague
-jose sa,Wolves,55.0,161.0,67.1,30.6,4.0,50.0,2022-2023,premierleague
-robert sanchez,Brighton,30.0,74.0,66.2,26.1,6.0,16.7,2022-2023,premierleague
-jason steele,Brighton,23.0,57.0,61.4,40.0,2.0,50.0,2022-2023,premierleague
-mark travers,Bournemouth,32.0,66.0,54.5,18.2,2.0,0.0,2022-2023,premierleague
-danny ward,Leicester City,46.0,119.0,63.0,23.1,3.0,33.3,2022-2023,premierleague
-joseph whitworth,Crystal Palace,5.0,10.0,50.0,0.0,0.0,,2022-2023,premierleague
-alisson,Liverpool,30.0,109.0,73.4,28.6,1.0,0.0,2023-2024,premierleague
-alphonse areola,West Ham,53.0,188.0,74.5,12.9,7.0,28.6,2023-2024,premierleague
-daniel bentley,Wolves,7.0,15.0,53.3,33.3,0.0,,2023-2024,premierleague
-martin dubravka,Newcastle Utd,42.0,130.0,70.8,22.7,5.0,20.0,2023-2024,premierleague
-ederson,Manchester City,27.0,82.0,70.7,30.3,3.0,0.0,2023-2024,premierleague
-ukasz fabianski,West Ham,21.0,53.0,66.0,14.3,3.0,0.0,2023-2024,premierleague
-mark flekken,Brentford,63.0,176.0,65.3,18.9,2.0,0.0,2023-2024,premierleague
-wes foderingham,Sheffield Utd,79.0,204.0,63.7,3.4,6.0,0.0,2023-2024,premierleague
-ivo grbic,Sheffield Utd,25.0,59.0,57.6,0.0,1.0,,2023-2024,premierleague
-dean henderson,Crystal Palace,30.0,86.0,66.3,22.2,1.0,0.0,2023-2024,premierleague
-sam johnstone,Crystal Palace,27.0,67.0,62.7,30.0,2.0,0.0,2023-2024,premierleague
-thomas kaminski,Luton Town,85.0,221.0,63.3,5.3,4.0,0.0,2023-2024,premierleague
-loris karius,Newcastle Utd,4.0,7.0,42.9,0.0,0.0,,2023-2024,premierleague
-caoimhin kelleher,Liverpool,11.0,38.0,71.1,20.0,0.0,,2023-2024,premierleague
-bernd leno,Fulham,61.0,190.0,72.1,26.3,8.0,0.0,2023-2024,premierleague
-emiliano martinez,Aston Villa,48.0,139.0,66.2,23.5,1.0,0.0,2023-2024,premierleague
-remi matthews,Crystal Palace,1.0,1.0,0.0,,0.0,,2023-2024,premierleague
-arijanet muric,Burnley,16.0,78.0,80.8,0.0,2.0,50.0,2023-2024,premierleague
-neto,Bournemouth,55.0,165.0,69.7,21.9,6.0,16.7,2023-2024,premierleague
-robin olsen,Aston Villa,13.0,34.0,61.8,0.0,1.0,100.0,2023-2024,premierleague
-andre onana,Manchester Utd,58.0,203.0,74.9,23.7,7.0,0.0,2023-2024,premierleague
-stefan ortega,Manchester City,7.0,27.0,74.1,60.0,0.0,,2023-2024,premierleague
-ore petrovic,Chelsea,38.0,108.0,65.7,22.7,2.0,0.0,2023-2024,premierleague
-jordan pickford,Everton,51.0,165.0,73.9,34.2,8.0,0.0,2023-2024,premierleague
-nick pope,Newcastle Utd,16.0,58.0,72.4,33.3,0.0,,2023-2024,premierleague
-ionut radu,Bournemouth,7.0,11.0,36.4,0.0,0.0,,2023-2024,premierleague
-aaron ramsdale,Arsenal,5.0,14.0,64.3,33.3,0.0,,2023-2024,premierleague
-david raya,Arsenal,24.0,69.0,68.1,50.0,3.0,33.3,2023-2024,premierleague
-jose sa,Wolves,58.0,188.0,73.4,11.4,8.0,0.0,2023-2024,premierleague
-robert sanchez,Chelsea,25.0,78.0,70.5,18.8,3.0,33.3,2023-2024,premierleague
-matz sels,Nott'ham Forest,27.0,61.0,57.4,6.3,1.0,0.0,2023-2024,premierleague
-james shea,Luton Town,0.0,2.0,100.0,,0.0,,2023-2024,premierleague
-jason steele,Brighton,34.0,74.0,58.1,11.8,3.0,0.0,2023-2024,premierleague
-thomas strakosha,Brentford,2.0,8.0,75.0,0.0,0.0,,2023-2024,premierleague
-james trafford,Burnley,62.0,166.0,65.7,7.1,5.0,0.0,2023-2024,premierleague
-mark travers,Bournemouth,5.0,18.0,77.8,50.0,1.0,0.0,2023-2024,premierleague
-matt turner,Nott'ham Forest,28.0,80.0,67.5,11.8,2.0,0.0,2023-2024,premierleague
-bart verbruggen,Brighton,28.0,91.0,72.5,19.0,3.0,0.0,2023-2024,premierleague
-guglielmo vicario,Tottenham,61.0,167.0,67.7,18.4,7.0,0.0,2023-2024,premierleague
-odysseas vlachodimos,Nott'ham Forest,12.0,22.0,50.0,20.0,1.0,0.0,2023-2024,premierleague
-alisson,Liverpool,29.0,100.0,72.0,32.1,1.0,0.0,2024-2025,premierleague
-alphonse areola,West Ham,41.0,115.0,64.3,20.0,0.0,,2024-2025,premierleague
-kepa arrizabalaga,Bournemouth,39.0,134.0,73.9,25.8,4.0,0.0,2024-2025,premierleague
-brandon austin,Tottenham,2.0,4.0,50.0,0.0,0.0,,2024-2025,premierleague
-altay bayndr,Manchester Utd,10.0,17.0,41.2,25.0,0.0,,2024-2025,premierleague
-daniel bentley,Wolves,4.0,12.0,66.7,50.0,0.0,,2024-2025,premierleague
-martin dubravka,Newcastle Utd,12.0,41.0,70.7,50.0,0.0,,2024-2025,premierleague
-ederson,Manchester City,26.0,78.0,69.2,38.5,2.0,0.0,2024-2025,premierleague
-ukasz fabianski,West Ham,21.0,71.0,74.6,15.4,3.0,0.0,2024-2025,premierleague
-mark flekken,Brentford,55.0,203.0,73.4,18.9,1.0,0.0,2024-2025,premierleague
-fraser forster,Tottenham,15.0,42.0,69.0,14.3,2.0,0.0,2024-2025,premierleague
-dean henderson,Crystal Palace,51.0,150.0,66.7,28.9,2.0,50.0,2024-2025,premierleague
-mads hermansen,Leicester City,58.0,155.0,64.5,3.7,4.0,25.0,2024-2025,premierleague
-vitezslav jaros,Liverpool,0.0,1.0,100.0,,0.0,,2024-2025,premierleague
-sam johnstone,Wolves,17.0,39.0,61.5,0.0,2.0,0.0,2024-2025,premierleague
-filip jrgensen,Chelsea,9.0,28.0,71.4,16.7,1.0,0.0,2024-2025,premierleague
-caoimhin kelleher,Liverpool,12.0,37.0,67.6,40.0,1.0,100.0,2024-2025,premierleague
-tom king,Wolves,0.0,0.0,,,0.0,,2024-2025,premierleague
-antonin kinsky,Tottenham,11.0,32.0,65.6,16.7,0.0,,2024-2025,premierleague
-bernd leno,Fulham,54.0,159.0,67.9,13.2,4.0,25.0,2024-2025,premierleague
-joe lumley,Southampton,7.0,20.0,65.0,0.0,0.0,,2024-2025,premierleague
-emiliano martinez,Aston Villa,45.0,142.0,69.0,21.6,2.0,50.0,2024-2025,premierleague
-alex mccarthy,Southampton,13.0,37.0,70.3,0.0,2.0,0.0,2024-2025,premierleague
-arijanet muric,Ipswich Town,33.0,100.0,70.0,5.6,3.0,0.0,2024-2025,premierleague
-neto,Bournemouth,2.0,13.0,84.6,0.0,0.0,,2024-2025,premierleague
-robin olsen,Aston Villa,6.0,14.0,64.3,100.0,1.0,0.0,2024-2025,premierleague
-andre onana,Manchester Utd,44.0,132.0,68.9,26.5,4.0,25.0,2024-2025,premierleague
-stefan ortega,Manchester City,18.0,50.0,68.0,25.0,2.0,0.0,2024-2025,premierleague
-alex palmer,Ipswich Town,30.0,71.0,59.2,0.0,1.0,0.0,2024-2025,premierleague
-jordan pickford,Everton,44.0,163.0,73.0,31.6,2.0,100.0,2024-2025,premierleague
-nick pope,Newcastle Utd,35.0,120.0,71.7,28.6,2.0,50.0,2024-2025,premierleague
-hakon rafn valdimarsson,Brentford,2.0,4.0,50.0,100.0,0.0,,2024-2025,premierleague
-aaron ramsdale,Southampton,66.0,188.0,67.6,10.0,7.0,28.6,2024-2025,premierleague
-david raya,Arsenal,34.0,120.0,74.2,34.2,3.0,0.0,2024-2025,premierleague
-jose sa,Wolves,48.0,117.0,63.2,24.1,7.0,28.6,2024-2025,premierleague
-robert sanchez,Chelsea,34.0,127.0,76.4,31.3,5.0,20.0,2024-2025,premierleague
-matz sels,Nott'ham Forest,46.0,165.0,73.9,34.2,3.0,0.0,2024-2025,premierleague
-jason steele,Brighton,1.0,4.0,75.0,50.0,0.0,,2024-2025,premierleague
-jakub stolarczyk,Leicester City,16.0,44.0,63.6,20.0,0.0,,2024-2025,premierleague
-mark travers,Bournemouth,5.0,25.0,80.0,20.0,0.0,,2024-2025,premierleague
-bart verbruggen,Brighton,58.0,143.0,65.7,19.4,9.0,0.0,2024-2025,premierleague
-guglielmo vicario,Tottenham,37.0,102.0,64.7,16.7,1.0,0.0,2024-2025,premierleague
-christian walton,Ipswich Town,19.0,39.0,56.4,14.3,2.0,0.0,2024-2025,premierleague
-danny ward,Leicester City,6.0,10.0,40.0,0.0,0.0,,2024-2025,premierleague
-emil audero,Sampdoria,39.0,121.0,71.9,16.0,7.0,28.6,2022-2023,seriea
-francesco bardi,Bologna,0.0,4.0,100.0,100.0,0.0,,2022-2023,seriea
-marco carnesecchi,Cremonese,47.0,153.0,70.6,14.8,2.0,0.0,2022-2023,seriea
-michele cerofolini,Fiorentina,3.0,11.0,81.8,40.0,1.0,0.0,2022-2023,seriea
-andrea consigli,Sassuolo,55.0,117.0,55.6,25.7,3.0,0.0,2022-2023,seriea
-alex cordaz,Inter,0.0,2.0,100.0,,0.0,,2022-2023,seriea
-alessio cragno,Monza,3.0,5.0,40.0,0.0,0.0,,2022-2023,seriea
-michele di gregorio,Monza,49.0,167.0,72.5,27.0,3.0,0.0,2022-2023,seriea
-bartomiej dragowski,Spezia,54.0,164.0,69.5,17.6,6.0,20.0,2022-2023,seriea
-wladimiro falcone,Lecce,46.0,156.0,73.7,15.8,6.0,16.7,2022-2023,seriea
-vincenzo fiorillo,Salernitana,2.0,4.0,50.0,0.0,0.0,,2022-2023,seriea
-pierluigi gollini,Napoli,4.0,16.0,75.0,50.0,0.0,,2022-2023,seriea
-pierluigi gollini,Fiorentina,2.0,8.0,75.0,66.7,0.0,,2022-2023,seriea
-samir handanovic,Inter,18.0,52.0,67.3,28.6,1.0,0.0,2022-2023,seriea
-mike maignan,Milan,21.0,62.0,69.4,36.4,3.0,33.3,2022-2023,seriea
-federico marchetti,Spezia,2.0,3.0,33.3,,0.0,,2022-2023,seriea
-luis maximiano,Lazio,,,,,,,2022-2023,seriea
-alex meret,Napoli,24.0,91.0,74.7,47.1,2.0,50.0,2022-2023,seriea
-vanja milinkovicsavic,Torino,41.0,136.0,73.5,28.9,6.0,0.0,2022-2023,seriea
-antonio mirante,Milan,0.0,0.0,,,0.0,,2022-2023,seriea
-lorenzo montipo,Hellas Verona,59.0,181.0,68.0,13.5,2.0,50.0,2022-2023,seriea
-juan musso,Atalanta,27.0,89.0,71.9,29.2,2.0,0.0,2022-2023,seriea
-guillermo ochoa,Salernitana,33.0,105.0,71.4,20.0,4.0,25.0,2022-2023,seriea
-andre onana,Inter,24.0,83.0,73.5,33.3,2.0,0.0,2022-2023,seriea
-rui patricio,Roma,35.0,108.0,69.4,37.1,3.0,33.3,2022-2023,seriea
-gianluca pegolo,Sassuolo,3.0,6.0,66.7,0.0,1.0,0.0,2022-2023,seriea
-simone perilli,Hellas Verona,0.0,4.0,100.0,100.0,0.0,,2022-2023,seriea
-mattia perin,Juventus,7.0,40.0,85.0,60.0,2.0,50.0,2022-2023,seriea
-samuele perisan,Empoli,9.0,24.0,62.5,28.6,0.0,,2022-2023,seriea
-ivan provedel,Lazio,30.0,128.0,77.3,56.8,2.0,0.0,2022-2023,seriea
-ionut radu,Cremonese,19.0,64.0,75.0,11.1,3.0,0.0,2022-2023,seriea
-nicola ravaglia,Sampdoria,23.0,64.0,67.2,0.0,2.0,0.0,2022-2023,seriea
-francesco rossi,Atalanta,0.0,0.0,,,0.0,,2022-2023,seriea
-alessandro russo,Sassuolo,3.0,7.0,57.1,0.0,0.0,,2022-2023,seriea
-mouhamadou sarr,Cremonese,3.0,8.0,62.5,50.0,0.0,,2022-2023,seriea
-luigi sepe,Salernitana,27.0,87.0,73.6,17.6,7.0,42.9,2022-2023,seriea
-marco silvestri,Udinese,48.0,137.0,69.3,26.3,7.0,0.0,2022-2023,seriea
-salvatore sirigu,Fiorentina,0.0,5.0,100.0,100.0,0.0,,2022-2023,seriea
-ukasz skorupski,Bologna,49.0,161.0,73.9,18.9,9.0,22.2,2022-2023,seriea
-marco sportiello,Atalanta,21.0,64.0,68.8,14.3,1.0,0.0,2022-2023,seriea
-mile svilar,Roma,3.0,10.0,70.0,33.3,0.0,,2022-2023,seriea
-wojciech szczesny,Juventus,26.0,93.0,75.3,50.0,3.0,0.0,2022-2023,seriea
-ciprian tatarusanu,Milan,22.0,61.0,67.2,25.0,2.0,0.0,2022-2023,seriea
-pietro terracciano,Fiorentina,38.0,96.0,66.7,17.2,7.0,14.3,2022-2023,seriea
-martin turk,Sampdoria,9.0,30.0,73.3,0.0,2.0,0.0,2022-2023,seriea
-samir ujkani,Empoli,1.0,1.0,0.0,,0.0,,2022-2023,seriea
-guglielmo vicario,Empoli,39.0,134.0,73.9,22.6,6.0,20.0,2022-2023,seriea
-jeroen zoet,Spezia,4.0,13.0,76.9,0.0,1.0,0.0,2022-2023,seriea
-petar zovko,Spezia,2.0,3.0,33.3,,0.0,,2022-2023,seriea
-simone aresti,Cagliari,1.0,1.0,100.0,,1.0,0.0,2023-2024,seriea
-emil audero,Inter,3.0,11.0,72.7,50.0,0.0,,2023-2024,seriea
-nicola bagnolini,Bologna,0.0,1.0,100.0,,0.0,,2023-2024,seriea
-etrit berisha,Empoli,25.0,74.0,68.9,28.6,3.0,33.3,2023-2024,seriea
-elia caprile,Empoli,27.0,106.0,78.3,21.7,5.0,20.0,2023-2024,seriea
-marco carnesecchi,Atalanta,30.0,107.0,75.7,29.6,7.0,33.3,2023-2024,seriea
-michele cerofolini,Frosinone,11.0,28.0,60.7,42.9,1.0,,2023-2024,seriea
-oliver christensen,Fiorentina,9.0,19.0,63.2,0.0,2.0,0.0,2023-2024,seriea
-andrea consigli,Sassuolo,68.0,159.0,61.6,8.6,10.0,12.5,2023-2024,seriea
-nikita contini baranovsky,Napoli,0.0,0.0,,,0.0,,2023-2024,seriea
-benoit costil,Salernitana,29.0,66.0,60.6,7.7,3.0,0.0,2023-2024,seriea
-alessio cragno,Sassuolo,7.0,14.0,57.1,0.0,1.0,0.0,2023-2024,seriea
-raffaele di gennaro,Inter,0.0,4.0,100.0,,0.0,,2023-2024,seriea
-michele di gregorio,Monza,35.0,159.0,79.9,36.4,5.0,40.0,2023-2024,seriea
-wladimiro falcone,Lecce,54.0,173.0,71.7,18.4,6.0,16.7,2023-2024,seriea
-vincenzo fiorillo,Salernitana,8.0,26.0,69.2,0.0,0.0,,2023-2024,seriea
-luca gemello,Torino,5.0,9.0,55.6,0.0,1.0,0.0,2023-2024,seriea
-pierluigi gollini,Napoli,8.0,24.0,66.7,14.3,0.0,,2023-2024,seriea
-nicola leali,Genoa,2.0,9.0,77.8,0.0,0.0,,2023-2024,seriea
-mike maignan,Milan,34.0,120.0,77.5,34.5,7.0,0.0,2023-2024,seriea
-christos mandas,Lazio,6.0,29.0,79.3,50.0,0.0,,2023-2024,seriea
-tommaso martinelli,Fiorentina,2.0,3.0,33.3,0.0,0.0,,2023-2024,seriea
-josep martinez,Genoa,43.0,130.0,69.2,22.2,4.0,25.0,2023-2024,seriea
-alex meret,Napoli,40.0,104.0,63.5,16.1,4.0,50.0,2023-2024,seriea
-vanja milinkovicsavic,Torino,31.0,134.0,81.3,50.0,6.0,0.0,2023-2024,seriea
-antonio mirante,Milan,3.0,8.0,62.5,0.0,0.0,,2023-2024,seriea
-lorenzo montipo,Hellas Verona,49.0,153.0,69.3,21.6,2.0,0.0,2023-2024,seriea
-juan musso,Atalanta,12.0,34.0,70.6,54.5,2.0,0.0,2023-2024,seriea
-lapo nava,Milan,1.0,2.0,50.0,,0.0,,2023-2024,seriea
-guillermo ochoa,Salernitana,44.0,115.0,67.8,4.8,7.0,0.0,2023-2024,seriea
-maduka okoye,Udinese,25.0,89.0,75.3,23.8,3.0,0.0,2023-2024,seriea
-rui patricio,Roma,27.0,74.0,66.2,26.1,3.0,0.0,2023-2024,seriea
-simone perilli,Hellas Verona,2.0,10.0,80.0,0.0,0.0,,2023-2024,seriea
-mattia perin,Juventus,1.0,5.0,80.0,33.3,0.0,,2023-2024,seriea
-samuele perisan,Empoli,2.0,5.0,60.0,0.0,0.0,,2023-2024,seriea
-carlo pinsoglio,Juventus,0.0,3.0,100.0,,0.0,,2023-2024,seriea
-ivan provedel,Lazio,33.0,119.0,73.9,30.0,3.0,0.0,2023-2024,seriea
-boris radunovic,Cagliari,12.0,27.0,55.6,28.6,1.0,,2023-2024,seriea
-federico ravaglia,Bologna,3.0,18.0,83.3,66.7,1.0,100.0,2023-2024,seriea
-francesco rossi,Atalanta,0.0,1.0,100.0,,0.0,,2023-2024,seriea
-simone scuffet,Cagliari,55.0,129.0,59.7,9.7,3.0,0.0,2023-2024,seriea
-marco silvestri,Udinese,28.0,68.0,67.6,23.5,6.0,0.0,2023-2024,seriea
-ukasz skorupski,Bologna,29.0,106.0,75.5,40.6,6.0,25.0,2023-2024,seriea
-daniele sommariva,Genoa,0.0,0.0,,,0.0,,2023-2024,seriea
-yann sommer,Inter,19.0,98.0,82.7,55.9,4.0,33.3,2023-2024,seriea
-alessandro sorrentino,Monza,16.0,32.0,62.5,0.0,4.0,0.0,2023-2024,seriea
-marco sportiello,Milan,11.0,33.0,69.7,28.6,1.0,0.0,2023-2024,seriea
-mile svilar,Roma,19.0,77.0,76.6,33.3,2.0,50.0,2023-2024,seriea
-wojciech szczesny,Juventus,30.0,108.0,74.1,42.9,3.0,33.3,2023-2024,seriea
-pietro terracciano,Fiorentina,35.0,126.0,77.0,24.2,7.0,14.3,2023-2024,seriea
-stefano turati,Frosinone,58.0,152.0,65.1,12.9,7.0,16.7,2023-2024,seriea
-emil audero,Como,18.0,34.0,58.8,0.0,4.0,0.0,2024-2025,seriea
-jean butez,Como,20.0,68.0,73.5,27.8,2.0,0.0,2024-2025,seriea
-elia caprile,Napoli,1.0,8.0,87.5,100.0,0.0,,2024-2025,seriea
-elia caprile,Cagliari,22.0,66.0,68.2,27.8,1.0,0.0,2024-2025,seriea
-marco carnesecchi,Atalanta,34.0,129.0,75.2,38.2,2.0,0.0,2024-2025,seriea
-leandro chichizola,Parma,3.0,6.0,50.0,0.0,0.0,,2024-2025,seriea
-giuseppe ciocci,Cagliari,0.0,0.0,,,0.0,,2024-2025,seriea
-michele di gregorio,Juventus,32.0,103.0,73.8,42.4,5.0,0.0,2024-2025,seriea
-wladimiro falcone,Lecce,58.0,181.0,72.4,23.7,10.0,11.1,2024-2025,seriea
-david de gea,Fiorentina,38.0,135.0,72.6,31.4,3.0,66.7,2024-2025,seriea
-pierluigi gollini,Genoa,15.0,32.0,62.5,14.3,4.0,25.0,2024-2025,seriea
-jesse joronen,Venezia,15.0,40.0,70.0,28.6,3.0,0.0,2024-2025,seriea
-nicola leali,Genoa,31.0,111.0,74.8,34.5,4.0,25.0,2024-2025,seriea
-mike maignan,Milan,41.0,136.0,70.6,32.4,2.0,50.0,2024-2025,seriea
-christos mandas,Lazio,7.0,27.0,74.1,44.4,0.0,,2024-2025,seriea
-josep martinez,Inter,3.0,14.0,78.6,60.0,0.0,,2024-2025,seriea
-andrea mazza,Monza,0.0,0.0,,,0.0,,2024-2025,seriea
-alex meret,Napoli,25.0,84.0,71.4,47.1,4.0,66.7,2024-2025,seriea
-vanja milinkovicsavic,Torino,42.0,173.0,77.5,27.0,7.0,57.1,2024-2025,seriea
-lorenzo montipo,Hellas Verona,64.0,161.0,61.5,22.2,4.0,33.3,2024-2025,seriea
-juan musso,Atalanta,0.0,4.0,100.0,100.0,0.0,,2024-2025,seriea
-maduka okoye,Udinese,40.0,110.0,67.3,16.0,5.0,0.0,2024-2025,seriea
-daniele padelli,Udinese,0.0,3.0,100.0,100.0,0.0,,2024-2025,seriea
-alberto paleari,Torino,3.0,7.0,57.1,0.0,0.0,,2024-2025,seriea
-rui patricio,Atalanta,3.0,14.0,78.6,33.3,0.0,,2024-2025,seriea
-simone perilli,Hellas Verona,2.0,11.0,81.8,0.0,0.0,,2024-2025,seriea
-mattia perin,Juventus,3.0,16.0,81.3,60.0,0.0,,2024-2025,seriea
-semuel pizzignacco,Monza,17.0,38.0,55.3,12.5,0.0,,2024-2025,seriea
-ivan provedel,Lazio,42.0,92.0,58.7,17.2,4.0,0.0,2024-2025,seriea
-ionut radu,Venezia,18.0,65.0,76.9,26.7,3.0,0.0,2024-2025,seriea
-federico ravaglia,Bologna,14.0,24.0,45.8,36.4,1.0,0.0,2024-2025,seriea
-pepe reina,Como,14.0,41.0,68.3,16.7,1.0,0.0,2024-2025,seriea
-razvan sava,Udinese,16.0,51.0,74.5,33.3,3.0,0.0,2024-2025,seriea
-simone scuffet,Napoli,1.0,4.0,75.0,0.0,0.0,,2024-2025,seriea
-simone scuffet,Cagliari,23.0,56.0,67.9,7.7,5.0,0.0,2024-2025,seriea
-jacopo seghetti,Empoli,3.0,6.0,50.0,0.0,0.0,,2024-2025,seriea
-alen sherri,Cagliari,11.0,31.0,64.5,14.3,0.0,,2024-2025,seriea
-benjamin siegrist,Genoa,2.0,12.0,83.3,0.0,0.0,,2024-2025,seriea
-marco silvestri,Empoli,11.0,27.0,59.3,0.0,0.0,,2024-2025,seriea
-ukasz skorupski,Bologna,33.0,82.0,61.0,29.6,2.0,50.0,2024-2025,seriea
-daniele sommariva,Genoa,1.0,3.0,66.7,,0.0,,2024-2025,seriea
-yann sommer,Inter,32.0,116.0,75.0,39.4,4.0,25.0,2024-2025,seriea
-marco sportiello,Milan,2.0,6.0,66.7,100.0,0.0,,2024-2025,seriea
-filip stankovic,Venezia,23.0,83.0,77.1,0.0,5.0,20.0,2024-2025,seriea
-zion suzuki,Parma,53.0,150.0,68.0,19.4,5.0,0.0,2024-2025,seriea
-mile svilar,Roma,35.0,151.0,79.5,42.1,4.0,0.0,2024-2025,seriea
-pietro terracciano,Fiorentina,3.0,13.0,76.9,33.3,0.0,,2024-2025,seriea
-stefano turati,Monza,52.0,145.0,65.5,6.7,4.0,50.0,2024-2025,seriea
-devis vasquez,Empoli,45.0,125.0,64.8,18.8,3.0,50.0,2024-2025,seriea
+dogan alemdar,Rennes,8.0,16.0,56.3,25.0,2.0,50.0,2022-2023,ligue-1
+paul bernardoni,Angers,62.0,143.0,62.2,11.1,9.0,0.0,2022-2023,ligue-1
+marco bizot,Brest,54.0,176.0,73.3,21.6,9.0,22.2,2022-2023,ligue-1
+ruben blanco,Marseille,6.0,19.0,68.4,0.0,0.0,,2022-2023,ligue-1
+joaquin blazquez,Brest,0.0,3.0,100.0,100.0,0.0,,2022-2023,ligue-1
+marcin buka,Nice,2.0,6.0,66.7,0.0,0.0,,2022-2023,ligue-1
+matis carvalho,Montpellier,3.0,8.0,62.5,100.0,0.0,,2022-2023,ligue-1
+lucas chevalier,Lille,31.0,105.0,72.4,31.3,3.0,33.3,2022-2023,ligue-1
+benoit costil,Auxerre,41.0,96.0,60.4,10.5,3.0,0.0,2022-2023,ligue-1
+remy descamps,Nantes,1.0,6.0,83.3,0.0,0.0,,2022-2023,ligue-1
+mory diaw,Clermont Foot,47.0,161.0,75.8,27.0,12.0,33.3,2022-2023,ligue-1
+yehvann diouf,Reims,31.0,137.0,78.1,45.2,1.0,0.0,2022-2023,ligue-1
+ouparine djoco,Clermont Foot,2.0,3.0,33.3,0.0,0.0,,2022-2023,ligue-1
+gianluigi donnarumma,Paris S-G,40.0,160.0,76.3,34.2,5.0,33.3,2022-2023,ligue-1
+maxime dupe,Toulouse,57.0,179.0,70.4,23.7,7.0,42.9,2022-2023,ligue-1
+yahia fofana,Angers,19.0,54.0,66.7,9.1,2.0,50.0,2022-2023,ligue-1
+gauthier gallon,Troyes,65.0,177.0,66.1,0.0,5.0,0.0,2022-2023,ligue-1
+leo jardim,Lille,13.0,17.0,35.3,0.0,2.0,0.0,2022-2023,ligue-1
+bingourou kamara,Montpellier,11.0,25.0,60.0,0.0,3.0,50.0,2022-2023,ligue-1
+alban lafont,Nantes,54.0,179.0,74.9,29.7,9.0,0.0,2022-2023,ligue-1
+jeanlouis leca,Lens,1.0,4.0,75.0,0.0,0.0,,2022-2023,ligue-1
+benjamin lecomte,Montpellier,22.0,96.0,79.2,42.1,4.0,50.0,2022-2023,ligue-1
+donovan leon,Auxerre,2.0,11.0,90.9,0.0,1.0,0.0,2022-2023,ligue-1
+benjamin leroy,Ajaccio,60.0,133.0,60.9,12.5,9.0,0.0,2022-2023,ligue-1
+alexandre letellier,Paris S-G,0.0,0.0,,,0.0,,2022-2023,ligue-1
+mateusz lis,Troyes,16.0,51.0,72.5,12.5,3.0,33.3,2022-2023,ligue-1
+anthony lopes,Lyon,39.0,131.0,75.6,21.9,7.0,0.0,2022-2023,ligue-1
+pau lopez,Marseille,34.0,123.0,76.4,31.3,5.0,0.0,2022-2023,ligue-1
+steve mandanda,Rennes,31.0,110.0,73.6,35.3,3.0,33.3,2022-2023,ligue-1
+vito mannone,Lorient,24.0,84.0,72.6,29.4,1.0,0.0,2022-2023,ligue-1
+yvon mvogo,Lorient,29.0,98.0,71.4,14.3,1.0,0.0,2022-2023,ligue-1
+alexander nubel,Monaco,58.0,195.0,72.8,23.7,5.0,0.0,2022-2023,ligue-1
+jonas omlin,Montpellier,26.0,73.0,68.5,14.3,4.0,25.0,2022-2023,ligue-1
+patrick pentz,Reims,14.0,29.0,58.6,0.0,2.0,0.0,2022-2023,ligue-1
+ghjuvanni quilichini,Ajaccio,0.0,4.0,100.0,,0.0,,2022-2023,ligue-1
+ionut radu,Auxerre,20.0,74.0,73.0,29.4,2.0,100.0,2022-2023,ligue-1
+remy riou,Lyon,8.0,24.0,83.3,16.7,4.0,0.0,2022-2023,ligue-1
+brice samba,Lens,28.0,125.0,80.0,40.5,3.0,0.0,2022-2023,ligue-1
+kasper schmeichel,Nice,35.0,141.0,77.3,30.6,5.0,25.0,2022-2023,ligue-1
+matz sels,Strasbourg,59.0,174.0,71.8,15.8,11.0,0.0,2022-2023,ligue-1
+francoisjoseph sollacaro,Ajaccio,14.0,24.0,45.8,16.7,1.0,0.0,2022-2023,ligue-1
+alaa bellaarouch,Strasbourg,26.0,63.0,63.5,13.3,4.0,25.0,2023-2024,ligue-1
+dimitry bertaud,Montpellier,11.0,34.0,67.6,0.0,0.0,,2023-2024,ligue-1
+marco bizot,Brest,34.0,129.0,75.2,40.6,3.0,33.3,2023-2024,ligue-1
+ruben blanco,Marseille,2.0,6.0,66.7,0.0,0.0,,2023-2024,ligue-1
+marcin buka,Nice,29.0,105.0,77.1,50.0,8.0,37.5,2023-2024,ligue-1
+lucas chevalier,Lille,32.0,123.0,76.4,45.5,5.0,40.0,2023-2024,ligue-1
+gregoire coudert,Brest,0.0,4.0,100.0,100.0,0.0,,2023-2024,ligue-1
+remy descamps,Nantes,11.0,37.0,73.0,16.7,2.0,0.0,2023-2024,ligue-1
+arthur desmas,Le Havre,43.0,153.0,72.5,21.2,3.0,50.0,2023-2024,ligue-1
+mory diaw,Clermont Foot,54.0,188.0,74.5,16.7,8.0,14.3,2023-2024,ligue-1
+guillaume dietsch,Metz,1.0,3.0,66.7,,0.0,,2023-2024,ligue-1
+yehvann diouf,Reims,47.0,137.0,70.1,23.5,7.0,14.3,2023-2024,ligue-1
+gianluigi donnarumma,Paris S-G,20.0,110.0,84.5,40.0,4.0,25.0,2023-2024,ligue-1
+mathieu gorgelin,Le Havre,2.0,5.0,80.0,0.0,1.0,0.0,2023-2024,ligue-1
+philipp kohn,Monaco,32.0,97.0,72.2,22.7,6.0,16.7,2023-2024,ligue-1
+alban lafont,Nantes,43.0,118.0,70.3,25.0,8.0,0.0,2023-2024,ligue-1
+jeanlouis leca,Lens,2.0,2.0,0.0,0.0,0.0,,2023-2024,ligue-1
+benjamin lecomte,Montpellier,37.0,137.0,75.9,33.3,5.0,20.0,2023-2024,ligue-1
+anthony lopes,Lyon,49.0,155.0,71.0,29.0,6.0,20.0,2023-2024,ligue-1
+pau lopez,Marseille,39.0,124.0,71.0,21.2,3.0,0.0,2023-2024,ligue-1
+radosaw majecki,Monaco,10.0,54.0,81.5,58.3,0.0,,2023-2024,ligue-1
+steve mandanda,Rennes,46.0,147.0,70.7,20.6,3.0,0.0,2023-2024,ligue-1
+vito mannone,Lille,2.0,5.0,60.0,0.0,0.0,,2023-2024,ligue-1
+yvon mvogo,Lorient,66.0,207.0,72.0,11.8,8.0,0.0,2023-2024,ligue-1
+keylor navas,Paris S-G,6.0,12.0,58.3,25.0,1.0,0.0,2023-2024,ligue-1
+massamba ndiaye,Clermont Foot,6.0,24.0,79.2,0.0,1.0,0.0,2023-2024,ligue-1
+alexandre oukidja,Metz,57.0,185.0,72.4,17.6,6.0,0.0,2023-2024,ligue-1
+denis petric,Nantes,1.0,1.0,0.0,,0.0,,2023-2024,ligue-1
+guillaume restes,Toulouse,46.0,139.0,69.8,17.6,4.0,0.0,2023-2024,ligue-1
+remy riou,Lyon,6.0,14.0,57.1,33.3,0.0,,2023-2024,ligue-1
+brice samba,Lens,35.0,136.0,78.7,42.4,8.0,14.3,2023-2024,ligue-1
+matz sels,Strasbourg,24.0,62.0,62.9,15.8,1.0,0.0,2023-2024,ligue-1
+arnau tenas,Paris S-G,7.0,25.0,72.0,20.0,0.0,,2023-2024,ligue-1
+dimitry bertaud,Montpellier,11.0,21.0,57.1,0.0,2.0,0.0,2024-2025,ligue-1
+marco bizot,Brest,54.0,128.0,64.1,31.3,10.0,11.1,2024-2025,ligue-1
+marcin buka,Nice,41.0,161.0,75.8,23.5,3.0,33.3,2024-2025,ligue-1
+patrik carlgren,Nantes,7.0,28.0,75.0,25.0,0.0,,2024-2025,ligue-1
+lucas chevalier,Lille,36.0,126.0,74.6,32.4,4.0,0.0,2024-2025,ligue-1
+gregoire coudert,Brest,5.0,13.0,61.5,0.0,0.0,,2024-2025,ligue-1
+theo de percin,Auxerre,3.0,9.0,77.8,50.0,2.0,50.0,2024-2025,ligue-1
+remy descamps,Lyon,2.0,6.0,66.7,0.0,0.0,,2024-2025,ligue-1
+arthur desmas,Le Havre,38.0,93.0,61.3,16.7,3.0,33.3,2024-2025,ligue-1
+yehvann diouf,Reims,47.0,179.0,76.0,20.6,5.0,20.0,2024-2025,ligue-1
+alex dominguez,Toulouse,0.0,0.0,,,0.0,,2024-2025,ligue-1
+gianluigi donnarumma,Paris S-G,25.0,74.0,67.6,16.7,1.0,0.0,2024-2025,ligue-1
+yahia fofana,Angers,51.0,186.0,74.2,21.2,4.0,0.0,2024-2025,ligue-1
+gauthier gallon,Rennes,0.0,0.0,,,0.0,,2024-2025,ligue-1
+mathieu gorgelin,Le Havre,33.0,82.0,63.4,6.3,3.0,0.0,2024-2025,ligue-1
+kjetil haug,Toulouse,7.0,16.0,56.3,20.0,0.0,,2024-2025,ligue-1
+karljohan johnsson,Strasbourg,6.0,22.0,77.3,0.0,1.0,0.0,2024-2025,ligue-1
+herve koffi,Lens,8.0,26.0,76.9,0.0,2.0,0.0,2024-2025,ligue-1
+philipp kohn,Monaco,19.0,63.0,71.4,42.1,1.0,0.0,2024-2025,ligue-1
+alban lafont,Nantes,19.0,49.0,67.3,16.7,3.0,0.0,2024-2025,ligue-1
+gautier larsonneur,Saint-Étienne,77.0,209.0,69.4,14.7,15.0,13.3,2024-2025,ligue-1
+benjamin lecomte,Montpellier,68.0,173.0,64.2,3.3,7.0,14.3,2024-2025,ligue-1
+donovan leon,Auxerre,48.0,164.0,73.8,28.1,6.0,16.7,2024-2025,ligue-1
+anthony lopes,Nantes,26.0,71.0,69.0,16.7,5.0,0.0,2024-2025,ligue-1
+radosaw majecki,Monaco,22.0,65.0,69.2,20.0,2.0,0.0,2024-2025,ligue-1
+steve mandanda,Rennes,23.0,51.0,58.8,35.3,3.0,33.3,2024-2025,ligue-1
+lucas perri,Lyon,44.0,160.0,74.4,30.3,3.0,0.0,2024-2025,ligue-1
+ore petrovic,Strasbourg,38.0,147.0,78.9,32.3,8.0,12.5,2024-2025,ligue-1
+guillaume restes,Toulouse,36.0,92.0,62.0,27.6,2.0,50.0,2024-2025,ligue-1
+geronimo rulli,Marseille,47.0,135.0,67.4,14.7,6.0,50.0,2024-2025,ligue-1
+mathew ryan,Lens,17.0,62.0,75.8,42.9,3.0,33.3,2024-2025,ligue-1
+matvei safonov,Paris S-G,9.0,25.0,72.0,33.3,2.0,0.0,2024-2025,ligue-1
+brice samba,Rennes,27.0,87.0,70.1,29.4,3.0,66.7,2024-2025,ligue-1
+brice samba,Lens,14.0,54.0,81.5,46.7,4.0,0.0,2024-2025,ligue-1
+arnau tenas,Paris S-G,1.0,4.0,75.0,0.0,0.0,,2024-2025,ligue-1
+melvin zinga,Angers,2.0,4.0,75.0,0.0,1.0,0.0,2024-2025,ligue-1
+alisson,Liverpool,43.0,147.0,72.1,37.8,4.0,33.3,2022-2023,premier-league
+alphonse areola,West Ham,7.0,16.0,68.8,50.0,2.0,0.0,2022-2023,premier-league
+kepa arrizabalaga,Chelsea,33.0,120.0,73.3,31.0,1.0,0.0,2022-2023,premier-league
+gavin bazunu,Southampton,56.0,120.0,54.2,12.5,2.0,50.0,2022-2023,premier-league
+asmir begovic,Everton,0.0,4.0,100.0,100.0,0.0,,2022-2023,premier-league
+daniel bentley,Wolves,3.0,13.0,76.9,0.0,0.0,,2022-2023,premier-league
+martin dubravka,Newcastle Utd,1.0,9.0,88.9,0.0,0.0,,2022-2023,premier-league
+ederson,Manchester City,32.0,77.0,62.3,31.4,3.0,0.0,2022-2023,premier-league
+ukasz fabianski,West Ham,48.0,154.0,70.1,22.2,4.0,33.3,2022-2023,premier-league
+fraser forster,Tottenham,24.0,55.0,60.0,23.1,3.0,33.3,2022-2023,premier-league
+david de gea,Manchester Utd,43.0,142.0,71.1,44.7,3.0,33.3,2022-2023,premier-league
+vicente guaita,Crystal Palace,34.0,116.0,72.4,22.2,2.0,0.0,2022-2023,premier-league
+dean henderson,Nott'ham Forest,31.0,85.0,65.9,33.3,5.0,50.0,2022-2023,premier-league
+wayne hennessey,Nott'ham Forest,5.0,14.0,64.3,33.3,0.0,,2022-2023,premier-league
+daniel iversen,Leicester City,22.0,59.0,66.1,8.3,2.0,0.0,2022-2023,premier-league
+sam johnstone,Crystal Palace,10.0,34.0,76.5,33.3,2.0,0.0,2022-2023,premier-league
+caoimhin kelleher,Liverpool,4.0,10.0,60.0,0.0,0.0,,2022-2023,premier-league
+bernd leno,Fulham,51.0,192.0,77.1,22.2,8.0,12.5,2022-2023,premier-league
+hugo lloris,Tottenham,39.0,117.0,67.5,28.0,1.0,0.0,2022-2023,premier-league
+emiliano martinez,Aston Villa,38.0,132.0,74.2,30.6,5.0,20.0,2022-2023,premier-league
+alex mccarthy,Southampton,17.0,30.0,46.7,0.0,1.0,0.0,2022-2023,premier-league
+edouard mendy,Chelsea,14.0,39.0,64.1,11.1,0.0,,2022-2023,premier-league
+illan meslier,Leeds United,67.0,158.0,59.5,14.7,3.0,0.0,2022-2023,premier-league
+keylor navas,Nott'ham Forest,32.0,83.0,66.3,5.9,4.0,0.0,2022-2023,premier-league
+neto,Bournemouth,39.0,138.0,74.6,22.2,5.0,0.0,2022-2023,premier-league
+robin olsen,Aston Villa,8.0,19.0,63.2,50.0,1.0,0.0,2022-2023,premier-league
+stefan ortega,Manchester City,1.0,15.0,93.3,66.7,0.0,,2022-2023,premier-league
+jordan pickford,Everton,57.0,181.0,71.3,21.6,6.0,16.7,2022-2023,premier-league
+nick pope,Newcastle Utd,32.0,118.0,74.6,37.8,5.0,50.0,2022-2023,premier-league
+aaron ramsdale,Arsenal,43.0,136.0,70.6,36.8,5.0,0.0,2022-2023,premier-league
+david raya,Brentford,46.0,197.0,77.7,31.6,2.0,0.0,2022-2023,premier-league
+joel robles,Leeds United,11.0,27.0,66.7,0.0,3.0,0.0,2022-2023,premier-league
+marek rodak,Fulham,2.0,4.0,50.0,50.0,0.0,,2022-2023,premier-league
+jose sa,Wolves,55.0,161.0,67.1,30.6,4.0,50.0,2022-2023,premier-league
+robert sanchez,Brighton,30.0,74.0,66.2,26.1,6.0,16.7,2022-2023,premier-league
+jason steele,Brighton,23.0,57.0,61.4,40.0,2.0,50.0,2022-2023,premier-league
+mark travers,Bournemouth,32.0,66.0,54.5,18.2,2.0,0.0,2022-2023,premier-league
+danny ward,Leicester City,46.0,119.0,63.0,23.1,3.0,33.3,2022-2023,premier-league
+joseph whitworth,Crystal Palace,5.0,10.0,50.0,0.0,0.0,,2022-2023,premier-league
+alisson,Liverpool,30.0,109.0,73.4,28.6,1.0,0.0,2023-2024,premier-league
+alphonse areola,West Ham,53.0,188.0,74.5,12.9,7.0,28.6,2023-2024,premier-league
+daniel bentley,Wolves,7.0,15.0,53.3,33.3,0.0,,2023-2024,premier-league
+martin dubravka,Newcastle Utd,42.0,130.0,70.8,22.7,5.0,20.0,2023-2024,premier-league
+ederson,Manchester City,27.0,82.0,70.7,30.3,3.0,0.0,2023-2024,premier-league
+ukasz fabianski,West Ham,21.0,53.0,66.0,14.3,3.0,0.0,2023-2024,premier-league
+mark flekken,Brentford,63.0,176.0,65.3,18.9,2.0,0.0,2023-2024,premier-league
+wes foderingham,Sheffield Utd,79.0,204.0,63.7,3.4,6.0,0.0,2023-2024,premier-league
+ivo grbic,Sheffield Utd,25.0,59.0,57.6,0.0,1.0,,2023-2024,premier-league
+dean henderson,Crystal Palace,30.0,86.0,66.3,22.2,1.0,0.0,2023-2024,premier-league
+sam johnstone,Crystal Palace,27.0,67.0,62.7,30.0,2.0,0.0,2023-2024,premier-league
+thomas kaminski,Luton Town,85.0,221.0,63.3,5.3,4.0,0.0,2023-2024,premier-league
+loris karius,Newcastle Utd,4.0,7.0,42.9,0.0,0.0,,2023-2024,premier-league
+caoimhin kelleher,Liverpool,11.0,38.0,71.1,20.0,0.0,,2023-2024,premier-league
+bernd leno,Fulham,61.0,190.0,72.1,26.3,8.0,0.0,2023-2024,premier-league
+emiliano martinez,Aston Villa,48.0,139.0,66.2,23.5,1.0,0.0,2023-2024,premier-league
+remi matthews,Crystal Palace,1.0,1.0,0.0,,0.0,,2023-2024,premier-league
+arijanet muric,Burnley,16.0,78.0,80.8,0.0,2.0,50.0,2023-2024,premier-league
+neto,Bournemouth,55.0,165.0,69.7,21.9,6.0,16.7,2023-2024,premier-league
+robin olsen,Aston Villa,13.0,34.0,61.8,0.0,1.0,100.0,2023-2024,premier-league
+andre onana,Manchester Utd,58.0,203.0,74.9,23.7,7.0,0.0,2023-2024,premier-league
+stefan ortega,Manchester City,7.0,27.0,74.1,60.0,0.0,,2023-2024,premier-league
+ore petrovic,Chelsea,38.0,108.0,65.7,22.7,2.0,0.0,2023-2024,premier-league
+jordan pickford,Everton,51.0,165.0,73.9,34.2,8.0,0.0,2023-2024,premier-league
+nick pope,Newcastle Utd,16.0,58.0,72.4,33.3,0.0,,2023-2024,premier-league
+ionut radu,Bournemouth,7.0,11.0,36.4,0.0,0.0,,2023-2024,premier-league
+aaron ramsdale,Arsenal,5.0,14.0,64.3,33.3,0.0,,2023-2024,premier-league
+david raya,Arsenal,24.0,69.0,68.1,50.0,3.0,33.3,2023-2024,premier-league
+jose sa,Wolves,58.0,188.0,73.4,11.4,8.0,0.0,2023-2024,premier-league
+robert sanchez,Chelsea,25.0,78.0,70.5,18.8,3.0,33.3,2023-2024,premier-league
+matz sels,Nott'ham Forest,27.0,61.0,57.4,6.3,1.0,0.0,2023-2024,premier-league
+james shea,Luton Town,0.0,2.0,100.0,,0.0,,2023-2024,premier-league
+jason steele,Brighton,34.0,74.0,58.1,11.8,3.0,0.0,2023-2024,premier-league
+thomas strakosha,Brentford,2.0,8.0,75.0,0.0,0.0,,2023-2024,premier-league
+james trafford,Burnley,62.0,166.0,65.7,7.1,5.0,0.0,2023-2024,premier-league
+mark travers,Bournemouth,5.0,18.0,77.8,50.0,1.0,0.0,2023-2024,premier-league
+matt turner,Nott'ham Forest,28.0,80.0,67.5,11.8,2.0,0.0,2023-2024,premier-league
+bart verbruggen,Brighton,28.0,91.0,72.5,19.0,3.0,0.0,2023-2024,premier-league
+guglielmo vicario,Tottenham,61.0,167.0,67.7,18.4,7.0,0.0,2023-2024,premier-league
+odysseas vlachodimos,Nott'ham Forest,12.0,22.0,50.0,20.0,1.0,0.0,2023-2024,premier-league
+alisson,Liverpool,29.0,100.0,72.0,32.1,1.0,0.0,2024-2025,premier-league
+alphonse areola,West Ham,41.0,115.0,64.3,20.0,0.0,,2024-2025,premier-league
+kepa arrizabalaga,Bournemouth,39.0,134.0,73.9,25.8,4.0,0.0,2024-2025,premier-league
+brandon austin,Tottenham,2.0,4.0,50.0,0.0,0.0,,2024-2025,premier-league
+altay bayndr,Manchester Utd,10.0,17.0,41.2,25.0,0.0,,2024-2025,premier-league
+daniel bentley,Wolves,4.0,12.0,66.7,50.0,0.0,,2024-2025,premier-league
+martin dubravka,Newcastle Utd,12.0,41.0,70.7,50.0,0.0,,2024-2025,premier-league
+ederson,Manchester City,26.0,78.0,69.2,38.5,2.0,0.0,2024-2025,premier-league
+ukasz fabianski,West Ham,21.0,71.0,74.6,15.4,3.0,0.0,2024-2025,premier-league
+mark flekken,Brentford,55.0,203.0,73.4,18.9,1.0,0.0,2024-2025,premier-league
+fraser forster,Tottenham,15.0,42.0,69.0,14.3,2.0,0.0,2024-2025,premier-league
+dean henderson,Crystal Palace,51.0,150.0,66.7,28.9,2.0,50.0,2024-2025,premier-league
+mads hermansen,Leicester City,58.0,155.0,64.5,3.7,4.0,25.0,2024-2025,premier-league
+vitezslav jaros,Liverpool,0.0,1.0,100.0,,0.0,,2024-2025,premier-league
+sam johnstone,Wolves,17.0,39.0,61.5,0.0,2.0,0.0,2024-2025,premier-league
+filip jrgensen,Chelsea,9.0,28.0,71.4,16.7,1.0,0.0,2024-2025,premier-league
+caoimhin kelleher,Liverpool,12.0,37.0,67.6,40.0,1.0,100.0,2024-2025,premier-league
+tom king,Wolves,0.0,0.0,,,0.0,,2024-2025,premier-league
+antonin kinsky,Tottenham,11.0,32.0,65.6,16.7,0.0,,2024-2025,premier-league
+bernd leno,Fulham,54.0,159.0,67.9,13.2,4.0,25.0,2024-2025,premier-league
+joe lumley,Southampton,7.0,20.0,65.0,0.0,0.0,,2024-2025,premier-league
+emiliano martinez,Aston Villa,45.0,142.0,69.0,21.6,2.0,50.0,2024-2025,premier-league
+alex mccarthy,Southampton,13.0,37.0,70.3,0.0,2.0,0.0,2024-2025,premier-league
+arijanet muric,Ipswich Town,33.0,100.0,70.0,5.6,3.0,0.0,2024-2025,premier-league
+neto,Bournemouth,2.0,13.0,84.6,0.0,0.0,,2024-2025,premier-league
+robin olsen,Aston Villa,6.0,14.0,64.3,100.0,1.0,0.0,2024-2025,premier-league
+andre onana,Manchester Utd,44.0,132.0,68.9,26.5,4.0,25.0,2024-2025,premier-league
+stefan ortega,Manchester City,18.0,50.0,68.0,25.0,2.0,0.0,2024-2025,premier-league
+alex palmer,Ipswich Town,30.0,71.0,59.2,0.0,1.0,0.0,2024-2025,premier-league
+jordan pickford,Everton,44.0,163.0,73.0,31.6,2.0,100.0,2024-2025,premier-league
+nick pope,Newcastle Utd,35.0,120.0,71.7,28.6,2.0,50.0,2024-2025,premier-league
+hakon rafn valdimarsson,Brentford,2.0,4.0,50.0,100.0,0.0,,2024-2025,premier-league
+aaron ramsdale,Southampton,66.0,188.0,67.6,10.0,7.0,28.6,2024-2025,premier-league
+david raya,Arsenal,34.0,120.0,74.2,34.2,3.0,0.0,2024-2025,premier-league
+jose sa,Wolves,48.0,117.0,63.2,24.1,7.0,28.6,2024-2025,premier-league
+robert sanchez,Chelsea,34.0,127.0,76.4,31.3,5.0,20.0,2024-2025,premier-league
+matz sels,Nott'ham Forest,46.0,165.0,73.9,34.2,3.0,0.0,2024-2025,premier-league
+jason steele,Brighton,1.0,4.0,75.0,50.0,0.0,,2024-2025,premier-league
+jakub stolarczyk,Leicester City,16.0,44.0,63.6,20.0,0.0,,2024-2025,premier-league
+mark travers,Bournemouth,5.0,25.0,80.0,20.0,0.0,,2024-2025,premier-league
+bart verbruggen,Brighton,58.0,143.0,65.7,19.4,9.0,0.0,2024-2025,premier-league
+guglielmo vicario,Tottenham,37.0,102.0,64.7,16.7,1.0,0.0,2024-2025,premier-league
+christian walton,Ipswich Town,19.0,39.0,56.4,14.3,2.0,0.0,2024-2025,premier-league
+danny ward,Leicester City,6.0,10.0,40.0,0.0,0.0,,2024-2025,premier-league
+emil audero,Sampdoria,39.0,121.0,71.9,16.0,7.0,28.6,2022-2023,serie-a
+francesco bardi,Bologna,0.0,4.0,100.0,100.0,0.0,,2022-2023,serie-a
+marco carnesecchi,Cremonese,47.0,153.0,70.6,14.8,2.0,0.0,2022-2023,serie-a
+michele cerofolini,Fiorentina,3.0,11.0,81.8,40.0,1.0,0.0,2022-2023,serie-a
+andrea consigli,Sassuolo,55.0,117.0,55.6,25.7,3.0,0.0,2022-2023,serie-a
+alex cordaz,Inter,0.0,2.0,100.0,,0.0,,2022-2023,serie-a
+alessio cragno,Monza,3.0,5.0,40.0,0.0,0.0,,2022-2023,serie-a
+michele di gregorio,Monza,49.0,167.0,72.5,27.0,3.0,0.0,2022-2023,serie-a
+bartomiej dragowski,Spezia,54.0,164.0,69.5,17.6,6.0,20.0,2022-2023,serie-a
+wladimiro falcone,Lecce,46.0,156.0,73.7,15.8,6.0,16.7,2022-2023,serie-a
+vincenzo fiorillo,Salernitana,2.0,4.0,50.0,0.0,0.0,,2022-2023,serie-a
+pierluigi gollini,Napoli,4.0,16.0,75.0,50.0,0.0,,2022-2023,serie-a
+pierluigi gollini,Fiorentina,2.0,8.0,75.0,66.7,0.0,,2022-2023,serie-a
+samir handanovic,Inter,18.0,52.0,67.3,28.6,1.0,0.0,2022-2023,serie-a
+mike maignan,Milan,21.0,62.0,69.4,36.4,3.0,33.3,2022-2023,serie-a
+federico marchetti,Spezia,2.0,3.0,33.3,,0.0,,2022-2023,serie-a
+luis maximiano,Lazio,,,,,,,2022-2023,serie-a
+alex meret,Napoli,24.0,91.0,74.7,47.1,2.0,50.0,2022-2023,serie-a
+vanja milinkovicsavic,Torino,41.0,136.0,73.5,28.9,6.0,0.0,2022-2023,serie-a
+antonio mirante,Milan,0.0,0.0,,,0.0,,2022-2023,serie-a
+lorenzo montipo,Hellas Verona,59.0,181.0,68.0,13.5,2.0,50.0,2022-2023,serie-a
+juan musso,Atalanta,27.0,89.0,71.9,29.2,2.0,0.0,2022-2023,serie-a
+guillermo ochoa,Salernitana,33.0,105.0,71.4,20.0,4.0,25.0,2022-2023,serie-a
+andre onana,Inter,24.0,83.0,73.5,33.3,2.0,0.0,2022-2023,serie-a
+rui patricio,Roma,35.0,108.0,69.4,37.1,3.0,33.3,2022-2023,serie-a
+gianluca pegolo,Sassuolo,3.0,6.0,66.7,0.0,1.0,0.0,2022-2023,serie-a
+simone perilli,Hellas Verona,0.0,4.0,100.0,100.0,0.0,,2022-2023,serie-a
+mattia perin,Juventus,7.0,40.0,85.0,60.0,2.0,50.0,2022-2023,serie-a
+samuele perisan,Empoli,9.0,24.0,62.5,28.6,0.0,,2022-2023,serie-a
+ivan provedel,Lazio,30.0,128.0,77.3,56.8,2.0,0.0,2022-2023,serie-a
+ionut radu,Cremonese,19.0,64.0,75.0,11.1,3.0,0.0,2022-2023,serie-a
+nicola ravaglia,Sampdoria,23.0,64.0,67.2,0.0,2.0,0.0,2022-2023,serie-a
+francesco rossi,Atalanta,0.0,0.0,,,0.0,,2022-2023,serie-a
+alessandro russo,Sassuolo,3.0,7.0,57.1,0.0,0.0,,2022-2023,serie-a
+mouhamadou sarr,Cremonese,3.0,8.0,62.5,50.0,0.0,,2022-2023,serie-a
+luigi sepe,Salernitana,27.0,87.0,73.6,17.6,7.0,42.9,2022-2023,serie-a
+marco silvestri,Udinese,48.0,137.0,69.3,26.3,7.0,0.0,2022-2023,serie-a
+salvatore sirigu,Fiorentina,0.0,5.0,100.0,100.0,0.0,,2022-2023,serie-a
+ukasz skorupski,Bologna,49.0,161.0,73.9,18.9,9.0,22.2,2022-2023,serie-a
+marco sportiello,Atalanta,21.0,64.0,68.8,14.3,1.0,0.0,2022-2023,serie-a
+mile svilar,Roma,3.0,10.0,70.0,33.3,0.0,,2022-2023,serie-a
+wojciech szczesny,Juventus,26.0,93.0,75.3,50.0,3.0,0.0,2022-2023,serie-a
+ciprian tatarusanu,Milan,22.0,61.0,67.2,25.0,2.0,0.0,2022-2023,serie-a
+pietro terracciano,Fiorentina,38.0,96.0,66.7,17.2,7.0,14.3,2022-2023,serie-a
+martin turk,Sampdoria,9.0,30.0,73.3,0.0,2.0,0.0,2022-2023,serie-a
+samir ujkani,Empoli,1.0,1.0,0.0,,0.0,,2022-2023,serie-a
+guglielmo vicario,Empoli,39.0,134.0,73.9,22.6,6.0,20.0,2022-2023,serie-a
+jeroen zoet,Spezia,4.0,13.0,76.9,0.0,1.0,0.0,2022-2023,serie-a
+petar zovko,Spezia,2.0,3.0,33.3,,0.0,,2022-2023,serie-a
+simone aresti,Cagliari,1.0,1.0,100.0,,1.0,0.0,2023-2024,serie-a
+emil audero,Inter,3.0,11.0,72.7,50.0,0.0,,2023-2024,serie-a
+nicola bagnolini,Bologna,0.0,1.0,100.0,,0.0,,2023-2024,serie-a
+etrit berisha,Empoli,25.0,74.0,68.9,28.6,3.0,33.3,2023-2024,serie-a
+elia caprile,Empoli,27.0,106.0,78.3,21.7,5.0,20.0,2023-2024,serie-a
+marco carnesecchi,Atalanta,30.0,107.0,75.7,29.6,7.0,33.3,2023-2024,serie-a
+michele cerofolini,Frosinone,11.0,28.0,60.7,42.9,1.0,,2023-2024,serie-a
+oliver christensen,Fiorentina,9.0,19.0,63.2,0.0,2.0,0.0,2023-2024,serie-a
+andrea consigli,Sassuolo,68.0,159.0,61.6,8.6,10.0,12.5,2023-2024,serie-a
+nikita contini baranovsky,Napoli,0.0,0.0,,,0.0,,2023-2024,serie-a
+benoit costil,Salernitana,29.0,66.0,60.6,7.7,3.0,0.0,2023-2024,serie-a
+alessio cragno,Sassuolo,7.0,14.0,57.1,0.0,1.0,0.0,2023-2024,serie-a
+raffaele di gennaro,Inter,0.0,4.0,100.0,,0.0,,2023-2024,serie-a
+michele di gregorio,Monza,35.0,159.0,79.9,36.4,5.0,40.0,2023-2024,serie-a
+wladimiro falcone,Lecce,54.0,173.0,71.7,18.4,6.0,16.7,2023-2024,serie-a
+vincenzo fiorillo,Salernitana,8.0,26.0,69.2,0.0,0.0,,2023-2024,serie-a
+luca gemello,Torino,5.0,9.0,55.6,0.0,1.0,0.0,2023-2024,serie-a
+pierluigi gollini,Napoli,8.0,24.0,66.7,14.3,0.0,,2023-2024,serie-a
+nicola leali,Genoa,2.0,9.0,77.8,0.0,0.0,,2023-2024,serie-a
+mike maignan,Milan,34.0,120.0,77.5,34.5,7.0,0.0,2023-2024,serie-a
+christos mandas,Lazio,6.0,29.0,79.3,50.0,0.0,,2023-2024,serie-a
+tommaso martinelli,Fiorentina,2.0,3.0,33.3,0.0,0.0,,2023-2024,serie-a
+josep martinez,Genoa,43.0,130.0,69.2,22.2,4.0,25.0,2023-2024,serie-a
+alex meret,Napoli,40.0,104.0,63.5,16.1,4.0,50.0,2023-2024,serie-a
+vanja milinkovicsavic,Torino,31.0,134.0,81.3,50.0,6.0,0.0,2023-2024,serie-a
+antonio mirante,Milan,3.0,8.0,62.5,0.0,0.0,,2023-2024,serie-a
+lorenzo montipo,Hellas Verona,49.0,153.0,69.3,21.6,2.0,0.0,2023-2024,serie-a
+juan musso,Atalanta,12.0,34.0,70.6,54.5,2.0,0.0,2023-2024,serie-a
+lapo nava,Milan,1.0,2.0,50.0,,0.0,,2023-2024,serie-a
+guillermo ochoa,Salernitana,44.0,115.0,67.8,4.8,7.0,0.0,2023-2024,serie-a
+maduka okoye,Udinese,25.0,89.0,75.3,23.8,3.0,0.0,2023-2024,serie-a
+rui patricio,Roma,27.0,74.0,66.2,26.1,3.0,0.0,2023-2024,serie-a
+simone perilli,Hellas Verona,2.0,10.0,80.0,0.0,0.0,,2023-2024,serie-a
+mattia perin,Juventus,1.0,5.0,80.0,33.3,0.0,,2023-2024,serie-a
+samuele perisan,Empoli,2.0,5.0,60.0,0.0,0.0,,2023-2024,serie-a
+carlo pinsoglio,Juventus,0.0,3.0,100.0,,0.0,,2023-2024,serie-a
+ivan provedel,Lazio,33.0,119.0,73.9,30.0,3.0,0.0,2023-2024,serie-a
+boris radunovic,Cagliari,12.0,27.0,55.6,28.6,1.0,,2023-2024,serie-a
+federico ravaglia,Bologna,3.0,18.0,83.3,66.7,1.0,100.0,2023-2024,serie-a
+francesco rossi,Atalanta,0.0,1.0,100.0,,0.0,,2023-2024,serie-a
+simone scuffet,Cagliari,55.0,129.0,59.7,9.7,3.0,0.0,2023-2024,serie-a
+marco silvestri,Udinese,28.0,68.0,67.6,23.5,6.0,0.0,2023-2024,serie-a
+ukasz skorupski,Bologna,29.0,106.0,75.5,40.6,6.0,25.0,2023-2024,serie-a
+daniele sommariva,Genoa,0.0,0.0,,,0.0,,2023-2024,serie-a
+yann sommer,Inter,19.0,98.0,82.7,55.9,4.0,33.3,2023-2024,serie-a
+alessandro sorrentino,Monza,16.0,32.0,62.5,0.0,4.0,0.0,2023-2024,serie-a
+marco sportiello,Milan,11.0,33.0,69.7,28.6,1.0,0.0,2023-2024,serie-a
+mile svilar,Roma,19.0,77.0,76.6,33.3,2.0,50.0,2023-2024,serie-a
+wojciech szczesny,Juventus,30.0,108.0,74.1,42.9,3.0,33.3,2023-2024,serie-a
+pietro terracciano,Fiorentina,35.0,126.0,77.0,24.2,7.0,14.3,2023-2024,serie-a
+stefano turati,Frosinone,58.0,152.0,65.1,12.9,7.0,16.7,2023-2024,serie-a
+emil audero,Como,18.0,34.0,58.8,0.0,4.0,0.0,2024-2025,serie-a
+jean butez,Como,20.0,68.0,73.5,27.8,2.0,0.0,2024-2025,serie-a
+elia caprile,Napoli,1.0,8.0,87.5,100.0,0.0,,2024-2025,serie-a
+elia caprile,Cagliari,22.0,66.0,68.2,27.8,1.0,0.0,2024-2025,serie-a
+marco carnesecchi,Atalanta,34.0,129.0,75.2,38.2,2.0,0.0,2024-2025,serie-a
+leandro chichizola,Parma,3.0,6.0,50.0,0.0,0.0,,2024-2025,serie-a
+giuseppe ciocci,Cagliari,0.0,0.0,,,0.0,,2024-2025,serie-a
+michele di gregorio,Juventus,32.0,103.0,73.8,42.4,5.0,0.0,2024-2025,serie-a
+wladimiro falcone,Lecce,58.0,181.0,72.4,23.7,10.0,11.1,2024-2025,serie-a
+david de gea,Fiorentina,38.0,135.0,72.6,31.4,3.0,66.7,2024-2025,serie-a
+pierluigi gollini,Genoa,15.0,32.0,62.5,14.3,4.0,25.0,2024-2025,serie-a
+jesse joronen,Venezia,15.0,40.0,70.0,28.6,3.0,0.0,2024-2025,serie-a
+nicola leali,Genoa,31.0,111.0,74.8,34.5,4.0,25.0,2024-2025,serie-a
+mike maignan,Milan,41.0,136.0,70.6,32.4,2.0,50.0,2024-2025,serie-a
+christos mandas,Lazio,7.0,27.0,74.1,44.4,0.0,,2024-2025,serie-a
+josep martinez,Inter,3.0,14.0,78.6,60.0,0.0,,2024-2025,serie-a
+andrea mazza,Monza,0.0,0.0,,,0.0,,2024-2025,serie-a
+alex meret,Napoli,25.0,84.0,71.4,47.1,4.0,66.7,2024-2025,serie-a
+vanja milinkovicsavic,Torino,42.0,173.0,77.5,27.0,7.0,57.1,2024-2025,serie-a
+lorenzo montipo,Hellas Verona,64.0,161.0,61.5,22.2,4.0,33.3,2024-2025,serie-a
+juan musso,Atalanta,0.0,4.0,100.0,100.0,0.0,,2024-2025,serie-a
+maduka okoye,Udinese,40.0,110.0,67.3,16.0,5.0,0.0,2024-2025,serie-a
+daniele padelli,Udinese,0.0,3.0,100.0,100.0,0.0,,2024-2025,serie-a
+alberto paleari,Torino,3.0,7.0,57.1,0.0,0.0,,2024-2025,serie-a
+rui patricio,Atalanta,3.0,14.0,78.6,33.3,0.0,,2024-2025,serie-a
+simone perilli,Hellas Verona,2.0,11.0,81.8,0.0,0.0,,2024-2025,serie-a
+mattia perin,Juventus,3.0,16.0,81.3,60.0,0.0,,2024-2025,serie-a
+semuel pizzignacco,Monza,17.0,38.0,55.3,12.5,0.0,,2024-2025,serie-a
+ivan provedel,Lazio,42.0,92.0,58.7,17.2,4.0,0.0,2024-2025,serie-a
+ionut radu,Venezia,18.0,65.0,76.9,26.7,3.0,0.0,2024-2025,serie-a
+federico ravaglia,Bologna,14.0,24.0,45.8,36.4,1.0,0.0,2024-2025,serie-a
+pepe reina,Como,14.0,41.0,68.3,16.7,1.0,0.0,2024-2025,serie-a
+razvan sava,Udinese,16.0,51.0,74.5,33.3,3.0,0.0,2024-2025,serie-a
+simone scuffet,Napoli,1.0,4.0,75.0,0.0,0.0,,2024-2025,serie-a
+simone scuffet,Cagliari,23.0,56.0,67.9,7.7,5.0,0.0,2024-2025,serie-a
+jacopo seghetti,Empoli,3.0,6.0,50.0,0.0,0.0,,2024-2025,serie-a
+alen sherri,Cagliari,11.0,31.0,64.5,14.3,0.0,,2024-2025,serie-a
+benjamin siegrist,Genoa,2.0,12.0,83.3,0.0,0.0,,2024-2025,serie-a
+marco silvestri,Empoli,11.0,27.0,59.3,0.0,0.0,,2024-2025,serie-a
+ukasz skorupski,Bologna,33.0,82.0,61.0,29.6,2.0,50.0,2024-2025,serie-a
+daniele sommariva,Genoa,1.0,3.0,66.7,,0.0,,2024-2025,serie-a
+yann sommer,Inter,32.0,116.0,75.0,39.4,4.0,25.0,2024-2025,serie-a
+marco sportiello,Milan,2.0,6.0,66.7,100.0,0.0,,2024-2025,serie-a
+filip stankovic,Venezia,23.0,83.0,77.1,0.0,5.0,20.0,2024-2025,serie-a
+zion suzuki,Parma,53.0,150.0,68.0,19.4,5.0,0.0,2024-2025,serie-a
+mile svilar,Roma,35.0,151.0,79.5,42.1,4.0,0.0,2024-2025,serie-a
+pietro terracciano,Fiorentina,3.0,13.0,76.9,33.3,0.0,,2024-2025,serie-a
+stefano turati,Monza,52.0,145.0,65.5,6.7,4.0,50.0,2024-2025,serie-a
+devis vasquez,Empoli,45.0,125.0,64.8,18.8,3.0,50.0,2024-2025,serie-a
