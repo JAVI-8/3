@@ -5,8 +5,8 @@ import unicodedata
 import re
 from rapidfuzz import process
 # Carpeta de origen y destino
-FOLDER_ORIGEN = Path("data")
-FOLDER_DESTINO = Path("data/limpios")
+FOLDER_ORIGEN = Path("prueba_data")
+FOLDER_DESTINO = Path("prueba_data/limpios")
 FOLDER_DESTINO.mkdir(parents=True, exist_ok=True)
 
 SUBCARPETAS = ["stats", "defense", "misc", "passing", "possession", "shooting", "mercado", "keepers", "keepersadv"]
@@ -107,7 +107,7 @@ def guardar_csv(dataframes, rutas):
         df.to_csv(salida, index=False)
 
 def limpiar_ligas_transfermarkt(df):
-    ligas_principales = ["Serie A", "LaLiga", "Premier League", "Bundesliga"]
+    ligas_principales = ["Serie A", "LaLiga", "Premier League", "Bundesliga", "Ligue 1"]
     return df[df["comp_name"].isin(ligas_principales)]
 
 def igualar_nombres(dataframes):

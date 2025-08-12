@@ -3,7 +3,7 @@ from pyspark.sql.functions import col, lower, trim, round, when
 from pyspark.sql.types import FloatType
 from pyspark import SparkConf
 # Cargar CSV unificados
-base_path = "data/limpios"
+base_path = "prueba_data/limpios"
 
 float_columns = [
         "Born", "MP", "Starts", "Min", "Gls", "Ast", "YellowC", "RedC", "PrgC", "PrgP", "PrgR",
@@ -60,15 +60,15 @@ def crear_sesion():
 
 def union_datasets(spark):
     sources = {
-        "stats": spark.read.option("header", True).csv("data/limpios/stats/stats.csv"),
-        "misc": spark.read.option("header", True).csv("data/limpios/misc/misc.csv"),
-        "defense": spark.read.option("header", True).csv("data/limpios/defense/defense.csv"),
-        "passing": spark.read.option("header", True).csv("data/limpios/passing/passing.csv"),
-        "possession": spark.read.option("header", True).csv("data/limpios/possession/possession.csv"),
-        "shooting": spark.read.option("header", True).csv("data/limpios/shooting/shooting.csv"),
-        "mercado": spark.read.option("header", True).csv("data/limpios/mercado/mercado.csv"),
-        "keepers": spark.read.option("header", True).csv("data/limpios/keepers/keepers.csv"),
-        "keepersadv": spark.read.option("header", True).csv("data/limpios/keepersadv/keepersadv.csv")
+        "stats": spark.read.option("header", True).csv("prueba_data/limpios/stats/stats.csv"),
+        "misc": spark.read.option("header", True).csv("prueba_data/limpios/misc/misc.csv"),
+        "defense": spark.read.option("header", True).csv("prueba_data/limpios/defense/defense.csv"),
+        "passing": spark.read.option("header", True).csv("prueba_data/limpios/passing/passing.csv"),
+        "possession": spark.read.option("header", True).csv("prueba_data/limpios/possession/possession.csv"),
+        "shooting": spark.read.option("header", True).csv("prueba_data/limpios/shooting/shooting.csv"),
+        "mercado": spark.read.option("header", True).csv("prueba_data/limpios/mercado/mercado.csv"),
+        "keepers": spark.read.option("header", True).csv("prueba_data/limpios/keepers/keepers.csv"),
+        "keepersadv": spark.read.option("header", True).csv("prueba_data/limpios/keepersadv/keepersadv.csv")
     }
 
     for name in sources:
@@ -116,7 +116,7 @@ def normalizar_por_90_min(df):
     return df
 
 def guardar_en_parquet(df):
-    df.write.mode("overwrite").parquet("data/unidos/merge_jugadores.parquet")
+    df.write.mode("overwrite").parquet("prueba_data/unidos/merge_jugadores.parquet")
     print("Datos procesados y exportados en formato Parquet.")
 
 

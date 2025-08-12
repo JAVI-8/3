@@ -1,0 +1,682 @@
+Player,Pos,Squad,Height,Value,Season,Competition
+josep martinez,Goalkeeper,Inter Milan,1.91,12000000.0,2024-2025,serie-a
+yann sommer,Goalkeeper,Inter Milan,1.83,4000000.0,2024-2025,serie-a
+alessandro calligaris,Goalkeeper,Inter Milan,,350000.0,2024-2025,serie-a
+raffaele di gennaro,Goalkeeper,Inter Milan,1.88,300000.0,2024-2025,serie-a
+alain taho,Goalkeeper,Inter Milan,,,2024-2025,serie-a
+alessandro bastoni,Centre-Back,Inter Milan,1.9,80000000.0,2024-2025,serie-a
+yann bisseck,Centre-Back,Inter Milan,1.96,35000000.0,2024-2025,serie-a
+benjamin pavard,Centre-Back,Inter Milan,1.86,25000000.0,2024-2025,serie-a
+stefan de vrij,Centre-Back,Inter Milan,1.89,5000000.0,2024-2025,serie-a
+tomas palacios,Centre-Back,Inter Milan,1.96,4000000.0,2024-2025,serie-a
+francesco acerbi,Centre-Back,Inter Milan,1.92,3000000.0,2024-2025,serie-a
+christos alexiou,Centre-Back,Inter Milan,1.86,800000.0,2024-2025,serie-a
+alessandro fontanarosa,Centre-Back,Inter Milan,1.85,700000.0,2024-2025,serie-a
+gabriele re cecconi,Centre-Back,Inter Milan,,700000.0,2024-2025,serie-a
+federico dimarco,Left-Back,Inter Milan,1.75,50000000.0,2024-2025,serie-a
+carlos augusto,Left-Back,Inter Milan,1.84,26000000.0,2024-2025,serie-a
+matteo cocchi,Left-Back,Inter Milan,1.79,1500000.0,2024-2025,serie-a
+matteo motta,Left-Back,Inter Milan,,200000.0,2024-2025,serie-a
+denzel dumfries,Right-Back,Inter Milan,1.88,35000000.0,2024-2025,serie-a
+matteo darmian,Right-Back,Inter Milan,1.83,2500000.0,2024-2025,serie-a
+mike aidoo,Right-Back,Inter Milan,1.7,500000.0,2024-2025,serie-a
+hakan calhanoglu,Defensive Midfield,Inter Milan,1.78,30000000.0,2024-2025,serie-a
+petar sucic,Defensive Midfield,Inter Milan,1.83,14000000.0,2024-2025,serie-a
+kristjan asllani,Defensive Midfield,Inter Milan,1.79,13000000.0,2024-2025,serie-a
+mattia zanchetta,Defensive Midfield,Inter Milan,,450000.0,2024-2025,serie-a
+nicolo barella,Central Midfield,Inter Milan,1.75,75000000.0,2024-2025,serie-a
+davide frattesi,Central Midfield,Inter Milan,1.78,35000000.0,2024-2025,serie-a
+piotr zielinski,Central Midfield,Inter Milan,1.8,10000000.0,2024-2025,serie-a
+henrikh mkhitaryan,Central Midfield,Inter Milan,1.77,4000000.0,2024-2025,serie-a
+thomas berenbruch,Central Midfield,Inter Milan,1.77,1500000.0,2024-2025,serie-a
+luka topalovic,Central Midfield,Inter Milan,1.87,1500000.0,2024-2025,serie-a
+luis henrique,Right Midfield,Inter Milan,1.81,25000000.0,2024-2025,serie-a
+tajon buchanan,Right Midfield,Inter Milan,1.83,6000000.0,2024-2025,serie-a
+nicola zalewski,Left Midfield,Inter Milan,1.75,12000000.0,2024-2025,serie-a
+valentin carboni,Attacking Midfield,Inter Milan,1.85,12000000.0,2024-2025,serie-a
+daniele quieto,Left Winger,Inter Milan,1.7,250000.0,2024-2025,serie-a
+giacomo de pieri,Right Winger,Inter Milan,1.74,1500000.0,2024-2025,serie-a
+sebastiano esposito,Second Striker,Inter Milan,1.83,8500000.0,2024-2025,serie-a
+joaquin correa,Second Striker,Inter Milan,1.88,3000000.0,2024-2025,serie-a
+lautaro martinez,Centre-Forward,Inter Milan,1.74,95000000.0,2024-2025,serie-a
+marcus thuram,Centre-Forward,Inter Milan,1.92,75000000.0,2024-2025,serie-a
+pio esposito,Centre-Forward,Inter Milan,1.91,25000000.0,2024-2025,serie-a
+mehdi taremi,Centre-Forward,Inter Milan,1.85,3500000.0,2024-2025,serie-a
+marko arnautovic,Centre-Forward,Inter Milan,1.92,3000000.0,2024-2025,serie-a
+matteo spinacce,Centre-Forward,Inter Milan,,750000.0,2024-2025,serie-a
+matteo lavelli,Centre-Forward,Inter Milan,,350000.0,2024-2025,serie-a
+michele di gregorio,Goalkeeper,Juventus FC,1.87,18000000.0,2024-2025,serie-a
+mattia perin,Goalkeeper,Juventus FC,1.88,2500000.0,2024-2025,serie-a
+giovanni daffara,Goalkeeper,Juventus FC,1.94,500000.0,2024-2025,serie-a
+carlo pinsoglio,Goalkeeper,Juventus FC,1.94,200000.0,2024-2025,serie-a
+giovanni garofani,Goalkeeper,Juventus FC,1.88,75000.0,2024-2025,serie-a
+bremer,Centre-Back,Juventus FC,1.88,50000000.0,2024-2025,serie-a
+pierre kalulu,Centre-Back,Juventus FC,1.82,28000000.0,2024-2025,serie-a
+renato veiga,Centre-Back,Juventus FC,1.9,25000000.0,2024-2025,serie-a
+federico gatti,Centre-Back,Juventus FC,1.9,24000000.0,2024-2025,serie-a
+lloyd kelly,Centre-Back,Juventus FC,1.89,16000000.0,2024-2025,serie-a
+danilo,Centre-Back,Juventus FC,1.84,3500000.0,2024-2025,serie-a
+daniele rugani,Centre-Back,Juventus FC,1.9,3000000.0,2024-2025,serie-a
+javier gil,Centre-Back,Juventus FC,1.92,1200000.0,2024-2025,serie-a
+niccolo rizzo,Centre-Back,Juventus FC,1.92,,2024-2025,serie-a
+alfonso montero,Centre-Back,Juventus FC,1.85,,2024-2025,serie-a
+andrea cambiaso,Left-Back,Juventus FC,1.82,35000000.0,2024-2025,serie-a
+juan cabal,Left-Back,Juventus FC,1.86,9000000.0,2024-2025,serie-a
+jonas rouhi,Left-Back,Juventus FC,1.83,2000000.0,2024-2025,serie-a
+riccardo turicchia,Left-Back,Juventus FC,1.8,700000.0,2024-2025,serie-a
+nicolo savona,Right-Back,Juventus FC,1.92,12000000.0,2024-2025,serie-a
+alberto costa,Right-Back,Juventus FC,1.86,10000000.0,2024-2025,serie-a
+manuel locatelli,Defensive Midfield,Juventus FC,1.85,30000000.0,2024-2025,serie-a
+khephren thuram,Central Midfield,Juventus FC,1.92,40000000.0,2024-2025,serie-a
+douglas luiz,Central Midfield,Juventus FC,1.77,30000000.0,2024-2025,serie-a
+weston mckennie,Central Midfield,Juventus FC,1.85,22000000.0,2024-2025,serie-a
+nicolo fagioli,Central Midfield,Juventus FC,1.78,18000000.0,2024-2025,serie-a
+augusto owusu,Central Midfield,Juventus FC,,700000.0,2024-2025,serie-a
+filip kostic,Left Midfield,Juventus FC,1.84,5000000.0,2024-2025,serie-a
+filippo pagnucco,Left Midfield,Juventus FC,1.8,850000.0,2024-2025,serie-a
+teun koopmeiners,Attacking Midfield,Juventus FC,1.84,35000000.0,2024-2025,serie-a
+vasilije adzic,Attacking Midfield,Juventus FC,1.85,4000000.0,2024-2025,serie-a
+christos papadopoulos,Attacking Midfield,Juventus FC,1.88,700000.0,2024-2025,serie-a
+kenan yldz,Left Winger,Juventus FC,1.87,50000000.0,2024-2025,serie-a
+samuel mbangula,Left Winger,Juventus FC,1.79,14000000.0,2024-2025,serie-a
+francisco conceicao,Right Winger,Juventus FC,1.7,28000000.0,2024-2025,serie-a
+nico gonzalez,Right Winger,Juventus FC,1.8,24000000.0,2024-2025,serie-a
+timothy weah,Right Winger,Juventus FC,1.83,17000000.0,2024-2025,serie-a
+alessandro pietrelli,Right Winger,Juventus FC,1.94,800000.0,2024-2025,serie-a
+lorenzo anghele,Second Striker,Juventus FC,,700000.0,2024-2025,serie-a
+dusan vlahovic,Centre-Forward,Juventus FC,1.9,35000000.0,2024-2025,serie-a
+randal kolo muani,Centre-Forward,Juventus FC,1.87,30000000.0,2024-2025,serie-a
+arkadiusz milik,Centre-Forward,Juventus FC,1.86,2000000.0,2024-2025,serie-a
+diego pugno,Centre-Forward,Juventus FC,,300000.0,2024-2025,serie-a
+marco carnesecchi,Goalkeeper,Atalanta BC,1.91,25000000.0,2024-2025,serie-a
+juan musso,Goalkeeper,Atalanta BC,1.91,3500000.0,2024-2025,serie-a
+rui patricio,Goalkeeper,Atalanta BC,1.9,800000.0,2024-2025,serie-a
+paolo vismara,Goalkeeper,Atalanta BC,1.95,700000.0,2024-2025,serie-a
+matevz dajcar,Goalkeeper,Atalanta BC,1.9,100000.0,2024-2025,serie-a
+francesco rossi,Goalkeeper,Atalanta BC,1.93,100000.0,2024-2025,serie-a
+giorgio scalvini,Centre-Back,Atalanta BC,1.94,35000000.0,2024-2025,serie-a
+isak hien,Centre-Back,Atalanta BC,1.91,30000000.0,2024-2025,serie-a
+odilon kossounou,Centre-Back,Atalanta BC,1.91,25000000.0,2024-2025,serie-a
+stefan posch,Centre-Back,Atalanta BC,1.9,8000000.0,2024-2025,serie-a
+sead kolasinac,Centre-Back,Atalanta BC,1.83,7000000.0,2024-2025,serie-a
+ben godfrey,Centre-Back,Atalanta BC,1.84,6000000.0,2024-2025,serie-a
+berat djimsiti,Centre-Back,Atalanta BC,1.9,6000000.0,2024-2025,serie-a
+rafael toloi,Centre-Back,Atalanta BC,1.85,1400000.0,2024-2025,serie-a
+relja obric,Centre-Back,Atalanta BC,1.94,800000.0,2024-2025,serie-a
+tommaso del lungo,Centre-Back,Atalanta BC,1.86,500000.0,2024-2025,serie-a
+pietro comi,Centre-Back,Atalanta BC,,250000.0,2024-2025,serie-a
+pietro tornaghi,Centre-Back,Atalanta BC,,200000.0,2024-2025,serie-a
+matteo ruggeri,Left-Back,Atalanta BC,1.87,16000000.0,2024-2025,serie-a
+mitchel bakker,Left-Back,Atalanta BC,1.89,7000000.0,2024-2025,serie-a
+ibrahim sulemana,Defensive Midfield,Atalanta BC,1.8,7000000.0,2024-2025,serie-a
+marten de roon,Defensive Midfield,Atalanta BC,1.85,5000000.0,2024-2025,serie-a
+ederson,Central Midfield,Atalanta BC,1.83,50000000.0,2024-2025,serie-a
+mario pasalic,Central Midfield,Atalanta BC,1.88,10000000.0,2024-2025,serie-a
+marco brescianini,Central Midfield,Atalanta BC,1.88,8000000.0,2024-2025,serie-a
+lorenzo riccio,Central Midfield,Atalanta BC,1.87,950000.0,2024-2025,serie-a
+alberto manzoni,Central Midfield,Atalanta BC,1.78,900000.0,2024-2025,serie-a
+federico steffanoni,Central Midfield,Atalanta BC,1.8,,2024-2025,serie-a
+raoul bellanova,Right Midfield,Atalanta BC,1.88,24000000.0,2024-2025,serie-a
+davide zappacosta,Right Midfield,Atalanta BC,1.82,5000000.0,2024-2025,serie-a
+marco palestra,Right Midfield,Atalanta BC,1.86,3500000.0,2024-2025,serie-a
+juan cuadrado,Right Midfield,Atalanta BC,1.76,1000000.0,2024-2025,serie-a
+javison idele,Right Midfield,Atalanta BC,,400000.0,2024-2025,serie-a
+lorenzo bernasconi,Left Midfield,Atalanta BC,1.9,800000.0,2024-2025,serie-a
+charles de ketelaere,Attacking Midfield,Atalanta BC,1.92,35000000.0,2024-2025,serie-a
+lazar samardzic,Attacking Midfield,Atalanta BC,1.84,17000000.0,2024-2025,serie-a
+nicolo zaniolo,Attacking Midfield,Atalanta BC,1.9,12000000.0,2024-2025,serie-a
+daniel maldini,Attacking Midfield,Atalanta BC,1.88,10000000.0,2024-2025,serie-a
+federico cassa,Attacking Midfield,Atalanta BC,,800000.0,2024-2025,serie-a
+ademola lookman,Second Striker,Atalanta BC,1.74,60000000.0,2024-2025,serie-a
+dominic vavassori,Second Striker,Atalanta BC,1.77,1500000.0,2024-2025,serie-a
+mateo retegui,Centre-Forward,Atalanta BC,1.86,45000000.0,2024-2025,serie-a
+gianluca scamacca,Centre-Forward,Atalanta BC,1.95,24000000.0,2024-2025,serie-a
+vanja vlahovic,Centre-Forward,Atalanta BC,1.84,6000000.0,2024-2025,serie-a
+alex meret,Goalkeeper,SSC Napoli,1.9,18000000.0,2024-2025,serie-a
+elia caprile,Goalkeeper,SSC Napoli,1.91,9000000.0,2024-2025,serie-a
+simone scuffet,Goalkeeper,SSC Napoli,1.93,2000000.0,2024-2025,serie-a
+nikita contini,Goalkeeper,SSC Napoli,1.9,400000.0,2024-2025,serie-a
+claudio turi,Goalkeeper,SSC Napoli,1.87,150000.0,2024-2025,serie-a
+alessandro buongiorno,Centre-Back,SSC Napoli,1.9,50000000.0,2024-2025,serie-a
+amir rrahmani,Centre-Back,SSC Napoli,1.92,12000000.0,2024-2025,serie-a
+natan,Centre-Back,SSC Napoli,1.88,9000000.0,2024-2025,serie-a
+rafa marin,Centre-Back,SSC Napoli,1.91,7000000.0,2024-2025,serie-a
+juan jesus,Centre-Back,SSC Napoli,1.85,1500000.0,2024-2025,serie-a
+mattia esposito,Centre-Back,SSC Napoli,,75000.0,2024-2025,serie-a
+mathias olivera,Left-Back,SSC Napoli,1.85,20000000.0,2024-2025,serie-a
+leonardo spinazzola,Left-Back,SSC Napoli,1.86,3500000.0,2024-2025,serie-a
+giovanni di lorenzo,Right-Back,SSC Napoli,1.83,12000000.0,2024-2025,serie-a
+pasquale mazzocchi,Right-Back,SSC Napoli,1.83,2500000.0,2024-2025,serie-a
+francesco mezzoni,Right-Back,SSC Napoli,1.81,200000.0,2024-2025,serie-a
+stanislav lobotka,Defensive Midfield,SSC Napoli,1.68,25000000.0,2024-2025,serie-a
+billy gilmour,Defensive Midfield,SSC Napoli,1.7,20000000.0,2024-2025,serie-a
+francesco gioielli,Defensive Midfield,SSC Napoli,,75000.0,2024-2025,serie-a
+scott mctominay,Central Midfield,SSC Napoli,1.91,50000000.0,2024-2025,serie-a
+frank anguissa,Central Midfield,SSC Napoli,1.84,27000000.0,2024-2025,serie-a
+philip billing,Central Midfield,SSC Napoli,1.93,10000000.0,2024-2025,serie-a
+michael folorunsho,Central Midfield,SSC Napoli,1.9,6000000.0,2024-2025,serie-a
+luis hasa,Central Midfield,SSC Napoli,1.72,1000000.0,2024-2025,serie-a
+gennaro iaccarino,Central Midfield,SSC Napoli,1.75,300000.0,2024-2025,serie-a
+coli saco,Central Midfield,SSC Napoli,1.97,250000.0,2024-2025,serie-a
+gianluca gaetano,Attacking Midfield,SSC Napoli,1.83,4000000.0,2024-2025,serie-a
+khvicha kvaratskhelia,Left Winger,SSC Napoli,1.83,90000000.0,2024-2025,serie-a
+noah okafor,Left Winger,SSC Napoli,1.85,13000000.0,2024-2025,serie-a
+alessio zerbin,Left Winger,SSC Napoli,1.82,4000000.0,2024-2025,serie-a
+david neres,Right Winger,SSC Napoli,1.76,30000000.0,2024-2025,serie-a
+matteo politano,Right Winger,SSC Napoli,1.71,10000000.0,2024-2025,serie-a
+cyril ngonge,Right Winger,SSC Napoli,1.8,8000000.0,2024-2025,serie-a
+giacomo raspadori,Second Striker,SSC Napoli,1.72,25000000.0,2024-2025,serie-a
+romelu lukaku,Centre-Forward,SSC Napoli,1.91,22000000.0,2024-2025,serie-a
+giovanni simeone,Centre-Forward,SSC Napoli,1.8,5000000.0,2024-2025,serie-a
+walid cheddira,Centre-Forward,SSC Napoli,1.87,2500000.0,2024-2025,serie-a
+mile svilar,Goalkeeper,AS Roma,1.89,25000000.0,2024-2025,serie-a
+mathew ryan,Goalkeeper,AS Roma,1.84,2500000.0,2024-2025,serie-a
+pierluigi gollini,Goalkeeper,AS Roma,1.94,1000000.0,2024-2025,serie-a
+renato marin,Goalkeeper,AS Roma,1.93,500000.0,2024-2025,serie-a
+giorgio de marzi,Goalkeeper,AS Roma,,,2024-2025,serie-a
+alessio marcaccini,Goalkeeper,AS Roma,,,2024-2025,serie-a
+evan ndicka,Centre-Back,AS Roma,1.92,30000000.0,2024-2025,serie-a
+gianluca mancini,Centre-Back,AS Roma,1.9,15000000.0,2024-2025,serie-a
+victor nelsson,Centre-Back,AS Roma,1.85,10000000.0,2024-2025,serie-a
+mario hermoso,Centre-Back,AS Roma,1.84,7000000.0,2024-2025,serie-a
+mats hummels,Centre-Back,AS Roma,1.91,2000000.0,2024-2025,serie-a
+chris smalling,Centre-Back,AS Roma,1.94,1500000.0,2024-2025,serie-a
+federico nardin,Centre-Back,AS Roma,,,2024-2025,serie-a
+angelino,Left-Back,AS Roma,1.71,20000000.0,2024-2025,serie-a
+anass salaheddine,Left-Back,AS Roma,1.81,8000000.0,2024-2025,serie-a
+samuel dahl,Left-Back,AS Roma,1.74,7000000.0,2024-2025,serie-a
+devyne rensch,Right-Back,AS Roma,1.81,10000000.0,2024-2025,serie-a
+zeki celik,Right-Back,AS Roma,1.8,6000000.0,2024-2025,serie-a
+saud abdulhamid,Right-Back,AS Roma,1.75,3000000.0,2024-2025,serie-a
+buba sangare,Right-Back,AS Roma,1.83,1000000.0,2024-2025,serie-a
+lucas gournadouath,Defensive Midfield,AS Roma,1.85,8000000.0,2024-2025,serie-a
+bryan cristante,Defensive Midfield,AS Roma,1.86,7000000.0,2024-2025,serie-a
+leandro paredes,Defensive Midfield,AS Roma,1.8,5000000.0,2024-2025,serie-a
+alessandro romano,Defensive Midfield,AS Roma,,500000.0,2024-2025,serie-a
+manu kone,Central Midfield,AS Roma,1.85,40000000.0,2024-2025,serie-a
+enzo le fee,Central Midfield,AS Roma,1.73,18000000.0,2024-2025,serie-a
+niccolo pisilli,Central Midfield,AS Roma,1.8,13000000.0,2024-2025,serie-a
+edoardo bove,Central Midfield,AS Roma,1.81,5000000.0,2024-2025,serie-a
+nicola zalewski,Left Midfield,AS Roma,1.75,12000000.0,2024-2025,serie-a
+tommaso baldanzi,Attacking Midfield,AS Roma,1.7,12000000.0,2024-2025,serie-a
+lorenzo pellegrini,Attacking Midfield,AS Roma,1.86,9000000.0,2024-2025,serie-a
+stephan el shaarawy,Left Winger,AS Roma,1.78,3500000.0,2024-2025,serie-a
+matias soule,Right Winger,AS Roma,1.82,30000000.0,2024-2025,serie-a
+alexis saelemaekers,Right Winger,AS Roma,1.8,17000000.0,2024-2025,serie-a
+joao costa,Right Winger,AS Roma,1.78,2800000.0,2024-2025,serie-a
+paulo dybala,Second Striker,AS Roma,1.77,8000000.0,2024-2025,serie-a
+artem dovbyk,Centre-Forward,AS Roma,1.89,30000000.0,2024-2025,serie-a
+tammy abraham,Centre-Forward,AS Roma,1.94,15000000.0,2024-2025,serie-a
+eldor shomurodov,Centre-Forward,AS Roma,1.9,5000000.0,2024-2025,serie-a
+david de gea,Goalkeeper,ACF Fiorentina,1.92,5000000.0,2024-2025,serie-a
+tommaso martinelli,Goalkeeper,ACF Fiorentina,1.94,1800000.0,2024-2025,serie-a
+pietro terracciano,Goalkeeper,ACF Fiorentina,1.93,1000000.0,2024-2025,serie-a
+pietro leonardelli,Goalkeeper,ACF Fiorentina,,125000.0,2024-2025,serie-a
+pietro comuzzo,Centre-Back,ACF Fiorentina,1.85,25000000.0,2024-2025,serie-a
+luca ranieri,Centre-Back,ACF Fiorentina,1.87,12000000.0,2024-2025,serie-a
+marin pongracic,Centre-Back,ACF Fiorentina,1.93,10000000.0,2024-2025,serie-a
+lucas martinez quarta,Centre-Back,ACF Fiorentina,1.83,7000000.0,2024-2025,serie-a
+nicolas valentini,Centre-Back,ACF Fiorentina,1.87,6000000.0,2024-2025,serie-a
+pablo mari,Centre-Back,ACF Fiorentina,1.93,3500000.0,2024-2025,serie-a
+matias moreno,Centre-Back,ACF Fiorentina,1.93,3400000.0,2024-2025,serie-a
+eddy kouadio,Centre-Back,ACF Fiorentina,1.91,275000.0,2024-2025,serie-a
+leonardo baroncelli,Centre-Back,ACF Fiorentina,1.9,200000.0,2024-2025,serie-a
+lorenzo romani,Centre-Back,ACF Fiorentina,,125000.0,2024-2025,serie-a
+niccolo fortini,Left-Back,ACF Fiorentina,1.85,8500000.0,2024-2025,serie-a
+robin gosens,Left-Back,ACF Fiorentina,1.83,8000000.0,2024-2025,serie-a
+fabiano parisi,Left-Back,ACF Fiorentina,1.78,6000000.0,2024-2025,serie-a
+cristiano biraghi,Left-Back,ACF Fiorentina,1.85,1800000.0,2024-2025,serie-a
+dodo,Right-Back,ACF Fiorentina,1.66,24000000.0,2024-2025,serie-a
+michael kayode,Right-Back,ACF Fiorentina,1.79,18000000.0,2024-2025,serie-a
+sofyan amrabat,Defensive Midfield,ACF Fiorentina,1.85,17000000.0,2024-2025,serie-a
+rolando mandragora,Defensive Midfield,ACF Fiorentina,1.83,12000000.0,2024-2025,serie-a
+yacine adli,Defensive Midfield,ACF Fiorentina,1.86,11000000.0,2024-2025,serie-a
+danilo cataldi,Defensive Midfield,ACF Fiorentina,1.8,3500000.0,2024-2025,serie-a
+nicolo fagioli,Central Midfield,ACF Fiorentina,1.78,18000000.0,2024-2025,serie-a
+amir richardson,Central Midfield,ACF Fiorentina,1.97,8500000.0,2024-2025,serie-a
+michael folorunsho,Central Midfield,ACF Fiorentina,1.9,6000000.0,2024-2025,serie-a
+alessandro bianco,Central Midfield,ACF Fiorentina,1.73,5000000.0,2024-2025,serie-a
+edoardo bove,Central Midfield,ACF Fiorentina,1.81,5000000.0,2024-2025,serie-a
+cher ndour,Central Midfield,ACF Fiorentina,1.9,5000000.0,2024-2025,serie-a
+gino infantino,Central Midfield,ACF Fiorentina,1.78,2000000.0,2024-2025,serie-a
+jonas harder,Central Midfield,ACF Fiorentina,1.78,900000.0,2024-2025,serie-a
+lucas beltran,Attacking Midfield,ACF Fiorentina,1.76,18000000.0,2024-2025,serie-a
+nicolo zaniolo,Attacking Midfield,ACF Fiorentina,1.9,12000000.0,2024-2025,serie-a
+andrea colpani,Attacking Midfield,ACF Fiorentina,1.84,9500000.0,2024-2025,serie-a
+antonin barak,Attacking Midfield,ACF Fiorentina,1.9,2500000.0,2024-2025,serie-a
+tommaso rubino,Attacking Midfield,ACF Fiorentina,1.79,1200000.0,2024-2025,serie-a
+riccardo sottil,Left Winger,ACF Fiorentina,1.8,5000000.0,2024-2025,serie-a
+josip brekalo,Left Winger,ACF Fiorentina,1.75,3300000.0,2024-2025,serie-a
+maat daniel caprini,Left Winger,ACF Fiorentina,1.8,2000000.0,2024-2025,serie-a
+jonathan ikone,Right Winger,ACF Fiorentina,1.75,7000000.0,2024-2025,serie-a
+albert gudmundsson,Second Striker,ACF Fiorentina,1.77,18000000.0,2024-2025,serie-a
+moise kean,Centre-Forward,ACF Fiorentina,1.83,50000000.0,2024-2025,serie-a
+christian kouame,Centre-Forward,ACF Fiorentina,1.85,4000000.0,2024-2025,serie-a
+lukasz skorupski,Goalkeeper,Bologna FC 1909,1.88,2500000.0,2024-2025,serie-a
+federico ravaglia,Goalkeeper,Bologna FC 1909,1.96,1500000.0,2024-2025,serie-a
+nicola bagnolini,Goalkeeper,Bologna FC 1909,1.94,200000.0,2024-2025,serie-a
+massimo pessina,Goalkeeper,Bologna FC 1909,,,2024-2025,serie-a
+sam beukema,Centre-Back,Bologna FC 1909,1.88,28000000.0,2024-2025,serie-a
+jhon lucumi,Centre-Back,Bologna FC 1909,1.87,22000000.0,2024-2025,serie-a
+stefan posch,Centre-Back,Bologna FC 1909,1.9,8000000.0,2024-2025,serie-a
+nicolo casale,Centre-Back,Bologna FC 1909,1.91,6000000.0,2024-2025,serie-a
+martin erlic,Centre-Back,Bologna FC 1909,1.93,4000000.0,2024-2025,serie-a
+mihajlo ilic,Centre-Back,Bologna FC 1909,1.92,3500000.0,2024-2025,serie-a
+juan miranda,Left-Back,Bologna FC 1909,1.85,15000000.0,2024-2025,serie-a
+tommaso corazza,Left-Back,Bologna FC 1909,1.74,1500000.0,2024-2025,serie-a
+charalampos lykogiannis,Left-Back,Bologna FC 1909,1.91,1500000.0,2024-2025,serie-a
+emil holm,Right-Back,Bologna FC 1909,1.91,8000000.0,2024-2025,serie-a
+davide calabria,Right-Back,Bologna FC 1909,1.76,4500000.0,2024-2025,serie-a
+lorenzo de silvestri,Right-Back,Bologna FC 1909,1.87,800000.0,2024-2025,serie-a
+nikola moro,Defensive Midfield,Bologna FC 1909,1.84,4500000.0,2024-2025,serie-a
+oussama el azzouzi,Defensive Midfield,Bologna FC 1909,1.89,1400000.0,2024-2025,serie-a
+lewis ferguson,Central Midfield,Bologna FC 1909,1.81,28000000.0,2024-2025,serie-a
+tommaso pobega,Central Midfield,Bologna FC 1909,1.88,9000000.0,2024-2025,serie-a
+michel aebischer,Central Midfield,Bologna FC 1909,1.83,7500000.0,2024-2025,serie-a
+kacper urbanski,Central Midfield,Bologna FC 1909,1.83,6000000.0,2024-2025,serie-a
+remo freuler,Central Midfield,Bologna FC 1909,1.8,5000000.0,2024-2025,serie-a
+andri fannar baldursson,Central Midfield,Bologna FC 1909,1.87,600000.0,2024-2025,serie-a
+naim byar,Central Midfield,Bologna FC 1909,1.82,500000.0,2024-2025,serie-a
+jens odgaard,Attacking Midfield,Bologna FC 1909,1.88,12000000.0,2024-2025,serie-a
+giovanni fabbian,Attacking Midfield,Bologna FC 1909,1.86,12000000.0,2024-2025,serie-a
+benja dominguez,Left Winger,Bologna FC 1909,1.72,15000000.0,2024-2025,serie-a
+samuel ilingjunior,Left Winger,Bologna FC 1909,1.82,10000000.0,2024-2025,serie-a
+nicolo cambiaghi,Left Winger,Bologna FC 1909,1.73,8500000.0,2024-2025,serie-a
+jesper karlsson,Left Winger,Bologna FC 1909,1.79,4000000.0,2024-2025,serie-a
+estanis pedrola,Left Winger,Bologna FC 1909,1.85,1800000.0,2024-2025,serie-a
+flavio ferrari,Left Winger,Bologna FC 1909,,200000.0,2024-2025,serie-a
+dan ndoye,Right Winger,Bologna FC 1909,1.84,35000000.0,2024-2025,serie-a
+riccardo orsolini,Right Winger,Bologna FC 1909,1.83,25000000.0,2024-2025,serie-a
+santiago castro,Centre-Forward,Bologna FC 1909,1.79,35000000.0,2024-2025,serie-a
+thijs dallinga,Centre-Forward,Bologna FC 1909,1.9,12000000.0,2024-2025,serie-a
+tommaso ravaglioli,Centre-Forward,Bologna FC 1909,,650000.0,2024-2025,serie-a
+christos mandas,Goalkeeper,SS Lazio,1.89,10000000.0,2024-2025,serie-a
+ivan provedel,Goalkeeper,SS Lazio,1.94,3000000.0,2024-2025,serie-a
+davide renzetti,Goalkeeper,SS Lazio,1.94,100000.0,2024-2025,serie-a
+alessio furlanetto,Goalkeeper,SS Lazio,1.91,50000.0,2024-2025,serie-a
+mario gila,Centre-Back,SS Lazio,1.85,30000000.0,2024-2025,serie-a
+alessio romagnoli,Centre-Back,SS Lazio,1.85,7000000.0,2024-2025,serie-a
+nicolo casale,Centre-Back,SS Lazio,1.91,6000000.0,2024-2025,serie-a
+oliver provstgaard,Centre-Back,SS Lazio,1.94,3500000.0,2024-2025,serie-a
+samuel gigot,Centre-Back,SS Lazio,1.87,3000000.0,2024-2025,serie-a
+patric,Centre-Back,SS Lazio,1.84,2500000.0,2024-2025,serie-a
+filipe bordon,Centre-Back,SS Lazio,1.93,800000.0,2024-2025,serie-a
+matteo zazza,Centre-Back,SS Lazio,,375000.0,2024-2025,serie-a
+nuno tavares,Left-Back,SS Lazio,1.83,25000000.0,2024-2025,serie-a
+luca pellegrini,Left-Back,SS Lazio,1.78,3000000.0,2024-2025,serie-a
+alessandro milani,Left-Back,SS Lazio,1.78,250000.0,2024-2025,serie-a
+adam marusic,Right-Back,SS Lazio,1.85,3500000.0,2024-2025,serie-a
+elseid hysaj,Right-Back,SS Lazio,1.82,1500000.0,2024-2025,serie-a
+nicolo rovella,Defensive Midfield,SS Lazio,1.79,30000000.0,2024-2025,serie-a
+reda belahyane,Defensive Midfield,SS Lazio,1.73,10000000.0,2024-2025,serie-a
+danilo cataldi,Defensive Midfield,SS Lazio,1.8,3500000.0,2024-2025,serie-a
+marco nazzaro,Defensive Midfield,SS Lazio,1.84,125000.0,2024-2025,serie-a
+matteo guendouzi,Central Midfield,SS Lazio,1.85,32000000.0,2024-2025,serie-a
+matias vecino,Central Midfield,SS Lazio,1.87,2000000.0,2024-2025,serie-a
+gaetano castrovilli,Central Midfield,SS Lazio,1.87,1500000.0,2024-2025,serie-a
+toma basic,Central Midfield,SS Lazio,1.9,800000.0,2024-2025,serie-a
+jeandaniel akpa akpro,Central Midfield,SS Lazio,1.8,500000.0,2024-2025,serie-a
+manuel lazzari,Right Midfield,SS Lazio,1.74,3500000.0,2024-2025,serie-a
+leonardo di tommaso,Right Midfield,SS Lazio,1.93,225000.0,2024-2025,serie-a
+fisayo delebashiru,Attacking Midfield,SS Lazio,1.86,7500000.0,2024-2025,serie-a
+arijon ibrahimovic,Attacking Midfield,SS Lazio,1.78,4000000.0,2024-2025,serie-a
+cristo munoz,Attacking Midfield,SS Lazio,1.79,250000.0,2024-2025,serie-a
+andre anderson,Attacking Midfield,SS Lazio,1.8,150000.0,2024-2025,serie-a
+mattia zaccagni,Left Winger,SS Lazio,1.77,20000000.0,2024-2025,serie-a
+gustav isaksen,Right Winger,SS Lazio,1.81,20000000.0,2024-2025,serie-a
+loum tchaouna,Right Winger,SS Lazio,1.8,10000000.0,2024-2025,serie-a
+tijjani noslin,Right Winger,SS Lazio,1.78,7500000.0,2024-2025,serie-a
+pedro,Right Winger,SS Lazio,1.67,1000000.0,2024-2025,serie-a
+taty castellanos,Centre-Forward,SS Lazio,1.78,25000000.0,2024-2025,serie-a
+boulaye dia,Centre-Forward,SS Lazio,1.8,15000000.0,2024-2025,serie-a
+federico serra,Centre-Forward,SS Lazio,,450000.0,2024-2025,serie-a
+mahamadou balde,Centre-Forward,SS Lazio,1.83,325000.0,2024-2025,serie-a
+vanja milinkovicsavic,Goalkeeper,Torino FC,2.02,16000000.0,2024-2025,serie-a
+mihai popa,Goalkeeper,Torino FC,1.9,650000.0,2024-2025,serie-a
+alberto paleari,Goalkeeper,Torino FC,1.93,500000.0,2024-2025,serie-a
+francesco plaia,Goalkeeper,Torino FC,1.93,200000.0,2024-2025,serie-a
+antonio donnarumma,Goalkeeper,Torino FC,1.92,200000.0,2024-2025,serie-a
+saul coco,Centre-Back,Torino FC,1.87,10000000.0,2024-2025,serie-a
+perr schuurs,Centre-Back,Torino FC,1.91,5000000.0,2024-2025,serie-a
+sebastian walukiewicz,Centre-Back,Torino FC,1.88,4500000.0,2024-2025,serie-a
+guillermo maripan,Centre-Back,Torino FC,1.93,4000000.0,2024-2025,serie-a
+alessandro dellavalle,Centre-Back,Torino FC,1.89,3000000.0,2024-2025,serie-a
+saba sazonov,Centre-Back,Torino FC,1.94,2000000.0,2024-2025,serie-a
+adam masina,Centre-Back,Torino FC,1.91,1500000.0,2024-2025,serie-a
+senan mullen,Centre-Back,Torino FC,,175000.0,2024-2025,serie-a
+borna sosa,Left-Back,Torino FC,1.87,4500000.0,2024-2025,serie-a
+cristiano biraghi,Left-Back,Torino FC,1.85,1800000.0,2024-2025,serie-a
+mergim vojvoda,Right-Back,Torino FC,1.87,3000000.0,2024-2025,serie-a
+come bianay balcot,Right-Back,Torino FC,1.88,175000.0,2024-2025,serie-a
+samuele ricci,Defensive Midfield,Torino FC,1.81,30000000.0,2024-2025,serie-a
+adrien tameze,Defensive Midfield,Torino FC,1.82,2000000.0,2024-2025,serie-a
+ivan ilic,Central Midfield,Torino FC,1.86,16000000.0,2024-2025,serie-a
+cesare casadei,Central Midfield,Torino FC,1.92,15000000.0,2024-2025,serie-a
+gvidas gineitis,Central Midfield,Torino FC,1.91,6000000.0,2024-2025,serie-a
+karol linetty,Central Midfield,Torino FC,1.75,1800000.0,2024-2025,serie-a
+emirhan ilkhan,Central Midfield,Torino FC,1.75,1700000.0,2024-2025,serie-a
+aaron ciammaglichella,Central Midfield,Torino FC,1.8,700000.0,2024-2025,serie-a
+marco dalla vecchia,Central Midfield,Torino FC,,250000.0,2024-2025,serie-a
+raoul bellanova,Right Midfield,Torino FC,1.88,24000000.0,2024-2025,serie-a
+marcus pedersen,Right Midfield,Torino FC,1.84,3000000.0,2024-2025,serie-a
+ali dembele,Right Midfield,Torino FC,1.89,900000.0,2024-2025,serie-a
+brian bayeye,Right Midfield,Torino FC,1.82,300000.0,2024-2025,serie-a
+edoardo zaia,Right Midfield,Torino FC,,100000.0,2024-2025,serie-a
+valentino lazaro,Left Midfield,Torino FC,1.81,4500000.0,2024-2025,serie-a
+nikola vlasic,Attacking Midfield,Torino FC,1.79,8000000.0,2024-2025,serie-a
+sergiu perciun,Attacking Midfield,Torino FC,1.76,1500000.0,2024-2025,serie-a
+krisztofer horvath,Attacking Midfield,Torino FC,1.85,1000000.0,2024-2025,serie-a
+eljif elmas,Left Winger,Torino FC,1.84,14000000.0,2024-2025,serie-a
+alieu njie,Left Winger,Torino FC,1.85,2500000.0,2024-2025,serie-a
+yann karamoh,Left Winger,Torino FC,1.84,1800000.0,2024-2025,serie-a
+alessio cacciamani,Left Winger,Torino FC,,500000.0,2024-2025,serie-a
+zanos savva,Right Winger,Torino FC,1.91,900000.0,2024-2025,serie-a
+demyan yesin,Right Winger,Torino FC,1.88,,2024-2025,serie-a
+che adams,Centre-Forward,Torino FC,1.79,15000000.0,2024-2025,serie-a
+duvan zapata,Centre-Forward,Torino FC,1.88,3500000.0,2024-2025,serie-a
+antonio sanabria,Centre-Forward,Torino FC,1.8,2800000.0,2024-2025,serie-a
+pietro pellegri,Centre-Forward,Torino FC,1.89,2000000.0,2024-2025,serie-a
+amine salama,Centre-Forward,Torino FC,1.92,1500000.0,2024-2025,serie-a
+tommaso gabellini,Centre-Forward,Torino FC,,800000.0,2024-2025,serie-a
+alessio raballo,Centre-Forward,Torino FC,1.86,25000.0,2024-2025,serie-a
+jean butez,Goalkeeper,Como 1907,1.89,3500000.0,2024-2025,serie-a
+emil audero,Goalkeeper,Como 1907,1.92,3200000.0,2024-2025,serie-a
+pepe reina,Goalkeeper,Como 1907,1.88,500000.0,2024-2025,serie-a
+mauro vigorito,Goalkeeper,Como 1907,1.87,150000.0,2024-2025,serie-a
+pierre bolchini,Goalkeeper,Como 1907,2.0,50000.0,2024-2025,serie-a
+alberto dossena,Centre-Back,Como 1907,1.95,8000000.0,2024-2025,serie-a
+marc oliver kempf,Centre-Back,Como 1907,1.86,3000000.0,2024-2025,serie-a
+edoardo goldaniga,Centre-Back,Como 1907,1.93,3000000.0,2024-2025,serie-a
+fellipe jack,Centre-Back,Como 1907,1.87,1400000.0,2024-2025,serie-a
+federico barba,Centre-Back,Como 1907,1.87,500000.0,2024-2025,serie-a
+alessio chiesa,Centre-Back,Como 1907,,75000.0,2024-2025,serie-a
+sven lesjak,Centre-Back,Como 1907,1.9,50000.0,2024-2025,serie-a
+raphael varane,Centre-Back,Como 1907,1.91,,2024-2025,serie-a
+alex valle,Left-Back,Como 1907,1.78,6000000.0,2024-2025,serie-a
+alberto moreno,Left-Back,Como 1907,1.71,1500000.0,2024-2025,serie-a
+marco sala,Left-Back,Como 1907,1.82,900000.0,2024-2025,serie-a
+ignace van der brempt,Right-Back,Como 1907,1.87,4000000.0,2024-2025,serie-a
+mergim vojvoda,Right-Back,Como 1907,1.87,3000000.0,2024-2025,serie-a
+ivan smolcic,Right-Back,Como 1907,1.81,1800000.0,2024-2025,serie-a
+tommaso cassandro,Right-Back,Como 1907,1.85,700000.0,2024-2025,serie-a
+william feola,Right-Back,Como 1907,1.82,75000.0,2024-2025,serie-a
+maximo perrone,Defensive Midfield,Como 1907,1.77,12000000.0,2024-2025,serie-a
+yannik engelhardt,Defensive Midfield,Como 1907,1.84,6000000.0,2024-2025,serie-a
+oliver abildgaard,Defensive Midfield,Como 1907,1.92,1000000.0,2024-2025,serie-a
+francesco andrealli,Defensive Midfield,Como 1907,1.79,,2024-2025,serie-a
+maxence caqueret,Central Midfield,Como 1907,1.74,16000000.0,2024-2025,serie-a
+lucas da cunha,Central Midfield,Como 1907,1.74,10000000.0,2024-2025,serie-a
+luca mazzitelli,Central Midfield,Como 1907,1.84,1500000.0,2024-2025,serie-a
+sergi roberto,Central Midfield,Como 1907,1.78,1500000.0,2024-2025,serie-a
+matthias braunoder,Central Midfield,Como 1907,1.74,1400000.0,2024-2025,serie-a
+ben lhassine kone,Central Midfield,Como 1907,1.72,500000.0,2024-2025,serie-a
+daniele baselli,Central Midfield,Como 1907,1.82,300000.0,2024-2025,serie-a
+giuseppe mazzaglia,Central Midfield,Como 1907,1.8,250000.0,2024-2025,serie-a
+alessio iovine,Right Midfield,Como 1907,1.74,400000.0,2024-2025,serie-a
+nico paz,Attacking Midfield,Como 1907,1.86,35000000.0,2024-2025,serie-a
+dele alli,Attacking Midfield,Como 1907,1.88,2000000.0,2024-2025,serie-a
+simone verdi,Attacking Midfield,Como 1907,1.74,1500000.0,2024-2025,serie-a
+naj razi,Attacking Midfield,Como 1907,1.75,300000.0,2024-2025,serie-a
+assane diao,Left Winger,Como 1907,1.85,30000000.0,2024-2025,serie-a
+alieu fadera,Left Winger,Como 1907,1.82,4500000.0,2024-2025,serie-a
+ali jasim,Left Winger,Como 1907,1.78,550000.0,2024-2025,serie-a
+jonathan ikone,Right Winger,Como 1907,1.75,7000000.0,2024-2025,serie-a
+gabriel strefezza,Right Winger,Como 1907,1.68,6000000.0,2024-2025,serie-a
+anastasios douvikas,Centre-Forward,Como 1907,1.86,10000000.0,2024-2025,serie-a
+patrick cutrone,Centre-Forward,Como 1907,1.83,6000000.0,2024-2025,serie-a
+ivan azon,Centre-Forward,Como 1907,1.82,3000000.0,2024-2025,serie-a
+andrea belotti,Centre-Forward,Como 1907,1.81,2000000.0,2024-2025,serie-a
+nicholas gioacchini,Centre-Forward,Como 1907,1.83,1300000.0,2024-2025,serie-a
+alberto cerri,Centre-Forward,Como 1907,1.94,1000000.0,2024-2025,serie-a
+alessandro gabrielloni,Centre-Forward,Como 1907,1.78,850000.0,2024-2025,serie-a
+federico chinetti,Centre-Forward,Como 1907,,175000.0,2024-2025,serie-a
+maduka okoye,Goalkeeper,Udinese Calcio,1.98,7500000.0,2024-2025,serie-a
+razvan sava,Goalkeeper,Udinese Calcio,1.97,2500000.0,2024-2025,serie-a
+egil selvik,Goalkeeper,Udinese Calcio,1.93,1500000.0,2024-2025,serie-a
+marco silvestri,Goalkeeper,Udinese Calcio,1.91,500000.0,2024-2025,serie-a
+daniele padelli,Goalkeeper,Udinese Calcio,1.91,150000.0,2024-2025,serie-a
+edoardo piana,Goalkeeper,Udinese Calcio,1.98,50000.0,2024-2025,serie-a
+marco cassin,Goalkeeper,Udinese Calcio,1.88,,2024-2025,serie-a
+oumar solet,Centre-Back,Udinese Calcio,1.92,18000000.0,2024-2025,serie-a
+jaka bijol,Centre-Back,Udinese Calcio,1.9,18000000.0,2024-2025,serie-a
+nehuen perez,Centre-Back,Udinese Calcio,1.86,13000000.0,2024-2025,serie-a
+isaak toure,Centre-Back,Udinese Calcio,2.06,7000000.0,2024-2025,serie-a
+thomas kristensen,Centre-Back,Udinese Calcio,1.98,6000000.0,2024-2025,serie-a
+enzo ebosse,Centre-Back,Udinese Calcio,1.85,2000000.0,2024-2025,serie-a
+lautaro giannetti,Centre-Back,Udinese Calcio,1.85,2000000.0,2024-2025,serie-a
+james abankwah,Centre-Back,Udinese Calcio,1.88,1000000.0,2024-2025,serie-a
+matteo palma,Centre-Back,Udinese Calcio,1.94,1000000.0,2024-2025,serie-a
+christian kabasele,Centre-Back,Udinese Calcio,1.87,700000.0,2024-2025,serie-a
+axel guessand,Centre-Back,Udinese Calcio,1.92,400000.0,2024-2025,serie-a
+jordan zemura,Left-Back,Udinese Calcio,1.73,4500000.0,2024-2025,serie-a
+hassane kamara,Left-Back,Udinese Calcio,1.7,3500000.0,2024-2025,serie-a
+festy ebosele,Right-Back,Udinese Calcio,1.8,4600000.0,2024-2025,serie-a
+kingsley ehizibue,Right-Back,Udinese Calcio,1.89,2400000.0,2024-2025,serie-a
+goncalo esteves,Right-Back,Udinese Calcio,1.76,500000.0,2024-2025,serie-a
+jesper karlstrom,Defensive Midfield,Udinese Calcio,1.85,4000000.0,2024-2025,serie-a
+sandi lovric,Central Midfield,Udinese Calcio,1.8,8500000.0,2024-2025,serie-a
+arthur atta,Central Midfield,Udinese Calcio,1.89,8000000.0,2024-2025,serie-a
+jurgen ekkelenkamp,Central Midfield,Udinese Calcio,1.88,7000000.0,2024-2025,serie-a
+martin payero,Central Midfield,Udinese Calcio,1.82,5500000.0,2024-2025,serie-a
+oier zarraga,Central Midfield,Udinese Calcio,1.75,2000000.0,2024-2025,serie-a
+rui modesto,Right Midfield,Udinese Calcio,1.81,2000000.0,2024-2025,serie-a
+lazar samardzic,Attacking Midfield,Udinese Calcio,1.84,17000000.0,2024-2025,serie-a
+simone pafundi,Attacking Midfield,Udinese Calcio,1.66,5000000.0,2024-2025,serie-a
+david pejicic,Attacking Midfield,Udinese Calcio,,1000000.0,2024-2025,serie-a
+florian thauvin,Second Striker,Udinese Calcio,1.81,5000000.0,2024-2025,serie-a
+lorenzo lucca,Centre-Forward,Udinese Calcio,2.01,22000000.0,2024-2025,serie-a
+brenner,Centre-Forward,Udinese Calcio,1.75,4000000.0,2024-2025,serie-a
+keinan davis,Centre-Forward,Udinese Calcio,1.89,3400000.0,2024-2025,serie-a
+damian pizarro,Centre-Forward,Udinese Calcio,1.87,3200000.0,2024-2025,serie-a
+iker bravo,Centre-Forward,Udinese Calcio,1.82,3000000.0,2024-2025,serie-a
+alexis sanchez,Centre-Forward,Udinese Calcio,1.69,1500000.0,2024-2025,serie-a
+nicola leali,Goalkeeper,Genoa CFC,1.93,1500000.0,2024-2025,serie-a
+pierluigi gollini,Goalkeeper,Genoa CFC,1.94,1000000.0,2024-2025,serie-a
+benjamin siegrist,Goalkeeper,Genoa CFC,1.96,650000.0,2024-2025,serie-a
+franz stolz,Goalkeeper,Genoa CFC,1.93,250000.0,2024-2025,serie-a
+daniele sommariva,Goalkeeper,Genoa CFC,1.85,100000.0,2024-2025,serie-a
+koni de winter,Centre-Back,Genoa CFC,1.91,22000000.0,2024-2025,serie-a
+johan vasquez,Centre-Back,Genoa CFC,1.85,14000000.0,2024-2025,serie-a
+alan matturro,Centre-Back,Genoa CFC,1.89,7000000.0,2024-2025,serie-a
+alessandro vogliacco,Centre-Back,Genoa CFC,1.86,2800000.0,2024-2025,serie-a
+alessandro marcandalli,Centre-Back,Genoa CFC,1.9,2000000.0,2024-2025,serie-a
+sebastian otoa,Centre-Back,Genoa CFC,1.98,2000000.0,2024-2025,serie-a
+mattia bani,Centre-Back,Genoa CFC,1.88,1800000.0,2024-2025,serie-a
+matteo barbini,Centre-Back,Genoa CFC,1.98,500000.0,2024-2025,serie-a
+tommaso pittino,Centre-Back,Genoa CFC,1.89,150000.0,2024-2025,serie-a
+aaron martin,Left-Back,Genoa CFC,1.78,6500000.0,2024-2025,serie-a
+honest ahanor,Left-Back,Genoa CFC,1.84,5000000.0,2024-2025,serie-a
+alessandro zanoli,Right-Back,Genoa CFC,1.88,6000000.0,2024-2025,serie-a
+brooke nortoncuffy,Right-Back,Genoa CFC,1.81,3500000.0,2024-2025,serie-a
+stefano sabelli,Right-Back,Genoa CFC,1.76,1400000.0,2024-2025,serie-a
+jean onana,Defensive Midfield,Genoa CFC,1.89,1800000.0,2024-2025,serie-a
+emil bohinen,Defensive Midfield,Genoa CFC,1.89,1500000.0,2024-2025,serie-a
+lior kassa,Defensive Midfield,Genoa CFC,1.85,1500000.0,2024-2025,serie-a
+milan badelj,Defensive Midfield,Genoa CFC,1.86,800000.0,2024-2025,serie-a
+morten frendrup,Central Midfield,Genoa CFC,1.78,20000000.0,2024-2025,serie-a
+fabio miretti,Central Midfield,Genoa CFC,1.8,14000000.0,2024-2025,serie-a
+patrizio masini,Central Midfield,Genoa CFC,1.82,6000000.0,2024-2025,serie-a
+morten thorsby,Central Midfield,Genoa CFC,1.88,3000000.0,2024-2025,serie-a
+filippo melegoni,Central Midfield,Genoa CFC,1.86,700000.0,2024-2025,serie-a
+ruslan malinovskyi,Attacking Midfield,Genoa CFC,1.81,2500000.0,2024-2025,serie-a
+christos papadopoulos,Attacking Midfield,Genoa CFC,1.88,700000.0,2024-2025,serie-a
+gaston pereiro,Attacking Midfield,Genoa CFC,1.88,500000.0,2024-2025,serie-a
+hugo cuenca,Attacking Midfield,Genoa CFC,1.83,300000.0,2024-2025,serie-a
+filippo carbone,Attacking Midfield,Genoa CFC,,200000.0,2024-2025,serie-a
+roberto scaglione,Attacking Midfield,Genoa CFC,,,2024-2025,serie-a
+maxwel cornet,Left Winger,Genoa CFC,1.79,8000000.0,2024-2025,serie-a
+federico accornero,Left Winger,Genoa CFC,,400000.0,2024-2025,serie-a
+lysandros papastylianou,Left Winger,Genoa CFC,1.87,50000.0,2024-2025,serie-a
+junior messias,Right Winger,Genoa CFC,1.74,1500000.0,2024-2025,serie-a
+lorenzo venturino,Right Winger,Genoa CFC,1.84,1500000.0,2024-2025,serie-a
+seydou fini,Right Winger,Genoa CFC,1.78,1300000.0,2024-2025,serie-a
+andrea pinamonti,Centre-Forward,Genoa CFC,1.85,15000000.0,2024-2025,serie-a
+vitinha,Centre-Forward,Genoa CFC,1.78,8000000.0,2024-2025,serie-a
+jeff ekhator,Centre-Forward,Genoa CFC,1.88,5000000.0,2024-2025,serie-a
+caleb ekuban,Centre-Forward,Genoa CFC,1.82,1300000.0,2024-2025,serie-a
+david ankeye,Centre-Forward,Genoa CFC,1.91,850000.0,2024-2025,serie-a
+mario balotelli,Centre-Forward,Genoa CFC,1.89,500000.0,2024-2025,serie-a
+ifenna dorgu,Centre-Forward,Genoa CFC,,300000.0,2024-2025,serie-a
+joi nuredini,Centre-Forward,Genoa CFC,1.88,,2024-2025,serie-a
+zion suzuki,Goalkeeper,Parma Calcio 1913,1.9,20000000.0,2024-2025,serie-a
+edoardo corvi,Goalkeeper,Parma Calcio 1913,1.87,350000.0,2024-2025,serie-a
+leandro chichizola,Goalkeeper,Parma Calcio 1913,1.85,250000.0,2024-2025,serie-a
+richard marcone,Goalkeeper,Parma Calcio 1913,1.84,250000.0,2024-2025,serie-a
+manuel moretta,Goalkeeper,Parma Calcio 1913,,10000.0,2024-2025,serie-a
+giovanni leoni,Centre-Back,Parma Calcio 1913,1.96,18000000.0,2024-2025,serie-a
+alessandro circati,Centre-Back,Parma Calcio 1913,1.9,8000000.0,2024-2025,serie-a
+alessandro vogliacco,Centre-Back,Parma Calcio 1913,1.86,2800000.0,2024-2025,serie-a
+botond balogh,Centre-Back,Parma Calcio 1913,1.89,2400000.0,2024-2025,serie-a
+yordan osorio,Centre-Back,Parma Calcio 1913,1.89,1500000.0,2024-2025,serie-a
+lautaro valenti,Centre-Back,Parma Calcio 1913,1.88,1500000.0,2024-2025,serie-a
+nicolas trabucchi,Centre-Back,Parma Calcio 1913,,,2024-2025,serie-a
+mathias lvik,Left-Back,Parma Calcio 1913,1.83,5000000.0,2024-2025,serie-a
+emanuele valeri,Left-Back,Parma Calcio 1913,1.8,3000000.0,2024-2025,serie-a
+gianluca di chiara,Left-Back,Parma Calcio 1913,1.86,250000.0,2024-2025,serie-a
+enrico delprato,Right-Back,Parma Calcio 1913,1.83,6500000.0,2024-2025,serie-a
+woyo coulibaly,Right-Back,Parma Calcio 1913,1.82,2000000.0,2024-2025,serie-a
+antoine hainaut,Right-Back,Parma Calcio 1913,1.87,1000000.0,2024-2025,serie-a
+mandela keita,Defensive Midfield,Parma Calcio 1913,1.8,12000000.0,2024-2025,serie-a
+nahuel estevez,Defensive Midfield,Parma Calcio 1913,1.81,2000000.0,2024-2025,serie-a
+adrian bernabe,Central Midfield,Parma Calcio 1913,1.74,15000000.0,2024-2025,serie-a
+simon sohm,Central Midfield,Parma Calcio 1913,1.88,5000000.0,2024-2025,serie-a
+hernani,Central Midfield,Parma Calcio 1913,1.88,1600000.0,2024-2025,serie-a
+drissa camara,Central Midfield,Parma Calcio 1913,1.79,1500000.0,2024-2025,serie-a
+wylan cyprien,Central Midfield,Parma Calcio 1913,1.8,300000.0,2024-2025,serie-a
+elia plicco,Attacking Midfield,Parma Calcio 1913,,,2024-2025,serie-a
+jacob ondrejka,Left Winger,Parma Calcio 1913,1.79,8000000.0,2024-2025,serie-a
+adrian benedyczak,Left Winger,Parma Calcio 1913,1.91,4500000.0,2024-2025,serie-a
+valentin mihaila,Left Winger,Parma Calcio 1913,1.8,3000000.0,2024-2025,serie-a
+dennis man,Right Winger,Parma Calcio 1913,1.83,10000000.0,2024-2025,serie-a
+matteo cancellieri,Right Winger,Parma Calcio 1913,1.85,4500000.0,2024-2025,serie-a
+pontus almqvist,Right Winger,Parma Calcio 1913,1.83,2500000.0,2024-2025,serie-a
+anas haj mohamed,Right Winger,Parma Calcio 1913,1.74,1800000.0,2024-2025,serie-a
+anthony partipilo,Right Winger,Parma Calcio 1913,1.81,500000.0,2024-2025,serie-a
+mateusz kowalski,Second Striker,Parma Calcio 1913,1.97,300000.0,2024-2025,serie-a
+angeyoan bonny,Centre-Forward,Parma Calcio 1913,1.89,20000000.0,2024-2025,serie-a
+mateo pellegrino,Centre-Forward,Parma Calcio 1913,1.92,6000000.0,2024-2025,serie-a
+milan djuric,Centre-Forward,Parma Calcio 1913,1.99,1500000.0,2024-2025,serie-a
+gabriel charpentier,Centre-Forward,Parma Calcio 1913,1.88,1300000.0,2024-2025,serie-a
+daniel mikolajewski,Centre-Forward,Parma Calcio 1913,1.84,500000.0,2024-2025,serie-a
+wladimiro falcone,Goalkeeper,US Lecce,1.95,3500000.0,2024-2025,serie-a
+christian fruchtl,Goalkeeper,US Lecce,1.93,1300000.0,2024-2025,serie-a
+alexandru borbei,Goalkeeper,US Lecce,1.91,100000.0,2024-2025,serie-a
+jasper samooja,Goalkeeper,US Lecce,1.93,75000.0,2024-2025,serie-a
+federico baschirotto,Centre-Back,US Lecce,1.87,3600000.0,2024-2025,serie-a
+kialonda gaspar,Centre-Back,US Lecce,1.93,3500000.0,2024-2025,serie-a
+gaby jean,Centre-Back,US Lecce,1.91,2000000.0,2024-2025,serie-a
+tiago gabriel,Centre-Back,US Lecce,1.94,1000000.0,2024-2025,serie-a
+kevin bonifazi,Centre-Back,US Lecce,1.87,750000.0,2024-2025,serie-a
+elijah scott,Centre-Back,US Lecce,,300000.0,2024-2025,serie-a
+cristian pehlivanov,Centre-Back,US Lecce,1.97,200000.0,2024-2025,serie-a
+sebastian esposito,Centre-Back,US Lecce,1.91,200000.0,2024-2025,serie-a
+patrick dorgu,Left-Back,US Lecce,1.85,25000000.0,2024-2025,serie-a
+antonino gallo,Left-Back,US Lecce,1.83,4300000.0,2024-2025,serie-a
+marco sala,Left-Back,US Lecce,1.82,900000.0,2024-2025,serie-a
+vernon addo,Left-Back,US Lecce,1.88,200000.0,2024-2025,serie-a
+valentin gendrey,Right-Back,US Lecce,1.79,7000000.0,2024-2025,serie-a
+frederic guilbert,Right-Back,US Lecce,1.78,2500000.0,2024-2025,serie-a
+andy pelmard,Right-Back,US Lecce,1.8,2000000.0,2024-2025,serie-a
+danilo veiga,Right-Back,US Lecce,1.83,1000000.0,2024-2025,serie-a
+ylber ramadani,Defensive Midfield,US Lecce,1.85,1800000.0,2024-2025,serie-a
+balthazar pierret,Defensive Midfield,US Lecce,1.86,1700000.0,2024-2025,serie-a
+thorir johann helgason,Central Midfield,US Lecce,1.87,3000000.0,2024-2025,serie-a
+lassana coulibaly,Central Midfield,US Lecce,1.83,2500000.0,2024-2025,serie-a
+mohamed kaba,Central Midfield,US Lecce,1.85,2000000.0,2024-2025,serie-a
+medon berisha,Central Midfield,US Lecce,1.86,1500000.0,2024-2025,serie-a
+hamza rafia,Central Midfield,US Lecce,1.81,1400000.0,2024-2025,serie-a
+luis hasa,Central Midfield,US Lecce,1.72,1000000.0,2024-2025,serie-a
+joan gonzalez,Central Midfield,US Lecce,1.9,800000.0,2024-2025,serie-a
+ed mcjannet,Central Midfield,US Lecce,1.83,150000.0,2024-2025,serie-a
+filip marchwinski,Attacking Midfield,US Lecce,1.87,3000000.0,2024-2025,serie-a
+remi oudin,Attacking Midfield,US Lecce,1.86,1500000.0,2024-2025,serie-a
+lameck banda,Left Winger,US Lecce,1.69,4500000.0,2024-2025,serie-a
+jesper karlsson,Left Winger,US Lecce,1.79,4000000.0,2024-2025,serie-a
+tete morente,Left Winger,US Lecce,1.84,2000000.0,2024-2025,serie-a
+ante rebic,Left Winger,US Lecce,1.85,1000000.0,2024-2025,serie-a
+nicola sansone,Left Winger,US Lecce,1.74,400000.0,2024-2025,serie-a
+santiago pierotti,Right Winger,US Lecce,1.89,4000000.0,2024-2025,serie-a
+konan ndri,Right Winger,US Lecce,1.74,1400000.0,2024-2025,serie-a
+jeppe corfitzen,Right Winger,US Lecce,1.79,250000.0,2024-2025,serie-a
+dario daka,Right Winger,US Lecce,1.73,100000.0,2024-2025,serie-a
+nikola krstovic,Centre-Forward,US Lecce,1.85,15000000.0,2024-2025,serie-a
+rares burnete,Centre-Forward,US Lecce,1.85,700000.0,2024-2025,serie-a
+joel voelkerling persson,Centre-Forward,US Lecce,1.94,300000.0,2024-2025,serie-a
+lorenzo montipo,Goalkeeper,Hellas Verona,1.91,2000000.0,2024-2025,serie-a
+simone perilli,Goalkeeper,Hellas Verona,1.96,400000.0,2024-2025,serie-a
+federico magro,Goalkeeper,Hellas Verona,1.9,300000.0,2024-2025,serie-a
+alessandro berardi,Goalkeeper,Hellas Verona,1.85,50000.0,2024-2025,serie-a
+diego coppola,Centre-Back,Hellas Verona,1.93,10000000.0,2024-2025,serie-a
+nicolas valentini,Centre-Back,Hellas Verona,1.87,6000000.0,2024-2025,serie-a
+daniele ghilardi,Centre-Back,Hellas Verona,1.89,5000000.0,2024-2025,serie-a
+flavius daniliuc,Centre-Back,Hellas Verona,1.88,2700000.0,2024-2025,serie-a
+pawe dawidowicz,Centre-Back,Hellas Verona,1.89,2500000.0,2024-2025,serie-a
+tobias slotsager,Centre-Back,Hellas Verona,1.9,2000000.0,2024-2025,serie-a
+giangiacomo magnani,Centre-Back,Hellas Verona,1.92,1800000.0,2024-2025,serie-a
+luan patrick,Centre-Back,Hellas Verona,1.9,1000000.0,2024-2025,serie-a
+yllan okou,Centre-Back,Hellas Verona,1.89,800000.0,2024-2025,serie-a
+christian corradi,Centre-Back,Hellas Verona,,700000.0,2024-2025,serie-a
+federico ceccherini,Centre-Back,Hellas Verona,1.87,400000.0,2024-2025,serie-a
+karlson nwanege,Centre-Back,Hellas Verona,,200000.0,2024-2025,serie-a
+domagoj bradaric,Left-Back,Hellas Verona,1.78,4000000.0,2024-2025,serie-a
+martin frese,Left-Back,Hellas Verona,1.79,2000000.0,2024-2025,serie-a
+jackson tchatchoua,Right-Back,Hellas Verona,1.8,8000000.0,2024-2025,serie-a
+davide faraoni,Right-Back,Hellas Verona,1.8,800000.0,2024-2025,serie-a
+daniel oyegoke,Right-Back,Hellas Verona,1.88,500000.0,2024-2025,serie-a
+reda belahyane,Defensive Midfield,Hellas Verona,1.73,10000000.0,2024-2025,serie-a
+dani silva,Defensive Midfield,Hellas Verona,1.8,2500000.0,2024-2025,serie-a
+cheikh niasse,Defensive Midfield,Hellas Verona,1.88,2500000.0,2024-2025,serie-a
+suat serdar,Central Midfield,Hellas Verona,1.84,4500000.0,2024-2025,serie-a
+ondrej duda,Central Midfield,Hellas Verona,1.8,3500000.0,2024-2025,serie-a
+antoine bernede,Central Midfield,Hellas Verona,1.78,2500000.0,2024-2025,serie-a
+abdou harroui,Central Midfield,Hellas Verona,1.82,1800000.0,2024-2025,serie-a
+darko lazovic,Left Midfield,Hellas Verona,1.81,800000.0,2024-2025,serie-a
+tomas suslov,Attacking Midfield,Hellas Verona,1.74,6000000.0,2024-2025,serie-a
+ayanda sishuba,Attacking Midfield,Hellas Verona,1.69,1500000.0,2024-2025,serie-a
+grigoris kastanos,Attacking Midfield,Hellas Verona,1.79,1500000.0,2024-2025,serie-a
+alphadjo cisse,Attacking Midfield,Hellas Verona,1.81,1000000.0,2024-2025,serie-a
+stefan mitrovic,Left Winger,Hellas Verona,1.82,1500000.0,2024-2025,serie-a
+faride alidou,Left Winger,Hellas Verona,1.86,1000000.0,2024-2025,serie-a
+elayis tavsan,Right Winger,Hellas Verona,1.83,1200000.0,2024-2025,serie-a
+casper tengstedt,Centre-Forward,Hellas Verona,1.84,6000000.0,2024-2025,serie-a
+amin sarr,Centre-Forward,Hellas Verona,1.88,5000000.0,2024-2025,serie-a
+daniel mosquera,Centre-Forward,Hellas Verona,1.8,1500000.0,2024-2025,serie-a
+mathis lambourde,Centre-Forward,Hellas Verona,1.79,800000.0,2024-2025,serie-a
+dailon rocha livramento,Centre-Forward,Hellas Verona,1.85,800000.0,2024-2025,serie-a
+junior ajayi,Centre-Forward,Hellas Verona,1.85,300000.0,2024-2025,serie-a
+elia caprile,Goalkeeper,Cagliari Calcio,1.91,9000000.0,2024-2025,serie-a
+simone scuffet,Goalkeeper,Cagliari Calcio,1.93,2000000.0,2024-2025,serie-a
+alen sherri,Goalkeeper,Cagliari Calcio,1.97,1000000.0,2024-2025,serie-a
+velizariliya iliev,Goalkeeper,Cagliari Calcio,1.94,200000.0,2024-2025,serie-a
+giuseppe ciocci,Goalkeeper,Cagliari Calcio,1.93,100000.0,2024-2025,serie-a
+henrijs auseklis,Goalkeeper,Cagliari Calcio,1.96,75000.0,2024-2025,serie-a
+sebastiano luperto,Centre-Back,Cagliari Calcio,1.91,4000000.0,2024-2025,serie-a
+pantelis hatzidiakos,Centre-Back,Cagliari Calcio,1.85,3200000.0,2024-2025,serie-a
+yerry mina,Centre-Back,Cagliari Calcio,1.95,3000000.0,2024-2025,serie-a
+adam obert,Centre-Back,Cagliari Calcio,1.88,3000000.0,2024-2025,serie-a
+mateusz wieteska,Centre-Back,Cagliari Calcio,1.87,2000000.0,2024-2025,serie-a
+jose luis palomino,Centre-Back,Cagliari Calcio,1.88,700000.0,2024-2025,serie-a
+nicola pintus,Centre-Back,Cagliari Calcio,1.89,400000.0,2024-2025,serie-a
+andrea cogoni,Centre-Back,Cagliari Calcio,,400000.0,2024-2025,serie-a
+tommaso augello,Left-Back,Cagliari Calcio,1.8,1800000.0,2024-2025,serie-a
+paulo azzi,Left-Back,Cagliari Calcio,1.88,800000.0,2024-2025,serie-a
+gabriele zappa,Right-Back,Cagliari Calcio,1.87,4000000.0,2024-2025,serie-a
+alessandro di pardo,Right-Back,Cagliari Calcio,1.82,800000.0,2024-2025,serie-a
+matteo prati,Defensive Midfield,Cagliari Calcio,1.85,6000000.0,2024-2025,serie-a
+razvan marin,Defensive Midfield,Cagliari Calcio,1.78,3500000.0,2024-2025,serie-a
+antoine makoumbou,Defensive Midfield,Cagliari Calcio,1.87,3500000.0,2024-2025,serie-a
+michel adopo,Central Midfield,Cagliari Calcio,1.87,4000000.0,2024-2025,serie-a
+alessandro deiola,Central Midfield,Cagliari Calcio,1.9,1600000.0,2024-2025,serie-a
+nadir zortea,Right Midfield,Cagliari Calcio,1.87,5000000.0,2024-2025,serie-a
+jakub jankto,Left Midfield,Cagliari Calcio,1.84,800000.0,2024-2025,serie-a
+gianluca gaetano,Attacking Midfield,Cagliari Calcio,1.83,4000000.0,2024-2025,serie-a
+nicolas viola,Attacking Midfield,Cagliari Calcio,1.8,1000000.0,2024-2025,serie-a
+gaston pereiro,Attacking Midfield,Cagliari Calcio,1.88,500000.0,2024-2025,serie-a
+florinel coman,Left Winger,Cagliari Calcio,1.82,5000000.0,2024-2025,serie-a
+mattia felici,Left Winger,Cagliari Calcio,1.82,2800000.0,2024-2025,serie-a
+alessandro vinciguerra,Left Winger,Cagliari Calcio,1.67,400000.0,2024-2025,serie-a
+roberto piccoli,Centre-Forward,Cagliari Calcio,1.9,12000000.0,2024-2025,serie-a
+zito luvumbo,Centre-Forward,Cagliari Calcio,1.71,5000000.0,2024-2025,serie-a
+gianluca lapadula,Centre-Forward,Cagliari Calcio,1.78,750000.0,2024-2025,serie-a
+leonardo pavoletti,Centre-Forward,Cagliari Calcio,1.88,700000.0,2024-2025,serie-a
+kingstone mutandwa,Centre-Forward,Cagliari Calcio,1.8,600000.0,2024-2025,serie-a

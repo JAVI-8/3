@@ -9,16 +9,17 @@ from pyspark.ml.functions import vector_to_array
 import builtins
 from pyspark.sql import SparkSession
 from pyspark import SparkConf
+from pyspark.sql import functions as F
 position_metrics = {
     
-    "Goalkeeper": {"Recov_per90": 0.3, "Clearences_per90": 0.2, "Pass_cmp%": 0.3, "GA_per90": 0.3, "SoTA_per90": 0.4, "Save%": 0.6, "CS%": 0.3, "Effective_Penalty_Saves": 0.2,
+    "Goalkeeper": {"Recov_per90": 0.3, "Clearences_per90": 0.2, "Pass_cmp%": 0.2, "GA_per90": 0.4, "SoTA_per90": 0.4, "Save%": 0.6, "CS%": 0.3, "Effective_Penalty_Saves": 0.2,
         "PSxG/SoT_per90": 0.6, "PSxG_per90": 0.6, "PSxG+/-_per90": 0.5, "Launch%": 0.2, "Effective_Cross_stop": 0.5, "#OPA_per90": 0.4
     },
     "Centre-Back": {
-        "Int_per90": 0.4, "Blocks_per90": 0.3, "Clearences_per90": 0.5, "Aerialwon%": 0.6,
-        "Touch_Def_3rd_per90": 0.2, "Tack_Def_3rd_per90": 0.4, "PrgC_per90": 0.1, "PrgP_per90": 0.2, "Effective_Pass_Short": 0.2,
+        "Int_per90": 0.5, "Blocks_per90": 0.3, "Clearences_per90": 0.5, "Aerialwon%": 0.6,
+        "Touch_Def_3rd_per90": 0.3, "Tack_Def_3rd_per90": 0.5, "PrgC_per90": 0.1, "PrgP_per90": 0.2, "Effective_Pass_Short": 0.2,
         "Effective_Pass_Medium": 0.2, "Effective_Pass_Long": 0.3,
-        "Effective_Tkl": 0.5, "Block_Shots_per90": 0.4, "Effective_Tackles_vsDrib": 0.3,
+        "Effective_Tkl": 0.5, "Block_Shots_per90": 0.5, "Effective_Tackles_vsDrib": 0.3,
         "PrgDist_per90": 0.1
     },
     "Left-Back":{ 
@@ -230,7 +231,7 @@ def crear_sesion():
     return spark
 
 def cargar_df(spark):
-    df = spark.read.parquet("data/unidos/merge_jugadores.parquet")
+    df = spark.read.parquet("prueba_data/unidos/merge_jugadores.parquet")
     return df
 
 def calcular_adjusted_score(df):
@@ -238,10 +239,34 @@ def calcular_adjusted_score(df):
     return df
 
 def guardar_en_parquet(df):
-    df.select(
-        "Player", "Squad", "Season", "Competition", "Pos", "Min", "MP", "Starts", "Value",
-        "performance_score", "penalty_score", "adjusted_score", "Evaluated_Position"
-    ).repartition(10).write.mode("overwrite").parquet("data/final/merge_jugadores.parquet")
+    
+    metrics = ["Int_per90", "Blocks_per90", "Aerialwon%", "PrgP_per90",
+        "Effective_Pass_Short", "Effective_Pass_Medium", "Effective_Pass_Long", "Effective_Tkl", "Crosses_per90", "PrgC_per90", "xA_per90", "CrsPA_per90", "Effective_Drib", "Recov_per90", "SoT_per90", "Carries_Att_Pen_per90"]
+
+    df_norm = df
+
+    #normalizar por min max
+    for m in metrics:
+        min_val = df.agg(F.min(F.col(m))).first()[0]
+        max_val = df.agg(F.max(F.col(m))).first()[0]
+            
+         # Crea la columna normalizada
+        df_norm = df_norm.withColumn(
+            f"{m}_norm",
+            F.when(F.lit(max_val) == F.lit(min_val), F.lit(0.5))  #evita la divion por 0
+            .otherwise((F.col(m) - F.lit(min_val)) / (F.lit(max_val) - F.lit(min_val)))
+        )
+
+    #columnas a guardar
+    extra = df_norm.select(
+        "Player", "Squad", "Season", "Competition", "Pos", "Min", "Value", "Height",
+        "performance_score", "penalty_score", "adjusted_score", "Evaluated_Position", "Int_per90_norm", "Blocks_per90_norm", "Aerialwon%_norm", "PrgP_per90_norm",
+        "Effective_Pass_Short_norm", "Effective_Pass_Medium_norm", "Effective_Pass_Long_norm", "Effective_Tkl_norm", "Crosses_per90_norm", "PrgC_per90_norm", "xA_per90_norm", "CrsPA_per90_norm", "Effective_Drib_norm", "Recov_per90_norm", "SoT_per90_norm", "Carries_Att_Pen_per90_norm"
+    )
+    
+    (extra).coalesce(1).write.mode("overwrite").parquet("prueba_data/final/merge_jugadores.parquet")
+    
+   
 
 def procesar():
     spark = crear_sesion()
@@ -257,7 +282,6 @@ def procesar():
         
         print("calculando adjusted_score...")
         df = calcular_adjusted_score(df)
-        
         print("guardando performance_score...")
         guardar_en_parquet(df)
         print("el dataset se ha guardado correctamente en formato parquet")

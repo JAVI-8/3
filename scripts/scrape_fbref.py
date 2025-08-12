@@ -31,12 +31,11 @@ def extraer_tabla_jugadores(url, table_id="stats_possession"):
 def build_defense_url(competition_id: int, season_label: str, type:str, slug:str) -> str:
     return f"https://fbref.com/en/comps/{competition_id}/{season_label}/{type}/{season_label}-{slug}-Stats"
 
-def crear_tablas(competition_id: int, season_label: str, league_name: str):
+def crear_tablas(competition_id: int, season_label: str, league_name: str, slug:str):
     for id, type in ids_types:
-        slug = league_name.replace(" ", "-")
         fbref_D_url = build_defense_url(competition_id, season_label, type, slug)
         df = extraer_tabla_jugadores(fbref_D_url, id)
         time.sleep(10)
-        nombre_archivo = f"data/{type}/{slug.replace('-', '')}_{season_label.replace('-', '_')}_{type}.csv"
+        nombre_archivo = f"prueba_data/{type}/{slug}_{season_label.replace('-', '_')}_{type}.csv"
         df.to_csv(nombre_archivo, index=False)
         print(f"✅ Guardado: {nombre_archivo}")
