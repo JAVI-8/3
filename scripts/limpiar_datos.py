@@ -3,10 +3,10 @@ import pandas as pd
 from pathlib import Path
 import unicodedata
 import re
-from rapidfuzz import process
+
 # Carpeta de origen y destino
-FOLDER_ORIGEN = Path("prueba_data")
-FOLDER_DESTINO = Path("prueba_data/limpios")
+FOLDER_ORIGEN = Path("data")
+FOLDER_DESTINO = Path("data/limpios")
 FOLDER_DESTINO.mkdir(parents=True, exist_ok=True)
 
 SUBCARPETAS = ["stats", "defense", "misc", "passing", "possession", "shooting", "mercado", "keepers", "keepersadv"]
@@ -14,33 +14,46 @@ SUBCARPETAS = ["stats", "defense", "misc", "passing", "possession", "shooting", 
 # Columnas clave a conservar por carpeta
 COLUMNAS_UTILES = {
     "stats": [
-        "Player", "Squad", "Born", "MP", "Starts", "Min", "Gls", "Ast", "CrdY", "CrdR", "PrgC","PrgP","PrgR"
+        "Player", "Squad", "Liga", "Season", "Born", "MP", "Starts", "Min", "Gls", "Ast", "CrdY", "CrdR", "PrgC","PrgP","PrgR"
     ],
     "defense": [
-       "Player", "Squad", "Def 3rd", "Mid 3rd","Att 3rd", "Tkl%", "Tkl.1", "TklW", "Int", "Blocks", "Sh", "Pass", "Clr", "Err"
+       "Player", "Squad", "Liga", "Season","Def 3rd", "Mid 3rd","Att 3rd", "Tkl%", "Tkl.1", "TklW", "Int", "Blocks", "Sh", "Pass", "Clr", "Err"
     ],
     "misc": [
-       "Player", "Squad", "Fls", "Off","Crs", "Recov", "Won%"
+       "Player", "Squad", "Liga", "Season","Fls", "Off","Crs", "Recov", "Won%"
     ],
     "passing": [
-       "Player", "Squad", "Cmp", "Cmp%", "Att.1", "Cmp%.1", "Att.2", "Cmp%.2", "Att.3", "Cmp%.3", "xAG", "xA", "A-xAG", "Kp", "1/3", "PPA", "CrsPA"
+       "Player", "Squad", "Liga", "Season","Cmp", "Cmp%", "Att.1", "Cmp%.1", "Att.2", "Cmp%.2", "Att.3", "Cmp%.3", "xAG", "xA", "A-xAG", "Kp", "1/3", "PPA", "CrsPA"
     ],
     "possession": [
-       "Player", "Squad", "Def 3rd", "Mid 3rd","Att 3rd", "Att Pen", "Live", "Att", "Succ%", "Tkld", "Tkld%", "PrgDist", "1/3", "CPA", "Mis", "Dis"
+       "Player", "Squad", "Liga", "Season","Def 3rd", "Mid 3rd","Att 3rd", "Att Pen", "Live", "Att", "Succ%", "Tkld", "Tkld%", "PrgDist", "1/3", "CPA", "Mis", "Dis"
     ],
     "shooting": [
-       "Player", "Squad", "Sh", "SoT","G/Sh", "xG", "npxG", "npxG/Sh", "G-xG"
+       "Player", "Squad", "Liga", "Season","Sh", "SoT","G/Sh", "xG", "npxG", "npxG/Sh", "G-xG"
     ],
     "mercado": [
-        "player_name", "player_position", "squad", "player_height_mtrs", "player_market_value_euro"
+        "player_name", "Squad", "comp_name", "Season" ,"player_position", "squad", "player_height_mtrs", "player_market_value_euro"
     ],
     "keepers": [
-        "Player", "Squad", "GA", "SoTA", "Save%", "CS%", "PKatt", "Save%.1"
+        "Player", "squad", "Liga", "Season","GA", "SoTA", "Save%", "CS%", "PKatt", "Save%.1"
     ],
     "keepersadv": [
-        "Player", "Squad", "PSxG", "PSxG/SoT", "PSxG+/-", "Launch%", "Opp", "Stp%", "#OPA" 
+        "Player", "Squad", "Liga", "Season","PSxG", "PSxG/SoT", "PSxG+/-", "Launch%", "Opp", "Stp%", "#OPA" 
     ]
 }
+float_columns = [
+        "Born", "MP", "Starts", "Min", "Gls", "Ast", "YellowC", "RedC", "PrgC", "PrgP", "PrgR",
+        "Fls", "Off", "Crosses", "Recov", "Aerialwon%", "Tack_Def_3rd", "Tack_Mid_3rd",
+        "Tack_Att_3rd", "Tkl%", "Tkl", "TklW", "Int", "Blocks", "Block_Shots", "Block_Pass",
+        "Clearences", "Err", "Pass_cmp", "Pass_cmp%", "Pass_cmp_Short%", "Pass_cmp_Medium%",
+        "Pass_cmp_Long%", "xAG", "xA", "A-xAG", "Pass_cmp_Att_3rd", "PPA", "CrsPA",
+        "Touch_Def_3rd", "Touch_Mid_3rd", "Touch_Att_3rd", "Touch_Att_Pen", "drib_Att",
+        "drib_Succ%", "PrgDist", "Carries_Att_3rd", "Carries_Att_Pen", "fail_To_Gain_Control",
+        "Loss_Control_Tackle", "Sh", "SoT", "G/Sh", "xG", "npxG", "npxG/Sh", "G-xG", "Height", "Value",
+        "Pass_Medium", "Pass_Long", "Pass_Short", "Touch_Live", "Tckl_Drib%", "Tckl_Drib", "GA", 
+        "SoTA", "Save%", "CS%", "PKatt", "P_Save%", "PSxG","PSxG/SoT", "PSxG+/-", "Launch%", 
+        "Crosses_Opp", "Crosses_stp%", "#OPA"
+]
 
 # Estandarizar nombres y columnas comunes
 def estandarizar_columnas(df, carpeta):
@@ -57,7 +70,7 @@ def estandarizar_columnas(df, carpeta):
     elif carpeta == "shooting":
         df = df.rename(columns={"Crs": "crosses", "Won%": "Aerialwon%"})
     elif carpeta == "mercado":
-        df = df.rename(columns={ "player_name": "Player", "squad": "Squad", "player_position": "Pos", "player_height_mtrs": "Height", "player_market_value_euro": "Value"})
+        df = df.rename(columns={ "player_name": "Player", "squad": "Squad", "comp_name": "Liga", "player_position": "Pos", "player_height_mtrs": "Height", "player_market_value_euro": "Value"})
     elif carpeta == "keepers":
         df = df.rename(columns={"Save%.1": "P_Save%"})
     elif carpeta == "keepersadv":
@@ -71,6 +84,17 @@ def estandarizar_columnas(df, carpeta):
         df["Competition"] = df["Competition"].astype(str).apply(normalizar)
     return df
 
+def normalizar_porcentajes(df):
+    percent_cols = [c for c in df.columns if str(c).endswith("%")]
+    df[percent_cols] = df[percent_cols].apply(pd.to_numeric, errors="coerce") / 100
+    return df
+
+def pasar_a_numeric(df):
+    existentes = [c for c in float_columns if c in df.columns]
+    if existentes:
+        df.loc[:, existentes] = df.loc[:, existentes].apply(pd.to_numeric, errors="coerce")
+    return df
+    
 def normalizar(var):
     if pd.isna(var):
         return None
@@ -79,106 +103,31 @@ def normalizar(var):
     var = re.sub(r'[^a-z\s]', '', var)  # Solo letras y espacios
     return ' '.join(var.split())  # Espacios únicos
 
-def mapear( variable, lista_fuente, lista_objetivo, umbral=85):
-    mapping = {}
-    for variable in lista_fuente:
-        mejor, score, _ = process.extractOne(variable, lista_objetivo)
-        if score >= umbral:
-            mapping[variable] = mejor
-    return mapping
-
-
-def aniadir_col(carpeta, archivo, df):
-    nombre = archivo.stem
-    partes = nombre.split("_")
-    
-    if carpeta == "mercado":
-        df["Season"] = partes[3]
-        df["Competition"] = partes[2].lower().strip()
-    else:
-        temporada = f"{partes[1]}-{partes[2]}"
-        df["Season"] = temporada
-        df["Competition"] = partes[0].lower().strip()
-    return df
-
-def guardar_csv(dataframes, rutas):
-    for nombre, df in dataframes.items():
-        salida = rutas[nombre]
-        df.to_csv(salida, index=False)
-
 def limpiar_ligas_transfermarkt(df):
     ligas_principales = ["Serie A", "LaLiga", "Premier League", "Bundesliga", "Ligue 1"]
-    return df[df["comp_name"].isin(ligas_principales)]
-
-def igualar_nombres(dataframes):
-    nombres_fbref = dataframes["stats"]["Player"].unique().tolist()
-    nombres_mercado = dataframes["mercado"]["Player"].unique().tolist()
-
-    club_actual_fbref = dataframes["stats"]["Squad"].unique().tolist()
-    club_actual_mercado = dataframes["mercado"]["Squad"].unique().tolist()
+    return df[df["Liga"].isin(ligas_principales)]
     
-    mapping_m = mapear("Player", nombres_mercado, nombres_fbref)
-    dataframes["mercado"]["Player"] = dataframes["mercado"]["Player"].replace(mapping_m)
+def limpiar(df, type):  
+        print(f"limpiando {type}")
+        #me dquedo con las columnas interesantes
+        columnas_utiles = COLUMNAS_UTILES.get(type, df.columns.tolist())
+        columnas_disponibles = [col for col in columnas_utiles if col in df.columns]
+        df = df[columnas_disponibles]
+        df = estandarizar_columnas(df, type)
+        df = normalizar_porcentajes(df)
+        df = pasar_a_numeric(df)
+        if(type == "mercado"):
+            df = limpiar_ligas_transfermarkt(df)
+        outdir = Path("data/v1")
+        outdir.mkdir(parents=True, exist_ok=True)
+        ruta = outdir / f"{type}.csv"
+        df.to_csv(ruta, index=False)     
     
-    mapping_m = mapear("Squad", club_actual_mercado, club_actual_fbref)
-    dataframes["mercado"]["Squad"] = dataframes["mercado"]["Squad"].replace(mapping_m)
+def main():
+    df = pd.read_csv("valores_mercado_2024-2025.csv")
+    df = limpiar(df, "mercado")
     
-def limpiar():  
-    dataframes = {}
-    ruta_destino = {}
-    for carpeta in SUBCARPETAS:
-        dfs=[]
-        carpeta_origen = FOLDER_ORIGEN / carpeta
-        carpeta_destino = FOLDER_DESTINO / carpeta
-        carpeta_destino.mkdir(parents=True, exist_ok=True)
-        for archivo in carpeta_origen.glob("*.csv"):
-            try:
-                print(f"Procesando {archivo}")
-                try:
-                    df = pd.read_csv(archivo)
-                except Exception:
-                    df = pd.read_excel(archivo, engine="openpyxl")
-                    
-                if carpeta == "mercado":
-                  df = limpiar_ligas_transfermarkt(df)
-                
-                df.columns = df.columns.str.strip()
-                df = df.loc[:, ~df.columns.duplicated()]
-                
-                #me dquedo con las columnas interesantes
-                columnas_utiles = COLUMNAS_UTILES.get(carpeta, df.columns.tolist())
-                columnas_disponibles = [col for col in columnas_utiles if col in df.columns]
-                df = df[columnas_disponibles]
-                
-                #cambio de nombre de las columnas y estandarización
-                df = estandarizar_columnas(df, carpeta)
-                
-                #se añade la liga y la temporada al dataset
-                df = aniadir_col(carpeta, archivo, df)
-                
-                #se apilan los dataset de cada categoria
-                dfs.append(df)
-                
-                #guardar los dataset limpios
-                salida = carpeta_destino / archivo.name
-                df.to_csv(salida, index=False)
-                print(f"Guardado en {salida}")
-                
-            except Exception as e:
-                print(f"Error con {archivo}: {e}")
-        if dfs:
-            #se unen en un solo dataset por cada categoria
-            unidos = pd.concat(dfs, ignore_index=True)
-            archivo_salida = carpeta_destino / f"{carpeta}.csv"
-            #rutas para guardar los dataframes
-            ruta_destino[carpeta] = archivo_salida
-            #dataframes por categoria
-            dataframes[carpeta] = unidos
-    #igualar nombres de transfermarkt con los demas
-    igualar_nombres(dataframes)
-    
-    #guardar dataframes en csvs
-    guardar_csv(dataframes, ruta_destino)
-
+main()
             
-limpiar()
+
+        

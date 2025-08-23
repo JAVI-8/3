@@ -230,15 +230,15 @@ def crear_sesion():
     .getOrCreate()
     return spark
 
-def cargar_df(spark):
-    df = spark.read.parquet("prueba_data/unidos/merge_jugadores.parquet")
+def cargar_df(spark, input):
+    df = spark.read.parquet(input)
     return df
 
 def calcular_adjusted_score(df):
     df = df.withColumn("adjusted_score", col("performance_score") - col("penalty_score"))
     return df
 
-def guardar_en_parquet(df):
+def guardar_en_parquet(df, output):
     
     metrics = ["Int_per90", "Blocks_per90", "Aerialwon%", "PrgP_per90",
         "Effective_Pass_Short", "Effective_Pass_Medium", "Effective_Pass_Long", "Effective_Tkl", "Crosses_per90", "PrgC_per90", "xA_per90", "CrsPA_per90", "Effective_Drib", "Recov_per90", "SoT_per90", "Carries_Att_Pen_per90"]
@@ -264,15 +264,15 @@ def guardar_en_parquet(df):
         "Effective_Pass_Short_norm", "Effective_Pass_Medium_norm", "Effective_Pass_Long_norm", "Effective_Tkl_norm", "Crosses_per90_norm", "PrgC_per90_norm", "xA_per90_norm", "CrsPA_per90_norm", "Effective_Drib_norm", "Recov_per90_norm", "SoT_per90_norm", "Carries_Att_Pen_per90_norm"
     )
     
-    (extra).coalesce(1).write.mode("overwrite").parquet("prueba_data/final/merge_jugadores.parquet")
+    (extra).coalesce(1).write.mode("overwrite").parquet(output)
     
    
 
-def procesar():
+def calcular(input, output):
     spark = crear_sesion()
     try:
         print("cargando dataset...")
-        df = cargar_df(spark)
+        df = cargar_df(spark, input)
         
         print("calcular penalty_score...")
         df = calcular_penalty_score(df)
@@ -282,10 +282,12 @@ def procesar():
         
         print("calculando adjusted_score...")
         df = calcular_adjusted_score(df)
+        
         print("guardando performance_score...")
-        guardar_en_parquet(df)
+        guardar_en_parquet(df, output)
+        
         print("el dataset se ha guardado correctamente en formato parquet")
     finally:
         spark.stop()
         
-procesar()
+calcular()

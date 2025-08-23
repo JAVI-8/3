@@ -4,11 +4,12 @@ import pandas as pd
 import os
 from io import StringIO
 import time
+from functools import reduce
 ids_types = [("stats_standard", "stats"), ("stats_possession", "possession"), ("stats_defense", "defense"), ("stats_misc", "misc"), ("stats_passing", "passing"), ("stats_shooting", "shooting"), ("stats_keeper", "keepers"), ("stats_keeper_adv", "keepersadv")]
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0 Safari/537.36"
 }
-def extraer_tabla_jugadores(url, table_id="stats_possession"):
+def extraer_tabla_jugadores(url, table_id):
     response = requests.get(url, headers=HEADERS)
     if response.status_code != 200:
         raise ConnectionError(f"Error al acceder a {url}: código {response.status_code}")
@@ -28,14 +29,39 @@ def extraer_tabla_jugadores(url, table_id="stats_possession"):
 
     raise ValueError(f"No se encontró la tabla {table_id} en {url}")
 
-def build_defense_url(competition_id: int, season_label: str, type:str, slug:str) -> str:
-    return f"https://fbref.com/en/comps/{competition_id}/{season_label}/{type}/{season_label}-{slug}-Stats"
+def build_defense_url(competition_id: int, type:str, slug:str, season) -> str:
+    
+    return f"https://fbref.com/en/comps/{competition_id}/{season}/{type}/{season}-{slug}-Stats"
 
-def crear_tablas(competition_id: int, season_label: str, league_name: str, slug:str):
-    for id, type in ids_types:
-        fbref_D_url = build_defense_url(competition_id, season_label, type, slug)
-        df = extraer_tabla_jugadores(fbref_D_url, id)
-        time.sleep(10)
-        nombre_archivo = f"prueba_data/{type}/{slug}_{season_label.replace('-', '_')}_{type}.csv"
-        df.to_csv(nombre_archivo, index=False)
-        print(f"✅ Guardado: {nombre_archivo}")
+def crear_tablas(competition_id: int, name: str, slug:str, season, id, type):
+    dfs = []
+    time.sleep(10)
+    fbref_D_url = build_defense_url(competition_id, type, slug, season)
+    print(fbref_D_url)
+    df = extraer_tabla_jugadores(fbref_D_url, id)
+    df["Liga"] = slug
+    df["Season"] = season
+    return df
+    
+def scrape_fbref(season, id, type):
+
+    temporada = []
+    ligas = [
+    {"name": "La Liga", "slug": "La-Liga", "code": 12},
+    {"name": "Premier League", "slug": "Premier-League", "code": 9},
+    {"name": "Serie A", "slug": "Serie-A", "code": 11},
+    {"name": "Bundesliga", "slug": "Bundesliga", "code": 20},
+    {"name": "Ligue-1", "slug": "Ligue-1", "code": 13}
+]
+    unidos = []
+    for liga in ligas:
+        print(f"\nProcesando: {liga['name']}")
+        try:
+            df = crear_tablas(liga["code"], liga["name"], liga["slug"], season, id, type)
+            
+            unidos.append(df)
+            temporada = pd.concat(unidos, ignore_index=True)
+            
+        except Exception as e:
+                print(f"FBref error en {liga['name']}: {e}")
+    return temporada
