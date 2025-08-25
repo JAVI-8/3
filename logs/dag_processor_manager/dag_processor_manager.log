@@ -1,0 +1,1146 @@
+[2025-08-25T13:03:07.915+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-08-25T13:03:07.948+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-08-25T13:03:07.951+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-08-25T13:03:07.953+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-08-25T13:03:07.998+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-08-25T13:03:08.202+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:03:08.209+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0          -1  0.09s           2025-08-25T13:03:08
+================================================================================
+[2025-08-25T13:03:38.357+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    209  0.01s             0          -1  0.09s           2025-08-25T13:03:08
+================================================================================
+[2025-08-25T13:03:38.372+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:04:08.557+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    214  0.00s             0          -1  0.02s           2025-08-25T13:03:38
+================================================================================
+[2025-08-25T13:04:08.577+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:04:38.814+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    219  0.00s             0          -1  0.02s           2025-08-25T13:04:08
+================================================================================
+[2025-08-25T13:04:38.831+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:05:09.064+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    224  0.01s             0          -1  0.02s           2025-08-25T13:04:38
+================================================================================
+[2025-08-25T13:05:09.094+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:05:39.315+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    229  0.01s             0          -1  0.04s           2025-08-25T13:05:09
+================================================================================
+[2025-08-25T13:05:39.347+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:06:09.522+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    234  0.00s             0          -1  0.04s           2025-08-25T13:05:39
+================================================================================
+[2025-08-25T13:06:09.541+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:06:39.736+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    239  0.00s             0          -1  0.02s           2025-08-25T13:06:09
+================================================================================
+[2025-08-25T13:06:39.758+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:07:09.966+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    244  0.01s             0          -1  0.03s           2025-08-25T13:06:39
+================================================================================
+[2025-08-25T13:07:09.985+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:07:40.198+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    249  0.00s             0          -1  0.03s           2025-08-25T13:07:09
+================================================================================
+[2025-08-25T13:07:40.217+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:08:08.516+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-08-25T13:08:08.529+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-08-25T13:08:10.566+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    254  0.00s             0          -1  0.02s           2025-08-25T13:07:40
+================================================================================
+[2025-08-25T13:08:10.587+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:08:40.842+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    259  0.01s             0          -1  0.03s           2025-08-25T13:08:10
+================================================================================
+[2025-08-25T13:08:40.875+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:09:11.085+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    264  0.01s             0          -1  0.04s           2025-08-25T13:08:40
+================================================================================
+[2025-08-25T13:09:11.106+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:09:41.304+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    269  0.00s             0          -1  0.03s           2025-08-25T13:09:11
+================================================================================
+[2025-08-25T13:09:41.322+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:10:11.550+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    274  0.01s             0          -1  0.02s           2025-08-25T13:09:41
+================================================================================
+[2025-08-25T13:10:11.583+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:10:41.796+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    279  0.00s             0          -1  0.04s           2025-08-25T13:10:11
+================================================================================
+[2025-08-25T13:10:41.817+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:11:12.046+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    284  0.01s             0          -1  0.03s           2025-08-25T13:10:41
+================================================================================
+[2025-08-25T13:11:12.078+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:11:42.202+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    289  0.01s             0          -1  0.04s           2025-08-25T13:11:12
+================================================================================
+[2025-08-25T13:11:42.235+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:12:12.448+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    294  0.00s             0          -1  0.04s           2025-08-25T13:11:42
+================================================================================
+[2025-08-25T13:12:12.468+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:12:42.665+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    299  0.00s             0          -1  0.02s           2025-08-25T13:12:12
+================================================================================
+[2025-08-25T13:12:42.686+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:13:08.849+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-08-25T13:13:08.864+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-08-25T13:13:12.987+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    304  0.01s             0          -1  0.03s           2025-08-25T13:12:42
+================================================================================
+[2025-08-25T13:13:13.021+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:13:43.229+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    309  0.00s             0          -1  0.04s           2025-08-25T13:13:13
+================================================================================
+[2025-08-25T13:13:43.248+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:14:13.435+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    314  0.00s             0          -1  0.02s           2025-08-25T13:13:43
+================================================================================
+[2025-08-25T13:14:13.456+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:14:43.718+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    319  0.01s             0          -1  0.03s           2025-08-25T13:14:13
+================================================================================
+[2025-08-25T13:14:43.749+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:15:14.082+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    324  0.01s             0          -1  0.04s           2025-08-25T13:14:43
+================================================================================
+[2025-08-25T13:15:14.101+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:15:44.450+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    329  0.01s             0          -1  0.03s           2025-08-25T13:15:14
+================================================================================
+[2025-08-25T13:15:44.483+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:16:14.863+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    334  0.01s             0          -1  0.04s           2025-08-25T13:15:44
+================================================================================
+[2025-08-25T13:16:14.923+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:16:45.117+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    339  0.01s             0          -1  0.07s           2025-08-25T13:16:14
+================================================================================
+[2025-08-25T13:16:45.172+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:17:15.447+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    344  0.00s             0          -1  0.07s           2025-08-25T13:16:45
+================================================================================
+[2025-08-25T13:17:15.466+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:17:45.667+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    349  0.00s             0          -1  0.02s           2025-08-25T13:17:15
+================================================================================
+[2025-08-25T13:17:45.686+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:18:09.813+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-08-25T13:18:09.837+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-08-25T13:18:15.977+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    354  0.01s             0          -1  0.02s           2025-08-25T13:17:45
+================================================================================
+[2025-08-25T13:18:16.009+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:18:46.167+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    359  0.00s             0          -1  0.04s           2025-08-25T13:18:16
+================================================================================
+[2025-08-25T13:18:46.186+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:19:16.514+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    364  0.01s             0          -1  0.02s           2025-08-25T13:18:46
+================================================================================
+[2025-08-25T13:19:16.553+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:19:46.753+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    369  0.01s             0          -1  0.05s           2025-08-25T13:19:16
+================================================================================
+[2025-08-25T13:19:46.789+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:20:16.993+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    374  0.01s             0          -1  0.05s           2025-08-25T13:19:46
+================================================================================
+[2025-08-25T13:20:17.016+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:20:47.219+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    379  0.01s             0          -1  0.03s           2025-08-25T13:20:17
+================================================================================
+[2025-08-25T13:20:47.258+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:21:17.492+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    384  0.01s             0          -1  0.05s           2025-08-25T13:20:47
+================================================================================
+[2025-08-25T13:21:17.536+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:21:47.762+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    389  0.01s             0          -1  0.06s           2025-08-25T13:21:17
+================================================================================
+[2025-08-25T13:21:47.797+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:22:18.074+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    394  0.00s             0          -1  0.04s           2025-08-25T13:21:47
+================================================================================
+[2025-08-25T13:22:18.092+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:22:48.804+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    399  0.00s             0          -1  0.02s           2025-08-25T13:22:18
+================================================================================
+[2025-08-25T13:22:48.822+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:23:10.036+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-08-25T13:23:10.060+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-08-25T13:23:19.203+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    404  0.01s             0          -1  0.02s           2025-08-25T13:22:48
+================================================================================
+[2025-08-25T13:23:19.226+0000] {manager.py:1016} ERROR - Processor for /opt/airflow/dags/tfm_market_value_dag.py exited with return code 1.
+[2025-08-25T13:23:43.402+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-08-25T14:01:25.368+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-08-25T14:01:25.423+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-08-25T14:01:25.426+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-08-25T14:01:25.428+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-08-25T14:01:25.448+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-08-25T14:01:25.646+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/tfm_market_value_dag.py    204  0.10s             0           0
+================================================================================
+[2025-08-25T14:01:55.899+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    209  0.01s             0           1  0.21s           2025-08-25T14:01:25
+================================================================================
+[2025-08-25T14:02:26.195+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    214  0.01s             0           1  0.14s           2025-08-25T14:01:56
+================================================================================
+[2025-08-25T14:02:56.418+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    219  0.00s             0           1  0.13s           2025-08-25T14:02:26
+================================================================================
+[2025-08-25T14:03:26.695+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    224  0.00s             0           1  0.08s           2025-08-25T14:02:56
+================================================================================
+[2025-08-25T14:03:56.908+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    229  0.00s             0           1  0.08s           2025-08-25T14:03:26
+================================================================================
+[2025-08-25T14:04:27.157+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    234  0.00s             0           1  0.07s           2025-08-25T14:03:56
+================================================================================
+[2025-08-25T14:04:57.364+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    239  0.00s             0           1  0.07s           2025-08-25T14:04:27
+================================================================================
+[2025-08-25T14:05:27.588+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    244  0.00s             0           1  0.07s           2025-08-25T14:04:57
+================================================================================
+[2025-08-25T14:05:57.806+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    249  0.00s             0           1  0.08s           2025-08-25T14:05:27
+================================================================================
+[2025-08-25T14:06:25.995+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-08-25T14:06:26.008+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-08-25T14:06:28.043+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    254  0.00s             0           1  0.07s           2025-08-25T14:05:57
+================================================================================
+[2025-08-25T14:06:58.241+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    259  0.00s             0           1  0.08s           2025-08-25T14:06:28
+================================================================================
+[2025-08-25T14:07:28.483+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    264  0.00s             0           1  0.07s           2025-08-25T14:06:58
+================================================================================
+[2025-08-25T14:07:58.688+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    269  0.00s             0           1  0.08s           2025-08-25T14:07:28
+================================================================================
+[2025-08-25T14:08:28.924+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    274  0.00s             0           1  0.07s           2025-08-25T14:07:58
+================================================================================
+[2025-08-25T14:08:59.143+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    279  0.01s             0           1  0.07s           2025-08-25T14:08:28
+================================================================================
+[2025-08-25T14:09:29.366+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py    284  0.01s             0           1  0.10s           2025-08-25T14:08:59
+================================================================================
+[2025-08-25T20:33:30.908+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-08-25T20:33:31.828+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-08-25T20:33:41.649+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  1.58s           2025-08-25T20:33:35
+================================================================================
+[2025-08-25T20:34:13.581+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T20:34:05
+================================================================================
+[2025-08-25T20:34:43.904+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.14s           2025-08-25T20:34:35
+================================================================================
+[2025-08-25T20:35:15.298+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.08s           2025-08-25T20:35:06
+================================================================================
+[2025-08-25T20:35:46.735+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.06s           2025-08-25T20:35:36
+================================================================================
+[2025-08-25T20:36:18.299+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.14s           2025-08-25T20:36:07
+================================================================================
+[2025-08-25T20:36:49.652+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T20:36:37
+================================================================================
+[2025-08-25T20:37:21.112+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T20:37:07
+================================================================================
+[2025-08-25T20:37:52.480+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.15s           2025-08-25T20:37:38
+================================================================================
+[2025-08-25T20:37:53.691+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-08-25T20:43:56.429+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-08-25T20:43:56.431+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-08-25T20:43:56.433+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-08-25T20:43:56.435+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-08-25T20:43:56.452+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-08-25T20:43:56.764+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/tfm_market_value_dag.py    204  0.20s             0           0
+================================================================================
+[2025-08-25T20:44:28.416+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.24s           2025-08-25T20:44:27
+================================================================================
+[2025-08-25T20:44:59.854+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.14s           2025-08-25T20:44:57
+================================================================================
+[2025-08-25T20:45:31.903+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.17s           2025-08-25T20:45:28
+================================================================================
+[2025-08-25T20:46:03.501+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.08s           2025-08-25T20:45:59
+================================================================================
+[2025-08-25T20:46:35.007+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T20:46:30
+================================================================================
+[2025-08-25T20:47:06.547+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.06s           2025-08-25T20:47:00
+================================================================================
+[2025-08-25T20:47:38.458+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T20:47:31
+================================================================================
+[2025-08-25T20:48:10.165+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T20:48:02
+================================================================================
+[2025-08-25T20:48:41.785+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T20:48:32
+================================================================================
+[2025-08-25T20:48:57.332+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-08-25T20:48:57.342+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-08-25T20:49:15.401+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T20:49:03
+================================================================================
+[2025-08-25T20:49:47.156+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.06s           2025-08-25T20:49:34
+================================================================================
+[2025-08-25T20:50:18.849+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T20:50:05
+================================================================================
+[2025-08-25T20:50:50.593+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T20:50:36
+================================================================================
+[2025-08-25T20:51:22.401+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T20:51:06
+================================================================================
+[2025-08-25T20:51:54.186+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.08s           2025-08-25T20:51:37
+================================================================================
+[2025-08-25T20:52:25.908+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.09s           2025-08-25T20:52:08
+================================================================================
+[2025-08-25T20:52:57.299+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-08-25T20:58:27.634+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-08-25T20:58:27.637+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-08-25T20:58:27.639+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-08-25T20:58:27.641+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-08-25T20:58:27.657+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-08-25T20:58:27.834+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/tfm_market_value_dag.py    203  0.07s             0           0
+================================================================================
+[2025-08-25T20:59:00.045+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.23s           2025-08-25T20:58:58
+================================================================================
+[2025-08-25T20:59:31.898+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.84s           2025-08-25T20:59:29
+================================================================================
+[2025-08-25T21:00:03.641+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T20:59:59
+================================================================================
+[2025-08-25T21:00:35.505+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.16s           2025-08-25T21:00:30
+================================================================================
+[2025-08-25T21:01:07.319+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.09s           2025-08-25T21:01:01
+================================================================================
+[2025-08-25T21:01:39.156+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T21:01:32
+================================================================================
+[2025-08-25T21:02:10.928+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.06s           2025-08-25T21:02:02
+================================================================================
+[2025-08-25T21:02:42.704+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T21:02:33
+================================================================================
+[2025-08-25T21:03:14.649+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.10s           2025-08-25T21:03:04
+================================================================================
+[2025-08-25T21:03:28.392+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-08-25T21:03:28.401+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-08-25T21:03:46.669+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.13s           2025-08-25T21:03:35
+================================================================================
+[2025-08-25T21:04:18.419+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T21:04:06
+================================================================================
+[2025-08-25T21:04:50.288+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.06s           2025-08-25T21:04:37
+================================================================================
+[2025-08-25T21:05:22.172+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T21:05:08
+================================================================================
+[2025-08-25T21:05:54.169+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T21:05:39
+================================================================================
+[2025-08-25T21:06:25.961+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T21:06:09
+================================================================================
+[2025-08-25T21:06:57.788+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T21:06:40
+================================================================================
+[2025-08-25T21:07:29.692+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T21:07:11
+================================================================================
+[2025-08-25T21:08:01.643+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.06s           2025-08-25T21:07:42
+================================================================================
+[2025-08-25T21:08:28.419+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-08-25T21:08:28.432+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-08-25T21:08:33.472+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T21:08:14
+================================================================================
+[2025-08-25T21:09:05.312+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.08s           2025-08-25T21:08:45
+================================================================================
+[2025-08-25T21:09:37.253+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T21:09:17
+================================================================================
+[2025-08-25T21:10:09.186+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T21:09:49
+================================================================================
+[2025-08-25T21:10:41.027+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T21:10:20
+================================================================================
+[2025-08-25T21:11:12.889+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T21:10:52
+================================================================================
+[2025-08-25T21:11:44.777+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T21:11:24
+================================================================================
+[2025-08-25T21:12:16.698+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T21:11:55
+================================================================================
+[2025-08-25T21:12:48.595+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T21:12:27
+================================================================================
+[2025-08-25T21:13:20.463+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T21:12:59
+================================================================================
+[2025-08-25T21:13:28.500+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-08-25T21:13:28.512+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-08-25T21:13:52.377+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.14s           2025-08-25T21:13:31
+================================================================================
+[2025-08-25T21:14:24.291+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T21:14:03
+================================================================================
+[2025-08-25T21:14:56.169+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T21:14:34
+================================================================================
+[2025-08-25T21:15:28.031+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.06s           2025-08-25T21:15:05
+================================================================================
+[2025-08-25T21:15:59.956+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T21:15:37
+================================================================================
+[2025-08-25T22:12:08.021+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-08-25T22:12:08.104+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-08-25T22:12:09.332+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.38s           2025-08-25T22:12:08
+================================================================================
+[2025-08-25T22:12:41.681+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T22:12:38
+================================================================================
+[2025-08-25T22:13:13.482+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T22:13:09
+================================================================================
+[2025-08-25T22:13:24.251+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-08-25T22:29:25.633+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-08-25T22:29:25.636+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-08-25T22:29:25.638+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-08-25T22:29:25.641+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-08-25T22:29:25.661+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-08-25T22:29:25.891+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/tfm_market_value_dag.py    163  0.11s             0           0
+================================================================================
+[2025-08-25T22:29:50.477+0000] {manager.py:452} INFO - Exiting gracefully upon receiving signal 15
+[2025-08-25T22:33:09.843+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2025-08-25T22:33:09.845+0000] {manager.py:471} INFO - Process each file at most once every 30 seconds
+[2025-08-25T22:33:09.848+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-08-25T22:33:09.850+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2025-08-25T22:33:09.863+0000] {manager.py:740} INFO - There are 1 files in /opt/airflow/dags
+[2025-08-25T22:33:10.041+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                    PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/tfm_market_value_dag.py    164  0.10s             0           0
+================================================================================
+[2025-08-25T22:33:41.993+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T22:33:41
+================================================================================
+[2025-08-25T22:34:14.826+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.06s           2025-08-25T22:34:13
+================================================================================
+[2025-08-25T22:34:45.854+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.06s           2025-08-25T22:34:44
+================================================================================
+[2025-08-25T22:35:17.977+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.06s           2025-08-25T22:35:15
+================================================================================
+[2025-08-25T22:35:49.836+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.07s           2025-08-25T22:35:45
+================================================================================
+[2025-08-25T22:36:21.796+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.06s           2025-08-25T22:36:16
+================================================================================
+[2025-08-25T22:36:53.771+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.16s           2025-08-25T22:36:47
+================================================================================
+[2025-08-25T22:37:25.696+0000] {manager.py:878} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/tfm_market_value_dag.py                           0           1  0.06s           2025-08-25T22:37:18
+================================================================================
