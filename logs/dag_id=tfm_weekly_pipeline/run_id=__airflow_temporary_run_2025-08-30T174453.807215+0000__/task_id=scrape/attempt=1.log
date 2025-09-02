@@ -1,0 +1,73 @@
+[2025-08-30T17:45:00.390+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-08-30T17:45:00.468+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: tfm_weekly_pipeline.scrape __airflow_temporary_run_2025-08-30T17:44:53.807215+00:00__ [queued]>
+[2025-08-30T17:45:00.491+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: tfm_weekly_pipeline.scrape __airflow_temporary_run_2025-08-30T17:44:53.807215+00:00__ [queued]>
+[2025-08-30T17:45:00.493+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2025-08-30T17:45:00.533+0000] {taskinstance.py:2330} INFO - Executing <Task(_PythonDecoratedOperator): scrape> on 2025-08-26 22:00:00+00:00
+[2025-08-30T17:45:00.545+0000] {standard_task_runner.py:63} INFO - Started process 3894 to run task
+[2025-08-30T17:45:00.743+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'tfm_weekly_pipeline', 'scrape', '__***_temporary_run_2025-08-30T17:44:53.807215+00:00__', '--job-id', '28', '--raw', '--subdir', 'DAGS_FOLDER/tfm_market_value_dag.py', '--cfg-path', '/tmp/tmpwm_3eh35']
+[2025-08-30T17:45:00.834+0000] {standard_task_runner.py:91} INFO - Job 28: Subtask scrape
+[2025-08-30T17:45:01.523+0000] {task_command.py:426} INFO - Running <TaskInstance: tfm_weekly_pipeline.scrape __airflow_temporary_run_2025-08-30T17:44:53.807215+00:00__ [running]> on host 1cf97d3f0dcd
+[2025-08-30T17:45:02.558+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='tfm' AIRFLOW_CTX_DAG_ID='tfm_weekly_pipeline' AIRFLOW_CTX_TASK_ID='scrape' AIRFLOW_CTX_EXECUTION_DATE='2025-08-26T22:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='__***_temporary_run_2025-08-30T17:44:53.807215+00:00__'
+[2025-08-30T17:45:02.624+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-08-30T17:45:02.628+0000] {logging_mixin.py:188} INFO - 
+Procesando archivo: stats
+[2025-08-30T17:45:02.631+0000] {logging_mixin.py:188} INFO - 
+Procesando: La Liga
+[2025-08-30T17:45:12.809+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/12/2025-2026/stats/2025-2026-La-Liga-Stats
+[2025-08-30T17:45:13.140+0000] {logging_mixin.py:188} INFO - FBref error en La Liga: Error al acceder a https://fbref.com/en/comps/12/2025-2026/stats/2025-2026-La-Liga-Stats: código 403
+[2025-08-30T17:45:13.142+0000] {logging_mixin.py:188} INFO - 
+Procesando: Premier League
+[2025-08-30T17:45:16.186+0000] {local_task_job_runner.py:310} WARNING - State of this instance has been externally set to None. Terminating instance.
+[2025-08-30T17:45:16.188+0000] {local_task_job_runner.py:222} INFO - ::endgroup::
+[2025-08-30T17:45:16.200+0000] {process_utils.py:132} INFO - Sending 15 to group 3894. PIDs of all processes in the group: [3894]
+[2025-08-30T17:45:16.201+0000] {process_utils.py:87} INFO - Sending the signal 15 to group 3894
+[2025-08-30T17:45:16.202+0000] {taskinstance.py:2611} ERROR - Received SIGTERM. Terminating subprocesses.
+[2025-08-30T17:45:16.203+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-08-30T17:45:16.225+0000] {taskinstance.py:2905} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/baseoperator.py", line 401, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/decorators/base.py", line 265, in execute
+    return_value = super().execute(context)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/baseoperator.py", line 401, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/operators/python.py", line 235, in execute
+    return_value = self.execute_callable()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/operators/python.py", line 252, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/airflow/dags/tfm_market_value_dag.py", line 58, in scrape
+    run_scraping_pipeline(season=season, ejecutar_r= False)
+  File "/opt/airflow/repo/scripts/pipeline_api.py", line 29, in run_scraping_pipeline
+    ctrl.run(season=season, ejecutar_r=ejecutar_r)
+  File "/opt/airflow/repo/scripts/controlador_scrpapping.py", line 44, in run
+    scrap_fbref_and_clean(season)
+  File "/opt/airflow/repo/scripts/controlador_scrpapping.py", line 36, in scrap_fbref_and_clean
+    df = scrape_fbref(temporada, id, type)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/airflow/repo/scripts/scrape_fbref.py", line 59, in scrape_fbref
+    df = crear_tablas(liga["code"], liga["name"], liga["slug"], season, id, type)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/airflow/repo/scripts/scrape_fbref.py", line 37, in crear_tablas
+    time.sleep(10)
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 2613, in signal_handler
+    raise AirflowTaskTerminated("Task received SIGTERM signal")
+airflow.exceptions.AirflowTaskTerminated: Task received SIGTERM signal
+[2025-08-30T17:45:16.279+0000] {taskinstance.py:1206} INFO - Marking task as FAILED. dag_id=tfm_weekly_pipeline, task_id=scrape, run_id=__***_temporary_run_2025-08-30T17:44:53.807215+00:00__, execution_date=20250826T220000, start_date=20250830T174500, end_date=20250830T174516
+[2025-08-30T17:45:16.333+0000] {standard_task_runner.py:110} ERROR - Failed to execute job 28 for task scrape ((psycopg2.errors.ForeignKeyViolation) insert or update on table "task_fail" violates foreign key constraint "task_fail_ti_fkey"
+DETAIL:  Key (dag_id, task_id, run_id, map_index)=(tfm_weekly_pipeline, scrape, __airflow_temporary_run_2025-08-30T17:44:53.807215+00:00__, -1) is not present in table "task_instance".
+
+[SQL: INSERT INTO task_fail (task_id, dag_id, run_id, map_index, start_date, end_date, duration) VALUES (%(task_id)s, %(dag_id)s, %(run_id)s, %(map_index)s, %(start_date)s, %(end_date)s, %(duration)s) RETURNING task_fail.id]
+[parameters: {'task_id': 'scrape', 'dag_id': 'tfm_weekly_pipeline', 'run_id': '__airflow_temporary_run_2025-08-30T17:44:53.807215+00:00__', 'map_index': -1, 'start_date': datetime.datetime(2025, 8, 30, 17, 45, 0, 470247, tzinfo=Timezone('UTC')), 'end_date': datetime.datetime(2025, 8, 30, 17, 45, 16, 278193, tzinfo=Timezone('UTC')), 'duration': 15}]
+(Background on this error at: https://sqlalche.me/e/14/gkpj); 3894)
+[2025-08-30T17:45:16.375+0000] {process_utils.py:80} INFO - Process psutil.Process(pid=3894, status='terminated', exitcode=1, started='17:44:59') (3894) terminated with exit code 1

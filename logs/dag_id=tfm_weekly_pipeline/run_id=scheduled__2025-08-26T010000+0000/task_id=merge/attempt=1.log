@@ -1,0 +1,21 @@
+[2025-09-02T07:29:43.480+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-09-02T07:29:43.542+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: tfm_weekly_pipeline.merge scheduled__2025-08-26T01:00:00+00:00 [queued]>
+[2025-09-02T07:29:43.557+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: tfm_weekly_pipeline.merge scheduled__2025-08-26T01:00:00+00:00 [queued]>
+[2025-09-02T07:29:43.559+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2025-09-02T07:29:43.581+0000] {taskinstance.py:2330} INFO - Executing <Task(_PythonDecoratedOperator): merge> on 2025-08-26 01:00:00+00:00
+[2025-09-02T07:29:43.591+0000] {standard_task_runner.py:63} INFO - Started process 5704 to run task
+[2025-09-02T07:29:43.598+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'tfm_weekly_pipeline', 'merge', 'scheduled__2025-08-26T01:00:00+00:00', '--job-id', '57', '--raw', '--subdir', 'DAGS_FOLDER/tfm_market_value_dag.py', '--cfg-path', '/tmp/tmpn97tfvs6']
+[2025-09-02T07:29:43.603+0000] {standard_task_runner.py:91} INFO - Job 57: Subtask merge
+[2025-09-02T07:29:43.696+0000] {task_command.py:426} INFO - Running <TaskInstance: tfm_weekly_pipeline.merge scheduled__2025-08-26T01:00:00+00:00 [running]> on host 1cf97d3f0dcd
+[2025-09-02T07:29:43.852+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='tfm' AIRFLOW_CTX_DAG_ID='tfm_weekly_pipeline' AIRFLOW_CTX_TASK_ID='merge' AIRFLOW_CTX_EXECUTION_DATE='2025-08-26T01:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-08-26T01:00:00+00:00'
+[2025-09-02T07:29:43.853+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-09-02T07:29:54.387+0000] {logging_mixin.py:188} INFO - Uniendo los datasets...
+[2025-09-02T07:30:14.101+0000] {logging_mixin.py:188} INFO - normalizando las variables x 90min...
+[2025-09-02T07:30:21.480+0000] {logging_mixin.py:188} INFO - Guardando...
+[2025-09-02T07:30:33.817+0000] {logging_mixin.py:188} INFO - Datos procesados y exportados en formato Parquet.
+[2025-09-02T07:30:34.618+0000] {python.py:237} INFO - Done. Returned value was: data/v1/players_clean.parquet
+[2025-09-02T07:30:34.619+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-09-02T07:30:35.462+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=tfm_weekly_pipeline, task_id=merge, run_id=scheduled__2025-08-26T01:00:00+00:00, execution_date=20250826T010000, start_date=20250902T072943, end_date=20250902T073035
+[2025-09-02T07:30:36.397+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2025-09-02T07:30:36.420+0000] {taskinstance.py:3503} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-09-02T07:30:38.163+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

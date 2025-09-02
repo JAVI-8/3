@@ -1,0 +1,47 @@
+[2025-08-27T18:59:30.309+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-08-27T18:59:30.357+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: tfm_weekly_pipeline.merge scheduled__2025-08-19T01:00:00+00:00 [queued]>
+[2025-08-27T18:59:30.371+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: tfm_weekly_pipeline.merge scheduled__2025-08-19T01:00:00+00:00 [queued]>
+[2025-08-27T18:59:30.374+0000] {taskinstance.py:2306} INFO - Starting attempt 2 of 2
+[2025-08-27T18:59:30.397+0000] {taskinstance.py:2330} INFO - Executing <Task(_PythonDecoratedOperator): merge> on 2025-08-19 01:00:00+00:00
+[2025-08-27T18:59:30.405+0000] {standard_task_runner.py:63} INFO - Started process 474 to run task
+[2025-08-27T18:59:30.410+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'tfm_weekly_pipeline', 'merge', 'scheduled__2025-08-19T01:00:00+00:00', '--job-id', '17', '--raw', '--subdir', 'DAGS_FOLDER/tfm_market_value_dag.py', '--cfg-path', '/tmp/tmpofd573hu']
+[2025-08-27T18:59:30.415+0000] {standard_task_runner.py:91} INFO - Job 17: Subtask merge
+[2025-08-27T18:59:30.493+0000] {task_command.py:426} INFO - Running <TaskInstance: tfm_weekly_pipeline.merge scheduled__2025-08-19T01:00:00+00:00 [running]> on host 29a2c0c31253
+[2025-08-27T18:59:30.557+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='tfm' AIRFLOW_CTX_DAG_ID='tfm_weekly_pipeline' AIRFLOW_CTX_TASK_ID='merge' AIRFLOW_CTX_EXECUTION_DATE='2025-08-19T01:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-08-19T01:00:00+00:00'
+[2025-08-27T18:59:30.558+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-08-27T18:59:30.559+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-08-27T18:59:30.560+0000] {taskinstance.py:2905} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/baseoperator.py", line 401, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/decorators/base.py", line 265, in execute
+    return_value = super().execute(context)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/baseoperator.py", line 401, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/operators/python.py", line 235, in execute
+    return_value = self.execute_callable()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/operators/python.py", line 252, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/airflow/dags/tfm_market_value_dag.py", line 62, in merge
+    return spark_merge_and_convert()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/airflow/repo/scripts/pipeline_api.py", line 37, in spark_merge_and_convert
+    return procesar()
+           ^^^^^^^^^^
+TypeError: procesar() missing 1 required positional argument: 'dfs'
+[2025-08-27T18:59:30.573+0000] {taskinstance.py:1206} INFO - Marking task as FAILED. dag_id=tfm_weekly_pipeline, task_id=merge, run_id=scheduled__2025-08-19T01:00:00+00:00, execution_date=20250819T010000, start_date=20250827T185930, end_date=20250827T185930
+[2025-08-27T18:59:30.581+0000] {standard_task_runner.py:110} ERROR - Failed to execute job 17 for task merge (procesar() missing 1 required positional argument: 'dfs'; 474)
+[2025-08-27T18:59:30.623+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 1
+[2025-08-27T18:59:30.639+0000] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-08-27T18:59:30.645+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

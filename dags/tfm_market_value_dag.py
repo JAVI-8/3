@@ -1,15 +1,24 @@
-from datetime import datetime, timedelta
-import sys, os
-from airflow import DAG
-from airflow.operators.python import PythonOperator
+from datetime import timedelta
+import sys
+from pathlib import Path
 import pendulum
 
-# Asegura que Python encuentre tu repo montado:
-REPO = "C:\airflow\repo\"
-if REPO not in sys.path:
-    sys.path.append(REPO)
+from airflow.decorators import dag, task
+from airflow.models.param import Param
 
-# Importa tus funciones
+# --- Rutas del repo (montaje local), NO uses una URL ---
+
+REPO_MOUNT = "/opt/airflow/repo"
+if REPO_MOUNT not in sys.path:
+    sys.path.append(REPO_MOUNT)
+
+BASE = Path(__file__).resolve().parents[1]
+if str(BASE) not in sys.path:
+    sys.path.append(str(BASE))
+
+WORK = BASE / "work"
+
+# Importa tus funciones del repo
 from scripts.pipeline_api import (
     run_scraping_pipeline,
     spark_merge_and_convert,
@@ -23,42 +32,59 @@ DEFAULT_ARGS = {
     "retry_delay": timedelta(minutes=10),
 }
 
-from pathlib import Path
-BASE = Path(__file__).resolve().parents[1]
-REPO = str(BASE)
-WORK = BASE / "work" 
-with DAG(
+def _to_bool(x):
+    if isinstance(x, str):
+        return x.strip().lower() in {"1", "true", "t", "yes", "y", "on"}
+    return bool(x)
+
+@dag(
     dag_id="tfm_weekly_pipeline",
     description="Scrape → merge → score → append histórico",
-    start_date=pendulum.datetime(2025, 8, 1, 3, 0, tz="Europe/Madrid"),
-    schedule_interval="0 3 * * 2",
+    start_date=pendulum.datetime(2024, 8, 1, 3, 0, tz="Europe/Madrid"),
+    schedule="0 3 * * 2",  # Martes 03:00 hora de Madrid
     catchup=False,
     default_args=DEFAULT_ARGS,
     max_active_runs=1,
-    timezone=pendulum.timezone("Europe/Madrid"),  # asegura horario local
-    tags=["tfm", "bicis", "spark"],
-) as dag:
+    tags=["tfm", "ball", "spark"],
+    params={
+        "season": Param("2024-2025", type="string"),
+        "ejecutar_r": Param(True, type="boolean"),
+    },
+)
+def tfm_weekly_pipeline():
 
-    def _scrape(**context):
-        season = context["dag_run"].conf.get("season", "2025-2026")
-        ejecutar_r = bool(context["dag_run"].conf.get("ejecutar_r", True))
-        run_scraping_pipeline(season=season, ejecutar_r=ejecutar_r)
+    @task
+    def scrape(season: str, ejecutar_r) -> None:
+        run_scraping_pipeline(season=season, ejecutar_r= False)
 
-    def _merge(**_):
-        # Devuelve la ruta del clean parquet
+    @task
+    def merge() -> str:
         return spark_merge_and_convert()
 
-    def _score(ti, **_):
-        clean_path = ti.xcom_pull(task_ids="merge")
-        return spark_compute_scores(input_parquet=clean_path, output_parquet= str(WORK / "players_clean.parquet"))
+    @task
+    def score(clean_path: str) -> str:
+        outo = "/opt/airflow/v1/players_clean.parquet"
+        out = WORK / "players_clean.parquet"
+        return spark_compute_scores(
+            input_parquet=str(outo),
+            output_parquet=str(out),
+        )
 
-    def _append(ti, **_):
-        scored_path = ti.xcom_pull(task_ids="score")
+    @task
+    def append(scored_path: str) -> str:
         return append_to_history(scored_path)
 
-    scrape = PythonOperator(task_id="scrape", python_callable=_scrape, provide_context=True)
-    merge  = PythonOperator(task_id="merge",  python_callable=_merge,  provide_context=True)
-    score  = PythonOperator(task_id="score",  python_callable=_score,  provide_context=True)
-    append = PythonOperator(task_id="append", python_callable=_append, provide_context=True)
+    # Encadenado con XCom implícito y params templated
+    scrape_out = scrape(
+        season="{{ params.season }}",
+        ejecutar_r="{{ params.ejecutar_r }}",
+    )
 
-    scrape >> merge >> score >> append
+    merge_task = merge()
+    scrape_out >> merge_task      # ← dependencia correcta
+
+    scored = score(merge_task)    # pasa el XCom (ruta) a la siguiente
+    append(scored)
+
+
+dag = tfm_weekly_pipeline()

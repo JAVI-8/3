@@ -1,0 +1,209 @@
+[2025-08-27T19:10:42.512+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-08-27T19:10:42.560+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: tfm_weekly_pipeline.scrape manual__2025-08-27T19:10:39+00:00 [queued]>
+[2025-08-27T19:10:42.572+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: tfm_weekly_pipeline.scrape manual__2025-08-27T19:10:39+00:00 [queued]>
+[2025-08-27T19:10:42.574+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2025-08-27T19:10:42.596+0000] {taskinstance.py:2330} INFO - Executing <Task(_PythonDecoratedOperator): scrape> on 2025-08-27 19:10:39+00:00
+[2025-08-27T19:10:42.604+0000] {standard_task_runner.py:63} INFO - Started process 258 to run task
+[2025-08-27T19:10:42.609+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'tfm_weekly_pipeline', 'scrape', 'manual__2025-08-27T19:10:39+00:00', '--job-id', '19', '--raw', '--subdir', 'DAGS_FOLDER/tfm_market_value_dag.py', '--cfg-path', '/tmp/tmpym0a4pih']
+[2025-08-27T19:10:42.614+0000] {standard_task_runner.py:91} INFO - Job 19: Subtask scrape
+[2025-08-27T19:10:42.698+0000] {task_command.py:426} INFO - Running <TaskInstance: tfm_weekly_pipeline.scrape manual__2025-08-27T19:10:39+00:00 [running]> on host 1cf97d3f0dcd
+[2025-08-27T19:10:42.851+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='tfm' AIRFLOW_CTX_DAG_ID='tfm_weekly_pipeline' AIRFLOW_CTX_TASK_ID='scrape' AIRFLOW_CTX_EXECUTION_DATE='2025-08-27T19:10:39+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-08-27T19:10:39+00:00'
+[2025-08-27T19:10:42.852+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-08-27T19:10:42.854+0000] {logging_mixin.py:188} INFO - 
+Procesando archivo: stats
+[2025-08-27T19:10:42.855+0000] {logging_mixin.py:188} INFO - 
+Procesando: La Liga
+[2025-08-27T19:10:52.856+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/12/2025-2026/stats/2025-2026-La-Liga-Stats
+[2025-08-27T19:10:52.995+0000] {logging_mixin.py:188} INFO - FBref error en La Liga: Error al acceder a https://fbref.com/en/comps/12/2025-2026/stats/2025-2026-La-Liga-Stats: código 403
+[2025-08-27T19:10:52.996+0000] {logging_mixin.py:188} INFO - 
+Procesando: Premier League
+[2025-08-27T19:11:04.767+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/9/2025-2026/stats/2025-2026-Premier-League-Stats
+[2025-08-27T19:11:04.853+0000] {logging_mixin.py:188} INFO - FBref error en Premier League: Error al acceder a https://fbref.com/en/comps/9/2025-2026/stats/2025-2026-Premier-League-Stats: código 403
+[2025-08-27T19:11:04.858+0000] {logging_mixin.py:188} INFO - 
+Procesando: Serie A
+[2025-08-27T19:11:14.860+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/11/2025-2026/stats/2025-2026-Serie-A-Stats
+[2025-08-27T19:11:14.937+0000] {logging_mixin.py:188} INFO - FBref error en Serie A: Error al acceder a https://fbref.com/en/comps/11/2025-2026/stats/2025-2026-Serie-A-Stats: código 403
+[2025-08-27T19:11:14.938+0000] {logging_mixin.py:188} INFO - 
+Procesando: Bundesliga
+[2025-08-27T19:11:24.939+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/20/2025-2026/stats/2025-2026-Bundesliga-Stats
+[2025-08-27T19:11:25.011+0000] {logging_mixin.py:188} INFO - FBref error en Bundesliga: Error al acceder a https://fbref.com/en/comps/20/2025-2026/stats/2025-2026-Bundesliga-Stats: código 403
+[2025-08-27T19:11:25.013+0000] {logging_mixin.py:188} INFO - 
+Procesando: Ligue-1
+[2025-08-27T19:11:36.748+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/13/2025-2026/stats/2025-2026-Ligue-1-Stats
+[2025-08-27T19:11:36.838+0000] {logging_mixin.py:188} INFO - FBref error en Ligue-1: Error al acceder a https://fbref.com/en/comps/13/2025-2026/stats/2025-2026-Ligue-1-Stats: código 403
+[2025-08-27T19:11:36.839+0000] {logging_mixin.py:188} INFO - [limpiar_datos] limpiando stats
+[2025-08-27T19:11:36.840+0000] {logging_mixin.py:188} INFO - FBref error en 2025-2026 [stats]: 'list' object has no attribute 'columns'
+[2025-08-27T19:11:36.841+0000] {logging_mixin.py:188} INFO - 
+Procesando archivo: possession
+[2025-08-27T19:11:36.842+0000] {logging_mixin.py:188} INFO - 
+Procesando: La Liga
+[2025-08-27T19:11:46.843+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/12/2025-2026/possession/2025-2026-La-Liga-Stats
+[2025-08-27T19:11:46.914+0000] {logging_mixin.py:188} INFO - FBref error en La Liga: Error al acceder a https://fbref.com/en/comps/12/2025-2026/possession/2025-2026-La-Liga-Stats: código 403
+[2025-08-27T19:11:46.914+0000] {logging_mixin.py:188} INFO - 
+Procesando: Premier League
+[2025-08-27T19:11:56.915+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/9/2025-2026/possession/2025-2026-Premier-League-Stats
+[2025-08-27T19:11:57.244+0000] {logging_mixin.py:188} INFO - FBref error en Premier League: Error al acceder a https://fbref.com/en/comps/9/2025-2026/possession/2025-2026-Premier-League-Stats: código 403
+[2025-08-27T19:11:57.245+0000] {logging_mixin.py:188} INFO - 
+Procesando: Serie A
+[2025-08-27T19:12:09.018+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/11/2025-2026/possession/2025-2026-Serie-A-Stats
+[2025-08-27T19:12:16.232+0000] {logging_mixin.py:188} INFO - FBref error en Serie A: Error al acceder a https://fbref.com/en/comps/11/2025-2026/possession/2025-2026-Serie-A-Stats: código 403
+[2025-08-27T19:12:16.235+0000] {logging_mixin.py:188} INFO - 
+Procesando: Bundesliga
+[2025-08-27T19:12:26.240+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/20/2025-2026/possession/2025-2026-Bundesliga-Stats
+[2025-08-27T19:12:26.360+0000] {logging_mixin.py:188} INFO - FBref error en Bundesliga: Error al acceder a https://fbref.com/en/comps/20/2025-2026/possession/2025-2026-Bundesliga-Stats: código 403
+[2025-08-27T19:12:26.361+0000] {logging_mixin.py:188} INFO - 
+Procesando: Ligue-1
+[2025-08-27T19:12:36.362+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/13/2025-2026/possession/2025-2026-Ligue-1-Stats
+[2025-08-27T19:12:36.436+0000] {logging_mixin.py:188} INFO - FBref error en Ligue-1: Error al acceder a https://fbref.com/en/comps/13/2025-2026/possession/2025-2026-Ligue-1-Stats: código 403
+[2025-08-27T19:12:36.437+0000] {logging_mixin.py:188} INFO - [limpiar_datos] limpiando possession
+[2025-08-27T19:12:36.438+0000] {logging_mixin.py:188} INFO - FBref error en 2025-2026 [possession]: 'list' object has no attribute 'columns'
+[2025-08-27T19:12:36.438+0000] {logging_mixin.py:188} INFO - 
+Procesando archivo: defense
+[2025-08-27T19:12:36.439+0000] {logging_mixin.py:188} INFO - 
+Procesando: La Liga
+[2025-08-27T19:12:48.142+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/12/2025-2026/defense/2025-2026-La-Liga-Stats
+[2025-08-27T19:12:48.215+0000] {logging_mixin.py:188} INFO - FBref error en La Liga: Error al acceder a https://fbref.com/en/comps/12/2025-2026/defense/2025-2026-La-Liga-Stats: código 403
+[2025-08-27T19:12:48.216+0000] {logging_mixin.py:188} INFO - 
+Procesando: Premier League
+[2025-08-27T19:12:58.217+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/9/2025-2026/defense/2025-2026-Premier-League-Stats
+[2025-08-27T19:12:58.326+0000] {logging_mixin.py:188} INFO - FBref error en Premier League: Error al acceder a https://fbref.com/en/comps/9/2025-2026/defense/2025-2026-Premier-League-Stats: código 403
+[2025-08-27T19:12:58.327+0000] {logging_mixin.py:188} INFO - 
+Procesando: Serie A
+[2025-08-27T19:13:08.327+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/11/2025-2026/defense/2025-2026-Serie-A-Stats
+[2025-08-27T19:13:10.183+0000] {logging_mixin.py:188} INFO - FBref error en Serie A: Error al acceder a https://fbref.com/en/comps/11/2025-2026/defense/2025-2026-Serie-A-Stats: código 403
+[2025-08-27T19:13:10.184+0000] {logging_mixin.py:188} INFO - 
+Procesando: Bundesliga
+[2025-08-27T19:13:20.185+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/20/2025-2026/defense/2025-2026-Bundesliga-Stats
+[2025-08-27T19:13:20.332+0000] {logging_mixin.py:188} INFO - FBref error en Bundesliga: Error al acceder a https://fbref.com/en/comps/20/2025-2026/defense/2025-2026-Bundesliga-Stats: código 403
+[2025-08-27T19:13:20.333+0000] {logging_mixin.py:188} INFO - 
+Procesando: Ligue-1
+[2025-08-27T19:13:30.334+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/13/2025-2026/defense/2025-2026-Ligue-1-Stats
+[2025-08-27T19:13:30.391+0000] {logging_mixin.py:188} INFO - FBref error en Ligue-1: Error al acceder a https://fbref.com/en/comps/13/2025-2026/defense/2025-2026-Ligue-1-Stats: código 403
+[2025-08-27T19:13:30.391+0000] {logging_mixin.py:188} INFO - [limpiar_datos] limpiando defense
+[2025-08-27T19:13:30.392+0000] {logging_mixin.py:188} INFO - FBref error en 2025-2026 [defense]: 'list' object has no attribute 'columns'
+[2025-08-27T19:13:30.392+0000] {logging_mixin.py:188} INFO - 
+Procesando archivo: misc
+[2025-08-27T19:13:30.392+0000] {logging_mixin.py:188} INFO - 
+Procesando: La Liga
+[2025-08-27T19:13:42.177+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/12/2025-2026/misc/2025-2026-La-Liga-Stats
+[2025-08-27T19:13:42.239+0000] {logging_mixin.py:188} INFO - FBref error en La Liga: Error al acceder a https://fbref.com/en/comps/12/2025-2026/misc/2025-2026-La-Liga-Stats: código 403
+[2025-08-27T19:13:42.240+0000] {logging_mixin.py:188} INFO - 
+Procesando: Premier League
+[2025-08-27T19:13:52.241+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/9/2025-2026/misc/2025-2026-Premier-League-Stats
+[2025-08-27T19:13:52.365+0000] {logging_mixin.py:188} INFO - FBref error en Premier League: Error al acceder a https://fbref.com/en/comps/9/2025-2026/misc/2025-2026-Premier-League-Stats: código 403
+[2025-08-27T19:13:52.366+0000] {logging_mixin.py:188} INFO - 
+Procesando: Serie A
+[2025-08-27T19:14:02.366+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/11/2025-2026/misc/2025-2026-Serie-A-Stats
+[2025-08-27T19:14:02.505+0000] {logging_mixin.py:188} INFO - FBref error en Serie A: Error al acceder a https://fbref.com/en/comps/11/2025-2026/misc/2025-2026-Serie-A-Stats: código 403
+[2025-08-27T19:14:02.505+0000] {logging_mixin.py:188} INFO - 
+Procesando: Bundesliga
+[2025-08-27T19:14:14.230+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/20/2025-2026/misc/2025-2026-Bundesliga-Stats
+[2025-08-27T19:14:14.314+0000] {logging_mixin.py:188} INFO - FBref error en Bundesliga: Error al acceder a https://fbref.com/en/comps/20/2025-2026/misc/2025-2026-Bundesliga-Stats: código 403
+[2025-08-27T19:14:14.316+0000] {logging_mixin.py:188} INFO - 
+Procesando: Ligue-1
+[2025-08-27T19:14:24.317+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/13/2025-2026/misc/2025-2026-Ligue-1-Stats
+[2025-08-27T19:14:24.653+0000] {logging_mixin.py:188} INFO - FBref error en Ligue-1: Error al acceder a https://fbref.com/en/comps/13/2025-2026/misc/2025-2026-Ligue-1-Stats: código 403
+[2025-08-27T19:14:24.654+0000] {logging_mixin.py:188} INFO - [limpiar_datos] limpiando misc
+[2025-08-27T19:14:24.655+0000] {logging_mixin.py:188} INFO - FBref error en 2025-2026 [misc]: 'list' object has no attribute 'columns'
+[2025-08-27T19:14:24.656+0000] {logging_mixin.py:188} INFO - 
+Procesando archivo: passing
+[2025-08-27T19:14:24.656+0000] {logging_mixin.py:188} INFO - 
+Procesando: La Liga
+[2025-08-27T19:14:34.657+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/12/2025-2026/passing/2025-2026-La-Liga-Stats
+[2025-08-27T19:14:34.777+0000] {logging_mixin.py:188} INFO - FBref error en La Liga: Error al acceder a https://fbref.com/en/comps/12/2025-2026/passing/2025-2026-La-Liga-Stats: código 403
+[2025-08-27T19:14:34.778+0000] {logging_mixin.py:188} INFO - 
+Procesando: Premier League
+[2025-08-27T19:14:46.491+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/9/2025-2026/passing/2025-2026-Premier-League-Stats
+[2025-08-27T19:14:46.559+0000] {logging_mixin.py:188} INFO - FBref error en Premier League: Error al acceder a https://fbref.com/en/comps/9/2025-2026/passing/2025-2026-Premier-League-Stats: código 403
+[2025-08-27T19:14:46.560+0000] {logging_mixin.py:188} INFO - 
+Procesando: Serie A
+[2025-08-27T19:14:56.561+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/11/2025-2026/passing/2025-2026-Serie-A-Stats
+[2025-08-27T19:14:56.644+0000] {logging_mixin.py:188} INFO - FBref error en Serie A: Error al acceder a https://fbref.com/en/comps/11/2025-2026/passing/2025-2026-Serie-A-Stats: código 403
+[2025-08-27T19:14:56.645+0000] {logging_mixin.py:188} INFO - 
+Procesando: Bundesliga
+[2025-08-27T19:15:06.646+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/20/2025-2026/passing/2025-2026-Bundesliga-Stats
+[2025-08-27T19:15:06.713+0000] {logging_mixin.py:188} INFO - FBref error en Bundesliga: Error al acceder a https://fbref.com/en/comps/20/2025-2026/passing/2025-2026-Bundesliga-Stats: código 403
+[2025-08-27T19:15:06.714+0000] {logging_mixin.py:188} INFO - 
+Procesando: Ligue-1
+[2025-08-27T19:15:18.480+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/13/2025-2026/passing/2025-2026-Ligue-1-Stats
+[2025-08-27T19:15:18.785+0000] {logging_mixin.py:188} INFO - FBref error en Ligue-1: Error al acceder a https://fbref.com/en/comps/13/2025-2026/passing/2025-2026-Ligue-1-Stats: código 403
+[2025-08-27T19:15:18.786+0000] {logging_mixin.py:188} INFO - [limpiar_datos] limpiando passing
+[2025-08-27T19:15:18.787+0000] {logging_mixin.py:188} INFO - FBref error en 2025-2026 [passing]: 'list' object has no attribute 'columns'
+[2025-08-27T19:15:18.788+0000] {logging_mixin.py:188} INFO - 
+Procesando archivo: shooting
+[2025-08-27T19:15:18.788+0000] {logging_mixin.py:188} INFO - 
+Procesando: La Liga
+[2025-08-27T19:15:28.789+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/12/2025-2026/shooting/2025-2026-La-Liga-Stats
+[2025-08-27T19:15:28.861+0000] {logging_mixin.py:188} INFO - FBref error en La Liga: Error al acceder a https://fbref.com/en/comps/12/2025-2026/shooting/2025-2026-La-Liga-Stats: código 403
+[2025-08-27T19:15:28.861+0000] {logging_mixin.py:188} INFO - 
+Procesando: Premier League
+[2025-08-27T19:15:38.862+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/9/2025-2026/shooting/2025-2026-Premier-League-Stats
+[2025-08-27T19:15:38.930+0000] {logging_mixin.py:188} INFO - FBref error en Premier League: Error al acceder a https://fbref.com/en/comps/9/2025-2026/shooting/2025-2026-Premier-League-Stats: código 403
+[2025-08-27T19:15:38.931+0000] {logging_mixin.py:188} INFO - 
+Procesando: Serie A
+[2025-08-27T19:15:50.720+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/11/2025-2026/shooting/2025-2026-Serie-A-Stats
+[2025-08-27T19:15:50.785+0000] {logging_mixin.py:188} INFO - FBref error en Serie A: Error al acceder a https://fbref.com/en/comps/11/2025-2026/shooting/2025-2026-Serie-A-Stats: código 403
+[2025-08-27T19:15:50.787+0000] {logging_mixin.py:188} INFO - 
+Procesando: Bundesliga
+[2025-08-27T19:16:00.787+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/20/2025-2026/shooting/2025-2026-Bundesliga-Stats
+[2025-08-27T19:16:00.944+0000] {logging_mixin.py:188} INFO - FBref error en Bundesliga: Error al acceder a https://fbref.com/en/comps/20/2025-2026/shooting/2025-2026-Bundesliga-Stats: código 403
+[2025-08-27T19:16:00.945+0000] {logging_mixin.py:188} INFO - 
+Procesando: Ligue-1
+[2025-08-27T19:16:10.946+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/13/2025-2026/shooting/2025-2026-Ligue-1-Stats
+[2025-08-27T19:16:11.025+0000] {logging_mixin.py:188} INFO - FBref error en Ligue-1: Error al acceder a https://fbref.com/en/comps/13/2025-2026/shooting/2025-2026-Ligue-1-Stats: código 403
+[2025-08-27T19:16:11.025+0000] {logging_mixin.py:188} INFO - [limpiar_datos] limpiando shooting
+[2025-08-27T19:16:11.027+0000] {logging_mixin.py:188} INFO - FBref error en 2025-2026 [shooting]: 'list' object has no attribute 'columns'
+[2025-08-27T19:16:11.027+0000] {logging_mixin.py:188} INFO - 
+Procesando archivo: keepers
+[2025-08-27T19:16:11.028+0000] {logging_mixin.py:188} INFO - 
+Procesando: La Liga
+[2025-08-27T19:16:22.754+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/12/2025-2026/keepers/2025-2026-La-Liga-Stats
+[2025-08-27T19:16:22.831+0000] {logging_mixin.py:188} INFO - FBref error en La Liga: Error al acceder a https://fbref.com/en/comps/12/2025-2026/keepers/2025-2026-La-Liga-Stats: código 403
+[2025-08-27T19:16:22.833+0000] {logging_mixin.py:188} INFO - 
+Procesando: Premier League
+[2025-08-27T19:16:32.834+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/9/2025-2026/keepers/2025-2026-Premier-League-Stats
+[2025-08-27T19:16:32.891+0000] {logging_mixin.py:188} INFO - FBref error en Premier League: Error al acceder a https://fbref.com/en/comps/9/2025-2026/keepers/2025-2026-Premier-League-Stats: código 403
+[2025-08-27T19:16:32.891+0000] {logging_mixin.py:188} INFO - 
+Procesando: Serie A
+[2025-08-27T19:16:42.892+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/11/2025-2026/keepers/2025-2026-Serie-A-Stats
+[2025-08-27T19:16:43.226+0000] {logging_mixin.py:188} INFO - FBref error en Serie A: Error al acceder a https://fbref.com/en/comps/11/2025-2026/keepers/2025-2026-Serie-A-Stats: código 403
+[2025-08-27T19:16:43.227+0000] {logging_mixin.py:188} INFO - 
+Procesando: Bundesliga
+[2025-08-27T19:16:54.937+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/20/2025-2026/keepers/2025-2026-Bundesliga-Stats
+[2025-08-27T19:16:55.060+0000] {logging_mixin.py:188} INFO - FBref error en Bundesliga: Error al acceder a https://fbref.com/en/comps/20/2025-2026/keepers/2025-2026-Bundesliga-Stats: código 403
+[2025-08-27T19:16:55.061+0000] {logging_mixin.py:188} INFO - 
+Procesando: Ligue-1
+[2025-08-27T19:17:05.062+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/13/2025-2026/keepers/2025-2026-Ligue-1-Stats
+[2025-08-27T19:17:05.451+0000] {logging_mixin.py:188} INFO - FBref error en Ligue-1: Error al acceder a https://fbref.com/en/comps/13/2025-2026/keepers/2025-2026-Ligue-1-Stats: código 403
+[2025-08-27T19:17:05.453+0000] {logging_mixin.py:188} INFO - [limpiar_datos] limpiando keepers
+[2025-08-27T19:17:05.453+0000] {logging_mixin.py:188} INFO - FBref error en 2025-2026 [keepers]: 'list' object has no attribute 'columns'
+[2025-08-27T19:17:05.454+0000] {logging_mixin.py:188} INFO - 
+Procesando archivo: keepersadv
+[2025-08-27T19:17:05.455+0000] {logging_mixin.py:188} INFO - 
+Procesando: La Liga
+[2025-08-27T19:17:15.456+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/12/2025-2026/keepersadv/2025-2026-La-Liga-Stats
+[2025-08-27T19:17:15.754+0000] {logging_mixin.py:188} INFO - FBref error en La Liga: Error al acceder a https://fbref.com/en/comps/12/2025-2026/keepersadv/2025-2026-La-Liga-Stats: código 403
+[2025-08-27T19:17:15.755+0000] {logging_mixin.py:188} INFO - 
+Procesando: Premier League
+[2025-08-27T19:17:27.507+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/9/2025-2026/keepersadv/2025-2026-Premier-League-Stats
+[2025-08-27T19:17:27.849+0000] {logging_mixin.py:188} INFO - FBref error en Premier League: Error al acceder a https://fbref.com/en/comps/9/2025-2026/keepersadv/2025-2026-Premier-League-Stats: código 403
+[2025-08-27T19:17:27.849+0000] {logging_mixin.py:188} INFO - 
+Procesando: Serie A
+[2025-08-27T19:17:37.850+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/11/2025-2026/keepersadv/2025-2026-Serie-A-Stats
+[2025-08-27T19:17:38.000+0000] {logging_mixin.py:188} INFO - FBref error en Serie A: Error al acceder a https://fbref.com/en/comps/11/2025-2026/keepersadv/2025-2026-Serie-A-Stats: código 403
+[2025-08-27T19:17:38.000+0000] {logging_mixin.py:188} INFO - 
+Procesando: Bundesliga
+[2025-08-27T19:17:48.001+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/20/2025-2026/keepersadv/2025-2026-Bundesliga-Stats
+[2025-08-27T19:17:48.107+0000] {logging_mixin.py:188} INFO - FBref error en Bundesliga: Error al acceder a https://fbref.com/en/comps/20/2025-2026/keepersadv/2025-2026-Bundesliga-Stats: código 403
+[2025-08-27T19:17:48.108+0000] {logging_mixin.py:188} INFO - 
+Procesando: Ligue-1
+[2025-08-27T19:17:59.890+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/13/2025-2026/keepersadv/2025-2026-Ligue-1-Stats
+[2025-08-27T19:18:00.186+0000] {logging_mixin.py:188} INFO - FBref error en Ligue-1: Error al acceder a https://fbref.com/en/comps/13/2025-2026/keepersadv/2025-2026-Ligue-1-Stats: código 403
+[2025-08-27T19:18:00.186+0000] {logging_mixin.py:188} INFO - [limpiar_datos] limpiando keepersadv
+[2025-08-27T19:18:00.187+0000] {logging_mixin.py:188} INFO - FBref error en 2025-2026 [keepersadv]: 'list' object has no attribute 'columns'
+[2025-08-27T19:18:00.187+0000] {python.py:237} INFO - Done. Returned value was: None
+[2025-08-27T19:18:00.188+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-08-27T19:18:00.195+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=tfm_weekly_pipeline, task_id=scrape, run_id=manual__2025-08-27T19:10:39+00:00, execution_date=20250827T191039, start_date=20250827T191042, end_date=20250827T191800
+[2025-08-27T19:18:00.228+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2025-08-27T19:18:00.245+0000] {taskinstance.py:3503} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-08-27T19:18:00.247+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

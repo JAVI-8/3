@@ -1,3 +1,14 @@
+x-airflow-env: &airflow-env
+  AIRFLOW__CORE__EXECUTOR: LocalExecutor
+  AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
+  AIRFLOW__CORE__LOAD_EXAMPLES: "False"
+  AIRFLOW__CORE__DEFAULT_TIMEZONE: Europe/Madrid
+  _PIP_ADDITIONAL_REQUIREMENTS: ""
+  AIRFLOW_UID: ${AIRFLOW_UID:-50000}
+  AIRFLOW_GID: ${AIRFLOW_GID:-0}
+  PYSPARK_PYTHON: python
+  SPARK_LOCAL_DIRS: /opt/airflow/.spark
+
 services:
   postgres:
     image: postgres:13
@@ -16,7 +27,8 @@ services:
     restart: unless-stopped
 
   airflow-init:
-    image: ${AIRFLOW_IMAGE:-apache/airflow:2.9.2-python3.11}
+    build: .
+    image: airflow-spark:2.9.2-py3.11
     entrypoint: /bin/bash
     command:
       - -c
@@ -29,36 +41,63 @@ services:
                    --firstname Air --lastname Flow \
                    --role Admin --email admin@example.com"
     environment:
-      AIRFLOW__CORE__EXECUTOR: LocalExecutor
-      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
-      AIRFLOW__CORE__LOAD_EXAMPLES: "False"
-      AIRFLOW__CORE__DEFAULT_TIMEZONE: Europe/Madrid
-      AIRFLOW_UID: ${AIRFLOW_UID:-50000}
-      AIRFLOW_GID: ${AIRFLOW_GID:-0}
-      _PIP_ADDITIONAL_REQUIREMENTS: ""   # No instalar nada aquí
+      <<: *airflow-env
     user: "0:0"
     volumes:
       - ./dags:/opt/airflow/dags
       - ./logs:/opt/airflow/logs
       - ./plugins:/opt/airflow/plugins
       - ./data:/opt/airflow/data
+      - ./repo:/opt/airflow/repo
+      - ./work:/opt/airflow/work
+      - spark-local:/opt/airflow/.spark
     depends_on:
       postgres:
         condition: service_healthy
     restart: "no"
 
   airflow-webserver:
-    image: ${AIRFLOW_IMAGE:-apache/airflow:2.9.2-python3.11}
+    image: airflow-spark:2.9.2-py3.11
     command: webserver
     ports:
       - "8080:8080"
     environment:
-      AIRFLOW__CORE__EXECUTOR: LocalExecutor
-      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
-      AIRFLOW__CORE__LOAD_EXAMPLES: "False"
-      AIRFLOW__CORE__DEFAULT_TIMEZONE: Europe/Madrid
-      _PIP_ADDITIONAL_REQUIREMENTS: ""   # Evita instalar paquetes al arrancar la UI
+      <<: *airflow-env
     volumes:
       - ./dags:/opt/airflow/dags
       - ./logs:/opt/airflow/logs
-      - ./plugins:/opt/airf
+      - ./plugins:/opt/airflow/plugins
+      - ./data:/opt/airflow/data
+      - ./repo:/opt/airflow/repo
+      - ./work:/opt/airflow/work
+      - spark-local:/opt/airflow/.spark
+    depends_on:
+      postgres:
+        condition: service_healthy
+      airflow-init:
+        condition: service_completed_successfully
+    restart: unless-stopped
+
+  airflow-scheduler:
+    image: airflow-spark:2.9.2-py3.11
+    command: scheduler
+    environment:
+      <<: *airflow-env
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./logs:/opt/airflow/logs
+      - ./plugins:/opt/airflow/plugins
+      - ./data:/opt/airflow/data
+      - ./repo:/opt/airflow/repo
+      - ./work:/opt/airflow/work
+      - spark-local:/opt/airflow/.spark
+    depends_on:
+      postgres:
+        condition: service_healthy
+      airflow-init:
+        condition: service_completed_successfully
+    restart: unless-stopped
+
+volumes:
+  postgres-data:
+  spark-local:
