@@ -1,0 +1,201 @@
+[2025-09-09T19:24:12.300+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-09-09T19:24:12.350+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: tfm_weekly_pipeline.scrape manual__2025-09-09T00:00:00+00:00 [queued]>
+[2025-09-09T19:24:12.364+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: tfm_weekly_pipeline.scrape manual__2025-09-09T00:00:00+00:00 [queued]>
+[2025-09-09T19:24:12.365+0000] {taskinstance.py:2306} INFO - Starting attempt 2 of 2
+[2025-09-09T19:24:12.389+0000] {taskinstance.py:2330} INFO - Executing <Task(_PythonDecoratedOperator): scrape> on 2025-09-09 00:00:00+00:00
+[2025-09-09T19:24:12.402+0000] {standard_task_runner.py:63} INFO - Started process 292 to run task
+[2025-09-09T19:24:12.409+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'tfm_weekly_pipeline', 'scrape', 'manual__2025-09-09T00:00:00+00:00', '--job-id', '91', '--raw', '--subdir', 'DAGS_FOLDER/tfm_market_value_dag.py', '--cfg-path', '/tmp/tmpu0h3dvnj']
+[2025-09-09T19:24:12.413+0000] {standard_task_runner.py:91} INFO - Job 91: Subtask scrape
+[2025-09-09T19:24:12.515+0000] {task_command.py:426} INFO - Running <TaskInstance: tfm_weekly_pipeline.scrape manual__2025-09-09T00:00:00+00:00 [running]> on host 2eba43985c56
+[2025-09-09T19:24:12.719+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='tfm' AIRFLOW_CTX_DAG_ID='tfm_weekly_pipeline' AIRFLOW_CTX_TASK_ID='scrape' AIRFLOW_CTX_EXECUTION_DATE='2025-09-09T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-09-09T00:00:00+00:00'
+[2025-09-09T19:24:12.721+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-09-09T19:24:12.724+0000] {logging_mixin.py:188} INFO - 
+Procesando archivo: stats
+[2025-09-09T19:24:12.724+0000] {logging_mixin.py:188} INFO - 
+Procesando: La Liga
+[2025-09-09T19:24:22.747+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/12/2024-2025/stats/2024-2025-La-Liga-Stats
+[2025-09-09T19:24:23.447+0000] {logging_mixin.py:188} INFO - FBref error en La Liga: Error al acceder a https://fbref.com/en/comps/12/2024-2025/stats/2024-2025-La-Liga-Stats: código 403
+[2025-09-09T19:24:23.448+0000] {logging_mixin.py:188} INFO - 
+Procesando: Premier League
+[2025-09-09T19:24:33.450+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/9/2024-2025/stats/2024-2025-Premier-League-Stats
+[2025-09-09T19:24:33.536+0000] {logging_mixin.py:188} INFO - FBref error en Premier League: Error al acceder a https://fbref.com/en/comps/9/2024-2025/stats/2024-2025-Premier-League-Stats: código 403
+[2025-09-09T19:24:33.537+0000] {logging_mixin.py:188} INFO - 
+Procesando: Serie A
+[2025-09-09T19:24:43.538+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/11/2024-2025/stats/2024-2025-Serie-A-Stats
+[2025-09-09T19:24:43.593+0000] {logging_mixin.py:188} INFO - FBref error en Serie A: Error al acceder a https://fbref.com/en/comps/11/2024-2025/stats/2024-2025-Serie-A-Stats: código 403
+[2025-09-09T19:24:43.594+0000] {logging_mixin.py:188} INFO - 
+Procesando: Bundesliga
+[2025-09-09T19:24:53.616+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/20/2024-2025/stats/2024-2025-Bundesliga-Stats
+[2025-09-09T19:24:53.717+0000] {logging_mixin.py:188} INFO - FBref error en Bundesliga: Error al acceder a https://fbref.com/en/comps/20/2024-2025/stats/2024-2025-Bundesliga-Stats: código 403
+[2025-09-09T19:24:53.719+0000] {logging_mixin.py:188} INFO - 
+Procesando: Ligue-1
+[2025-09-09T19:25:03.720+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/13/2024-2025/stats/2024-2025-Ligue-1-Stats
+[2025-09-09T19:25:03.854+0000] {logging_mixin.py:188} INFO - FBref error en Ligue-1: Error al acceder a https://fbref.com/en/comps/13/2024-2025/stats/2024-2025-Ligue-1-Stats: código 403
+[2025-09-09T19:25:03.855+0000] {logging_mixin.py:188} INFO - FBref error en 2024-2025 [stats]: cannot access local variable 'temporada' where it is not associated with a value
+[2025-09-09T19:25:03.856+0000] {logging_mixin.py:188} INFO - 
+Procesando archivo: possession
+[2025-09-09T19:25:03.858+0000] {logging_mixin.py:188} INFO - 
+Procesando: La Liga
+[2025-09-09T19:25:13.859+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/12/2024-2025/possession/2024-2025-La-Liga-Stats
+[2025-09-09T19:25:13.915+0000] {logging_mixin.py:188} INFO - FBref error en La Liga: Error al acceder a https://fbref.com/en/comps/12/2024-2025/possession/2024-2025-La-Liga-Stats: código 403
+[2025-09-09T19:25:13.916+0000] {logging_mixin.py:188} INFO - 
+Procesando: Premier League
+[2025-09-09T19:25:23.944+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/9/2024-2025/possession/2024-2025-Premier-League-Stats
+[2025-09-09T19:25:24.054+0000] {logging_mixin.py:188} INFO - FBref error en Premier League: Error al acceder a https://fbref.com/en/comps/9/2024-2025/possession/2024-2025-Premier-League-Stats: código 403
+[2025-09-09T19:25:24.056+0000] {logging_mixin.py:188} INFO - 
+Procesando: Serie A
+[2025-09-09T19:25:34.058+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/11/2024-2025/possession/2024-2025-Serie-A-Stats
+[2025-09-09T19:25:34.218+0000] {logging_mixin.py:188} INFO - FBref error en Serie A: Error al acceder a https://fbref.com/en/comps/11/2024-2025/possession/2024-2025-Serie-A-Stats: código 403
+[2025-09-09T19:25:34.220+0000] {logging_mixin.py:188} INFO - 
+Procesando: Bundesliga
+[2025-09-09T19:25:44.221+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/20/2024-2025/possession/2024-2025-Bundesliga-Stats
+[2025-09-09T19:25:44.321+0000] {logging_mixin.py:188} INFO - FBref error en Bundesliga: Error al acceder a https://fbref.com/en/comps/20/2024-2025/possession/2024-2025-Bundesliga-Stats: código 403
+[2025-09-09T19:25:44.322+0000] {logging_mixin.py:188} INFO - 
+Procesando: Ligue-1
+[2025-09-09T19:25:54.333+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/13/2024-2025/possession/2024-2025-Ligue-1-Stats
+[2025-09-09T19:25:54.622+0000] {logging_mixin.py:188} INFO - FBref error en Ligue-1: Error al acceder a https://fbref.com/en/comps/13/2024-2025/possession/2024-2025-Ligue-1-Stats: código 403
+[2025-09-09T19:25:54.623+0000] {logging_mixin.py:188} INFO - FBref error en 2024-2025 [possession]: cannot access local variable 'temporada' where it is not associated with a value
+[2025-09-09T19:25:54.624+0000] {logging_mixin.py:188} INFO - 
+Procesando archivo: defense
+[2025-09-09T19:25:54.625+0000] {logging_mixin.py:188} INFO - 
+Procesando: La Liga
+[2025-09-09T19:26:04.626+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/12/2024-2025/defense/2024-2025-La-Liga-Stats
+[2025-09-09T19:26:04.692+0000] {logging_mixin.py:188} INFO - FBref error en La Liga: Error al acceder a https://fbref.com/en/comps/12/2024-2025/defense/2024-2025-La-Liga-Stats: código 403
+[2025-09-09T19:26:04.693+0000] {logging_mixin.py:188} INFO - 
+Procesando: Premier League
+[2025-09-09T19:26:14.694+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/9/2024-2025/defense/2024-2025-Premier-League-Stats
+[2025-09-09T19:26:14.758+0000] {logging_mixin.py:188} INFO - FBref error en Premier League: Error al acceder a https://fbref.com/en/comps/9/2024-2025/defense/2024-2025-Premier-League-Stats: código 403
+[2025-09-09T19:26:14.759+0000] {logging_mixin.py:188} INFO - 
+Procesando: Serie A
+[2025-09-09T19:26:24.779+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/11/2024-2025/defense/2024-2025-Serie-A-Stats
+[2025-09-09T19:26:24.880+0000] {logging_mixin.py:188} INFO - FBref error en Serie A: Error al acceder a https://fbref.com/en/comps/11/2024-2025/defense/2024-2025-Serie-A-Stats: código 403
+[2025-09-09T19:26:24.884+0000] {logging_mixin.py:188} INFO - 
+Procesando: Bundesliga
+[2025-09-09T19:26:34.886+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/20/2024-2025/defense/2024-2025-Bundesliga-Stats
+[2025-09-09T19:26:34.982+0000] {logging_mixin.py:188} INFO - FBref error en Bundesliga: Error al acceder a https://fbref.com/en/comps/20/2024-2025/defense/2024-2025-Bundesliga-Stats: código 403
+[2025-09-09T19:26:34.984+0000] {logging_mixin.py:188} INFO - 
+Procesando: Ligue-1
+[2025-09-09T19:26:44.985+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/13/2024-2025/defense/2024-2025-Ligue-1-Stats
+[2025-09-09T19:26:45.060+0000] {logging_mixin.py:188} INFO - FBref error en Ligue-1: Error al acceder a https://fbref.com/en/comps/13/2024-2025/defense/2024-2025-Ligue-1-Stats: código 403
+[2025-09-09T19:26:45.061+0000] {logging_mixin.py:188} INFO - FBref error en 2024-2025 [defense]: cannot access local variable 'temporada' where it is not associated with a value
+[2025-09-09T19:26:45.061+0000] {logging_mixin.py:188} INFO - 
+Procesando archivo: misc
+[2025-09-09T19:26:45.062+0000] {logging_mixin.py:188} INFO - 
+Procesando: La Liga
+[2025-09-09T19:26:55.090+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/12/2024-2025/misc/2024-2025-La-Liga-Stats
+[2025-09-09T19:26:55.172+0000] {logging_mixin.py:188} INFO - FBref error en La Liga: Error al acceder a https://fbref.com/en/comps/12/2024-2025/misc/2024-2025-La-Liga-Stats: código 403
+[2025-09-09T19:26:55.173+0000] {logging_mixin.py:188} INFO - 
+Procesando: Premier League
+[2025-09-09T19:27:05.174+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/9/2024-2025/misc/2024-2025-Premier-League-Stats
+[2025-09-09T19:27:05.251+0000] {logging_mixin.py:188} INFO - FBref error en Premier League: Error al acceder a https://fbref.com/en/comps/9/2024-2025/misc/2024-2025-Premier-League-Stats: código 403
+[2025-09-09T19:27:05.252+0000] {logging_mixin.py:188} INFO - 
+Procesando: Serie A
+[2025-09-09T19:27:15.253+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/11/2024-2025/misc/2024-2025-Serie-A-Stats
+[2025-09-09T19:27:15.416+0000] {logging_mixin.py:188} INFO - FBref error en Serie A: Error al acceder a https://fbref.com/en/comps/11/2024-2025/misc/2024-2025-Serie-A-Stats: código 403
+[2025-09-09T19:27:15.418+0000] {logging_mixin.py:188} INFO - 
+Procesando: Bundesliga
+[2025-09-09T19:27:25.446+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/20/2024-2025/misc/2024-2025-Bundesliga-Stats
+[2025-09-09T19:27:25.609+0000] {logging_mixin.py:188} INFO - FBref error en Bundesliga: Error al acceder a https://fbref.com/en/comps/20/2024-2025/misc/2024-2025-Bundesliga-Stats: código 403
+[2025-09-09T19:27:25.611+0000] {logging_mixin.py:188} INFO - 
+Procesando: Ligue-1
+[2025-09-09T19:27:35.611+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/13/2024-2025/misc/2024-2025-Ligue-1-Stats
+[2025-09-09T19:27:35.672+0000] {logging_mixin.py:188} INFO - FBref error en Ligue-1: Error al acceder a https://fbref.com/en/comps/13/2024-2025/misc/2024-2025-Ligue-1-Stats: código 403
+[2025-09-09T19:27:35.673+0000] {logging_mixin.py:188} INFO - FBref error en 2024-2025 [misc]: cannot access local variable 'temporada' where it is not associated with a value
+[2025-09-09T19:27:35.673+0000] {logging_mixin.py:188} INFO - 
+Procesando archivo: passing
+[2025-09-09T19:27:35.674+0000] {logging_mixin.py:188} INFO - 
+Procesando: La Liga
+[2025-09-09T19:27:45.674+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/12/2024-2025/passing/2024-2025-La-Liga-Stats
+[2025-09-09T19:27:45.793+0000] {logging_mixin.py:188} INFO - FBref error en La Liga: Error al acceder a https://fbref.com/en/comps/12/2024-2025/passing/2024-2025-La-Liga-Stats: código 403
+[2025-09-09T19:27:45.793+0000] {logging_mixin.py:188} INFO - 
+Procesando: Premier League
+[2025-09-09T19:27:55.814+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/9/2024-2025/passing/2024-2025-Premier-League-Stats
+[2025-09-09T19:27:55.884+0000] {logging_mixin.py:188} INFO - FBref error en Premier League: Error al acceder a https://fbref.com/en/comps/9/2024-2025/passing/2024-2025-Premier-League-Stats: código 403
+[2025-09-09T19:27:55.885+0000] {logging_mixin.py:188} INFO - 
+Procesando: Serie A
+[2025-09-09T19:28:05.886+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/11/2024-2025/passing/2024-2025-Serie-A-Stats
+[2025-09-09T19:28:05.960+0000] {logging_mixin.py:188} INFO - FBref error en Serie A: Error al acceder a https://fbref.com/en/comps/11/2024-2025/passing/2024-2025-Serie-A-Stats: código 403
+[2025-09-09T19:28:05.961+0000] {logging_mixin.py:188} INFO - 
+Procesando: Bundesliga
+[2025-09-09T19:28:15.962+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/20/2024-2025/passing/2024-2025-Bundesliga-Stats
+[2025-09-09T19:28:16.039+0000] {logging_mixin.py:188} INFO - FBref error en Bundesliga: Error al acceder a https://fbref.com/en/comps/20/2024-2025/passing/2024-2025-Bundesliga-Stats: código 403
+[2025-09-09T19:28:16.040+0000] {logging_mixin.py:188} INFO - 
+Procesando: Ligue-1
+[2025-09-09T19:28:26.066+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/13/2024-2025/passing/2024-2025-Ligue-1-Stats
+[2025-09-09T19:28:26.151+0000] {logging_mixin.py:188} INFO - FBref error en Ligue-1: Error al acceder a https://fbref.com/en/comps/13/2024-2025/passing/2024-2025-Ligue-1-Stats: código 403
+[2025-09-09T19:28:26.152+0000] {logging_mixin.py:188} INFO - FBref error en 2024-2025 [passing]: cannot access local variable 'temporada' where it is not associated with a value
+[2025-09-09T19:28:26.153+0000] {logging_mixin.py:188} INFO - 
+Procesando archivo: shooting
+[2025-09-09T19:28:26.154+0000] {logging_mixin.py:188} INFO - 
+Procesando: La Liga
+[2025-09-09T19:28:36.155+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/12/2024-2025/shooting/2024-2025-La-Liga-Stats
+[2025-09-09T19:28:36.232+0000] {logging_mixin.py:188} INFO - FBref error en La Liga: Error al acceder a https://fbref.com/en/comps/12/2024-2025/shooting/2024-2025-La-Liga-Stats: código 403
+[2025-09-09T19:28:36.233+0000] {logging_mixin.py:188} INFO - 
+Procesando: Premier League
+[2025-09-09T19:28:46.234+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/9/2024-2025/shooting/2024-2025-Premier-League-Stats
+[2025-09-09T19:28:46.304+0000] {logging_mixin.py:188} INFO - FBref error en Premier League: Error al acceder a https://fbref.com/en/comps/9/2024-2025/shooting/2024-2025-Premier-League-Stats: código 403
+[2025-09-09T19:28:46.305+0000] {logging_mixin.py:188} INFO - 
+Procesando: Serie A
+[2025-09-09T19:28:56.339+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/11/2024-2025/shooting/2024-2025-Serie-A-Stats
+[2025-09-09T19:28:56.395+0000] {logging_mixin.py:188} INFO - FBref error en Serie A: Error al acceder a https://fbref.com/en/comps/11/2024-2025/shooting/2024-2025-Serie-A-Stats: código 403
+[2025-09-09T19:28:56.396+0000] {logging_mixin.py:188} INFO - 
+Procesando: Bundesliga
+[2025-09-09T19:29:06.397+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/20/2024-2025/shooting/2024-2025-Bundesliga-Stats
+[2025-09-09T19:29:06.494+0000] {logging_mixin.py:188} INFO - FBref error en Bundesliga: Error al acceder a https://fbref.com/en/comps/20/2024-2025/shooting/2024-2025-Bundesliga-Stats: código 403
+[2025-09-09T19:29:06.495+0000] {logging_mixin.py:188} INFO - 
+Procesando: Ligue-1
+[2025-09-09T19:29:16.496+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/13/2024-2025/shooting/2024-2025-Ligue-1-Stats
+[2025-09-09T19:29:16.579+0000] {logging_mixin.py:188} INFO - FBref error en Ligue-1: Error al acceder a https://fbref.com/en/comps/13/2024-2025/shooting/2024-2025-Ligue-1-Stats: código 403
+[2025-09-09T19:29:16.580+0000] {logging_mixin.py:188} INFO - FBref error en 2024-2025 [shooting]: cannot access local variable 'temporada' where it is not associated with a value
+[2025-09-09T19:29:16.581+0000] {logging_mixin.py:188} INFO - 
+Procesando archivo: keepers
+[2025-09-09T19:29:16.582+0000] {logging_mixin.py:188} INFO - 
+Procesando: La Liga
+[2025-09-09T19:29:26.613+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/12/2024-2025/keepers/2024-2025-La-Liga-Stats
+[2025-09-09T19:29:26.748+0000] {logging_mixin.py:188} INFO - FBref error en La Liga: Error al acceder a https://fbref.com/en/comps/12/2024-2025/keepers/2024-2025-La-Liga-Stats: código 403
+[2025-09-09T19:29:26.749+0000] {logging_mixin.py:188} INFO - 
+Procesando: Premier League
+[2025-09-09T19:29:36.750+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/9/2024-2025/keepers/2024-2025-Premier-League-Stats
+[2025-09-09T19:29:36.831+0000] {logging_mixin.py:188} INFO - FBref error en Premier League: Error al acceder a https://fbref.com/en/comps/9/2024-2025/keepers/2024-2025-Premier-League-Stats: código 403
+[2025-09-09T19:29:36.832+0000] {logging_mixin.py:188} INFO - 
+Procesando: Serie A
+[2025-09-09T19:29:46.833+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/11/2024-2025/keepers/2024-2025-Serie-A-Stats
+[2025-09-09T19:29:46.905+0000] {logging_mixin.py:188} INFO - FBref error en Serie A: Error al acceder a https://fbref.com/en/comps/11/2024-2025/keepers/2024-2025-Serie-A-Stats: código 403
+[2025-09-09T19:29:46.906+0000] {logging_mixin.py:188} INFO - 
+Procesando: Bundesliga
+[2025-09-09T19:29:56.923+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/20/2024-2025/keepers/2024-2025-Bundesliga-Stats
+[2025-09-09T19:29:56.995+0000] {logging_mixin.py:188} INFO - FBref error en Bundesliga: Error al acceder a https://fbref.com/en/comps/20/2024-2025/keepers/2024-2025-Bundesliga-Stats: código 403
+[2025-09-09T19:29:56.997+0000] {logging_mixin.py:188} INFO - 
+Procesando: Ligue-1
+[2025-09-09T19:30:06.998+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/13/2024-2025/keepers/2024-2025-Ligue-1-Stats
+[2025-09-09T19:30:07.104+0000] {logging_mixin.py:188} INFO - FBref error en Ligue-1: Error al acceder a https://fbref.com/en/comps/13/2024-2025/keepers/2024-2025-Ligue-1-Stats: código 403
+[2025-09-09T19:30:07.106+0000] {logging_mixin.py:188} INFO - FBref error en 2024-2025 [keepers]: cannot access local variable 'temporada' where it is not associated with a value
+[2025-09-09T19:30:07.107+0000] {logging_mixin.py:188} INFO - 
+Procesando archivo: keepersadv
+[2025-09-09T19:30:07.108+0000] {logging_mixin.py:188} INFO - 
+Procesando: La Liga
+[2025-09-09T19:30:17.109+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/12/2024-2025/keepersadv/2024-2025-La-Liga-Stats
+[2025-09-09T19:30:18.209+0000] {logging_mixin.py:188} INFO - FBref error en La Liga: Error al acceder a https://fbref.com/en/comps/12/2024-2025/keepersadv/2024-2025-La-Liga-Stats: código 403
+[2025-09-09T19:30:18.211+0000] {logging_mixin.py:188} INFO - 
+Procesando: Premier League
+[2025-09-09T19:30:28.187+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/9/2024-2025/keepersadv/2024-2025-Premier-League-Stats
+[2025-09-09T19:30:29.459+0000] {logging_mixin.py:188} INFO - FBref error en Premier League: Error al acceder a https://fbref.com/en/comps/9/2024-2025/keepersadv/2024-2025-Premier-League-Stats: código 403
+[2025-09-09T19:30:29.460+0000] {logging_mixin.py:188} INFO - 
+Procesando: Serie A
+[2025-09-09T19:30:39.461+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/11/2024-2025/keepersadv/2024-2025-Serie-A-Stats
+[2025-09-09T19:30:39.531+0000] {logging_mixin.py:188} INFO - FBref error en Serie A: Error al acceder a https://fbref.com/en/comps/11/2024-2025/keepersadv/2024-2025-Serie-A-Stats: código 403
+[2025-09-09T19:30:39.532+0000] {logging_mixin.py:188} INFO - 
+Procesando: Bundesliga
+[2025-09-09T19:30:49.533+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/20/2024-2025/keepersadv/2024-2025-Bundesliga-Stats
+[2025-09-09T19:30:49.602+0000] {logging_mixin.py:188} INFO - FBref error en Bundesliga: Error al acceder a https://fbref.com/en/comps/20/2024-2025/keepersadv/2024-2025-Bundesliga-Stats: código 403
+[2025-09-09T19:30:49.603+0000] {logging_mixin.py:188} INFO - 
+Procesando: Ligue-1
+[2025-09-09T19:30:59.595+0000] {logging_mixin.py:188} INFO - https://fbref.com/en/comps/13/2024-2025/keepersadv/2024-2025-Ligue-1-Stats
+[2025-09-09T19:30:59.666+0000] {logging_mixin.py:188} INFO - FBref error en Ligue-1: Error al acceder a https://fbref.com/en/comps/13/2024-2025/keepersadv/2024-2025-Ligue-1-Stats: código 403
+[2025-09-09T19:30:59.667+0000] {logging_mixin.py:188} INFO - FBref error en 2024-2025 [keepersadv]: cannot access local variable 'temporada' where it is not associated with a value
+[2025-09-09T19:30:59.668+0000] {python.py:237} INFO - Done. Returned value was: None
+[2025-09-09T19:30:59.669+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-09-09T19:30:59.677+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=tfm_weekly_pipeline, task_id=scrape, run_id=manual__2025-09-09T00:00:00+00:00, execution_date=20250909T000000, start_date=20250909T192412, end_date=20250909T193059
+[2025-09-09T19:30:59.706+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2025-09-09T19:30:59.727+0000] {taskinstance.py:3503} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-09-09T19:30:59.730+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

@@ -1,0 +1,56 @@
+[2025-09-09T18:40:04.428+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-09-09T18:40:04.479+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: tfm_weekly_pipeline.merge __airflow_temporary_run_2025-09-09T18:22:45.544594+00:00__ [queued]>
+[2025-09-09T18:40:04.495+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: tfm_weekly_pipeline.merge __airflow_temporary_run_2025-09-09T18:22:45.544594+00:00__ [queued]>
+[2025-09-09T18:40:04.497+0000] {taskinstance.py:2306} INFO - Starting attempt 2 of 2
+[2025-09-09T18:40:04.521+0000] {taskinstance.py:2330} INFO - Executing <Task(_PythonDecoratedOperator): merge> on 2025-09-09 01:00:00+00:00
+[2025-09-09T18:40:04.529+0000] {standard_task_runner.py:63} INFO - Started process 631 to run task
+[2025-09-09T18:40:04.536+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'tfm_weekly_pipeline', 'merge', '__***_temporary_run_2025-09-09T18:22:45.544594+00:00__', '--job-id', '88', '--raw', '--subdir', 'DAGS_FOLDER/tfm_market_value_dag.py', '--cfg-path', '/tmp/tmpnbw1lcs6']
+[2025-09-09T18:40:04.540+0000] {standard_task_runner.py:91} INFO - Job 88: Subtask merge
+[2025-09-09T18:40:04.633+0000] {task_command.py:426} INFO - Running <TaskInstance: tfm_weekly_pipeline.merge __airflow_temporary_run_2025-09-09T18:22:45.544594+00:00__ [running]> on host 2eba43985c56
+[2025-09-09T18:40:04.798+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='tfm' AIRFLOW_CTX_DAG_ID='tfm_weekly_pipeline' AIRFLOW_CTX_TASK_ID='merge' AIRFLOW_CTX_EXECUTION_DATE='2025-09-09T01:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='__***_temporary_run_2025-09-09T18:22:45.544594+00:00__'
+[2025-09-09T18:40:04.800+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-09-09T18:40:11.167+0000] {logging_mixin.py:188} INFO - Uniendo los datasets...
+[2025-09-09T18:40:22.448+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-09-09T18:40:22.449+0000] {taskinstance.py:2905} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/baseoperator.py", line 401, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/decorators/base.py", line 265, in execute
+    return_value = super().execute(context)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/baseoperator.py", line 401, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/operators/python.py", line 235, in execute
+    return_value = self.execute_callable()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/operators/python.py", line 252, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/airflow/dags/tfm_market_value_dag.py", line 80, in merge
+    return spark_merge_and_convert()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/airflow/repo/scripts/pipeline_api.py", line 36, in spark_merge_and_convert
+    return procesar()
+           ^^^^^^^^^^
+  File "/opt/airflow/repo/spark_pipeline/procesamiento_spark.py", line 189, in procesar
+    df = union_datasets(spark)
+         ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/airflow/repo/spark_pipeline/procesamiento_spark.py", line 128, in union_datasets
+    "mercado": spark.read.option("header", True).csv(DATA / "mercado.csv"),
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/pyspark/sql/readwriter.py", line 763, in csv
+    raise PySparkTypeError(
+pyspark.errors.exceptions.base.PySparkTypeError: [NOT_STR_OR_LIST_OF_RDD] Argument `path` should be a str or list[RDD], got PosixPath.
+[2025-09-09T18:40:22.479+0000] {taskinstance.py:1206} INFO - Marking task as FAILED. dag_id=tfm_weekly_pipeline, task_id=merge, run_id=__***_temporary_run_2025-09-09T18:22:45.544594+00:00__, execution_date=20250909T010000, start_date=20250909T184004, end_date=20250909T184022
+[2025-09-09T18:40:22.502+0000] {standard_task_runner.py:110} ERROR - Failed to execute job 88 for task merge ([NOT_STR_OR_LIST_OF_RDD] Argument `path` should be a str or list[RDD], got PosixPath.; 631)
+[2025-09-09T18:40:22.536+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 1
+[2025-09-09T18:40:22.577+0000] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-09-09T18:40:22.587+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

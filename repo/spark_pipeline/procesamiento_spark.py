@@ -3,13 +3,16 @@ from pyspark.sql.functions import col, round, when
 from pyspark import SparkConf
 # Cargar CSV unificados
 from pathlib import Path
-
 from pyspark.sql import functions as F
 from pyspark.sql.window import Window
+import os
 
+
+from datetime import date
 # --- Rutas dentro del contenedor ---
-DATA= Path("/opt/airflow/data/v1")
-WORK_DIR = Path("/opt/airflow/v1")
+DATA = Path(os.environ.get("DATA_DIR", "/opt/airflow/data/v2"))
+WORK_DIR = Path(os.environ.get("WORK_DIR", "/opt/airflow/work"))
+
 WORK_DIR.mkdir(parents=True, exist_ok=True)
 
 #varibles a normalizar
@@ -52,7 +55,6 @@ def crear_sesion():
     return spark
 
 #iguala los nombres de los equipos de transfermarht a las de fbref ya que son distintos
-from pyspark.sql import functions as F, Window
 
 def map_squads_by_league(df_tm, df_fb, max_frac=0.5, max_abs=2):
     #unicos por liga y temporada
@@ -123,7 +125,7 @@ def union_datasets(spark):
         "passing": spark.read.option("header", True).csv(str(DATA/ "passing.csv")),
         "possession": spark.read.option("header", True).csv(str(DATA/ "possession.csv")),
         "shooting":spark.read.option("header", True).csv(str(DATA/ "shooting.csv")),
-        "mercado": spark.read.option("header", True).csv(DATA / "mercado.csv"),
+        "mercado": spark.read.option("header", True).csv(str(DATA / "mercado.csv")),
         "keepers": spark.read.option("header", True).csv(str(DATA/ "keepers.csv")),
         "keepersadv": spark.read.option("header", True).csv(str(DATA/ "keepersadv.csv"))
     }
@@ -142,11 +144,17 @@ def union_datasets(spark):
 
 #guarda todo el df de los datos unidos
 def guardar_en_parquet(df):
-    output = str(WORK_DIR / "players_clean.parquet")
     
-    df.write.mode("overwrite").parquet(output)
+    snapshot = date.today().isoformat()
+    df = df.withColumn("snapshot_date", F.lit(snapshot))
+    
+    out_dir = WORK_DIR / "parquets" / "players" / snapshot
+    out_dir.mkdir(parents=True, exist_ok=True)
+    
+    df.write.mode("overwrite").parquet(str(out_dir / ".parquet"))
     print("Datos procesados y exportados en formato Parquet.")
-    return output
+    
+    return str(out_dir / ".parquet")
 #normalizar por 90 min 
 def normalizar_por_90_min(df):
     columnas_validas = [c for c in variables_por_90 if c in df.columns]
@@ -158,8 +166,6 @@ def normalizar_por_90_min(df):
             )
         )
     return df
-
-from pyspark.sql import functions as F
 
 def cast_all_numeric_to_double(df):
     exclude=("Player","Squad","Season","Liga","Pos")

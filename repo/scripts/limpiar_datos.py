@@ -131,7 +131,7 @@ def limpiar(df: pd.DataFrame, carpeta: str) -> Path:
     if carpeta == "mercado":
         df = limpiar_ligas_transfermarkt(df)
    #out_path = DATA_DIR / f"{carpeta}.csv"
-    out_path = f"data/v2/{carpeta}.csv"
+    out_path = f"data/v3/{carpeta}.csv"
     df.to_csv(out_path, index=False)
     return out_path
 

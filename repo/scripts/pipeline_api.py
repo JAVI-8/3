@@ -7,7 +7,7 @@ WORK = Path("/opt/airflow/work")
 WORK.mkdir(parents=True, exist_ok=True)
 
 HIST = WORK / "historico_players.parquet"
-
+input = "ruta"
 # Que Python encuentre tus módulos
 '''if REPO not in sys.path:
     sys.path.append(REPO)
@@ -25,7 +25,8 @@ def run_scraping_pipeline(season: str = "2025-2026", ejecutar_r: bool = False) -
     """
     El controlador: scrapea -> limpia -> guarda CSVs por liga/tipo (y mercado en R si activar).
     """
-    ctrl.run(season=season, ejecutar_r=ejecutar_r)
+    
+    return ctrl.run(season=season, ejecutar_r=ejecutar_r)
 
 # ===== 2) Spark: unir CSVs ya limpios y dejar Parquet 'clean' =====
 def spark_merge_and_convert() -> str:
@@ -40,10 +41,8 @@ def spark_compute_scores(input_parquet,output_parquet) -> str:
     """
     Llama a tu script Spark que calcula performance_score y penalty_score y guarda Parquet final.
     """
-    inp = input_parquet or str(WORK / "players_clean.parquet")
-    out = output_parquet or str(WORK / "players_scored.parquet")
-    calcular(input=inp, output=out)
-    return out
+    calcular(input=input_parquet, output=output_parquet)
+    return output_parquet
 
 # ===== 4) (Opcional) Append + dedupe al histórico =====
 def append_to_history(new_parquet: str) -> str:

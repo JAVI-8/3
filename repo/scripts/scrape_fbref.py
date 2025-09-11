@@ -1,67 +1,111 @@
 import requests
+import time
+import random
 from bs4 import BeautifulSoup, Comment
 import pandas as pd
 from io import StringIO
-import time
-from functools import reduce
-ids_types = [("stats_standard", "stats"), ("stats_possession", "possession"), ("stats_defense", "defense"), ("stats_misc", "misc"), ("stats_passing", "passing"), ("stats_shooting", "shooting"), ("stats_keeper", "keepers"), ("stats_keeper_adv", "keepersadv")]
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0 Safari/537.36"
-}
-def extraer_tabla_jugadores(url, table_id):
-    response = requests.get(url, headers=HEADERS)
-    if response.status_code != 200:
-        raise ConnectionError(f"Error al acceder a {url}: código {response.status_code}")
-    
-    soup = BeautifulSoup(response.content, "lxml")
-    comentarios = soup.find_all(string=lambda text: isinstance(text, Comment))
+from urllib3.util.retry import Retry
+from requests.adapters import HTTPAdapter
 
-    for c in comentarios:
+HEADERS = {
+    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                   "AppleWebKit/537.36 (KHTML, like Gecko) "
+                   "Chrome/124.0.0.0 Safari/537.36"),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
+    "Referer": "https://fbref.com/",
+}
+
+def make_session() -> requests.Session:
+    s = requests.Session()
+    s.headers.update(HEADERS)
+    retry = Retry(
+        total=5, backoff_factor=1.2,
+        status_forcelist=[429, 500, 502, 503, 504],
+        allowed_methods=["HEAD", "GET", "OPTIONS"],
+        raise_on_status=False,
+    )
+    s.mount("https://", HTTPAdapter(max_retries=retry))
+    s.mount("http://", HTTPAdapter(max_retries=retry))
+    return s
+
+def extraer_tabla_desde_html(html: str, table_id: str) -> pd.DataFrame:
+    soup = BeautifulSoup(html, "lxml")
+    # FBref suele meter las tablas dentro de comentarios
+    for c in soup.find_all(string=lambda t: isinstance(t, Comment)):
         if table_id in c:
-            soup_comentario = BeautifulSoup(c, "lxml")
-            tabla = soup_comentario.find("table", {"id": table_id})
-            if tabla:
+            tabla = BeautifulSoup(c, "lxml").find("table", {"id": table_id})
+            if tabla is not None:
                 df = pd.read_html(StringIO(str(tabla)), header=1)[0]
                 if "Rk" in df.columns:
-                    df = df[df["Rk"].apply(lambda x: str(x).isdigit())]
-                return df
+                    df = df[df["Rk"].astype(str).str.isdigit()]
+                return df.reset_index(drop=True)
+    raise ValueError(f"No se encontró la tabla '{table_id}' en el HTML")
 
-    raise ValueError(f"No se encontró la tabla {table_id} en {url}")
+def build_url(competition_id: int, path_slug: str, liga_slug: str, season: str) -> str:
+    # p.ej. /en/comps/20/2024-2025/possession/2024-2025-Bundesliga-Stats
+    return f"https://fbref.com/en/comps/{competition_id}/{season}/{path_slug}/{season}-{liga_slug}-Stats"
 
-def build_defense_url(competition_id: int, type:str, slug:str, season) -> str:
-    
-    return f"https://fbref.com/en/comps/{competition_id}/{season}/{type}/{season}-{slug}-Stats"
+def crear_tabla_liga(competition_id: int, liga_name: str, liga_slug: str,
+                     season: str, table_id: str, path_slug: str,
+                     session: requests.Session) -> pd.DataFrame:
+    # warmup: visita el índice para cookies/referrer
+    idx = f"https://fbref.com/en/comps/{competition_id}/{season}/"
+    r1 = session.get(idx, timeout=20)
+    if r1.status_code != 200:
+        raise ConnectionError(f"Índice {idx} devolvió {r1.status_code}")
 
-def crear_tablas(competition_id: int, name: str, slug:str, season, id, type):
-    dfs = []
-    time.sleep(10)
-    fbref_D_url = build_defense_url(competition_id, type, slug, season)
-    print(fbref_D_url)
-    df = extraer_tabla_jugadores(fbref_D_url, id)
-    df["Liga"] = slug
+    url = build_url(competition_id, path_slug, liga_slug, season)
+    print(url)
+    r2 = session.get(url, timeout=30)
+    if r2.status_code == 403:
+        # backoff + retry
+        time.sleep(2.0 + random.random())
+        r2 = session.get(url, timeout=30)
+    if r2.status_code != 200:
+        raise ConnectionError(f"Error al acceder a {url}: código {r2.status_code}")
+
+    df = extraer_tabla_desde_html(r2.text, table_id)
+    df["Liga"] = liga_slug
     df["Season"] = season
     return df
-    
-def scrape_fbref(season, id, type):
+
+def scrape_fbref(season: str, table_id: str, path_slug: str) -> pd.DataFrame:
     ligas = [
-    {"name": "La Liga", "slug": "La-Liga", "code": 12},
-    {"name": "Premier League", "slug": "Premier-League", "code": 9},
-    {"name": "Serie A", "slug": "Serie-A", "code": 11},
-    {"name": "Bundesliga", "slug": "Bundesliga", "code": 20},
-    {"name": "Ligue-1", "slug": "Ligue-1", "code": 13}
-]
-    unidos = []
+        {"name": "La Liga",        "slug": "La-Liga",        "code": 12},
+        {"name": "Premier League", "slug": "Premier-League", "code": 9},
+        {"name": "Serie A",        "slug": "Serie-A",        "code": 11},
+        {"name": "Bundesliga",     "slug": "Bundesliga",     "code": 20},
+        {"name": "Ligue-1",        "slug": "Ligue-1",        "code": 13},
+    ]
+    session = make_session()
+    dfs = []
+
     for liga in ligas:
         print(f"\nProcesando: {liga['name']}")
         try:
-            df = crear_tablas(liga["code"], liga["name"], liga["slug"], season, id, type)
-            
-            unidos.append(df)
-            temporada = pd.concat(unidos, ignore_index=True)
-            
+            df = crear_tabla_liga(
+                competition_id=liga["code"],
+                liga_name=liga["name"],
+                liga_slug=liga["slug"],
+                season=season,
+                table_id=table_id,
+                path_slug=path_slug,
+                session=session,
+            )
+            dfs.append(df)
         except Exception as e:
-                print(f"FBref error en {liga['name']}: {e}")
-    return temporada
+            print(f"FBref error en {liga['name']}: {e}")
+        finally:
+            # Pausa “cortés” entre peticiones para evitar bloqueos
+            time.sleep(1.0 + random.random())
+
+    if not dfs:
+        # Evita variable no definida si todas fallan
+        return pd.DataFrame()
+    return pd.concat(dfs, ignore_index=True)
 
 if __name__ == "__main__":
-    scrape_fbref("2024-2025", "")
+    # ejemplo
+    df = scrape_fbref("2025-2026", "stats_standard", "stats")
+    print(df.shape)

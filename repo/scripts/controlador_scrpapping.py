@@ -10,7 +10,9 @@ if ROOT not in sys.path:
     
 from scripts.scrape_fbref import scrape_fbref
 from scripts.limpiar_datos import limpiar
-
+import time
+from time import sleep
+from random import random
 # Definir ligas y temporadas
 ids_types = [("stats_standard", "stats"), ("stats_possession", "possession"), ("stats_defense", "defense"), ("stats_misc", "misc"), ("stats_passing", "passing"), ("stats_shooting", "shooting"), ("stats_keeper", "keepers"), ("stats_keeper_adv", "keepersadv")]
 temporadas = ["2024-2025"]
@@ -34,6 +36,7 @@ def scrap_fbref_and_clean(temporada):
         print(f"\nProcesando archivo: {type}")
         try:
             df = scrape_fbref(temporada, id, type)
+            time.sleep(1.0 + random.random())
             out_dir = limpiar(df, type)
             return out_dir
         except Exception as e:
@@ -50,4 +53,6 @@ def run(season, ejecutar_r):
         limpiar_mercado()
 
     
-                
+if __name__ == "__main__":
+    run(season="2024-2025", ejecutar_r=False)
+

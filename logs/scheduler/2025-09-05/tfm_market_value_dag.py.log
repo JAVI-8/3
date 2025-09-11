@@ -1,0 +1,28 @@
+[2025-09-05T13:13:22.419+0000] {processor.py:161} INFO - Started process (PID=12982) to work on /opt/airflow/dags/tfm_market_value_dag.py
+[2025-09-05T13:13:22.445+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/tfm_market_value_dag.py for tasks to queue
+[2025-09-05T13:13:22.452+0000] {logging_mixin.py:188} INFO - [2025-09-05T13:13:22.451+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/tfm_market_value_dag.py
+[2025-09-05T13:13:27.054+0000] {processor.py:840} INFO - DAG(s) 'tfm_weekly_pipeline' retrieved from /opt/airflow/dags/tfm_market_value_dag.py
+[2025-09-05T13:13:27.570+0000] {logging_mixin.py:188} INFO - [2025-09-05T13:13:27.569+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T13:13:27.627+0000] {logging_mixin.py:188} INFO - [2025-09-05T13:13:27.627+0000] {dag.py:3954} INFO - Setting next_dagrun for tfm_weekly_pipeline to 2025-09-02 01:00:00+00:00, run_after=2025-09-09 01:00:00+00:00
+[2025-09-05T13:13:27.679+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/tfm_market_value_dag.py took 5.284 seconds
+[2025-09-05T13:13:57.964+0000] {processor.py:161} INFO - Started process (PID=12988) to work on /opt/airflow/dags/tfm_market_value_dag.py
+[2025-09-05T13:13:57.967+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/tfm_market_value_dag.py for tasks to queue
+[2025-09-05T13:13:57.969+0000] {logging_mixin.py:188} INFO - [2025-09-05T13:13:57.968+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/tfm_market_value_dag.py
+[2025-09-05T13:14:03.611+0000] {processor.py:840} INFO - DAG(s) 'tfm_weekly_pipeline' retrieved from /opt/airflow/dags/tfm_market_value_dag.py
+[2025-09-05T13:14:03.696+0000] {logging_mixin.py:188} INFO - [2025-09-05T13:14:03.696+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T13:14:03.747+0000] {logging_mixin.py:188} INFO - [2025-09-05T13:14:03.746+0000] {dag.py:3954} INFO - Setting next_dagrun for tfm_weekly_pipeline to 2025-09-02 01:00:00+00:00, run_after=2025-09-09 01:00:00+00:00
+[2025-09-05T13:14:03.785+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/tfm_market_value_dag.py took 2.814 seconds
+[2025-09-05T13:14:37.966+0000] {processor.py:161} INFO - Started process (PID=12994) to work on /opt/airflow/dags/tfm_market_value_dag.py
+[2025-09-05T13:14:37.968+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/tfm_market_value_dag.py for tasks to queue
+[2025-09-05T13:14:37.970+0000] {logging_mixin.py:188} INFO - [2025-09-05T13:14:37.969+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/tfm_market_value_dag.py
+[2025-09-05T13:14:39.974+0000] {processor.py:840} INFO - DAG(s) 'tfm_weekly_pipeline' retrieved from /opt/airflow/dags/tfm_market_value_dag.py
+[2025-09-05T13:14:40.040+0000] {logging_mixin.py:188} INFO - [2025-09-05T13:14:40.039+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T13:14:40.082+0000] {logging_mixin.py:188} INFO - [2025-09-05T13:14:40.082+0000] {dag.py:3954} INFO - Setting next_dagrun for tfm_weekly_pipeline to 2025-09-02 01:00:00+00:00, run_after=2025-09-09 01:00:00+00:00
+[2025-09-05T13:14:40.118+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/tfm_market_value_dag.py took 2.164 seconds
+[2025-09-05T13:15:10.786+0000] {processor.py:161} INFO - Started process (PID=13000) to work on /opt/airflow/dags/tfm_market_value_dag.py
+[2025-09-05T13:15:10.787+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/tfm_market_value_dag.py for tasks to queue
+[2025-09-05T13:15:10.789+0000] {logging_mixin.py:188} INFO - [2025-09-05T13:15:10.789+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/tfm_market_value_dag.py
+[2025-09-05T13:15:13.063+0000] {processor.py:840} INFO - DAG(s) 'tfm_weekly_pipeline' retrieved from /opt/airflow/dags/tfm_market_value_dag.py
+[2025-09-05T13:15:13.124+0000] {logging_mixin.py:188} INFO - [2025-09-05T13:15:13.123+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-05T13:15:13.165+0000] {logging_mixin.py:188} INFO - [2025-09-05T13:15:13.164+0000] {dag.py:3954} INFO - Setting next_dagrun for tfm_weekly_pipeline to 2025-09-02 01:00:00+00:00, run_after=2025-09-09 01:00:00+00:00
+[2025-09-05T13:15:13.199+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/tfm_market_value_dag.py took 2.430 seconds

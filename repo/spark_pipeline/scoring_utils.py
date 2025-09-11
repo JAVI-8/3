@@ -10,6 +10,12 @@ from pyspark.sql import SparkSession
 from pyspark import SparkConf
 from pyspark.sql import functions as F
 
+
+from pathlib import Path
+from datetime import date
+WORK_DIR = Path("/opt/airflow/work")
+WORK_DIR.mkdir(parents=True, exist_ok=True)
+
 #pesos de las variables por posicion
 position_metrics = {
     
@@ -274,16 +280,23 @@ def guardar2(df, output):
     
 def guardar(df, output):
     #columnas a guardar
+    snapshot = date.today().isoformat()
+    df = df.withColumn("snapshot_date", F.lit(snapshot))
+    
+    out_dir = WORK_DIR / "parquets" / "performance" / snapshot
+    out_dir.mkdir(parents=True, exist_ok=True)
+    
     extra = df.select(
         "Player", "Squad", "Season", "Liga", "Pos", "Min", "Value", "Height",
         "performance_score", "penalty_score", "adjusted_score"
     )
-    (extra).coalesce(1).write.mode("overwrite").parquet(output)
+    (extra).coalesce(1).write.mode("overwrite").parquet(str(out_dir / "final.parquet"))
 
 def calcular(input, output):
     spark = crear_sesion()
     try:
         print("cargando dataset...")
+        print(input)
         df = cargar_df(spark, input)
         
         df = cast_all_numeric_to_double(df)

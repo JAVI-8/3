@@ -3,11 +3,22 @@ x-airflow-env: &airflow-env
   AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
   AIRFLOW__CORE__LOAD_EXAMPLES: "False"
   AIRFLOW__CORE__DEFAULT_TIMEZONE: Europe/Madrid
-  _PIP_ADDITIONAL_REQUIREMENTS: ""
+  _PIP_ADDITIONAL_REQUIREMENTS: "msal requests"
   AIRFLOW_UID: ${AIRFLOW_UID:-50000}
   AIRFLOW_GID: ${AIRFLOW_GID:-0}
   PYSPARK_PYTHON: python
   SPARK_LOCAL_DIRS: /opt/airflow/.spark
+
+  # NUEVO: rutas para tu pipeline (úsalas en Python)
+  DATA_DIR: /opt/airflow/data/v2
+  WORK_DIR: /opt/airflow/work
+
+  # (opcionales) Power BI
+  PBI_TENANT_ID: ${PBI_TENANT_ID:-}
+  PBI_CLIENT_ID: ${PBI_CLIENT_ID:-}
+  PBI_CLIENT_SECRET: ${PBI_CLIENT_SECRET:-}
+  PBI_GROUP_ID: ${PBI_GROUP_ID:-}
+  PBI_DATASET_ID: ${PBI_DATASET_ID:-}
 
 services:
   postgres:
@@ -49,7 +60,7 @@ services:
       - ./plugins:/opt/airflow/plugins
       - ./data:/opt/airflow/data
       - ./repo:/opt/airflow/repo
-      - ./work:/opt/airflow/work
+      - ./work:/opt/airflow/work         # <- unificado (antes: ${PBI_SHARE_HOST})
       - spark-local:/opt/airflow/.spark
     depends_on:
       postgres:

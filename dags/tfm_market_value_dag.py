@@ -6,6 +6,12 @@ import pendulum
 from airflow.decorators import dag, task
 from airflow.models.param import Param
 
+import os, requests, msal
+
+AUTHORITY = f"https://login.microsoftonline.com/{os.environ['PBI_TENANT_ID']}"
+SCOPE = ["https://analysis.windows.net/powerbi/api/.default"]
+
+PBI_API_BASE = "https://api.powerbi.com/v1.0/myorg"
 # --- Rutas del repo (montaje local), NO uses una URL ---
 
 REPO_MOUNT = "/opt/airflow/repo"
@@ -36,6 +42,18 @@ def _to_bool(x):
     if isinstance(x, str):
         return x.strip().lower() in {"1", "true", "t", "yes", "y", "on"}
     return bool(x)
+def get_pbi_token():
+        app = msal.ConfidentialClientApplication(
+            client_id=os.environ["PBI_CLIENT_ID"],
+            authority=AUTHORITY,
+            client_credential=os.environ["PBI_CLIENT_SECRET"],
+        )
+        result = app.acquire_token_silent(scopes=SCOPE, account=None)
+        if not result:
+            result = app.acquire_token_for_client(scopes=SCOPE)
+        if "access_token" not in result:
+            raise RuntimeError(f"Error obteniendo token: {result}")
+        return result["access_token"]
 
 @dag(
     dag_id="tfm_weekly_pipeline",
@@ -52,39 +70,37 @@ def _to_bool(x):
     },
 )
 def tfm_weekly_pipeline():
-
-    @task
+    season_t = "{{ dag_run.conf.get('season', params.season) }}"
+    ejecutar_r_t = False
+    @task(task_id="scrape")
     def scrape(season: str, ejecutar_r) -> None:
         run_scraping_pipeline(season=season, ejecutar_r= False)
-
-    @task
+    @task(task_id="merge")
     def merge() -> str:
         return spark_merge_and_convert()
-
-    @task
+    @task(task_id="score")
     def score(clean_path: str) -> str:
         outo = "/opt/airflow/v1/players_clean.parquet"
         out = WORK / "players_clean.parquet"
-        return spark_compute_scores(
-            input_parquet=str(outo),
-            output_parquet=str(out),
-        )
-
-    @task
-    def append(scored_path: str) -> str:
-        return append_to_history(scored_path)
-
-    # Encadenado con XCom implícito y params templated
-    scrape_out = scrape(
-        season="{{ params.season }}",
-        ejecutar_r="{{ params.ejecutar_r }}",
-    )
-
-    merge_task = merge()
-    scrape_out >> merge_task      # ← dependencia correcta
-
-    scored = score(merge_task)    # pasa el XCom (ruta) a la siguiente
-    append(scored)
-
-
+        return spark_compute_scores(input_parquet=clean_path, output_parquet=outo)
+    p_clean = merge()
+    p_scored = score(p_clean)
+    @task(task_id="trigger_powerbi_refresh")
+    def trigger_powerbi_refresh():
+        required = ["PBI_TENANT_ID","PBI_CLIENT_ID","PBI_CLIENT_SECRET","PBI_GROUP_ID","PBI_DATASET_ID"]
+        missing = [k for k in required if not os.environ.get(k)]
+        if missing:
+            raise RuntimeError(f"Faltan variables de entorno: {missing}")
+        token = get_pbi_token()
+        group_id = os.environ["PBI_GROUP_ID"]
+        dataset_id = os.environ["PBI_DATASET_ID"]
+        url = f"{PBI_API_BASE}/groups/{group_id}/datasets/{dataset_id}/refreshes"
+        payload = { "type": "Full", "notifyOption": "MailOnFailure" }  # "Incremental" si procede
+        r = requests.post(url, json=payload, headers={"Authorization": f"Bearer {token}"})
+        r.raise_for_status()
+# === Instanciación y dependencias ===
+    s = scrape(season=season_t, ejecutar_r=ejecutar_r_t)
+    m = merge()
+    sc = score(m)
+    s >> m >> sc >> trigger_powerbi_refresh()
 dag = tfm_weekly_pipeline()
