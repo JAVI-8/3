@@ -25,11 +25,10 @@ if str(BASE) not in sys.path:
 WORK = BASE / "work"
 
 # Importa tus funciones del repo
-from scripts.pipeline_api import (
+from repo.scripts.pipeline_api import (
     run_scraping_pipeline,
     spark_merge_and_convert,
     spark_compute_scores,
-    append_to_history,
 )
 
 DEFAULT_ARGS = {
@@ -42,6 +41,7 @@ def _to_bool(x):
     if isinstance(x, str):
         return x.strip().lower() in {"1", "true", "t", "yes", "y", "on"}
     return bool(x)
+
 def get_pbi_token():
         app = msal.ConfidentialClientApplication(
             client_id=os.environ["PBI_CLIENT_ID"],
@@ -69,6 +69,7 @@ def get_pbi_token():
         "ejecutar_r": Param(True, type="boolean"),
     },
 )
+
 def tfm_weekly_pipeline():
     season_t = "{{ dag_run.conf.get('season', params.season) }}"
     ejecutar_r_t = False
@@ -104,3 +105,5 @@ def tfm_weekly_pipeline():
     sc = score(m)
     s >> m >> sc >> trigger_powerbi_refresh()
 dag = tfm_weekly_pipeline()
+
+
