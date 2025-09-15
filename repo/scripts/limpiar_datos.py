@@ -4,10 +4,6 @@ import pandas as pd
 import unicodedata
 import re
 
-# === Rutas dentro del contenedor (montadas desde docker-compose) ===
-DATA_DIR = Path("/opt/airflow/data/v2") # ./data en tu host               
-DATA_DIR.mkdir(parents=True, exist_ok=True)
-
 #culumnas que son utilea para cada df
 COLUMNAS_UTILES = {
     "stats": [
@@ -130,8 +126,7 @@ def limpiar(df: pd.DataFrame, carpeta: str) -> Path:
     df = normalizar_porcentajes(df)
     if carpeta == "mercado":
         df = limpiar_ligas_transfermarkt(df)
-   #out_path = DATA_DIR / f"{carpeta}.csv"
-    out_path = f"data/v3/{carpeta}.csv"
+    out_path = f"repo/data/{carpeta}.csv"
     df.to_csv(out_path, index=False)
     return out_path
 

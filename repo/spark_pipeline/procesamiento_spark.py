@@ -145,13 +145,18 @@ def union_datasets(spark):
 #guarda todo el df de los datos unidos
 def guardar_en_parquet(df):
     
-    snapshot = date.today().isoformat()
+    '''snapshot = date.today().isoformat()
     df = df.withColumn("snapshot_date", F.lit(snapshot))
     
     out_dir = WORK_DIR / "parquets" / "players" / snapshot
     out_dir.mkdir(parents=True, exist_ok=True)
     
     df.write.mode("overwrite").parquet(str(out_dir / ".parquet"))
+    print("Datos procesados y exportados en formato Parquet.")'''
+    
+    out_dir = WORK_DIR / "parquets" / "latest" / "players"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    df.write.mode("overwrite").parquet(str(out_dir / "data.parquet"))
     print("Datos procesados y exportados en formato Parquet.")
     
     return str(out_dir / ".parquet")
@@ -200,6 +205,7 @@ def procesar():
     finally:
         spark.stop()
         
-
+if __name__ == "__main__":
+    procesar()
             
         

@@ -9,7 +9,7 @@ if (!require("worldfootballR")) {
   devtools::install_github("JaseZiv/worldfootballR", lib = .libPaths()[1])
 }
 # Ruta de salida personalizada
-output_dir <- "C:/Universidad/Master BDDE UCM/TFM/TFM/data/v1"
+output_dir <- "C:/Universidad/Master BDDE UCM/TFM/TFM/data/v3"
 if (!dir.exists(output_dir)) dir.create(output_dir, recursive = TRUE)
 
 library(worldfootballR)

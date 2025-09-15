@@ -1,0 +1,190 @@
+[2025-09-15T17:50:14.216+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-09-15T17:50:14.278+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: tfm_weekly_pipeline.merge __airflow_temporary_run_2025-09-15T17:50:10.445658+00:00__ [queued]>
+[2025-09-15T17:50:14.297+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: tfm_weekly_pipeline.merge __airflow_temporary_run_2025-09-15T17:50:10.445658+00:00__ [queued]>
+[2025-09-15T17:50:14.298+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2025-09-15T17:50:14.329+0000] {taskinstance.py:2330} INFO - Executing <Task(_PythonDecoratedOperator): merge> on 2025-09-15 01:00:00+00:00
+[2025-09-15T17:50:14.341+0000] {standard_task_runner.py:63} INFO - Started process 1007 to run task
+[2025-09-15T17:50:14.347+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'tfm_weekly_pipeline', 'merge', '__***_temporary_run_2025-09-15T17:50:10.445658+00:00__', '--job-id', '125', '--raw', '--subdir', 'DAGS_FOLDER/tfm_market_value_dag.py', '--cfg-path', '/tmp/tmpsil_pk1y']
+[2025-09-15T17:50:14.354+0000] {standard_task_runner.py:91} INFO - Job 125: Subtask merge
+[2025-09-15T17:50:14.460+0000] {task_command.py:426} INFO - Running <TaskInstance: tfm_weekly_pipeline.merge __airflow_temporary_run_2025-09-15T17:50:10.445658+00:00__ [running]> on host 2cd020f5bc3d
+[2025-09-15T17:50:14.640+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='tfm' AIRFLOW_CTX_DAG_ID='tfm_weekly_pipeline' AIRFLOW_CTX_TASK_ID='merge' AIRFLOW_CTX_EXECUTION_DATE='2025-09-15T01:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='__***_temporary_run_2025-09-15T17:50:10.445658+00:00__'
+[2025-09-15T17:50:14.642+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-09-15T17:50:22.315+0000] {logging_mixin.py:188} INFO - Uniendo los datasets...
+[2025-09-15T17:50:31.692+0000] {local_task_job_runner.py:310} WARNING - State of this instance has been externally set to None. Terminating instance.
+[2025-09-15T17:50:31.693+0000] {local_task_job_runner.py:222} INFO - ::endgroup::
+[2025-09-15T17:50:31.699+0000] {process_utils.py:132} INFO - Sending 15 to group 1007. PIDs of all processes in the group: [1010, 1007]
+[2025-09-15T17:50:31.700+0000] {process_utils.py:87} INFO - Sending the signal 15 to group 1007
+[2025-09-15T17:50:31.702+0000] {taskinstance.py:2611} ERROR - Received SIGTERM. Terminating subprocesses.
+[2025-09-15T17:50:32.244+0000] {clientserver.py:538} INFO - Error while receiving.
+Traceback (most recent call last):
+  File "/opt/airflow/repo/spark_pipeline/procesamiento_spark.py", line 187, in procesar
+    df = union_datasets(spark)
+         ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/airflow/repo/spark_pipeline/procesamiento_spark.py", line 122, in union_datasets
+    "stats": spark.read.option("header", True).csv(str(DATA/ "stats.csv")),
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/pyspark/sql/readwriter.py", line 740, in csv
+    return self._df(self._jreader.csv(self._spark._sc._jvm.PythonUtils.toSeq(path)))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/py4j/java_gateway.py", line 1321, in __call__
+    answer = self.gateway_client.send_command(command)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/py4j/java_gateway.py", line 1038, in send_command
+    response = connection.send_command(command)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/py4j/clientserver.py", line 511, in send_command
+    answer = smart_decode(self.stream.readline()[:-1])
+                          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/socket.py", line 706, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 2613, in signal_handler
+    raise AirflowTaskTerminated("Task received SIGTERM signal")
+airflow.exceptions.AirflowTaskTerminated: Task received SIGTERM signal
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.11/site-packages/py4j/clientserver.py", line 511, in send_command
+    answer = smart_decode(self.stream.readline()[:-1])
+                          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/socket.py", line 706, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+[2025-09-15T17:50:32.252+0000] {clientserver.py:543} INFO - Closing down clientserver connection
+[2025-09-15T17:50:32.254+0000] {java_gateway.py:1055} ERROR - Exception while sending command.
+Traceback (most recent call last):
+  File "/opt/airflow/repo/spark_pipeline/procesamiento_spark.py", line 187, in procesar
+    df = union_datasets(spark)
+         ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/airflow/repo/spark_pipeline/procesamiento_spark.py", line 122, in union_datasets
+    "stats": spark.read.option("header", True).csv(str(DATA/ "stats.csv")),
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/pyspark/sql/readwriter.py", line 740, in csv
+    return self._df(self._jreader.csv(self._spark._sc._jvm.PythonUtils.toSeq(path)))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/py4j/java_gateway.py", line 1321, in __call__
+    answer = self.gateway_client.send_command(command)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/py4j/java_gateway.py", line 1038, in send_command
+    response = connection.send_command(command)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/py4j/clientserver.py", line 511, in send_command
+    answer = smart_decode(self.stream.readline()[:-1])
+                          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/socket.py", line 706, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 2613, in signal_handler
+    raise AirflowTaskTerminated("Task received SIGTERM signal")
+airflow.exceptions.AirflowTaskTerminated: Task received SIGTERM signal
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.11/site-packages/py4j/clientserver.py", line 511, in send_command
+    answer = smart_decode(self.stream.readline()[:-1])
+                          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/socket.py", line 706, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.11/site-packages/py4j/java_gateway.py", line 1038, in send_command
+    response = connection.send_command(command)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/py4j/clientserver.py", line 539, in send_command
+    raise Py4JNetworkError(
+py4j.protocol.Py4JNetworkError: Error while sending or receiving
+[2025-09-15T17:50:32.270+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.11/site-packages/pyspark/context.py:657 RuntimeWarning: Unable to cleanly shutdown Spark JVM process. It is possible that the process has crashed, been killed or may also be in a zombie state.
+[2025-09-15T17:50:32.629+0000] {clientserver.py:543} INFO - Closing down clientserver connection
+[2025-09-15T17:50:32.630+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-09-15T17:50:32.631+0000] {taskinstance.py:2905} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/opt/airflow/repo/spark_pipeline/procesamiento_spark.py", line 187, in procesar
+    df = union_datasets(spark)
+         ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/airflow/repo/spark_pipeline/procesamiento_spark.py", line 122, in union_datasets
+    "stats": spark.read.option("header", True).csv(str(DATA/ "stats.csv")),
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/pyspark/sql/readwriter.py", line 740, in csv
+    return self._df(self._jreader.csv(self._spark._sc._jvm.PythonUtils.toSeq(path)))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/py4j/java_gateway.py", line 1321, in __call__
+    answer = self.gateway_client.send_command(command)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/py4j/java_gateway.py", line 1038, in send_command
+    response = connection.send_command(command)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/py4j/clientserver.py", line 511, in send_command
+    answer = smart_decode(self.stream.readline()[:-1])
+                          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/socket.py", line 706, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 2613, in signal_handler
+    raise AirflowTaskTerminated("Task received SIGTERM signal")
+airflow.exceptions.AirflowTaskTerminated: Task received SIGTERM signal
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 465, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 432, in _execute_callable
+    return execute_callable(context=context, **execute_callable_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/baseoperator.py", line 401, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/decorators/base.py", line 265, in execute
+    return_value = super().execute(context)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/baseoperator.py", line 401, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/operators/python.py", line 235, in execute
+    return_value = self.execute_callable()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/operators/python.py", line 252, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/airflow/dags/tfm_market_value_dag.py", line 81, in merge
+    return spark_merge_and_convert()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/airflow/repo/scripts/pipeline_api.py", line 37, in spark_merge_and_convert
+    return procesar()
+           ^^^^^^^^^^
+  File "/opt/airflow/repo/spark_pipeline/procesamiento_spark.py", line 201, in procesar
+    spark.stop()
+  File "/home/airflow/.local/lib/python3.11/site-packages/pyspark/sql/session.py", line 1799, in stop
+    self._jvm.SparkSession.clearDefaultSession()
+    ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/py4j/java_gateway.py", line 1712, in __getattr__
+    answer = self._gateway_client.send_command(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/py4j/java_gateway.py", line 1036, in send_command
+    connection = self._get_connection()
+                 ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/py4j/clientserver.py", line 284, in _get_connection
+    connection = self._create_new_connection()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.11/site-packages/py4j/clientserver.py", line 291, in _create_new_connection
+    connection.connect_to_java_server()
+  File "/home/airflow/.local/lib/python3.11/site-packages/py4j/clientserver.py", line 438, in connect_to_java_server
+    self.socket.connect((self.java_address, self.java_port))
+ConnectionRefusedError: [Errno 111] Connection refused
+[2025-09-15T17:50:32.657+0000] {taskinstance.py:1206} INFO - Marking task as FAILED. dag_id=tfm_weekly_pipeline, task_id=merge, run_id=__***_temporary_run_2025-09-15T17:50:10.445658+00:00__, execution_date=20250915T010000, start_date=20250915T175014, end_date=20250915T175032
+[2025-09-15T17:50:32.680+0000] {standard_task_runner.py:110} ERROR - Failed to execute job 125 for task merge ((psycopg2.errors.ForeignKeyViolation) insert or update on table "task_fail" violates foreign key constraint "task_fail_ti_fkey"
+DETAIL:  Key (dag_id, task_id, run_id, map_index)=(tfm_weekly_pipeline, merge, __airflow_temporary_run_2025-09-15T17:50:10.445658+00:00__, -1) is not present in table "task_instance".
+
+[SQL: INSERT INTO task_fail (task_id, dag_id, run_id, map_index, start_date, end_date, duration) VALUES (%(task_id)s, %(dag_id)s, %(run_id)s, %(map_index)s, %(start_date)s, %(end_date)s, %(duration)s) RETURNING task_fail.id]
+[parameters: {'task_id': 'merge', 'dag_id': 'tfm_weekly_pipeline', 'run_id': '__airflow_temporary_run_2025-09-15T17:50:10.445658+00:00__', 'map_index': -1, 'start_date': datetime.datetime(2025, 9, 15, 17, 50, 14, 279374, tzinfo=Timezone('UTC')), 'end_date': datetime.datetime(2025, 9, 15, 17, 50, 32, 656638, tzinfo=Timezone('UTC')), 'duration': 18}]
+(Background on this error at: https://sqlalche.me/e/14/gkpj); 1007)
+[2025-09-15T17:50:32.731+0000] {process_utils.py:80} INFO - Process psutil.Process(pid=1007, status='terminated', exitcode=1, started='17:50:13') (1007) terminated with exit code 1
+[2025-09-15T17:50:32.732+0000] {process_utils.py:80} INFO - Process psutil.Process(pid=1010, status='terminated', started='17:50:13') (1010) terminated with exit code None

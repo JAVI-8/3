@@ -57,7 +57,7 @@ def get_pbi_token():
 
 @dag(
     dag_id="tfm_weekly_pipeline",
-    description="Scrape → merge → score → append histórico",
+    description=" merge → score ",
     start_date=pendulum.datetime(2024, 8, 1, 3, 0, tz="Europe/Madrid"),
     schedule="0 3 * * 2",  # Martes 03:00 hora de Madrid
     catchup=False,
@@ -73,9 +73,6 @@ def get_pbi_token():
 def tfm_weekly_pipeline():
     season_t = "{{ dag_run.conf.get('season', params.season) }}"
     ejecutar_r_t = False
-    @task(task_id="scrape")
-    def scrape(season: str, ejecutar_r) -> None:
-        run_scraping_pipeline(season=season, ejecutar_r= False)
     @task(task_id="merge")
     def merge() -> str:
         return spark_merge_and_convert()
@@ -100,10 +97,9 @@ def tfm_weekly_pipeline():
         r = requests.post(url, json=payload, headers={"Authorization": f"Bearer {token}"})
         r.raise_for_status()
 # === Instanciación y dependencias ===
-    s = scrape(season=season_t, ejecutar_r=ejecutar_r_t)
     m = merge()
     sc = score(m)
-    s >> m >> sc >> trigger_powerbi_refresh()
+    m >> sc >> trigger_powerbi_refresh()
 dag = tfm_weekly_pipeline()
 
 
