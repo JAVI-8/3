@@ -1,114 +1,213 @@
 Player,Squad,Liga,Season,GA,SoTA,Save%,CS%,PKatt,P_Save%
-julen agirrezabala,valencia,La-Liga,2025-2026,8,18,0.556,0.25,0,
-augusto batalla,rayo vallecano,La-Liga,2025-2026,5,15,0.8,0.0,2,0.0
-thibaut courtois,real madrid,La-Liga,2025-2026,2,10,0.9,0.5,1,0.0
-pablo cunat,levante,La-Liga,2025-2026,5,14,0.643,0.0,0,
-matias dituro,elche,La-Liga,2025-2026,4,14,0.7140000000000001,0.25,0,
-marko dmitrovic,espanyol,La-Liga,2025-2026,3,14,0.7859999999999999,0.33299999999999996,0,
-aaron escandell,oviedo,La-Liga,2025-2026,7,29,0.759,0.25,0,
-joan garcia,barcelona,La-Liga,2025-2026,3,13,0.846,0.5,1,0.0
-paulo gazzaniga,girona,La-Liga,2025-2026,5,13,0.6920000000000001,0.0,1,0.0
-sergio herrera,osasuna,La-Liga,2025-2026,2,16,0.938,0.5,1,0.0
-luiz lucio reis junior,villarreal,La-Liga,2025-2026,3,11,0.727,0.5,1,1.0
-pau lopez,betis,La-Liga,2025-2026,1,7,0.857,0.5,0,
-rjan nyland,sevilla,La-Liga,2025-2026,7,16,0.625,0.25,1,0.0
-jan oblak,atletico madrid,La-Liga,2025-2026,4,10,0.7,0.25,1,0.0
-ionut radu,celta vigo,La-Liga,2025-2026,6,19,0.684,0.0,0,
-alex remiro,real sociedad,La-Liga,2025-2026,6,12,0.583,0.0,1,0.0
-leo roman,mallorca,La-Liga,2025-2026,6,17,0.647,0.0,0,
-mathew ryan,levante,La-Liga,2025-2026,4,14,0.7140000000000001,0.0,0,
-unai simon,athletic club,La-Liga,2025-2026,4,11,0.636,0.25,0,
-antonio sivera,alaves,La-Liga,2025-2026,3,17,0.8240000000000001,0.25,0,
-david soria,getafe,La-Liga,2025-2026,4,11,0.636,0.5,0,
-alvaro valles,betis,La-Liga,2025-2026,5,13,0.615,0.0,0,
-krapyvtsov vladyslav,girona,La-Liga,2025-2026,6,9,0.444,0.0,1,0.0
-alisson,liverpool,Premier-League,2025-2026,4,7,0.429,0.5,0,
-altay bayndr,manchester utd,Premier-League,2025-2026,7,14,0.5,0.0,0,
-marco bizot,aston villa,Premier-League,2025-2026,3,7,0.7140000000000001,0.5,1,0.0
-karl darlow,leeds united,Premier-League,2025-2026,1,3,0.667,0.0,0,
-gianluigi donnarumma,manchester city,Premier-League,2025-2026,0,2,1.0,1.0,0,
-martin dubravka,burnley,Premier-League,2025-2026,7,17,0.706,0.25,2,0.0
-dean henderson,crystal palace,Premier-League,2025-2026,1,7,0.857,0.75,0,
-mads hermansen,west ham,Premier-League,2025-2026,11,20,0.45,0.25,0,
-sam johnstone,wolves,Premier-League,2025-2026,1,4,0.75,0.0,0,
-caoimhin kelleher,brentford,Premier-League,2025-2026,7,16,0.625,0.25,1,0.0
-bernd leno,fulham,Premier-League,2025-2026,4,16,0.875,0.25,3,0.0
-emiliano martinez,aston villa,Premier-League,2025-2026,1,4,0.75,0.5,0,
-lucas perri,leeds united,Premier-League,2025-2026,5,8,0.5,0.667,1,0.0
-ore petrovic,bournemouth,Premier-League,2025-2026,5,14,0.643,0.5,0,
-jordan pickford,everton,Premier-League,2025-2026,3,12,0.833,0.5,2,0.5
-nick pope,newcastle utd,Premier-League,2025-2026,3,11,0.727,0.75,0,
-david raya,arsenal,Premier-League,2025-2026,1,12,0.917,0.75,0,
-robin roefs,sunderland,Premier-League,2025-2026,3,15,0.8,0.5,1,1.0
-jose sa,wolves,Premier-League,2025-2026,8,12,0.33299999999999996,0.0,0,
-robert sanchez,chelsea,Premier-League,2025-2026,3,13,0.769,0.5,0,
-matz sels,nottham forest,Premier-League,2025-2026,8,20,0.7,0.0,2,0.0
-james trafford,manchester city,Premier-League,2025-2026,4,15,0.8,0.33299999999999996,1,0.0
-bart verbruggen,brighton,Premier-League,2025-2026,6,13,0.615,0.0,1,0.0
-guglielmo vicario,tottenham,Premier-League,2025-2026,1,18,0.9440000000000001,0.75,0,
-emil audero,cremonese,Serie-A,2025-2026,3,11,0.818,0.0,1,0.0
-jean butez,como,Serie-A,2025-2026,1,3,0.667,0.5,0,
-elia caprile,cagliari,Serie-A,2025-2026,2,12,0.833,0.33299999999999996,0,
-marco carnesecchi,atalanta,Serie-A,2025-2026,3,8,0.625,0.0,0,
-michele di gregorio,juventus,Serie-A,2025-2026,3,6,0.5,0.667,0,
-wladimiro falcone,lecce,Serie-A,2025-2026,6,16,0.625,0.33299999999999996,0,
-david de gea,fiorentina,Serie-A,2025-2026,4,17,0.8240000000000001,0.33299999999999996,1,0.0
-franco israel,torino,Serie-A,2025-2026,5,17,0.706,0.667,0,
-nicola leali,genoa,Serie-A,2025-2026,1,3,0.667,0.5,0,
-mike maignan,milan,Serie-A,2025-2026,2,5,0.6,0.33299999999999996,0,
-alex meret,napoli,Serie-A,2025-2026,0,3,1.0,1.0,0,
-vanja milinkovicsavic,napoli,Serie-A,2025-2026,1,3,0.667,0.0,0,
-lorenzo montipo,hellas verona,Serie-A,2025-2026,5,10,0.5,0.0,0,
-arijanet muric,sassuolo,Serie-A,2025-2026,3,9,0.778,0.5,1,0.0
-ivan provedel,lazio,Serie-A,2025-2026,3,13,0.769,0.33299999999999996,0,
-razvan sava,udinese,Serie-A,2025-2026,2,8,0.75,0.33299999999999996,0,
-adrian semper,pisa,Serie-A,2025-2026,3,14,0.7859999999999999,0.0,0,
-ukasz skorupski,bologna,Serie-A,2025-2026,2,9,0.778,0.33299999999999996,0,
-yann sommer,inter,Serie-A,2025-2026,6,13,0.615,0.33299999999999996,1,0.0
-zion suzuki,parma,Serie-A,2025-2026,5,16,0.688,0.0,0,
-mile svilar,roma,Serie-A,2025-2026,1,9,0.889,0.667,0,
-pietro terracciano,milan,Serie-A,2025-2026,0,0,,,0,
-stefano turati,sassuolo,Serie-A,2025-2026,2,4,0.5,0.0,0,
-noah atubolu,freiburg,Bundesliga,2025-2026,8,13,0.385,0.0,0,
-mio backhaus,werder bremen,Bundesliga,2025-2026,7,11,0.455,0.33299999999999996,1,0.0
-oliver baumann,hoffenheim,Bundesliga,2025-2026,6,14,0.5710000000000001,0.0,0,
-finn dahmen,augsburg,Bundesliga,2025-2026,6,21,0.762,0.0,2,0.5
-mark flekken,leverkusen,Bundesliga,2025-2026,6,12,0.583,0.0,1,0.0
-kamil grabara,wolfsburg,Bundesliga,2025-2026,5,13,0.6920000000000001,0.0,1,0.0
-peter gulacsi,rb leipzig,Bundesliga,2025-2026,6,14,0.5710000000000001,0.667,0,
-daniel heuer fernandes,hamburger sv,Bundesliga,2025-2026,7,22,0.727,0.33299999999999996,1,0.0
-gregor kobel,dortmund,Bundesliga,2025-2026,3,11,0.818,0.667,1,0.0
-manuel neuer,bayern munich,Bundesliga,2025-2026,2,6,0.667,0.667,0,
-moritz nicolas,gladbach,Bundesliga,2025-2026,5,13,0.6920000000000001,0.33299999999999996,1,0.0
-alexander nubel,stuttgart,Bundesliga,2025-2026,5,14,0.7140000000000001,0.33299999999999996,1,0.0
-diant ramaj,heidenheim,Bundesliga,2025-2026,7,18,0.667,0.0,1,0.0
-frederik rnnow,union berlin,Bundesliga,2025-2026,8,20,0.7,0.0,2,0.0
-marvin schwabe,koln,Bundesliga,2025-2026,4,10,0.6,0.33299999999999996,0,
-nikola vasilj,st pauli,Bundesliga,2025-2026,4,14,0.7140000000000001,0.33299999999999996,1,1.0
-robin zentner,mainz,Bundesliga,2025-2026,3,8,0.625,0.0,0,
-michael zetterer,eint frankfurt,Bundesliga,2025-2026,5,17,0.765,0.0,1,0.0
-lucas chevalier,paris sg,Ligue-1,2025-2026,3,9,0.667,0.75,1,1.0
-gregoire coudert,brest,Ligue-1,2025-2026,5,11,0.636,0.0,1,0.0
-jeffrey de lange,marseille,Ligue-1,2025-2026,0,1,1.0,1.0,0,
-theo de percin,auxerre,Ligue-1,2025-2026,4,11,0.636,0.0,0,
-remy descamps,lyon,Ligue-1,2025-2026,3,12,0.75,0.75,0,
-mory diaw,le havre,Ligue-1,2025-2026,7,15,0.667,0.0,2,0.0
-yehvann diouf,nice,Ligue-1,2025-2026,5,21,0.762,0.25,0,
-jonathan fischer,metz,Ligue-1,2025-2026,8,24,0.75,0.0,2,0.0
-lukas hradecky,monaco,Ligue-1,2025-2026,4,8,0.625,0.0,2,0.0
-karljohan johnsson,strasbourg,Ligue-1,2025-2026,0,2,1.0,1.0,0,
-bingourou kamara,lorient,Ligue-1,2025-2026,8,15,0.467,0.33299999999999996,1,
-herve koffi,angers,Ligue-1,2025-2026,3,23,0.87,0.25,2,1.0
-philipp kohn,monaco,Ligue-1,2025-2026,1,3,0.667,0.0,0,
-donovan leon,auxerre,Ligue-1,2025-2026,2,4,0.5,0.5,0,
-anthony lopes,nantes,Ligue-1,2025-2026,3,20,0.85,0.25,0,
-radosaw majecki,brest,Ligue-1,2025-2026,5,12,0.583,0.0,0,
-yvon mvogo,lorient,Ligue-1,2025-2026,4,8,0.625,0.0,1,0.0
-obed nkambadio,paris fc,Ligue-1,2025-2026,7,16,0.688,0.0,3,0.0
-berke ozer,lille,Ligue-1,2025-2026,5,12,0.583,0.25,1,1.0
-mike penders,strasbourg,Ligue-1,2025-2026,3,5,0.4,0.667,0,
-guillaume restes,toulouse,Ligue-1,2025-2026,8,17,0.706,0.5,3,0.0
-robin risser,lens,Ligue-1,2025-2026,5,17,0.706,0.0,0,
-geronimo rulli,marseille,Ligue-1,2025-2026,4,14,0.7140000000000001,0.0,0,
-brice samba,rennes,Ligue-1,2025-2026,6,21,0.7140000000000001,0.25,0,
-kevin trapp,paris fc,Ligue-1,2025-2026,2,2,0.0,0.0,0,
+adrian,betis,La-Liga,2024-2025,27,76,0.6579999999999999,0.158,1,0.0
+julen agirrezabala,athletic club,La-Liga,2024-2025,9,34,0.765,0.35700000000000004,2,0.5
+augusto batalla,rayo vallecano,La-Liga,2024-2025,39,133,0.752,0.25,8,0.25
+dani cardenas,rayo vallecano,La-Liga,2024-2025,6,20,0.7,0.33299999999999996,0,
+jasper cillessen,las palmas,La-Liga,2024-2025,42,128,0.703,0.111,8,0.429
+diego conde,villarreal,La-Liga,2024-2025,33,94,0.6809999999999999,0.091,4,0.0
+thibaut courtois,real madrid,La-Liga,2024-2025,29,104,0.75,0.36700000000000005,3,0.0
+stole dimitrievski,valencia,La-Liga,2024-2025,6,12,0.583,0.0,2,0.0
+marko dmitrovic,leganes,La-Liga,2024-2025,49,150,0.72,0.313,8,0.0
+aitor fernandez,osasuna,La-Liga,2024-2025,0,5,1.0,1.0,0,
+alvaro fernandez,sevilla,La-Liga,2024-2025,16,36,0.611,0.375,2,0.0
+andre ferreira,valladolid,La-Liga,2024-2025,20,39,0.564,0.0,3,0.0
+fran,real madrid,La-Liga,2024-2025,2,2,0.0,0.0,0,
+joan garcia,espanyol,La-Liga,2024-2025,51,192,0.755,0.21100000000000002,6,0.33299999999999996
+paulo gazzaniga,girona,La-Liga,2024-2025,51,143,0.657,0.222,5,0.6
+dominik greif,mallorca,La-Liga,2024-2025,34,116,0.7240000000000001,0.226,2,0.0
+vicente guaita,celta vigo,La-Liga,2024-2025,48,127,0.6459999999999999,0.235,3,0.0
+sergio herrera,osasuna,La-Liga,2024-2025,52,182,0.753,0.21600000000000003,7,0.0
+dinko horkas,las palmas,La-Liga,2024-2025,19,54,0.667,0.091,2,0.5
+karl jakob hein,valladolid,La-Liga,2024-2025,68,163,0.607,0.161,4,0.0
+luiz lucio reis junior,villarreal,La-Liga,2024-2025,18,66,0.7879999999999999,0.313,4,0.0
+pau lopez,girona,La-Liga,2024-2025,2,3,0.33299999999999996,,0,
+andriy lunin,real madrid,La-Liga,2024-2025,7,20,0.65,0.5710000000000001,0,
+giorgi mamardashvili,valencia,La-Liga,2024-2025,48,136,0.684,0.235,7,0.28600000000000003
+unai marrero,real sociedad,La-Liga,2024-2025,3,12,0.75,0.0,1,1.0
+juan musso,atletico madrid,La-Liga,2024-2025,0,2,1.0,1.0,0,
+rjan nyland,sevilla,La-Liga,2024-2025,39,112,0.679,0.233,4,0.25
+jan oblak,atletico madrid,La-Liga,2024-2025,30,114,0.7809999999999999,0.41700000000000004,5,0.0
+jesus owono,alaves,La-Liga,2024-2025,7,14,0.5710000000000001,0.0,1,0.0
+alex padilla,athletic club,La-Liga,2024-2025,6,17,0.706,0.0,1,0.0
+inaki pena,barcelona,La-Liga,2024-2025,18,53,0.698,0.267,2,0.0
+arnau rafus,valladolid,La-Liga,2024-2025,2,2,0.0,0.0,0,
+alex remiro,real sociedad,La-Liga,2024-2025,43,130,0.708,0.361,6,0.16699999999999998
+adrian rodriguez,alaves,La-Liga,2024-2025,2,6,0.833,1.0,1,0.0
+leo roman,mallorca,La-Liga,2024-2025,10,49,0.816,0.28600000000000003,1,0.0
+rui silva,betis,La-Liga,2024-2025,18,54,0.722,0.267,3,0.0
+unai simon,athletic club,La-Liga,2024-2025,14,62,0.79,0.47600000000000003,2,0.5
+antonio sivera,alaves,La-Liga,2024-2025,39,112,0.732,0.25,9,0.0
+david soria,getafe,La-Liga,2024-2025,39,126,0.754,0.237,9,0.111
+juan soriano,leganes,La-Liga,2024-2025,7,25,0.72,0.16699999999999998,0,
+wojciech szczesny,barcelona,La-Liga,2024-2025,12,33,0.667,0.5329999999999999,1,0.0
+marcandre ter stegen,barcelona,La-Liga,2024-2025,9,22,0.636,0.125,1,0.0
+fran vieites,betis,La-Liga,2024-2025,5,11,0.545,0.0,0,
+ivan villar,celta vigo,La-Liga,2024-2025,9,18,0.5,0.0,1,1.0
+krapyvtsov vladyslav,girona,La-Liga,2024-2025,7,18,0.667,0.0,1,0.0
+alisson,liverpool,Premier-League,2024-2025,29,100,0.72,0.321,1,0.0
+alphonse areola,west ham,Premier-League,2024-2025,41,115,0.643,0.2,0,
+kepa arrizabalaga,bournemouth,Premier-League,2024-2025,39,134,0.7390000000000001,0.258,4,0.0
+brandon austin,tottenham,Premier-League,2024-2025,2,4,0.5,0.0,0,
+altay bayndr,manchester utd,Premier-League,2024-2025,10,17,0.41200000000000003,0.25,0,
+daniel bentley,wolves,Premier-League,2024-2025,4,12,0.667,0.5,0,
+martin dubravka,newcastle utd,Premier-League,2024-2025,12,41,0.7070000000000001,0.5,0,
+ederson,manchester city,Premier-League,2024-2025,26,78,0.6920000000000001,0.385,2,0.0
+ukasz fabianski,west ham,Premier-League,2024-2025,21,71,0.746,0.154,3,0.0
+mark flekken,brentford,Premier-League,2024-2025,55,203,0.7340000000000001,0.18899999999999997,1,0.0
+fraser forster,tottenham,Premier-League,2024-2025,15,42,0.69,0.14300000000000002,2,0.0
+dean henderson,crystal palace,Premier-League,2024-2025,51,150,0.667,0.289,2,0.5
+mads hermansen,leicester city,Premier-League,2024-2025,58,155,0.645,0.037000000000000005,4,0.25
+vitezslav jaros,liverpool,Premier-League,2024-2025,0,1,1.0,,0,
+sam johnstone,wolves,Premier-League,2024-2025,17,39,0.615,0.0,2,0.0
+filip jrgensen,chelsea,Premier-League,2024-2025,9,28,0.7140000000000001,0.16699999999999998,1,0.0
+caoimhin kelleher,liverpool,Premier-League,2024-2025,12,37,0.6759999999999999,0.4,1,1.0
+tom king,wolves,Premier-League,2024-2025,0,0,,,0,
+antonin kinsky,tottenham,Premier-League,2024-2025,11,32,0.6559999999999999,0.16699999999999998,0,
+bernd leno,fulham,Premier-League,2024-2025,54,159,0.679,0.132,4,0.25
+joe lumley,southampton,Premier-League,2024-2025,7,20,0.65,0.0,0,
+emiliano martinez,aston villa,Premier-League,2024-2025,45,142,0.69,0.21600000000000003,2,0.5
+alex mccarthy,southampton,Premier-League,2024-2025,13,37,0.703,0.0,2,0.0
+arijanet muric,ipswich town,Premier-League,2024-2025,33,100,0.7,0.055999999999999994,3,0.0
+neto,bournemouth,Premier-League,2024-2025,2,13,0.846,0.0,0,
+robin olsen,aston villa,Premier-League,2024-2025,6,14,0.643,1.0,1,0.0
+andre onana,manchester utd,Premier-League,2024-2025,44,132,0.6890000000000001,0.265,4,0.25
+stefan ortega,manchester city,Premier-League,2024-2025,18,50,0.68,0.25,2,0.0
+alex palmer,ipswich town,Premier-League,2024-2025,30,71,0.5920000000000001,0.0,1,0.0
+jordan pickford,everton,Premier-League,2024-2025,44,163,0.73,0.316,2,1.0
+nick pope,newcastle utd,Premier-League,2024-2025,35,120,0.7170000000000001,0.28600000000000003,2,0.5
+aaron ramsdale,southampton,Premier-League,2024-2025,66,188,0.6759999999999999,0.1,7,0.28600000000000003
+david raya,arsenal,Premier-League,2024-2025,34,120,0.742,0.342,3,0.0
+jose sa,wolves,Premier-League,2024-2025,48,117,0.632,0.24100000000000002,7,0.28600000000000003
+robert sanchez,chelsea,Premier-League,2024-2025,34,127,0.764,0.313,5,0.2
+matz sels,nottham forest,Premier-League,2024-2025,46,165,0.7390000000000001,0.342,3,0.0
+jason steele,brighton,Premier-League,2024-2025,1,4,0.75,0.5,0,
+jakub stolarczyk,leicester city,Premier-League,2024-2025,16,44,0.636,0.2,0,
+mark travers,bournemouth,Premier-League,2024-2025,5,25,0.8,0.2,0,
+hakon valdimarsson,brentford,Premier-League,2024-2025,2,4,0.5,1.0,0,
+bart verbruggen,brighton,Premier-League,2024-2025,58,143,0.657,0.19399999999999998,9,0.0
+guglielmo vicario,tottenham,Premier-League,2024-2025,37,102,0.647,0.16699999999999998,1,0.0
+christian walton,ipswich town,Premier-League,2024-2025,19,39,0.564,0.14300000000000002,2,0.0
+danny ward,leicester city,Premier-League,2024-2025,6,10,0.4,0.0,0,
+emil audero,como,Serie-A,2024-2025,18,34,0.588,0.0,4,0.0
+jean butez,como,Serie-A,2024-2025,20,68,0.735,0.278,2,0.0
+elia caprile,napoli,Serie-A,2024-2025,1,8,0.875,1.0,0,
+elia caprile,cagliari,Serie-A,2024-2025,22,66,0.682,0.278,1,0.0
+marco carnesecchi,atalanta,Serie-A,2024-2025,34,129,0.752,0.382,2,0.0
+leandro chichizola,parma,Serie-A,2024-2025,3,6,0.5,0.0,0,
+giuseppe ciocci,cagliari,Serie-A,2024-2025,0,0,,,0,
+michele di gregorio,juventus,Serie-A,2024-2025,32,103,0.738,0.424,5,0.0
+wladimiro falcone,lecce,Serie-A,2024-2025,58,181,0.7240000000000001,0.237,10,0.111
+david de gea,fiorentina,Serie-A,2024-2025,38,135,0.726,0.314,3,0.667
+pierluigi gollini,genoa,Serie-A,2024-2025,15,32,0.625,0.14300000000000002,4,0.25
+jesse joronen,venezia,Serie-A,2024-2025,15,40,0.7,0.28600000000000003,3,0.0
+nicola leali,genoa,Serie-A,2024-2025,31,111,0.748,0.345,4,0.25
+mike maignan,milan,Serie-A,2024-2025,41,136,0.706,0.324,2,0.5
+christos mandas,lazio,Serie-A,2024-2025,7,27,0.741,0.444,0,
+josep martinez,inter,Serie-A,2024-2025,3,14,0.7859999999999999,0.6,0,
+andrea mazza,monza,Serie-A,2024-2025,0,0,,,0,
+alex meret,napoli,Serie-A,2024-2025,25,84,0.7140000000000001,0.47100000000000003,4,0.667
+vanja milinkovicsavic,torino,Serie-A,2024-2025,42,173,0.775,0.27,7,0.5710000000000001
+lorenzo montipo,hellas verona,Serie-A,2024-2025,64,161,0.615,0.222,4,0.33299999999999996
+juan musso,atalanta,Serie-A,2024-2025,0,4,1.0,1.0,0,
+maduka okoye,udinese,Serie-A,2024-2025,40,110,0.6729999999999999,0.16,5,0.0
+daniele padelli,udinese,Serie-A,2024-2025,0,3,1.0,1.0,0,
+alberto paleari,torino,Serie-A,2024-2025,3,7,0.5710000000000001,0.0,0,
+rui patricio,atalanta,Serie-A,2024-2025,3,14,0.7859999999999999,0.33299999999999996,0,
+simone perilli,hellas verona,Serie-A,2024-2025,2,11,0.818,0.0,0,
+mattia perin,juventus,Serie-A,2024-2025,3,16,0.813,0.6,0,
+semuel pizzignacco,monza,Serie-A,2024-2025,17,38,0.5529999999999999,0.125,0,
+ivan provedel,lazio,Serie-A,2024-2025,42,92,0.5870000000000001,0.172,4,0.0
+ionut radu,venezia,Serie-A,2024-2025,18,65,0.769,0.267,3,0.0
+federico ravaglia,bologna,Serie-A,2024-2025,14,24,0.45799999999999996,0.364,1,0.0
+pepe reina,como,Serie-A,2024-2025,14,41,0.6829999999999999,0.16699999999999998,1,0.0
+razvan sava,udinese,Serie-A,2024-2025,16,51,0.745,0.33299999999999996,3,0.0
+simone scuffet,cagliari,Serie-A,2024-2025,23,56,0.679,0.077,5,0.0
+simone scuffet,napoli,Serie-A,2024-2025,1,4,0.75,0.0,0,
+jacopo seghetti,empoli,Serie-A,2024-2025,3,6,0.5,0.0,0,
+alen sherri,cagliari,Serie-A,2024-2025,11,31,0.645,0.14300000000000002,0,
+benjamin siegrist,genoa,Serie-A,2024-2025,2,12,0.833,0.0,0,
+marco silvestri,empoli,Serie-A,2024-2025,11,27,0.593,0.0,0,
+ukasz skorupski,bologna,Serie-A,2024-2025,33,82,0.61,0.29600000000000004,2,0.5
+daniele sommariva,genoa,Serie-A,2024-2025,1,3,0.667,,0,
+yann sommer,inter,Serie-A,2024-2025,32,116,0.75,0.39399999999999996,4,0.25
+marco sportiello,milan,Serie-A,2024-2025,2,6,0.667,1.0,0,
+filip stankovic,venezia,Serie-A,2024-2025,23,83,0.7709999999999999,0.0,5,0.2
+zion suzuki,parma,Serie-A,2024-2025,53,150,0.68,0.19399999999999998,5,0.0
+mile svilar,roma,Serie-A,2024-2025,35,151,0.795,0.42100000000000004,4,0.0
+pietro terracciano,fiorentina,Serie-A,2024-2025,3,13,0.769,0.33299999999999996,0,
+stefano turati,monza,Serie-A,2024-2025,52,145,0.655,0.067,4,0.5
+devis vasquez,empoli,Serie-A,2024-2025,45,125,0.648,0.188,3,0.5
+ben alexander voll,st pauli,Bundesliga,2024-2025,2,5,0.6,0.0,0,
+noah atubolu,freiburg,Bundesliga,2024-2025,37,120,0.6920000000000001,0.385,2,1.0
+oliver baumann,hoffenheim,Bundesliga,2024-2025,53,138,0.63,0.14300000000000002,5,0.6
+tiago cardoso,gladbach,Bundesliga,2024-2025,3,23,0.87,0.5,0,
+finn dahmen,augsburg,Bundesliga,2024-2025,19,82,0.7929999999999999,0.474,2,0.0
+thomas dahne,holstein kiel,Bundesliga,2024-2025,19,55,0.691,0.0,3,0.33299999999999996
+patrick drewes,bochum,Bundesliga,2024-2025,46,99,0.5660000000000001,0.095,5,0.4
+frank feller,heidenheim,Bundesliga,2024-2025,0,2,1.0,2.0,0,
+kamil grabara,wolfsburg,Bundesliga,2024-2025,49,137,0.657,0.172,3,0.33299999999999996
+peter gulacsi,rb leipzig,Bundesliga,2024-2025,39,137,0.73,0.467,3,0.33299999999999996
+timo horn,bochum,Bundesliga,2024-2025,22,54,0.593,0.231,1,
+lukas hradecky,leverkusen,Bundesliga,2024-2025,38,118,0.7120000000000001,0.207,4,0.0
+gregor kobel,dortmund,Bundesliga,2024-2025,47,129,0.667,0.21899999999999997,4,0.0
+matej kovar,leverkusen,Bundesliga,2024-2025,5,16,0.688,0.6,0,
+nediljko labrovic,augsburg,Bundesliga,2024-2025,32,74,0.608,0.133,3,0.0
+alexander meyer,dortmund,Bundesliga,2024-2025,4,11,0.636,0.0,0,
+florian muller,freiburg,Bundesliga,2024-2025,16,30,0.5329999999999999,0.125,2,0.0
+kevin muller,heidenheim,Bundesliga,2024-2025,64,169,0.657,0.212,6,0.0
+marius muller,wolfsburg,Bundesliga,2024-2025,5,23,0.7829999999999999,0.2,0,
+manuel neuer,bayern munich,Bundesliga,2024-2025,15,45,0.6890000000000001,0.591,2,0.0
+moritz nicolas,gladbach,Bundesliga,2024-2025,25,92,0.7829999999999999,0.21100000000000002,5,0.0
+alexander nubel,stuttgart,Bundesliga,2024-2025,53,136,0.625,0.20600000000000002,3,0.33299999999999996
+jonas omlin,gladbach,Bundesliga,2024-2025,26,72,0.667,0.091,3,0.33299999999999996
+daniel peretz,bayern munich,Bundesliga,2024-2025,5,7,0.28600000000000003,0.0,0,
+luca philipp,hoffenheim,Bundesliga,2024-2025,15,35,0.6,0.0,1,0.0
+lasse rie,mainz,Bundesliga,2024-2025,2,8,0.75,0.0,0,
+frederik rnnow,union berlin,Bundesliga,2024-2025,37,111,0.6759999999999999,0.28600000000000003,5,0.8
+kaua santos,eint frankfurt,Bundesliga,2024-2025,12,46,0.7609999999999999,0.375,1,0.0
+alexander schwolow,union berlin,Bundesliga,2024-2025,13,28,0.5710000000000001,0.0,1,0.0
+tobias sippel,gladbach,Bundesliga,2024-2025,3,4,0.25,,0,
+kevin trapp,eint frankfurt,Bundesliga,2024-2025,34,117,0.7090000000000001,0.231,2,1.0
+sven ulreich,bayern munich,Bundesliga,2024-2025,0,0,,1.0,0,
+jonas urbig,bayern munich,Bundesliga,2024-2025,12,28,0.5710000000000001,0.25,0,
+maarten vandevoordt,rb leipzig,Bundesliga,2024-2025,9,21,0.5710000000000001,0.0,0,
+nikola vasilj,st pauli,Bundesliga,2024-2025,39,135,0.7190000000000001,0.273,5,0.8
+timon weiner,holstein kiel,Bundesliga,2024-2025,61,140,0.593,0.08,4,0.0
+robin zentner,mainz,Bundesliga,2024-2025,41,142,0.7390000000000001,0.281,5,0.2
+michael zetterer,werder bremen,Bundesliga,2024-2025,57,156,0.654,0.294,3,0.0
+dimitry bertaud,montpellier,Ligue-1,2024-2025,11,21,0.5710000000000001,0.0,2,0.0
+marco bizot,brest,Ligue-1,2024-2025,54,128,0.6409999999999999,0.313,10,0.111
+marcin buka,nice,Ligue-1,2024-2025,41,161,0.758,0.235,3,0.33299999999999996
+patrik carlgren,nantes,Ligue-1,2024-2025,7,28,0.75,0.25,0,
+lucas chevalier,lille,Ligue-1,2024-2025,36,126,0.746,0.324,4,0.0
+gregoire coudert,brest,Ligue-1,2024-2025,5,13,0.615,0.0,0,
+theo de percin,auxerre,Ligue-1,2024-2025,3,9,0.778,0.5,2,0.5
+remy descamps,lyon,Ligue-1,2024-2025,2,6,0.667,0.0,0,
+arthur desmas,le havre,Ligue-1,2024-2025,38,93,0.613,0.16699999999999998,3,0.33299999999999996
+yehvann diouf,reims,Ligue-1,2024-2025,47,179,0.76,0.20600000000000002,5,0.2
+alex dominguez,toulouse,Ligue-1,2024-2025,0,0,,,0,
+gianluigi donnarumma,paris sg,Ligue-1,2024-2025,25,74,0.6759999999999999,0.16699999999999998,1,0.0
+yahia fofana,angers,Ligue-1,2024-2025,51,186,0.742,0.212,4,0.0
+gauthier gallon,rennes,Ligue-1,2024-2025,0,0,,,0,
+mathieu gorgelin,le havre,Ligue-1,2024-2025,33,82,0.634,0.063,3,0.0
+kjetil haug,toulouse,Ligue-1,2024-2025,7,16,0.563,0.2,0,
+karljohan johnsson,strasbourg,Ligue-1,2024-2025,6,22,0.773,0.0,1,0.0
+herve koffi,lens,Ligue-1,2024-2025,8,26,0.769,0.0,2,0.0
+philipp kohn,monaco,Ligue-1,2024-2025,19,63,0.7140000000000001,0.42100000000000004,1,0.0
+alban lafont,nantes,Ligue-1,2024-2025,19,49,0.6729999999999999,0.16699999999999998,3,0.0
+gautier larsonneur,saintetienne,Ligue-1,2024-2025,77,209,0.6940000000000001,0.147,15,0.133
+benjamin lecomte,montpellier,Ligue-1,2024-2025,68,173,0.642,0.033,7,0.14300000000000002
+donovan leon,auxerre,Ligue-1,2024-2025,48,164,0.738,0.281,6,0.16699999999999998
+anthony lopes,nantes,Ligue-1,2024-2025,26,71,0.69,0.16699999999999998,5,0.0
+radosaw majecki,monaco,Ligue-1,2024-2025,22,65,0.6920000000000001,0.2,2,0.0
+steve mandanda,rennes,Ligue-1,2024-2025,23,51,0.588,0.353,3,0.33299999999999996
+lucas perri,lyon,Ligue-1,2024-2025,44,160,0.7440000000000001,0.303,3,0.0
+ore petrovic,strasbourg,Ligue-1,2024-2025,38,147,0.789,0.32299999999999995,8,0.125
+guillaume restes,toulouse,Ligue-1,2024-2025,36,92,0.62,0.276,2,0.5
+geronimo rulli,marseille,Ligue-1,2024-2025,47,135,0.674,0.147,6,0.5
+mathew ryan,lens,Ligue-1,2024-2025,17,62,0.758,0.429,3,0.33299999999999996
+matvei safonov,paris sg,Ligue-1,2024-2025,9,25,0.72,0.33299999999999996,2,0.0
+brice samba,rennes,Ligue-1,2024-2025,27,87,0.701,0.294,3,0.667
+brice samba,lens,Ligue-1,2024-2025,14,54,0.815,0.467,4,0.0
+arnau tenas,paris sg,Ligue-1,2024-2025,1,4,0.75,0.0,0,
+melvin zinga,angers,Ligue-1,2024-2025,2,4,0.75,0.0,1,0.0

@@ -26,7 +26,6 @@ WORK = BASE / "work"
 
 # Importa tus funciones del repo
 from repo.scripts.pipeline_api import (
-    run_scraping_pipeline,
     spark_merge_and_convert,
     spark_compute_scores,
 )
@@ -36,11 +35,6 @@ DEFAULT_ARGS = {
     "retries": 1,
     "retry_delay": timedelta(minutes=10),
 }
-
-def _to_bool(x):
-    if isinstance(x, str):
-        return x.strip().lower() in {"1", "true", "t", "yes", "y", "on"}
-    return bool(x)
 
 def get_pbi_token():
         app = msal.ConfidentialClientApplication(
@@ -71,18 +65,16 @@ def get_pbi_token():
 )
 
 def tfm_weekly_pipeline():
-    season_t = "{{ dag_run.conf.get('season', params.season) }}"
-    ejecutar_r_t = False
     @task(task_id="merge")
     def merge() -> str:
         return spark_merge_and_convert()
     @task(task_id="score")
     def score(clean_path: str) -> str:
         outo = "/opt/airflow/v1/players_clean.parquet"
-        out = WORK / "players_clean.parquet"
-        return spark_compute_scores(input_parquet=clean_path, output_parquet=outo)
+        clean_path = WORK / "players.parquet"
+        return spark_compute_scores(input_parquet=clean_path, output_parquet=WORK)
     p_clean = merge()
-    p_scored = score(p_clean)
+   
     @task(task_id="trigger_powerbi_refresh")
     def trigger_powerbi_refresh():
         required = ["PBI_TENANT_ID","PBI_CLIENT_ID","PBI_CLIENT_SECRET","PBI_GROUP_ID","PBI_DATASET_ID"]

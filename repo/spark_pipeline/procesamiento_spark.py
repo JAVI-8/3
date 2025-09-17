@@ -116,18 +116,20 @@ def map_squads_by_league(df_tm, df_fb, max_frac=0.5, max_abs=2):
     return df_tm_mapeado
 
 #une los diferentes df
-def union_datasets(spark):
-    #cargar los diferentes df
+def union_datasets(spark, input_dir):
+    # Acepta str o Path
+    dir = Path(input_dir)
+    aux = Path("data/v2")
     sources = {
-        "stats": spark.read.option("header", True).csv(str(DATA/ "stats.csv")),
-        "misc": spark.read.option("header", True).csv(str(DATA/ "misc.csv")),
-        "defense": spark.read.option("header", True).csv(str(DATA/ "defense.csv")),
-        "passing": spark.read.option("header", True).csv(str(DATA/ "passing.csv")),
-        "possession": spark.read.option("header", True).csv(str(DATA/ "possession.csv")),
-        "shooting":spark.read.option("header", True).csv(str(DATA/ "shooting.csv")),
-        "mercado": spark.read.option("header", True).csv(str(DATA / "mercado.csv")),
-        "keepers": spark.read.option("header", True).csv(str(DATA/ "keepers.csv")),
-        "keepersadv": spark.read.option("header", True).csv(str(DATA/ "keepersadv.csv"))
+        "stats": spark.read.option("header", True).csv(str(dir/ "stats.csv")),
+        "misc": spark.read.option("header", True).csv(str(dir/ "misc.csv")),
+        "defense": spark.read.option("header", True).csv(str(dir/ "defense.csv")),
+        "passing": spark.read.option("header", True).csv(str(dir/ "passing.csv")),
+        "possession": spark.read.option("header", True).csv(str(dir/ "possession.csv")),
+        "shooting":spark.read.option("header", True).csv(str(dir/ "shooting.csv")),
+        "mercado": spark.read.option("header", True).csv(str(aux / "mercado.csv")),
+        "keepers": spark.read.option("header", True).csv(str(dir/ "keepers.csv")),
+        "keepersadv": spark.read.option("header", True).csv(str(dir/ "keepersadv.csv"))
     }
     #unir
     unido = sources["stats"] \
@@ -143,7 +145,7 @@ def union_datasets(spark):
     return unido
 
 #guarda todo el df de los datos unidos
-def guardar_en_parquet(df):
+def guardar_en_parquet(df, output):
     
     '''snapshot = date.today().isoformat()
     df = df.withColumn("snapshot_date", F.lit(snapshot))
@@ -153,13 +155,12 @@ def guardar_en_parquet(df):
     
     df.write.mode("overwrite").parquet(str(out_dir / ".parquet"))
     print("Datos procesados y exportados en formato Parquet.")'''
+    dir = Path(output)
     
-    out_dir = WORK_DIR / "parquets" / "latest" / "players"
-    out_dir.mkdir(parents=True, exist_ok=True)
-    df.write.mode("overwrite").parquet(str(out_dir / "data.parquet"))
+    df.write.mode("overwrite").parquet(str(dir / "players.parquet"))
     print("Datos procesados y exportados en formato Parquet.")
     
-    return str(out_dir / ".parquet")
+    return str(dir / "players.parquet")
 #normalizar por 90 min 
 def normalizar_por_90_min(df):
     columnas_validas = [c for c in variables_por_90 if c in df.columns]
@@ -183,13 +184,11 @@ def cast_all_numeric_to_double(df):
     return df
 
 
-def procesar():
+def procesar(input, output):
     spark = crear_sesion()
     try:
-        
-        
         print("Uniendo los datasets...")
-        df = union_datasets(spark)
+        df = union_datasets(spark, input)
         
         print("casteando a double...")
         df = cast_all_numeric_to_double(df)
@@ -199,7 +198,7 @@ def procesar():
 
         df = combinacion_variables(df)
         print("Guardando...")
-        return guardar_en_parquet(df)
+        return guardar_en_parquet(df, output)
 
         
     finally:

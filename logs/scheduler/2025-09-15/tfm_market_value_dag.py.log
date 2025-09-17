@@ -17722,3 +17722,60 @@ Traceback (most recent call last):
 ModuleNotFoundError: No module named 'infravalorados'
 [2025-09-15T23:27:39.852+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/tfm_market_value_dag.py
 [2025-09-15T23:27:39.865+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/tfm_market_value_dag.py took 0.904 seconds
+[2025-09-15T23:28:12.367+0000] {processor.py:161} INFO - Started process (PID=3853) to work on /opt/airflow/dags/tfm_market_value_dag.py
+[2025-09-15T23:28:12.368+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/tfm_market_value_dag.py for tasks to queue
+[2025-09-15T23:28:12.368+0000] {logging_mixin.py:188} INFO - [2025-09-15T23:28:12.368+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/tfm_market_value_dag.py
+[2025-09-15T23:28:13.553+0000] {logging_mixin.py:188} INFO - [2025-09-15T23:28:13.531+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/tfm_market_value_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/tfm_market_value_dag.py", line 28, in <module>
+    from repo.scripts.pipeline_api import (
+  File "/opt/airflow/repo/scripts/pipeline_api.py", line 21, in <module>
+    from spark_pipeline.scoring_utils import calcular         # calcular(input_parquet, output_parquet)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/airflow/repo/spark_pipeline/scoring_utils.py", line 12, in <module>
+    from infravalorados import comparar_jugadores
+ModuleNotFoundError: No module named 'infravalorados'
+[2025-09-15T23:28:13.558+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/tfm_market_value_dag.py
+[2025-09-15T23:28:13.584+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/tfm_market_value_dag.py took 1.222 seconds
+[2025-09-15T23:28:45.949+0000] {processor.py:161} INFO - Started process (PID=3859) to work on /opt/airflow/dags/tfm_market_value_dag.py
+[2025-09-15T23:28:45.950+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/tfm_market_value_dag.py for tasks to queue
+[2025-09-15T23:28:45.951+0000] {logging_mixin.py:188} INFO - [2025-09-15T23:28:45.951+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/tfm_market_value_dag.py
+[2025-09-15T23:28:46.964+0000] {logging_mixin.py:188} INFO - [2025-09-15T23:28:46.940+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/tfm_market_value_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/tfm_market_value_dag.py", line 28, in <module>
+    from repo.scripts.pipeline_api import (
+  File "/opt/airflow/repo/scripts/pipeline_api.py", line 21, in <module>
+    from spark_pipeline.scoring_utils import calcular         # calcular(input_parquet, output_parquet)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/airflow/repo/spark_pipeline/scoring_utils.py", line 12, in <module>
+    from infravalorados import comparar_jugadores
+ModuleNotFoundError: No module named 'infravalorados'
+[2025-09-15T23:28:46.971+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/tfm_market_value_dag.py
+[2025-09-15T23:28:46.995+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/tfm_market_value_dag.py took 1.051 seconds
+[2025-09-15T23:29:19.683+0000] {processor.py:161} INFO - Started process (PID=3865) to work on /opt/airflow/dags/tfm_market_value_dag.py
+[2025-09-15T23:29:19.685+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/tfm_market_value_dag.py for tasks to queue
+[2025-09-15T23:29:19.687+0000] {logging_mixin.py:188} INFO - [2025-09-15T23:29:19.686+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/tfm_market_value_dag.py
+[2025-09-15T23:29:20.839+0000] {logging_mixin.py:188} INFO - [2025-09-15T23:29:20.828+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/tfm_market_value_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.11/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/tfm_market_value_dag.py", line 28, in <module>
+    from repo.scripts.pipeline_api import (
+  File "/opt/airflow/repo/scripts/pipeline_api.py", line 21, in <module>
+    from spark_pipeline.scoring_utils import calcular         # calcular(input_parquet, output_parquet)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/airflow/repo/spark_pipeline/scoring_utils.py", line 12, in <module>
+    from infravalorados import comparar_jugadores
+ModuleNotFoundError: No module named 'infravalorados'
+[2025-09-15T23:29:20.841+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/tfm_market_value_dag.py
+[2025-09-15T23:29:20.856+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/tfm_market_value_dag.py took 1.183 seconds

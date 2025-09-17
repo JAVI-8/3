@@ -59,7 +59,8 @@ def run_r(temporada: str = "2024-2025"):
             f"STDOUT:\n{result.stdout}\n\nSTDERR:\n{result.stderr}"
         )
 
-    return result.stdout
+    limpiar_mercado()
+    
 def limpiar_mercado():
     print("leyendo datos en bruto de transfermrkt")
     df_mercado = pd.read_csv("data/v3/valores_mercado3_2024-2025.csv")
@@ -77,16 +78,7 @@ def scrap_fbref_and_clean(temporada):
         except Exception as e:
             print(f"FBref error en {temporada} [{type}]: {e}")
     return out_dir
-        
-def run(season, ejecutar_r):
-    #fbref + limpiar
-    scrap_fbref_and_clean(season)
     
-    if ejecutar_r:
-        #mercado en R + limpiar mercado
-        print(f"\nProcesando transfermarkt")
-        run_r(season)
-        limpiar_mercado()
 
     
 if __name__ == "__main__":

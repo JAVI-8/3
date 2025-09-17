@@ -9,11 +9,13 @@ import builtins
 from pyspark.sql import SparkSession
 from pyspark import SparkConf
 from pyspark.sql import functions as F
-from infravalorados import comparar_jugadores
+
 
 from pathlib import Path
-from datetime import date
+from spark_pipeline.infravalorados import comparar_jugadores
 
+WORK_DIR = Path("/opt/airflow/work")
+WORK_DIR.mkdir(parents=True, exist_ok=True)
 
 #pesos de las variables por posicion
 position_metrics = {
@@ -245,32 +247,48 @@ def cargar_df(spark, input):
     df = spark.read.parquet(input)
     return df
 
-def pathElection():
-    airflow_path = Path("/opt/airflow/work")
-    if airflow_path.exists():
-        return airflow_path
-    
-    return Path("work")
 def calcular_adjusted_score(df):
     df = df.withColumn("adjusted_score", col("performance_score") - col("penalty_score"))
     return df
-WORK_DIR = Path("/opt/airflow/work")
-WORK_DIR.mkdir(parents=True, exist_ok=True)
-def guardar(df): #columnas a guardar
-    '''snapshot = date.today().isoformat()
-    df = df.withColumn("snapshot_date", F.lit(snapshot))
-    out_dir = WORK_DIR / "parquets" / "performance" / snapshot
-    out_dir.mkdir(parents=True, exist_ok=True)
-    extra = df.select( "Player", "Squad", "Season", "Liga", "Pos", "Min", "Value", "Height", "performance_score", "penalty_score", "adjusted_score" )
-    (extra).coalesce(1).write.mode("overwrite").parquet(str(out_dir / ".parquet"))'''
-    work_dir=pathElection()
-    out_dir = work_dir / "parquets" / "performance" / "latest"
-    out_dir.mkdir(parents=True, exist_ok=True)
-    extra = df.select( "Player", "Squad", "Season", "Liga", "Pos", "Min", "Value", "Height", "performance_score", "penalty_score", "adjusted_score" )
-    (extra).coalesce(1).write.mode("overwrite").parquet(str(out_dir / "score.parquet"))
 
+def guardar2(df, output):
+    
+    metrics = ["Int_per90", "Blocks_per90", "Aerialwon%", "PrgP_per90",
+        "Effective_Pass_Short", "Effective_Pass_Medium", "Effective_Pass_Long", "Effective_Tkl", "Crosses_per90", "PrgC_per90", "xA_per90", "CrsPA_per90", "Effective_Drib", "Recov_per90", "SoT_per90", "Carries_Att_Pen_per90"]
 
-def calcular(input):
+    df_norm = df
+
+    #normalizar por min max
+    for m in metrics:
+        min_val = df.agg(F.min(F.col(m))).first()[0]
+        max_val = df.agg(F.max(F.col(m))).first()[0]
+            
+         # Crea la columna normalizada
+        df_norm = df_norm.withColumn(
+            f"{m}_norm",
+            F.when(F.lit(max_val) == F.lit(min_val), F.lit(0.5))  #evita la divion por 0
+            .otherwise((F.col(m) - F.lit(min_val)) / (F.lit(max_val) - F.lit(min_val)))
+        )
+
+    #columnas a guardar
+    extra = df_norm.select(
+        "Player", "Squad", "Season", "Competition", "Pos", "Min", "Value", "Height",
+        "performance_score", "penalty_score", "adjusted_score", "Evaluated_Position", "Int_per90_norm", "Blocks_per90_norm", "Aerialwon%_norm", "PrgP_per90_norm",
+        "Effective_Pass_Short_norm", "Effective_Pass_Medium_norm", "Effective_Pass_Long_norm", "Effective_Tkl_norm", "Crosses_per90_norm", "PrgC_per90_norm", "xA_per90_norm", "CrsPA_per90_norm", "Effective_Drib_norm", "Recov_per90_norm", "SoT_per90_norm", "Carries_Att_Pen_per90_norm"
+    )
+    
+    (extra).coalesce(1).write.mode("overwrite").parquet(output)
+    
+def guardar(df, output):
+
+    dir = Path(output)
+    extra = df.select(
+        "Player", "Squad", "Season", "Liga", "Pos", "Min", "Value", "Height",
+        "performance_score", "penalty_score", "adjusted_score"
+    )
+    (extra).coalesce(1).write.mode("overwrite").parquet(str(dir / "final.parquet"))
+
+def calcular(input, output):
     spark = crear_sesion()
     try:
         print("cargando dataset...")
@@ -288,11 +306,10 @@ def calcular(input):
         print("calculando adjusted_score...")
         df = calcular_adjusted_score(df)
         
-        print("calcular top...")
-        comparar_jugadores(df)
-        
+        print("calculando top...")
+        comparar_jugadores(df, output)
         print("guardando performance_score...")
-        guardar(df)
+        guardar(df, output)
         
         print("el dataset se ha guardado correctamente en formato parquet")
     finally:
@@ -304,6 +321,8 @@ if __name__ == "__main__":
     WORK.mkdir(parents=True, exist_ok=True)
     
     #inp = str(WORK / "players_clean.parquet")
-    inp = "data/players_clean.parquet"
+    inp = "work/parquets/latest/players.parquet"
+    out = "work/parquets/latest"
     print(inp)
-    calcular(input=inp)
+    print(out)
+    calcular(input=inp, output=out)

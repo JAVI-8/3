@@ -7,10 +7,8 @@ from tkinter import ttk, messagebox
 from pathlib import Path
 import pandas as pd
 
-# ============================================================
+
 #  CONFIG
-# ============================================================
-# Ruta fija del parquet (puede ser CARPETA parquet o ARCHIVO .parquet)
 PARQUET_PATH = Path(os.environ.get(
     "PARQUET_PATH",
     r"work/parquets/latest/top.parquet"
@@ -18,21 +16,30 @@ PARQUET_PATH = Path(os.environ.get(
 
 MAX_ROWS = 2000  # filas máximas a mostrar en la tabla
 
-# ============================================================
 #  PIPELINES (import opcional)
-# ============================================================
-run = run_r = limpiar_mercado = None
-try:
-    from controlador_scrpapping import run, run_r, limpiar_mercado  # nombre original
-except Exception:
-    try:
-        from controlador_scrapping import run, run_r, limpiar_mercado  # si lo renombraste
-    except Exception:
-        pass
 
-# ============================================================
+scrap_fbref_and_clean = run_r = None
+procesar = calcular = None
+
+try:
+    from controlador_scrpapping import scrap_fbref_and_clean, run_r
+except Exception:
+    # 2) Intento como módulo local (si ejecutas `python scripts/interfaz.py`)
+    try:
+        from controlador_scrpapping import scrap_fbref_and_clean, run_r
+    except Exception as e:
+        print(f"[AVISO] No pude importar run/run_r: {e}")
+
+# Spark pipeline
+try:
+    from spark_pipeline.procesamiento_spark import procesar
+    from spark_pipeline.scoring_utils import calcular
+except Exception as e:
+    print(f"[AVISO] No pude importar procesar/calcular: {e}")
+    
+
+
 #  THEME (ttk, oscuro + acento)
-# ============================================================
 def _clamp(x): return max(0, min(255, x))
 def _hex_to_rgb(h): h = h.lstrip("#"); return tuple(int(h[i:i+2], 16) for i in (0, 2, 4))
 def _rgb_to_hex(c): return "#{:02X}{:02X}{:02X}".format(*c)
@@ -99,18 +106,17 @@ def aplicar_cebra(tree: ttk.Treeview, alt="#0B1220"):
         if i % 2:
             tree.item(iid, tags=("oddrow",))
 
-# ============================================================
 #  LECTURA PARQUET (pandas + pyarrow)
-# ============================================================
+
 def read_parquet_fixed() -> pd.DataFrame:
     if not PARQUET_PATH.exists():
         raise FileNotFoundError(f"No existe la ruta: {PARQUET_PATH}")
     # pandas/pyarrow soporta carpeta parquet o archivo .parquet
     return pd.read_parquet(str(PARQUET_PATH), engine="pyarrow")
 
-# ============================================================
+
 #  TABLA (Treeview)
-# ============================================================
+
 def create_table(parent: tk.Widget) -> ttk.Treeview:
     container = ttk.Frame(parent)
     container.pack(expand=True, fill="both")
@@ -155,9 +161,8 @@ def populate_table(tree: ttk.Treeview, df: pd.DataFrame):
 
     aplicar_cebra(tree)
 
-# ============================================================
 #  ASYNC / RUN CHAIN
-# ============================================================
+
 def run_async(fn, on_ok=None, on_err=None):
     def worker():
         try:
@@ -179,7 +184,9 @@ def run_chain(steps, success_msg, after_ok=None):
     busy["value"] = True
     btn_fbref.config(state="disabled")
     btn_tmkt.config(state="disabled")
-
+    btn_merge.config(state="disabled")
+    btn_score.config(state="disabled")
+    
     def worker():
         try:
             for step in steps:
@@ -208,31 +215,55 @@ def run_chain(steps, success_msg, after_ok=None):
             busy["value"] = False
             root.after(0, lambda: (
                 btn_fbref.config(state="normal"),
-                btn_tmkt.config(state="normal")
+                btn_tmkt.config(state="normal"),
+                btn_merge.config(state="normal"),
+                btn_score.config(state="normal")
             ))
     threading.Thread(target=worker, daemon=True).start()
 
-# ============================================================
-#  ACCIONES
-# ============================================================
+# ACCIONES
 def accion_fbref():
-    if run is None:
+    if scrap_fbref_and_clean is None:
         messagebox.showinfo("FBref", "Conecta aquí run(season, ejecutar_r=False).")
         return
     run_chain(
-        steps=[(run, ("2025-2026", False), {})],
+        steps=[(scrap_fbref_and_clean, ("2024-2025",), {})],
         success_msg="FBref: scrape + limpieza completados.",
         after_ok=recargar
     )
 
 def accion_transfermarkt():
-    if run_r is None or limpiar_mercado is None:
+    if run_r is None:
         messagebox.showinfo("Transfermarkt", "Conecta aquí run_r(temporada) + limpiar_mercado(temporada).")
         return
     temporada = "2024-2025"
     run_chain(
-        steps=[(run_r, (temporada,), {}), (limpiar_mercado, (temporada,), {})],
+        steps=[(run_r, (temporada,), {})],
         success_msg="Transfermarkt: scrape + limpieza completados.",
+        after_ok=recargar
+    )
+
+def accion_merge():
+    if procesar is None:
+        messagebox.showinfo("Transfermarkt", "Conecta aquí run_r(temporada) + limpiar_mercado(temporada).")
+        return
+    output = "work/parquets/latest"
+    input = "data/v2"
+    run_chain(
+        steps=[(procesar, (input, output), {})],
+        success_msg="merge completado.",
+        after_ok=recargar
+    )
+    
+def accion_score():
+    if calcular is None:
+        messagebox.showinfo("Transfermarkt", "Conecta aquí run_r(temporada) + limpiar_mercado(temporada).")
+        return
+    output = "work/parquets/latest"
+    input = "work/parquets/latest/players.parquet"
+    run_chain(
+        steps=[(calcular, (input, output), {})],
+        success_msg="score completado.",
         after_ok=recargar
     )
 
@@ -242,9 +273,8 @@ def recargar():
     def on_err(msg): messagebox.showerror("Error al cargar Parquet", f"{msg}\n\nRuta: {PARQUET_PATH}")
     run_async(task, on_ok, on_err)
 
-# ============================================================
-#  UI
-# ============================================================
+# UI
+
 root = tk.Tk()
 root.title("App TFM")
 root.geometry("1200x800")
@@ -255,11 +285,14 @@ aplicar_tema(root)
 topbar = ttk.Frame(root, style="Panel.TFrame", padding=8)
 topbar.pack(side="top", fill="x")
 
-btn_fbref = ttk.Button(topbar, text="⚽ FBref: Scrape + Limpiar", style="Accent.TButton", command=accion_fbref)
-btn_tmkt  = ttk.Button(topbar, text="💱 Transfermarkt: Scrape + Limpiar", command=accion_transfermarkt)
+btn_fbref = ttk.Button(topbar, text="FBref: Scrape + Limpiar", style="Accent.TButton", command=accion_fbref)
+btn_tmkt  = ttk.Button(topbar, text="Transfermarkt: Scrape + Limpiar", command=accion_transfermarkt)
+btn_merge = ttk.Button(topbar, text="Procesar csvs", style="Accent.TButton", command=accion_merge)
+btn_score  = ttk.Button(topbar, text="calcular puntuación", command=accion_score)
 btn_fbref.pack(side="left", padx=6)
 btn_tmkt.pack(side="left", padx=6)
-
+btn_merge.pack(side="left", padx=6)
+btn_score.pack(side="left", padx=6)
 info = ttk.Label(topbar, style="Muted.TLabel",
                  text=f"F5: recargar  •  Esc: pantalla completa  •  Origen: {PARQUET_PATH}")
 info.pack(side="right", padx=6)
