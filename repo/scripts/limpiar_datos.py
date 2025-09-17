@@ -32,8 +32,7 @@ COLUMNAS_UTILES = {
         "npxG/Sh", "G-xG"
     ],
     "mercado": [
-        "player_name", "Liga", "Season", "player_position",
-        "squad", "player_height_mtrs", "player_market_value_euro"
+        "player_name", "squad", "Season", "Liga",  "player_position", "player_height_mtrs", "player_market_value_euro"
     ],
     "keepers": [
         "Player", "Squad", "Liga", "Season", "GA", "SoTA", "Save%", "CS%",
@@ -111,12 +110,14 @@ def normalizar_porcentajes(df: pd.DataFrame) -> pd.DataFrame:
         df[percent_cols] = df[percent_cols].apply(pd.to_numeric, errors="coerce") / 100
     return df
 
+#para que el csv de mercado solo tenga las primeras divisiones del pais
 def limpiar_ligas_transfermarkt(df: pd.DataFrame) -> pd.DataFrame:
     ligas_principales = ["Serie A", "La-Liga", "Premier-League", "Bundesliga", "Ligue-1"]
     if "Liga" in df.columns:
         return df[df["Liga"].isin(ligas_principales)]
     return df
 
+#general
 def limpiar(df: pd.DataFrame, carpeta: str) -> Path:
     print(f"[limpiar_datos] limpiando {carpeta}")
     columnas_utiles = COLUMNAS_UTILES.get(carpeta, df.columns.tolist())
@@ -129,6 +130,3 @@ def limpiar(df: pd.DataFrame, carpeta: str) -> Path:
     out_path = f"repo/data/{carpeta}.csv"
     df.to_csv(out_path, index=False)
     return out_path
-
-if __name__ == "__main__":
-    print(f"[limpiar_datos] generado")

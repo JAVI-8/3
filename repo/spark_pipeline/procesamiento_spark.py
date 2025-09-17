@@ -9,7 +9,7 @@ import os
 
 
 from datetime import date
-# --- Rutas dentro del contenedor ---
+#rutas dentro del contenedor
 DATA = Path(os.environ.get("DATA_DIR", "/opt/airflow/data/v2"))
 WORK_DIR = Path(os.environ.get("WORK_DIR", "/opt/airflow/work"))
 
@@ -27,7 +27,7 @@ variables_por_90 = [
     "Sh", "SoT", "xG", "npxG", "GA", "SoTA", "PKatt", "PSxG",
     "PSxG/SoT", "PSxG+/-", "Crosses_Opp", "#OPA", "YellowC", "RedC"
 ]
-#volumen * porcentaje de exito
+#volumen * porcentaje de exito para obtener la precision sobre el volumen 
 def combinacion_variables(df):
     df = df.withColumn("Effective_Pass_Short", col("Pass_Short") * col("Pass_cmp_Short%"))
     df = df.withColumn("Effective_Pass_Medium", col("Pass_Medium") * col("Pass_cmp_Medium%"))
@@ -60,16 +60,17 @@ def map_squads_by_league(df_tm, df_fb, max_frac=0.5, max_abs=2):
     #unicos por liga y temporada
     tm = (df_tm.select("Liga", "Season", "Squad").distinct()
               .withColumnRenamed("Squad", "Squad_tm")
-              .withColumnRenamed("Season", "Season_tm"))
-
+              .withColumnRenamed("Season", "Season_tm")
+              .withColumnRenamed("Liga", "Liga_tm"))
     fb = (df_fb.select("Liga", "Season", "Squad").distinct()
               .withColumnRenamed("Squad", "Squad_fb")
-              .withColumnRenamed("Season", "Season_fb"))
+              .withColumnRenamed("Season", "Season_fb")
+              .withColumnRenamed("Liga", "Liga_fb"))
 
     #misma liga Y temporada
     cand = (tm.join(
                 fb,
-                (tm["Liga"] == fb["Liga"]) & (tm["Season_tm"] == fb["Season_fb"]),
+                (tm["Liga_tm"] == fb["Liga_fb"]) & (tm["Season_tm"] == fb["Season_fb"]),
                 how="inner"
             )
             .withColumn("dist", F.levenshtein(F.col("Squad_tm"), F.col("Squad_fb")))
@@ -82,8 +83,7 @@ def map_squads_by_league(df_tm, df_fb, max_frac=0.5, max_abs=2):
             .filter(F.col("dist") <= F.col("max_dist"))
     )
 
-    # Mejor match por (Liga, Season_tm, Squad_tm)
-    w = Window.partitionBy("Liga", "Season_tm", "Squad_tm") \
+    w = Window.partitionBy("Liga_tm", "Season_tm", "Squad_tm") \
               .orderBy(F.col("dist").asc(),
                        F.length("Squad_fb").asc(),
                        F.col("Squad_fb").asc())
@@ -91,14 +91,12 @@ def map_squads_by_league(df_tm, df_fb, max_frac=0.5, max_abs=2):
     best = (cand.withColumn("rn", F.row_number().over(w))
                 .filter(F.col("rn") == 1)
                 .select(
-                    F.col("Liga"),
+                    F.col("Liga_tm").alias("Liga"),
                     F.col("Season_tm").alias("Season"),
                     F.col("Squad_tm"),
                     F.col("Squad_fb"),
                     F.col("dist"))
     )
-
-    # Join de vuelta y sobrescribe Squad (manteniendo el resto de columnas)
     m = df_tm.alias("m")
     b = best.alias("b")
     cond = ((F.col("m.Liga")   == F.col("b.Liga")) &
@@ -117,9 +115,9 @@ def map_squads_by_league(df_tm, df_fb, max_frac=0.5, max_abs=2):
 
 #une los diferentes df
 def union_datasets(spark, input_dir):
-    # Acepta str o Path
+    # Path
     dir = Path(input_dir)
-    aux = Path("data/v2")
+   
     sources = {
         "stats": spark.read.option("header", True).csv(str(dir/ "stats.csv")),
         "misc": spark.read.option("header", True).csv(str(dir/ "misc.csv")),
@@ -127,10 +125,12 @@ def union_datasets(spark, input_dir):
         "passing": spark.read.option("header", True).csv(str(dir/ "passing.csv")),
         "possession": spark.read.option("header", True).csv(str(dir/ "possession.csv")),
         "shooting":spark.read.option("header", True).csv(str(dir/ "shooting.csv")),
-        "mercado": spark.read.option("header", True).csv(str(aux / "mercado.csv")),
+        "mercado": spark.read.option("header", True).csv(str(dir / "mercado.csv")),
         "keepers": spark.read.option("header", True).csv(str(dir/ "keepers.csv")),
         "keepersadv": spark.read.option("header", True).csv(str(dir/ "keepersadv.csv"))
     }
+    sources["stats"]
+    sources["mercado"]=map_squads_by_league(sources["mercado"], sources["stats"]) #que los nombres de mercado que se parezcan a los nombres de fbref se igualan
     #unir
     unido = sources["stats"] \
             .join(sources["misc"], ["Player", "Squad", "Season", "Liga"]) \
@@ -146,21 +146,13 @@ def union_datasets(spark, input_dir):
 
 #guarda todo el df de los datos unidos
 def guardar_en_parquet(df, output):
-    
-    '''snapshot = date.today().isoformat()
-    df = df.withColumn("snapshot_date", F.lit(snapshot))
-    
-    out_dir = WORK_DIR / "parquets" / "players" / snapshot
-    out_dir.mkdir(parents=True, exist_ok=True)
-    
-    df.write.mode("overwrite").parquet(str(out_dir / ".parquet"))
-    print("Datos procesados y exportados en formato Parquet.")'''
     dir = Path(output)
     
     df.write.mode("overwrite").parquet(str(dir / "players.parquet"))
     print("Datos procesados y exportados en formato Parquet.")
     
     return str(dir / "players.parquet")
+
 #normalizar por 90 min 
 def normalizar_por_90_min(df):
     columnas_validas = [c for c in variables_por_90 if c in df.columns]
@@ -173,6 +165,7 @@ def normalizar_por_90_min(df):
         )
     return df
 
+#pasar el df a numeros
 def cast_all_numeric_to_double(df):
     exclude=("Player","Squad","Season","Liga","Pos")
     
@@ -183,7 +176,7 @@ def cast_all_numeric_to_double(df):
             df = df.withColumn(c, F.col(c).cast("string"))
     return df
 
-
+#general que va llamando a las funciones
 def procesar(input, output):
     spark = crear_sesion()
     try:
@@ -203,8 +196,4 @@ def procesar(input, output):
         
     finally:
         spark.stop()
-        
-if __name__ == "__main__":
-    procesar()
-            
         

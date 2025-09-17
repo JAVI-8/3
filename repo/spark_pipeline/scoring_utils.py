@@ -123,7 +123,7 @@ def cast_all_numeric_to_double(df):
             df = df.withColumn(c, F.col(c).cast("string"))
     return df
 
-
+#normalizar pesos
 def normalize_weights_by_position():
     normalized = {}
     for position, weights in position_metrics.items():
@@ -138,7 +138,7 @@ def normalize_weights_by_position():
 @udf(FloatType())
 def sum_vector(vec):
     return float(sum(vec))
-
+#calcular la penalización de cada jugador
 def calcular_penalty_score(df):
     penalty_weights = {
         'YellowC_per90': 0.03,
@@ -168,14 +168,13 @@ def calcular_penalty_score(df):
 
         created_penalty_cols.append(col_name)
 
-    # Filtrar solo las que realmente existen
     penalty_cols = [c for c in created_penalty_cols if c in df.columns]
 
     df = df.fillna(0, subset=penalty_cols)
     df = df.withColumn("penalty_score", sum([col(c) for c in penalty_cols]))
 
     return df
-
+#calcular el score que obtiene cada jugador segun la temporada y posición
 def calcular_performance_score_con_pesos(df):
     def procesar_posicion_x_temporada(df, pos, metric_weight_tuples):
         available_columns = df.columns
@@ -204,7 +203,7 @@ def calcular_performance_score_con_pesos(df):
             #convertir el vector a array
             df_season = df_season.withColumn("scaled_array", vector_to_array("scaled_features"))
 
-            # calcular columnas ponderadas
+            #calcular columnas ponderadas
             weighted_cols = []
             for i, (metric, weight) in enumerate(metric_weight_tuples_filtered):
                 weighted_col_name = f"{metric}_weighted"
@@ -216,7 +215,7 @@ def calcular_performance_score_con_pesos(df):
             else:
                 df_season = df_season.withColumn("performance_score", lit(0.0))
 
-            # eliminar columnas temporales
+            #eliminar columnas temporales
             cols_to_drop = ["features_vec", "scaled_features", "scaled_array"] + \
                            [f"{metric}_weighted" for metric, _ in metric_weight_tuples_filtered]
             df_season = df_season.drop(*cols_to_drop)
@@ -243,51 +242,26 @@ def crear_sesion():
     .getOrCreate()
     return spark
 
+#cargar df completo
 def cargar_df(spark, input):
     df = spark.read.parquet(input)
     return df
-
+#performance score - penalty score da el resultado del score de un jugador
 def calcular_adjusted_score(df):
     df = df.withColumn("adjusted_score", col("performance_score") - col("penalty_score"))
     return df
-
-def guardar2(df, output):
-    
-    metrics = ["Int_per90", "Blocks_per90", "Aerialwon%", "PrgP_per90",
-        "Effective_Pass_Short", "Effective_Pass_Medium", "Effective_Pass_Long", "Effective_Tkl", "Crosses_per90", "PrgC_per90", "xA_per90", "CrsPA_per90", "Effective_Drib", "Recov_per90", "SoT_per90", "Carries_Att_Pen_per90"]
-
-    df_norm = df
-
-    #normalizar por min max
-    for m in metrics:
-        min_val = df.agg(F.min(F.col(m))).first()[0]
-        max_val = df.agg(F.max(F.col(m))).first()[0]
-            
-         # Crea la columna normalizada
-        df_norm = df_norm.withColumn(
-            f"{m}_norm",
-            F.when(F.lit(max_val) == F.lit(min_val), F.lit(0.5))  #evita la divion por 0
-            .otherwise((F.col(m) - F.lit(min_val)) / (F.lit(max_val) - F.lit(min_val)))
-        )
-
-    #columnas a guardar
-    extra = df_norm.select(
-        "Player", "Squad", "Season", "Competition", "Pos", "Min", "Value", "Height",
-        "performance_score", "penalty_score", "adjusted_score", "Evaluated_Position", "Int_per90_norm", "Blocks_per90_norm", "Aerialwon%_norm", "PrgP_per90_norm",
-        "Effective_Pass_Short_norm", "Effective_Pass_Medium_norm", "Effective_Pass_Long_norm", "Effective_Tkl_norm", "Crosses_per90_norm", "PrgC_per90_norm", "xA_per90_norm", "CrsPA_per90_norm", "Effective_Drib_norm", "Recov_per90_norm", "SoT_per90_norm", "Carries_Att_Pen_per90_norm"
-    )
-    
-    (extra).coalesce(1).write.mode("overwrite").parquet(output)
-    
+#guardar en parquet la puntuación
 def guardar(df, output):
 
     dir = Path(output)
+    #se guarda solo la información que nos interesa
     extra = df.select(
         "Player", "Squad", "Season", "Liga", "Pos", "Min", "Value", "Height",
         "performance_score", "penalty_score", "adjusted_score"
     )
     (extra).coalesce(1).write.mode("overwrite").parquet(str(dir / "final.parquet"))
 
+#general que va llamando a las funciones
 def calcular(input, output):
     spark = crear_sesion()
     try:
@@ -314,15 +288,3 @@ def calcular(input, output):
         print("el dataset se ha guardado correctamente en formato parquet")
     finally:
         spark.stop()
-        
-if __name__ == "__main__":
-    from pathlib import Path
-    WORK = Path("/opt/airflow/work")
-    WORK.mkdir(parents=True, exist_ok=True)
-    
-    #inp = str(WORK / "players_clean.parquet")
-    inp = "work/parquets/latest/players.parquet"
-    out = "work/parquets/latest"
-    print(inp)
-    print(out)
-    calcular(input=inp, output=out)

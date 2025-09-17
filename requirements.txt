@@ -1,15 +1,14 @@
-# requirements.txt (para Airflow 2.9.x, Python 3.11)
+# requirements.txt (Airflow 2.9.x, Python 3.11)
 pandas==2.2.2
 requests==2.32.3
 beautifulsoup4==4.12.3
 lxml==5.2.2
 pyspark==3.5.1
 psycopg2-binary==2.9.9
-# Spark + ecosistema
+
 pyspark==3.5.1
 pyarrow>=14,<17
 pandas>=2.2
 pendulum>=3.0.0
-# (opcionales)
-# delta-spark==3.1.0
-# findspark
+pyspark
+pytest

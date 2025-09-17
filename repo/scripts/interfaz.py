@@ -1,4 +1,4 @@
-# interfaz.py
+#imports
 import os
 import threading
 import traceback
@@ -8,15 +8,15 @@ from pathlib import Path
 import pandas as pd
 
 
-#  CONFIG
+#  configuración
 PARQUET_PATH = Path(os.environ.get(
     "PARQUET_PATH",
-    r"work/parquets/latest/top.parquet"
+    r"work/parquets/latest/top.parquet"#ruta del archivo a mostrar
 ))
 
-MAX_ROWS = 2000  # filas máximas a mostrar en la tabla
+MAX_ROWS = 2000  # filas max a mostrar en la tabla
 
-#  PIPELINES (import opcional)
+
 
 scrap_fbref_and_clean = run_r = None
 procesar = calcular = None
@@ -24,7 +24,7 @@ procesar = calcular = None
 try:
     from controlador_scrpapping import scrap_fbref_and_clean, run_r
 except Exception:
-    # 2) Intento como módulo local (si ejecutas `python scripts/interfaz.py`)
+    
     try:
         from controlador_scrpapping import scrap_fbref_and_clean, run_r
     except Exception as e:
@@ -106,7 +106,7 @@ def aplicar_cebra(tree: ttk.Treeview, alt="#0B1220"):
         if i % 2:
             tree.item(iid, tags=("oddrow",))
 
-#  LECTURA PARQUET (pandas + pyarrow)
+#  leer el archivo
 
 def read_parquet_fixed() -> pd.DataFrame:
     if not PARQUET_PATH.exists():
@@ -115,7 +115,7 @@ def read_parquet_fixed() -> pd.DataFrame:
     return pd.read_parquet(str(PARQUET_PATH), engine="pyarrow")
 
 
-#  TABLA (Treeview)
+# tabla
 
 def create_table(parent: tk.Widget) -> ttk.Treeview:
     container = ttk.Frame(parent)
@@ -161,7 +161,6 @@ def populate_table(tree: ttk.Treeview, df: pd.DataFrame):
 
     aplicar_cebra(tree)
 
-#  ASYNC / RUN CHAIN
 
 def run_async(fn, on_ok=None, on_err=None):
     def worker():
@@ -221,8 +220,8 @@ def run_chain(steps, success_msg, after_ok=None):
             ))
     threading.Thread(target=worker, daemon=True).start()
 
-# ACCIONES
-def accion_fbref():
+# acciones de los botones
+def accion_fbref(): #obtener csvs de fbrf
     if scrap_fbref_and_clean is None:
         messagebox.showinfo("FBref", "Conecta aquí run(season, ejecutar_r=False).")
         return
@@ -232,7 +231,7 @@ def accion_fbref():
         after_ok=recargar
     )
 
-def accion_transfermarkt():
+def accion_transfermarkt():#obtener csv mercado de transfermarkt
     if run_r is None:
         messagebox.showinfo("Transfermarkt", "Conecta aquí run_r(temporada) + limpiar_mercado(temporada).")
         return
@@ -243,7 +242,7 @@ def accion_transfermarkt():
         after_ok=recargar
     )
 
-def accion_merge():
+def accion_merge(): #para unir los csvs
     if procesar is None:
         messagebox.showinfo("Transfermarkt", "Conecta aquí run_r(temporada) + limpiar_mercado(temporada).")
         return
@@ -255,7 +254,7 @@ def accion_merge():
         after_ok=recargar
     )
     
-def accion_score():
+def accion_score():#calcular el score de cada jugador
     if calcular is None:
         messagebox.showinfo("Transfermarkt", "Conecta aquí run_r(temporada) + limpiar_mercado(temporada).")
         return
@@ -273,15 +272,13 @@ def recargar():
     def on_err(msg): messagebox.showerror("Error al cargar Parquet", f"{msg}\n\nRuta: {PARQUET_PATH}")
     run_async(task, on_ok, on_err)
 
-# UI
-
 root = tk.Tk()
 root.title("App TFM")
 root.geometry("1200x800")
 
 aplicar_tema(root)
 
-# Topbar con dos botones en paralelo
+#topbar
 topbar = ttk.Frame(root, style="Panel.TFrame", padding=8)
 topbar.pack(side="top", fill="x")
 
@@ -296,11 +293,10 @@ btn_score.pack(side="left", padx=6)
 info = ttk.Label(topbar, style="Muted.TLabel",
                  text=f"F5: recargar  •  Esc: pantalla completa  •  Origen: {PARQUET_PATH}")
 info.pack(side="right", padx=6)
-
-# Tabla que ocupa el resto
+#tabla
 table = create_table(root)
 
-# Atajos
+#teclas de atajo
 def alternar_fullscreen(_=None):
     root.attributes("-fullscreen", not bool(root.attributes("-fullscreen")))
 def salir_app(_=None):
@@ -310,7 +306,7 @@ root.bind("<F5>", lambda e: recargar())
 root.bind("<Escape>", alternar_fullscreen)
 root.bind("<Control-q>", salir_app)
 
-# Primera carga
+#primera carga
 recargar()
 
 root.mainloop()

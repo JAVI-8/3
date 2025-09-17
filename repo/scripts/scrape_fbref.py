@@ -3,11 +3,11 @@ from bs4 import BeautifulSoup, Comment
 import pandas as pd
 from io import StringIO
 import time
-from functools import reduce
-ids_types = [("stats_standard", "stats"), ("stats_possession", "possession"), ("stats_defense", "defense"), ("stats_misc", "misc"), ("stats_passing", "passing"), ("stats_shooting", "shooting"), ("stats_keeper", "keepers"), ("stats_keeper_adv", "keepersadv")]
+
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0 Safari/537.36"
 }
+#obtener la info de cada jugador
 def extraer_tabla_jugadores(url, table_id):
     response = requests.get(url, headers=HEADERS)
     if response.status_code != 200:
@@ -28,12 +28,12 @@ def extraer_tabla_jugadores(url, table_id):
 
     raise ValueError(f"No se encontró la tabla {table_id} en {url}")
 
+#construir url
 def build_url(competition_id: int, type:str, slug:str, season) -> str:
     
     return f"https://fbref.com/en/comps/{competition_id}/{season}/{type}/{season}-{slug}-Stats"
-
+#crea el df de una caracteristica
 def crear_tablas(competition_id: int, name: str, slug:str, season, id, type):
-    dfs = []
     time.sleep(10)
     fbref_D_url = build_url(competition_id, type, slug, season)
     print(fbref_D_url)
@@ -43,6 +43,7 @@ def crear_tablas(competition_id: int, name: str, slug:str, season, id, type):
     return df
     
 def scrape_fbref(season, id, type):
+    #info de fbef
     ligas = [
     {"name": "La Liga", "slug": "La-Liga", "code": 12},
     {"name": "Premier League", "slug": "Premier-League", "code": 9},
@@ -52,17 +53,15 @@ def scrape_fbref(season, id, type):
 ]
     unidos = []
     temporada=[]
+    #recorre el array de info de fbref para recorrere las ligas
     for liga in ligas:
         print(f"\nProcesando: {liga['name']}")
         try:
             df = crear_tablas(liga["code"], liga["name"], liga["slug"], season, id, type)
-            unidos.append(df)
+            unidos.append(df)#une del mimo año en un solo df
             temporada = pd.concat(unidos, ignore_index=True)
             
         except Exception as e:
             print(f"FBref error en {liga['name']}: {e}")
             
     return temporada
-
-if __name__ == "__main__":
-    scrape_fbref("2025-2026", "stats_standard","stats")

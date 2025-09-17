@@ -12,7 +12,6 @@ AUTHORITY = f"https://login.microsoftonline.com/{os.environ['PBI_TENANT_ID']}"
 SCOPE = ["https://analysis.windows.net/powerbi/api/.default"]
 
 PBI_API_BASE = "https://api.powerbi.com/v1.0/myorg"
-# --- Rutas del repo (montaje local), NO uses una URL ---
 
 REPO_MOUNT = "/opt/airflow/repo"
 if REPO_MOUNT not in sys.path:
@@ -24,7 +23,6 @@ if str(BASE) not in sys.path:
 
 WORK = BASE / "work"
 
-# Importa tus funciones del repo
 from repo.scripts.pipeline_api import (
     spark_merge_and_convert,
     spark_compute_scores,
@@ -53,7 +51,7 @@ def get_pbi_token():
     dag_id="tfm_weekly_pipeline",
     description=" merge → score ",
     start_date=pendulum.datetime(2024, 8, 1, 3, 0, tz="Europe/Madrid"),
-    schedule="0 3 * * 2",  # Martes 03:00 hora de Madrid
+    schedule="0 3 * * 2",  #los martes 03:00 de la hora de Madrid
     catchup=False,
     default_args=DEFAULT_ARGS,
     max_active_runs=1,
@@ -65,10 +63,10 @@ def get_pbi_token():
 )
 
 def tfm_weekly_pipeline():
-    @task(task_id="merge")
+    @task(task_id="merge")#task de unión
     def merge() -> str:
         return spark_merge_and_convert()
-    @task(task_id="score")
+    @task(task_id="score")#task de sacar la puntuación de cada jugador
     def score(clean_path: str) -> str:
         outo = "/opt/airflow/v1/players_clean.parquet"
         clean_path = WORK / "players.parquet"
@@ -88,7 +86,7 @@ def tfm_weekly_pipeline():
         payload = { "type": "Full", "notifyOption": "MailOnFailure" }  # "Incremental" si procede
         r = requests.post(url, json=payload, headers={"Authorization": f"Bearer {token}"})
         r.raise_for_status()
-# === Instanciación y dependencias ===
+#instalar dependencias
     m = merge()
     sc = score(m)
     m >> sc >> trigger_powerbi_refresh()

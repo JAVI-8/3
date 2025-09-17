@@ -9,11 +9,10 @@ x-airflow-env: &airflow-env
   PYSPARK_PYTHON: python
   SPARK_LOCAL_DIRS: /opt/airflow/.spark
 
-  # NUEVO: rutas para tu pipeline (úsalas en Python)
+  #rutas para el pipeline
   DATA_DIR: /opt/airflow/data/v2
   WORK_DIR: /opt/airflow/work
 
-  # (opcionales) Power BI
   PBI_TENANT_ID: ${PBI_TENANT_ID:-}
   PBI_CLIENT_ID: ${PBI_CLIENT_ID:-}
   PBI_CLIENT_SECRET: ${PBI_CLIENT_SECRET:-}
@@ -60,7 +59,7 @@ services:
       - ./plugins:/opt/airflow/plugins
       - ./data:/opt/airflow/data
       - ./repo:/opt/airflow/repo
-      - ./work:/opt/airflow/work         # <- unificado (antes: ${PBI_SHARE_HOST})
+      - ./work:/opt/airflow/work         #unificado con windows se dejan los parquets
       - spark-local:/opt/airflow/.spark
     depends_on:
       postgres:

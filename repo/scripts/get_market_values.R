@@ -1,20 +1,20 @@
-# Establecer ruta de instalación local de paquetes
+#ruta de instalación local de paquetes
 .libPaths("C:/Users/jahoy/Rlibs")
 
-# Instalar dependencias si faltan
+# instalar dependencias si faltan
 if (!require("devtools")) {
   install.packages("devtools", repos = "https://cloud.r-project.org", lib = .libPaths()[1])
 }
 if (!require("worldfootballR")) {
   devtools::install_github("JaseZiv/worldfootballR", lib = .libPaths()[1])
 }
-# Ruta de salida personalizada
-output_dir <- "C:/Universidad/Master BDDE UCM/TFM/TFM/data/v3"
+# ruta de salida personalizada
+output_dir <- "C:/Universidad/Master BDDE UCM/TFM/TFM/data"
 if (!dir.exists(output_dir)) dir.create(output_dir, recursive = TRUE)
 
 library(worldfootballR)
 
-# Definir ligas y temporadas
+# edfinir ligas y temporadas
 ligas <- list(
   Spain = "LaLiga",
   England = "Premier League",
