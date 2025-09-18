@@ -67,7 +67,7 @@ for (pais in names(ligas)) {
 }
 file_name <- file.path(
         output_dir,
-        paste0("valores_mercado3_", temporada, ".csv")
+        paste0("valores_mercado_sucios", temporada, ".csv")
 )
 write.csv(df_total, file_name, row.names = FALSE)
   message(paste0("Archivo guardado: ", file_name))
