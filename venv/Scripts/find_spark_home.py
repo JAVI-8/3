@@ -1,4 +1,4 @@
-#!C:\Universidad\Master BDDE UCM\TFM\TFM\venv\Scripts\python.exe
+#!C:\Users\jahoy\Documents\scouting\venv\Scripts\python.exe
 
 #
 # Licensed to the Apache Software Foundation (ASF) under one or more
