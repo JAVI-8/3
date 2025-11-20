@@ -8,6 +8,7 @@ from pyspark.sql.window import Window
 # ------------------- PATHS -------------------
 
 SOFA_SILVER_PATH = r"C:/Users/jahoy/Documents/scouting/lake/silver/sofascore"
+MIN_SILVER_PATH = r"C:/Users/jahoy/Documents/scouting/lake/silver/minutes"
 MERC_SILVER_PATH = r"C:/Users/jahoy/Documents/scouting/lake/silver/mercado"
 GOLD_PATH        = r"C:/Users/jahoy/Documents/scouting/lake/gold/players_stats_market"
 
@@ -64,7 +65,7 @@ def similarity_percent(col1, col2):
     return F.when(max_len == 0, F.lit(0.0)).otherwise(sim)
 #funcion auxiliar--------------------------------------------------------------------------------
 
-def igualar_sofascore_con_mercado(sofa_df,merc_df,umbral_similitud=80.0):
+def igualar_sofascore_con_mercado(sofa_df,merc_df, umbral_similitud=80.0):
     """
     Cambia los nombres de Sofascore (player_name, team_name) por los de Mercado
     cuando:
@@ -184,7 +185,23 @@ def igualar_sofascore_con_mercado(sofa_df,merc_df,umbral_similitud=80.0):
     return sofa_corrected
 #---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-def join_stats_market_and_write(sofa_df, merc_df):
+def unir_df_sofascore(df_sofascore, df_minutes):
+    if "source" in df_minutes.columns and "source_minutes" not in df_minutes.columns:
+        df_minutes = df_minutes.withColumnRenamed("source", "source_minutes")
+    joined_df = df_sofascore.join(
+    df_minutes,
+    on=[
+        "player_name",
+        "team_name",
+        "Season",
+        "Liga"
+    ],
+    how="inner"   # puede ser: "inner", "left", "right", "outer", etc.
+)
+    return joined_df
+
+
+def join_stats_market_and_write(merc_df, sofa_df):
     """
     LEFT JOIN desde Mercado hacia Sofascore:
       claves: player_name, team_name, Season, Liga
@@ -213,7 +230,7 @@ def join_stats_market_and_write(sofa_df, merc_df):
         .join(
             sofa_df,
             on=["player_name", "team_name", "Season", "Liga"],
-            how="left"
+            how="inner"
         )
         .withColumn("created_at", F.current_timestamp())
     )
@@ -222,14 +239,15 @@ def join_stats_market_and_write(sofa_df, merc_df):
     if "source" in gold_df.columns:
         gold_df = gold_df.drop("source")
 
-
+    gold_df = gold_df.withColumn("Season_part", F.col("Season"))
+    gold_df = gold_df.withColumn("Liga_part", F.col("Liga"))
 
     # 5) Escribir GOLD particionado
     (
         gold_df
         .write
         .mode("overwrite")
-        .partitionBy("Season", "Liga")
+        .partitionBy("Season_part", "Liga_part")
         .parquet(GOLD_PATH)
     )
     print("➡️  Filas en GOLD antes de escribir:", gold_df.count())
@@ -256,7 +274,7 @@ def iniciar_spark():
 #  COMPROBACIÓN DE SCHEMAS
 # ---------------------------------------------
 
-def comprobacion(df_mercado, df_sofascore):
+def comprobacion(df_mercado, df_sofascore, df_minutes):
     required = ["player_name", "team_name", "Season", "Liga"]
 
     for col in required:
@@ -264,6 +282,8 @@ def comprobacion(df_mercado, df_sofascore):
             raise ValueError(f"❌ Falta columna '{col}' en Sofascore Silver")
         if col not in df_mercado.columns:
             raise ValueError(f"❌ Falta columna '{col}' en Mercado Silver")
+        if col not in df_minutes.columns:
+            raise ValueError(f"❌ Falta columna '{col}' en Sofascore Silver")
 
     if "player_market_value_euro" not in df_mercado.columns:
         raise ValueError("❌ Mercado Silver debe tener 'player_market_value_euro'")
@@ -278,6 +298,10 @@ def cargar_mercado(spark):
 def cargar_sofascore(spark):
     return spark.read.parquet(SOFA_SILVER_PATH)
 
+def cargar_sofascore_minutes(spark):
+    return spark.read.parquet(MIN_SILVER_PATH)
+
+
 # ---------------------------------------------
 #  MAIN PIPELINE
 # ---------------------------------------------
@@ -287,14 +311,16 @@ def main():
 
     df_mercado = cargar_mercado(spark)
     df_sofascore = cargar_sofascore(spark)
-
-    comprobacion(df_mercado, df_sofascore)
+    df_minutes = cargar_sofascore_minutes(spark)
+    comprobacion(df_mercado, df_sofascore, df_minutes)
     
-    df_sofascore = igualar_sofascore_con_mercado(df_sofascore, df_mercado,)
+    df_sofascore = igualar_sofascore_con_mercado(df_sofascore, df_mercado)
     
+    df_minutes = igualar_sofascore_con_mercado(df_minutes, df_mercado)
 
+    df_sofascore = unir_df_sofascore(df_sofascore, df_minutes)
 
-    df_gold = join_stats_market_and_write(df_sofascore, df_mercado)
+    join_stats_market_and_write(df_mercado, df_sofascore)
     spark.stop()
 
 

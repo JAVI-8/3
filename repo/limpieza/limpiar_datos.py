@@ -149,7 +149,7 @@ def limpiar_sofascore():
             print(f"Procesando: {file}")
             # Cargar CSV
             df = pd.read_csv(pathIn)
-            df = df.drop(columns=["player id", "team id", "hitWoodwork"])
+            df = df.drop(columns=["player id", "team id", "hitWoodwork", "minutesPlayed", "appearances"])
             # Eliminar duplicados
             df = df.drop_duplicates()
             # Eliminar filas totalmente nulas o con un mínimo de columnas nulas
@@ -174,7 +174,44 @@ def limpiar_sofascore():
             #guardar en parquet en formato limpio limpio
             save_parquet_string_safe(df, pathOut)
 
+def eliminar_columnas(df):
+    cols = ["minutesPlayed", "appearances", "team", "player"]  # columnas deseadas
+    df = df[cols]
+    return df
 
+def limpiar_sofascore_minutes():
+    rutaIn = os.path.join(FOLDERIN, "minutes")
+    for file in os.listdir(rutaIn):
+        if file.endswith(".csv"):
+            pathIn = os.path.join(rutaIn, file)
+            print(f"Procesando: {file}")
+            # Cargar CSV
+            df = pd.read_csv(pathIn)
+            df = eliminar_columnas(df)
+            # Eliminar duplicados
+            df = df.drop_duplicates()
+            # Eliminar filas totalmente nulas o con un mínimo de columnas nulas
+            #df = df.dropna(how="any")
+            df = aniadir_nombre_y_temporada(file, df)
+            df["source"]="Sofascore_minutes"
+            df = limpiar_valores_invalidos(df)
+                        #cambiar los tipos de cada columna
+            df = df.rename(columns={
+                "player": "player_name",
+                "team": "team_name",
+            })
+            df["player_name"] = df["player_name"].astype(str)
+            df["team_name"]   = df["team_name"].astype(str)
+            df["Liga"]        = df["Liga"].astype(str)
+            df["Season"]      = df["Season"].astype(str)
+            df["source"]      = df["source"].astype(str)
+    
+            #cambiar nombres con espacios quitar espacios al inicio/fin y formatto consistente
+            nuevo_file = file.replace(".csv", ".parquet")
+            pathOut = os.path.join(FOLDEROUT, "minutes", nuevo_file)
+            #guardar en parquet en formato limpio limpio
+            save_parquet_string_safe(df, pathOut)
 if __name__ == "__main__":
     limpiar_mercado()
     limpiar_sofascore()
+    limpiar_sofascore_minutes()
