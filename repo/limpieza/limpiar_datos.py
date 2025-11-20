@@ -1,9 +1,9 @@
 # limpiar_datos.py
-from pathlib import Path
 import pandas as pd
 import os
 import pyarrow as pa
 import pyarrow.parquet as pq
+import numpy as np
 #culumnas que son utilea para cada df
 COLUMNAS_UTILES = {
     
@@ -81,6 +81,19 @@ def aniadir_nombre_y_temporada(file, df):
         df["Season"] = "2025-2026"
     return df
 
+def limpiar_valores_invalidos(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Reemplaza NaN, inf y -inf por None (o por NaN si se prefiere).
+    - No elimina filas.
+    - Deja el df preparado para JSON (FastAPI), CSV o Parquet.
+    """
+    # Reemplazar inf y -inf por NaN
+    df = df.replace([np.inf, -np.inf], np.nan)
+
+    # Opcional: si usas Pandas + FastAPI → convertir NaN a None (JSON-safe)
+    df = df.where(pd.notnull(df), None)
+
+    return df
 
 
 
@@ -114,7 +127,7 @@ def limpiar_mercado():
             # Eliminar duplicados
             df = df.drop_duplicates()
             # Eliminar filas totalmente nulas o con un mínimo de columnas nulas
-            #df = df.dropna(how="any")
+            df = limpiar_valores_invalidos(df)
             #cambiar los tipos de cada columna
             df = cambiar_tipos_mercado(df)
             df["source"]="transfermarkt"
@@ -143,7 +156,7 @@ def limpiar_sofascore():
             #df = df.dropna(how="any")
             df = aniadir_nombre_y_temporada(file, df)
             df["source"]="Sofascore"
-            
+            df = limpiar_valores_invalidos(df)
                         #cambiar los tipos de cada columna
             df = df.rename(columns={
                 "player": "player_name",

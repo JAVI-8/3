@@ -206,10 +206,6 @@ def join_stats_market_and_write(sofa_df, merc_df):
         merc_df
         .dropDuplicates(["player_name", "team_name", "Season", "Liga"])
     )
-    print("➡️  Filas en Mercado:", merc_df.count())
-    merc_df.select("player_name","team_name","Season","Liga").show(20, truncate=False)
-
-    print("➡️  Filas únicas para join:", merc_small.count())
 
     # 3) LEFT JOIN: el lado izquierdo es Mercado
     gold_df = (
@@ -294,7 +290,7 @@ def main():
 
     comprobacion(df_mercado, df_sofascore)
     
-    df_sofascore = igualar_sofascore_con_mercado(df_sofascore, df_mercado)
+    df_sofascore = igualar_sofascore_con_mercado(df_sofascore, df_mercado,)
     
 
 

@@ -14,5 +14,5 @@ pyspark
 pytest
 understatapi
 ScraperFC
-
+fastapi
 

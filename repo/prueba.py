@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-MERC_SILVER_PATH = r"C:/Users/jahoy/Documents/scouting/lake/silver/mercado"
+MERC_SILVER_PATH = r"C:/Users/jahoy/Documents/scouting/lake/gold/players_stats_market"
 
 print(os.listdir(MERC_SILVER_PATH))
 
