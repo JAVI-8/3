@@ -1,0 +1,862 @@
+﻿club,club_id,player,player_id,market_value_str,market_value_eur,player_url,player_norm,club_norm,season,competition_code
+Inter Milan,46,Josep Martínez,388516,€12.00m,12000000.0,https://www.transfermarkt.com/josep-martinez/profil/spieler/388516,josep martinez,inter milan,2024,IT1
+Inter Milan,46,Yann Sommer,42205,€4.00m,4000000.0,https://www.transfermarkt.com/yann-sommer/profil/spieler/42205,yann sommer,inter milan,2024,IT1
+Inter Milan,46,Alessandro Calligaris,746711,€350k,350000.0,https://www.transfermarkt.com/alessandro-calligaris/profil/spieler/746711,alessandro calligaris,inter milan,2024,IT1
+Inter Milan,46,Raffaele Di Gennaro,70580,€300k,300000.0,https://www.transfermarkt.com/raffaele-di-gennaro/profil/spieler/70580,raffaele di gennaro,inter milan,2024,IT1
+Inter Milan,46,Alain Taho,1070076,-,,https://www.transfermarkt.com/alain-taho/profil/spieler/1070076,alain taho,inter milan,2024,IT1
+Inter Milan,46,Alessandro Bastoni,315853,€80.00m,80000000.0,https://www.transfermarkt.com/alessandro-bastoni/profil/spieler/315853,alessandro bastoni,inter milan,2024,IT1
+Inter Milan,46,Yann Bisseck,441986,€35.00m,35000000.0,https://www.transfermarkt.com/yann-bisseck/profil/spieler/441986,yann bisseck,inter milan,2024,IT1
+Inter Milan,46,Benjamin Pavard,353366,€25.00m,25000000.0,https://www.transfermarkt.com/benjamin-pavard/profil/spieler/353366,benjamin pavard,inter milan,2024,IT1
+Inter Milan,46,Stefan de Vrij,111196,€5.00m,5000000.0,https://www.transfermarkt.com/stefan-de-vrij/profil/spieler/111196,stefan de vrij,inter milan,2024,IT1
+Inter Milan,46,Tomás Palacios,993645,€4.00m,4000000.0,https://www.transfermarkt.com/tomas-palacios/profil/spieler/993645,tomas palacios,inter milan,2024,IT1
+Inter Milan,46,Francesco Acerbi,131075,€3.00m,3000000.0,https://www.transfermarkt.com/francesco-acerbi/profil/spieler/131075,francesco acerbi,inter milan,2024,IT1
+Inter Milan,46,Christos Alexiou,898812,€800k,800000.0,https://www.transfermarkt.com/christos-alexiou/profil/spieler/898812,christos alexiou,inter milan,2024,IT1
+Inter Milan,46,Alessandro Fontanarosa,616162,€700k,700000.0,https://www.transfermarkt.com/alessandro-fontanarosa/profil/spieler/616162,alessandro fontanarosa,inter milan,2024,IT1
+Inter Milan,46,Gabriele Re Cecconi,1054322,€700k,700000.0,https://www.transfermarkt.com/gabriele-re-cecconi/profil/spieler/1054322,gabriele re cecconi,inter milan,2024,IT1
+Inter Milan,46,Federico Dimarco,198116,€50.00m,50000000.0,https://www.transfermarkt.com/federico-dimarco/profil/spieler/198116,federico dimarco,inter milan,2024,IT1
+Inter Milan,46,Carlos Augusto,585982,€26.00m,26000000.0,https://www.transfermarkt.com/carlos-augusto/profil/spieler/585982,carlos augusto,inter milan,2024,IT1
+Inter Milan,46,Matteo Cocchi,988987,€1.50m,1500000.0,https://www.transfermarkt.com/matteo-cocchi/profil/spieler/988987,matteo cocchi,inter milan,2024,IT1
+Inter Milan,46,Matteo Motta,937342,€200k,200000.0,https://www.transfermarkt.com/matteo-motta/profil/spieler/937342,matteo motta,inter milan,2024,IT1
+Inter Milan,46,Denzel Dumfries,321528,€35.00m,35000000.0,https://www.transfermarkt.com/denzel-dumfries/profil/spieler/321528,denzel dumfries,inter milan,2024,IT1
+Inter Milan,46,Matteo Darmian,54906,€2.50m,2500000.0,https://www.transfermarkt.com/matteo-darmian/profil/spieler/54906,matteo darmian,inter milan,2024,IT1
+Inter Milan,46,Mike Aidoo,892101,€500k,500000.0,https://www.transfermarkt.com/mike-aidoo/profil/spieler/892101,mike aidoo,inter milan,2024,IT1
+Inter Milan,46,Hakan Çalhanoğlu,126414,€30.00m,30000000.0,https://www.transfermarkt.com/hakan-calhanoglu/profil/spieler/126414,hakan calhanoglu,inter milan,2024,IT1
+Inter Milan,46,Kristjan Asllani,543771,€13.00m,13000000.0,https://www.transfermarkt.com/kristjan-asllani/profil/spieler/543771,kristjan asllani,inter milan,2024,IT1
+Inter Milan,46,Mattia Zanchetta,1054347,€450k,450000.0,https://www.transfermarkt.com/mattia-zanchetta/profil/spieler/1054347,mattia zanchetta,inter milan,2024,IT1
+Inter Milan,46,Nicolò Barella,255942,€75.00m,75000000.0,https://www.transfermarkt.com/nicolo-barella/profil/spieler/255942,nicolo barella,inter milan,2024,IT1
+Inter Milan,46,Davide Frattesi,394300,€35.00m,35000000.0,https://www.transfermarkt.com/davide-frattesi/profil/spieler/394300,davide frattesi,inter milan,2024,IT1
+Inter Milan,46,Petar Sučić,668207,€14.00m,14000000.0,https://www.transfermarkt.com/petar-sucic/profil/spieler/668207,petar sucic,inter milan,2024,IT1
+Inter Milan,46,Piotr Zieliński,181136,€10.00m,10000000.0,https://www.transfermarkt.com/piotr-zielinski/profil/spieler/181136,piotr zielinski,inter milan,2024,IT1
+Inter Milan,46,Henrikh Mkhitaryan,55735,€4.00m,4000000.0,https://www.transfermarkt.com/henrikh-mkhitaryan/profil/spieler/55735,henrikh mkhitaryan,inter milan,2024,IT1
+Inter Milan,46,Thomas Berenbruch,930780,€1.50m,1500000.0,https://www.transfermarkt.com/thomas-berenbruch/profil/spieler/930780,thomas berenbruch,inter milan,2024,IT1
+Inter Milan,46,Luka Topalović,991744,€1.50m,1500000.0,https://www.transfermarkt.com/luka-topalovic/profil/spieler/991744,luka topalovic,inter milan,2024,IT1
+Inter Milan,46,Luis Henrique,691316,€25.00m,25000000.0,https://www.transfermarkt.com/luis-henrique/profil/spieler/691316,luis henrique,inter milan,2024,IT1
+Inter Milan,46,Nicola Zalewski,550108,€12.00m,12000000.0,https://www.transfermarkt.com/nicola-zalewski/profil/spieler/550108,nicola zalewski,inter milan,2024,IT1
+Inter Milan,46,Valentín Carboni,787618,€12.00m,12000000.0,https://www.transfermarkt.com/valentin-carboni/profil/spieler/787618,valentin carboni,inter milan,2024,IT1
+Inter Milan,46,Daniele Quieto,819207,€250k,250000.0,https://www.transfermarkt.com/daniele-quieto/profil/spieler/819207,daniele quieto,inter milan,2024,IT1
+Inter Milan,46,Tajon Buchanan,638793,€6.00m,6000000.0,https://www.transfermarkt.com/tajon-buchanan/profil/spieler/638793,tajon buchanan,inter milan,2024,IT1
+Inter Milan,46,Giacomo De Pieri,930767,€1.50m,1500000.0,https://www.transfermarkt.com/giacomo-de-pieri/profil/spieler/930767,giacomo de pieri,inter milan,2024,IT1
+Inter Milan,46,Sebastiano Esposito,538918,€8.50m,8500000.0,https://www.transfermarkt.com/sebastiano-esposito/profil/spieler/538918,sebastiano esposito,inter milan,2024,IT1
+Inter Milan,46,Joaquín Correa,227081,€3.00m,3000000.0,https://www.transfermarkt.com/joaquin-correa/profil/spieler/227081,joaquin correa,inter milan,2024,IT1
+Inter Milan,46,Lautaro Martínez,406625,€95.00m,95000000.0,https://www.transfermarkt.com/lautaro-martinez/profil/spieler/406625,lautaro martinez,inter milan,2024,IT1
+Inter Milan,46,Marcus Thuram,318528,€75.00m,75000000.0,https://www.transfermarkt.com/marcus-thuram/profil/spieler/318528,marcus thuram,inter milan,2024,IT1
+Inter Milan,46,Pio Esposito,930781,€25.00m,25000000.0,https://www.transfermarkt.com/pio-esposito/profil/spieler/930781,pio esposito,inter milan,2024,IT1
+Inter Milan,46,Mehdi Taremi,307058,€3.50m,3500000.0,https://www.transfermarkt.com/mehdi-taremi/profil/spieler/307058,mehdi taremi,inter milan,2024,IT1
+Inter Milan,46,Marko Arnautovic,41384,€3.00m,3000000.0,https://www.transfermarkt.com/marko-arnautovic/profil/spieler/41384,marko arnautovic,inter milan,2024,IT1
+Inter Milan,46,Matteo Spinaccè,930768,€750k,750000.0,https://www.transfermarkt.com/matteo-spinacce/profil/spieler/930768,matteo spinacce,inter milan,2024,IT1
+Inter Milan,46,Matteo Lavelli,972475,€350k,350000.0,https://www.transfermarkt.com/matteo-lavelli/profil/spieler/972475,matteo lavelli,inter milan,2024,IT1
+Juventus FC,506,Michele Di Gregorio,301238,€18.00m,18000000.0,https://www.transfermarkt.com/michele-di-gregorio/profil/spieler/301238,michele di gregorio,juventus fc,2024,IT1
+Juventus FC,506,Mattia Perin,110923,€2.50m,2500000.0,https://www.transfermarkt.com/mattia-perin/profil/spieler/110923,mattia perin,juventus fc,2024,IT1
+Juventus FC,506,Giovanni Daffara,814473,€500k,500000.0,https://www.transfermarkt.com/giovanni-daffara/profil/spieler/814473,giovanni daffara,juventus fc,2024,IT1
+Juventus FC,506,Carlo Pinsoglio,75411,€200k,200000.0,https://www.transfermarkt.com/carlo-pinsoglio/profil/spieler/75411,carlo pinsoglio,juventus fc,2024,IT1
+Juventus FC,506,Giovanni Garofani,564792,€75k,75000.0,https://www.transfermarkt.com/giovanni-garofani/profil/spieler/564792,giovanni garofani,juventus fc,2024,IT1
+Juventus FC,506,Bremer,516716,€50.00m,50000000.0,https://www.transfermarkt.com/bremer/profil/spieler/516716,bremer,juventus fc,2024,IT1
+Juventus FC,506,Pierre Kalulu,585949,€28.00m,28000000.0,https://www.transfermarkt.com/pierre-kalulu/profil/spieler/585949,pierre kalulu,juventus fc,2024,IT1
+Juventus FC,506,Renato Veiga,805714,€25.00m,25000000.0,https://www.transfermarkt.com/renato-veiga/profil/spieler/805714,renato veiga,juventus fc,2024,IT1
+Juventus FC,506,Federico Gatti,509022,€24.00m,24000000.0,https://www.transfermarkt.com/federico-gatti/profil/spieler/509022,federico gatti,juventus fc,2024,IT1
+Juventus FC,506,Lloyd Kelly,480116,€16.00m,16000000.0,https://www.transfermarkt.com/lloyd-kelly/profil/spieler/480116,lloyd kelly,juventus fc,2024,IT1
+Juventus FC,506,Danilo,145707,€3.50m,3500000.0,https://www.transfermarkt.com/danilo/profil/spieler/145707,danilo,juventus fc,2024,IT1
+Juventus FC,506,Daniele Rugani,162959,€3.00m,3000000.0,https://www.transfermarkt.com/daniele-rugani/profil/spieler/162959,daniele rugani,juventus fc,2024,IT1
+Juventus FC,506,Javier Gil,1160260,€1.20m,1200000.0,https://www.transfermarkt.com/javier-gil/profil/spieler/1160260,javier gil,juventus fc,2024,IT1
+Juventus FC,506,Niccolò Rizzo,1035426,-,,https://www.transfermarkt.com/niccolo-rizzo/profil/spieler/1035426,niccolo rizzo,juventus fc,2024,IT1
+Juventus FC,506,Alfonso Montero,1062320,-,,https://www.transfermarkt.com/alfonso-montero/profil/spieler/1062320,alfonso montero,juventus fc,2024,IT1
+Juventus FC,506,Juan Cabal,686965,€9.00m,9000000.0,https://www.transfermarkt.com/juan-cabal/profil/spieler/686965,juan cabal,juventus fc,2024,IT1
+Juventus FC,506,Jonas Rouhi,741090,€2.00m,2000000.0,https://www.transfermarkt.com/jonas-rouhi/profil/spieler/741090,jonas rouhi,juventus fc,2024,IT1
+Juventus FC,506,Riccardo Turicchia,650249,€700k,700000.0,https://www.transfermarkt.com/riccardo-turicchia/profil/spieler/650249,riccardo turicchia,juventus fc,2024,IT1
+Juventus FC,506,Nicolò Savona,708072,€12.00m,12000000.0,https://www.transfermarkt.com/nicolo-savona/profil/spieler/708072,nicolo savona,juventus fc,2024,IT1
+Juventus FC,506,Alberto Costa,877139,€10.00m,10000000.0,https://www.transfermarkt.com/alberto-costa/profil/spieler/877139,alberto costa,juventus fc,2024,IT1
+Juventus FC,506,Manuel Locatelli,265088,€30.00m,30000000.0,https://www.transfermarkt.com/manuel-locatelli/profil/spieler/265088,manuel locatelli,juventus fc,2024,IT1
+Juventus FC,506,Khéphren Thuram,463618,€40.00m,40000000.0,https://www.transfermarkt.com/khephren-thuram/profil/spieler/463618,khephren thuram,juventus fc,2024,IT1
+Juventus FC,506,Douglas Luiz,447661,€30.00m,30000000.0,https://www.transfermarkt.com/douglas-luiz/profil/spieler/447661,douglas luiz,juventus fc,2024,IT1
+Juventus FC,506,Weston McKennie,332697,€22.00m,22000000.0,https://www.transfermarkt.com/weston-mckennie/profil/spieler/332697,weston mckennie,juventus fc,2024,IT1
+Juventus FC,506,Nicolò Fagioli,432090,€18.00m,18000000.0,https://www.transfermarkt.com/nicolo-fagioli/profil/spieler/432090,nicolo fagioli,juventus fc,2024,IT1
+Juventus FC,506,Augusto Owusu,925845,€700k,700000.0,https://www.transfermarkt.com/augusto-owusu/profil/spieler/925845,augusto owusu,juventus fc,2024,IT1
+Juventus FC,506,Andrea Cambiaso,459658,€35.00m,35000000.0,https://www.transfermarkt.com/andrea-cambiaso/profil/spieler/459658,andrea cambiaso,juventus fc,2024,IT1
+Juventus FC,506,Filip Kostić,161011,€5.00m,5000000.0,https://www.transfermarkt.com/filip-kostic/profil/spieler/161011,filip kostic,juventus fc,2024,IT1
+Juventus FC,506,Filippo Pagnucco,978442,€850k,850000.0,https://www.transfermarkt.com/filippo-pagnucco/profil/spieler/978442,filippo pagnucco,juventus fc,2024,IT1
+Juventus FC,506,Teun Koopmeiners,360518,€35.00m,35000000.0,https://www.transfermarkt.com/teun-koopmeiners/profil/spieler/360518,teun koopmeiners,juventus fc,2024,IT1
+Juventus FC,506,Vasilije Adžić,944570,€4.00m,4000000.0,https://www.transfermarkt.com/vasilije-adzic/profil/spieler/944570,vasilije adzic,juventus fc,2024,IT1
+Juventus FC,506,Christos Papadopoulos,940135,€700k,700000.0,https://www.transfermarkt.com/christos-papadopoulos/profil/spieler/940135,christos papadopoulos,juventus fc,2024,IT1
+Juventus FC,506,Kenan Yıldız,845654,€50.00m,50000000.0,https://www.transfermarkt.com/kenan-yildiz/profil/spieler/845654,kenan yıldız,juventus fc,2024,IT1
+Juventus FC,506,Nico González,486031,€24.00m,24000000.0,https://www.transfermarkt.com/nico-gonzalez/profil/spieler/486031,nico gonzalez,juventus fc,2024,IT1
+Juventus FC,506,Samuel Mbangula,654991,€14.00m,14000000.0,https://www.transfermarkt.com/samuel-mbangula/profil/spieler/654991,samuel mbangula,juventus fc,2024,IT1
+Juventus FC,506,Francisco Conceição,487474,€28.00m,28000000.0,https://www.transfermarkt.com/francisco-conceicao/profil/spieler/487474,francisco conceicao,juventus fc,2024,IT1
+Juventus FC,506,Timothy Weah,370846,€17.00m,17000000.0,https://www.transfermarkt.com/timothy-weah/profil/spieler/370846,timothy weah,juventus fc,2024,IT1
+Juventus FC,506,Alessandro Pietrelli,704122,€800k,800000.0,https://www.transfermarkt.com/alessandro-pietrelli/profil/spieler/704122,alessandro pietrelli,juventus fc,2024,IT1
+Juventus FC,506,Lorenzo Anghelè,925848,€700k,700000.0,https://www.transfermarkt.com/lorenzo-anghele/profil/spieler/925848,lorenzo anghele,juventus fc,2024,IT1
+Juventus FC,506,Dušan Vlahović,357498,€35.00m,35000000.0,https://www.transfermarkt.com/dusan-vlahovic/profil/spieler/357498,dusan vlahovic,juventus fc,2024,IT1
+Juventus FC,506,Randal Kolo Muani,487969,€30.00m,30000000.0,https://www.transfermarkt.com/randal-kolo-muani/profil/spieler/487969,randal kolo muani,juventus fc,2024,IT1
+Juventus FC,506,Arkadiusz Milik,191891,€2.00m,2000000.0,https://www.transfermarkt.com/arkadiusz-milik/profil/spieler/191891,arkadiusz milik,juventus fc,2024,IT1
+Juventus FC,506,Diego Pugno,1049598,€300k,300000.0,https://www.transfermarkt.com/diego-pugno/profil/spieler/1049598,diego pugno,juventus fc,2024,IT1
+AC Milan,5,Mike Maignan,182906,€25.00m,25000000.0,https://www.transfermarkt.com/mike-maignan/profil/spieler/182906,mike maignan,ac milan,2024,IT1
+AC Milan,5,Marco Sportiello,199976,€1.00m,1000000.0,https://www.transfermarkt.com/marco-sportiello/profil/spieler/199976,marco sportiello,ac milan,2024,IT1
+AC Milan,5,Lorenzo Torriani,939745,€500k,500000.0,https://www.transfermarkt.com/lorenzo-torriani/profil/spieler/939745,lorenzo torriani,ac milan,2024,IT1
+AC Milan,5,Noah Raveyre,986180,€300k,300000.0,https://www.transfermarkt.com/noah-raveyre/profil/spieler/986180,noah raveyre,ac milan,2024,IT1
+AC Milan,5,Lapo Nava,815563,€100k,100000.0,https://www.transfermarkt.com/lapo-nava/profil/spieler/815563,lapo nava,ac milan,2024,IT1
+AC Milan,5,Fikayo Tomori,303254,€20.00m,20000000.0,https://www.transfermarkt.com/fikayo-tomori/profil/spieler/303254,fikayo tomori,ac milan,2024,IT1
+AC Milan,5,Malick Thiaw,521964,€18.00m,18000000.0,https://www.transfermarkt.com/malick-thiaw/profil/spieler/521964,malick thiaw,ac milan,2024,IT1
+AC Milan,5,Strahinja Pavlović,574671,€18.00m,18000000.0,https://www.transfermarkt.com/strahinja-pavlovic/profil/spieler/574671,strahinja pavlovic,ac milan,2024,IT1
+AC Milan,5,Matteo Gabbia,323167,€14.00m,14000000.0,https://www.transfermarkt.com/matteo-gabbia/profil/spieler/323167,matteo gabbia,ac milan,2024,IT1
+AC Milan,5,Theo Hernández,339808,€35.00m,35000000.0,https://www.transfermarkt.com/theo-hernandez/profil/spieler/339808,theo hernandez,ac milan,2024,IT1
+AC Milan,5,Davide Bartesaghi,887638,€1.80m,1800000.0,https://www.transfermarkt.com/davide-bartesaghi/profil/spieler/887638,davide bartesaghi,ac milan,2024,IT1
+AC Milan,5,Álex Jiménez,741257,€15.00m,15000000.0,https://www.transfermarkt.com/alex-jimenez/profil/spieler/741257,alex jimenez,ac milan,2024,IT1
+AC Milan,5,Emerson Royal,476344,€9.00m,9000000.0,https://www.transfermarkt.com/emerson-royal/profil/spieler/476344,emerson royal,ac milan,2024,IT1
+AC Milan,5,Davide Calabria,262523,€4.50m,4500000.0,https://www.transfermarkt.com/davide-calabria/profil/spieler/262523,davide calabria,ac milan,2024,IT1
+AC Milan,5,Kyle Walker,95424,€4.00m,4000000.0,https://www.transfermarkt.com/kyle-walker/profil/spieler/95424,kyle walker,ac milan,2024,IT1
+AC Milan,5,Filippo Terracciano,631007,€3.20m,3200000.0,https://www.transfermarkt.com/filippo-terracciano/profil/spieler/631007,filippo terracciano,ac milan,2024,IT1
+AC Milan,5,Alessandro Florenzi,130365,€1.00m,1000000.0,https://www.transfermarkt.com/alessandro-florenzi/profil/spieler/130365,alessandro florenzi,ac milan,2024,IT1
+AC Milan,5,Youssouf Fofana,569598,€30.00m,30000000.0,https://www.transfermarkt.com/youssouf-fofana/profil/spieler/569598,youssouf fofana,ac milan,2024,IT1
+AC Milan,5,Ismaël Bennacer,351816,€15.00m,15000000.0,https://www.transfermarkt.com/ismael-bennacer/profil/spieler/351816,ismael bennacer,ac milan,2024,IT1
+AC Milan,5,Silvano Vos,738476,€1.40m,1400000.0,https://www.transfermarkt.com/silvano-vos/profil/spieler/738476,silvano vos,ac milan,2024,IT1
+AC Milan,5,Tijjani Reijnders,460939,€60.00m,60000000.0,https://www.transfermarkt.com/tijjani-reijnders/profil/spieler/460939,tijjani reijnders,ac milan,2024,IT1
+AC Milan,5,Yunus Musah,503991,€20.00m,20000000.0,https://www.transfermarkt.com/yunus-musah/profil/spieler/503991,yunus musah,ac milan,2024,IT1
+AC Milan,5,Ruben Loftus-Cheek,202886,€10.00m,10000000.0,https://www.transfermarkt.com/ruben-loftus-cheek/profil/spieler/202886,ruben loftus-cheek,ac milan,2024,IT1
+AC Milan,5,Warren Bondo,659516,€10.00m,10000000.0,https://www.transfermarkt.com/warren-bondo/profil/spieler/659516,warren bondo,ac milan,2024,IT1
+AC Milan,5,Kevin Zeroli,883349,€4.00m,4000000.0,https://www.transfermarkt.com/kevin-zeroli/profil/spieler/883349,kevin zeroli,ac milan,2024,IT1
+AC Milan,5,Alexis Saelemaekers,381950,€17.00m,17000000.0,https://www.transfermarkt.com/alexis-saelemaekers/profil/spieler/381950,alexis saelemaekers,ac milan,2024,IT1
+AC Milan,5,Mattia Liberali,988964,€4.00m,4000000.0,https://www.transfermarkt.com/mattia-liberali/profil/spieler/988964,mattia liberali,ac milan,2024,IT1
+AC Milan,5,Hugo Cuenca,906315,€300k,300000.0,https://www.transfermarkt.com/hugo-cuenca/profil/spieler/906315,hugo cuenca,ac milan,2024,IT1
+AC Milan,5,Rafael Leão,357164,€70.00m,70000000.0,https://www.transfermarkt.com/rafael-leao/profil/spieler/357164,rafael leao,ac milan,2024,IT1
+AC Milan,5,Noah Okafor,346890,€13.00m,13000000.0,https://www.transfermarkt.com/noah-okafor/profil/spieler/346890,noah okafor,ac milan,2024,IT1
+AC Milan,5,Riccardo Sottil,386455,€5.00m,5000000.0,https://www.transfermarkt.com/riccardo-sottil/profil/spieler/386455,riccardo sottil,ac milan,2024,IT1
+AC Milan,5,Chaka Traorè,700998,€1.00m,1000000.0,https://www.transfermarkt.com/chaka-traore/profil/spieler/700998,chaka traore,ac milan,2024,IT1
+AC Milan,5,Christian Pulisic,315779,€50.00m,50000000.0,https://www.transfermarkt.com/christian-pulisic/profil/spieler/315779,christian pulisic,ac milan,2024,IT1
+AC Milan,5,Samuel Chukwueze,401922,€10.00m,10000000.0,https://www.transfermarkt.com/samuel-chukwueze/profil/spieler/401922,samuel chukwueze,ac milan,2024,IT1
+AC Milan,5,Bob Murphy Omoregbe,894324,€100k,100000.0,https://www.transfermarkt.com/bob-murphy-omoregbe/profil/spieler/894324,bob murphy omoregbe,ac milan,2024,IT1
+AC Milan,5,João Félix,462250,€20.00m,20000000.0,https://www.transfermarkt.com/joao-felix/profil/spieler/462250,joao felix,ac milan,2024,IT1
+AC Milan,5,Santiago Gimenez,552955,€30.00m,30000000.0,https://www.transfermarkt.com/santiago-gimenez/profil/spieler/552955,santiago gimenez,ac milan,2024,IT1
+AC Milan,5,Tammy Abraham,331726,€15.00m,15000000.0,https://www.transfermarkt.com/tammy-abraham/profil/spieler/331726,tammy abraham,ac milan,2024,IT1
+AC Milan,5,Álvaro Morata,128223,€11.00m,11000000.0,https://www.transfermarkt.com/alvaro-morata/profil/spieler/128223,alvaro morata,ac milan,2024,IT1
+AC Milan,5,Francesco Camarda,1058368,€10.00m,10000000.0,https://www.transfermarkt.com/francesco-camarda/profil/spieler/1058368,francesco camarda,ac milan,2024,IT1
+AC Milan,5,Luka Jović,257462,€4.50m,4500000.0,https://www.transfermarkt.com/luka-jovic/profil/spieler/257462,luka jovic,ac milan,2024,IT1
+Atalanta BC,800,Marco Carnesecchi,459763,€25.00m,25000000.0,https://www.transfermarkt.com/marco-carnesecchi/profil/spieler/459763,marco carnesecchi,atalanta bc,2024,IT1
+Atalanta BC,800,Juan Musso,242359,€3.50m,3500000.0,https://www.transfermarkt.com/juan-musso/profil/spieler/242359,juan musso,atalanta bc,2024,IT1
+Atalanta BC,800,Rui Patrício,45026,€800k,800000.0,https://www.transfermarkt.com/rui-patricio/profil/spieler/45026,rui patricio,atalanta bc,2024,IT1
+Atalanta BC,800,Paolo Vismara,650256,€700k,700000.0,https://www.transfermarkt.com/paolo-vismara/profil/spieler/650256,paolo vismara,atalanta bc,2024,IT1
+Atalanta BC,800,Matevz Dajcar,704079,€100k,100000.0,https://www.transfermarkt.com/matevz-dajcar/profil/spieler/704079,matevz dajcar,atalanta bc,2024,IT1
+Atalanta BC,800,Francesco Rossi,126634,€100k,100000.0,https://www.transfermarkt.com/francesco-rossi/profil/spieler/126634,francesco rossi,atalanta bc,2024,IT1
+Atalanta BC,800,Giorgio Scalvini,571604,€35.00m,35000000.0,https://www.transfermarkt.com/giorgio-scalvini/profil/spieler/571604,giorgio scalvini,atalanta bc,2024,IT1
+Atalanta BC,800,Isak Hien,503075,€30.00m,30000000.0,https://www.transfermarkt.com/isak-hien/profil/spieler/503075,isak hien,atalanta bc,2024,IT1
+Atalanta BC,800,Odilon Kossounou,644771,€25.00m,25000000.0,https://www.transfermarkt.com/odilon-kossounou/profil/spieler/644771,odilon kossounou,atalanta bc,2024,IT1
+Atalanta BC,800,Stefan Posch,223974,€8.00m,8000000.0,https://www.transfermarkt.com/stefan-posch/profil/spieler/223974,stefan posch,atalanta bc,2024,IT1
+Atalanta BC,800,Sead Kolasinac,94005,€7.00m,7000000.0,https://www.transfermarkt.com/sead-kolasinac/profil/spieler/94005,sead kolasinac,atalanta bc,2024,IT1
+Atalanta BC,800,Ben Godfrey,343475,€6.00m,6000000.0,https://www.transfermarkt.com/ben-godfrey/profil/spieler/343475,ben godfrey,atalanta bc,2024,IT1
+Atalanta BC,800,Berat Djimsiti,165513,€6.00m,6000000.0,https://www.transfermarkt.com/berat-djimsiti/profil/spieler/165513,berat djimsiti,atalanta bc,2024,IT1
+Atalanta BC,800,Rafael Tolói,72441,€1.40m,1400000.0,https://www.transfermarkt.com/rafael-toloi/profil/spieler/72441,rafael toloi,atalanta bc,2024,IT1
+Atalanta BC,800,Relja Obric,940553,€800k,800000.0,https://www.transfermarkt.com/relja-obric/profil/spieler/940553,relja obric,atalanta bc,2024,IT1
+Atalanta BC,800,Tommaso Del Lungo,820620,€500k,500000.0,https://www.transfermarkt.com/tommaso-del-lungo/profil/spieler/820620,tommaso del lungo,atalanta bc,2024,IT1
+Atalanta BC,800,Pietro Comi,936753,€250k,250000.0,https://www.transfermarkt.com/pietro-comi/profil/spieler/936753,pietro comi,atalanta bc,2024,IT1
+Atalanta BC,800,Pietro Tornaghi,936750,€200k,200000.0,https://www.transfermarkt.com/pietro-tornaghi/profil/spieler/936750,pietro tornaghi,atalanta bc,2024,IT1
+Atalanta BC,800,Matteo Ruggeri,616631,€16.00m,16000000.0,https://www.transfermarkt.com/matteo-ruggeri/profil/spieler/616631,matteo ruggeri,atalanta bc,2024,IT1
+Atalanta BC,800,Marco Palestra,895937,€3.50m,3500000.0,https://www.transfermarkt.com/marco-palestra/profil/spieler/895937,marco palestra,atalanta bc,2024,IT1
+Atalanta BC,800,Ibrahim Sulemana,982267,€7.00m,7000000.0,https://www.transfermarkt.com/ibrahim-sulemana/profil/spieler/982267,ibrahim sulemana,atalanta bc,2024,IT1
+Atalanta BC,800,Marten de Roon,133179,€5.00m,5000000.0,https://www.transfermarkt.com/marten-de-roon/profil/spieler/133179,marten de roon,atalanta bc,2024,IT1
+Atalanta BC,800,Éderson,607854,€50.00m,50000000.0,https://www.transfermarkt.com/ederson/profil/spieler/607854,ederson,atalanta bc,2024,IT1
+Atalanta BC,800,Mario Pašalić,205938,€10.00m,10000000.0,https://www.transfermarkt.com/mario-pasalic/profil/spieler/205938,mario pasalic,atalanta bc,2024,IT1
+Atalanta BC,800,Marco Brescianini,459128,€8.00m,8000000.0,https://www.transfermarkt.com/marco-brescianini/profil/spieler/459128,marco brescianini,atalanta bc,2024,IT1
+Atalanta BC,800,Lorenzo Riccio,954265,€950k,950000.0,https://www.transfermarkt.com/lorenzo-riccio/profil/spieler/954265,lorenzo riccio,atalanta bc,2024,IT1
+Atalanta BC,800,Alberto Manzoni,936755,€900k,900000.0,https://www.transfermarkt.com/alberto-manzoni/profil/spieler/936755,alberto manzoni,atalanta bc,2024,IT1
+Atalanta BC,800,Federico Steffanoni,1178213,-,,https://www.transfermarkt.com/federico-steffanoni/profil/spieler/1178213,federico steffanoni,atalanta bc,2024,IT1
+Atalanta BC,800,Raoul Bellanova,357992,€24.00m,24000000.0,https://www.transfermarkt.com/raoul-bellanova/profil/spieler/357992,raoul bellanova,atalanta bc,2024,IT1
+Atalanta BC,800,Davide Zappacosta,173859,€5.00m,5000000.0,https://www.transfermarkt.com/davide-zappacosta/profil/spieler/173859,davide zappacosta,atalanta bc,2024,IT1
+Atalanta BC,800,Juan Cuadrado,91970,€1.00m,1000000.0,https://www.transfermarkt.com/juan-cuadrado/profil/spieler/91970,juan cuadrado,atalanta bc,2024,IT1
+Atalanta BC,800,Javison Idele,1170813,€400k,400000.0,https://www.transfermarkt.com/javison-idele/profil/spieler/1170813,javison idele,atalanta bc,2024,IT1
+Atalanta BC,800,Mitchel Bakker,361065,€7.00m,7000000.0,https://www.transfermarkt.com/mitchel-bakker/profil/spieler/361065,mitchel bakker,atalanta bc,2024,IT1
+Atalanta BC,800,Lorenzo Bernasconi,708635,€800k,800000.0,https://www.transfermarkt.com/lorenzo-bernasconi/profil/spieler/708635,lorenzo bernasconi,atalanta bc,2024,IT1
+Atalanta BC,800,Charles De Ketelaere,435772,€35.00m,35000000.0,https://www.transfermarkt.com/charles-de-ketelaere/profil/spieler/435772,charles de ketelaere,atalanta bc,2024,IT1
+Atalanta BC,800,Lazar Samardžić,528833,€17.00m,17000000.0,https://www.transfermarkt.com/lazar-samardzic/profil/spieler/528833,lazar samardzic,atalanta bc,2024,IT1
+Atalanta BC,800,Nicolò Zaniolo,392085,€12.00m,12000000.0,https://www.transfermarkt.com/nicolo-zaniolo/profil/spieler/392085,nicolo zaniolo,atalanta bc,2024,IT1
+Atalanta BC,800,Daniel Maldini,539134,€10.00m,10000000.0,https://www.transfermarkt.com/daniel-maldini/profil/spieler/539134,daniel maldini,atalanta bc,2024,IT1
+Atalanta BC,800,Federico Cassa,1048147,€800k,800000.0,https://www.transfermarkt.com/federico-cassa/profil/spieler/1048147,federico cassa,atalanta bc,2024,IT1
+Atalanta BC,800,Ademola Lookman,406040,€60.00m,60000000.0,https://www.transfermarkt.com/ademola-lookman/profil/spieler/406040,ademola lookman,atalanta bc,2024,IT1
+Atalanta BC,800,Dominic Vavassori,936739,€1.50m,1500000.0,https://www.transfermarkt.com/dominic-vavassori/profil/spieler/936739,dominic vavassori,atalanta bc,2024,IT1
+Atalanta BC,800,Mateo Retegui,554903,€45.00m,45000000.0,https://www.transfermarkt.com/mateo-retegui/profil/spieler/554903,mateo retegui,atalanta bc,2024,IT1
+Atalanta BC,800,Gianluca Scamacca,315867,€24.00m,24000000.0,https://www.transfermarkt.com/gianluca-scamacca/profil/spieler/315867,gianluca scamacca,atalanta bc,2024,IT1
+Atalanta BC,800,Vanja Vlahović,698546,€6.00m,6000000.0,https://www.transfermarkt.com/vanja-vlahovic/profil/spieler/698546,vanja vlahovic,atalanta bc,2024,IT1
+SSC Napoli,6195,Alex Meret,240414,€18.00m,18000000.0,https://www.transfermarkt.com/alex-meret/profil/spieler/240414,alex meret,ssc napoli,2024,IT1
+SSC Napoli,6195,Elia Caprile,421873,€9.00m,9000000.0,https://www.transfermarkt.com/elia-caprile/profil/spieler/421873,elia caprile,ssc napoli,2024,IT1
+SSC Napoli,6195,Simone Scuffet,238993,€2.00m,2000000.0,https://www.transfermarkt.com/simone-scuffet/profil/spieler/238993,simone scuffet,ssc napoli,2024,IT1
+SSC Napoli,6195,Nikita Contini,250683,€400k,400000.0,https://www.transfermarkt.com/nikita-contini/profil/spieler/250683,nikita contini,ssc napoli,2024,IT1
+SSC Napoli,6195,Claudio Turi,724099,€150k,150000.0,https://www.transfermarkt.com/claudio-turi/profil/spieler/724099,claudio turi,ssc napoli,2024,IT1
+SSC Napoli,6195,Alessandro Buongiorno,386446,€50.00m,50000000.0,https://www.transfermarkt.com/alessandro-buongiorno/profil/spieler/386446,alessandro buongiorno,ssc napoli,2024,IT1
+SSC Napoli,6195,Amir Rrahmani,257732,€12.00m,12000000.0,https://www.transfermarkt.com/amir-rrahmani/profil/spieler/257732,amir rrahmani,ssc napoli,2024,IT1
+SSC Napoli,6195,Natan,735568,€9.00m,9000000.0,https://www.transfermarkt.com/natan/profil/spieler/735568,natan,ssc napoli,2024,IT1
+SSC Napoli,6195,Rafa Marín,662261,€7.00m,7000000.0,https://www.transfermarkt.com/rafa-marin/profil/spieler/662261,rafa marin,ssc napoli,2024,IT1
+SSC Napoli,6195,Juan Jesus,121985,€1.50m,1500000.0,https://www.transfermarkt.com/juan-jesus/profil/spieler/121985,juan jesus,ssc napoli,2024,IT1
+SSC Napoli,6195,Mattia Esposito,1061825,€75k,75000.0,https://www.transfermarkt.com/mattia-esposito/profil/spieler/1061825,mattia esposito,ssc napoli,2024,IT1
+SSC Napoli,6195,Mathías Olivera,376514,€20.00m,20000000.0,https://www.transfermarkt.com/mathias-olivera/profil/spieler/376514,mathias olivera,ssc napoli,2024,IT1
+SSC Napoli,6195,Leonardo Spinazzola,118689,€3.50m,3500000.0,https://www.transfermarkt.com/leonardo-spinazzola/profil/spieler/118689,leonardo spinazzola,ssc napoli,2024,IT1
+SSC Napoli,6195,Giovanni Di Lorenzo,169880,€12.00m,12000000.0,https://www.transfermarkt.com/giovanni-di-lorenzo/profil/spieler/169880,giovanni di lorenzo,ssc napoli,2024,IT1
+SSC Napoli,6195,Pasquale Mazzocchi,250153,€2.50m,2500000.0,https://www.transfermarkt.com/pasquale-mazzocchi/profil/spieler/250153,pasquale mazzocchi,ssc napoli,2024,IT1
+SSC Napoli,6195,Stanislav Lobotka,192735,€25.00m,25000000.0,https://www.transfermarkt.com/stanislav-lobotka/profil/spieler/192735,stanislav lobotka,ssc napoli,2024,IT1
+SSC Napoli,6195,Billy Gilmour,423744,€20.00m,20000000.0,https://www.transfermarkt.com/billy-gilmour/profil/spieler/423744,billy gilmour,ssc napoli,2024,IT1
+SSC Napoli,6195,Francesco Gioielli,815546,€75k,75000.0,https://www.transfermarkt.com/francesco-gioielli/profil/spieler/815546,francesco gioielli,ssc napoli,2024,IT1
+SSC Napoli,6195,Scott McTominay,315969,€50.00m,50000000.0,https://www.transfermarkt.com/scott-mctominay/profil/spieler/315969,scott mctominay,ssc napoli,2024,IT1
+SSC Napoli,6195,Frank Anguissa,354361,€27.00m,27000000.0,https://www.transfermarkt.com/frank-anguissa/profil/spieler/354361,frank anguissa,ssc napoli,2024,IT1
+SSC Napoli,6195,Philip Billing,320411,€10.00m,10000000.0,https://www.transfermarkt.com/philip-billing/profil/spieler/320411,philip billing,ssc napoli,2024,IT1
+SSC Napoli,6195,Michael Folorunsho,377042,€6.00m,6000000.0,https://www.transfermarkt.com/michael-folorunsho/profil/spieler/377042,michael folorunsho,ssc napoli,2024,IT1
+SSC Napoli,6195,Luis Hasa,724178,€1.00m,1000000.0,https://www.transfermarkt.com/luis-hasa/profil/spieler/724178,luis hasa,ssc napoli,2024,IT1
+SSC Napoli,6195,Gennaro Iaccarino,703240,€300k,300000.0,https://www.transfermarkt.com/gennaro-iaccarino/profil/spieler/703240,gennaro iaccarino,ssc napoli,2024,IT1
+SSC Napoli,6195,Coli Saco,820633,€250k,250000.0,https://www.transfermarkt.com/coli-saco/profil/spieler/820633,coli saco,ssc napoli,2024,IT1
+SSC Napoli,6195,Alessio Zerbin,433584,€4.00m,4000000.0,https://www.transfermarkt.com/alessio-zerbin/profil/spieler/433584,alessio zerbin,ssc napoli,2024,IT1
+SSC Napoli,6195,Francesco Mezzoni,395190,€200k,200000.0,https://www.transfermarkt.com/francesco-mezzoni/profil/spieler/395190,francesco mezzoni,ssc napoli,2024,IT1
+SSC Napoli,6195,Gianluca Gaetano,358008,€4.00m,4000000.0,https://www.transfermarkt.com/gianluca-gaetano/profil/spieler/358008,gianluca gaetano,ssc napoli,2024,IT1
+SSC Napoli,6195,Khvicha Kvaratskhelia,502670,€90.00m,90000000.0,https://www.transfermarkt.com/khvicha-kvaratskhelia/profil/spieler/502670,khvicha kvaratskhelia,ssc napoli,2024,IT1
+SSC Napoli,6195,Noah Okafor,346890,€13.00m,13000000.0,https://www.transfermarkt.com/noah-okafor/profil/spieler/346890,noah okafor,ssc napoli,2024,IT1
+SSC Napoli,6195,David Neres,469822,€30.00m,30000000.0,https://www.transfermarkt.com/david-neres/profil/spieler/469822,david neres,ssc napoli,2024,IT1
+SSC Napoli,6195,Matteo Politano,165895,€10.00m,10000000.0,https://www.transfermarkt.com/matteo-politano/profil/spieler/165895,matteo politano,ssc napoli,2024,IT1
+SSC Napoli,6195,Cyril Ngonge,358032,€8.00m,8000000.0,https://www.transfermarkt.com/cyril-ngonge/profil/spieler/358032,cyril ngonge,ssc napoli,2024,IT1
+SSC Napoli,6195,Giacomo Raspadori,405885,€25.00m,25000000.0,https://www.transfermarkt.com/giacomo-raspadori/profil/spieler/405885,giacomo raspadori,ssc napoli,2024,IT1
+SSC Napoli,6195,Romelu Lukaku,96341,€22.00m,22000000.0,https://www.transfermarkt.com/romelu-lukaku/profil/spieler/96341,romelu lukaku,ssc napoli,2024,IT1
+SSC Napoli,6195,Giovanni Simeone,282388,€5.00m,5000000.0,https://www.transfermarkt.com/giovanni-simeone/profil/spieler/282388,giovanni simeone,ssc napoli,2024,IT1
+SSC Napoli,6195,Walid Cheddira,521407,€2.50m,2500000.0,https://www.transfermarkt.com/walid-cheddira/profil/spieler/521407,walid cheddira,ssc napoli,2024,IT1
+AS Roma,12,Mile Svilar,338670,€25.00m,25000000.0,https://www.transfermarkt.com/mile-svilar/profil/spieler/338670,mile svilar,as roma,2024,IT1
+AS Roma,12,Mathew Ryan,128969,€2.50m,2500000.0,https://www.transfermarkt.com/mathew-ryan/profil/spieler/128969,mathew ryan,as roma,2024,IT1
+AS Roma,12,Pierluigi Gollini,244192,€1.00m,1000000.0,https://www.transfermarkt.com/pierluigi-gollini/profil/spieler/244192,pierluigi gollini,as roma,2024,IT1
+AS Roma,12,Renato Marin,1041614,€500k,500000.0,https://www.transfermarkt.com/renato-marin/profil/spieler/1041614,renato marin,as roma,2024,IT1
+AS Roma,12,Giorgio De Marzi,942004,-,,https://www.transfermarkt.com/giorgio-de-marzi/profil/spieler/942004,giorgio de marzi,as roma,2024,IT1
+AS Roma,12,Alessio Marcaccini,1058347,-,,https://www.transfermarkt.com/alessio-marcaccini/profil/spieler/1058347,alessio marcaccini,as roma,2024,IT1
+AS Roma,12,Evan Ndicka,371149,€30.00m,30000000.0,https://www.transfermarkt.com/evan-ndicka/profil/spieler/371149,evan ndicka,as roma,2024,IT1
+AS Roma,12,Gianluca Mancini,256448,€15.00m,15000000.0,https://www.transfermarkt.com/gianluca-mancini/profil/spieler/256448,gianluca mancini,as roma,2024,IT1
+AS Roma,12,Victor Nelsson,422951,€10.00m,10000000.0,https://www.transfermarkt.com/victor-nelsson/profil/spieler/422951,victor nelsson,as roma,2024,IT1
+AS Roma,12,Mario Hermoso,281769,€7.00m,7000000.0,https://www.transfermarkt.com/mario-hermoso/profil/spieler/281769,mario hermoso,as roma,2024,IT1
+AS Roma,12,Mats Hummels,39728,€2.00m,2000000.0,https://www.transfermarkt.com/mats-hummels/profil/spieler/39728,mats hummels,as roma,2024,IT1
+AS Roma,12,Chris Smalling,103427,€1.50m,1500000.0,https://www.transfermarkt.com/chris-smalling/profil/spieler/103427,chris smalling,as roma,2024,IT1
+AS Roma,12,Federico Nardin,1175301,-,,https://www.transfermarkt.com/federico-nardin/profil/spieler/1175301,federico nardin,as roma,2024,IT1
+AS Roma,12,Angeliño,277179,€20.00m,20000000.0,https://www.transfermarkt.com/angelino/profil/spieler/277179,angelino,as roma,2024,IT1
+AS Roma,12,Anass Salah-Eddine,485584,€8.00m,8000000.0,https://www.transfermarkt.com/anass-salah-eddine/profil/spieler/485584,anass salah-eddine,as roma,2024,IT1
+AS Roma,12,Samuel Dahl,605396,€7.00m,7000000.0,https://www.transfermarkt.com/samuel-dahl/profil/spieler/605396,samuel dahl,as roma,2024,IT1
+AS Roma,12,Devyne Rensch,557407,€10.00m,10000000.0,https://www.transfermarkt.com/devyne-rensch/profil/spieler/557407,devyne rensch,as roma,2024,IT1
+AS Roma,12,Zeki Çelik,251075,€6.00m,6000000.0,https://www.transfermarkt.com/zeki-celik/profil/spieler/251075,zeki celik,as roma,2024,IT1
+AS Roma,12,Saud Abdulhamid,631927,€3.00m,3000000.0,https://www.transfermarkt.com/saud-abdulhamid/profil/spieler/631927,saud abdulhamid,as roma,2024,IT1
+AS Roma,12,Buba Sangaré,962125,€1.00m,1000000.0,https://www.transfermarkt.com/buba-sangare/profil/spieler/962125,buba sangare,as roma,2024,IT1
+AS Roma,12,Lucas Gourna-Douath,620313,€8.00m,8000000.0,https://www.transfermarkt.com/lucas-gourna-douath/profil/spieler/620313,lucas gourna-douath,as roma,2024,IT1
+AS Roma,12,Bryan Cristante,199248,€7.00m,7000000.0,https://www.transfermarkt.com/bryan-cristante/profil/spieler/199248,bryan cristante,as roma,2024,IT1
+AS Roma,12,Leandro Paredes,166237,€5.00m,5000000.0,https://www.transfermarkt.com/leandro-paredes/profil/spieler/166237,leandro paredes,as roma,2024,IT1
+AS Roma,12,Alessandro Romano,911224,€500k,500000.0,https://www.transfermarkt.com/alessandro-romano/profil/spieler/911224,alessandro romano,as roma,2024,IT1
+AS Roma,12,Manu Koné,624690,€40.00m,40000000.0,https://www.transfermarkt.com/manu-kone/profil/spieler/624690,manu kone,as roma,2024,IT1
+AS Roma,12,Enzo Le Fée,633992,€18.00m,18000000.0,https://www.transfermarkt.com/enzo-le-fee/profil/spieler/633992,enzo le fee,as roma,2024,IT1
+AS Roma,12,Niccolò Pisilli,813137,€13.00m,13000000.0,https://www.transfermarkt.com/niccolo-pisilli/profil/spieler/813137,niccolo pisilli,as roma,2024,IT1
+AS Roma,12,Edoardo Bove,562049,€5.00m,5000000.0,https://www.transfermarkt.com/edoardo-bove/profil/spieler/562049,edoardo bove,as roma,2024,IT1
+AS Roma,12,Alexis Saelemaekers,381950,€17.00m,17000000.0,https://www.transfermarkt.com/alexis-saelemaekers/profil/spieler/381950,alexis saelemaekers,as roma,2024,IT1
+AS Roma,12,Nicola Zalewski,550108,€12.00m,12000000.0,https://www.transfermarkt.com/nicola-zalewski/profil/spieler/550108,nicola zalewski,as roma,2024,IT1
+AS Roma,12,Tommaso Baldanzi,641537,€12.00m,12000000.0,https://www.transfermarkt.com/tommaso-baldanzi/profil/spieler/641537,tommaso baldanzi,as roma,2024,IT1
+AS Roma,12,Lorenzo Pellegrini,286297,€9.00m,9000000.0,https://www.transfermarkt.com/lorenzo-pellegrini/profil/spieler/286297,lorenzo pellegrini,as roma,2024,IT1
+AS Roma,12,Stephan El Shaarawy,94529,€3.50m,3500000.0,https://www.transfermarkt.com/stephan-el-shaarawy/profil/spieler/94529,stephan el shaarawy,as roma,2024,IT1
+AS Roma,12,Matías Soulé,668951,€30.00m,30000000.0,https://www.transfermarkt.com/matias-soule/profil/spieler/668951,matias soule,as roma,2024,IT1
+AS Roma,12,João Costa,936536,€2.80m,2800000.0,https://www.transfermarkt.com/joao-costa/profil/spieler/936536,joao costa,as roma,2024,IT1
+AS Roma,12,Paulo Dybala,206050,€8.00m,8000000.0,https://www.transfermarkt.com/paulo-dybala/profil/spieler/206050,paulo dybala,as roma,2024,IT1
+AS Roma,12,Artem Dovbyk,343537,€30.00m,30000000.0,https://www.transfermarkt.com/artem-dovbyk/profil/spieler/343537,artem dovbyk,as roma,2024,IT1
+AS Roma,12,Tammy Abraham,331726,€15.00m,15000000.0,https://www.transfermarkt.com/tammy-abraham/profil/spieler/331726,tammy abraham,as roma,2024,IT1
+AS Roma,12,Eldor Shomurodov,358166,€5.00m,5000000.0,https://www.transfermarkt.com/eldor-shomurodov/profil/spieler/358166,eldor shomurodov,as roma,2024,IT1
+ACF Fiorentina,430,David de Gea,59377,€5.00m,5000000.0,https://www.transfermarkt.com/david-de-gea/profil/spieler/59377,david de gea,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Tommaso Martinelli,934159,€1.80m,1800000.0,https://www.transfermarkt.com/tommaso-martinelli/profil/spieler/934159,tommaso martinelli,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Pietro Terracciano,96254,€1.00m,1000000.0,https://www.transfermarkt.com/pietro-terracciano/profil/spieler/96254,pietro terracciano,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Pietro Leonardelli,937631,€125k,125000.0,https://www.transfermarkt.com/pietro-leonardelli/profil/spieler/937631,pietro leonardelli,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Pietro Comuzzo,746712,€25.00m,25000000.0,https://www.transfermarkt.com/pietro-comuzzo/profil/spieler/746712,pietro comuzzo,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Luca Ranieri,346561,€12.00m,12000000.0,https://www.transfermarkt.com/luca-ranieri/profil/spieler/346561,luca ranieri,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Marin Pongracic,282144,€10.00m,10000000.0,https://www.transfermarkt.com/marin-pongracic/profil/spieler/282144,marin pongracic,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Lucas Martínez Quarta,373373,€7.00m,7000000.0,https://www.transfermarkt.com/lucas-martinez-quarta/profil/spieler/373373,lucas martinez quarta,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Nicolás Valentini,860992,€6.00m,6000000.0,https://www.transfermarkt.com/nicolas-valentini/profil/spieler/860992,nicolas valentini,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Pablo Marí,210178,€3.50m,3500000.0,https://www.transfermarkt.com/pablo-mari/profil/spieler/210178,pablo mari,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Matías Moreno,1144700,€3.40m,3400000.0,https://www.transfermarkt.com/matias-moreno/profil/spieler/1144700,matias moreno,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Eddy Kouadio,957822,€275k,275000.0,https://www.transfermarkt.com/eddy-kouadio/profil/spieler/957822,eddy kouadio,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Leonardo Baroncelli,932733,€200k,200000.0,https://www.transfermarkt.com/leonardo-baroncelli/profil/spieler/932733,leonardo baroncelli,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Lorenzo Romani,899542,€125k,125000.0,https://www.transfermarkt.com/lorenzo-romani/profil/spieler/899542,lorenzo romani,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Niccolò Fortini,984964,€8.50m,8500000.0,https://www.transfermarkt.com/niccolo-fortini/profil/spieler/984964,niccolo fortini,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Robin Gosens,273132,€8.00m,8000000.0,https://www.transfermarkt.com/robin-gosens/profil/spieler/273132,robin gosens,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Fabiano Parisi,547985,€6.00m,6000000.0,https://www.transfermarkt.com/fabiano-parisi/profil/spieler/547985,fabiano parisi,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Cristiano Biraghi,124555,€1.80m,1800000.0,https://www.transfermarkt.com/cristiano-biraghi/profil/spieler/124555,cristiano biraghi,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Dodô,401529,€24.00m,24000000.0,https://www.transfermarkt.com/dodo/profil/spieler/401529,dodo,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Michael Kayode,823486,€18.00m,18000000.0,https://www.transfermarkt.com/michael-kayode/profil/spieler/823486,michael kayode,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Sofyan Amrabat,287579,€17.00m,17000000.0,https://www.transfermarkt.com/sofyan-amrabat/profil/spieler/287579,sofyan amrabat,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Rolando Mandragora,308279,€12.00m,12000000.0,https://www.transfermarkt.com/rolando-mandragora/profil/spieler/308279,rolando mandragora,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Yacine Adli,395236,€11.00m,11000000.0,https://www.transfermarkt.com/yacine-adli/profil/spieler/395236,yacine adli,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Danilo Cataldi,199733,€3.50m,3500000.0,https://www.transfermarkt.com/danilo-cataldi/profil/spieler/199733,danilo cataldi,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Nicolò Fagioli,432090,€18.00m,18000000.0,https://www.transfermarkt.com/nicolo-fagioli/profil/spieler/432090,nicolo fagioli,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Amir Richardson,893675,€8.50m,8500000.0,https://www.transfermarkt.com/amir-richardson/profil/spieler/893675,amir richardson,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Michael Folorunsho,377042,€6.00m,6000000.0,https://www.transfermarkt.com/michael-folorunsho/profil/spieler/377042,michael folorunsho,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Alessandro Bianco,602124,€5.00m,5000000.0,https://www.transfermarkt.com/alessandro-bianco/profil/spieler/602124,alessandro bianco,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Edoardo Bove,562049,€5.00m,5000000.0,https://www.transfermarkt.com/edoardo-bove/profil/spieler/562049,edoardo bove,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Cher Ndour,651005,€5.00m,5000000.0,https://www.transfermarkt.com/cher-ndour/profil/spieler/651005,cher ndour,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Gino Infantino,831162,€2.00m,2000000.0,https://www.transfermarkt.com/gino-infantino/profil/spieler/831162,gino infantino,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Jonas Harder,932740,€900k,900000.0,https://www.transfermarkt.com/jonas-harder/profil/spieler/932740,jonas harder,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Lucas Beltrán,628366,€18.00m,18000000.0,https://www.transfermarkt.com/lucas-beltran/profil/spieler/628366,lucas beltran,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Nicolò Zaniolo,392085,€12.00m,12000000.0,https://www.transfermarkt.com/nicolo-zaniolo/profil/spieler/392085,nicolo zaniolo,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Andrea Colpani,392959,€9.50m,9500000.0,https://www.transfermarkt.com/andrea-colpani/profil/spieler/392959,andrea colpani,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Antonín Barák,272261,€2.50m,2500000.0,https://www.transfermarkt.com/antonin-barak/profil/spieler/272261,antonin barak,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Tommaso Rubino,866247,€1.20m,1200000.0,https://www.transfermarkt.com/tommaso-rubino/profil/spieler/866247,tommaso rubino,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Riccardo Sottil,386455,€5.00m,5000000.0,https://www.transfermarkt.com/riccardo-sottil/profil/spieler/386455,riccardo sottil,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Josip Brekalo,293169,€3.30m,3300000.0,https://www.transfermarkt.com/josip-brekalo/profil/spieler/293169,josip brekalo,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Maat Daniel Caprini,996453,€2.00m,2000000.0,https://www.transfermarkt.com/maat-daniel-caprini/profil/spieler/996453,maat daniel caprini,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Jonathan Ikoné,324690,€7.00m,7000000.0,https://www.transfermarkt.com/jonathan-ikone/profil/spieler/324690,jonathan ikone,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Albert Gudmundsson,305947,€18.00m,18000000.0,https://www.transfermarkt.com/albert-gudmundsson/profil/spieler/305947,albert gudmundsson,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Moise Kean,364135,€50.00m,50000000.0,https://www.transfermarkt.com/moise-kean/profil/spieler/364135,moise kean,acf fiorentina,2024,IT1
+ACF Fiorentina,430,Christian Kouamé,337725,€4.00m,4000000.0,https://www.transfermarkt.com/christian-kouame/profil/spieler/337725,christian kouame,acf fiorentina,2024,IT1
+Bologna FC 1909,1025,Lukasz Skorupski,80894,€2.50m,2500000.0,https://www.transfermarkt.com/lukasz-skorupski/profil/spieler/80894,lukasz skorupski,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Federico Ravaglia,390304,€1.50m,1500000.0,https://www.transfermarkt.com/federico-ravaglia/profil/spieler/390304,federico ravaglia,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Nicola Bagnolini,818892,€200k,200000.0,https://www.transfermarkt.com/nicola-bagnolini/profil/spieler/818892,nicola bagnolini,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Massimo Pessina,992569,-,,https://www.transfermarkt.com/massimo-pessina/profil/spieler/992569,massimo pessina,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Sam Beukema,433984,€28.00m,28000000.0,https://www.transfermarkt.com/sam-beukema/profil/spieler/433984,sam beukema,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Jhon Lucumí,413565,€22.00m,22000000.0,https://www.transfermarkt.com/jhon-lucumi/profil/spieler/413565,jhon lucumi,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Stefan Posch,223974,€8.00m,8000000.0,https://www.transfermarkt.com/stefan-posch/profil/spieler/223974,stefan posch,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Nicolò Casale,389837,€6.00m,6000000.0,https://www.transfermarkt.com/nicolo-casale/profil/spieler/389837,nicolo casale,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Martin Erlić,357003,€4.00m,4000000.0,https://www.transfermarkt.com/martin-erlic/profil/spieler/357003,martin erlic,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Mihajlo Ilić,845566,€3.50m,3500000.0,https://www.transfermarkt.com/mihajlo-ilic/profil/spieler/845566,mihajlo ilic,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Juan Miranda,341227,€15.00m,15000000.0,https://www.transfermarkt.com/juan-miranda/profil/spieler/341227,juan miranda,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Samuel Iling-Junior,581672,€10.00m,10000000.0,https://www.transfermarkt.com/samuel-iling-junior/profil/spieler/581672,samuel iling-junior,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Tommaso Corazza,818880,€1.50m,1500000.0,https://www.transfermarkt.com/tommaso-corazza/profil/spieler/818880,tommaso corazza,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Charalampos Lykogiannis,136514,€1.50m,1500000.0,https://www.transfermarkt.com/charalampos-lykogiannis/profil/spieler/136514,charalampos lykogiannis,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Emil Holm,496745,€8.00m,8000000.0,https://www.transfermarkt.com/emil-holm/profil/spieler/496745,emil holm,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Davide Calabria,262523,€4.50m,4500000.0,https://www.transfermarkt.com/davide-calabria/profil/spieler/262523,davide calabria,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Lorenzo De Silvestri,33571,€800k,800000.0,https://www.transfermarkt.com/lorenzo-de-silvestri/profil/spieler/33571,lorenzo de silvestri,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Nikola Moro,316934,€4.50m,4500000.0,https://www.transfermarkt.com/nikola-moro/profil/spieler/316934,nikola moro,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Oussama El Azzouzi,531065,€1.40m,1400000.0,https://www.transfermarkt.com/oussama-el-azzouzi/profil/spieler/531065,oussama el azzouzi,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Andri Fannar Baldursson,464446,€600k,600000.0,https://www.transfermarkt.com/andri-fannar-baldursson/profil/spieler/464446,andri fannar baldursson,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Lewis Ferguson,428563,€28.00m,28000000.0,https://www.transfermarkt.com/lewis-ferguson/profil/spieler/428563,lewis ferguson,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Tommaso Pobega,392538,€9.00m,9000000.0,https://www.transfermarkt.com/tommaso-pobega/profil/spieler/392538,tommaso pobega,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Michel Aebischer,237658,€7.50m,7500000.0,https://www.transfermarkt.com/michel-aebischer/profil/spieler/237658,michel aebischer,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Kacper Urbanski,699442,€6.00m,6000000.0,https://www.transfermarkt.com/kacper-urbanski/profil/spieler/699442,kacper urbanski,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Remo Freuler,148252,€5.00m,5000000.0,https://www.transfermarkt.com/remo-freuler/profil/spieler/148252,remo freuler,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Naïm Byar,967148,€500k,500000.0,https://www.transfermarkt.com/naim-byar/profil/spieler/967148,naim byar,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Jens Odgaard,345590,€12.00m,12000000.0,https://www.transfermarkt.com/jens-odgaard/profil/spieler/345590,jens odgaard,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Giovanni Fabbian,633668,€12.00m,12000000.0,https://www.transfermarkt.com/giovanni-fabbian/profil/spieler/633668,giovanni fabbian,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Benja Domínguez,961022,€15.00m,15000000.0,https://www.transfermarkt.com/benja-dominguez/profil/spieler/961022,benja dominguez,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Nicolò Cambiaghi,459151,€8.50m,8500000.0,https://www.transfermarkt.com/nicolo-cambiaghi/profil/spieler/459151,nicolo cambiaghi,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Jesper Karlsson,367992,€4.00m,4000000.0,https://www.transfermarkt.com/jesper-karlsson/profil/spieler/367992,jesper karlsson,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Estanis Pedrola,913539,€1.80m,1800000.0,https://www.transfermarkt.com/estanis-pedrola/profil/spieler/913539,estanis pedrola,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Tommaso Ravaglioli,997909,€650k,650000.0,https://www.transfermarkt.com/tommaso-ravaglioli/profil/spieler/997909,tommaso ravaglioli,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Flavio Ferrari,1055075,€200k,200000.0,https://www.transfermarkt.com/flavio-ferrari/profil/spieler/1055075,flavio ferrari,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Dan Ndoye,365108,€35.00m,35000000.0,https://www.transfermarkt.com/dan-ndoye/profil/spieler/365108,dan ndoye,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Riccardo Orsolini,368482,€25.00m,25000000.0,https://www.transfermarkt.com/riccardo-orsolini/profil/spieler/368482,riccardo orsolini,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Santiago Castro,849520,€35.00m,35000000.0,https://www.transfermarkt.com/santiago-castro/profil/spieler/849520,santiago castro,bologna fc 1909,2024,IT1
+Bologna FC 1909,1025,Thijs Dallinga,538964,€12.00m,12000000.0,https://www.transfermarkt.com/thijs-dallinga/profil/spieler/538964,thijs dallinga,bologna fc 1909,2024,IT1
+SS Lazio,398,Christos Mandas,481675,€10.00m,10000000.0,https://www.transfermarkt.com/christos-mandas/profil/spieler/481675,christos mandas,ss lazio,2024,IT1
+SS Lazio,398,Ivan Provedel,197929,€3.00m,3000000.0,https://www.transfermarkt.com/ivan-provedel/profil/spieler/197929,ivan provedel,ss lazio,2024,IT1
+SS Lazio,398,Davide Renzetti,918957,€100k,100000.0,https://www.transfermarkt.com/davide-renzetti/profil/spieler/918957,davide renzetti,ss lazio,2024,IT1
+SS Lazio,398,Alessio Furlanetto,538079,€50k,50000.0,https://www.transfermarkt.com/alessio-furlanetto/profil/spieler/538079,alessio furlanetto,ss lazio,2024,IT1
+SS Lazio,398,Mario Gila,618341,€30.00m,30000000.0,https://www.transfermarkt.com/mario-gila/profil/spieler/618341,mario gila,ss lazio,2024,IT1
+SS Lazio,398,Alessio Romagnoli,197747,€7.00m,7000000.0,https://www.transfermarkt.com/alessio-romagnoli/profil/spieler/197747,alessio romagnoli,ss lazio,2024,IT1
+SS Lazio,398,Nicolò Casale,389837,€6.00m,6000000.0,https://www.transfermarkt.com/nicolo-casale/profil/spieler/389837,nicolo casale,ss lazio,2024,IT1
+SS Lazio,398,Oliver Provstgaard,644408,€3.50m,3500000.0,https://www.transfermarkt.com/oliver-provstgaard/profil/spieler/644408,oliver provstgaard,ss lazio,2024,IT1
+SS Lazio,398,Samuel Gigot,276896,€3.00m,3000000.0,https://www.transfermarkt.com/samuel-gigot/profil/spieler/276896,samuel gigot,ss lazio,2024,IT1
+SS Lazio,398,Patric,126729,€2.50m,2500000.0,https://www.transfermarkt.com/patric/profil/spieler/126729,patric,ss lazio,2024,IT1
+SS Lazio,398,Filipe Bordon,1110645,€800k,800000.0,https://www.transfermarkt.com/filipe-bordon/profil/spieler/1110645,filipe bordon,ss lazio,2024,IT1
+SS Lazio,398,Matteo Zazza,929743,€375k,375000.0,https://www.transfermarkt.com/matteo-zazza/profil/spieler/929743,matteo zazza,ss lazio,2024,IT1
+SS Lazio,398,Nuno Tavares,535955,€25.00m,25000000.0,https://www.transfermarkt.com/nuno-tavares/profil/spieler/535955,nuno tavares,ss lazio,2024,IT1
+SS Lazio,398,Luca Pellegrini,346567,€3.00m,3000000.0,https://www.transfermarkt.com/luca-pellegrini/profil/spieler/346567,luca pellegrini,ss lazio,2024,IT1
+SS Lazio,398,Alessandro Milani,883058,€250k,250000.0,https://www.transfermarkt.com/alessandro-milani/profil/spieler/883058,alessandro milani,ss lazio,2024,IT1
+SS Lazio,398,Manuel Lazzari,331401,€3.50m,3500000.0,https://www.transfermarkt.com/manuel-lazzari/profil/spieler/331401,manuel lazzari,ss lazio,2024,IT1
+SS Lazio,398,Adam Marusic,239802,€3.50m,3500000.0,https://www.transfermarkt.com/adam-marusic/profil/spieler/239802,adam marusic,ss lazio,2024,IT1
+SS Lazio,398,Elseid Hysaj,200056,€1.50m,1500000.0,https://www.transfermarkt.com/elseid-hysaj/profil/spieler/200056,elseid hysaj,ss lazio,2024,IT1
+SS Lazio,398,Nicolò Rovella,525704,€30.00m,30000000.0,https://www.transfermarkt.com/nicolo-rovella/profil/spieler/525704,nicolo rovella,ss lazio,2024,IT1
+SS Lazio,398,Reda Belahyane,982855,€10.00m,10000000.0,https://www.transfermarkt.com/reda-belahyane/profil/spieler/982855,reda belahyane,ss lazio,2024,IT1
+SS Lazio,398,Danilo Cataldi,199733,€3.50m,3500000.0,https://www.transfermarkt.com/danilo-cataldi/profil/spieler/199733,danilo cataldi,ss lazio,2024,IT1
+SS Lazio,398,Marco Nazzaro,929742,€125k,125000.0,https://www.transfermarkt.com/marco-nazzaro/profil/spieler/929742,marco nazzaro,ss lazio,2024,IT1
+SS Lazio,398,Mattéo Guendouzi,465830,€32.00m,32000000.0,https://www.transfermarkt.com/matteo-guendouzi/profil/spieler/465830,matteo guendouzi,ss lazio,2024,IT1
+SS Lazio,398,Matías Vecino,143812,€2.00m,2000000.0,https://www.transfermarkt.com/matias-vecino/profil/spieler/143812,matias vecino,ss lazio,2024,IT1
+SS Lazio,398,Gaetano Castrovilli,303116,€1.50m,1500000.0,https://www.transfermarkt.com/gaetano-castrovilli/profil/spieler/303116,gaetano castrovilli,ss lazio,2024,IT1
+SS Lazio,398,Toma Bašić,334835,€800k,800000.0,https://www.transfermarkt.com/toma-basic/profil/spieler/334835,toma basic,ss lazio,2024,IT1
+SS Lazio,398,Jean-Daniel Akpa Akpro,170481,€500k,500000.0,https://www.transfermarkt.com/jean-daniel-akpa-akpro/profil/spieler/170481,jean-daniel akpa akpro,ss lazio,2024,IT1
+SS Lazio,398,Leonardo Di Tommaso,929746,€225k,225000.0,https://www.transfermarkt.com/leonardo-di-tommaso/profil/spieler/929746,leonardo di tommaso,ss lazio,2024,IT1
+SS Lazio,398,Fisayo Dele-Bashiru,530742,€7.50m,7500000.0,https://www.transfermarkt.com/fisayo-dele-bashiru/profil/spieler/530742,fisayo dele-bashiru,ss lazio,2024,IT1
+SS Lazio,398,Arijon Ibrahimovic,744728,€4.00m,4000000.0,https://www.transfermarkt.com/arijon-ibrahimovic/profil/spieler/744728,arijon ibrahimovic,ss lazio,2024,IT1
+SS Lazio,398,Cristo Muñoz,834468,€250k,250000.0,https://www.transfermarkt.com/cristo-munoz/profil/spieler/834468,cristo munoz,ss lazio,2024,IT1
+SS Lazio,398,André Anderson,601577,€150k,150000.0,https://www.transfermarkt.com/andre-anderson/profil/spieler/601577,andre anderson,ss lazio,2024,IT1
+SS Lazio,398,Mattia Zaccagni,283735,€20.00m,20000000.0,https://www.transfermarkt.com/mattia-zaccagni/profil/spieler/283735,mattia zaccagni,ss lazio,2024,IT1
+SS Lazio,398,Gustav Isaksen,462823,€20.00m,20000000.0,https://www.transfermarkt.com/gustav-isaksen/profil/spieler/462823,gustav isaksen,ss lazio,2024,IT1
+SS Lazio,398,Loum Tchaouna,607226,€10.00m,10000000.0,https://www.transfermarkt.com/loum-tchaouna/profil/spieler/607226,loum tchaouna,ss lazio,2024,IT1
+SS Lazio,398,Tijjani Noslin,457736,€7.50m,7500000.0,https://www.transfermarkt.com/tijjani-noslin/profil/spieler/457736,tijjani noslin,ss lazio,2024,IT1
+SS Lazio,398,Pedro,65278,€1.00m,1000000.0,https://www.transfermarkt.com/pedro/profil/spieler/65278,pedro,ss lazio,2024,IT1
+SS Lazio,398,Taty Castellanos,522784,€25.00m,25000000.0,https://www.transfermarkt.com/taty-castellanos/profil/spieler/522784,taty castellanos,ss lazio,2024,IT1
+SS Lazio,398,Boulaye Dia,626913,€15.00m,15000000.0,https://www.transfermarkt.com/boulaye-dia/profil/spieler/626913,boulaye dia,ss lazio,2024,IT1
+SS Lazio,398,Federico Serra,976207,€450k,450000.0,https://www.transfermarkt.com/federico-serra/profil/spieler/976207,federico serra,ss lazio,2024,IT1
+SS Lazio,398,Mahamadou Baldé,1054209,€325k,325000.0,https://www.transfermarkt.com/mahamadou-balde/profil/spieler/1054209,mahamadou balde,ss lazio,2024,IT1
+Torino FC,416,Vanja Milinković-Savić,257474,€16.00m,16000000.0,https://www.transfermarkt.com/vanja-milinkovic-savic/profil/spieler/257474,vanja milinkovic-savic,torino fc,2024,IT1
+Torino FC,416,Mihai Popa,623412,€650k,650000.0,https://www.transfermarkt.com/mihai-popa/profil/spieler/623412,mihai popa,torino fc,2024,IT1
+Torino FC,416,Alberto Paleari,163048,€500k,500000.0,https://www.transfermarkt.com/alberto-paleari/profil/spieler/163048,alberto paleari,torino fc,2024,IT1
+Torino FC,416,Francesco Plaia,948047,€200k,200000.0,https://www.transfermarkt.com/francesco-plaia/profil/spieler/948047,francesco plaia,torino fc,2024,IT1
+Torino FC,416,Antonio Donnarumma,88685,€200k,200000.0,https://www.transfermarkt.com/antonio-donnarumma/profil/spieler/88685,antonio donnarumma,torino fc,2024,IT1
+Torino FC,416,Saúl Coco,588426,€10.00m,10000000.0,https://www.transfermarkt.com/saul-coco/profil/spieler/588426,saul coco,torino fc,2024,IT1
+Torino FC,416,Perr Schuurs,418543,€5.00m,5000000.0,https://www.transfermarkt.com/perr-schuurs/profil/spieler/418543,perr schuurs,torino fc,2024,IT1
+Torino FC,416,Sebastian Walukiewicz,345458,€4.50m,4500000.0,https://www.transfermarkt.com/sebastian-walukiewicz/profil/spieler/345458,sebastian walukiewicz,torino fc,2024,IT1
+Torino FC,416,Guillermo Maripán,249730,€4.00m,4000000.0,https://www.transfermarkt.com/guillermo-maripan/profil/spieler/249730,guillermo maripan,torino fc,2024,IT1
+Torino FC,416,Alessandro Dellavalle,704825,€3.00m,3000000.0,https://www.transfermarkt.com/alessandro-dellavalle/profil/spieler/704825,alessandro dellavalle,torino fc,2024,IT1
+Torino FC,416,Saba Sazonov,655456,€2.00m,2000000.0,https://www.transfermarkt.com/saba-sazonov/profil/spieler/655456,saba sazonov,torino fc,2024,IT1
+Torino FC,416,Adam Masina,286949,€1.50m,1500000.0,https://www.transfermarkt.com/adam-masina/profil/spieler/286949,adam masina,torino fc,2024,IT1
+Torino FC,416,Senan Mullen,983810,€175k,175000.0,https://www.transfermarkt.com/senan-mullen/profil/spieler/983810,senan mullen,torino fc,2024,IT1
+Torino FC,416,Borna Sosa,293194,€4.50m,4500000.0,https://www.transfermarkt.com/borna-sosa/profil/spieler/293194,borna sosa,torino fc,2024,IT1
+Torino FC,416,Cristiano Biraghi,124555,€1.80m,1800000.0,https://www.transfermarkt.com/cristiano-biraghi/profil/spieler/124555,cristiano biraghi,torino fc,2024,IT1
+Torino FC,416,Valentino Lazaro,186368,€4.50m,4500000.0,https://www.transfermarkt.com/valentino-lazaro/profil/spieler/186368,valentino lazaro,torino fc,2024,IT1
+Torino FC,416,Mërgim Vojvoda,336125,€3.00m,3000000.0,https://www.transfermarkt.com/mergim-vojvoda/profil/spieler/336125,mergim vojvoda,torino fc,2024,IT1
+Torino FC,416,Marcus Pedersen,583404,€3.00m,3000000.0,https://www.transfermarkt.com/marcus-pedersen/profil/spieler/583404,marcus pedersen,torino fc,2024,IT1
+Torino FC,416,Ali Dembélé,1004344,€900k,900000.0,https://www.transfermarkt.com/ali-dembele/profil/spieler/1004344,ali dembele,torino fc,2024,IT1
+Torino FC,416,Côme Bianay Balcot,1059298,€175k,175000.0,https://www.transfermarkt.com/come-bianay-balcot/profil/spieler/1059298,come bianay balcot,torino fc,2024,IT1
+Torino FC,416,Samuele Ricci,467992,€30.00m,30000000.0,https://www.transfermarkt.com/samuele-ricci/profil/spieler/467992,samuele ricci,torino fc,2024,IT1
+Torino FC,416,Adrien Tamèze,157507,€2.00m,2000000.0,https://www.transfermarkt.com/adrien-tameze/profil/spieler/157507,adrien tameze,torino fc,2024,IT1
+Torino FC,416,Ivan Ilić,470794,€16.00m,16000000.0,https://www.transfermarkt.com/ivan-ilic/profil/spieler/470794,ivan ilic,torino fc,2024,IT1
+Torino FC,416,Cesare Casadei,622380,€15.00m,15000000.0,https://www.transfermarkt.com/cesare-casadei/profil/spieler/622380,cesare casadei,torino fc,2024,IT1
+Torino FC,416,Gvidas Gineitis,798929,€6.00m,6000000.0,https://www.transfermarkt.com/gvidas-gineitis/profil/spieler/798929,gvidas gineitis,torino fc,2024,IT1
+Torino FC,416,Karol Linetty,225873,€1.80m,1800000.0,https://www.transfermarkt.com/karol-linetty/profil/spieler/225873,karol linetty,torino fc,2024,IT1
+Torino FC,416,Emirhan İlkhan,743091,€1.70m,1700000.0,https://www.transfermarkt.com/emirhan-ilkhan/profil/spieler/743091,emirhan ilkhan,torino fc,2024,IT1
+Torino FC,416,Aaron Ciammaglichella,724108,€700k,700000.0,https://www.transfermarkt.com/aaron-ciammaglichella/profil/spieler/724108,aaron ciammaglichella,torino fc,2024,IT1
+Torino FC,416,Marco Dalla Vecchia,879868,€250k,250000.0,https://www.transfermarkt.com/marco-dalla-vecchia/profil/spieler/879868,marco dalla vecchia,torino fc,2024,IT1
+Torino FC,416,Raoul Bellanova,357992,€24.00m,24000000.0,https://www.transfermarkt.com/raoul-bellanova/profil/spieler/357992,raoul bellanova,torino fc,2024,IT1
+Torino FC,416,Brian Bayeye,715470,€300k,300000.0,https://www.transfermarkt.com/brian-bayeye/profil/spieler/715470,brian bayeye,torino fc,2024,IT1
+Torino FC,416,Edoardo Zaia,985849,€100k,100000.0,https://www.transfermarkt.com/edoardo-zaia/profil/spieler/985849,edoardo zaia,torino fc,2024,IT1
+Torino FC,416,Demyan Yesin,1138724,-,,https://www.transfermarkt.com/demyan-yesin/profil/spieler/1138724,demyan yesin,torino fc,2024,IT1
+Torino FC,416,Eljif Elmas,400489,€14.00m,14000000.0,https://www.transfermarkt.com/eljif-elmas/profil/spieler/400489,eljif elmas,torino fc,2024,IT1
+Torino FC,416,Nikola Vlašić,293200,€8.00m,8000000.0,https://www.transfermarkt.com/nikola-vlasic/profil/spieler/293200,nikola vlasic,torino fc,2024,IT1
+Torino FC,416,Sergiu Perciun,980632,€1.50m,1500000.0,https://www.transfermarkt.com/sergiu-perciun/profil/spieler/980632,sergiu perciun,torino fc,2024,IT1
+Torino FC,416,Krisztofer Horváth,543736,€1.00m,1000000.0,https://www.transfermarkt.com/krisztofer-horvath/profil/spieler/543736,krisztofer horvath,torino fc,2024,IT1
+Torino FC,416,Alieu Njie,934527,€2.50m,2500000.0,https://www.transfermarkt.com/alieu-njie/profil/spieler/934527,alieu njie,torino fc,2024,IT1
+Torino FC,416,Yann Karamoh,324804,€1.80m,1800000.0,https://www.transfermarkt.com/yann-karamoh/profil/spieler/324804,yann karamoh,torino fc,2024,IT1
+Torino FC,416,Alessio Cacciamani,1188619,€500k,500000.0,https://www.transfermarkt.com/alessio-cacciamani/profil/spieler/1188619,alessio cacciamani,torino fc,2024,IT1
+Torino FC,416,Zanos Savva,928900,€900k,900000.0,https://www.transfermarkt.com/zanos-savva/profil/spieler/928900,zanos savva,torino fc,2024,IT1
+Torino FC,416,Ché Adams,346779,€15.00m,15000000.0,https://www.transfermarkt.com/che-adams/profil/spieler/346779,che adams,torino fc,2024,IT1
+Torino FC,416,Duván Zapata,73794,€3.50m,3500000.0,https://www.transfermarkt.com/duvan-zapata/profil/spieler/73794,duvan zapata,torino fc,2024,IT1
+Torino FC,416,Antonio Sanabria,234523,€2.80m,2800000.0,https://www.transfermarkt.com/antonio-sanabria/profil/spieler/234523,antonio sanabria,torino fc,2024,IT1
+Torino FC,416,Pietro Pellegri,364133,€2.00m,2000000.0,https://www.transfermarkt.com/pietro-pellegri/profil/spieler/364133,pietro pellegri,torino fc,2024,IT1
+Torino FC,416,Amine Salama,980576,€1.50m,1500000.0,https://www.transfermarkt.com/amine-salama/profil/spieler/980576,amine salama,torino fc,2024,IT1
+Torino FC,416,Tommaso Gabellini,1040080,€800k,800000.0,https://www.transfermarkt.com/tommaso-gabellini/profil/spieler/1040080,tommaso gabellini,torino fc,2024,IT1
+Torino FC,416,Alessio Raballo,967826,€25k,25000.0,https://www.transfermarkt.com/alessio-raballo/profil/spieler/967826,alessio raballo,torino fc,2024,IT1
+Como 1907,1047,Jean Butez,290537,€3.50m,3500000.0,https://www.transfermarkt.com/jean-butez/profil/spieler/290537,jean butez,como 1907,2024,IT1
+Como 1907,1047,Emil Audero,256339,€3.20m,3200000.0,https://www.transfermarkt.com/emil-audero/profil/spieler/256339,emil audero,como 1907,2024,IT1
+Como 1907,1047,Pepe Reina,7825,€500k,500000.0,https://www.transfermarkt.com/pepe-reina/profil/spieler/7825,pepe reina,como 1907,2024,IT1
+Como 1907,1047,Mauro Vigorito,88595,€150k,150000.0,https://www.transfermarkt.com/mauro-vigorito/profil/spieler/88595,mauro vigorito,como 1907,2024,IT1
+Como 1907,1047,Pierre Bolchini,431417,€50k,50000.0,https://www.transfermarkt.com/pierre-bolchini/profil/spieler/431417,pierre bolchini,como 1907,2024,IT1
+Como 1907,1047,Alberto Dossena,385394,€8.00m,8000000.0,https://www.transfermarkt.com/alberto-dossena/profil/spieler/385394,alberto dossena,como 1907,2024,IT1
+Como 1907,1047,Marc Oliver Kempf,160938,€3.00m,3000000.0,https://www.transfermarkt.com/marc-oliver-kempf/profil/spieler/160938,marc oliver kempf,como 1907,2024,IT1
+Como 1907,1047,Edoardo Goldaniga,242940,€3.00m,3000000.0,https://www.transfermarkt.com/edoardo-goldaniga/profil/spieler/242940,edoardo goldaniga,como 1907,2024,IT1
+Como 1907,1047,Fellipe Jack,1004723,€1.40m,1400000.0,https://www.transfermarkt.com/fellipe-jack/profil/spieler/1004723,fellipe jack,como 1907,2024,IT1
+Como 1907,1047,Federico Barba,165873,€500k,500000.0,https://www.transfermarkt.com/federico-barba/profil/spieler/165873,federico barba,como 1907,2024,IT1
+Como 1907,1047,Alessio Chiesa,997906,€75k,75000.0,https://www.transfermarkt.com/alessio-chiesa/profil/spieler/997906,alessio chiesa,como 1907,2024,IT1
+Como 1907,1047,Sven Lesjak,1173480,€50k,50000.0,https://www.transfermarkt.com/sven-lesjak/profil/spieler/1173480,sven lesjak,como 1907,2024,IT1
+Como 1907,1047,Raphaël Varane,164770,-,,https://www.transfermarkt.com/raphael-varane/profil/spieler/164770,raphael varane,como 1907,2024,IT1
+Como 1907,1047,Álex Valle,709957,€6.00m,6000000.0,https://www.transfermarkt.com/alex-valle/profil/spieler/709957,alex valle,como 1907,2024,IT1
+Como 1907,1047,Alberto Moreno,207917,€1.50m,1500000.0,https://www.transfermarkt.com/alberto-moreno/profil/spieler/207917,alberto moreno,como 1907,2024,IT1
+Como 1907,1047,Marco Sala,392570,€900k,900000.0,https://www.transfermarkt.com/marco-sala/profil/spieler/392570,marco sala,como 1907,2024,IT1
+Como 1907,1047,Ignace Van der Brempt,490423,€4.00m,4000000.0,https://www.transfermarkt.com/ignace-van-der-brempt/profil/spieler/490423,ignace van der brempt,como 1907,2024,IT1
+Como 1907,1047,Mërgim Vojvoda,336125,€3.00m,3000000.0,https://www.transfermarkt.com/mergim-vojvoda/profil/spieler/336125,mergim vojvoda,como 1907,2024,IT1
+Como 1907,1047,Ivan Smolcic,571271,€1.80m,1800000.0,https://www.transfermarkt.com/ivan-smolcic/profil/spieler/571271,ivan smolcic,como 1907,2024,IT1
+Como 1907,1047,Tommaso Cassandro,412649,€700k,700000.0,https://www.transfermarkt.com/tommaso-cassandro/profil/spieler/412649,tommaso cassandro,como 1907,2024,IT1
+Como 1907,1047,William Feola,927906,€75k,75000.0,https://www.transfermarkt.com/william-feola/profil/spieler/927906,william feola,como 1907,2024,IT1
+Como 1907,1047,Máximo Perrone,668547,€12.00m,12000000.0,https://www.transfermarkt.com/maximo-perrone/profil/spieler/668547,maximo perrone,como 1907,2024,IT1
+Como 1907,1047,Yannik Engelhardt,405670,€6.00m,6000000.0,https://www.transfermarkt.com/yannik-engelhardt/profil/spieler/405670,yannik engelhardt,como 1907,2024,IT1
+Como 1907,1047,Oliver Abildgaard,325993,€1.00m,1000000.0,https://www.transfermarkt.com/oliver-abildgaard/profil/spieler/325993,oliver abildgaard,como 1907,2024,IT1
+Como 1907,1047,Francesco Andrealli,1063242,-,,https://www.transfermarkt.com/francesco-andrealli/profil/spieler/1063242,francesco andrealli,como 1907,2024,IT1
+Como 1907,1047,Maxence Caqueret,395237,€16.00m,16000000.0,https://www.transfermarkt.com/maxence-caqueret/profil/spieler/395237,maxence caqueret,como 1907,2024,IT1
+Como 1907,1047,Lucas Da Cunha,495667,€10.00m,10000000.0,https://www.transfermarkt.com/lucas-da-cunha/profil/spieler/495667,lucas da cunha,como 1907,2024,IT1
+Como 1907,1047,Luca Mazzitelli,226025,€1.50m,1500000.0,https://www.transfermarkt.com/luca-mazzitelli/profil/spieler/226025,luca mazzitelli,como 1907,2024,IT1
+Como 1907,1047,Sergi Roberto,85370,€1.50m,1500000.0,https://www.transfermarkt.com/sergi-roberto/profil/spieler/85370,sergi roberto,como 1907,2024,IT1
+Como 1907,1047,Matthias Braunöder,488052,€1.40m,1400000.0,https://www.transfermarkt.com/matthias-braunoder/profil/spieler/488052,matthias braunoder,como 1907,2024,IT1
+Como 1907,1047,Ben Lhassine Kone,522681,€500k,500000.0,https://www.transfermarkt.com/ben-lhassine-kone/profil/spieler/522681,ben lhassine kone,como 1907,2024,IT1
+Como 1907,1047,Daniele Baselli,134883,€300k,300000.0,https://www.transfermarkt.com/daniele-baselli/profil/spieler/134883,daniele baselli,como 1907,2024,IT1
+Como 1907,1047,Giuseppe Mazzaglia,1059730,€250k,250000.0,https://www.transfermarkt.com/giuseppe-mazzaglia/profil/spieler/1059730,giuseppe mazzaglia,como 1907,2024,IT1
+Como 1907,1047,Alessio Iovine,330472,€400k,400000.0,https://www.transfermarkt.com/alessio-iovine/profil/spieler/330472,alessio iovine,como 1907,2024,IT1
+Como 1907,1047,Nico Paz,948294,€35.00m,35000000.0,https://www.transfermarkt.com/nico-paz/profil/spieler/948294,nico paz,como 1907,2024,IT1
+Como 1907,1047,Dele Alli,207929,€2.00m,2000000.0,https://www.transfermarkt.com/dele-alli/profil/spieler/207929,dele alli,como 1907,2024,IT1
+Como 1907,1047,Simone Verdi,130360,€1.50m,1500000.0,https://www.transfermarkt.com/simone-verdi/profil/spieler/130360,simone verdi,como 1907,2024,IT1
+Como 1907,1047,Naj Razi,957295,€300k,300000.0,https://www.transfermarkt.com/naj-razi/profil/spieler/957295,naj razi,como 1907,2024,IT1
+Como 1907,1047,Assane Diao,1061282,€30.00m,30000000.0,https://www.transfermarkt.com/assane-diao/profil/spieler/1061282,assane diao,como 1907,2024,IT1
+Como 1907,1047,Alieu Fadera,749552,€4.50m,4500000.0,https://www.transfermarkt.com/alieu-fadera/profil/spieler/749552,alieu fadera,como 1907,2024,IT1
+Como 1907,1047,Ali Jasim,877672,€550k,550000.0,https://www.transfermarkt.com/ali-jasim/profil/spieler/877672,ali jasim,como 1907,2024,IT1
+Como 1907,1047,Jonathan Ikoné,324690,€7.00m,7000000.0,https://www.transfermarkt.com/jonathan-ikone/profil/spieler/324690,jonathan ikone,como 1907,2024,IT1
+Como 1907,1047,Gabriel Strefezza,457673,€6.00m,6000000.0,https://www.transfermarkt.com/gabriel-strefezza/profil/spieler/457673,gabriel strefezza,como 1907,2024,IT1
+Como 1907,1047,Anastasios Douvikas,523318,€10.00m,10000000.0,https://www.transfermarkt.com/anastasios-douvikas/profil/spieler/523318,anastasios douvikas,como 1907,2024,IT1
+Como 1907,1047,Patrick Cutrone,265078,€6.00m,6000000.0,https://www.transfermarkt.com/patrick-cutrone/profil/spieler/265078,patrick cutrone,como 1907,2024,IT1
+Como 1907,1047,Iván Azón,633306,€3.00m,3000000.0,https://www.transfermarkt.com/ivan-azon/profil/spieler/633306,ivan azon,como 1907,2024,IT1
+Como 1907,1047,Andrea Belotti,167727,€2.00m,2000000.0,https://www.transfermarkt.com/andrea-belotti/profil/spieler/167727,andrea belotti,como 1907,2024,IT1
+Como 1907,1047,Nicholas Gioacchini,704156,€1.30m,1300000.0,https://www.transfermarkt.com/nicholas-gioacchini/profil/spieler/704156,nicholas gioacchini,como 1907,2024,IT1
+Como 1907,1047,Alberto Cerri,197751,€1.00m,1000000.0,https://www.transfermarkt.com/alberto-cerri/profil/spieler/197751,alberto cerri,como 1907,2024,IT1
+Como 1907,1047,Alessandro Gabrielloni,311333,€850k,850000.0,https://www.transfermarkt.com/alessandro-gabrielloni/profil/spieler/311333,alessandro gabrielloni,como 1907,2024,IT1
+Como 1907,1047,Federico Chinetti,934461,€175k,175000.0,https://www.transfermarkt.com/federico-chinetti/profil/spieler/934461,federico chinetti,como 1907,2024,IT1
+Udinese Calcio,410,Maduka Okoye,340353,€7.50m,7500000.0,https://www.transfermarkt.com/maduka-okoye/profil/spieler/340353,maduka okoye,udinese calcio,2024,IT1
+Udinese Calcio,410,Răzvan Sava,568617,€2.50m,2500000.0,https://www.transfermarkt.com/razvan-sava/profil/spieler/568617,razvan sava,udinese calcio,2024,IT1
+Udinese Calcio,410,Egil Selvik,380744,€1.50m,1500000.0,https://www.transfermarkt.com/egil-selvik/profil/spieler/380744,egil selvik,udinese calcio,2024,IT1
+Udinese Calcio,410,Marco Silvestri,85528,€500k,500000.0,https://www.transfermarkt.com/marco-silvestri/profil/spieler/85528,marco silvestri,udinese calcio,2024,IT1
+Udinese Calcio,410,Daniele Padelli,27807,€150k,150000.0,https://www.transfermarkt.com/daniele-padelli/profil/spieler/27807,daniele padelli,udinese calcio,2024,IT1
+Udinese Calcio,410,Edoardo Piana,612059,€50k,50000.0,https://www.transfermarkt.com/edoardo-piana/profil/spieler/612059,edoardo piana,udinese calcio,2024,IT1
+Udinese Calcio,410,Marco Cassin,1078792,-,,https://www.transfermarkt.com/marco-cassin/profil/spieler/1078792,marco cassin,udinese calcio,2024,IT1
+Udinese Calcio,410,Oumar Solet,463665,€18.00m,18000000.0,https://www.transfermarkt.com/oumar-solet/profil/spieler/463665,oumar solet,udinese calcio,2024,IT1
+Udinese Calcio,410,Jaka Bijol,371851,€18.00m,18000000.0,https://www.transfermarkt.com/jaka-bijol/profil/spieler/371851,jaka bijol,udinese calcio,2024,IT1
+Udinese Calcio,410,Nehuén Pérez,491693,€13.00m,13000000.0,https://www.transfermarkt.com/nehuen-perez/profil/spieler/491693,nehuen perez,udinese calcio,2024,IT1
+Udinese Calcio,410,Isaak Touré,708678,€7.00m,7000000.0,https://www.transfermarkt.com/isaak-toure/profil/spieler/708678,isaak toure,udinese calcio,2024,IT1
+Udinese Calcio,410,Thomas Kristensen,698259,€6.00m,6000000.0,https://www.transfermarkt.com/thomas-kristensen/profil/spieler/698259,thomas kristensen,udinese calcio,2024,IT1
+Udinese Calcio,410,Enzo Ebosse,342877,€2.00m,2000000.0,https://www.transfermarkt.com/enzo-ebosse/profil/spieler/342877,enzo ebosse,udinese calcio,2024,IT1
+Udinese Calcio,410,Lautaro Giannetti,225963,€2.00m,2000000.0,https://www.transfermarkt.com/lautaro-giannetti/profil/spieler/225963,lautaro giannetti,udinese calcio,2024,IT1
+Udinese Calcio,410,James Abankwah,648032,€1.00m,1000000.0,https://www.transfermarkt.com/james-abankwah/profil/spieler/648032,james abankwah,udinese calcio,2024,IT1
+Udinese Calcio,410,Matteo Palma,1058354,€1.00m,1000000.0,https://www.transfermarkt.com/matteo-palma/profil/spieler/1058354,matteo palma,udinese calcio,2024,IT1
+Udinese Calcio,410,Christian Kabasele,81512,€700k,700000.0,https://www.transfermarkt.com/christian-kabasele/profil/spieler/81512,christian kabasele,udinese calcio,2024,IT1
+Udinese Calcio,410,Axel Guessand,925584,€400k,400000.0,https://www.transfermarkt.com/axel-guessand/profil/spieler/925584,axel guessand,udinese calcio,2024,IT1
+Udinese Calcio,410,Jordan Zemura,633530,€4.50m,4500000.0,https://www.transfermarkt.com/jordan-zemura/profil/spieler/633530,jordan zemura,udinese calcio,2024,IT1
+Udinese Calcio,410,Hassane Kamara,290017,€3.50m,3500000.0,https://www.transfermarkt.com/hassane-kamara/profil/spieler/290017,hassane kamara,udinese calcio,2024,IT1
+Udinese Calcio,410,Festy Ebosele,586756,€4.60m,4600000.0,https://www.transfermarkt.com/festy-ebosele/profil/spieler/586756,festy ebosele,udinese calcio,2024,IT1
+Udinese Calcio,410,Kingsley Ehizibue,272812,€2.40m,2400000.0,https://www.transfermarkt.com/kingsley-ehizibue/profil/spieler/272812,kingsley ehizibue,udinese calcio,2024,IT1
+Udinese Calcio,410,Rui Modesto,671799,€2.00m,2000000.0,https://www.transfermarkt.com/rui-modesto/profil/spieler/671799,rui modesto,udinese calcio,2024,IT1
+Udinese Calcio,410,Gonçalo Esteves,726721,€500k,500000.0,https://www.transfermarkt.com/goncalo-esteves/profil/spieler/726721,goncalo esteves,udinese calcio,2024,IT1
+Udinese Calcio,410,Jesper Karlström,222855,€4.00m,4000000.0,https://www.transfermarkt.com/jesper-karlstrom/profil/spieler/222855,jesper karlstrom,udinese calcio,2024,IT1
+Udinese Calcio,410,Sandi Lovrić,268429,€8.50m,8500000.0,https://www.transfermarkt.com/sandi-lovric/profil/spieler/268429,sandi lovric,udinese calcio,2024,IT1
+Udinese Calcio,410,Arthur Atta,855308,€8.00m,8000000.0,https://www.transfermarkt.com/arthur-atta/profil/spieler/855308,arthur atta,udinese calcio,2024,IT1
+Udinese Calcio,410,Jurgen Ekkelenkamp,361068,€7.00m,7000000.0,https://www.transfermarkt.com/jurgen-ekkelenkamp/profil/spieler/361068,jurgen ekkelenkamp,udinese calcio,2024,IT1
+Udinese Calcio,410,Martín Payero,555820,€5.50m,5500000.0,https://www.transfermarkt.com/martin-payero/profil/spieler/555820,martin payero,udinese calcio,2024,IT1
+Udinese Calcio,410,Oier Zarraga,524010,€2.00m,2000000.0,https://www.transfermarkt.com/oier-zarraga/profil/spieler/524010,oier zarraga,udinese calcio,2024,IT1
+Udinese Calcio,410,Lazar Samardžić,528833,€17.00m,17000000.0,https://www.transfermarkt.com/lazar-samardzic/profil/spieler/528833,lazar samardzic,udinese calcio,2024,IT1
+Udinese Calcio,410,Simone Pafundi,876400,€5.00m,5000000.0,https://www.transfermarkt.com/simone-pafundi/profil/spieler/876400,simone pafundi,udinese calcio,2024,IT1
+Udinese Calcio,410,David Pejičić,1009633,€1.00m,1000000.0,https://www.transfermarkt.com/david-pejicic/profil/spieler/1009633,david pejicic,udinese calcio,2024,IT1
+Udinese Calcio,410,Florian Thauvin,184892,€5.00m,5000000.0,https://www.transfermarkt.com/florian-thauvin/profil/spieler/184892,florian thauvin,udinese calcio,2024,IT1
+Udinese Calcio,410,Lorenzo Lucca,572265,€22.00m,22000000.0,https://www.transfermarkt.com/lorenzo-lucca/profil/spieler/572265,lorenzo lucca,udinese calcio,2024,IT1
+Udinese Calcio,410,Brenner,412366,€4.00m,4000000.0,https://www.transfermarkt.com/brenner/profil/spieler/412366,brenner,udinese calcio,2024,IT1
+Udinese Calcio,410,Keinan Davis,412660,€3.40m,3400000.0,https://www.transfermarkt.com/keinan-davis/profil/spieler/412660,keinan davis,udinese calcio,2024,IT1
+Udinese Calcio,410,Damián Pizarro,950593,€3.20m,3200000.0,https://www.transfermarkt.com/damian-pizarro/profil/spieler/950593,damian pizarro,udinese calcio,2024,IT1
+Udinese Calcio,410,Iker Bravo,741292,€3.00m,3000000.0,https://www.transfermarkt.com/iker-bravo/profil/spieler/741292,iker bravo,udinese calcio,2024,IT1
+Udinese Calcio,410,Alexis Sánchez,40433,€1.50m,1500000.0,https://www.transfermarkt.com/alexis-sanchez/profil/spieler/40433,alexis sanchez,udinese calcio,2024,IT1
+Genoa CFC,252,Nicola Leali,136111,€1.50m,1500000.0,https://www.transfermarkt.com/nicola-leali/profil/spieler/136111,nicola leali,genoa cfc,2024,IT1
+Genoa CFC,252,Pierluigi Gollini,244192,€1.00m,1000000.0,https://www.transfermarkt.com/pierluigi-gollini/profil/spieler/244192,pierluigi gollini,genoa cfc,2024,IT1
+Genoa CFC,252,Benjamin Siegrist,111426,€650k,650000.0,https://www.transfermarkt.com/benjamin-siegrist/profil/spieler/111426,benjamin siegrist,genoa cfc,2024,IT1
+Genoa CFC,252,Franz Stolz,462699,€250k,250000.0,https://www.transfermarkt.com/franz-stolz/profil/spieler/462699,franz stolz,genoa cfc,2024,IT1
+Genoa CFC,252,Daniele Sommariva,312773,€100k,100000.0,https://www.transfermarkt.com/daniele-sommariva/profil/spieler/312773,daniele sommariva,genoa cfc,2024,IT1
+Genoa CFC,252,Koni De Winter,490384,€22.00m,22000000.0,https://www.transfermarkt.com/koni-de-winter/profil/spieler/490384,koni de winter,genoa cfc,2024,IT1
+Genoa CFC,252,Johan Vásquez,532937,€14.00m,14000000.0,https://www.transfermarkt.com/johan-vasquez/profil/spieler/532937,johan vasquez,genoa cfc,2024,IT1
+Genoa CFC,252,Alan Matturro,861981,€7.00m,7000000.0,https://www.transfermarkt.com/alan-matturro/profil/spieler/861981,alan matturro,genoa cfc,2024,IT1
+Genoa CFC,252,Honest Ahanor,1077175,€5.00m,5000000.0,https://www.transfermarkt.com/honest-ahanor/profil/spieler/1077175,honest ahanor,genoa cfc,2024,IT1
+Genoa CFC,252,Alessandro Vogliacco,330208,€2.80m,2800000.0,https://www.transfermarkt.com/alessandro-vogliacco/profil/spieler/330208,alessandro vogliacco,genoa cfc,2024,IT1
+Genoa CFC,252,Alessandro Marcandalli,818448,€2.00m,2000000.0,https://www.transfermarkt.com/alessandro-marcandalli/profil/spieler/818448,alessandro marcandalli,genoa cfc,2024,IT1
+Genoa CFC,252,Sebastian Otoa,890385,€2.00m,2000000.0,https://www.transfermarkt.com/sebastian-otoa/profil/spieler/890385,sebastian otoa,genoa cfc,2024,IT1
+Genoa CFC,252,Mattia Bani,176139,€1.80m,1800000.0,https://www.transfermarkt.com/mattia-bani/profil/spieler/176139,mattia bani,genoa cfc,2024,IT1
+Genoa CFC,252,Matteo Barbini,1066196,€500k,500000.0,https://www.transfermarkt.com/matteo-barbini/profil/spieler/1066196,matteo barbini,genoa cfc,2024,IT1
+Genoa CFC,252,Tommaso Pittino,934863,€150k,150000.0,https://www.transfermarkt.com/tommaso-pittino/profil/spieler/934863,tommaso pittino,genoa cfc,2024,IT1
+Genoa CFC,252,Aarón Martín,251878,€6.50m,6500000.0,https://www.transfermarkt.com/aaron-martin/profil/spieler/251878,aaron martin,genoa cfc,2024,IT1
+Genoa CFC,252,Alessandro Zanoli,397225,€6.00m,6000000.0,https://www.transfermarkt.com/alessandro-zanoli/profil/spieler/397225,alessandro zanoli,genoa cfc,2024,IT1
+Genoa CFC,252,Brooke Norton-Cuffy,728733,€3.50m,3500000.0,https://www.transfermarkt.com/brooke-norton-cuffy/profil/spieler/728733,brooke norton-cuffy,genoa cfc,2024,IT1
+Genoa CFC,252,Stefano Sabelli,167491,€1.40m,1400000.0,https://www.transfermarkt.com/stefano-sabelli/profil/spieler/167491,stefano sabelli,genoa cfc,2024,IT1
+Genoa CFC,252,Jean Onana,656441,€1.80m,1800000.0,https://www.transfermarkt.com/jean-onana/profil/spieler/656441,jean onana,genoa cfc,2024,IT1
+Genoa CFC,252,Emil Bohinen,406806,€1.50m,1500000.0,https://www.transfermarkt.com/emil-bohinen/profil/spieler/406806,emil bohinen,genoa cfc,2024,IT1
+Genoa CFC,252,Milan Badelj,40633,€800k,800000.0,https://www.transfermarkt.com/milan-badelj/profil/spieler/40633,milan badelj,genoa cfc,2024,IT1
+Genoa CFC,252,Morten Frendrup,503871,€20.00m,20000000.0,https://www.transfermarkt.com/morten-frendrup/profil/spieler/503871,morten frendrup,genoa cfc,2024,IT1
+Genoa CFC,252,Fabio Miretti,571607,€14.00m,14000000.0,https://www.transfermarkt.com/fabio-miretti/profil/spieler/571607,fabio miretti,genoa cfc,2024,IT1
+Genoa CFC,252,Patrizio Masini,459665,€6.00m,6000000.0,https://www.transfermarkt.com/patrizio-masini/profil/spieler/459665,patrizio masini,genoa cfc,2024,IT1
+Genoa CFC,252,Morten Thorsby,226524,€3.00m,3000000.0,https://www.transfermarkt.com/morten-thorsby/profil/spieler/226524,morten thorsby,genoa cfc,2024,IT1
+Genoa CFC,252,Lior Kassa,1083164,€1.50m,1500000.0,https://www.transfermarkt.com/lior-kassa/profil/spieler/1083164,lior kassa,genoa cfc,2024,IT1
+Genoa CFC,252,Filippo Melegoni,315862,€700k,700000.0,https://www.transfermarkt.com/filippo-melegoni/profil/spieler/315862,filippo melegoni,genoa cfc,2024,IT1
+Genoa CFC,252,Ruslan Malinovskyi,207877,€2.50m,2500000.0,https://www.transfermarkt.com/ruslan-malinovskyi/profil/spieler/207877,ruslan malinovskyi,genoa cfc,2024,IT1
+Genoa CFC,252,Christos Papadopoulos,940135,€700k,700000.0,https://www.transfermarkt.com/christos-papadopoulos/profil/spieler/940135,christos papadopoulos,genoa cfc,2024,IT1
+Genoa CFC,252,Gastón Pereiro,264116,€500k,500000.0,https://www.transfermarkt.com/gaston-pereiro/profil/spieler/264116,gaston pereiro,genoa cfc,2024,IT1
+Genoa CFC,252,Hugo Cuenca,906315,€300k,300000.0,https://www.transfermarkt.com/hugo-cuenca/profil/spieler/906315,hugo cuenca,genoa cfc,2024,IT1
+Genoa CFC,252,Filippo Carbone,954688,€200k,200000.0,https://www.transfermarkt.com/filippo-carbone/profil/spieler/954688,filippo carbone,genoa cfc,2024,IT1
+Genoa CFC,252,Roberto Scaglione,1350481,-,,https://www.transfermarkt.com/roberto-scaglione/profil/spieler/1350481,roberto scaglione,genoa cfc,2024,IT1
+Genoa CFC,252,Maxwel Cornet,234781,€8.00m,8000000.0,https://www.transfermarkt.com/maxwel-cornet/profil/spieler/234781,maxwel cornet,genoa cfc,2024,IT1
+Genoa CFC,252,Federico Accornero,650999,€400k,400000.0,https://www.transfermarkt.com/federico-accornero/profil/spieler/650999,federico accornero,genoa cfc,2024,IT1
+Genoa CFC,252,Lysandros Papastylianou,934408,€50k,50000.0,https://www.transfermarkt.com/lysandros-papastylianou/profil/spieler/934408,lysandros papastylianou,genoa cfc,2024,IT1
+Genoa CFC,252,Junior Messias,449151,€1.50m,1500000.0,https://www.transfermarkt.com/junior-messias/profil/spieler/449151,junior messias,genoa cfc,2024,IT1
+Genoa CFC,252,Lorenzo Venturino,1061820,€1.50m,1500000.0,https://www.transfermarkt.com/lorenzo-venturino/profil/spieler/1061820,lorenzo venturino,genoa cfc,2024,IT1
+Genoa CFC,252,Seydou Fini,866250,€1.30m,1300000.0,https://www.transfermarkt.com/seydou-fini/profil/spieler/866250,seydou fini,genoa cfc,2024,IT1
+Genoa CFC,252,Andrea Pinamonti,315865,€15.00m,15000000.0,https://www.transfermarkt.com/andrea-pinamonti/profil/spieler/315865,andrea pinamonti,genoa cfc,2024,IT1
+Genoa CFC,252,Vitinha,586853,€8.00m,8000000.0,https://www.transfermarkt.com/vitinha/profil/spieler/586853,vitinha,genoa cfc,2024,IT1
+Genoa CFC,252,Jeff Ekhator,934878,€5.00m,5000000.0,https://www.transfermarkt.com/jeff-ekhator/profil/spieler/934878,jeff ekhator,genoa cfc,2024,IT1
+Genoa CFC,252,Caleb Ekuban,199953,€1.30m,1300000.0,https://www.transfermarkt.com/caleb-ekuban/profil/spieler/199953,caleb ekuban,genoa cfc,2024,IT1
+Genoa CFC,252,David Ankeye,881610,€850k,850000.0,https://www.transfermarkt.com/david-ankeye/profil/spieler/881610,david ankeye,genoa cfc,2024,IT1
+Genoa CFC,252,Mario Balotelli,45146,€500k,500000.0,https://www.transfermarkt.com/mario-balotelli/profil/spieler/45146,mario balotelli,genoa cfc,2024,IT1
+Genoa CFC,252,Ifenna Dorgu,1090954,€300k,300000.0,https://www.transfermarkt.com/ifenna-dorgu/profil/spieler/1090954,ifenna dorgu,genoa cfc,2024,IT1
+Genoa CFC,252,Joi Nuredini,1089770,-,,https://www.transfermarkt.com/joi-nuredini/profil/spieler/1089770,joi nuredini,genoa cfc,2024,IT1
+Parma Calcio 1913,130,Zion Suzuki,432298,€20.00m,20000000.0,https://www.transfermarkt.com/zion-suzuki/profil/spieler/432298,zion suzuki,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Edoardo Corvi,528181,€350k,350000.0,https://www.transfermarkt.com/edoardo-corvi/profil/spieler/528181,edoardo corvi,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Leandro Chichizola,95736,€250k,250000.0,https://www.transfermarkt.com/leandro-chichizola/profil/spieler/95736,leandro chichizola,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Richard Marcone,86083,€250k,250000.0,https://www.transfermarkt.com/richard-marcone/profil/spieler/86083,richard marcone,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Manuel Moretta,934979,€10k,10000.0,https://www.transfermarkt.com/manuel-moretta/profil/spieler/934979,manuel moretta,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Giovanni Leoni,1086619,€18.00m,18000000.0,https://www.transfermarkt.com/giovanni-leoni/profil/spieler/1086619,giovanni leoni,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Alessandro Circati,867137,€8.00m,8000000.0,https://www.transfermarkt.com/alessandro-circati/profil/spieler/867137,alessandro circati,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Alessandro Vogliacco,330208,€2.80m,2800000.0,https://www.transfermarkt.com/alessandro-vogliacco/profil/spieler/330208,alessandro vogliacco,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Botond Balogh,543727,€2.40m,2400000.0,https://www.transfermarkt.com/botond-balogh/profil/spieler/543727,botond balogh,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Yordan Osorio,358165,€1.50m,1500000.0,https://www.transfermarkt.com/yordan-osorio/profil/spieler/358165,yordan osorio,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Lautaro Valenti,625202,€1.50m,1500000.0,https://www.transfermarkt.com/lautaro-valenti/profil/spieler/625202,lautaro valenti,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Nicolas Trabucchi,1119655,€250k,250000.0,https://www.transfermarkt.com/nicolas-trabucchi/profil/spieler/1119655,nicolas trabucchi,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Mathias Løvik,661212,€5.00m,5000000.0,https://www.transfermarkt.com/mathias-lovik/profil/spieler/661212,mathias løvik,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Emanuele Valeri,445126,€3.00m,3000000.0,https://www.transfermarkt.com/emanuele-valeri/profil/spieler/445126,emanuele valeri,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Gianluca Di Chiara,189340,€250k,250000.0,https://www.transfermarkt.com/gianluca-di-chiara/profil/spieler/189340,gianluca di chiara,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Enrico Delprato,392956,€6.50m,6500000.0,https://www.transfermarkt.com/enrico-delprato/profil/spieler/392956,enrico delprato,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Woyo Coulibaly,592975,€2.00m,2000000.0,https://www.transfermarkt.com/woyo-coulibaly/profil/spieler/592975,woyo coulibaly,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Antoine Hainaut,917375,€1.00m,1000000.0,https://www.transfermarkt.com/antoine-hainaut/profil/spieler/917375,antoine hainaut,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Mandela Keita,707844,€12.00m,12000000.0,https://www.transfermarkt.com/mandela-keita/profil/spieler/707844,mandela keita,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Nahuel Estévez,552472,€2.00m,2000000.0,https://www.transfermarkt.com/nahuel-estevez/profil/spieler/552472,nahuel estevez,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Adrián Bernabé,466802,€15.00m,15000000.0,https://www.transfermarkt.com/adrian-bernabe/profil/spieler/466802,adrian bernabe,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Simon Sohm,507486,€5.00m,5000000.0,https://www.transfermarkt.com/simon-sohm/profil/spieler/507486,simon sohm,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Hernani,181768,€1.60m,1600000.0,https://www.transfermarkt.com/hernani/profil/spieler/181768,hernani,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Drissa Camara,614742,€1.50m,1500000.0,https://www.transfermarkt.com/drissa-camara/profil/spieler/614742,drissa camara,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Wylan Cyprien,182889,€300k,300000.0,https://www.transfermarkt.com/wylan-cyprien/profil/spieler/182889,wylan cyprien,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Elia Plicco,1085031,€250k,250000.0,https://www.transfermarkt.com/elia-plicco/profil/spieler/1085031,elia plicco,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Jacob Ondrejka,663237,€8.00m,8000000.0,https://www.transfermarkt.com/jacob-ondrejka/profil/spieler/663237,jacob ondrejka,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Adrian Benedyczak,454386,€4.50m,4500000.0,https://www.transfermarkt.com/adrian-benedyczak/profil/spieler/454386,adrian benedyczak,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Valentin Mihăilă,535469,€3.00m,3000000.0,https://www.transfermarkt.com/valentin-mihaila/profil/spieler/535469,valentin mihaila,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Dennis Man,397486,€10.00m,10000000.0,https://www.transfermarkt.com/dennis-man/profil/spieler/397486,dennis man,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Matteo Cancellieri,550106,€4.50m,4500000.0,https://www.transfermarkt.com/matteo-cancellieri/profil/spieler/550106,matteo cancellieri,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Pontus Almqvist,300532,€2.50m,2500000.0,https://www.transfermarkt.com/pontus-almqvist/profil/spieler/300532,pontus almqvist,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Anas Haj Mohamed,883122,€1.80m,1800000.0,https://www.transfermarkt.com/anas-haj-mohamed/profil/spieler/883122,anas haj mohamed,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Anthony Partipilo,182517,€500k,500000.0,https://www.transfermarkt.com/anthony-partipilo/profil/spieler/182517,anthony partipilo,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Ange-Yoan Bonny,827734,€20.00m,20000000.0,https://www.transfermarkt.com/ange-yoan-bonny/profil/spieler/827734,ange-yoan bonny,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Mateo Pellegrino,856530,€6.00m,6000000.0,https://www.transfermarkt.com/mateo-pellegrino/profil/spieler/856530,mateo pellegrino,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Milan Djuric,67556,€1.50m,1500000.0,https://www.transfermarkt.com/milan-djuric/profil/spieler/67556,milan djuric,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Gabriel Charpentier,660342,€1.30m,1300000.0,https://www.transfermarkt.com/gabriel-charpentier/profil/spieler/660342,gabriel charpentier,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Daniel Mikolajewski,991459,€500k,500000.0,https://www.transfermarkt.com/daniel-mikolajewski/profil/spieler/991459,daniel mikolajewski,parma calcio 1913,2024,IT1
+Parma Calcio 1913,130,Mateusz Kowalski,902573,€300k,300000.0,https://www.transfermarkt.com/mateusz-kowalski/profil/spieler/902573,mateusz kowalski,parma calcio 1913,2024,IT1
+US Lecce,1005,Wladimiro Falcone,238537,€3.50m,3500000.0,https://www.transfermarkt.com/wladimiro-falcone/profil/spieler/238537,wladimiro falcone,us lecce,2024,IT1
+US Lecce,1005,Christian Früchtl,336307,€1.30m,1300000.0,https://www.transfermarkt.com/christian-fruchtl/profil/spieler/336307,christian fruchtl,us lecce,2024,IT1
+US Lecce,1005,Alexandru Borbei,667640,€100k,100000.0,https://www.transfermarkt.com/alexandru-borbei/profil/spieler/667640,alexandru borbei,us lecce,2024,IT1
+US Lecce,1005,Jasper Samooja,712911,€75k,75000.0,https://www.transfermarkt.com/jasper-samooja/profil/spieler/712911,jasper samooja,us lecce,2024,IT1
+US Lecce,1005,Federico Baschirotto,351955,€3.60m,3600000.0,https://www.transfermarkt.com/federico-baschirotto/profil/spieler/351955,federico baschirotto,us lecce,2024,IT1
+US Lecce,1005,Kialonda Gaspar,836441,€3.50m,3500000.0,https://www.transfermarkt.com/kialonda-gaspar/profil/spieler/836441,kialonda gaspar,us lecce,2024,IT1
+US Lecce,1005,Andy Pelmard,494236,€2.00m,2000000.0,https://www.transfermarkt.com/andy-pelmard/profil/spieler/494236,andy pelmard,us lecce,2024,IT1
+US Lecce,1005,Gaby Jean,805886,€2.00m,2000000.0,https://www.transfermarkt.com/gaby-jean/profil/spieler/805886,gaby jean,us lecce,2024,IT1
+US Lecce,1005,Tiago Gabriel,1112449,€1.00m,1000000.0,https://www.transfermarkt.com/tiago-gabriel/profil/spieler/1112449,tiago gabriel,us lecce,2024,IT1
+US Lecce,1005,Kevin Bonifazi,247377,€750k,750000.0,https://www.transfermarkt.com/kevin-bonifazi/profil/spieler/247377,kevin bonifazi,us lecce,2024,IT1
+US Lecce,1005,Elijah Scott,1105124,€300k,300000.0,https://www.transfermarkt.com/elijah-scott/profil/spieler/1105124,elijah scott,us lecce,2024,IT1
+US Lecce,1005,Cristian Pehlivanov,1271612,€200k,200000.0,https://www.transfermarkt.com/cristian-pehlivanov/profil/spieler/1271612,cristian pehlivanov,us lecce,2024,IT1
+US Lecce,1005,Sebastian Esposito,1118086,€200k,200000.0,https://www.transfermarkt.com/sebastian-esposito/profil/spieler/1118086,sebastian esposito,us lecce,2024,IT1
+US Lecce,1005,Patrick Dorgu,926952,€25.00m,25000000.0,https://www.transfermarkt.com/patrick-dorgu/profil/spieler/926952,patrick dorgu,us lecce,2024,IT1
+US Lecce,1005,Antonino Gallo,392516,€4.30m,4300000.0,https://www.transfermarkt.com/antonino-gallo/profil/spieler/392516,antonino gallo,us lecce,2024,IT1
+US Lecce,1005,Marco Sala,392570,€900k,900000.0,https://www.transfermarkt.com/marco-sala/profil/spieler/392570,marco sala,us lecce,2024,IT1
+US Lecce,1005,Vernon Addo,1017950,€200k,200000.0,https://www.transfermarkt.com/vernon-addo/profil/spieler/1017950,vernon addo,us lecce,2024,IT1
+US Lecce,1005,Valentin Gendrey,569387,€7.00m,7000000.0,https://www.transfermarkt.com/valentin-gendrey/profil/spieler/569387,valentin gendrey,us lecce,2024,IT1
+US Lecce,1005,Frédéric Guilbert,354352,€2.50m,2500000.0,https://www.transfermarkt.com/frederic-guilbert/profil/spieler/354352,frederic guilbert,us lecce,2024,IT1
+US Lecce,1005,Danilo Veiga,728485,€1.00m,1000000.0,https://www.transfermarkt.com/danilo-veiga/profil/spieler/728485,danilo veiga,us lecce,2024,IT1
+US Lecce,1005,Ylber Ramadani,442703,€1.80m,1800000.0,https://www.transfermarkt.com/ylber-ramadani/profil/spieler/442703,ylber ramadani,us lecce,2024,IT1
+US Lecce,1005,Balthazar Pierret,642002,€1.70m,1700000.0,https://www.transfermarkt.com/balthazar-pierret/profil/spieler/642002,balthazar pierret,us lecce,2024,IT1
+US Lecce,1005,Thórir Jóhann Helgason,488996,€3.00m,3000000.0,https://www.transfermarkt.com/thorir-johann-helgason/profil/spieler/488996,thorir johann helgason,us lecce,2024,IT1
+US Lecce,1005,Lassana Coulibaly,386552,€2.50m,2500000.0,https://www.transfermarkt.com/lassana-coulibaly/profil/spieler/386552,lassana coulibaly,us lecce,2024,IT1
+US Lecce,1005,Mohamed Kaba,911328,€2.00m,2000000.0,https://www.transfermarkt.com/mohamed-kaba/profil/spieler/911328,mohamed kaba,us lecce,2024,IT1
+US Lecce,1005,Medon Berisha,583046,€1.50m,1500000.0,https://www.transfermarkt.com/medon-berisha/profil/spieler/583046,medon berisha,us lecce,2024,IT1
+US Lecce,1005,Hamza Rafia,418571,€1.40m,1400000.0,https://www.transfermarkt.com/hamza-rafia/profil/spieler/418571,hamza rafia,us lecce,2024,IT1
+US Lecce,1005,Luis Hasa,724178,€1.00m,1000000.0,https://www.transfermarkt.com/luis-hasa/profil/spieler/724178,luis hasa,us lecce,2024,IT1
+US Lecce,1005,Joan González,692209,€800k,800000.0,https://www.transfermarkt.com/joan-gonzalez/profil/spieler/692209,joan gonzalez,us lecce,2024,IT1
+US Lecce,1005,Ed McJannet,802243,€150k,150000.0,https://www.transfermarkt.com/ed-mcjannet/profil/spieler/802243,ed mcjannet,us lecce,2024,IT1
+US Lecce,1005,Filip Marchwinski,555106,€3.00m,3000000.0,https://www.transfermarkt.com/filip-marchwinski/profil/spieler/555106,filip marchwinski,us lecce,2024,IT1
+US Lecce,1005,Rémi Oudin,399543,€1.50m,1500000.0,https://www.transfermarkt.com/remi-oudin/profil/spieler/399543,remi oudin,us lecce,2024,IT1
+US Lecce,1005,Lameck Banda,545538,€4.50m,4500000.0,https://www.transfermarkt.com/lameck-banda/profil/spieler/545538,lameck banda,us lecce,2024,IT1
+US Lecce,1005,Jesper Karlsson,367992,€4.00m,4000000.0,https://www.transfermarkt.com/jesper-karlsson/profil/spieler/367992,jesper karlsson,us lecce,2024,IT1
+US Lecce,1005,Tete Morente,339816,€2.00m,2000000.0,https://www.transfermarkt.com/tete-morente/profil/spieler/339816,tete morente,us lecce,2024,IT1
+US Lecce,1005,Ante Rebić,187587,€1.00m,1000000.0,https://www.transfermarkt.com/ante-rebic/profil/spieler/187587,ante rebic,us lecce,2024,IT1
+US Lecce,1005,Nicola Sansone,82048,€400k,400000.0,https://www.transfermarkt.com/nicola-sansone/profil/spieler/82048,nicola sansone,us lecce,2024,IT1
+US Lecce,1005,Santiago Pierotti,674806,€4.00m,4000000.0,https://www.transfermarkt.com/santiago-pierotti/profil/spieler/674806,santiago pierotti,us lecce,2024,IT1
+US Lecce,1005,Konan N’Dri,649490,€1.40m,1400000.0,https://www.transfermarkt.com/konan-ndri/profil/spieler/649490,konan n’dri,us lecce,2024,IT1
+US Lecce,1005,Jeppe Corfitzen,709985,€250k,250000.0,https://www.transfermarkt.com/jeppe-corfitzen/profil/spieler/709985,jeppe corfitzen,us lecce,2024,IT1
+US Lecce,1005,Dario Daka,816679,€100k,100000.0,https://www.transfermarkt.com/dario-daka/profil/spieler/816679,dario daka,us lecce,2024,IT1
+US Lecce,1005,Nikola Krstović,434433,€15.00m,15000000.0,https://www.transfermarkt.com/nikola-krstovic/profil/spieler/434433,nikola krstovic,us lecce,2024,IT1
+US Lecce,1005,Rareș Burnete,731525,€700k,700000.0,https://www.transfermarkt.com/rares-burnete/profil/spieler/731525,rares burnete,us lecce,2024,IT1
+US Lecce,1005,Joel Voelkerling Persson,647534,€300k,300000.0,https://www.transfermarkt.com/joel-voelkerling-persson/profil/spieler/647534,joel voelkerling persson,us lecce,2024,IT1
+Hellas Verona,276,Lorenzo Montipò,241923,€2.00m,2000000.0,https://www.transfermarkt.com/lorenzo-montipo/profil/spieler/241923,lorenzo montipo,hellas verona,2024,IT1
+Hellas Verona,276,Simone Perilli,240675,€400k,400000.0,https://www.transfermarkt.com/simone-perilli/profil/spieler/240675,simone perilli,hellas verona,2024,IT1
+Hellas Verona,276,Federico Magro,818898,€300k,300000.0,https://www.transfermarkt.com/federico-magro/profil/spieler/818898,federico magro,hellas verona,2024,IT1
+Hellas Verona,276,Alessandro Berardi,127217,€50k,50000.0,https://www.transfermarkt.com/alessandro-berardi/profil/spieler/127217,alessandro berardi,hellas verona,2024,IT1
+Hellas Verona,276,Diego Coppola,660860,€10.00m,10000000.0,https://www.transfermarkt.com/diego-coppola/profil/spieler/660860,diego coppola,hellas verona,2024,IT1
+Hellas Verona,276,Nicolás Valentini,860992,€6.00m,6000000.0,https://www.transfermarkt.com/nicolas-valentini/profil/spieler/860992,nicolas valentini,hellas verona,2024,IT1
+Hellas Verona,276,Daniele Ghilardi,701819,€5.00m,5000000.0,https://www.transfermarkt.com/daniele-ghilardi/profil/spieler/701819,daniele ghilardi,hellas verona,2024,IT1
+Hellas Verona,276,Flavius Daniliuc,322655,€2.70m,2700000.0,https://www.transfermarkt.com/flavius-daniliuc/profil/spieler/322655,flavius daniliuc,hellas verona,2024,IT1
+Hellas Verona,276,Pawel Dawidowicz,248732,€2.50m,2500000.0,https://www.transfermarkt.com/pawel-dawidowicz/profil/spieler/248732,pawel dawidowicz,hellas verona,2024,IT1
+Hellas Verona,276,Tobias Slotsager,851385,€2.00m,2000000.0,https://www.transfermarkt.com/tobias-slotsager/profil/spieler/851385,tobias slotsager,hellas verona,2024,IT1
+Hellas Verona,276,Giangiacomo Magnani,310458,€1.80m,1800000.0,https://www.transfermarkt.com/giangiacomo-magnani/profil/spieler/310458,giangiacomo magnani,hellas verona,2024,IT1
+Hellas Verona,276,Luan Patrick,658674,€1.00m,1000000.0,https://www.transfermarkt.com/luan-patrick/profil/spieler/658674,luan patrick,hellas verona,2024,IT1
+Hellas Verona,276,Yllan Okou,745202,€800k,800000.0,https://www.transfermarkt.com/yllan-okou/profil/spieler/745202,yllan okou,hellas verona,2024,IT1
+Hellas Verona,276,Christian Corradi,936183,€700k,700000.0,https://www.transfermarkt.com/christian-corradi/profil/spieler/936183,christian corradi,hellas verona,2024,IT1
+Hellas Verona,276,Federico Ceccherini,163639,€400k,400000.0,https://www.transfermarkt.com/federico-ceccherini/profil/spieler/163639,federico ceccherini,hellas verona,2024,IT1
+Hellas Verona,276,Karlson Nwanege,1062513,€200k,200000.0,https://www.transfermarkt.com/karlson-nwanege/profil/spieler/1062513,karlson nwanege,hellas verona,2024,IT1
+Hellas Verona,276,Domagoj Bradarić,357796,€4.00m,4000000.0,https://www.transfermarkt.com/domagoj-bradaric/profil/spieler/357796,domagoj bradaric,hellas verona,2024,IT1
+Hellas Verona,276,Martin Frese,488785,€2.00m,2000000.0,https://www.transfermarkt.com/martin-frese/profil/spieler/488785,martin frese,hellas verona,2024,IT1
+Hellas Verona,276,Jackson Tchatchoua,848509,€8.00m,8000000.0,https://www.transfermarkt.com/jackson-tchatchoua/profil/spieler/848509,jackson tchatchoua,hellas verona,2024,IT1
+Hellas Verona,276,Davide Faraoni,73926,€800k,800000.0,https://www.transfermarkt.com/davide-faraoni/profil/spieler/73926,davide faraoni,hellas verona,2024,IT1
+Hellas Verona,276,Daniel Oyegoke,586984,€500k,500000.0,https://www.transfermarkt.com/daniel-oyegoke/profil/spieler/586984,daniel oyegoke,hellas verona,2024,IT1
+Hellas Verona,276,Reda Belahyane,982855,€10.00m,10000000.0,https://www.transfermarkt.com/reda-belahyane/profil/spieler/982855,reda belahyane,hellas verona,2024,IT1
+Hellas Verona,276,Dani Silva,372445,€2.50m,2500000.0,https://www.transfermarkt.com/dani-silva/profil/spieler/372445,dani silva,hellas verona,2024,IT1
+Hellas Verona,276,Cheikh Niasse,644032,€2.50m,2500000.0,https://www.transfermarkt.com/cheikh-niasse/profil/spieler/644032,cheikh niasse,hellas verona,2024,IT1
+Hellas Verona,276,Suat Serdar,261905,€4.50m,4500000.0,https://www.transfermarkt.com/suat-serdar/profil/spieler/261905,suat serdar,hellas verona,2024,IT1
+Hellas Verona,276,Ondrej Duda,232418,€3.50m,3500000.0,https://www.transfermarkt.com/ondrej-duda/profil/spieler/232418,ondrej duda,hellas verona,2024,IT1
+Hellas Verona,276,Antoine Bernede,395512,€2.50m,2500000.0,https://www.transfermarkt.com/antoine-bernede/profil/spieler/395512,antoine bernede,hellas verona,2024,IT1
+Hellas Verona,276,Abdou Harroui,416386,€1.80m,1800000.0,https://www.transfermarkt.com/abdou-harroui/profil/spieler/416386,abdou harroui,hellas verona,2024,IT1
+Hellas Verona,276,Darko Lazović,70411,€800k,800000.0,https://www.transfermarkt.com/darko-lazovic/profil/spieler/70411,darko lazovic,hellas verona,2024,IT1
+Hellas Verona,276,Tomas Suslov,540333,€6.00m,6000000.0,https://www.transfermarkt.com/tomas-suslov/profil/spieler/540333,tomas suslov,hellas verona,2024,IT1
+Hellas Verona,276,Ayanda Sishuba,977877,€1.50m,1500000.0,https://www.transfermarkt.com/ayanda-sishuba/profil/spieler/977877,ayanda sishuba,hellas verona,2024,IT1
+Hellas Verona,276,Grigoris Kastanos,298635,€1.50m,1500000.0,https://www.transfermarkt.com/grigoris-kastanos/profil/spieler/298635,grigoris kastanos,hellas verona,2024,IT1
+Hellas Verona,276,Alphadjo Cissè,964087,€1.00m,1000000.0,https://www.transfermarkt.com/alphadjo-cisse/profil/spieler/964087,alphadjo cisse,hellas verona,2024,IT1
+Hellas Verona,276,Stefan Mitrović,726526,€1.50m,1500000.0,https://www.transfermarkt.com/stefan-mitrovic/profil/spieler/726526,stefan mitrovic,hellas verona,2024,IT1
+Hellas Verona,276,Faride Alidou,456492,€1.00m,1000000.0,https://www.transfermarkt.com/faride-alidou/profil/spieler/456492,faride alidou,hellas verona,2024,IT1
+Hellas Verona,276,Elayis Tavsan,462086,€1.20m,1200000.0,https://www.transfermarkt.com/elayis-tavsan/profil/spieler/462086,elayis tavsan,hellas verona,2024,IT1
+Hellas Verona,276,Casper Tengstedt,464598,€6.00m,6000000.0,https://www.transfermarkt.com/casper-tengstedt/profil/spieler/464598,casper tengstedt,hellas verona,2024,IT1
+Hellas Verona,276,Amin Sarr,748382,€5.00m,5000000.0,https://www.transfermarkt.com/amin-sarr/profil/spieler/748382,amin sarr,hellas verona,2024,IT1
+Hellas Verona,276,Daniel Mosquera,651569,€1.50m,1500000.0,https://www.transfermarkt.com/daniel-mosquera/profil/spieler/651569,daniel mosquera,hellas verona,2024,IT1
+Hellas Verona,276,Mathis Lambourde,979766,€800k,800000.0,https://www.transfermarkt.com/mathis-lambourde/profil/spieler/979766,mathis lambourde,hellas verona,2024,IT1
+Hellas Verona,276,Dailon Livramento,676411,€800k,800000.0,https://www.transfermarkt.com/dailon-livramento/profil/spieler/676411,dailon livramento,hellas verona,2024,IT1
+Hellas Verona,276,Junior Ajayi,1111820,€300k,300000.0,https://www.transfermarkt.com/junior-ajayi/profil/spieler/1111820,junior ajayi,hellas verona,2024,IT1
+FC Empoli,749,Devis Vásquez,495722,€2.00m,2000000.0,https://www.transfermarkt.com/devis-vasquez/profil/spieler/495722,devis vasquez,fc empoli,2024,IT1
+FC Empoli,749,Jacopo Seghetti,935777,€1.00m,1000000.0,https://www.transfermarkt.com/jacopo-seghetti/profil/spieler/935777,jacopo seghetti,fc empoli,2024,IT1
+FC Empoli,749,Marco Silvestri,85528,€500k,500000.0,https://www.transfermarkt.com/marco-silvestri/profil/spieler/85528,marco silvestri,fc empoli,2024,IT1
+FC Empoli,749,Samuele Perisan,301240,€400k,400000.0,https://www.transfermarkt.com/samuele-perisan/profil/spieler/301240,samuele perisan,fc empoli,2024,IT1
+FC Empoli,749,Niccolò Chiorra,459697,€300k,300000.0,https://www.transfermarkt.com/niccolo-chiorra/profil/spieler/459697,niccolo chiorra,fc empoli,2024,IT1
+FC Empoli,749,Federico Brancolini,451154,€200k,200000.0,https://www.transfermarkt.com/federico-brancolini/profil/spieler/451154,federico brancolini,fc empoli,2024,IT1
+FC Empoli,749,Saba Goglichidze,906160,€8.00m,8000000.0,https://www.transfermarkt.com/saba-goglichidze/profil/spieler/906160,saba goglichidze,fc empoli,2024,IT1
+FC Empoli,749,Luca Marianucci,814446,€7.50m,7500000.0,https://www.transfermarkt.com/luca-marianucci/profil/spieler/814446,luca marianucci,fc empoli,2024,IT1
+FC Empoli,749,Ardian Ismajli,435228,€6.00m,6000000.0,https://www.transfermarkt.com/ardian-ismajli/profil/spieler/435228,ardian ismajli,fc empoli,2024,IT1
+FC Empoli,749,Mattia Viti,493702,€5.50m,5500000.0,https://www.transfermarkt.com/mattia-viti/profil/spieler/493702,mattia viti,fc empoli,2024,IT1
+FC Empoli,749,Sebastian Walukiewicz,345458,€4.50m,4500000.0,https://www.transfermarkt.com/sebastian-walukiewicz/profil/spieler/345458,sebastian walukiewicz,fc empoli,2024,IT1
+FC Empoli,749,Saba Sazonov,655456,€2.00m,2000000.0,https://www.transfermarkt.com/saba-sazonov/profil/spieler/655456,saba sazonov,fc empoli,2024,IT1
+FC Empoli,749,Gabriele Guarino,745427,€1.50m,1500000.0,https://www.transfermarkt.com/gabriele-guarino/profil/spieler/745427,gabriele guarino,fc empoli,2024,IT1
+FC Empoli,749,Lorenzo Tosto,942814,€1.20m,1200000.0,https://www.transfermarkt.com/lorenzo-tosto/profil/spieler/942814,lorenzo tosto,fc empoli,2024,IT1
+FC Empoli,749,Darius Fălcușan,937042,€300k,300000.0,https://www.transfermarkt.com/darius-falcusan/profil/spieler/937042,darius falcusan,fc empoli,2024,IT1
+FC Empoli,749,Jeremy Moray,1230795,€75k,75000.0,https://www.transfermarkt.com/jeremy-moray/profil/spieler/1230795,jeremy moray,fc empoli,2024,IT1
+FC Empoli,749,Dawid Bembnista,1182168,-,,https://www.transfermarkt.com/dawid-bembnista/profil/spieler/1182168,dawid bembnista,fc empoli,2024,IT1
+FC Empoli,749,Liberato Cacace,469211,€3.00m,3000000.0,https://www.transfermarkt.com/liberato-cacace/profil/spieler/469211,liberato cacace,fc empoli,2024,IT1
+FC Empoli,749,Giuseppe Pezzella,336960,€2.50m,2500000.0,https://www.transfermarkt.com/giuseppe-pezzella/profil/spieler/336960,giuseppe pezzella,fc empoli,2024,IT1
+FC Empoli,749,Junior Sambia,335147,€1.00m,1000000.0,https://www.transfermarkt.com/junior-sambia/profil/spieler/335147,junior sambia,fc empoli,2024,IT1
+FC Empoli,749,Tyronne Ebuehi,309944,€1.00m,1000000.0,https://www.transfermarkt.com/tyronne-ebuehi/profil/spieler/309944,tyronne ebuehi,fc empoli,2024,IT1
+FC Empoli,749,Mattia De Sciglio,88682,€800k,800000.0,https://www.transfermarkt.com/mattia-de-sciglio/profil/spieler/88682,mattia de sciglio,fc empoli,2024,IT1
+FC Empoli,749,Petar Stojanović,183841,€750k,750000.0,https://www.transfermarkt.com/petar-stojanovic/profil/spieler/183841,petar stojanovic,fc empoli,2024,IT1
+FC Empoli,749,Francesco Donati,525660,€400k,400000.0,https://www.transfermarkt.com/francesco-donati/profil/spieler/525660,francesco donati,fc empoli,2024,IT1
+FC Empoli,749,Alberto Grassi,197473,€1.80m,1800000.0,https://www.transfermarkt.com/alberto-grassi/profil/spieler/197473,alberto grassi,fc empoli,2024,IT1
+FC Empoli,749,Alessio Baralla,1310486,-,,https://www.transfermarkt.com/alessio-baralla/profil/spieler/1310486,alessio baralla,fc empoli,2024,IT1
+FC Empoli,749,Jacopo Fazzini,691482,€10.00m,10000000.0,https://www.transfermarkt.com/jacopo-fazzini/profil/spieler/691482,jacopo fazzini,fc empoli,2024,IT1
+FC Empoli,749,Youssef Maleh,324377,€3.20m,3200000.0,https://www.transfermarkt.com/youssef-maleh/profil/spieler/324377,youssef maleh,fc empoli,2024,IT1
+FC Empoli,749,Liam Henderson,193867,€2.00m,2000000.0,https://www.transfermarkt.com/liam-henderson/profil/spieler/193867,liam henderson,fc empoli,2024,IT1
+FC Empoli,749,Szymon Żurkowski,387234,€1.80m,1800000.0,https://www.transfermarkt.com/szymon-zurkowski/profil/spieler/387234,szymon zurkowski,fc empoli,2024,IT1
+FC Empoli,749,Jacopo Bacci,960941,€800k,800000.0,https://www.transfermarkt.com/jacopo-bacci/profil/spieler/960941,jacopo bacci,fc empoli,2024,IT1
+FC Empoli,749,Luca Belardinelli,467994,€700k,700000.0,https://www.transfermarkt.com/luca-belardinelli/profil/spieler/467994,luca belardinelli,fc empoli,2024,IT1
+FC Empoli,749,Nicolas Haas,192638,€700k,700000.0,https://www.transfermarkt.com/nicolas-haas/profil/spieler/192638,nicolas haas,fc empoli,2024,IT1
+FC Empoli,749,Vincenzo Di Leva,1086916,€50k,50000.0,https://www.transfermarkt.com/vincenzo-di-leva/profil/spieler/1086916,vincenzo di leva,fc empoli,2024,IT1
+FC Empoli,749,Emmanuel Gyasi,241076,€1.40m,1400000.0,https://www.transfermarkt.com/emmanuel-gyasi/profil/spieler/241076,emmanuel gyasi,fc empoli,2024,IT1
+FC Empoli,749,Noah El Biache,893198,€200k,200000.0,https://www.transfermarkt.com/noah-el-biache/profil/spieler/893198,noah el biache,fc empoli,2024,IT1
+FC Empoli,749,Tino Anjorin,433181,€6.00m,6000000.0,https://www.transfermarkt.com/tino-anjorin/profil/spieler/433181,tino anjorin,fc empoli,2024,IT1
+FC Empoli,749,Viktor Kovalenko,203842,€1.00m,1000000.0,https://www.transfermarkt.com/viktor-kovalenko/profil/spieler/203842,viktor kovalenko,fc empoli,2024,IT1
+FC Empoli,749,Andrea Sodero,814453,€300k,300000.0,https://www.transfermarkt.com/andrea-sodero/profil/spieler/814453,andrea sodero,fc empoli,2024,IT1
+FC Empoli,749,Ank Bølling Asmussen,1051741,-,,https://www.transfermarkt.com/ank-bolling-asmussen/profil/spieler/1051741,ank bølling asmussen,fc empoli,2024,IT1
+FC Empoli,749,Emmanuel Ekong,603891,€550k,550000.0,https://www.transfermarkt.com/emmanuel-ekong/profil/spieler/603891,emmanuel ekong,fc empoli,2024,IT1
+FC Empoli,749,Ola Solbakken,431811,€2.30m,2300000.0,https://www.transfermarkt.com/ola-solbakken/profil/spieler/431811,ola solbakken,fc empoli,2024,IT1
+FC Empoli,749,Sebastiano Esposito,538918,€8.50m,8500000.0,https://www.transfermarkt.com/sebastiano-esposito/profil/spieler/538918,sebastiano esposito,fc empoli,2024,IT1
+FC Empoli,749,Lorenzo Colombo,487843,€5.00m,5000000.0,https://www.transfermarkt.com/lorenzo-colombo/profil/spieler/487843,lorenzo colombo,fc empoli,2024,IT1
+FC Empoli,749,Christian Kouamé,337725,€4.00m,4000000.0,https://www.transfermarkt.com/christian-kouame/profil/spieler/337725,christian kouame,fc empoli,2024,IT1
+FC Empoli,749,Pietro Pellegri,364133,€2.00m,2000000.0,https://www.transfermarkt.com/pietro-pellegri/profil/spieler/364133,pietro pellegri,fc empoli,2024,IT1
+FC Empoli,749,Stiven Shpendi,931567,€1.50m,1500000.0,https://www.transfermarkt.com/stiven-shpendi/profil/spieler/931567,stiven shpendi,fc empoli,2024,IT1
+FC Empoli,749,Thomas Campaniello,1058369,€1.00m,1000000.0,https://www.transfermarkt.com/thomas-campaniello/profil/spieler/1058369,thomas campaniello,fc empoli,2024,IT1
+FC Empoli,749,Ismaël Konaté,936745,€1.00m,1000000.0,https://www.transfermarkt.com/ismael-konate/profil/spieler/936745,ismael konate,fc empoli,2024,IT1
+FC Empoli,749,Brayan,1223983,€350k,350000.0,https://www.transfermarkt.com/brayan/profil/spieler/1223983,brayan,fc empoli,2024,IT1
+FC Empoli,749,Francesco Caputo,84765,-,,https://www.transfermarkt.com/francesco-caputo/profil/spieler/84765,francesco caputo,fc empoli,2024,IT1
+FC Empoli,749,Bogdan Popov,1198243,-,,https://www.transfermarkt.com/bogdan-popov/profil/spieler/1198243,bogdan popov,fc empoli,2024,IT1
+AC Monza,2919,Stefano Turati,543666,€6.50m,6500000.0,https://www.transfermarkt.com/stefano-turati/profil/spieler/543666,stefano turati,ac monza,2024,IT1
+AC Monza,2919,Semuel Pizzignacco,537171,€800k,800000.0,https://www.transfermarkt.com/semuel-pizzignacco/profil/spieler/537171,semuel pizzignacco,ac monza,2024,IT1
+AC Monza,2919,Alessandro Sorrentino,542588,€500k,500000.0,https://www.transfermarkt.com/alessandro-sorrentino/profil/spieler/542588,alessandro sorrentino,ac monza,2024,IT1
+AC Monza,2919,Andrea Mazza,815567,€75k,75000.0,https://www.transfermarkt.com/andrea-mazza/profil/spieler/815567,andrea mazza,ac monza,2024,IT1
+AC Monza,2919,Davide Bifulco,1049864,€50k,50000.0,https://www.transfermarkt.com/davide-bifulco/profil/spieler/1049864,davide bifulco,ac monza,2024,IT1
+AC Monza,2919,Andrea Vailati,1063226,-,,https://www.transfermarkt.com/andrea-vailati/profil/spieler/1063226,andrea vailati,ac monza,2024,IT1
+AC Monza,2919,Tomás Palacios,993645,€4.00m,4000000.0,https://www.transfermarkt.com/tomas-palacios/profil/spieler/993645,tomas palacios,ac monza,2024,IT1
+AC Monza,2919,Pablo Marí,210178,€3.50m,3500000.0,https://www.transfermarkt.com/pablo-mari/profil/spieler/210178,pablo mari,ac monza,2024,IT1
+AC Monza,2919,Andrea Carboni,481834,€2.80m,2800000.0,https://www.transfermarkt.com/andrea-carboni/profil/spieler/481834,andrea carboni,ac monza,2024,IT1
+AC Monza,2919,Stefan Leković,797572,€1.70m,1700000.0,https://www.transfermarkt.com/stefan-lekovic/profil/spieler/797572,stefan lekovic,ac monza,2024,IT1
+AC Monza,2919,Armando Izzo,32113,€1.50m,1500000.0,https://www.transfermarkt.com/armando-izzo/profil/spieler/32113,armando izzo,ac monza,2024,IT1
+AC Monza,2919,Luca Caldirola,88680,€700k,700000.0,https://www.transfermarkt.com/luca-caldirola/profil/spieler/88680,luca caldirola,ac monza,2024,IT1
+AC Monza,2919,Danilo D'Ambrosio,55769,€700k,700000.0,https://www.transfermarkt.com/danilo-dambrosio/profil/spieler/55769,danilo d'ambrosio,ac monza,2024,IT1
+AC Monza,2919,Arvid Brorsson,381706,€600k,600000.0,https://www.transfermarkt.com/arvid-brorsson/profil/spieler/381706,arvid brorsson,ac monza,2024,IT1
+AC Monza,2919,Davide Bettella,357995,€300k,300000.0,https://www.transfermarkt.com/davide-bettella/profil/spieler/357995,davide bettella,ac monza,2024,IT1
+AC Monza,2919,Nicolò Postiglione,901027,€100k,100000.0,https://www.transfermarkt.com/nicolo-postiglione/profil/spieler/901027,nicolo postiglione,ac monza,2024,IT1
+AC Monza,2919,Georgios Kyriakopoulos,311178,€2.50m,2500000.0,https://www.transfermarkt.com/georgios-kyriakopoulos/profil/spieler/311178,georgios kyriakopoulos,ac monza,2024,IT1
+AC Monza,2919,Samuele Birindelli,461019,€2.80m,2800000.0,https://www.transfermarkt.com/samuele-birindelli/profil/spieler/461019,samuele birindelli,ac monza,2024,IT1
+AC Monza,2919,Pedro Pereira,314965,€1.50m,1500000.0,https://www.transfermarkt.com/pedro-pereira/profil/spieler/314965,pedro pereira,ac monza,2024,IT1
+AC Monza,2919,Leonardo Colombo,891869,€250k,250000.0,https://www.transfermarkt.com/leonardo-colombo/profil/spieler/891869,leonardo colombo,ac monza,2024,IT1
+AC Monza,2919,Warren Bondo,659516,€10.00m,10000000.0,https://www.transfermarkt.com/warren-bondo/profil/spieler/659516,warren bondo,ac monza,2024,IT1
+AC Monza,2919,Kacper Urbanski,699442,€6.00m,6000000.0,https://www.transfermarkt.com/kacper-urbanski/profil/spieler/699442,kacper urbanski,ac monza,2024,IT1
+AC Monza,2919,Matteo Pessina,332179,€6.00m,6000000.0,https://www.transfermarkt.com/matteo-pessina/profil/spieler/332179,matteo pessina,ac monza,2024,IT1
+AC Monza,2919,Alessandro Bianco,602124,€5.00m,5000000.0,https://www.transfermarkt.com/alessandro-bianco/profil/spieler/602124,alessandro bianco,ac monza,2024,IT1
+AC Monza,2919,Kevin Zeroli,883349,€4.00m,4000000.0,https://www.transfermarkt.com/kevin-zeroli/profil/spieler/883349,kevin zeroli,ac monza,2024,IT1
+AC Monza,2919,Gaetano Castrovilli,303116,€1.50m,1500000.0,https://www.transfermarkt.com/gaetano-castrovilli/profil/spieler/303116,gaetano castrovilli,ac monza,2024,IT1
+AC Monza,2919,Roberto Gagliardini,197471,€1.40m,1400000.0,https://www.transfermarkt.com/roberto-gagliardini/profil/spieler/197471,roberto gagliardini,ac monza,2024,IT1
+AC Monza,2919,Stefano Sensi,216179,€1.00m,1000000.0,https://www.transfermarkt.com/stefano-sensi/profil/spieler/216179,stefano sensi,ac monza,2024,IT1
+AC Monza,2919,Mattia Valoti,167741,€900k,900000.0,https://www.transfermarkt.com/mattia-valoti/profil/spieler/167741,mattia valoti,ac monza,2024,IT1
+AC Monza,2919,Pepín Machín,355104,€500k,500000.0,https://www.transfermarkt.com/pepin-machin/profil/spieler/355104,pepin machin,ac monza,2024,IT1
+AC Monza,2919,Jean-Daniel Akpa Akpro,170481,€500k,500000.0,https://www.transfermarkt.com/jean-daniel-akpa-akpro/profil/spieler/170481,jean-daniel akpa akpro,ac monza,2024,IT1
+AC Monza,2919,Alessandro Berretta,898356,€325k,325000.0,https://www.transfermarkt.com/alessandro-berretta/profil/spieler/898356,alessandro berretta,ac monza,2024,IT1
+AC Monza,2919,Patrick Ciurria,255838,€1.50m,1500000.0,https://www.transfermarkt.com/patrick-ciurria/profil/spieler/255838,patrick ciurria,ac monza,2024,IT1
+AC Monza,2919,Endris Scaramelli,964239,€25k,25000.0,https://www.transfermarkt.com/endris-scaramelli/profil/spieler/964239,endris scaramelli,ac monza,2024,IT1
+AC Monza,2919,Daniel Maldini,539134,€10.00m,10000000.0,https://www.transfermarkt.com/daniel-maldini/profil/spieler/539134,daniel maldini,ac monza,2024,IT1
+AC Monza,2919,Samuele Vignato,650966,€2.20m,2200000.0,https://www.transfermarkt.com/samuele-vignato/profil/spieler/650966,samuele vignato,ac monza,2024,IT1
+AC Monza,2919,Keita Baldé,238752,€900k,900000.0,https://www.transfermarkt.com/keita-balde/profil/spieler/238752,keita balde,ac monza,2024,IT1
+AC Monza,2919,Omari Forson,670845,€2.00m,2000000.0,https://www.transfermarkt.com/omari-forson/profil/spieler/670845,omari forson,ac monza,2024,IT1
+AC Monza,2919,Kevin Martins,724069,€1.40m,1400000.0,https://www.transfermarkt.com/kevin-martins/profil/spieler/724069,kevin martins,ac monza,2024,IT1
+AC Monza,2919,Marco D'Alessandro,99232,€200k,200000.0,https://www.transfermarkt.com/marco-dalessandro/profil/spieler/99232,marco d'alessandro,ac monza,2024,IT1
+AC Monza,2919,Gianluca Caprari,146752,€1.00m,1000000.0,https://www.transfermarkt.com/gianluca-caprari/profil/spieler/146752,gianluca caprari,ac monza,2024,IT1
+AC Monza,2919,Dany Mota,347253,€4.00m,4000000.0,https://www.transfermarkt.com/dany-mota/profil/spieler/347253,dany mota,ac monza,2024,IT1
+AC Monza,2919,Milan Djuric,67556,€1.50m,1500000.0,https://www.transfermarkt.com/milan-djuric/profil/spieler/67556,milan djuric,ac monza,2024,IT1
+AC Monza,2919,Silvere Ganvoula,312819,€1.40m,1400000.0,https://www.transfermarkt.com/silvere-ganvoula/profil/spieler/312819,silvere ganvoula,ac monza,2024,IT1
+AC Monza,2919,Andrea Petagna,199258,€1.00m,1000000.0,https://www.transfermarkt.com/andrea-petagna/profil/spieler/199258,andrea petagna,ac monza,2024,IT1
+AC Monza,2919,Mirko Marić,215649,€700k,700000.0,https://www.transfermarkt.com/mirko-maric/profil/spieler/215649,mirko maric,ac monza,2024,IT1
+Venezia FC,607,Filip Stanković,552223,€6.00m,6000000.0,https://www.transfermarkt.com/filip-stankovic/profil/spieler/552223,filip stankovic,venezia fc,2024,IT1
+Venezia FC,607,Ionuț Radu,303657,€2.50m,2500000.0,https://www.transfermarkt.com/ionut-radu/profil/spieler/303657,ionut radu,venezia fc,2024,IT1
+Venezia FC,607,Jesse Joronen,131758,€500k,500000.0,https://www.transfermarkt.com/jesse-joronen/profil/spieler/131758,jesse joronen,venezia fc,2024,IT1
+Venezia FC,607,Matteo Grandi,155038,€100k,100000.0,https://www.transfermarkt.com/matteo-grandi/profil/spieler/155038,matteo grandi,venezia fc,2024,IT1
+Venezia FC,607,Bruno Bertinato,323929,-,,https://www.transfermarkt.com/bruno-bertinato/profil/spieler/323929,bruno bertinato,venezia fc,2024,IT1
+Venezia FC,607,Jay Idzes,546926,€7.50m,7500000.0,https://www.transfermarkt.com/jay-idzes/profil/spieler/546926,jay idzes,venezia fc,2024,IT1
+Venezia FC,607,Joël Schingtienne,707809,€3.50m,3500000.0,https://www.transfermarkt.com/joel-schingtienne/profil/spieler/707809,joel schingtienne,venezia fc,2024,IT1
+Venezia FC,607,Fali Candé,520530,€2.50m,2500000.0,https://www.transfermarkt.com/fali-cande/profil/spieler/520530,fali cande,venezia fc,2024,IT1
+Venezia FC,607,Michael Svoboda,438961,€2.50m,2500000.0,https://www.transfermarkt.com/michael-svoboda/profil/spieler/438961,michael svoboda,venezia fc,2024,IT1
+Venezia FC,607,Alessandro Marcandalli,818448,€2.00m,2000000.0,https://www.transfermarkt.com/alessandro-marcandalli/profil/spieler/818448,alessandro marcandalli,venezia fc,2024,IT1
+Venezia FC,607,Lorenzo Lucchesi,567454,€1.40m,1400000.0,https://www.transfermarkt.com/lorenzo-lucchesi/profil/spieler/567454,lorenzo lucchesi,venezia fc,2024,IT1
+Venezia FC,607,Giorgio Altare,354909,€1.00m,1000000.0,https://www.transfermarkt.com/giorgio-altare/profil/spieler/354909,giorgio altare,venezia fc,2024,IT1
+Venezia FC,607,Marin Šverko,282169,€1.00m,1000000.0,https://www.transfermarkt.com/marin-sverko/profil/spieler/282169,marin sverko,venezia fc,2024,IT1
+Venezia FC,607,Franco Carboni,731491,€1.00m,1000000.0,https://www.transfermarkt.com/franco-carboni/profil/spieler/731491,franco carboni,venezia fc,2024,IT1
+Venezia FC,607,Ridgeciano Haps,228444,€900k,900000.0,https://www.transfermarkt.com/ridgeciano-haps/profil/spieler/228444,ridgeciano haps,venezia fc,2024,IT1
+Venezia FC,607,Richie Sagrado,655009,€2.00m,2000000.0,https://www.transfermarkt.com/richie-sagrado/profil/spieler/655009,richie sagrado,venezia fc,2024,IT1
+Venezia FC,607,Antonio Candela,392881,€1.80m,1800000.0,https://www.transfermarkt.com/antonio-candela/profil/spieler/392881,antonio candela,venezia fc,2024,IT1
+Venezia FC,607,Cheick Condé,698560,€1.80m,1800000.0,https://www.transfermarkt.com/cheick-conde/profil/spieler/698560,cheick conde,venezia fc,2024,IT1
+Venezia FC,607,Hans Nicolussi Caviglia,430280,€8.50m,8500000.0,https://www.transfermarkt.com/hans-nicolussi-caviglia/profil/spieler/430280,hans nicolussi caviglia,venezia fc,2024,IT1
+Venezia FC,607,Gianluca Busio,504209,€6.00m,6000000.0,https://www.transfermarkt.com/gianluca-busio/profil/spieler/504209,gianluca busio,venezia fc,2024,IT1
+Venezia FC,607,Mikael Egill Ellertsson,566615,€3.40m,3400000.0,https://www.transfermarkt.com/mikael-egill-ellertsson/profil/spieler/566615,mikael egill ellertsson,venezia fc,2024,IT1
+Venezia FC,607,Kike Pérez,527698,€2.80m,2800000.0,https://www.transfermarkt.com/kike-perez/profil/spieler/527698,kike perez,venezia fc,2024,IT1
+Venezia FC,607,Issa Doumbia,924349,€2.40m,2400000.0,https://www.transfermarkt.com/issa-doumbia/profil/spieler/924349,issa doumbia,venezia fc,2024,IT1
+Venezia FC,607,Alfred Duncan,184894,€1.40m,1400000.0,https://www.transfermarkt.com/alfred-duncan/profil/spieler/184894,alfred duncan,venezia fc,2024,IT1
+Venezia FC,607,Magnus Kofod Andersen,488784,€1.00m,1000000.0,https://www.transfermarkt.com/magnus-kofod-andersen/profil/spieler/488784,magnus kofod andersen,venezia fc,2024,IT1
+Venezia FC,607,Nunzio Lella,459945,€700k,700000.0,https://www.transfermarkt.com/nunzio-lella/profil/spieler/459945,nunzio lella,venezia fc,2024,IT1
+Venezia FC,607,Domen Crnigoj,216599,€500k,500000.0,https://www.transfermarkt.com/domen-crnigoj/profil/spieler/216599,domen crnigoj,venezia fc,2024,IT1
+Venezia FC,607,Alessio Zerbin,433584,€4.00m,4000000.0,https://www.transfermarkt.com/alessio-zerbin/profil/spieler/433584,alessio zerbin,venezia fc,2024,IT1
+Venezia FC,607,Francesco Zampano,216872,€1.00m,1000000.0,https://www.transfermarkt.com/francesco-zampano/profil/spieler/216872,francesco zampano,venezia fc,2024,IT1
+Venezia FC,607,Alberto Chiesurin,916451,€25k,25000.0,https://www.transfermarkt.com/alberto-chiesurin/profil/spieler/916451,alberto chiesurin,venezia fc,2024,IT1
+Venezia FC,607,Bjarki Bjarkason,566613,€800k,800000.0,https://www.transfermarkt.com/bjarki-bjarkason/profil/spieler/566613,bjarki bjarkason,venezia fc,2024,IT1
+Venezia FC,607,Gaetano Oristanio,613393,€6.00m,6000000.0,https://www.transfermarkt.com/gaetano-oristanio/profil/spieler/613393,gaetano oristanio,venezia fc,2024,IT1
+Venezia FC,607,John Yeboah,439914,€2.80m,2800000.0,https://www.transfermarkt.com/john-yeboah/profil/spieler/439914,john yeboah,venezia fc,2024,IT1
+Venezia FC,607,Saad El Haddad,936684,€400k,400000.0,https://www.transfermarkt.com/saad-el-haddad/profil/spieler/936684,saad el haddad,venezia fc,2024,IT1
+Venezia FC,607,Marco Ladisa,966905,€175k,175000.0,https://www.transfermarkt.com/marco-ladisa/profil/spieler/966905,marco ladisa,venezia fc,2024,IT1
+Venezia FC,607,Nicholas Pierini,372720,€3.00m,3000000.0,https://www.transfermarkt.com/nicholas-pierini/profil/spieler/372720,nicholas pierini,venezia fc,2024,IT1
+Venezia FC,607,Joel Pohjanpalo,173491,€4.50m,4500000.0,https://www.transfermarkt.com/joel-pohjanpalo/profil/spieler/173491,joel pohjanpalo,venezia fc,2024,IT1
+Venezia FC,607,Antonio Raimondo,818888,€3.80m,3800000.0,https://www.transfermarkt.com/antonio-raimondo/profil/spieler/818888,antonio raimondo,venezia fc,2024,IT1
+Venezia FC,607,Daniel Fila,666268,€3.00m,3000000.0,https://www.transfermarkt.com/daniel-fila/profil/spieler/666268,daniel fila,venezia fc,2024,IT1
+Venezia FC,607,Christian Gytkjaer,76274,€700k,700000.0,https://www.transfermarkt.com/christian-gytkjaer/profil/spieler/76274,christian gytkjaer,venezia fc,2024,IT1
+Venezia FC,607,Mirko Marić,215649,€700k,700000.0,https://www.transfermarkt.com/mirko-maric/profil/spieler/215649,mirko maric,venezia fc,2024,IT1
+Cagliari Calcio,1390,Elia Caprile,421873,€9.00m,9000000.0,https://www.transfermarkt.com/elia-caprile/profil/spieler/421873,elia caprile,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Simone Scuffet,238993,€2.00m,2000000.0,https://www.transfermarkt.com/simone-scuffet/profil/spieler/238993,simone scuffet,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Alen Sherri,304144,€1.00m,1000000.0,https://www.transfermarkt.com/alen-sherri/profil/spieler/304144,alen sherri,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Velizar-Iliya Iliev,927933,€200k,200000.0,https://www.transfermarkt.com/velizar-iliya-iliev/profil/spieler/927933,velizar-iliya iliev,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Giuseppe Ciocci,535740,€100k,100000.0,https://www.transfermarkt.com/giuseppe-ciocci/profil/spieler/535740,giuseppe ciocci,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Henrijs Auseklis,1003925,€75k,75000.0,https://www.transfermarkt.com/henrijs-auseklis/profil/spieler/1003925,henrijs auseklis,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Sebastiano Luperto,278531,€4.00m,4000000.0,https://www.transfermarkt.com/sebastiano-luperto/profil/spieler/278531,sebastiano luperto,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Pantelis Hatzidiakos,144244,€3.20m,3200000.0,https://www.transfermarkt.com/pantelis-hatzidiakos/profil/spieler/144244,pantelis hatzidiakos,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Yerry Mina,289446,€3.00m,3000000.0,https://www.transfermarkt.com/yerry-mina/profil/spieler/289446,yerry mina,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Adam Obert,568333,€3.00m,3000000.0,https://www.transfermarkt.com/adam-obert/profil/spieler/568333,adam obert,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Mateusz Wieteska,208172,€2.00m,2000000.0,https://www.transfermarkt.com/mateusz-wieteska/profil/spieler/208172,mateusz wieteska,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,José Luis Palomino,125020,€700k,700000.0,https://www.transfermarkt.com/jose-luis-palomino/profil/spieler/125020,jose luis palomino,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Nicola Pintus,885230,€400k,400000.0,https://www.transfermarkt.com/nicola-pintus/profil/spieler/885230,nicola pintus,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Andrea Cogoni,979850,€400k,400000.0,https://www.transfermarkt.com/andrea-cogoni/profil/spieler/979850,andrea cogoni,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Tommaso Augello,284595,€1.80m,1800000.0,https://www.transfermarkt.com/tommaso-augello/profil/spieler/284595,tommaso augello,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Nadir Zortea,392966,€5.00m,5000000.0,https://www.transfermarkt.com/nadir-zortea/profil/spieler/392966,nadir zortea,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Gabriele Zappa,392569,€4.00m,4000000.0,https://www.transfermarkt.com/gabriele-zappa/profil/spieler/392569,gabriele zappa,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Alessandro Di Pardo,457674,€800k,800000.0,https://www.transfermarkt.com/alessandro-di-pardo/profil/spieler/457674,alessandro di pardo,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Matteo Prati,876298,€6.00m,6000000.0,https://www.transfermarkt.com/matteo-prati/profil/spieler/876298,matteo prati,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Antoine Makoumbou,460651,€3.50m,3500000.0,https://www.transfermarkt.com/antoine-makoumbou/profil/spieler/460651,antoine makoumbou,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Michel Adopo,564305,€4.00m,4000000.0,https://www.transfermarkt.com/michel-adopo/profil/spieler/564305,michel adopo,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Răzvan Marin,295183,€3.50m,3500000.0,https://www.transfermarkt.com/razvan-marin/profil/spieler/295183,razvan marin,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Alessandro Deiola,235931,€1.60m,1600000.0,https://www.transfermarkt.com/alessandro-deiola/profil/spieler/235931,alessandro deiola,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Paulo Azzi,310527,€800k,800000.0,https://www.transfermarkt.com/paulo-azzi/profil/spieler/310527,paulo azzi,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Jakub Jankto,319160,€800k,800000.0,https://www.transfermarkt.com/jakub-jankto/profil/spieler/319160,jakub jankto,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Gianluca Gaetano,358008,€4.00m,4000000.0,https://www.transfermarkt.com/gianluca-gaetano/profil/spieler/358008,gianluca gaetano,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Nicolas Viola,85393,€1.00m,1000000.0,https://www.transfermarkt.com/nicolas-viola/profil/spieler/85393,nicolas viola,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Gastón Pereiro,264116,€500k,500000.0,https://www.transfermarkt.com/gaston-pereiro/profil/spieler/264116,gaston pereiro,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Florinel Coman,340982,€5.00m,5000000.0,https://www.transfermarkt.com/florinel-coman/profil/spieler/340982,florinel coman,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Mattia Felici,600041,€2.80m,2800000.0,https://www.transfermarkt.com/mattia-felici/profil/spieler/600041,mattia felici,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Alessandro Vinciguerra,885228,€400k,400000.0,https://www.transfermarkt.com/alessandro-vinciguerra/profil/spieler/885228,alessandro vinciguerra,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Roberto Piccoli,432092,€12.00m,12000000.0,https://www.transfermarkt.com/roberto-piccoli/profil/spieler/432092,roberto piccoli,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Zito Luvumbo,666547,€5.00m,5000000.0,https://www.transfermarkt.com/zito-luvumbo/profil/spieler/666547,zito luvumbo,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Gianluca Lapadula,130394,€750k,750000.0,https://www.transfermarkt.com/gianluca-lapadula/profil/spieler/130394,gianluca lapadula,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Leonardo Pavoletti,64793,€700k,700000.0,https://www.transfermarkt.com/leonardo-pavoletti/profil/spieler/64793,leonardo pavoletti,cagliari calcio,2024,IT1
+Cagliari Calcio,1390,Kingstone Mutandwa,1111663,€600k,600000.0,https://www.transfermarkt.com/kingstone-mutandwa/profil/spieler/1111663,kingstone mutandwa,cagliari calcio,2024,IT1

@@ -1,0 +1,2374 @@
+﻿player_name,player_id,team_name,position,other_positions,date_of_birth,age,height_m,nationality,market_value,joined,contract_expires,Value last updated,Citizenship,Last club,Since,Market value history,Transfer history,Player URL,height_cm
+Josep Martínez,388516,Inter,Goalkeeper,,27/05/1998 (27),27,1.91,Spain,€12.00m,09/07/2024,30/06/2029,17/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/josep-martinez/profil/spieler/388516,191.0
+Yann Sommer,42205,Inter,Goalkeeper,,17/12/1988 (36),36,1.83,Switzerland,€4.00m,07/08/2023,30/06/2026,17/06/2025,['Switzerland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yann-sommer/profil/spieler/42205,183.0
+Raffaele Di Gennaro,70580,Inter,Goalkeeper,,03/10/1993 (32),32,1.88,Italy,€300k,13/07/2023,30/06/2026,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/raffaele-di-gennaro/profil/spieler/70580,188.0
+Alessandro Bastoni,315853,Inter,Centre-Back,,13/04/1999 (26),26,1.9,Italy,€80.00m,31/08/2017,30/06/2028,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alessandro-bastoni/profil/spieler/315853,190.0
+Yann Bisseck,441986,Inter,Centre-Back,,29/11/2000 (24),24,1.96,Germany,€35.00m,12/07/2023,30/06/2029,17/06/2025,"['Cameroon', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yann-bisseck/profil/spieler/441986,196.0
+Manuel Akanji,284730,Inter,Centre-Back,"            0
+0  Right-Back
+1   Left-Back",19/07/1995 (30),30,1.88,Switzerland,€22.00m,01/09/2025,30/06/2026,07/10/2025,"['Switzerland', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/manuel-akanji/profil/spieler/284730,188.0
+Stefan de Vrij,111196,Inter,Centre-Back,,05/02/1992 (33),33,1.89,Netherlands,€5.00m,01/07/2018,30/06/2026,17/06/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/stefan-de-vrij/profil/spieler/111196,189.0
+Tomás Palacios,993645,Inter,Centre-Back,,28/04/2003 (22),22,1.96,Argentina,€4.00m,30/08/2024,30/06/2029,17/06/2025,['Argentina'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tomas-palacios/profil/spieler/993645,196.0
+Francesco Acerbi,131075,Inter,Centre-Back,,10/02/1988 (37),37,1.92,Italy,€3.00m,01/07/2023,30/06/2026,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/francesco-acerbi/profil/spieler/131075,192.0
+Federico Dimarco,198116,Inter,Left-Back,"               0
+0  Left Midfield
+1    Centre-Back",10/11/1997 (28),28,1.75,Italy,€50.00m,05/07/2018,30/06/2027,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/federico-dimarco/profil/spieler/198116,175.0
+Carlos Augusto,585982,Inter,Left-Back,"               0
+0  Left Midfield
+1    Centre-Back",07/01/1999 (26),26,1.84,Brazil,€26.00m,01/07/2024,30/06/2028,17/06/2025,"['Italy', 'Brazil']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/carlos-augusto/profil/spieler/585982,184.0
+Denzel Dumfries,321528,Inter,Right-Back,"                0
+0  Right Midfield",18/04/1996 (29),29,1.88,Netherlands,€35.00m,14/08/2021,30/06/2028,17/06/2025,"['Netherlands', 'Aruba']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/denzel-dumfries/profil/spieler/321528,188.0
+Matteo Darmian,54906,Inter,Right-Back,"             0
+0    Left-Back
+1  Centre-Back",02/12/1989 (35),35,1.83,Italy,€2.50m,01/07/2021,30/06/2026,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/matteo-darmian/profil/spieler/54906,183.0
+Hakan Çalhanoğlu,126414,Inter,Defensive Midfield,"                    0
+0    Central Midfield
+1  Attacking Midfield",08/02/1994 (31),31,1.78,Türkiye,€25.00m,01/07/2021,30/06/2027,07/10/2025,"['Türkiye', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/hakan-calhanoglu/profil/spieler/126414,178.0
+Nicolò Barella,255942,Inter,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",07/02/1997 (28),28,1.75,Italy,€65.00m,01/09/2020,30/06/2029,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nicolo-barella/profil/spieler/255942,175.0
+Davide Frattesi,394300,Inter,Central Midfield,"                    0
+0  Attacking Midfield",22/09/1999 (26),26,1.78,Italy,€35.00m,01/07/2024,30/06/2028,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/davide-frattesi/profil/spieler/394300,178.0
+Petar Sučić,668207,Inter,Central Midfield,"                    0
+0  Defensive Midfield",25/10/2003 (22),22,1.83,Croatia,€20.00m,01/06/2025,30/06/2030,07/10/2025,"['Bosnia-Herzegovina', 'Croatia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/petar-sucic/profil/spieler/668207,183.0
+Andy Diouf,711976,Inter,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",17/05/2003 (22),22,1.87,France,€18.00m,22/08/2025,30/06/2030,07/10/2025,"['France', 'Senegal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/andy-diouf/profil/spieler/711976,187.0
+Piotr Zieliński,181136,Inter,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",20/05/1994 (31),31,1.8,Poland,€10.00m,01/07/2024,30/06/2028,17/06/2025,"['Poland', 'Italy']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/piotr-zielinski/profil/spieler/181136,180.0
+Henrikh Mkhitaryan,55735,Inter,Central Midfield,"                    0
+0  Attacking Midfield
+1      Second Striker",21/01/1989 (36),36,1.77,Armenia,€4.00m,01/07/2022,30/06/2026,17/06/2025,"['Armenia', 'UdSSR']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/henrikh-mkhitaryan/profil/spieler/55735,177.0
+Luis Henrique,691316,Inter,Right Midfield,"               0
+0   Right Winger
+1  Left Midfield",14/12/2001 (23),23,1.81,Brazil,€25.00m,07/06/2025,30/06/2030,03/06/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luis-henrique/profil/spieler/691316,181.0
+Lautaro Martínez,406625,Inter,Centre-Forward,"                0
+0  Second Striker",22/08/1997 (28),28,1.74,Argentina,€85.00m,04/07/2018,30/06/2029,07/10/2025,['Argentina'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lautaro-martinez/profil/spieler/406625,174.0
+Marcus Thuram,318528,Inter,Centre-Forward,"             0
+0  Left Winger",06/08/1997 (28),28,1.92,France,€75.00m,01/07/2023,30/06/2028,17/06/2025,"['France', 'Guadeloupe', 'Italy']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marcus-thuram/profil/spieler/318528,192.0
+Pio Esposito,930781,Inter,Centre-Forward,,28/06/2005 (20),20,1.91,Italy,€30.00m,01/07/2023,30/06/2030,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pio-esposito/profil/spieler/930781,191.0
+Ange-Yoan Bonny,827734,Inter,Centre-Forward,"                0
+0  Second Striker",25/10/2003 (22),22,1.89,France,€23.00m,05/07/2025,30/06/2030,07/10/2025,"['France', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ange-yoan-bonny/profil/spieler/827734,189.0
+Michele Di Gregorio,301238,Juventus,Goalkeeper,,27/07/1997 (28),28,1.87,Italy,€18.00m,01/07/2025,30/06/2029,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/michele-di-gregorio/profil/spieler/301238,187.0
+Mattia Perin,110923,Juventus,Goalkeeper,,10/11/1992 (33),33,1.88,Italy,€2.50m,01/07/2018,30/06/2027,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mattia-perin/profil/spieler/110923,188.0
+Carlo Pinsoglio,75411,Juventus,Goalkeeper,,16/03/1990 (35),35,1.94,Italy,€200k,01/07/2014,30/06/2026,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/carlo-pinsoglio/profil/spieler/75411,194.0
+Bremer,516716,Juventus,Centre-Back,,18/03/1997 (28),28,1.88,Brazil,€50.00m,20/07/2022,30/06/2029,17/06/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/bremer/profil/spieler/516716,188.0
+Pierre Kalulu,585949,Juventus,Centre-Back,"            0
+0  Right-Back",05/06/2000 (25),25,1.82,France,€28.00m,01/07/2025,30/06/2029,17/06/2025,"['France', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pierre-kalulu/profil/spieler/585949,182.0
+Federico Gatti,509022,Juventus,Centre-Back,,24/06/1998 (27),27,1.9,Italy,€24.00m,31/01/2022,30/06/2030,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/federico-gatti/profil/spieler/509022,190.0
+Lloyd Kelly,480116,Juventus,Centre-Back,"           0
+0  Left-Back",06/10/1998 (27),27,1.89,England,€18.00m,01/07/2025,30/06/2029,07/10/2025,"['England', 'Jamaica']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lloyd-kelly/profil/spieler/480116,189.0
+Daniele Rugani,162959,Juventus,Centre-Back,,29/07/1994 (31),31,1.9,Italy,€2.00m,31/07/2013,30/06/2028,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/daniele-rugani/profil/spieler/162959,190.0
+Juan Cabal,686965,Juventus,Left-Back,"             0
+0  Centre-Back",08/01/2001 (24),24,1.86,Colombia,€9.00m,18/07/2024,30/06/2029,17/06/2025,['Colombia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/juan-cabal/profil/spieler/686965,186.0
+Jonas Rouhi,741090,Juventus,Left-Back,"               0
+0  Left Midfield",07/01/2004 (21),21,1.83,Sweden,€2.00m,09/08/2024,30/06/2028,17/06/2025,"['Sweden', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jonas-rouhi/profil/spieler/741090,183.0
+Manuel Locatelli,265088,Juventus,Defensive Midfield,"                  0
+0  Central Midfield",08/01/1998 (27),27,1.85,Italy,€30.00m,01/07/2023,30/06/2028,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/manuel-locatelli/profil/spieler/265088,185.0
+Khéphren Thuram,463618,Juventus,Central Midfield,"                    0
+0  Defensive Midfield",26/03/2001 (24),24,1.92,France,€40.00m,10/07/2024,30/06/2029,17/06/2025,"['France', 'Guadeloupe', 'Italy']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/khephren-thuram/profil/spieler/463618,192.0
+Weston McKennie,332697,Juventus,Central Midfield,"                    0
+0      Right Midfield
+1  Defensive Midfield",28/08/1998 (27),27,1.85,United States,€22.00m,01/07/2021,30/06/2026,17/06/2025,['United States'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/weston-mckennie/profil/spieler/332697,185.0
+Fabio Miretti,571607,Juventus,Central Midfield,"                    0
+0  Attacking Midfield
+1       Left Midfield",03/08/2003 (22),22,1.8,Italy,€14.00m,01/07/2022,30/06/2028,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/fabio-miretti/profil/spieler/571607,180.0
+João Mário,537602,Juventus,Right Midfield,"              0
+0  Right Winger
+1    Right-Back",03/01/2000 (25),25,1.78,Portugal,€10.00m,24/07/2025,30/06/2030,30/05/2025,['Portugal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/joao-mario/profil/spieler/537602,178.0
+Andrea Cambiaso,459658,Juventus,Left Midfield,"            0
+0  Right-Back
+1   Left-Back",20/02/2000 (25),25,1.82,Italy,€35.00m,14/07/2022,30/06/2029,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/andrea-cambiaso/profil/spieler/459658,182.0
+Filip Kostić,161011,Juventus,Left Midfield,"             0
+0    Left-Back
+1  Left Winger",01/11/1992 (33),33,1.84,Serbia,€3.50m,12/08/2022,30/06/2026,07/10/2025,"['Yugoslavia (Republic)', 'Serbia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/filip-kostic/profil/spieler/161011,184.0
+Teun Koopmeiners,360518,Juventus,Attacking Midfield,"                    0
+0  Defensive Midfield
+1         Centre-Back",28/02/1998 (27),27,1.84,Netherlands,€30.00m,28/08/2024,30/06/2029,07/10/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/teun-koopmeiners/profil/spieler/360518,184.0
+Vasilije Adžić,944570,Juventus,Attacking Midfield,"                  0
+0  Central Midfield",12/05/2006 (19),19,1.85,Montenegro,€8.00m,01/07/2024,30/06/2029,07/10/2025,"['Montenegro', 'Serbia and Montenegro']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/vasilije-adzic/profil/spieler/944570,185.0
+Kenan Yıldız,845654,Juventus,Left Winger,"                0
+0  Second Striker
+1    Right Winger",04/05/2005 (20),20,1.87,Türkiye,€75.00m,07/11/2023,30/06/2029,07/10/2025,"['Türkiye', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kenan-yildiz/profil/spieler/845654,187.0
+Francisco Conceição,487474,Juventus,Right Winger,"                0
+0     Left Winger
+1  Second Striker",14/12/2002 (22),22,1.7,Portugal,€30.00m,22/07/2025,30/06/2030,07/10/2025,['Portugal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/francisco-conceicao/profil/spieler/487474,170.0
+Edon Zhegrova,496857,Juventus,Right Winger,"                0
+0     Left Winger
+1  Right Midfield",31/03/1999 (26),26,1.8,Kosovo,€25.00m,01/09/2025,30/06/2030,03/06/2025,"['Albania', 'Germany', 'Kosovo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/edon-zhegrova/profil/spieler/496857,180.0
+Loïs Openda,368887,Juventus,Centre-Forward,"             0
+0  Left Winger",16/02/2000 (25),25,1.77,Belgium,€45.00m,01/09/2025,30/06/2026,07/10/2025,"['Morocco', 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lois-openda/profil/spieler/368887,177.0
+Jonathan David,533738,Juventus,Centre-Forward,"                0
+0  Second Striker",14/01/2000 (25),25,1.78,Canada,€45.00m,04/07/2025,30/06/2030,03/06/2025,"['Canada', 'United States']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jonathan-david/profil/spieler/533738,178.0
+Dušan Vlahović,357498,Juventus,Centre-Forward,,28/01/2000 (25),25,1.9,Serbia,€35.00m,28/01/2022,30/06/2026,17/06/2025,"['Yugoslavia (Republic)', 'Serbia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dusan-vlahovic/profil/spieler/357498,190.0
+Arkadiusz Milik,191891,Juventus,Centre-Forward,,28/02/1994 (31),31,1.86,Poland,€1.50m,01/07/2023,30/06/2027,07/10/2025,['Poland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/arkadiusz-milik/profil/spieler/191891,186.0
+Alex Meret,240414,Napoli,Goalkeeper,,22/03/1997 (28),28,1.9,Italy,€18.00m,01/07/2019,30/06/2027,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alex-meret/profil/spieler/240414,190.0
+Vanja Milinković-Savić,257474,Napoli,Goalkeeper,,20/02/1997 (28),28,2.02,Serbia,€18.00m,26/07/2025,30/06/2026,07/10/2025,"['Spain', 'Serbia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/vanja-milinkovic-savic/profil/spieler/257474,202.0
+Nikita Contini,250683,Napoli,Goalkeeper,,21/05/1996 (29),29,1.9,Italy,€400k,01/07/2015,30/06/2026,17/06/2025,"['Italy', 'Ukraine']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nikita-contini/profil/spieler/250683,190.0
+Mathias Ferrante,1195798,Napoli,Goalkeeper,,01/09/2006 (19),19,2.02,Italy,€200k,16/07/2025,30/06/2030,15/05/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mathias-ferrante/profil/spieler/1195798,202.0
+Alessandro Buongiorno,386446,Napoli,Centre-Back,"           0
+0  Left-Back",06/06/1999 (26),26,1.9,Italy,€50.00m,13/07/2024,30/06/2029,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alessandro-buongiorno/profil/spieler/386446,190.0
+Sam Beukema,433984,Napoli,Centre-Back,,17/11/1998 (27),27,1.88,Netherlands,€28.00m,20/07/2025,30/06/2030,17/06/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sam-beukema/profil/spieler/433984,188.0
+Amir Rrahmani,257732,Napoli,Centre-Back,,24/02/1994 (31),31,1.92,Kosovo,€12.00m,20/01/2020,30/06/2027,17/06/2025,"['Yugoslavia (Republic)', 'Kosovo', 'Albania']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/amir-rrahmani/profil/spieler/257732,192.0
+Luca Marianucci,814446,Napoli,Centre-Back,"                    0
+0  Defensive Midfield",23/07/2004 (21),21,1.86,Italy,€7.50m,01/07/2025,30/06/2030,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luca-marianucci/profil/spieler/814446,186.0
+Juan Jesus,121985,Napoli,Centre-Back,"           0
+0  Left-Back",10/06/1991 (34),34,1.85,Brazil,€1.50m,18/08/2021,30/06/2026,17/06/2025,"['Italy', 'Brazil']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/juan-jesus/profil/spieler/121985,185.0
+Miguel Gutiérrez,525299,Napoli,Left-Back,"               0
+0  Left Midfield",27/07/2001 (24),24,1.8,Spain,€20.00m,19/08/2025,30/06/2030,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/miguel-gutierrez/profil/spieler/525299,180.0
+Mathías Olivera,376514,Napoli,Left-Back,"               0
+0  Left Midfield
+1    Centre-Back",31/10/1997 (28),28,1.85,Uruguay,€20.00m,01/07/2022,30/06/2030,17/06/2025,"['Uruguay', 'Spain']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mathias-olivera/profil/spieler/376514,185.0
+Leonardo Spinazzola,118689,Napoli,Left-Back,"               0
+0  Left Midfield
+1     Right-Back",25/03/1993 (32),32,1.86,Italy,€3.50m,10/07/2024,30/06/2026,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/leonardo-spinazzola/profil/spieler/118689,186.0
+Giovanni Di Lorenzo,169880,Napoli,Right-Back,"                0
+0  Right Midfield
+1     Centre-Back",04/08/1993 (32),32,1.83,Italy,€12.00m,01/07/2019,30/06/2028,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/giovanni-di-lorenzo/profil/spieler/169880,183.0
+Pasquale Mazzocchi,250153,Napoli,Right-Back,"                0
+0  Right Midfield
+1   Left Midfield",27/07/1995 (30),30,1.83,Italy,€2.50m,05/01/2024,30/06/2027,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pasquale-mazzocchi/profil/spieler/250153,183.0
+Stanislav Lobotka,192735,Napoli,Defensive Midfield,"                  0
+0  Central Midfield",25/11/1994 (30),30,1.68,Slovakia,€25.00m,15/01/2020,30/06/2027,17/06/2025,['Slovakia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/stanislav-lobotka/profil/spieler/192735,168.0
+Billy Gilmour,423744,Napoli,Defensive Midfield,"                  0
+0  Central Midfield",11/06/2001 (24),24,1.7,Scotland,€20.00m,30/08/2024,30/06/2029,17/06/2025,['Scotland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/billy-gilmour/profil/spieler/423744,170.0
+Scott McTominay,315969,Napoli,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",08/12/1996 (28),28,1.91,Scotland,€50.00m,30/08/2024,30/06/2028,17/06/2025,"['England', 'Scotland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/scott-mctominay/profil/spieler/315969,191.0
+Frank Anguissa,354361,Napoli,Central Midfield,"                    0
+0  Defensive Midfield",16/11/1995 (30),30,1.84,Cameroon,€27.00m,01/07/2022,30/06/2027,17/06/2025,['Cameroon'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/frank-anguissa/profil/spieler/354361,184.0
+Kevin De Bruyne,88755,Napoli,Attacking Midfield,"                  0
+0  Central Midfield",28/06/1991 (34),34,1.81,Belgium,€20.00m,01/07/2025,30/06/2027,30/05/2025,['Belgium'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kevin-de-bruyne/profil/spieler/88755,181.0
+Eljif Elmas,400489,Napoli,Attacking Midfield,"                  0
+0       Left Winger
+1  Central Midfield",24/09/1999 (26),26,1.84,North Macedonia,€14.00m,01/09/2025,30/06/2026,17/06/2025,"['Macedonia', 'North Macedonia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/eljif-elmas/profil/spieler/400489,184.0
+Antonio Vergara,703245,Napoli,Attacking Midfield,"                0
+0  Right Midfield
+1    Right Winger",16/01/2003 (22),22,1.82,Italy,€2.20m,-,30/06/2030,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/antonio-vergara/profil/spieler/703245,182.0
+Noa Lang,339332,Napoli,Left Winger,"                0
+0    Right Winger
+1  Second Striker",17/06/1999 (26),26,1.7,Netherlands,€25.00m,17/07/2025,30/06/2030,28/05/2025,"['Netherlands', 'Suriname']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/noa-lang/profil/spieler/339332,170.0
+David Neres,469822,Napoli,Right Winger,"                    0
+0         Left Winger
+1  Attacking Midfield",03/03/1997 (28),28,1.76,Brazil,€24.00m,21/08/2024,30/06/2028,07/10/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/david-neres/profil/spieler/469822,176.0
+Matteo Politano,165895,Napoli,Right Winger,"                0
+0  Second Striker
+1  Right Midfield",03/08/1993 (32),32,1.71,Italy,€10.00m,01/07/2021,30/06/2028,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/matteo-politano/profil/spieler/165895,171.0
+Rasmus Højlund,610442,Napoli,Centre-Forward,,04/02/2003 (22),22,1.91,Denmark,€45.00m,01/09/2025,30/06/2026,07/10/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rasmus-hojlund/profil/spieler/610442,191.0
+Lorenzo Lucca,572265,Napoli,Centre-Forward,,10/09/2000 (25),25,2.01,Italy,€30.00m,18/07/2025,30/06/2026,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lorenzo-lucca/profil/spieler/572265,201.0
+Romelu Lukaku,96341,Napoli,Centre-Forward,,13/05/1993 (32),32,1.91,Belgium,€15.00m,29/08/2024,30/06/2027,07/10/2025,"['DR Congo', 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/romelu-lukaku/profil/spieler/96341,191.0
+Giuseppe Ambrosino,707295,Napoli,Centre-Forward,"                    0
+0  Attacking Midfield
+1         Left Winger",10/09/2003 (22),22,1.87,Italy,€2.50m,01/07/2022,30/06/2030,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/giuseppe-ambrosino/profil/spieler/707295,187.0
+Mike Maignan,182906,AC Milan,Goalkeeper,,03/07/1995 (30),30,1.91,France,€25.00m,01/07/2021,30/06/2026,17/06/2025,"['France', 'French Guiana']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mike-maignan/profil/spieler/182906,191.0
+Pietro Terracciano,96254,AC Milan,Goalkeeper,,08/03/1990 (35),35,1.93,Italy,€1.00m,18/07/2025,30/06/2026,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pietro-terracciano/profil/spieler/96254,193.0
+Lorenzo Torriani,939745,AC Milan,Goalkeeper,,31/01/2005 (20),20,1.97,Italy,€500k,01/07/2024,30/06/2030,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lorenzo-torriani/profil/spieler/939745,197.0
+Koni De Winter,490384,AC Milan,Centre-Back,"                    0
+0          Right-Back
+1  Defensive Midfield",12/06/2002 (23),23,1.91,Belgium,€22.00m,13/08/2025,30/06/2030,17/06/2025,['Belgium'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/koni-de-winter/profil/spieler/490384,191.0
+Fikayo Tomori,303254,AC Milan,Centre-Back,"            0
+0  Right-Back",19/12/1997 (27),27,1.85,England,€20.00m,01/07/2021,30/06/2027,17/06/2025,"['England', 'Canada']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/fikayo-tomori/profil/spieler/303254,185.0
+Strahinja Pavlović,574671,AC Milan,Centre-Back,,24/05/2001 (24),24,1.94,Serbia,€18.00m,31/07/2024,30/06/2028,17/06/2025,"['Yugoslavia (Republic)', 'Serbia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/strahinja-pavlovic/profil/spieler/574671,194.0
+Matteo Gabbia,323167,AC Milan,Centre-Back,,21/10/1999 (26),26,1.85,Italy,€16.00m,01/07/2017,30/06/2029,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/matteo-gabbia/profil/spieler/323167,185.0
+David Odogu,897423,AC Milan,Centre-Back,,03/06/2006 (19),19,1.91,Germany,€5.00m,01/09/2025,30/06/2029,07/10/2025,"['Germany', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/david-odogu/profil/spieler/897423,191.0
+Pervis Estupiñán,349599,AC Milan,Left-Back,"               0
+0  Left Midfield",21/01/1998 (27),27,1.75,Ecuador,€22.00m,24/07/2025,30/06/2030,07/10/2025,"['Spain', 'Ecuador']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pervis-estupinan/profil/spieler/349599,175.0
+Davide Bartesaghi,887638,AC Milan,Left-Back,"               0
+0    Centre-Back
+1  Left Midfield",29/12/2005 (19),19,1.93,Italy,€3.00m,01/07/2025,30/06/2030,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/davide-bartesaghi/profil/spieler/887638,193.0
+Zachary Athekame,990637,AC Milan,Right-Back,"                0
+0  Right Midfield",13/12/2004 (20),20,1.81,Switzerland,€8.00m,15/08/2025,30/06/2030,07/10/2025,"['Switzerland', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/zachary-athekame/profil/spieler/990637,181.0
+Ardon Jashari,608172,AC Milan,Defensive Midfield,"                  0
+0  Central Midfield",30/07/2002 (23),23,1.81,Switzerland,€32.00m,06/08/2025,30/06/2030,12/06/2025,"['North Macedonia', 'Switzerland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ardon-jashari/profil/spieler/608172,181.0
+Youssouf Fofana,569598,AC Milan,Defensive Midfield,"                  0
+0  Central Midfield
+1    Right Midfield",10/01/1999 (26),26,1.85,France,€30.00m,17/08/2024,30/06/2028,17/06/2025,"['France', 'Mali']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/youssouf-fofana/profil/spieler/569598,185.0
+Samuele Ricci,467992,AC Milan,Defensive Midfield,"                  0
+0  Central Midfield",21/08/2001 (24),24,1.81,Italy,€25.00m,03/07/2025,30/06/2029,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/samuele-ricci/profil/spieler/467992,181.0
+Adrien Rabiot,182913,AC Milan,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",03/04/1995 (30),30,1.91,France,€20.00m,01/09/2025,30/06/2028,07/10/2025,['France'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adrien-rabiot/profil/spieler/182913,191.0
+Ruben Loftus-Cheek,202886,AC Milan,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",23/01/1996 (29),29,1.91,England,€10.00m,01/07/2023,30/06/2027,17/06/2025,"['England', 'Guyana']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ruben-loftus-cheek/profil/spieler/202886,191.0
+Luka Modrić,27992,AC Milan,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",09/09/1985 (40),40,1.72,Croatia,€4.00m,14/07/2025,30/06/2026,09/06/2025,"['Jugoslawien (SFR)', 'Croatia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luka-modric/profil/spieler/27992,172.0
+Alexis Saelemaekers,381950,AC Milan,Right Midfield,"              0
+0  Right Winger
+1   Left Winger",27/06/1999 (26),26,1.8,Belgium,€20.00m,01/09/2020,30/06/2027,07/10/2025,['Belgium'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alexis-saelemaekers/profil/spieler/381950,180.0
+Rafael Leão,357164,AC Milan,Left Winger,"                0
+0  Centre-Forward
+1  Second Striker",10/06/1999 (26),26,1.88,Portugal,€70.00m,01/08/2019,30/06/2028,17/06/2025,"['Angola', 'Portugal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rafael-leao/profil/spieler/357164,188.0
+Christian Pulisic,315779,AC Milan,Right Winger,"                    0
+0         Left Winger
+1  Attacking Midfield",18/09/1998 (27),27,1.77,United States,€60.00m,13/07/2023,30/06/2027,07/10/2025,"['United States', 'Croatia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/christian-pulisic/profil/spieler/315779,177.0
+Christopher Nkunku,344381,AC Milan,Centre-Forward,"                    0
+0  Attacking Midfield
+1         Left Winger",14/11/1997 (28),28,1.77,France,€35.00m,30/08/2025,30/06/2030,30/05/2025,"['France', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/christopher-nkunku/profil/spieler/344381,177.0
+Santiago Gimenez,552955,AC Milan,Centre-Forward,,18/04/2001 (24),24,1.83,Mexico,€25.00m,03/02/2025,30/06/2029,07/10/2025,"['Italy', 'Argentina', 'Mexico']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/santiago-gimenez/profil/spieler/552955,183.0
+Marco Carnesecchi,459763,Atalanta,Goalkeeper,,01/07/2000 (25),25,1.91,Italy,€25.00m,01/07/2019,30/06/2028,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marco-carnesecchi/profil/spieler/459763,191.0
+Marco Sportiello,199976,Atalanta,Goalkeeper,,10/05/1992 (33),33,1.92,Italy,€1.00m,18/07/2025,30/06/2028,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marco-sportiello/profil/spieler/199976,192.0
+Francesco Rossi,126634,Atalanta,Goalkeeper,,27/04/1991 (34),34,1.93,Italy,€100k,01/08/2009,30/06/2026,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/francesco-rossi/profil/spieler/126634,193.0
+Giorgio Scalvini,571604,Atalanta,Centre-Back,"                    0
+0  Defensive Midfield",11/12/2003 (21),21,1.94,Italy,€35.00m,09/07/2021,30/06/2028,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/giorgio-scalvini/profil/spieler/571604,194.0
+Isak Hien,503075,Atalanta,Centre-Back,,13/01/1999 (26),26,1.91,Sweden,€30.00m,02/01/2024,30/06/2028,17/06/2025,"['Ghana', 'Sweden']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/isak-hien/profil/spieler/503075,191.0
+Odilon Kossounou,644771,Atalanta,Centre-Back,"            0
+0  Right-Back",04/01/2001 (24),24,1.91,Cote d'Ivoire,€25.00m,01/07/2025,30/06/2029,17/06/2025,"[""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/odilon-kossounou/profil/spieler/644771,191.0
+Honest Ahanor,1077175,Atalanta,Centre-Back,"               0
+0      Left-Back
+1  Left Midfield",23/02/2008 (17),17,1.84,Nigeria,€20.00m,04/07/2025,30/06/2028,07/10/2025,"['Italy', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/honest-ahanor/profil/spieler/1077175,184.0
+Sead Kolasinac,94005,Atalanta,Centre-Back,"               0
+0  Left Midfield
+1      Left-Back",20/06/1993 (32),32,1.83,Bosnia-Herzegovina,€7.00m,06/07/2023,30/06/2026,17/06/2025,"['Bosnia-Herzegovina', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sead-kolasinac/profil/spieler/94005,183.0
+Berat Djimsiti,165513,Atalanta,Centre-Back,"            0
+0  Right-Back
+1   Left-Back",19/02/1993 (32),32,1.9,Albania,€6.00m,18/01/2016,30/06/2026,17/06/2025,"['Albania', 'Switzerland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/berat-djimsiti/profil/spieler/165513,190.0
+Marten de Roon,133179,Atalanta,Defensive Midfield,"                  0
+0  Central Midfield
+1       Centre-Back",29/03/1991 (34),34,1.85,Netherlands,€5.00m,10/08/2017,30/06/2026,17/06/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marten-de-roon/profil/spieler/133179,185.0
+Éderson,607854,Atalanta,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",07/07/1999 (26),26,1.83,Brazil,€45.00m,06/07/2022,30/06/2027,07/10/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ederson/profil/spieler/607854,183.0
+Yunus Musah,503991,Atalanta,Central Midfield,"                    0
+0      Right Midfield
+1  Attacking Midfield",29/11/2002 (22),22,1.78,United States,€20.00m,01/09/2025,30/06/2026,17/06/2025,"['England', 'United States']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yunus-musah/profil/spieler/503991,178.0
+Mario Pašalić,205938,Atalanta,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",09/02/1995 (30),30,1.88,Croatia,€10.00m,01/09/2020,30/06/2028,17/06/2025,"['Germany', 'Croatia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mario-pasalic/profil/spieler/205938,188.0
+Marco Brescianini,459128,Atalanta,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",20/01/2000 (25),25,1.88,Italy,€8.00m,01/07/2025,30/06/2029,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marco-brescianini/profil/spieler/459128,188.0
+Raoul Bellanova,357992,Atalanta,Right Midfield,"               0
+0     Right-Back
+1  Left Midfield",17/05/2000 (25),25,1.88,Italy,€24.00m,22/08/2024,30/06/2029,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/raoul-bellanova/profil/spieler/357992,188.0
+Davide Zappacosta,173859,Atalanta,Right Midfield,"               0
+0     Right-Back
+1  Left Midfield",11/06/1992 (33),33,1.82,Italy,€3.50m,24/08/2021,30/06/2026,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/davide-zappacosta/profil/spieler/173859,182.0
+Nicola Zalewski,550108,Atalanta,Left Midfield,"                    0
+0  Attacking Midfield
+1      Right Midfield",23/01/2002 (23),23,1.75,Poland,€17.00m,18/08/2025,30/06/2029,07/10/2025,"['Poland', 'Italy']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nicola-zalewski/profil/spieler/550108,175.0
+Mitchel Bakker,361065,Atalanta,Left Midfield,"             0
+0    Left-Back
+1  Centre-Back",20/06/2000 (25),25,1.89,Netherlands,€5.00m,07/07/2023,30/06/2027,07/10/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mitchel-bakker/profil/spieler/361065,189.0
+Lorenzo Bernasconi,708635,Atalanta,Left Midfield,"             0
+0  Centre-Back
+1    Left-Back",16/11/2003 (22),22,1.9,Italy,€2.50m,01/07/2025,30/06/2028,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lorenzo-bernasconi/profil/spieler/708635,190.0
+Charles De Ketelaere,435772,Atalanta,Attacking Midfield,"                0
+0  Centre-Forward
+1    Right Winger",10/03/2001 (24),24,1.92,Belgium,€35.00m,01/07/2024,30/06/2028,17/06/2025,['Belgium'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/charles-de-ketelaere/profil/spieler/435772,192.0
+Lazar Samardžić,528833,Atalanta,Attacking Midfield,"                  0
+0  Central Midfield",24/02/2002 (23),23,1.84,Serbia,€17.00m,01/07/2025,30/06/2029,17/06/2025,"['Serbia', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lazar-samardzic/profil/spieler/528833,184.0
+Daniel Maldini,539134,Atalanta,Attacking Midfield,"                0
+0     Left Winger
+1  Centre-Forward",11/10/2001 (24),24,1.88,Italy,€10.00m,01/02/2025,30/06/2029,17/06/2025,"['Italy', 'Venezuela']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/daniel-maldini/profil/spieler/539134,188.0
+Kamaldeen Sulemana,746695,Atalanta,Left Winger,"                0
+0  Centre-Forward
+1    Right Winger",15/02/2002 (23),23,1.75,Ghana,€20.00m,02/07/2025,30/06/2029,07/10/2025,['Ghana'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kamaldeen-sulemana/profil/spieler/746695,175.0
+Ademola Lookman,406040,Atalanta,Second Striker,"              0
+0  Right Winger
+1   Left Winger",20/10/1997 (28),28,1.74,Nigeria,€40.00m,04/08/2022,30/06/2027,07/10/2025,"['England', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ademola-lookman/profil/spieler/406040,174.0
+Gianluca Scamacca,315867,Atalanta,Centre-Forward,,01/01/1999 (26),26,1.95,Italy,€24.00m,07/08/2023,30/06/2027,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gianluca-scamacca/profil/spieler/315867,195.0
+Nikola Krstović,434433,Atalanta,Centre-Forward,,05/04/2000 (25),25,1.85,Montenegro,€24.00m,20/08/2025,30/06/2030,07/10/2025,"['Yugoslavia (Republic)', 'Montenegro', 'Serbia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nikola-krstovic/profil/spieler/434433,185.0
+Mile Svilar,338670,Roma,Goalkeeper,,27/08/1999 (26),26,1.89,Serbia,€25.00m,01/07/2022,30/06/2030,17/06/2025,"['Serbia', 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mile-svilar/profil/spieler/338670,189.0
+Devis Vásquez,495722,Roma,Goalkeeper,,12/05/1998 (27),27,1.95,Colombia,€1.50m,29/07/2025,30/06/2027,07/10/2025,['Colombia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/devis-vasquez/profil/spieler/495722,195.0
+Pierluigi Gollini,244192,Roma,Goalkeeper,,18/03/1995 (30),30,1.94,Italy,€800k,24/01/2025,30/06/2027,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pierluigi-gollini/profil/spieler/244192,194.0
+Radoslaw Zelezny,1073023,Roma,Goalkeeper,,06/09/2006 (19),19,1.93,Poland,€200k,23/07/2025,30/06/2029,07/10/2025,['Poland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/radoslaw-zelezny/profil/spieler/1073023,193.0
+Evan Ndicka,371149,Roma,Centre-Back,,20/08/1999 (26),26,1.92,Cote d'Ivoire,€30.00m,01/07/2023,30/06/2028,17/06/2025,"['France', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/evan-ndicka/profil/spieler/371149,192.0
+Gianluca Mancini,256448,Roma,Centre-Back,"                    0
+0  Defensive Midfield",17/04/1996 (29),29,1.9,Italy,€15.00m,01/09/2020,30/06/2027,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gianluca-mancini/profil/spieler/256448,190.0
+Daniele Ghilardi,701819,Roma,Centre-Back,,06/01/2003 (22),22,1.89,Italy,€8.00m,02/08/2025,30/06/2026,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/daniele-ghilardi/profil/spieler/701819,189.0
+Mario Hermoso,281769,Roma,Centre-Back,"           0
+0  Left-Back",18/06/1995 (30),30,1.84,Spain,€7.00m,02/09/2024,30/06/2027,05/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mario-hermoso/profil/spieler/281769,184.0
+Jan Ziolkowski,1046867,Roma,Centre-Back,,05/06/2005 (20),20,1.94,Poland,€6.00m,29/08/2025,30/06/2030,07/10/2025,['Poland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jan-ziolkowski/profil/spieler/1046867,194.0
+Angeliño,277179,Roma,Left-Back,"               0
+0  Left Midfield
+1    Centre-Back",04/01/1997 (28),28,1.71,Spain,€20.00m,01/07/2024,30/06/2028,17/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/angelino/profil/spieler/277179,171.0
+Konstantinos Tsimikas,338070,Roma,Left-Back,"               0
+0  Left Midfield",12/05/1996 (29),29,1.79,Greece,€18.00m,31/08/2025,30/06/2026,30/05/2025,['Greece'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/konstantinos-tsimikas/profil/spieler/338070,179.0
+Wesley,964580,Roma,Right-Back,"                0
+0  Right Midfield",06/09/2003 (22),22,1.78,Brazil,€25.00m,28/07/2025,30/06/2030,07/10/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/wesley/profil/spieler/964580,178.0
+Devyne Rensch,557407,Roma,Right-Back,"             0
+0  Centre-Back
+1    Left-Back",18/01/2003 (22),22,1.81,Netherlands,€10.00m,23/01/2025,30/06/2029,17/06/2025,"['Netherlands', 'Suriname']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/devyne-rensch/profil/spieler/557407,181.0
+Zeki Çelik,251075,Roma,Right-Back,"                0
+0  Right Midfield
+1     Centre-Back",17/02/1997 (28),28,1.8,Türkiye,€6.00m,05/07/2022,30/06/2026,17/06/2025,['Türkiye'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/zeki-celik/profil/spieler/251075,180.0
+Buba Sangaré,962125,Roma,Right-Back,,06/08/2007 (18),18,1.83,Spain,€1.00m,02/07/2024,30/06/2027,17/06/2025,"['Spain', 'Mali']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/buba-sangare/profil/spieler/962125,183.0
+Bryan Cristante,199248,Roma,Defensive Midfield,"                  0
+0  Central Midfield
+1       Centre-Back",03/03/1995 (30),30,1.86,Italy,€7.00m,01/07/2019,30/06/2027,17/06/2025,"['Italy', 'Canada']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/bryan-cristante/profil/spieler/199248,186.0
+Manu Koné,624690,Roma,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",17/05/2001 (24),24,1.85,France,€50.00m,30/08/2024,30/06/2029,07/10/2025,"['France', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/manu-kone/profil/spieler/624690,185.0
+Neil El Aynaoui,901019,Roma,Central Midfield,"                    0
+0  Defensive Midfield",02/07/2001 (24),24,1.85,Morocco,€20.00m,20/07/2025,30/06/2030,07/10/2025,"['France', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/neil-el-aynaoui/profil/spieler/901019,185.0
+Niccolò Pisilli,813137,Roma,Central Midfield,"                    0
+0  Attacking Midfield",23/09/2004 (21),21,1.8,Italy,€13.00m,01/07/2024,30/06/2029,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/niccolo-pisilli/profil/spieler/813137,180.0
+Edoardo Bove,562049,Roma,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",16/05/2002 (23),23,1.81,Italy,,01/07/2021,30/06/2028,,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/edoardo-bove/profil/spieler/562049,181.0
+Tommaso Baldanzi,641537,Roma,Attacking Midfield,"                0
+0  Second Striker
+1    Right Winger",23/03/2003 (22),22,1.7,Italy,€10.00m,01/02/2024,30/06/2028,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tommaso-baldanzi/profil/spieler/641537,170.0
+Lorenzo Pellegrini,286297,Roma,Attacking Midfield,"                    0
+0    Central Midfield
+1  Defensive Midfield",19/06/1996 (29),29,1.86,Italy,€9.00m,01/07/2017,30/06/2026,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lorenzo-pellegrini/profil/spieler/286297,186.0
+Stephan El Shaarawy,94529,Roma,Left Winger,"                0
+0   Left Midfield
+1  Second Striker",27/10/1992 (33),33,1.78,Italy,€3.50m,30/01/2021,30/06/2026,17/06/2025,"['Italy', 'Egypt']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/stephan-el-shaarawy/profil/spieler/94529,178.0
+Matías Soulé,668951,Roma,Right Winger,"                    0
+0  Attacking Midfield
+1      Second Striker",15/04/2003 (22),22,1.82,Argentina,€35.00m,30/07/2024,30/06/2029,07/10/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/matias-soule/profil/spieler/668951,182.0
+Leon Bailey,387626,Roma,Right Winger,"                0
+0     Left Winger
+1  Right Midfield",09/08/1997 (28),28,1.78,Jamaica,€22.00m,20/08/2025,30/06/2026,07/10/2025,['Jamaica'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/leon-bailey/profil/spieler/387626,178.0
+Paulo Dybala,206050,Roma,Second Striker,"                0
+0    Right Winger
+1  Centre-Forward",15/11/1993 (32),32,1.77,Argentina,€8.00m,20/07/2022,30/06/2026,17/06/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/paulo-dybala/profil/spieler/206050,177.0
+Artem Dovbyk,343537,Roma,Centre-Forward,,21/06/1997 (28),28,1.89,Ukraine,€25.00m,02/08/2024,30/06/2029,07/10/2025,['Ukraine'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/artem-dovbyk/profil/spieler/343537,189.0
+Evan Ferguson,648046,Roma,Centre-Forward,,19/10/2004 (21),21,1.88,Ireland,€25.00m,23/07/2025,30/06/2026,30/05/2025,"['England', 'Ireland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/evan-ferguson/profil/spieler/648046,188.0
+David de Gea,59377,Fiorentina,Goalkeeper,,07/11/1990 (35),35,1.92,Spain,€5.00m,09/08/2024,30/06/2028,17/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/david-de-gea/profil/spieler/59377,192.0
+Tommaso Martinelli,934159,Fiorentina,Goalkeeper,,06/01/2006 (19),19,1.94,Italy,€1.80m,01/07/2023,30/06/2029,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tommaso-martinelli/profil/spieler/934159,194.0
+Luca Lezzerini,135747,Fiorentina,Goalkeeper,,24/03/1995 (30),30,1.95,Italy,€350k,01/08/2025,30/06/2026,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luca-lezzerini/profil/spieler/135747,195.0
+Pietro Comuzzo,746712,Fiorentina,Centre-Back,,20/02/2005 (20),20,1.88,Italy,€25.00m,01/07/2023,30/06/2029,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pietro-comuzzo/profil/spieler/746712,188.0
+Luca Ranieri,346561,Fiorentina,Centre-Back,"               0
+0      Left-Back
+1  Left Midfield",23/04/1999 (26),26,1.87,Italy,€12.00m,01/07/2018,30/06/2028,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luca-ranieri/profil/spieler/346561,187.0
+Marin Pongracic,282144,Fiorentina,Centre-Back,,11/09/1997 (28),28,1.93,Croatia,€10.00m,19/07/2024,30/06/2029,17/06/2025,"['Germany', 'Croatia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marin-pongracic/profil/spieler/282144,193.0
+Mattia Viti,493702,Fiorentina,Centre-Back,,24/01/2002 (23),23,1.9,Italy,€4.50m,01/07/2025,30/06/2026,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mattia-viti/profil/spieler/493702,190.0
+Pablo Marí,210178,Fiorentina,Centre-Back,,31/08/1993 (32),32,1.93,Spain,€3.00m,28/01/2025,30/06/2027,07/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pablo-mari/profil/spieler/210178,193.0
+Eman Kospo,1015822,Fiorentina,Centre-Back,,17/05/2007 (18),18,1.91,Bosnia-Herzegovina,€1.50m,15/07/2025,30/06/2030,09/09/2025,"['Bosnia-Herzegovina', 'Switzerland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/eman-kospo/profil/spieler/1015822,191.0
+Eddy Kouadio,957822,Fiorentina,Centre-Back,,07/05/2006 (19),19,1.91,Italy,€500k,01/07/2025,30/06/2027,07/10/2025,"['Italy', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/eddy-kouadio/profil/spieler/957822,191.0
+Niccolò Fortini,984964,Fiorentina,Left-Back,"                0
+0   Left Midfield
+1  Right Midfield",13/02/2006 (19),19,1.85,Italy,€8.50m,-,30/06/2027,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/niccolo-fortini/profil/spieler/984964,185.0
+Robin Gosens,273132,Fiorentina,Left-Back,"               0
+0  Left Midfield",05/07/1994 (31),31,1.83,Germany,€8.00m,01/07/2025,30/06/2028,17/06/2025,"['Germany', 'Netherlands']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/robin-gosens/profil/spieler/273132,183.0
+Fabiano Parisi,547985,Fiorentina,Left-Back,"               0
+0  Left Midfield
+1     Right-Back",09/11/2000 (25),25,1.78,Italy,€5.00m,14/07/2023,30/06/2029,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/fabiano-parisi/profil/spieler/547985,178.0
+Dodô,401529,Fiorentina,Right-Back,"                0
+0  Right Midfield",17/11/1998 (27),27,1.66,Brazil,€24.00m,22/07/2022,30/06/2027,17/06/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dodo/profil/spieler/401529,166.0
+Tariq Lamptey,504148,Fiorentina,Right-Back,"                0
+0  Right Midfield
+1       Left-Back",30/09/2000 (25),25,1.63,Ghana,€11.00m,01/09/2025,30/06/2028,30/05/2025,"['England', 'Ghana']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tariq-lamptey/profil/spieler/504148,163.0
+Rolando Mandragora,308279,Fiorentina,Defensive Midfield,"                  0
+0  Central Midfield",29/06/1997 (28),28,1.83,Italy,€12.00m,04/07/2022,30/06/2026,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rolando-mandragora/profil/spieler/308279,183.0
+Nicolò Fagioli,432090,Fiorentina,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",12/02/2001 (24),24,1.78,Italy,€18.00m,01/07/2025,30/06/2028,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nicolo-fagioli/profil/spieler/432090,178.0
+Simon Sohm,507486,Fiorentina,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",11/04/2001 (24),24,1.88,Switzerland,€10.00m,04/08/2025,30/06/2030,07/10/2025,"['Switzerland', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/simon-sohm/profil/spieler/507486,188.0
+Jacopo Fazzini,691482,Fiorentina,Central Midfield,"                    0
+0  Attacking Midfield",16/03/2003 (22),22,1.78,Italy,€10.00m,01/07/2025,30/06/2030,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jacopo-fazzini/profil/spieler/691482,178.0
+Hans Nicolussi Caviglia,430280,Fiorentina,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",18/06/2000 (25),25,1.84,Italy,€8.50m,30/08/2025,30/06/2026,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/hans-nicolussi-caviglia/profil/spieler/430280,184.0
+Amir Richardson,893675,Fiorentina,Central Midfield,"                    0
+0  Defensive Midfield",24/01/2002 (23),23,1.97,Morocco,€6.50m,12/08/2024,30/06/2029,07/10/2025,"['France', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/amir-richardson/profil/spieler/893675,197.0
+Cher Ndour,651005,Fiorentina,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",27/07/2004 (21),21,1.9,Italy,€5.00m,03/02/2025,30/06/2029,17/06/2025,"['Senegal', 'Italy']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/cher-ndour/profil/spieler/651005,190.0
+Gino Infantino,831162,Fiorentina,Central Midfield,"                    0
+0  Attacking Midfield
+1         Left Winger",19/05/2003 (22),22,1.78,Argentina,€800k,03/08/2023,30/06/2028,07/10/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gino-infantino/profil/spieler/831162,178.0
+Abdelhamid Sabiri,340394,Fiorentina,Attacking Midfield,"                  0
+0  Central Midfield
+1     Left Midfield",28/11/1996 (28),28,1.86,Morocco,€1.70m,30/01/2023,30/06/2026,27/05/2025,"['Germany', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/abdelhamid-sabiri/profil/spieler/340394,186.0
+Albert Gudmundsson,305947,Fiorentina,Second Striker,"                    0
+0         Left Winger
+1  Attacking Midfield",15/06/1997 (28),28,1.77,Iceland,€18.00m,01/07/2025,30/06/2029,17/06/2025,['Iceland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/albert-gudmundsson/profil/spieler/305947,177.0
+Moise Kean,364135,Fiorentina,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",28/02/2000 (25),25,1.83,Italy,€50.00m,09/07/2024,30/06/2029,17/06/2025,"['Italy', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/moise-kean/profil/spieler/364135,183.0
+Roberto Piccoli,432092,Fiorentina,Centre-Forward,,27/01/2001 (24),24,1.9,Italy,€20.00m,25/08/2025,30/06/2030,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/roberto-piccoli/profil/spieler/432092,190.0
+Christian Kouamé,337725,Fiorentina,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",06/12/1997 (27),27,1.85,Cote d'Ivoire,€2.50m,01/09/2020,30/06/2027,07/10/2025,"['Italy', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/christian-kouame/profil/spieler/337725,185.0
+Edin Džeko,28396,Fiorentina,Centre-Forward,,17/03/1986 (39),39,1.93,Bosnia-Herzegovina,€1.60m,10/07/2025,30/06/2026,18/06/2025,"['Jugoslawien (SFR)', 'Bosnia-Herzegovina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/edin-dzeko/profil/spieler/28396,193.0
+Riccardo Braschi,934514,Fiorentina,Centre-Forward,"                    0
+0         Left Winger
+1  Attacking Midfield",24/08/2006 (19),19,,Italy,€600k,01/07/2025,-,27/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/riccardo-braschi/profil/spieler/934514,
+Jean Butez,290537,Como,Goalkeeper,,08/06/1995 (30),30,1.89,France,€3.50m,07/01/2025,30/06/2028,17/06/2025,['France'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jean-butez/profil/spieler/290537,189.0
+Nikola Cavlina,587505,Como,Goalkeeper,,02/06/2002 (23),23,1.92,Croatia,€750k,29/08/2025,30/06/2026,09/06/2025,['Croatia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nikola-cavlina/profil/spieler/587505,192.0
+Henrique Menke,1259706,Como,Goalkeeper,,12/01/2007 (18),18,1.9,Brazil,€300k,19/07/2025,30/06/2026,07/10/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/henrique-menke/profil/spieler/1259706,190.0
+Mauro Vigorito,88595,Como,Goalkeeper,,22/05/1990 (35),35,1.87,Italy,€150k,01/07/2023,-,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mauro-vigorito/profil/spieler/88595,187.0
+Diego Carlos,329145,Como,Centre-Back,,15/03/1993 (32),32,1.85,Brazil,€9.50m,01/09/2025,30/06/2026,18/06/2025,"['Spain', 'Brazil']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/diego-carlos/profil/spieler/329145,185.0
+Alberto Dossena,385394,Como,Centre-Back,,13/10/1998 (27),27,1.95,Italy,€8.00m,01/07/2024,30/06/2028,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alberto-dossena/profil/spieler/385394,195.0
+Stefan Posch,223974,Como,Centre-Back,"            0
+0  Right-Back",14/05/1997 (28),28,1.9,Austria,€7.00m,01/09/2025,30/06/2026,07/10/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/stefan-posch/profil/spieler/223974,190.0
+Jacobo Ramón,948278,Como,Centre-Back,,06/01/2005 (20),20,1.96,Spain,€6.00m,31/07/2025,30/06/2030,07/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jacobo-ramon/profil/spieler/948278,196.0
+Marc Oliver Kempf,160938,Como,Centre-Back,"                    0
+0  Defensive Midfield",28/01/1995 (30),30,1.86,Germany,€3.00m,28/08/2024,30/06/2027,17/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marc-oliver-kempf/profil/spieler/160938,186.0
+Edoardo Goldaniga,242940,Como,Centre-Back,,02/11/1993 (32),32,1.93,Italy,€3.00m,28/01/2024,30/06/2028,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/edoardo-goldaniga/profil/spieler/242940,193.0
+Álex Valle,709957,Como,Left-Back,,25/04/2004 (21),21,1.78,Spain,€6.00m,01/07/2025,30/06/2029,17/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alex-valle/profil/spieler/709957,178.0
+Alberto Moreno,207917,Como,Left-Back,,05/07/1992 (33),33,1.71,Spain,€1.50m,19/07/2024,30/06/2026,17/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alberto-moreno/profil/spieler/207917,171.0
+Marco Sala,392570,Como,Left-Back,"               0
+0  Left Midfield",04/06/1999 (26),26,1.82,Italy,€500k,24/07/2023,30/06/2026,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marco-sala/profil/spieler/392570,182.0
+Ignace Van der Brempt,490423,Como,Right-Back,"                0
+0  Right Midfield
+1     Centre-Back",01/04/2002 (23),23,1.87,Belgium,€4.00m,01/07/2025,30/06/2028,17/06/2025,['Belgium'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ignace-van-der-brempt/profil/spieler/490423,187.0
+Mërgim Vojvoda,336125,Como,Right-Back,"             0
+0  Centre-Back
+1    Left-Back",01/02/1995 (30),30,1.87,Kosovo,€3.00m,03/02/2025,30/06/2028,17/06/2025,"['Albania', 'Germany', 'Kosovo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mergim-vojvoda/profil/spieler/336125,187.0
+Ivan Smolcic,571271,Como,Right-Back,"             0
+0  Centre-Back",17/08/2000 (25),25,1.81,Croatia,€1.80m,03/02/2025,30/06/2029,17/06/2025,['Croatia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ivan-smolcic/profil/spieler/571271,181.0
+Máximo Perrone,668547,Como,Defensive Midfield,"                  0
+0  Central Midfield",07/01/2003 (22),22,1.77,Argentina,€15.00m,18/07/2025,30/06/2029,07/10/2025,"['Spain', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/maximo-perrone/profil/spieler/668547,177.0
+Maxence Caqueret,395237,Como,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",15/02/2000 (25),25,1.74,France,€16.00m,12/01/2025,30/06/2029,17/06/2025,['France'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/maxence-caqueret/profil/spieler/395237,174.0
+Lucas Da Cunha,495667,Como,Central Midfield,"                    0
+0  Attacking Midfield
+1         Left Winger",09/06/2001 (24),24,1.74,France,€10.00m,16/01/2023,30/06/2029,17/06/2025,"['France', 'Portugal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lucas-da-cunha/profil/spieler/495667,174.0
+Sergi Roberto,85370,Como,Central Midfield,"                    0
+0          Right-Back
+1  Defensive Midfield",07/02/1992 (33),33,1.78,Spain,€1.50m,23/08/2024,30/06/2026,17/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sergi-roberto/profil/spieler/85370,178.0
+Nico Paz,948294,Como,Attacking Midfield,"                  0
+0  Central Midfield
+1    Centre-Forward",08/09/2004 (21),21,1.86,Argentina,€55.00m,25/08/2024,30/06/2028,07/10/2025,"['Spain', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nico-paz/profil/spieler/948294,186.0
+Martin Baturina,580451,Como,Attacking Midfield,"                  0
+0  Central Midfield",16/02/2003 (22),22,1.72,Croatia,€20.00m,01/07/2025,30/06/2030,07/10/2025,"['Switzerland', 'Croatia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/martin-baturina/profil/spieler/580451,172.0
+Simone Verdi,130360,Como,Attacking Midfield,"                0
+0  Second Striker
+1    Right Winger",12/07/1992 (33),33,1.74,Italy,€900k,25/08/2023,30/06/2026,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/simone-verdi/profil/spieler/130360,174.0
+Jesús Rodríguez,1190411,Como,Left Winger,"              0
+0  Right Winger",21/11/2005 (20),20,1.85,Spain,€30.00m,02/07/2025,30/06/2030,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jesus-rodriguez/profil/spieler/1190411,185.0
+Assane Diao,1061282,Como,Left Winger,"                0
+0    Right Winger
+1  Centre-Forward",07/09/2005 (20),20,1.85,Senegal,€30.00m,07/01/2025,30/06/2029,17/06/2025,"['Senegal', 'Spain']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/assane-diao/profil/spieler/1061282,185.0
+Nicolas Kühn,336012,Como,Right Winger,"             0
+0  Left Winger",01/01/2000 (25),25,1.74,Germany,€17.00m,11/07/2025,30/06/2029,07/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nicolas-kuhn/profil/spieler/336012,174.0
+Jayden Addai,747720,Como,Right Winger,"             0
+0  Left Winger",26/08/2005 (20),20,1.77,Netherlands,€10.00m,04/07/2025,30/06/2030,07/10/2025,"['Ghana', 'Netherlands']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jayden-addai/profil/spieler/747720,177.0
+Álvaro Morata,128223,Como,Centre-Forward,"                0
+0     Left Winger
+1  Second Striker",23/10/1992 (33),33,1.89,Spain,€11.00m,12/08/2025,30/06/2026,18/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alvaro-morata/profil/spieler/128223,189.0
+Anastasios Douvikas,523318,Como,Centre-Forward,,02/08/1999 (26),26,1.86,Greece,€10.00m,03/02/2025,30/06/2029,17/06/2025,['Greece'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/anastasios-douvikas/profil/spieler/523318,186.0
+Alberto Cerri,197751,Como,Centre-Forward,,16/04/1996 (29),29,1.94,Italy,€700k,01/07/2023,30/06/2026,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alberto-cerri/profil/spieler/197751,194.0
+Lukasz Skorupski,80894,Bologna,Goalkeeper,,05/05/1991 (34),34,1.88,Poland,€2.50m,01/07/2018,30/06/2027,17/06/2025,['Poland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lukasz-skorupski/profil/spieler/80894,188.0
+Federico Ravaglia,390304,Bologna,Goalkeeper,,11/11/1999 (26),26,1.96,Italy,€1.50m,01/07/2017,30/06/2028,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/federico-ravaglia/profil/spieler/390304,196.0
+Massimo Pessina,992569,Bologna,Goalkeeper,,25/12/2007 (17),17,1.88,Italy,€500k,01/07/2025,-,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/massimo-pessina/profil/spieler/992569,188.0
+Jhon Lucumí,413565,Bologna,Centre-Back,,26/06/1998 (27),27,1.87,Colombia,€25.00m,18/08/2022,30/06/2027,07/10/2025,['Colombia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jhon-lucumi/profil/spieler/413565,187.0
+Martin Vitík,652054,Bologna,Centre-Back,,21/01/2003 (22),22,1.93,Czech Republic,€11.00m,06/07/2025,30/06/2029,17/06/2025,['Czech Republic'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/martin-vitik/profil/spieler/652054,193.0
+Torbjørn Heggem,464469,Bologna,Centre-Back,"           0
+0  Left-Back",12/01/1999 (26),26,1.92,Norway,€7.50m,15/08/2025,30/06/2029,07/10/2025,['Norway'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/torbjorn-heggem/profil/spieler/464469,192.0
+Nicolò Casale,389837,Bologna,Centre-Back,"            0
+0  Right-Back",14/02/1998 (27),27,1.91,Italy,€6.00m,01/07/2025,30/06/2028,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nicolo-casale/profil/spieler/389837,191.0
+Kevin Bonifazi,247377,Bologna,Centre-Back,,19/05/1996 (29),29,1.87,Italy,€300k,02/07/2021,30/06/2026,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kevin-bonifazi/profil/spieler/247377,187.0
+Juan Miranda,341227,Bologna,Left-Back,,19/01/2000 (25),25,1.85,Spain,€15.00m,03/07/2024,30/06/2027,17/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/juan-miranda/profil/spieler/341227,185.0
+Charalampos Lykogiannis,136514,Bologna,Left-Back,"               0
+0  Left Midfield
+1    Centre-Back",22/10/1993 (32),32,1.91,Greece,€1.50m,01/07/2022,30/06/2026,17/06/2025,['Greece'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/charalampos-lykogiannis/profil/spieler/136514,191.0
+Emil Holm,496745,Bologna,Right-Back,"                0
+0  Right Midfield
+1       Left-Back",13/05/2000 (25),25,1.91,Sweden,€8.00m,01/07/2024,30/06/2028,17/06/2025,['Sweden'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/emil-holm/profil/spieler/496745,191.0
+Nadir Zortea,392966,Bologna,Right-Back,"                0
+0  Right Midfield
+1       Left-Back",19/06/1999 (26),26,1.87,Italy,€7.00m,20/08/2025,30/06/2029,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nadir-zortea/profil/spieler/392966,187.0
+Lorenzo De Silvestri,33571,Bologna,Right-Back,"                0
+0  Right Midfield",23/05/1988 (37),37,1.87,Italy,€800k,17/09/2020,30/06/2026,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lorenzo-de-silvestri/profil/spieler/33571,187.0
+Ibrahim Sulemana,982267,Bologna,Defensive Midfield,"                  0
+0  Central Midfield",22/05/2003 (22),22,1.8,Ghana,€7.00m,01/09/2025,30/06/2026,17/06/2025,['Ghana'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ibrahim-sulemana/profil/spieler/982267,180.0
+Nikola Moro,316934,Bologna,Defensive Midfield,"                    0
+0  Attacking Midfield
+1    Central Midfield",12/03/1998 (27),27,1.84,Croatia,€4.50m,02/07/2023,30/06/2027,17/06/2025,['Croatia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nikola-moro/profil/spieler/316934,184.0
+Lewis Ferguson,428563,Bologna,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",24/08/1999 (26),26,1.81,Scotland,€20.00m,12/07/2022,30/06/2028,07/10/2025,['Scotland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lewis-ferguson/profil/spieler/428563,181.0
+Tommaso Pobega,392538,Bologna,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",15/07/1999 (26),26,1.88,Italy,€9.00m,22/07/2025,30/06/2026,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tommaso-pobega/profil/spieler/392538,188.0
+Remo Freuler,148252,Bologna,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",15/04/1992 (33),33,1.8,Switzerland,€5.00m,01/07/2024,30/06/2026,17/06/2025,['Switzerland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/remo-freuler/profil/spieler/148252,180.0
+Jens Odgaard,345590,Bologna,Attacking Midfield,"                0
+0    Right Winger
+1  Centre-Forward",31/03/1999 (26),26,1.88,Denmark,€12.00m,01/07/2024,30/06/2027,17/06/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jens-odgaard/profil/spieler/345590,188.0
+Giovanni Fabbian,633668,Bologna,Attacking Midfield,"                    0
+0    Central Midfield
+1  Defensive Midfield",14/01/2003 (22),22,1.9,Italy,€12.00m,20/08/2023,30/06/2028,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/giovanni-fabbian/profil/spieler/633668,190.0
+Jonathan Rowe,672381,Bologna,Left Winger,"                    0
+0        Right Winger
+1  Attacking Midfield",30/04/2003 (22),22,1.73,England,€17.00m,24/08/2025,30/06/2029,07/10/2025,"['England', 'Jamaica']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jonathan-rowe/profil/spieler/672381,173.0
+Benja Domínguez,961022,Bologna,Left Winger,"              0
+0  Right Winger",19/09/2003 (22),22,1.72,Argentina,€12.00m,28/08/2024,30/06/2029,07/10/2025,['Argentina'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/benja-dominguez/profil/spieler/961022,172.0
+Nicolò Cambiaghi,459151,Bologna,Left Winger,"                0
+0  Second Striker
+1    Right Winger",28/12/2000 (24),24,1.73,Italy,€10.00m,12/07/2024,30/06/2029,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nicolo-cambiaghi/profil/spieler/459151,173.0
+Riccardo Orsolini,368482,Bologna,Right Winger,"                0
+0  Second Striker
+1     Left Winger",24/01/1997 (28),28,1.86,Italy,€25.00m,01/07/2019,30/06/2027,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/riccardo-orsolini/profil/spieler/368482,186.0
+Federico Bernardeschi,197300,Bologna,Right Winger,"                    0
+0         Left Winger
+1  Attacking Midfield",16/02/1994 (31),31,1.83,Italy,€3.50m,19/07/2025,30/06/2027,05/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/federico-bernardeschi/profil/spieler/197300,183.0
+Santiago Castro,849520,Bologna,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",18/09/2004 (21),21,1.79,Argentina,€35.00m,30/01/2024,30/06/2028,17/06/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/santiago-castro/profil/spieler/849520,179.0
+Thijs Dallinga,538964,Bologna,Centre-Forward,,03/08/2000 (25),25,1.9,Netherlands,€12.00m,23/07/2024,30/06/2028,17/06/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/thijs-dallinga/profil/spieler/538964,190.0
+Ciro Immobile,105521,Bologna,Centre-Forward,,20/02/1990 (35),35,1.85,Italy,€2.20m,10/07/2025,30/06/2026,18/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ciro-immobile/profil/spieler/105521,185.0
+Christos Mandas,481675,Lazio,Goalkeeper,,17/09/2001 (24),24,1.89,Greece,€7.00m,01/09/2023,30/06/2029,07/10/2025,['Greece'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/christos-mandas/profil/spieler/481675,189.0
+Ivan Provedel,197929,Lazio,Goalkeeper,,17/03/1994 (31),31,1.94,Italy,€3.00m,08/08/2022,30/06/2027,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ivan-provedel/profil/spieler/197929,194.0
+Alessio Furlanetto,538079,Lazio,Goalkeeper,,07/02/2002 (23),23,1.91,Italy,€50k,01/07/2022,30/06/2028,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alessio-furlanetto/profil/spieler/538079,191.0
+Mario Gila,618341,Lazio,Centre-Back,,29/08/2000 (25),25,1.85,Spain,€30.00m,12/07/2022,30/06/2027,17/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mario-gila/profil/spieler/618341,185.0
+Alessio Romagnoli,197747,Lazio,Centre-Back,,12/01/1995 (30),30,1.85,Italy,€7.00m,12/07/2022,30/06/2027,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alessio-romagnoli/profil/spieler/197747,185.0
+Oliver Provstgaard,644408,Lazio,Centre-Back,,04/06/2003 (22),22,1.94,Denmark,€3.50m,03/02/2025,30/06/2029,17/06/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/oliver-provstgaard/profil/spieler/644408,194.0
+Patric,126729,Lazio,Centre-Back,"                0
+0      Right-Back
+1  Right Midfield",17/04/1993 (32),32,1.84,Spain,€2.50m,01/07/2015,30/06/2027,17/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/patric/profil/spieler/126729,184.0
+Samuel Gigot,276896,Lazio,Centre-Back,,12/10/1993 (32),32,1.87,France,€1.50m,01/07/2025,30/06/2027,07/10/2025,['France'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/samuel-gigot/profil/spieler/276896,187.0
+Nuno Tavares,535955,Lazio,Left-Back,"               0
+0     Right-Back
+1  Left Midfield",26/01/2000 (25),25,1.83,Portugal,€20.00m,01/07/2025,30/06/2029,07/10/2025,"['Portugal', 'Cape Verde']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nuno-tavares/profil/spieler/535955,183.0
+Luca Pellegrini,346567,Lazio,Left-Back,"               0
+0  Left Midfield",07/03/1999 (26),26,1.78,Italy,€3.00m,01/07/2025,30/06/2027,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luca-pellegrini/profil/spieler/346567,178.0
+Dimitrije Kamenovic,465565,Lazio,Left-Back,"             0
+0  Centre-Back",16/07/2000 (25),25,1.89,Serbia,€300k,01/07/2021,30/06/2026,07/10/2025,"['Yugoslavia (Republic)', 'Serbia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dimitrije-kamenovic/profil/spieler/465565,189.0
+Manuel Lazzari,331401,Lazio,Right-Back,"                0
+0  Right Midfield
+1    Right Winger",29/11/1993 (31),31,1.74,Italy,€3.50m,12/07/2019,30/06/2027,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/manuel-lazzari/profil/spieler/331401,174.0
+Adam Marusic,239802,Lazio,Right-Back,"                0
+0       Left-Back
+1  Right Midfield",17/10/1992 (33),33,1.85,Montenegro,€3.50m,01/07/2017,30/06/2026,17/06/2025,"['Yugoslavia (Republic)', 'Montenegro', 'Serbia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adam-marusic/profil/spieler/239802,185.0
+Elseid Hysaj,200056,Lazio,Right-Back,"           0
+0  Left-Back",02/02/1994 (31),31,1.82,Albania,€1.50m,01/07/2021,30/06/2026,17/06/2025,['Albania'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/elseid-hysaj/profil/spieler/200056,182.0
+Nicolò Rovella,525704,Lazio,Defensive Midfield,"                  0
+0  Central Midfield",04/12/2001 (23),23,1.79,Italy,€30.00m,01/07/2025,30/06/2028,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nicolo-rovella/profil/spieler/525704,179.0
+Reda Belahyane,982855,Lazio,Defensive Midfield,"                  0
+0  Central Midfield",01/06/2004 (21),21,1.73,Morocco,€10.00m,03/02/2025,30/06/2029,17/06/2025,"['France', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/reda-belahyane/profil/spieler/982855,173.0
+Danilo Cataldi,199733,Lazio,Defensive Midfield,"                    0
+0  Attacking Midfield
+1    Central Midfield",06/08/1994 (31),31,1.8,Italy,€3.50m,01/07/2013,30/06/2027,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/danilo-cataldi/profil/spieler/199733,180.0
+Mattéo Guendouzi,465830,Lazio,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",14/04/1999 (26),26,1.85,France,€32.00m,01/07/2024,30/06/2028,17/06/2025,"['France', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/matteo-guendouzi/profil/spieler/465830,185.0
+Matías Vecino,143812,Lazio,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",24/08/1991 (34),34,1.87,Uruguay,€2.00m,01/08/2022,30/06/2026,17/06/2025,"['Uruguay', 'Italy']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/matias-vecino/profil/spieler/143812,187.0
+Toma Bašić,334835,Lazio,Central Midfield,"                    0
+0  Defensive Midfield",25/11/1996 (28),28,1.9,Croatia,€1.00m,25/08/2021,30/06/2026,07/10/2025,['Croatia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/toma-basic/profil/spieler/334835,190.0
+Fisayo Dele-Bashiru,530742,Lazio,Attacking Midfield,"                  0
+0  Central Midfield",06/02/2001 (24),24,1.86,Nigeria,€7.50m,01/07/2025,30/06/2028,17/06/2025,"['England', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/fisayo-dele-bashiru/profil/spieler/530742,186.0
+Mattia Zaccagni,283735,Lazio,Left Winger,"                    0
+0  Attacking Midfield
+1      Second Striker",16/06/1995 (30),30,1.77,Italy,€20.00m,01/07/2022,30/06/2029,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mattia-zaccagni/profil/spieler/283735,177.0
+Gustav Isaksen,462823,Lazio,Right Winger,"                0
+0     Left Winger
+1  Centre-Forward",19/04/2001 (24),24,1.81,Denmark,€20.00m,08/08/2023,30/06/2028,17/06/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gustav-isaksen/profil/spieler/462823,181.0
+Tijjani Noslin,457736,Lazio,Right Winger,"                0
+0  Centre-Forward
+1     Left Winger",07/07/1999 (26),26,1.78,Netherlands,€7.50m,01/07/2024,30/06/2029,17/06/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tijjani-noslin/profil/spieler/457736,178.0
+Matteo Cancellieri,550106,Lazio,Right Winger,"                0
+0     Left Winger
+1  Second Striker",12/02/2002 (23),23,1.85,Italy,€5.50m,01/07/2023,30/06/2027,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/matteo-cancellieri/profil/spieler/550106,185.0
+Pedro,65278,Lazio,Right Winger,"                    0
+0         Left Winger
+1  Attacking Midfield",28/07/1987 (38),38,1.67,Spain,€1.00m,19/08/2021,30/06/2026,17/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pedro/profil/spieler/65278,167.0
+Taty Castellanos,522784,Lazio,Centre-Forward,,03/10/1998 (27),27,1.78,Argentina,€25.00m,21/07/2023,30/06/2028,17/06/2025,['Argentina'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/taty-castellanos/profil/spieler/522784,178.0
+Boulaye Dia,626913,Lazio,Centre-Forward,"                0
+0  Second Striker
+1    Right Winger",16/11/1996 (29),29,1.8,Senegal,€15.00m,16/08/2024,30/06/2026,17/06/2025,"['France', 'Senegal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/boulaye-dia/profil/spieler/626913,180.0
+Zion Suzuki,432298,Parma,Goalkeeper,,21/08/2002 (23),23,1.9,Japan,€20.00m,15/07/2024,30/06/2029,17/06/2025,"['Japan', 'United States']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/zion-suzuki/profil/spieler/432298,190.0
+Vicente Guaita,64399,Parma,Goalkeeper,,10/01/1987 (38),38,1.9,Spain,€400k,22/11/2025,30/06/2026,21/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/vicente-guaita/profil/spieler/64399,190.0
+Edoardo Corvi,528181,Parma,Goalkeeper,,23/03/2001 (24),24,1.87,Italy,€350k,01/07/2020,30/06/2027,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/edoardo-corvi/profil/spieler/528181,187.0
+Filippo Rinaldi,604207,Parma,Goalkeeper,,04/12/2002 (22),22,1.88,Italy,€325k,01/10/2020,30/06/2029,19/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/filippo-rinaldi/profil/spieler/604207,188.0
+Gianluca Astaldi,979859,Parma,Goalkeeper,,10/04/2006 (19),19,1.91,Italy,€50k,01/07/2025,-,28/05/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gianluca-astaldi/profil/spieler/979859,191.0
+Alessandro Circati,867137,Parma,Centre-Back,"            0
+0  Right-Back",10/10/2003 (22),22,1.9,Australia,€8.00m,01/07/2022,30/06/2029,17/06/2025,"['Italy', 'Australia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alessandro-circati/profil/spieler/867137,190.0
+Abdoulaye Ndiaye,673514,Parma,Centre-Back,,10/04/2002 (23),23,1.95,Senegal,€7.00m,04/08/2025,30/06/2029,07/10/2025,['Senegal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/abdoulaye-ndiaye/profil/spieler/673514,195.0
+Mariano Troilo,1159864,Parma,Centre-Back,,28/06/2003 (22),22,1.94,Argentina,€6.50m,21/08/2025,30/06/2030,07/10/2025,['Argentina'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mariano-troilo/profil/spieler/1159864,194.0
+Lautaro Valenti,625202,Parma,Centre-Back,"           0
+0  Left-Back",14/01/1999 (26),26,1.88,Argentina,€1.50m,01/07/2021,30/06/2027,17/06/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lautaro-valenti/profil/spieler/625202,188.0
+Nicolas Trabucchi,1119655,Parma,Centre-Back,,17/08/2007 (18),18,1.85,Italy,€250k,04/07/2025,30/06/2028,21/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nicolas-trabucchi/profil/spieler/1119655,185.0
+Mathias Løvik,661212,Parma,Left-Back,"               0
+0  Left Midfield
+1     Right-Back",06/12/2003 (21),21,1.83,Norway,€5.00m,08/01/2025,30/06/2029,17/06/2025,['Norway'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mathias-lovik/profil/spieler/661212,183.0
+Emanuele Valeri,445126,Parma,Left-Back,"               0
+0  Left Midfield",07/12/1998 (26),26,1.8,Italy,€3.00m,01/07/2024,30/06/2028,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/emanuele-valeri/profil/spieler/445126,180.0
+Enrico Delprato,392956,Parma,Right-Back,"                0
+0     Centre-Back
+1  Right Midfield",10/11/1999 (26),26,1.83,Italy,€6.50m,01/07/2022,30/06/2027,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/enrico-delprato/profil/spieler/392956,183.0
+Sascha Britschgi,932187,Parma,Right-Back,"                0
+0       Left-Back
+1  Right Midfield",27/08/2006 (19),19,1.82,Switzerland,€2.50m,26/08/2025,30/06/2030,07/10/2025,"['Cameroon', 'Switzerland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sascha-britschgi/profil/spieler/932187,182.0
+Mandela Keita,707844,Parma,Defensive Midfield,,10/05/2002 (23),23,1.8,Belgium,€12.00m,30/08/2024,30/06/2029,17/06/2025,"['Guinea', 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mandela-keita/profil/spieler/707844,180.0
+Nahuel Estévez,552472,Parma,Defensive Midfield,"                  0
+0  Central Midfield",14/11/1995 (30),30,1.81,Argentina,€1.50m,02/07/2022,30/06/2026,07/10/2025,"['Spain', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nahuel-estevez/profil/spieler/552472,181.0
+Adrián Bernabé,466802,Parma,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",26/05/2001 (24),24,1.74,Spain,€15.00m,07/07/2021,30/06/2027,17/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adrian-bernabe/profil/spieler/466802,174.0
+Oliver Sørensen,514888,Parma,Central Midfield,"                0
+0  Right Midfield
+1   Left Midfield",10/03/2002 (23),23,1.84,Denmark,€8.00m,13/08/2025,30/06/2030,07/10/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/oliver-sorensen/profil/spieler/514888,184.0
+Christian Ordóñez,1043646,Parma,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",24/07/2004 (21),21,1.77,Argentina,€7.00m,01/07/2025,30/06/2030,02/06/2025,"['Paraguay', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/christian-ordonez/profil/spieler/1043646,177.0
+Benja Cremaschi,999127,Parma,Central Midfield,"                    0
+0  Attacking Midfield
+1      Right Midfield",02/03/2005 (20),20,1.8,United States,€5.00m,01/09/2025,30/06/2026,05/06/2025,"['Italy', 'United States']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/benja-cremaschi/profil/spieler/999127,180.0
+Hernani,181768,Parma,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",27/03/1994 (31),31,1.88,Brazil,€1.60m,01/09/2020,30/06/2026,17/06/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/hernani/profil/spieler/181768,188.0
+Gaetano Oristanio,613393,Parma,Attacking Midfield,"                0
+0  Second Striker
+1  Centre-Forward",28/09/2002 (23),23,1.74,Italy,€6.00m,28/08/2025,30/06/2026,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gaetano-oristanio/profil/spieler/613393,174.0
+Elia Plicco,1085031,Parma,Attacking Midfield,"                  0
+0  Central Midfield
+1       Left Winger",01/02/2007 (18),18,1.83,Italy,€400k,04/07/2025,30/06/2028,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/elia-plicco/profil/spieler/1085031,183.0
+Jacob Ondrejka,663237,Parma,Left Winger,"                    0
+0        Right Winger
+1  Attacking Midfield",02/09/2002 (23),23,1.79,Sweden,€8.00m,23/01/2025,30/06/2029,17/06/2025,['Sweden'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jacob-ondrejka/profil/spieler/663237,179.0
+Adrian Benedyczak,454386,Parma,Left Winger,"                    0
+0      Centre-Forward
+1  Attacking Midfield",24/11/2000 (25),25,1.91,Poland,€3.00m,01/07/2021,30/06/2028,07/10/2025,['Poland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adrian-benedyczak/profil/spieler/454386,191.0
+Tjas Begic,708186,Parma,Left Winger,"              0
+0  Right Winger",30/06/2003 (22),22,1.75,Slovenia,€700k,14/07/2023,30/06/2027,02/06/2025,['Slovenia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tjas-begic/profil/spieler/708186,175.0
+Pontus Almqvist,300532,Parma,Right Winger,"                0
+0     Left Winger
+1  Centre-Forward",10/07/1999 (26),26,1.83,Sweden,€2.50m,13/08/2024,30/06/2027,17/06/2025,['Sweden'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pontus-almqvist/profil/spieler/300532,183.0
+Matija Frigan,840149,Parma,Centre-Forward,"              0
+0  Right Winger",11/02/2003 (22),22,1.85,Croatia,€7.50m,15/08/2025,30/06/2030,12/06/2025,['Croatia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/matija-frigan/profil/spieler/840149,185.0
+Mateo Pellegrino,856530,Parma,Centre-Forward,,22/10/2001 (24),24,1.92,Argentina,€6.00m,03/02/2025,30/06/2029,17/06/2025,"['Spain', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mateo-pellegrino/profil/spieler/856530,192.0
+Patrick Cutrone,265078,Parma,Centre-Forward,,03/01/1998 (27),27,1.83,Italy,€6.00m,29/08/2025,30/06/2026,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/patrick-cutrone/profil/spieler/265078,183.0
+Milan Djuric,67556,Parma,Centre-Forward,,22/05/1990 (35),35,1.99,Bosnia-Herzegovina,€1.50m,22/01/2025,30/06/2026,17/06/2025,"['Jugoslawien (SFR)', 'Bosnia-Herzegovina', 'Italy']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/milan-djuric/profil/spieler/67556,199.0
+Franco Israel,492319,Torino,Goalkeeper,,22/04/2000 (25),25,1.9,Uruguay,€5.00m,27/07/2025,30/06/2028,30/05/2025,"['Uruguay', 'Italy']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/franco-israel/profil/spieler/492319,190.0
+Mihai Popa,623412,Torino,Goalkeeper,,12/10/2000 (25),25,1.9,Romania,€650k,01/07/2023,30/06/2026,10/06/2025,['Romania'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mihai-popa/profil/spieler/623412,190.0
+Alberto Paleari,163048,Torino,Goalkeeper,,29/08/1992 (33),33,1.93,Italy,€500k,19/07/2024,30/06/2027,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alberto-paleari/profil/spieler/163048,193.0
+Saúl Coco,588426,Torino,Centre-Back,"                  0
+0  Central Midfield
+1        Right-Back",09/02/1999 (26),26,1.87,Equatorial Guinea,€10.00m,17/07/2024,30/06/2028,17/06/2025,"['Spain', 'Equatorial Guinea']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/saul-coco/profil/spieler/588426,187.0
+Ardian Ismajli,435228,Torino,Centre-Back,"            0
+0  Right-Back",30/09/1996 (29),29,1.87,Albania,€6.00m,08/07/2025,30/06/2027,17/06/2025,"['Yugoslavia (Republic)', 'Kosovo', 'Albania']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ardian-ismajli/profil/spieler/435228,187.0
+Guillermo Maripán,249730,Torino,Centre-Back,,06/05/1994 (31),31,1.93,Chile,€4.00m,29/08/2024,30/06/2026,17/06/2025,['Chile'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/guillermo-maripan/profil/spieler/249730,193.0
+Perr Schuurs,418543,Torino,Centre-Back,,26/11/1999 (25),25,1.91,Netherlands,€2.50m,18/08/2022,30/06/2026,07/10/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/perr-schuurs/profil/spieler/418543,191.0
+Adam Masina,286949,Torino,Centre-Back,"               0
+0      Left-Back
+1  Left Midfield",02/01/1994 (31),31,1.91,Morocco,€1.50m,01/07/2024,30/06/2026,17/06/2025,"['Italy', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adam-masina/profil/spieler/286949,191.0
+Saba Sazonov,655456,Torino,Centre-Back,"                    0
+0  Defensive Midfield",01/02/2002 (23),23,1.94,Georgia,€1.50m,31/08/2023,30/06/2026,07/10/2025,"['Georgia', 'Russia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/saba-sazonov/profil/spieler/655456,194.0
+Niels Nkounkou,591193,Torino,Left-Back,"               0
+0  Left Midfield",01/11/2000 (25),25,1.8,France,€3.50m,01/09/2025,30/06/2026,05/06/2025,"['France', 'Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/niels-nkounkou/profil/spieler/591193,180.0
+Cristiano Biraghi,124555,Torino,Left-Back,"               0
+0  Left Midfield
+1    Centre-Back",01/09/1992 (33),33,1.85,Italy,€1.80m,01/07/2025,30/06/2027,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/cristiano-biraghi/profil/spieler/124555,185.0
+Valentino Lazaro,186368,Torino,Right-Back,"                0
+0   Left Midfield
+1  Right Midfield",24/03/1996 (29),29,1.81,Austria,€4.50m,23/08/2023,30/06/2026,17/06/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/valentino-lazaro/profil/spieler/186368,181.0
+Marcus Pedersen,583404,Torino,Right-Back,"                0
+0  Right Midfield
+1       Left-Back",16/07/2000 (25),25,1.84,Norway,€3.00m,01/07/2025,30/06/2027,17/06/2025,['Norway'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marcus-pedersen/profil/spieler/583404,184.0
+Ali Dembélé,1004344,Torino,Right-Back,"                0
+0     Centre-Back
+1  Right Midfield",05/01/2004 (21),21,1.89,France,€900k,01/07/2023,30/06/2028,17/06/2025,"['France', 'Mali']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ali-dembele/profil/spieler/1004344,189.0
+Kristjan Asllani,543771,Torino,Defensive Midfield,"                    0
+0    Central Midfield
+1  Attacking Midfield",09/03/2002 (23),23,1.79,Albania,€13.00m,25/08/2025,30/06/2026,17/06/2025,"['Albania', 'Italy']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kristjan-asllani/profil/spieler/543771,179.0
+Adrien Tamèze,157507,Torino,Defensive Midfield,"                  0
+0  Central Midfield
+1       Centre-Back",04/02/1994 (31),31,1.82,France,€2.00m,23/07/2023,30/06/2026,17/06/2025,"['France', 'Cameroon']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adrien-tameze/profil/spieler/157507,182.0
+Cesare Casadei,622380,Torino,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",10/01/2003 (22),22,1.92,Italy,€15.00m,02/02/2025,30/06/2029,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/cesare-casadei/profil/spieler/622380,192.0
+Ivan Ilić,470794,Torino,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",17/03/2001 (24),24,1.86,Serbia,€13.00m,01/07/2023,30/06/2027,07/10/2025,"['Yugoslavia (Republic)', 'Serbia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ivan-ilic/profil/spieler/470794,186.0
+Gvidas Gineitis,798929,Torino,Central Midfield,"                    0
+0  Attacking Midfield",15/04/2004 (21),21,1.91,Lithuania,€6.00m,02/01/2023,30/06/2029,17/06/2025,['Lithuania'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gvidas-gineitis/profil/spieler/798929,191.0
+Emirhan İlkhan,743091,Torino,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",01/06/2004 (21),21,1.75,Türkiye,€1.70m,08/08/2022,30/06/2026,17/06/2025,['Türkiye'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/emirhan-ilkhan/profil/spieler/743091,175.0
+Nikola Vlašić,293200,Torino,Attacking Midfield,"                  0
+0  Central Midfield
+1    Second Striker",04/10/1997 (28),28,1.79,Croatia,€8.00m,08/08/2023,30/06/2027,17/06/2025,['Croatia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nikola-vlasic/profil/spieler/293200,179.0
+Tino Anjorin,433181,Torino,Attacking Midfield,"                    0
+0    Central Midfield
+1  Defensive Midfield",23/11/2001 (24),24,1.86,England,€6.00m,04/07/2025,30/06/2026,17/06/2025,"['England', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tino-anjorin/profil/spieler/433181,186.0
+Sergiu Perciun,980632,Torino,Attacking Midfield,"                  0
+0       Left Winger
+1  Central Midfield",23/04/2006 (19),19,1.85,Moldova,€1.50m,15/04/2025,30/06/2029,17/06/2025,"['Moldova', 'Romania']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sergiu-perciun/profil/spieler/980632,185.0
+Alieu Njie,934527,Torino,Left Winger,"                0
+0  Second Striker
+1  Centre-Forward",14/05/2005 (20),20,1.85,Sweden,€2.50m,01/07/2024,30/06/2029,17/06/2025,"['The Gambia', 'Sweden']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alieu-njie/profil/spieler/934527,185.0
+Zakaria Aboukhlal,393238,Torino,Right Winger,"                0
+0     Left Winger
+1  Second Striker",18/02/2000 (25),25,1.79,Morocco,€12.00m,29/07/2025,30/06/2029,03/06/2025,"['Netherlands', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/zakaria-aboukhlal/profil/spieler/393238,179.0
+Cyril Ngonge,358032,Torino,Right Winger,"                0
+0  Centre-Forward
+1  Second Striker",26/05/2000 (25),25,1.8,Belgium,€8.00m,24/07/2025,30/06/2026,17/06/2025,"['DR Congo', 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/cyril-ngonge/profil/spieler/358032,180.0
+Zanos Savva,928900,Torino,Right Winger,"                0
+0  Second Striker
+1  Centre-Forward",26/11/2005 (19),19,1.91,Cyprus,€200k,01/07/2024,30/06/2026,07/10/2025,['Cyprus'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/zanos-savva/profil/spieler/928900,191.0
+Ché Adams,346779,Torino,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",13/07/1996 (29),29,1.79,Scotland,€10.00m,23/07/2024,30/06/2027,07/10/2025,"['England', 'Scotland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/che-adams/profil/spieler/346779,179.0
+Giovanni Simeone,282388,Torino,Centre-Forward,,05/07/1995 (30),30,1.8,Argentina,€5.00m,07/08/2025,30/06/2026,17/06/2025,"['Spain', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/giovanni-simeone/profil/spieler/282388,180.0
+Duván Zapata,73794,Torino,Centre-Forward,,01/04/1991 (34),34,1.88,Colombia,€3.50m,01/07/2024,30/06/2027,17/06/2025,['Colombia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/duvan-zapata/profil/spieler/73794,188.0
+Maduka Okoye,340353,Udinese,Goalkeeper,,28/08/1999 (26),26,1.98,Nigeria,€7.50m,24/08/2023,30/06/2028,17/06/2025,"['Germany', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/maduka-okoye/profil/spieler/340353,198.0
+Răzvan Sava,568617,Udinese,Goalkeeper,,21/06/2002 (23),23,1.97,Romania,€2.50m,23/08/2024,30/06/2029,17/06/2025,['Romania'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/razvan-sava/profil/spieler/568617,197.0
+Alessandro Nunziante,956588,Udinese,Goalkeeper,,14/03/2007 (18),18,1.95,Italy,€1.80m,29/07/2025,30/06/2030,19/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alessandro-nunziante/profil/spieler/956588,195.0
+Daniele Padelli,27807,Udinese,Goalkeeper,,25/10/1985 (40),40,1.91,Italy,€150k,01/07/2021,30/06/2026,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/daniele-padelli/profil/spieler/27807,191.0
+Oumar Solet,463665,Udinese,Centre-Back,"                    0
+0  Defensive Midfield",07/02/2000 (25),25,1.92,France,€18.00m,02/01/2025,30/06/2027,17/06/2025,"['France', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/oumar-solet/profil/spieler/463665,192.0
+Thomas Kristensen,698259,Udinese,Centre-Back,,17/01/2002 (23),23,1.98,Denmark,€9.00m,01/09/2023,30/06/2028,07/10/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/thomas-kristensen/profil/spieler/698259,198.0
+Saba Goglichidze,906160,Udinese,Centre-Back,"            0
+0  Right-Back",25/06/2004 (21),21,1.92,Georgia,€6.00m,05/08/2025,30/06/2030,07/10/2025,['Georgia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/saba-goglichidze/profil/spieler/906160,192.0
+Nicolò Bertola,632831,Udinese,Centre-Back,,23/03/2003 (22),22,1.92,Italy,€6.00m,01/07/2025,30/06/2030,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nicolo-bertola/profil/spieler/632831,192.0
+Matteo Palma,1058354,Udinese,Centre-Back,,13/03/2008 (17),17,1.94,Germany,€2.50m,01/07/2024,30/06/2027,07/10/2025,"['Italy', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/matteo-palma/profil/spieler/1058354,194.0
+Christian Kabasele,81512,Udinese,Centre-Back,,24/02/1991 (34),34,1.87,Belgium,€700k,25/07/2023,30/06/2026,17/06/2025,"['DR Congo', 'Zaire', 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/christian-kabasele/profil/spieler/81512,187.0
+Jordan Zemura,633530,Udinese,Left-Back,"               0
+0  Left Midfield",14/11/1999 (26),26,1.73,Zimbabwe,€4.50m,01/07/2023,30/06/2027,17/06/2025,"['England', 'Zimbabwe']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jordan-zemura/profil/spieler/633530,173.0
+Hassane Kamara,290017,Udinese,Left-Back,"               0
+0  Left Midfield
+1     Right-Back",05/03/1994 (31),31,1.7,Cote d'Ivoire,€3.50m,22/08/2022,30/06/2026,17/06/2025,"['France', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/hassane-kamara/profil/spieler/290017,170.0
+Alessandro Zanoli,397225,Udinese,Right-Back,"                0
+0     Centre-Back
+1  Right Midfield",03/10/2000 (25),25,1.88,Italy,€5.00m,01/09/2025,30/06/2026,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alessandro-zanoli/profil/spieler/397225,188.0
+Kingsley Ehizibue,272812,Udinese,Right-Back,"                0
+0  Right Midfield
+1    Right Winger",25/05/1995 (30),30,1.89,Netherlands,€2.40m,29/08/2022,30/06/2026,17/06/2025,"['Germany', 'Nigeria', 'Netherlands']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kingsley-ehizibue/profil/spieler/272812,189.0
+Rui Modesto,671799,Udinese,Right-Back,"                0
+0  Right Midfield
+1   Left Midfield",07/10/1999 (26),26,1.81,Angola,€2.00m,30/08/2024,30/06/2029,17/06/2025,"['Angola', 'Portugal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rui-modesto/profil/spieler/671799,181.0
+Jesper Karlström,222855,Udinese,Defensive Midfield,"                    0
+0    Central Midfield
+1  Attacking Midfield",21/06/1995 (30),30,1.85,Sweden,€4.00m,03/08/2024,30/06/2026,17/06/2025,['Sweden'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jesper-karlstrom/profil/spieler/222855,185.0
+Abdoulaye Camara,1210116,Udinese,Defensive Midfield,"                  0
+0  Central Midfield
+1       Centre-Back",28/09/2008 (17),17,1.88,France,€800k,16/07/2025,30/06/2029,07/10/2025,"['Guinea', 'France']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/abdoulaye-camara/profil/spieler/1210116,188.0
+Arthur Atta,855308,Udinese,Central Midfield,"                    0
+0  Defensive Midfield
+1      Right Midfield",14/01/2003 (22),22,1.89,France,€12.00m,01/07/2025,30/06/2029,07/10/2025,"['France', 'Benin']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/arthur-atta/profil/spieler/855308,189.0
+Sandi Lovrić,268429,Udinese,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",28/03/1998 (27),27,1.8,Slovenia,€8.50m,01/07/2022,30/06/2027,17/06/2025,"['Austria', 'Slovenia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sandi-lovric/profil/spieler/268429,180.0
+Lennon Miller,924857,Udinese,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",25/08/2006 (19),19,1.82,Scotland,€8.00m,12/08/2025,30/06/2030,17/06/2025,['Scotland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lennon-miller/profil/spieler/924857,182.0
+Jurgen Ekkelenkamp,361068,Udinese,Central Midfield,"                    0
+0  Attacking Midfield
+1      Right Midfield",05/04/2000 (25),25,1.88,Netherlands,€7.00m,06/08/2024,30/06/2029,17/06/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jurgen-ekkelenkamp/profil/spieler/361068,188.0
+Jakub Piotrowski,377243,Udinese,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",04/10/1997 (28),28,1.88,Poland,€4.50m,02/08/2025,30/06/2029,02/06/2025,['Poland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jakub-piotrowski/profil/spieler/377243,188.0
+Oier Zarraga,524010,Udinese,Central Midfield,"                    0
+0  Attacking Midfield
+1        Right Winger",04/01/1999 (26),26,1.75,Spain,€2.00m,01/07/2023,30/06/2027,17/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/oier-zarraga/profil/spieler/524010,175.0
+Nicolò Zaniolo,392085,Udinese,Attacking Midfield,"                0
+0    Right Winger
+1  Centre-Forward",02/07/1999 (26),26,1.9,Italy,€12.00m,01/09/2025,30/06/2026,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nicolo-zaniolo/profil/spieler/392085,190.0
+Iker Bravo,741292,Udinese,Centre-Forward,"                0
+0  Second Striker
+1     Left Winger",13/01/2005 (20),20,1.82,Spain,€5.00m,31/07/2024,30/06/2028,07/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/iker-bravo/profil/spieler/741292,182.0
+Adam Buksa,267160,Udinese,Centre-Forward,,12/07/1996 (29),29,1.91,Poland,€5.00m,26/08/2025,30/06/2029,07/10/2025,['Poland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adam-buksa/profil/spieler/267160,191.0
+Idrissa Gueye,1178488,Udinese,Centre-Forward,"                0
+0  Second Striker
+1    Right Winger",16/09/2006 (19),19,1.85,Senegal,€4.00m,01/09/2025,30/06/2026,02/06/2025,['Senegal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/idrissa-gueye/profil/spieler/1178488,185.0
+Keinan Davis,412660,Udinese,Centre-Forward,"                0
+0  Second Striker",13/02/1998 (27),27,1.89,England,€4.00m,01/09/2023,30/06/2027,07/10/2025,"['England', 'Jamaica']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/keinan-davis/profil/spieler/412660,189.0
+Vakoun Bayo,375877,Udinese,Centre-Forward,,10/01/1997 (28),28,1.84,Cote d'Ivoire,€4.00m,29/08/2024,30/06/2028,27/05/2025,"[""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/vakoun-bayo/profil/spieler/375877,184.0
+Arijanet Murić,371021,Sassuolo,Goalkeeper,,07/11/1998 (27),27,1.98,Kosovo,€7.50m,13/08/2025,30/06/2026,07/10/2025,"['Montenegro', 'Switzerland', 'Kosovo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/arijanet-muric/profil/spieler/371021,198.0
+Stefano Turati,543666,Sassuolo,Goalkeeper,,05/09/2001 (24),24,1.88,Italy,€4.50m,01/10/2019,30/06/2028,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/stefano-turati/profil/spieler/543666,188.0
+Gioele Zacchi,659648,Sassuolo,Goalkeeper,,10/07/2003 (22),22,1.85,Italy,€600k,-,30/06/2027,19/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gioele-zacchi/profil/spieler/659648,185.0
+Giacomo Satalino,323255,Sassuolo,Goalkeeper,,20/05/1999 (26),26,1.88,Italy,€400k,01/07/2018,30/06/2026,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/giacomo-satalino/profil/spieler/323255,188.0
+Jay Idzes,546926,Sassuolo,Centre-Back,"                    0
+0    Central Midfield
+1  Defensive Midfield",02/06/2000 (25),25,1.9,Indonesia,€7.50m,09/08/2025,30/06/2029,17/06/2025,"['Indonesia', 'Netherlands']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jay-idzes/profil/spieler/546926,190.0
+Tarik Muharemović,679423,Sassuolo,Centre-Back,,28/02/2003 (22),22,1.87,Bosnia-Herzegovina,€7.00m,01/07/2025,30/06/2031,02/06/2025,"['Bosnia-Herzegovina', 'Slovenia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tarik-muharemovic/profil/spieler/679423,187.0
+Sebastian Walukiewicz,345458,Sassuolo,Centre-Back,"            0
+0  Right-Back",05/04/2000 (25),25,1.88,Poland,€4.50m,25/07/2025,30/06/2026,17/06/2025,['Poland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sebastian-walukiewicz/profil/spieler/345458,188.0
+Fali Candé,520530,Sassuolo,Centre-Back,"               0
+0      Left-Back
+1  Left Midfield",24/01/1998 (27),27,1.84,Guinea-Bissau,€2.50m,10/08/2025,30/06/2029,17/06/2025,"['Portugal', 'Guinea-Bissau']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/fali-cande/profil/spieler/520530,184.0
+Cas Odenthal,406632,Sassuolo,Centre-Back,,26/09/2000 (25),25,1.9,Netherlands,€2.40m,30/07/2024,30/06/2027,07/10/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/cas-odenthal/profil/spieler/406632,190.0
+Filippo Romagna,256678,Sassuolo,Centre-Back,"                    0
+0  Defensive Midfield",26/05/1997 (28),28,1.86,Italy,€800k,17/09/2020,30/06/2026,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/filippo-romagna/profil/spieler/256678,186.0
+Josh Doig,567129,Sassuolo,Left-Back,"               0
+0  Left Midfield",18/05/2002 (23),23,1.89,Scotland,€5.00m,20/01/2024,30/06/2028,02/06/2025,['Scotland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/josh-doig/profil/spieler/567129,189.0
+Edoardo Pieragnolo,691825,Sassuolo,Left-Back,,03/01/2003 (22),22,1.84,Italy,€2.40m,01/07/2023,30/06/2029,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/edoardo-pieragnolo/profil/spieler/691825,184.0
+Woyo Coulibaly,592975,Sassuolo,Right-Back,"                0
+0       Left-Back
+1  Right Midfield",26/05/1999 (26),26,1.82,Mali,€2.00m,01/09/2025,30/06/2026,30/05/2025,"['France', 'Mali']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/woyo-coulibaly/profil/spieler/592975,182.0
+Yeferson Paz,655525,Sassuolo,Right-Back,"                0
+0  Right Midfield
+1   Left Midfield",13/06/2002 (23),23,1.76,Colombia,€450k,01/07/2022,30/06/2027,02/06/2025,['Colombia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yeferson-paz/profil/spieler/655525,176.0
+Daniel Boloca,441515,Sassuolo,Defensive Midfield,"                  0
+0  Central Midfield",22/12/1998 (26),26,1.85,Italy,€6.50m,13/07/2023,30/06/2028,07/10/2025,"['Italy', 'Romania']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/daniel-boloca/profil/spieler/441515,185.0
+Luca Lipani,724106,Sassuolo,Defensive Midfield,"                  0
+0  Central Midfield",18/05/2005 (20),20,1.85,Italy,€4.50m,08/08/2023,30/06/2028,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luca-lipani/profil/spieler/724106,185.0
+Nemanja Matić,74683,Sassuolo,Defensive Midfield,"                  0
+0  Central Midfield",01/08/1988 (37),37,1.94,Serbia,€2.00m,26/08/2025,30/06/2026,03/06/2025,"['Jugoslawien (SFR)', 'Slovakia', 'Serbia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nemanja-matic/profil/spieler/74683,194.0
+Ismaël Koné,921655,Sassuolo,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",16/06/2002 (23),23,1.88,Canada,€12.00m,29/07/2025,30/06/2026,07/10/2025,"[""Cote d'Ivoire"", 'Canada']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ismael-kone/profil/spieler/921655,188.0
+Kristian Thorstvedt,564785,Sassuolo,Central Midfield,"                    0
+0  Attacking Midfield",13/03/1999 (26),26,1.89,Norway,€9.00m,12/07/2022,30/06/2027,02/06/2025,['Norway'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kristian-thorstvedt/profil/spieler/564785,189.0
+Aster Vranckx,503881,Sassuolo,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",04/10/2002 (23),23,1.83,Belgium,€7.00m,22/08/2025,30/06/2026,05/06/2025,"['DR Congo', 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/aster-vranckx/profil/spieler/503881,183.0
+Edoardo Iannoni,700053,Sassuolo,Central Midfield,,11/04/2001 (24),24,1.85,Italy,€750k,23/08/2024,30/06/2028,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/edoardo-iannoni/profil/spieler/700053,185.0
+Cristian Volpato,746891,Sassuolo,Attacking Midfield,"                0
+0  Right Midfield
+1    Right Winger",15/11/2003 (22),22,1.87,Italy,€6.50m,01/07/2023,30/06/2028,02/06/2025,"['Italy', 'Australia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/cristian-volpato/profil/spieler/746891,187.0
+Armand Laurienté,579930,Sassuolo,Left Winger,"                0
+0    Right Winger
+1  Centre-Forward",04/12/1998 (26),26,1.71,France,€15.00m,31/08/2022,30/06/2027,02/06/2025,"['France', 'Guadeloupe']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/armand-lauriente/profil/spieler/579930,171.0
+Alieu Fadera,749552,Sassuolo,Left Winger,"                    0
+0  Attacking Midfield
+1      Centre-Forward",03/11/2001 (24),24,1.82,The Gambia,€4.50m,28/07/2025,30/06/2026,17/06/2025,['The Gambia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alieu-fadera/profil/spieler/749552,182.0
+Domenico Berardi,177843,Sassuolo,Right Winger,"                0
+0  Second Striker",01/08/1994 (31),31,1.83,Italy,€8.00m,01/07/2015,30/06/2029,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/domenico-berardi/profil/spieler/177843,183.0
+Nicholas Pierini,372720,Sassuolo,Right Winger,"                0
+0     Left Winger
+1  Centre-Forward",06/08/1998 (27),27,1.76,Italy,€3.00m,30/08/2024,30/06/2027,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nicholas-pierini/profil/spieler/372720,176.0
+Andrea Pinamonti,315865,Sassuolo,Centre-Forward,,19/05/1999 (26),26,1.85,Italy,€15.00m,01/07/2023,30/06/2027,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/andrea-pinamonti/profil/spieler/315865,185.0
+Laurs Skjellerup,655207,Sassuolo,Centre-Forward,"                0
+0  Right Midfield",12/08/2002 (23),23,1.95,Denmark,€2.80m,20/01/2025,30/06/2029,02/06/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/laurs-skjellerup/profil/spieler/655207,195.0
+Walid Cheddira,521407,Sassuolo,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",22/01/1998 (27),27,1.87,Morocco,€2.50m,01/09/2025,30/06/2026,09/06/2025,"['Italy', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/walid-cheddira/profil/spieler/521407,187.0
+Luca Moro,600936,Sassuolo,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",25/01/2001 (24),24,1.89,Italy,€2.00m,31/01/2022,30/06/2027,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luca-moro/profil/spieler/600936,189.0
+Nicola Leali,136111,Genoa,Goalkeeper,,17/02/1993 (32),32,1.93,Italy,€1.50m,05/07/2023,30/06/2026,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nicola-leali/profil/spieler/136111,193.0
+Benjamin Siegrist,111426,Genoa,Goalkeeper,,31/01/1992 (33),33,1.96,Switzerland,€650k,28/01/2025,30/06/2026,17/06/2025,['Switzerland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/benjamin-siegrist/profil/spieler/111426,196.0
+Ernestas Lysionok,874967,Genoa,Goalkeeper,,09/03/2007 (18),18,,Lithuania,€200k,01/07/2025,30/06/2028,07/10/2025,['Lithuania'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ernestas-lysionok/profil/spieler/874967,
+Daniele Sommariva,312773,Genoa,Goalkeeper,,18/07/1997 (28),28,1.85,Italy,€100k,05/07/2023,30/06/2026,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/daniele-sommariva/profil/spieler/312773,185.0
+Johan Vásquez,532937,Genoa,Centre-Back,"           0
+0  Left-Back",22/10/1998 (27),27,1.85,Mexico,€14.00m,03/01/2022,30/06/2028,17/06/2025,['Mexico'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/johan-vasquez/profil/spieler/532937,185.0
+Leo Østigård,367284,Genoa,Centre-Back,,28/11/1999 (25),25,1.83,Norway,€8.50m,29/07/2025,30/06/2026,07/10/2025,['Norway'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/leo-ostigard/profil/spieler/367284,183.0
+Alessandro Marcandalli,818448,Genoa,Centre-Back,,25/10/2002 (23),23,1.9,Italy,€2.00m,-,30/06/2029,17/06/2025,"['Italy', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alessandro-marcandalli/profil/spieler/818448,190.0
+Sebastian Otoa,890385,Genoa,Centre-Back,,13/05/2004 (21),21,1.98,Denmark,€2.00m,16/01/2025,30/06/2028,17/06/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sebastian-otoa/profil/spieler/890385,198.0
+Aarón Martín,251878,Genoa,Left-Back,"               0
+0  Left Midfield",22/04/1997 (28),28,1.78,Spain,€6.50m,03/07/2023,30/06/2026,17/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/aaron-martin/profil/spieler/251878,178.0
+Brooke Norton-Cuffy,728733,Genoa,Right-Back,"                0
+0  Right Midfield",12/01/2004 (21),21,1.81,England,€10.00m,14/08/2024,30/06/2029,07/10/2025,"['England', 'Dominica']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/brooke-norton-cuffy/profil/spieler/728733,181.0
+Stefano Sabelli,167491,Genoa,Right-Back,"                0
+0  Right Midfield
+1       Left-Back",13/01/1993 (32),32,1.76,Italy,€1.40m,20/07/2021,30/06/2026,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/stefano-sabelli/profil/spieler/167491,176.0
+Jean Onana,656441,Genoa,Defensive Midfield,"                  0
+0  Central Midfield",08/01/2000 (25),25,1.89,Cameroon,€1.80m,01/09/2025,30/06/2026,17/06/2025,['Cameroon'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jean-onana/profil/spieler/656441,189.0
+Morten Frendrup,503871,Genoa,Central Midfield,"                    0
+0  Defensive Midfield
+1       Left Midfield",07/04/2001 (24),24,1.78,Denmark,€20.00m,30/01/2022,30/06/2028,17/06/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/morten-frendrup/profil/spieler/503871,178.0
+Patrizio Masini,459665,Genoa,Central Midfield,"                    0
+0  Defensive Midfield
+1      Right Midfield",27/01/2001 (24),24,1.82,Italy,€6.00m,01/09/2020,30/06/2028,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/patrizio-masini/profil/spieler/459665,182.0
+Mikael Egill Ellertsson,566615,Genoa,Central Midfield,"                0
+0  Right Midfield
+1   Left Midfield",11/03/2002 (23),23,1.82,Iceland,€3.40m,30/01/2025,30/06/2029,17/06/2025,"['Iceland', 'Indonesia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mikael-egill-ellertsson/profil/spieler/566615,182.0
+Morten Thorsby,226524,Genoa,Central Midfield,"                    0
+0  Attacking Midfield
+1       Left Midfield",05/05/1996 (29),29,1.88,Norway,€3.00m,01/07/2024,30/06/2026,17/06/2025,['Norway'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/morten-thorsby/profil/spieler/226524,188.0
+Valentín Carboni,787618,Genoa,Attacking Midfield,"                0
+0  Second Striker
+1    Right Winger",05/03/2005 (20),20,1.85,Argentina,€12.00m,18/07/2025,30/06/2026,17/06/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/valentin-carboni/profil/spieler/787618,185.0
+Albert Grønbæk,503866,Genoa,Attacking Midfield,"                  0
+0       Left Winger
+1  Central Midfield",23/05/2001 (24),24,1.81,Denmark,€9.50m,01/07/2025,30/06/2026,07/10/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/albert-gronbaek/profil/spieler/503866,181.0
+Nicolae Stanciu,148372,Genoa,Attacking Midfield,"                  0
+0  Central Midfield
+1    Right Midfield",07/05/1993 (32),32,1.7,Romania,€3.00m,01/07/2025,30/06/2027,07/10/2025,['Romania'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nicolae-stanciu/profil/spieler/148372,170.0
+Ruslan Malinovskyi,207877,Genoa,Attacking Midfield,"                  0
+0  Central Midfield
+1    Second Striker",04/05/1993 (32),32,1.81,Ukraine,€2.50m,31/01/2024,30/06/2027,17/06/2025,['Ukraine'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ruslan-malinovskyi/profil/spieler/207877,181.0
+Hugo Cuenca,906315,Genoa,Attacking Midfield,"                0
+0  Right Midfield
+1    Right Winger",08/01/2005 (20),20,1.83,Paraguay,€300k,03/02/2025,30/06/2028,17/06/2025,"['Spain', 'Paraguay']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/hugo-cuenca/profil/spieler/906315,183.0
+Maxwel Cornet,234781,Genoa,Left Winger,"               0
+0   Right Winger
+1  Left Midfield",27/09/1996 (29),29,1.79,Cote d'Ivoire,€8.00m,01/09/2025,30/06/2026,17/06/2025,"['France', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/maxwel-cornet/profil/spieler/234781,179.0
+Junior Messias,449151,Genoa,Right Winger,"                  0
+0    Second Striker
+1  Central Midfield",13/05/1991 (34),34,1.74,Brazil,€1.50m,13/01/2024,30/06/2026,17/06/2025,"['Italy', 'Brazil']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/junior-messias/profil/spieler/449151,174.0
+Lorenzo Venturino,1061820,Genoa,Right Winger,"                0
+0  Right Midfield
+1     Left Winger",22/06/2006 (19),19,1.84,Italy,€1.50m,15/01/2025,30/06/2029,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lorenzo-venturino/profil/spieler/1061820,184.0
+Seydou Fini,866250,Genoa,Right Winger,"                0
+0  Second Striker
+1     Left Winger",02/06/2006 (19),19,1.78,Italy,€1.30m,-,30/06/2028,09/06/2025,"['Italy', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/seydou-fini/profil/spieler/866250,178.0
+Vitinha,586853,Genoa,Centre-Forward,"             0
+0  Left Winger",15/03/2000 (25),25,1.78,Portugal,€8.00m,01/07/2024,30/06/2028,17/06/2025,['Portugal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/vitinha/profil/spieler/586853,178.0
+Jeff Ekhator,934878,Genoa,Centre-Forward,"                0
+0  Second Striker
+1     Left Winger",11/11/2006 (19),19,1.88,Italy,€7.00m,01/07/2024,30/06/2029,07/10/2025,"['Italy', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jeff-ekhator/profil/spieler/934878,188.0
+Lorenzo Colombo,487843,Genoa,Centre-Forward,,08/03/2002 (23),23,1.83,Italy,€5.00m,28/07/2025,30/06/2026,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lorenzo-colombo/profil/spieler/487843,183.0
+Caleb Ekuban,199953,Genoa,Centre-Forward,"                0
+0  Second Striker
+1    Right Winger",23/03/1994 (31),31,1.82,Ghana,€1.30m,10/08/2021,30/06/2026,17/06/2025,"['Ghana', 'Italy']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/caleb-ekuban/profil/spieler/199953,182.0
+Elia Caprile,421873,Cagliari,Goalkeeper,,25/08/2001 (24),24,1.91,Italy,€11.00m,01/07/2025,30/06/2029,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/elia-caprile/profil/spieler/421873,191.0
+Boris Radunović,258482,Cagliari,Goalkeeper,,26/05/1996 (29),29,1.94,Serbia,€800k,14/07/2021,30/06/2027,02/06/2025,"['Yugoslavia (Republic)', 'Serbia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/boris-radunovic/profil/spieler/258482,194.0
+Giuseppe Ciocci,535740,Cagliari,Goalkeeper,,24/01/2002 (23),23,1.93,Italy,€100k,01/07/2021,30/06/2027,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/giuseppe-ciocci/profil/spieler/535740,193.0
+Sebastiano Luperto,278531,Cagliari,Centre-Back,"           0
+0  Left-Back",06/09/1996 (29),29,1.91,Italy,€4.00m,08/07/2024,30/06/2028,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sebastiano-luperto/profil/spieler/278531,191.0
+Juan Rodríguez,1228231,Cagliari,Centre-Back,"           0
+0  Left-Back",30/05/2005 (20),20,1.9,Uruguay,€3.00m,01/09/2025,30/06/2030,07/10/2025,['Uruguay'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/juan-rodriguez/profil/spieler/1228231,190.0
+Yerry Mina,289446,Cagliari,Centre-Back,,23/09/1994 (31),31,1.95,Colombia,€3.00m,01/02/2024,30/06/2028,17/06/2025,['Colombia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yerry-mina/profil/spieler/289446,195.0
+Zé Pedro,406151,Cagliari,Centre-Back,"            0
+0  Right-Back",06/06/1997 (28),28,1.87,Portugal,€3.00m,01/09/2025,30/06/2028,07/10/2025,['Portugal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ze-pedro/profil/spieler/406151,187.0
+Adam Obert,568333,Cagliari,Centre-Back,"           0
+0  Left-Back",23/08/2002 (23),23,1.88,Slovakia,€3.00m,01/07/2021,30/06/2029,17/06/2025,['Slovakia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adam-obert/profil/spieler/568333,188.0
+Nicola Pintus,885230,Cagliari,Centre-Back,,25/05/2005 (20),20,1.89,Italy,€400k,01/07/2025,30/06/2029,27/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nicola-pintus/profil/spieler/885230,189.0
+Riyad Idrissi,885226,Cagliari,Left-Back,"               0
+0  Left Midfield",13/06/2005 (20),20,1.82,Italy,€1.50m,-,30/06/2030,07/10/2025,"['Italy', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/riyad-idrissi/profil/spieler/885226,182.0
+Marco Palestra,895937,Cagliari,Right-Back,"                0
+0  Right Midfield
+1   Left Midfield",03/03/2005 (20),20,1.86,Italy,€8.50m,26/08/2025,30/06/2026,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marco-palestra/profil/spieler/895937,186.0
+Gabriele Zappa,392569,Cagliari,Right-Back,"                0
+0  Right Midfield
+1     Centre-Back",22/12/1999 (25),25,1.87,Italy,€4.00m,01/07/2021,30/06/2030,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gabriele-zappa/profil/spieler/392569,187.0
+Alessandro Di Pardo,457674,Cagliari,Right-Back,"                  0
+0    Right Midfield
+1  Central Midfield",18/07/1999 (26),26,1.82,Italy,€800k,01/07/2023,30/06/2026,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alessandro-di-pardo/profil/spieler/457674,182.0
+Matteo Prati,876298,Cagliari,Defensive Midfield,"                  0
+0  Central Midfield",28/12/2003 (21),21,1.85,Italy,€6.00m,17/08/2023,30/06/2028,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/matteo-prati/profil/spieler/876298,185.0
+Michel Adopo,564305,Cagliari,Central Midfield,"                    0
+0  Defensive Midfield",19/07/2000 (25),25,1.87,France,€6.00m,01/07/2025,30/06/2029,07/10/2025,"['France', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/michel-adopo/profil/spieler/564305,187.0
+Michael Folorunsho,377042,Cagliari,Central Midfield,"                    0
+0       Left Midfield
+1  Attacking Midfield",07/02/1998 (27),27,1.9,Italy,€6.00m,24/07/2025,30/06/2026,17/06/2025,"['Italy', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/michael-folorunsho/profil/spieler/377042,190.0
+Alessandro Deiola,235931,Cagliari,Central Midfield,"                    0
+0  Defensive Midfield",01/08/1995 (30),30,1.9,Italy,€1.60m,01/07/2014,30/06/2029,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alessandro-deiola/profil/spieler/235931,190.0
+Luca Mazzitelli,226025,Cagliari,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",15/11/1995 (30),30,1.84,Italy,€1.50m,30/07/2025,30/06/2026,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luca-mazzitelli/profil/spieler/226025,184.0
+Marko Rog,317482,Cagliari,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",19/07/1995 (30),30,1.8,Croatia,€750k,01/09/2020,30/06/2026,09/06/2025,['Croatia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marko-rog/profil/spieler/317482,180.0
+Joseph Liteta,1134304,Cagliari,Central Midfield,"                    0
+0  Defensive Midfield",22/02/2006 (19),19,,Zambia,€175k,19/10/2025,30/06/2030,27/06/2025,['Zambia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/joseph-liteta/profil/spieler/1134304,
+Gianluca Gaetano,358008,Cagliari,Attacking Midfield,"                  0
+0  Central Midfield
+1     Left Midfield",05/05/2000 (25),25,1.83,Italy,€4.00m,01/07/2025,30/06/2029,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gianluca-gaetano/profil/spieler/358008,183.0
+Nicolò Cavuoti,701842,Cagliari,Attacking Midfield,"                  0
+0  Central Midfield
+1      Right Winger",04/04/2003 (22),22,1.77,Italy,€400k,-,30/06/2030,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nicolo-cavuoti/profil/spieler/701842,177.0
+Mattia Felici,600041,Cagliari,Left Winger,"               0
+0  Left Midfield
+1   Right Winger",17/04/2001 (24),24,1.82,Italy,€2.80m,10/07/2024,30/06/2027,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mattia-felici/profil/spieler/600041,182.0
+Sebastiano Esposito,538918,Cagliari,Second Striker,"                    0
+0      Centre-Forward
+1  Attacking Midfield",02/07/2002 (23),23,1.83,Italy,€8.50m,12/08/2025,30/06/2026,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sebastiano-esposito/profil/spieler/538918,183.0
+Semih Kılıçsoy,875334,Cagliari,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",15/08/2005 (20),20,1.78,Türkiye,€12.00m,03/08/2025,30/06/2026,18/06/2025,['Türkiye'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/semih-kilicsoy/profil/spieler/875334,178.0
+Zito Luvumbo,666547,Cagliari,Centre-Forward,"              0
+0  Right Winger
+1   Left Winger",09/03/2002 (23),23,1.71,Angola,€5.00m,01/07/2022,30/06/2028,17/06/2025,['Angola'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/zito-luvumbo/profil/spieler/666547,171.0
+Gennaro Borrelli,459988,Cagliari,Centre-Forward,,10/03/2000 (25),25,1.94,Italy,€2.20m,10/07/2025,30/06/2029,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gennaro-borrelli/profil/spieler/459988,194.0
+Andrea Belotti,167727,Cagliari,Centre-Forward,,20/12/1993 (31),31,1.81,Italy,€1.50m,01/09/2025,30/06/2026,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/andrea-belotti/profil/spieler/167727,181.0
+Leonardo Pavoletti,64793,Cagliari,Centre-Forward,,26/11/1988 (36),36,1.88,Italy,€700k,30/08/2017,30/06/2026,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/leonardo-pavoletti/profil/spieler/64793,188.0
+Adrian Semper,317057,Pisa,Goalkeeper,,12/01/1998 (27),27,1.94,Croatia,€3.50m,30/07/2024,30/06/2027,02/06/2025,['Croatia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adrian-semper/profil/spieler/317057,194.0
+Simone Scuffet,238993,Pisa,Goalkeeper,,31/05/1996 (29),29,1.93,Italy,€1.40m,23/07/2025,30/06/2028,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/simone-scuffet/profil/spieler/238993,193.0
+Ante Vukovic,921561,Pisa,Goalkeeper,,10/08/2004 (21),21,1.92,Croatia,€300k,-,-,19/06/2025,['Croatia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ante-vukovic/profil/spieler/921561,192.0
+Nícolas,99523,Pisa,Goalkeeper,,12/04/1988 (37),37,1.9,Brazil,€100k,01/07/2021,30/06/2026,02/06/2025,"['Italy', 'Brazil']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nicolas/profil/spieler/99523,190.0
+Simone Canestrelli,358003,Pisa,Centre-Back,"                    0
+0  Defensive Midfield
+1    Central Midfield",11/09/2000 (25),25,1.92,Italy,€7.00m,30/01/2023,30/06/2028,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/simone-canestrelli/profil/spieler/358003,192.0
+Giovanni Bonfanti,663900,Pisa,Centre-Back,"            0
+0   Left-Back
+1  Right-Back",17/01/2003 (22),22,1.87,Italy,€4.50m,01/09/2025,30/06/2026,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/giovanni-bonfanti/profil/spieler/663900,187.0
+Francesco Coppola,925838,Pisa,Centre-Back,,11/04/2005 (20),20,1.95,Italy,€2.50m,01/07/2024,30/06/2026,19/06/2025,"['Italy', 'Cuba']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/francesco-coppola/profil/spieler/925838,195.0
+Raúl Albiol,15452,Pisa,Centre-Back,,04/09/1985 (40),40,1.9,Spain,€1.00m,02/09/2025,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/raul-albiol/profil/spieler/15452,190.0
+Mateus Lusuardi,1159022,Pisa,Centre-Back,,08/01/2004 (21),21,1.9,Brazil,€800k,01/07/2025,30/06/2029,07/10/2025,"['Italy', 'Brazil']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mateus-lusuardi/profil/spieler/1159022,190.0
+Arturo Calabresi,240897,Pisa,Centre-Back,"            0
+0  Right-Back",17/03/1996 (29),29,1.86,Italy,€700k,09/08/2022,30/06/2026,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/arturo-calabresi/profil/spieler/240897,186.0
+Antonio Caracciolo,149525,Pisa,Centre-Back,"            0
+0  Right-Back",30/06/1990 (35),35,1.85,Italy,€500k,01/09/2020,30/06/2026,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/antonio-caracciolo/profil/spieler/149525,185.0
+Daniel Denoon,692187,Pisa,Centre-Back,,28/01/2004 (21),21,1.87,Switzerland,€500k,24/07/2025,30/06/2026,10/06/2025,['Switzerland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/daniel-denoon/profil/spieler/692187,187.0
+Jeremy Mbambi,1231354,Pisa,Centre-Back,,04/05/2008 (17),17,,Belgium,€500k,01/07/2025,30/06/2028,07/10/2025,['Belgium'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jeremy-mbambi/profil/spieler/1231354,
+Marius Marin,379163,Pisa,Defensive Midfield,"                  0
+0  Central Midfield",30/08/1998 (27),27,1.8,Romania,€3.00m,31/07/2019,30/06/2026,02/06/2025,['Romania'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marius-marin/profil/spieler/379163,180.0
+Malthe Højholt,543822,Pisa,Defensive Midfield,"                  0
+0  Central Midfield",16/04/2001 (24),24,1.82,Denmark,€1.20m,13/08/2024,30/06/2027,02/06/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/malthe-hojholt/profil/spieler/543822,182.0
+Ebenezer Akinsanmiro,969192,Pisa,Central Midfield,"                    0
+0  Attacking Midfield
+1      Right Midfield",25/11/2004 (20),20,1.84,Nigeria,€4.50m,22/07/2025,30/06/2026,07/10/2025,['Nigeria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ebenezer-akinsanmiro/profil/spieler/969192,184.0
+Michel Aebischer,237658,Pisa,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",06/01/1997 (28),28,1.83,Switzerland,€4.50m,03/08/2025,30/06/2026,07/10/2025,['Switzerland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/michel-aebischer/profil/spieler/237658,183.0
+İsak Vural,989621,Pisa,Central Midfield,"                    0
+0  Attacking Midfield",28/05/2006 (19),19,1.89,Türkiye,€4.50m,01/07/2025,30/06/2028,02/06/2025,"['Türkiye', 'Sweden']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/isak-vural/profil/spieler/989621,189.0
+Gabriele Piccinini,628365,Pisa,Central Midfield,"                0
+0  Right Midfield
+1   Left Midfield",06/04/2001 (24),24,1.84,Italy,€4.50m,15/07/2021,30/06/2026,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gabriele-piccinini/profil/spieler/628365,184.0
+Idrissa Touré,335516,Pisa,Right Midfield,"                    0
+0  Defensive Midfield
+1    Central Midfield",29/04/1998 (27),27,1.88,Germany,€4.00m,15/07/2021,30/06/2027,02/06/2025,"['Guinea', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/idrissa-toure/profil/spieler/335516,188.0
+Tomás Esteves,504085,Pisa,Right Midfield,"                    0
+0          Right-Back
+1  Defensive Midfield",03/04/2002 (23),23,1.8,Portugal,€2.30m,01/08/2023,30/06/2026,02/06/2025,['Portugal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tomas-esteves/profil/spieler/504085,180.0
+Juan Cuadrado,91970,Pisa,Right Midfield,"              0
+0  Right Winger
+1    Right-Back",26/05/1988 (37),37,1.76,Colombia,€1.00m,06/08/2025,30/06/2026,17/06/2025,"['Colombia', 'Italy']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/juan-cuadrado/profil/spieler/91970,176.0
+Samuele Angori,705063,Pisa,Left Midfield,"           0
+0  Left-Back",07/10/2003 (22),22,1.86,Italy,€5.50m,02/08/2024,30/06/2027,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/samuele-angori/profil/spieler/705063,186.0
+Lorran,1009030,Pisa,Attacking Midfield,"                  0
+0  Central Midfield
+1    Right Midfield",04/07/2006 (19),19,1.8,Brazil,€9.00m,01/09/2025,30/06/2026,05/09/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lorran/profil/spieler/1009030,180.0
+Matteo Tramoni,475410,Pisa,Attacking Midfield,"              0
+0   Left Winger
+1  Right Winger",20/01/2000 (25),25,1.75,France,€7.00m,18/08/2022,30/06/2026,02/06/2025,"['France', 'Italy']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/matteo-tramoni/profil/spieler/475410,175.0
+Calvin Stengs,409344,Pisa,Attacking Midfield,"                  0
+0  Central Midfield
+1      Right Winger",18/12/1998 (26),26,1.87,Netherlands,€7.00m,28/08/2025,30/06/2026,28/05/2025,"['Netherlands', 'Suriname']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/calvin-stengs/profil/spieler/409344,187.0
+Stefano Moreo,279823,Pisa,Attacking Midfield,"                0
+0    Right Winger
+1  Centre-Forward",30/06/1993 (32),32,1.91,Italy,€1.50m,20/01/2023,30/06/2026,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/stefano-moreo/profil/spieler/279823,191.0
+Giacomo Maucci,1002758,Pisa,Attacking Midfield,"                  0
+0  Central Midfield",16/03/2007 (18),18,,Italy,€200k,10/07/2025,30/06/2029,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/giacomo-maucci/profil/spieler/1002758,
+Louis Buffon,1191069,Pisa,Left Winger,"                0
+0  Centre-Forward",28/12/2007 (17),17,,Czech Republic,€800k,01/07/2025,-,28/05/2025,"['Italy', 'Czech Republic']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/louis-buffon/profil/spieler/1191069,
+Mehdi Léris,348601,Pisa,Right Winger,"                    0
+0         Left Winger
+1  Attacking Midfield",23/05/1998 (27),27,1.86,Algeria,€2.20m,13/08/2024,30/06/2027,02/06/2025,"['France', 'Algeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mehdi-leris/profil/spieler/348601,186.0
+M'Bala Nzola,354814,Pisa,Centre-Forward,"              0
+0  Right Winger",18/08/1996 (29),29,1.85,Angola,€6.00m,07/08/2025,30/06/2026,03/06/2025,"['Angola', 'France']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mbala-nzola/profil/spieler/354814,185.0
+Henrik Meister,914934,Pisa,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",13/11/2003 (22),22,1.92,Denmark,€4.00m,10/08/2025,30/06/2028,07/10/2025,"['Cameroon', 'Denmark']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/henrik-meister/profil/spieler/914934,192.0
+Lorenzo Montipò,241923,Hellas Verona,Goalkeeper,,20/02/1996 (29),29,1.91,Italy,€2.00m,01/07/2022,30/06/2028,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lorenzo-montipo/profil/spieler/241923,191.0
+Simone Perilli,240675,Hellas Verona,Goalkeeper,,07/01/1995 (30),30,1.96,Italy,€400k,03/08/2022,-,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/simone-perilli/profil/spieler/240675,196.0
+Giacomo Toniolo,709986,Hellas Verona,Goalkeeper,,01/04/2004 (21),21,1.92,Italy,€75k,-,-,19/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/giacomo-toniolo/profil/spieler/709986,192.0
+Mattia Chiesa,535881,Hellas Verona,Goalkeeper,,16/07/2000 (25),25,1.9,Italy,€25k,01/07/2019,30/06/2026,01/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mattia-chiesa/profil/spieler/535881,190.0
+Victor Nelsson,422951,Hellas Verona,Centre-Back,"                    0
+0  Defensive Midfield",14/10/1998 (27),27,1.85,Denmark,€9.00m,21/08/2025,30/06/2026,07/10/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/victor-nelsson/profil/spieler/422951,185.0
+Armel Bella-Kotchap,467563,Hellas Verona,Centre-Back,,11/12/2001 (23),23,1.9,Germany,€7.50m,27/08/2025,30/06/2026,07/10/2025,"['France', 'Cameroon', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/armel-bella-kotchap/profil/spieler/467563,190.0
+Nicolás Valentini,860992,Hellas Verona,Centre-Back,,06/04/2001 (24),24,1.87,Argentina,€6.00m,03/02/2025,30/06/2026,17/06/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nicolas-valentini/profil/spieler/860992,187.0
+Unai Núñez,338285,Hellas Verona,Centre-Back,,30/01/1997 (28),28,1.86,Spain,€3.00m,25/07/2025,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/unai-nunez/profil/spieler/338285,186.0
+Tobias Slotsager,851385,Hellas Verona,Centre-Back,"                    0
+0          Right-Back
+1  Defensive Midfield",01/01/2006 (19),19,1.9,Denmark,€2.00m,03/02/2025,-,17/06/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tobias-slotsager/profil/spieler/851385,190.0
+Enzo Ebosse,342877,Hellas Verona,Centre-Back,"               0
+0      Left-Back
+1  Left Midfield",11/03/1999 (26),26,1.85,Cameroon,€2.00m,15/07/2025,30/06/2026,06/06/2025,"['France', 'Cameroon']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/enzo-ebosse/profil/spieler/342877,185.0
+Domagoj Bradarić,357796,Hellas Verona,Left-Back,"               0
+0  Left Midfield",10/12/1999 (25),25,1.78,Croatia,€3.00m,03/08/2025,30/06/2028,07/10/2025,['Croatia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/domagoj-bradaric/profil/spieler/357796,178.0
+Martin Frese,488785,Hellas Verona,Left-Back,"               0
+0  Left Midfield
+1    Centre-Back",04/01/1998 (27),27,1.79,Denmark,€2.00m,10/07/2024,30/06/2027,17/06/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/martin-frese/profil/spieler/488785,179.0
+Rafik Belghali,864306,Hellas Verona,Right-Back,"                0
+0  Right Midfield",07/06/2002 (23),23,1.8,Algeria,€3.50m,19/08/2025,30/06/2029,07/10/2025,"['Algeria', 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rafik-belghali/profil/spieler/864306,180.0
+Fallou Cham,1315458,Hellas Verona,Right-Back,"             0
+0    Left-Back
+1  Centre-Back",14/02/2006 (19),19,1.85,The Gambia,€1.00m,01/07/2025,-,07/10/2025,"['The Gambia', 'Senegal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/fallou-cham/profil/spieler/1315458,185.0
+Daniel Oyegoke,586984,Hellas Verona,Right-Back,"             0
+0  Centre-Back",03/01/2003 (22),22,1.88,England,€500k,28/01/2025,30/06/2028,17/06/2025,"['England', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/daniel-oyegoke/profil/spieler/586984,188.0
+Moatasem Al-Musrati,377641,Hellas Verona,Defensive Midfield,"                  0
+0  Central Midfield",06/04/1996 (29),29,1.89,Libya,€8.00m,29/08/2025,30/06/2026,03/06/2025,"['Libya', 'Portugal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/moatasem-al-musrati/profil/spieler/377641,189.0
+Cheikh Niasse,644032,Hellas Verona,Defensive Midfield,"                  0
+0       Centre-Back
+1  Central Midfield",19/01/2000 (25),25,1.88,Senegal,€2.50m,01/07/2025,-,17/06/2025,"['France', 'Senegal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/cheikh-niasse/profil/spieler/644032,188.0
+Suat Serdar,261905,Hellas Verona,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",11/04/1997 (28),28,1.84,Germany,€4.50m,01/07/2024,30/06/2028,17/06/2025,"['Türkiye', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/suat-serdar/profil/spieler/261905,184.0
+Antoine Bernede,395512,Hellas Verona,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",26/05/1999 (26),26,1.78,France,€2.50m,01/07/2025,-,17/06/2025,"['France', 'Cameroon']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/antoine-bernede/profil/spieler/395512,178.0
+Abdou Harroui,416386,Hellas Verona,Central Midfield,"                    0
+0      Right Midfield
+1  Defensive Midfield",13/01/1998 (27),27,1.82,Morocco,€1.80m,09/07/2024,30/06/2028,17/06/2025,"['Netherlands', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/abdou-harroui/profil/spieler/416386,182.0
+Roberto Gagliardini,197471,Hellas Verona,Central Midfield,"                    0
+0  Defensive Midfield
+1         Centre-Back",07/04/1994 (31),31,1.88,Italy,€1.40m,12/09/2025,30/06/2026,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/roberto-gagliardini/profil/spieler/197471,188.0
+Yellu Santiago,941869,Hellas Verona,Central Midfield,,25/05/2004 (21),21,1.92,Spain,€900k,24/07/2025,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yellu-santiago/profil/spieler/941869,192.0
+Jean-Daniel Akpa Akpro,170481,Hellas Verona,Central Midfield,"                0
+0  Right Midfield
+1      Right-Back",11/10/1992 (33),33,1.8,Cote d'Ivoire,€500k,06/09/2025,30/06/2026,17/06/2025,"['France', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jean-daniel-akpa-akpro/profil/spieler/170481,180.0
+Tomas Suslov,540333,Hellas Verona,Attacking Midfield,"                  0
+0      Right Winger
+1  Central Midfield",07/06/2002 (23),23,1.74,Slovakia,€6.00m,31/01/2024,30/06/2027,17/06/2025,['Slovakia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tomas-suslov/profil/spieler/540333,174.0
+Grigoris Kastanos,298635,Hellas Verona,Attacking Midfield,"                  0
+0  Central Midfield
+1    Right Midfield",30/01/1998 (27),27,1.79,Cyprus,€1.50m,01/07/2025,30/06/2027,17/06/2025,['Cyprus'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/grigoris-kastanos/profil/spieler/298635,179.0
+Gift Orban,1018259,Hellas Verona,Centre-Forward,,17/07/2002 (23),23,1.78,Nigeria,€10.00m,27/08/2025,30/06/2026,05/06/2025,"['Togo', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gift-orban/profil/spieler/1018259,178.0
+Giovane,1005165,Hellas Verona,Centre-Forward,"                0
+0  Second Striker
+1    Right Winger",24/11/2003 (22),22,1.84,Brazil,€4.00m,08/07/2025,30/06/2029,07/10/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/giovane/profil/spieler/1005165,184.0
+Amin Sarr,748382,Hellas Verona,Centre-Forward,"             0
+0  Left Winger",11/03/2001 (24),24,1.88,Sweden,€3.80m,01/07/2025,30/06/2029,07/10/2025,"['Senegal', 'Sweden']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/amin-sarr/profil/spieler/748382,188.0
+Daniel Mosquera,651569,Hellas Verona,Centre-Forward,,20/10/1999 (26),26,1.8,Colombia,€1.50m,04/07/2024,30/06/2028,17/06/2025,['Colombia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/daniel-mosquera/profil/spieler/651569,180.0
+Junior Ajayi,1111820,Hellas Verona,Centre-Forward,"              0
+0  Right Winger",11/10/2004 (21),21,1.85,Cote d'Ivoire,€300k,01/07/2024,-,17/06/2025,"[""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/junior-ajayi/profil/spieler/1111820,185.0
+Emil Audero,256339,Cremonese,Goalkeeper,,18/01/1997 (28),28,1.92,Indonesia,€3.20m,27/07/2025,30/06/2026,02/06/2025,"['Italy', 'Indonesia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/emil-audero/profil/spieler/256339,192.0
+Marco Silvestri,85528,Cremonese,Goalkeeper,,02/03/1991 (34),34,1.91,Italy,€500k,13/08/2025,30/06/2026,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marco-silvestri/profil/spieler/85528,191.0
+Lapo Nava,815563,Cremonese,Goalkeeper,,22/01/2004 (21),21,1.97,Italy,€100k,17/07/2025,30/06/2028,19/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lapo-nava/profil/spieler/815563,197.0
+Mikayil Faye,666974,Cremonese,Centre-Back,"           0
+0  Left-Back",14/07/2004 (21),21,1.83,Senegal,€6.00m,01/09/2025,30/06/2026,03/06/2025,['Senegal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mikayil-faye/profil/spieler/666974,183.0
+Federico Baschirotto,351955,Cremonese,Centre-Back,"            0
+0  Right-Back",20/09/1996 (29),29,1.87,Italy,€3.60m,29/07/2025,30/06/2028,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/federico-baschirotto/profil/spieler/351955,187.0
+Matteo Bianchetti,160986,Cremonese,Centre-Back,"            0
+0  Right-Back",17/03/1993 (32),32,1.89,Italy,€800k,17/08/2019,30/06/2026,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/matteo-bianchetti/profil/spieler/160986,189.0
+Francesco Folino,603675,Cremonese,Centre-Back,,23/01/2002 (23),23,1.92,Italy,€700k,24/01/2025,30/06/2028,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/francesco-folino/profil/spieler/603675,192.0
+Federico Ceccherini,163639,Cremonese,Centre-Back,"            0
+0  Right-Back",11/05/1992 (33),33,1.87,Italy,€400k,30/08/2024,30/06/2026,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/federico-ceccherini/profil/spieler/163639,187.0
+Giuseppe Pezzella,336960,Cremonese,Left-Back,"               0
+0     Right-Back
+1  Left Midfield",29/11/1997 (27),27,1.87,Italy,€2.50m,25/07/2025,30/06/2028,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/giuseppe-pezzella/profil/spieler/336960,187.0
+Leonardo Sernicola,340707,Cremonese,Left-Back,"             0
+0  Centre-Back
+1   Right-Back",30/07/1997 (28),28,1.87,Italy,€1.20m,08/07/2022,30/06/2028,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/leonardo-sernicola/profil/spieler/340707,187.0
+Filippo Terracciano,631007,Cremonese,Right-Back,"             0
+0  Centre-Back
+1    Left-Back",08/02/2003 (22),22,1.86,Italy,€3.20m,11/08/2025,30/06/2026,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/filippo-terracciano/profil/spieler/631007,186.0
+Tommaso Barbieri,569939,Cremonese,Right-Back,"                0
+0       Left-Back
+1  Right Midfield",26/08/2002 (23),23,1.81,Italy,€2.50m,06/08/2024,30/06/2028,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tommaso-barbieri/profil/spieler/569939,181.0
+Romano Floriani Mussolini,708086,Cremonese,Right-Back,"                0
+0  Right Midfield
+1   Left Midfield",27/01/2003 (22),22,1.88,Italy,€2.00m,14/07/2025,30/06/2026,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/romano-floriani-mussolini/profil/spieler/708086,188.0
+Alberto Grassi,197473,Cremonese,Defensive Midfield,"                  0
+0  Central Midfield",07/03/1995 (30),30,1.83,Italy,€1.80m,19/07/2025,30/06/2027,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alberto-grassi/profil/spieler/197473,183.0
+Warren Bondo,659516,Cremonese,Central Midfield,"                    0
+0  Defensive Midfield",15/09/2003 (22),22,1.77,France,€8.50m,12/08/2025,30/06/2026,07/10/2025,"['France', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/warren-bondo/profil/spieler/659516,177.0
+Martín Payero,555820,Cremonese,Central Midfield,"                    0
+0  Attacking Midfield",11/09/1998 (27),27,1.82,Argentina,€5.50m,22/08/2025,30/06/2026,17/06/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/martin-payero/profil/spieler/555820,182.0
+Jari Vandeputte,258827,Cremonese,Central Midfield,"                    0
+0       Left Midfield
+1  Attacking Midfield",14/02/1996 (29),29,1.77,Belgium,€3.20m,01/07/2025,30/06/2028,02/06/2025,['Belgium'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jari-vandeputte/profil/spieler/258827,177.0
+Michele Collocolo,434551,Cremonese,Central Midfield,"                    0
+0  Defensive Midfield
+1      Right Midfield",08/11/1999 (26),26,1.88,Italy,€3.00m,22/07/2023,30/06/2027,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/michele-collocolo/profil/spieler/434551,188.0
+Mattia Valoti,167741,Cremonese,Central Midfield,"                    0
+0  Attacking Midfield
+1         Left Winger",06/09/1993 (32),32,1.87,Italy,€900k,03/02/2025,30/06/2026,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mattia-valoti/profil/spieler/167741,187.0
+Dachi Lordkipanidze,894456,Cremonese,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",08/03/2005 (20),20,1.86,Georgia,€100k,01/07/2025,30/06/2027,02/06/2025,['Georgia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dachi-lordkipanidze/profil/spieler/894456,186.0
+Alessio Zerbin,433584,Cremonese,Right Midfield,"              0
+0  Right Winger
+1   Left Winger",03/03/1999 (26),26,1.82,Italy,€2.40m,29/07/2025,30/06/2026,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alessio-zerbin/profil/spieler/433584,182.0
+Franco Vázquez,76163,Cremonese,Attacking Midfield,"                  0
+0    Centre-Forward
+1  Central Midfield",22/02/1989 (36),36,1.87,Argentina,€750k,17/07/2023,30/06/2026,02/06/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/franco-vazquez/profil/spieler/76163,187.0
+Jeremy Sarmiento,568005,Cremonese,Left Winger,"                    0
+0        Right Winger
+1  Attacking Midfield",16/06/2002 (23),23,1.78,Ecuador,€7.00m,01/09/2025,30/06/2026,27/05/2025,"['England', 'Spain', 'Ecuador']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jeremy-sarmiento/profil/spieler/568005,178.0
+Dennis Johnsen,406042,Cremonese,Left Winger,"                0
+0    Right Winger
+1  Centre-Forward",17/02/1998 (27),27,1.85,Norway,€3.50m,01/02/2024,30/06/2027,02/06/2025,['Norway'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dennis-johnsen/profil/spieler/406042,185.0
+Faris Moumbagna,599663,Cremonese,Centre-Forward,,01/07/2000 (25),25,1.85,Cameroon,€5.00m,31/08/2025,30/06/2026,03/06/2025,['Cameroon'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/faris-moumbagna/profil/spieler/599663,185.0
+Antonio Sanabria,234523,Cremonese,Centre-Forward,,04/03/1996 (29),29,1.8,Paraguay,€2.80m,21/08/2025,30/06/2028,17/06/2025,"['Spain', 'Paraguay']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/antonio-sanabria/profil/spieler/234523,180.0
+Manuel De Luca,375816,Cremonese,Centre-Forward,"              0
+0  Right Winger",17/07/1998 (27),27,1.92,Italy,€2.00m,19/07/2024,30/06/2028,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/manuel-de-luca/profil/spieler/375816,192.0
+David Okereke,413605,Cremonese,Centre-Forward,"              0
+0  Right Winger
+1   Left Winger",29/08/1997 (28),28,1.81,Nigeria,€2.00m,28/07/2022,30/06/2026,07/10/2025,['Nigeria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/david-okereke/profil/spieler/413605,181.0
+Jamie Vardy,197838,Cremonese,Centre-Forward,,11/01/1987 (38),38,1.79,England,€1.00m,01/09/2025,30/06/2026,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jamie-vardy/profil/spieler/197838,179.0
+Federico Bonazzoli,241527,Cremonese,Centre-Forward,"                0
+0  Second Striker",21/05/1997 (28),28,1.85,Italy,€1.00m,06/08/2024,30/06/2028,02/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/federico-bonazzoli/profil/spieler/241527,185.0
+Wladimiro Falcone,238537,Lecce,Goalkeeper,,12/04/1995 (30),30,1.95,Italy,€3.50m,27/07/2023,30/06/2028,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/wladimiro-falcone/profil/spieler/238537,195.0
+Christian Früchtl,336307,Lecce,Goalkeeper,,28/01/2000 (25),25,1.93,Germany,€1.30m,01/07/2024,30/06/2027,17/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/christian-fruchtl/profil/spieler/336307,193.0
+Jasper Samooja,712911,Lecce,Goalkeeper,,21/07/2003 (22),22,1.93,Finland,€75k,01/07/2022,30/06/2026,17/06/2025,['Finland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jasper-samooja/profil/spieler/712911,193.0
+Jamil Siebert,604113,Lecce,Centre-Back,,02/04/2002 (23),23,1.93,Germany,€4.00m,22/08/2025,30/06/2028,19/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jamil-siebert/profil/spieler/604113,193.0
+Kialonda Gaspar,836441,Lecce,Centre-Back,,27/09/1997 (28),28,1.93,Angola,€3.50m,01/07/2024,30/06/2027,17/06/2025,['Angola'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kialonda-gaspar/profil/spieler/836441,193.0
+Tiago Gabriel,1112449,Lecce,Centre-Back,"            0
+0  Right-Back",26/12/2004 (20),20,1.96,Portugal,€3.00m,28/01/2025,30/06/2027,07/10/2025,['Portugal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tiago-gabriel/profil/spieler/1112449,196.0
+Gaby Jean,805886,Lecce,Centre-Back,"           0
+0  Left-Back",19/02/2000 (25),25,1.91,France,€2.00m,26/08/2024,30/06/2027,17/06/2025,['France'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gaby-jean/profil/spieler/805886,191.0
+Matías Pérez,1175410,Lecce,Centre-Back,"            0
+0  Right-Back
+1   Left-Back",13/04/2005 (20),20,1.91,Chile,€500k,19/07/2025,30/06/2028,07/10/2025,['Chile'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/matias-perez/profil/spieler/1175410,191.0
+Antonino Gallo,392516,Lecce,Left-Back,"               0
+0  Left Midfield",05/01/2000 (25),25,1.83,Italy,€4.30m,25/07/2019,30/06/2026,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/antonino-gallo/profil/spieler/392516,183.0
+Corrie Ndaba,433329,Lecce,Left-Back,"               0
+0    Centre-Back
+1  Left Midfield",25/12/1999 (25),25,1.88,Ireland,€900k,28/07/2025,30/06/2028,07/10/2025,"['Ghana', 'Ireland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/corrie-ndaba/profil/spieler/433329,188.0
+Christ-Owen Kouassi,1057563,Lecce,Right-Back,"             0
+0  Centre-Back",15/04/2003 (22),22,1.87,Cote d'Ivoire,€1.60m,01/07/2025,30/06/2029,07/10/2025,"['France', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/christ-owen-kouassi/profil/spieler/1057563,187.0
+Frédéric Guilbert,354352,Lecce,Right-Back,"             0
+0  Centre-Back
+1    Left-Back",24/12/1994 (30),30,1.78,France,€1.00m,27/08/2024,30/06/2026,07/10/2025,['France'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/frederic-guilbert/profil/spieler/354352,178.0
+Danilo Veiga,728485,Lecce,Right-Back,"                    0
+0  Defensive Midfield
+1    Central Midfield",25/09/2002 (23),23,1.83,Portugal,€1.00m,28/01/2025,30/06/2027,17/06/2025,"['Portugal', 'Brazil']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/danilo-veiga/profil/spieler/728485,183.0
+Ylber Ramadani,442703,Lecce,Defensive Midfield,"                  0
+0  Central Midfield",12/04/1996 (29),29,1.85,Albania,€1.80m,04/08/2023,30/06/2026,17/06/2025,"['Albania', 'Germany', 'Kosovo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ylber-ramadani/profil/spieler/442703,185.0
+Balthazar Pierret,642002,Lecce,Defensive Midfield,"                  0
+0  Central Midfield
+1       Centre-Back",15/05/2000 (25),25,1.86,France,€1.70m,01/07/2024,30/06/2027,17/06/2025,['France'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/balthazar-pierret/profil/spieler/642002,186.0
+Thórir Jóhann Helgason,488996,Lecce,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",28/09/2000 (25),25,1.87,Iceland,€3.00m,15/07/2021,30/06/2026,17/06/2025,['Iceland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/thorir-johann-helgason/profil/spieler/488996,187.0
+Lassana Coulibaly,386552,Lecce,Central Midfield,"                    0
+0  Defensive Midfield
+1      Right Midfield",10/04/1996 (29),29,1.83,Mali,€2.50m,14/08/2024,30/06/2027,17/06/2025,['Mali'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lassana-coulibaly/profil/spieler/386552,183.0
+Mohamed Kaba,911328,Lecce,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",27/10/2001 (24),24,1.85,France,€2.00m,14/08/2023,30/06/2027,17/06/2025,"['France', 'Guinea']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mohamed-kaba/profil/spieler/911328,185.0
+Álex Sala,582664,Lecce,Central Midfield,,09/04/2001 (24),24,1.85,Spain,€1.50m,23/08/2025,30/06/2028,07/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alex-sala/profil/spieler/582664,185.0
+Medon Berisha,583046,Lecce,Central Midfield,"                    0
+0  Attacking Midfield
+1      Second Striker",21/10/2003 (22),22,1.86,Albania,€1.50m,01/07/2022,30/06/2028,17/06/2025,"['Albania', 'Switzerland', 'Kosovo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/medon-berisha/profil/spieler/583046,186.0
+Youssef Maleh,324377,Lecce,Central Midfield,"                    0
+0  Attacking Midfield",22/08/1998 (27),27,1.79,Morocco,€1.50m,01/07/2023,30/06/2027,07/10/2025,"['Italy', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/youssef-maleh/profil/spieler/324377,179.0
+Hamza Rafia,418571,Lecce,Central Midfield,"                    0
+0  Attacking Midfield
+1        Right Winger",02/04/1999 (26),26,1.81,Tunisia,€1.00m,18/07/2023,30/06/2026,07/10/2025,"['France', 'Tunisia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/hamza-rafia/profil/spieler/418571,181.0
+Niko Kovač,866607,Lecce,Central Midfield,"                    0
+0  Defensive Midfield",08/04/2005 (20),20,1.85,Bosnia-Herzegovina,€300k,30/08/2025,-,27/06/2025,"['Bosnia-Herzegovina', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/niko-kovac/profil/spieler/866607,185.0
+Filip Marchwinski,555106,Lecce,Attacking Midfield,"                0
+0     Left Winger
+1  Centre-Forward",10/01/2002 (23),23,1.87,Poland,€3.00m,26/07/2024,30/06/2028,17/06/2025,['Poland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/filip-marchwinski/profil/spieler/555106,187.0
+Riccardo Sottil,386455,Lecce,Left Winger,"                0
+0    Right Winger
+1  Second Striker",03/06/1999 (26),26,1.8,Italy,€3.50m,10/08/2025,30/06/2026,07/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/riccardo-sottil/profil/spieler/386455,180.0
+Lameck Banda,545538,Lecce,Left Winger,"              0
+0  Right Winger",29/01/2001 (24),24,1.69,Zambia,€3.00m,04/08/2022,30/06/2026,07/10/2025,['Zambia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lameck-banda/profil/spieler/545538,169.0
+Tete Morente,339816,Lecce,Left Winger,"                    0
+0        Right Winger
+1  Attacking Midfield",04/12/1996 (28),28,1.84,Spain,€2.00m,01/07/2024,30/06/2027,17/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tete-morente/profil/spieler/339816,184.0
+Santiago Pierotti,674806,Lecce,Right Winger,"                    0
+0      Centre-Forward
+1  Attacking Midfield",03/04/2001 (24),24,1.89,Argentina,€4.00m,16/01/2024,30/06/2027,17/06/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/santiago-pierotti/profil/spieler/674806,189.0
+Konan N’Dri,649490,Lecce,Right Winger,"                0
+0     Left Winger
+1  Centre-Forward",27/10/2000 (25),25,1.74,Cote d'Ivoire,€1.40m,02/02/2025,30/06/2027,17/06/2025,"[""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/konan-ndri/profil/spieler/649490,174.0
+Francesco Camarda,1058368,Lecce,Centre-Forward,,10/03/2008 (17),17,1.89,Italy,€10.00m,07/07/2025,30/06/2026,19/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/francesco-camarda/profil/spieler/1058368,189.0
+Nikola Stulic,595650,Lecce,Centre-Forward,,08/09/2001 (24),24,1.88,Serbia,€5.00m,27/08/2025,30/06/2029,07/10/2025,"['Yugoslavia (Republic)', 'Serbia', 'Croatia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nikola-stulic/profil/spieler/595650,188.0

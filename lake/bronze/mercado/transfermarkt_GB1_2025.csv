@@ -1,0 +1,550 @@
+﻿club,club_id,player,player_id,market_value_str,market_value_eur,player_url,player_norm,club_norm,season,competition_code
+Arsenal FC,11,David Raya,262749,€40.00m,40000000.0,https://www.transfermarkt.com/david-raya/profil/spieler/262749,david raya,arsenal fc,2025,GB1
+Arsenal FC,11,Kepa Arrizabalaga,192279,€8.00m,8000000.0,https://www.transfermarkt.com/kepa-arrizabalaga/profil/spieler/192279,kepa arrizabalaga,arsenal fc,2025,GB1
+Arsenal FC,11,William Saliba,495666,€80.00m,80000000.0,https://www.transfermarkt.com/william-saliba/profil/spieler/495666,william saliba,arsenal fc,2025,GB1
+Arsenal FC,11,Gabriel Magalhães,435338,€75.00m,75000000.0,https://www.transfermarkt.com/gabriel-magalhaes/profil/spieler/435338,gabriel magalhaes,arsenal fc,2025,GB1
+Arsenal FC,11,Piero Hincapié,659813,€50.00m,50000000.0,https://www.transfermarkt.com/piero-hincapie/profil/spieler/659813,piero hincapie,arsenal fc,2025,GB1
+Arsenal FC,11,Cristhian Mosquera,646750,€35.00m,35000000.0,https://www.transfermarkt.com/cristhian-mosquera/profil/spieler/646750,cristhian mosquera,arsenal fc,2025,GB1
+Arsenal FC,11,Myles Lewis-Skelly,890721,€45.00m,45000000.0,https://www.transfermarkt.com/myles-lewis-skelly/profil/spieler/890721,myles lewis-skelly,arsenal fc,2025,GB1
+Arsenal FC,11,Riccardo Calafiori,502821,€40.00m,40000000.0,https://www.transfermarkt.com/riccardo-calafiori/profil/spieler/502821,riccardo calafiori,arsenal fc,2025,GB1
+Arsenal FC,11,Jurriën Timber,420243,€60.00m,60000000.0,https://www.transfermarkt.com/jurrien-timber/profil/spieler/420243,jurrien timber,arsenal fc,2025,GB1
+Arsenal FC,11,Ben White,335721,€38.00m,38000000.0,https://www.transfermarkt.com/ben-white/profil/spieler/335721,ben white,arsenal fc,2025,GB1
+Arsenal FC,11,Martín Zubimendi,423440,€70.00m,70000000.0,https://www.transfermarkt.com/martin-zubimendi/profil/spieler/423440,martin zubimendi,arsenal fc,2025,GB1
+Arsenal FC,11,Christian Nørgaard,148367,€11.00m,11000000.0,https://www.transfermarkt.com/christian-norgaard/profil/spieler/148367,christian nørgaard,arsenal fc,2025,GB1
+Arsenal FC,11,Declan Rice,357662,€120.00m,120000000.0,https://www.transfermarkt.com/declan-rice/profil/spieler/357662,declan rice,arsenal fc,2025,GB1
+Arsenal FC,11,Mikel Merino,338424,€35.00m,35000000.0,https://www.transfermarkt.com/mikel-merino/profil/spieler/338424,mikel merino,arsenal fc,2025,GB1
+Arsenal FC,11,Martin Ødegaard,316264,€80.00m,80000000.0,https://www.transfermarkt.com/martin-odegaard/profil/spieler/316264,martin ødegaard,arsenal fc,2025,GB1
+Arsenal FC,11,Eberechi Eze,479999,€65.00m,65000000.0,https://www.transfermarkt.com/eberechi-eze/profil/spieler/479999,eberechi eze,arsenal fc,2025,GB1
+Arsenal FC,11,Ethan Nwaneri,890719,€45.00m,45000000.0,https://www.transfermarkt.com/ethan-nwaneri/profil/spieler/890719,ethan nwaneri,arsenal fc,2025,GB1
+Arsenal FC,11,Gabriel Martinelli,655488,€45.00m,45000000.0,https://www.transfermarkt.com/gabriel-martinelli/profil/spieler/655488,gabriel martinelli,arsenal fc,2025,GB1
+Arsenal FC,11,Leandro Trossard,144028,€22.00m,22000000.0,https://www.transfermarkt.com/leandro-trossard/profil/spieler/144028,leandro trossard,arsenal fc,2025,GB1
+Arsenal FC,11,Bukayo Saka,433177,€140.00m,140000000.0,https://www.transfermarkt.com/bukayo-saka/profil/spieler/433177,bukayo saka,arsenal fc,2025,GB1
+Arsenal FC,11,Noni Madueke,503987,€50.00m,50000000.0,https://www.transfermarkt.com/noni-madueke/profil/spieler/503987,noni madueke,arsenal fc,2025,GB1
+Arsenal FC,11,Max Dowman,1187629,-,,https://www.transfermarkt.com/max-dowman/profil/spieler/1187629,max dowman,arsenal fc,2025,GB1
+Arsenal FC,11,Viktor Gyökeres,325443,€75.00m,75000000.0,https://www.transfermarkt.com/viktor-gyokeres/profil/spieler/325443,viktor gyokeres,arsenal fc,2025,GB1
+Arsenal FC,11,Kai Havertz,309400,€60.00m,60000000.0,https://www.transfermarkt.com/kai-havertz/profil/spieler/309400,kai havertz,arsenal fc,2025,GB1
+Arsenal FC,11,Gabriel Jesus,363205,€25.00m,25000000.0,https://www.transfermarkt.com/gabriel-jesus/profil/spieler/363205,gabriel jesus,arsenal fc,2025,GB1
+Manchester City,281,Gianluigi Donnarumma,315858,€40.00m,40000000.0,https://www.transfermarkt.com/gianluigi-donnarumma/profil/spieler/315858,gianluigi donnarumma,manchester city,2025,GB1
+Manchester City,281,James Trafford,566799,€30.00m,30000000.0,https://www.transfermarkt.com/james-trafford/profil/spieler/566799,james trafford,manchester city,2025,GB1
+Manchester City,281,Stefan Ortega,85941,€6.00m,6000000.0,https://www.transfermarkt.com/stefan-ortega/profil/spieler/85941,stefan ortega,manchester city,2025,GB1
+Manchester City,281,Marcus Bettinelli,116648,€600k,600000.0,https://www.transfermarkt.com/marcus-bettinelli/profil/spieler/116648,marcus bettinelli,manchester city,2025,GB1
+Manchester City,281,Josko Gvardiol,475959,€75.00m,75000000.0,https://www.transfermarkt.com/josko-gvardiol/profil/spieler/475959,josko gvardiol,manchester city,2025,GB1
+Manchester City,281,Rúben Dias,258004,€60.00m,60000000.0,https://www.transfermarkt.com/ruben-dias/profil/spieler/258004,ruben dias,manchester city,2025,GB1
+Manchester City,281,Abdukodir Khusanov,763079,€35.00m,35000000.0,https://www.transfermarkt.com/abdukodir-khusanov/profil/spieler/763079,abdukodir khusanov,manchester city,2025,GB1
+Manchester City,281,John Stones,186590,€22.00m,22000000.0,https://www.transfermarkt.com/john-stones/profil/spieler/186590,john stones,manchester city,2025,GB1
+Manchester City,281,Nathan Aké,177476,€22.00m,22000000.0,https://www.transfermarkt.com/nathan-ake/profil/spieler/177476,nathan ake,manchester city,2025,GB1
+Manchester City,281,Rayan Aït-Nouri,578391,€40.00m,40000000.0,https://www.transfermarkt.com/rayan-ait-nouri/profil/spieler/578391,rayan ait-nouri,manchester city,2025,GB1
+Manchester City,281,Nico O'Reilly,743413,€30.00m,30000000.0,https://www.transfermarkt.com/nico-oreilly/profil/spieler/743413,nico o'reilly,manchester city,2025,GB1
+Manchester City,281,Rico Lewis,701057,€40.00m,40000000.0,https://www.transfermarkt.com/rico-lewis/profil/spieler/701057,rico lewis,manchester city,2025,GB1
+Manchester City,281,Matheus Nunes,601883,€35.00m,35000000.0,https://www.transfermarkt.com/matheus-nunes/profil/spieler/601883,matheus nunes,manchester city,2025,GB1
+Manchester City,281,Rodri,357565,€90.00m,90000000.0,https://www.transfermarkt.com/rodri/profil/spieler/357565,rodri,manchester city,2025,GB1
+Manchester City,281,Nico González,466805,€40.00m,40000000.0,https://www.transfermarkt.com/nico-gonzalez/profil/spieler/466805,nico gonzalez,manchester city,2025,GB1
+Manchester City,281,Kalvin Phillips,351749,€10.00m,10000000.0,https://www.transfermarkt.com/kalvin-phillips/profil/spieler/351749,kalvin phillips,manchester city,2025,GB1
+Manchester City,281,Tijjani Reijnders,460939,€70.00m,70000000.0,https://www.transfermarkt.com/tijjani-reijnders/profil/spieler/460939,tijjani reijnders,manchester city,2025,GB1
+Manchester City,281,Mateo Kovacic,51471,€20.00m,20000000.0,https://www.transfermarkt.com/mateo-kovacic/profil/spieler/51471,mateo kovacic,manchester city,2025,GB1
+Manchester City,281,Bernardo Silva,241641,€32.00m,32000000.0,https://www.transfermarkt.com/bernardo-silva/profil/spieler/241641,bernardo silva,manchester city,2025,GB1
+Manchester City,281,Jérémy Doku,486049,€55.00m,55000000.0,https://www.transfermarkt.com/jeremy-doku/profil/spieler/486049,jeremy doku,manchester city,2025,GB1
+Manchester City,281,Savinho,743591,€50.00m,50000000.0,https://www.transfermarkt.com/savinho/profil/spieler/743591,savinho,manchester city,2025,GB1
+Manchester City,281,Phil Foden,406635,€80.00m,80000000.0,https://www.transfermarkt.com/phil-foden/profil/spieler/406635,phil foden,manchester city,2025,GB1
+Manchester City,281,Rayan Cherki,607223,€45.00m,45000000.0,https://www.transfermarkt.com/rayan-cherki/profil/spieler/607223,rayan cherki,manchester city,2025,GB1
+Manchester City,281,Oscar Bobb,661207,€30.00m,30000000.0,https://www.transfermarkt.com/oscar-bobb/profil/spieler/661207,oscar bobb,manchester city,2025,GB1
+Manchester City,281,Erling Haaland,418560,€180.00m,180000000.0,https://www.transfermarkt.com/erling-haaland/profil/spieler/418560,erling haaland,manchester city,2025,GB1
+Manchester City,281,Omar Marmoush,445939,€75.00m,75000000.0,https://www.transfermarkt.com/omar-marmoush/profil/spieler/445939,omar marmoush,manchester city,2025,GB1
+Liverpool FC,31,Giorgi Mamardashvili,502676,€28.00m,28000000.0,https://www.transfermarkt.com/giorgi-mamardashvili/profil/spieler/502676,giorgi mamardashvili,liverpool fc,2025,GB1
+Liverpool FC,31,Alisson,105470,€20.00m,20000000.0,https://www.transfermarkt.com/alisson/profil/spieler/105470,alisson,liverpool fc,2025,GB1
+Liverpool FC,31,Freddie Woodman,226049,€3.50m,3500000.0,https://www.transfermarkt.com/freddie-woodman/profil/spieler/226049,freddie woodman,liverpool fc,2025,GB1
+Liverpool FC,31,Ibrahima Konaté,357119,€55.00m,55000000.0,https://www.transfermarkt.com/ibrahima-konate/profil/spieler/357119,ibrahima konate,liverpool fc,2025,GB1
+Liverpool FC,31,Giovanni Leoni,1086619,€25.00m,25000000.0,https://www.transfermarkt.com/giovanni-leoni/profil/spieler/1086619,giovanni leoni,liverpool fc,2025,GB1
+Liverpool FC,31,Virgil van Dijk,139208,€23.00m,23000000.0,https://www.transfermarkt.com/virgil-van-dijk/profil/spieler/139208,virgil van dijk,liverpool fc,2025,GB1
+Liverpool FC,31,Joe Gomez,256178,€18.00m,18000000.0,https://www.transfermarkt.com/joe-gomez/profil/spieler/256178,joe gomez,liverpool fc,2025,GB1
+Liverpool FC,31,Rhys Williams,503679,€700k,700000.0,https://www.transfermarkt.com/rhys-williams/profil/spieler/503679,rhys williams,liverpool fc,2025,GB1
+Liverpool FC,31,Milos Kerkez,730861,€45.00m,45000000.0,https://www.transfermarkt.com/milos-kerkez/profil/spieler/730861,milos kerkez,liverpool fc,2025,GB1
+Liverpool FC,31,Andrew Robertson,234803,€15.00m,15000000.0,https://www.transfermarkt.com/andrew-robertson/profil/spieler/234803,andrew robertson,liverpool fc,2025,GB1
+Liverpool FC,31,Jeremie Frimpong,484547,€45.00m,45000000.0,https://www.transfermarkt.com/jeremie-frimpong/profil/spieler/484547,jeremie frimpong,liverpool fc,2025,GB1
+Liverpool FC,31,Conor Bradley,624258,€30.00m,30000000.0,https://www.transfermarkt.com/conor-bradley/profil/spieler/624258,conor bradley,liverpool fc,2025,GB1
+Liverpool FC,31,Ryan Gravenberch,478573,€90.00m,90000000.0,https://www.transfermarkt.com/ryan-gravenberch/profil/spieler/478573,ryan gravenberch,liverpool fc,2025,GB1
+Liverpool FC,31,Stefan Bajcetic,864799,€9.00m,9000000.0,https://www.transfermarkt.com/stefan-bajcetic/profil/spieler/864799,stefan bajcetic,liverpool fc,2025,GB1
+Liverpool FC,31,Wataru Endo,146310,€8.00m,8000000.0,https://www.transfermarkt.com/wataru-endo/profil/spieler/146310,wataru endo,liverpool fc,2025,GB1
+Liverpool FC,31,Alexis Mac Allister,534033,€100.00m,100000000.0,https://www.transfermarkt.com/alexis-mac-allister/profil/spieler/534033,alexis mac allister,liverpool fc,2025,GB1
+Liverpool FC,31,Curtis Jones,433188,€45.00m,45000000.0,https://www.transfermarkt.com/curtis-jones/profil/spieler/433188,curtis jones,liverpool fc,2025,GB1
+Liverpool FC,31,Trey Nyoni,1045123,€6.00m,6000000.0,https://www.transfermarkt.com/trey-nyoni/profil/spieler/1045123,trey nyoni,liverpool fc,2025,GB1
+Liverpool FC,31,Florian Wirtz,598577,€130.00m,130000000.0,https://www.transfermarkt.com/florian-wirtz/profil/spieler/598577,florian wirtz,liverpool fc,2025,GB1
+Liverpool FC,31,Dominik Szoboszlai,451276,€85.00m,85000000.0,https://www.transfermarkt.com/dominik-szoboszlai/profil/spieler/451276,dominik szoboszlai,liverpool fc,2025,GB1
+Liverpool FC,31,Cody Gakpo,434675,€70.00m,70000000.0,https://www.transfermarkt.com/cody-gakpo/profil/spieler/434675,cody gakpo,liverpool fc,2025,GB1
+Liverpool FC,31,Rio Ngumoha,1108466,€15.00m,15000000.0,https://www.transfermarkt.com/rio-ngumoha/profil/spieler/1108466,rio ngumoha,liverpool fc,2025,GB1
+Liverpool FC,31,Mohamed Salah,148455,€45.00m,45000000.0,https://www.transfermarkt.com/mohamed-salah/profil/spieler/148455,mohamed salah,liverpool fc,2025,GB1
+Liverpool FC,31,Federico Chiesa,341092,€18.00m,18000000.0,https://www.transfermarkt.com/federico-chiesa/profil/spieler/341092,federico chiesa,liverpool fc,2025,GB1
+Liverpool FC,31,Alexander Isak,349066,€140.00m,140000000.0,https://www.transfermarkt.com/alexander-isak/profil/spieler/349066,alexander isak,liverpool fc,2025,GB1
+Liverpool FC,31,Hugo Ekitiké,709726,€85.00m,85000000.0,https://www.transfermarkt.com/hugo-ekitike/profil/spieler/709726,hugo ekitike,liverpool fc,2025,GB1
+Chelsea FC,631,Robert Sánchez,403151,€20.00m,20000000.0,https://www.transfermarkt.com/robert-sanchez/profil/spieler/403151,robert sanchez,chelsea fc,2025,GB1
+Chelsea FC,631,Filip Jørgensen,585323,€18.00m,18000000.0,https://www.transfermarkt.com/filip-jorgensen/profil/spieler/585323,filip jørgensen,chelsea fc,2025,GB1
+Chelsea FC,631,Gabriel Slonina,656316,€3.50m,3500000.0,https://www.transfermarkt.com/gabriel-slonina/profil/spieler/656316,gabriel slonina,chelsea fc,2025,GB1
+Chelsea FC,631,Levi Colwill,614258,€55.00m,55000000.0,https://www.transfermarkt.com/levi-colwill/profil/spieler/614258,levi colwill,chelsea fc,2025,GB1
+Chelsea FC,631,Trevoh Chalobah,346314,€32.00m,32000000.0,https://www.transfermarkt.com/trevoh-chalobah/profil/spieler/346314,trevoh chalobah,chelsea fc,2025,GB1
+Chelsea FC,631,Wesley Fofana,475411,€25.00m,25000000.0,https://www.transfermarkt.com/wesley-fofana/profil/spieler/475411,wesley fofana,chelsea fc,2025,GB1
+Chelsea FC,631,Tosin Adarabioyo,258878,€20.00m,20000000.0,https://www.transfermarkt.com/tosin-adarabioyo/profil/spieler/258878,tosin adarabioyo,chelsea fc,2025,GB1
+Chelsea FC,631,Benoît Badiashile,463603,€20.00m,20000000.0,https://www.transfermarkt.com/benoit-badiashile/profil/spieler/463603,benoit badiashile,chelsea fc,2025,GB1
+Chelsea FC,631,Axel Disasi,386047,€18.00m,18000000.0,https://www.transfermarkt.com/axel-disasi/profil/spieler/386047,axel disasi,chelsea fc,2025,GB1
+Chelsea FC,631,Josh Acheampong,1004708,€15.00m,15000000.0,https://www.transfermarkt.com/josh-acheampong/profil/spieler/1004708,josh acheampong,chelsea fc,2025,GB1
+Chelsea FC,631,Marc Cucurella,284857,€45.00m,45000000.0,https://www.transfermarkt.com/marc-cucurella/profil/spieler/284857,marc cucurella,chelsea fc,2025,GB1
+Chelsea FC,631,Jorrel Hato,904802,€40.00m,40000000.0,https://www.transfermarkt.com/jorrel-hato/profil/spieler/904802,jorrel hato,chelsea fc,2025,GB1
+Chelsea FC,631,Reece James,472423,€35.00m,35000000.0,https://www.transfermarkt.com/reece-james/profil/spieler/472423,reece james,chelsea fc,2025,GB1
+Chelsea FC,631,Malo Gusto,620322,€35.00m,35000000.0,https://www.transfermarkt.com/malo-gusto/profil/spieler/620322,malo gusto,chelsea fc,2025,GB1
+Chelsea FC,631,Moisés Caicedo,687626,€100.00m,100000000.0,https://www.transfermarkt.com/moises-caicedo/profil/spieler/687626,moises caicedo,chelsea fc,2025,GB1
+Chelsea FC,631,Roméo Lavia,628451,€35.00m,35000000.0,https://www.transfermarkt.com/romeo-lavia/profil/spieler/628451,romeo lavia,chelsea fc,2025,GB1
+Chelsea FC,631,Dário Essugo,670717,€20.00m,20000000.0,https://www.transfermarkt.com/dario-essugo/profil/spieler/670717,dario essugo,chelsea fc,2025,GB1
+Chelsea FC,631,Enzo Fernández,648195,€80.00m,80000000.0,https://www.transfermarkt.com/enzo-fernandez/profil/spieler/648195,enzo fernandez,chelsea fc,2025,GB1
+Chelsea FC,631,Andrey Santos,743600,€35.00m,35000000.0,https://www.transfermarkt.com/andrey-santos/profil/spieler/743600,andrey santos,chelsea fc,2025,GB1
+Chelsea FC,631,Cole Palmer,568177,€120.00m,120000000.0,https://www.transfermarkt.com/cole-palmer/profil/spieler/568177,cole palmer,chelsea fc,2025,GB1
+Chelsea FC,631,Facundo Buonanotte,983989,€20.00m,20000000.0,https://www.transfermarkt.com/facundo-buonanotte/profil/spieler/983989,facundo buonanotte,chelsea fc,2025,GB1
+Chelsea FC,631,Jamie Gittens,670882,€45.00m,45000000.0,https://www.transfermarkt.com/jamie-gittens/profil/spieler/670882,jamie gittens,chelsea fc,2025,GB1
+Chelsea FC,631,Alejandro Garnacho,811779,€45.00m,45000000.0,https://www.transfermarkt.com/alejandro-garnacho/profil/spieler/811779,alejandro garnacho,chelsea fc,2025,GB1
+Chelsea FC,631,Tyrique George,936874,€20.00m,20000000.0,https://www.transfermarkt.com/tyrique-george/profil/spieler/936874,tyrique george,chelsea fc,2025,GB1
+Chelsea FC,631,Mykhaylo Mudryk,537860,-,,https://www.transfermarkt.com/mykhaylo-mudryk/profil/spieler/537860,mykhaylo mudryk,chelsea fc,2025,GB1
+Chelsea FC,631,Estêvão,1056993,€60.00m,60000000.0,https://www.transfermarkt.com/estevao/profil/spieler/1056993,estevao,chelsea fc,2025,GB1
+Chelsea FC,631,Pedro Neto,487465,€55.00m,55000000.0,https://www.transfermarkt.com/pedro-neto/profil/spieler/487465,pedro neto,chelsea fc,2025,GB1
+Chelsea FC,631,Raheem Sterling,134425,€7.00m,7000000.0,https://www.transfermarkt.com/raheem-sterling/profil/spieler/134425,raheem sterling,chelsea fc,2025,GB1
+Chelsea FC,631,João Pedro,626724,€65.00m,65000000.0,https://www.transfermarkt.com/joao-pedro/profil/spieler/626724,joao pedro,chelsea fc,2025,GB1
+Chelsea FC,631,Liam Delap,610849,€40.00m,40000000.0,https://www.transfermarkt.com/liam-delap/profil/spieler/610849,liam delap,chelsea fc,2025,GB1
+Chelsea FC,631,Marc Guiu,938158,€8.00m,8000000.0,https://www.transfermarkt.com/marc-guiu/profil/spieler/938158,marc guiu,chelsea fc,2025,GB1
+Tottenham Hotspur,148,Guglielmo Vicario,286047,€32.00m,32000000.0,https://www.transfermarkt.com/guglielmo-vicario/profil/spieler/286047,guglielmo vicario,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,Antonín Kinský,725912,€15.00m,15000000.0,https://www.transfermarkt.com/antonin-kinsky/profil/spieler/725912,antonin kinsky,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,Brandon Austin,428016,€600k,600000.0,https://www.transfermarkt.com/brandon-austin/profil/spieler/428016,brandon austin,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,Cristian Romero,355915,€55.00m,55000000.0,https://www.transfermarkt.com/cristian-romero/profil/spieler/355915,cristian romero,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,Micky van de Ven,557459,€55.00m,55000000.0,https://www.transfermarkt.com/micky-van-de-ven/profil/spieler/557459,micky van de ven,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,Radu Drăgușin,568559,€25.00m,25000000.0,https://www.transfermarkt.com/radu-dragusin/profil/spieler/568559,radu dragusin,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,Kevin Danso,263236,€25.00m,25000000.0,https://www.transfermarkt.com/kevin-danso/profil/spieler/263236,kevin danso,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,Ben Davies,192765,€6.00m,6000000.0,https://www.transfermarkt.com/ben-davies/profil/spieler/192765,ben davies,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,Kota Takai,671108,€5.00m,5000000.0,https://www.transfermarkt.com/kota-takai/profil/spieler/671108,kota takai,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,Destiny Udogie,556385,€40.00m,40000000.0,https://www.transfermarkt.com/destiny-udogie/profil/spieler/556385,destiny udogie,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,Djed Spence,483348,€30.00m,30000000.0,https://www.transfermarkt.com/djed-spence/profil/spieler/483348,djed spence,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,Pedro Porro,553875,€40.00m,40000000.0,https://www.transfermarkt.com/pedro-porro/profil/spieler/553875,pedro porro,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,João Palhinha,257455,€30.00m,30000000.0,https://www.transfermarkt.com/joao-palhinha/profil/spieler/257455,joao palhinha,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,Yves Bissouma,410425,€20.00m,20000000.0,https://www.transfermarkt.com/yves-bissouma/profil/spieler/410425,yves bissouma,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,Lucas Bergvall,866246,€40.00m,40000000.0,https://www.transfermarkt.com/lucas-bergvall/profil/spieler/866246,lucas bergvall,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,Archie Gray,922693,€35.00m,35000000.0,https://www.transfermarkt.com/archie-gray/profil/spieler/922693,archie gray,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,Pape Matar Sarr,568693,€35.00m,35000000.0,https://www.transfermarkt.com/pape-matar-sarr/profil/spieler/568693,pape matar sarr,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,Rodrigo Bentancur,354362,€30.00m,30000000.0,https://www.transfermarkt.com/rodrigo-bentancur/profil/spieler/354362,rodrigo bentancur,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,Xavi Simons,566931,€70.00m,70000000.0,https://www.transfermarkt.com/xavi-simons/profil/spieler/566931,xavi simons,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,Dejan Kulusevski,431755,€50.00m,50000000.0,https://www.transfermarkt.com/dejan-kulusevski/profil/spieler/431755,dejan kulusevski,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,James Maddison,294057,€35.00m,35000000.0,https://www.transfermarkt.com/james-maddison/profil/spieler/294057,james maddison,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,Wilson Odobert,743498,€20.00m,20000000.0,https://www.transfermarkt.com/wilson-odobert/profil/spieler/743498,wilson odobert,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,Mohammed Kudus,543499,€55.00m,55000000.0,https://www.transfermarkt.com/mohammed-kudus/profil/spieler/543499,mohammed kudus,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,Brennan Johnson,470607,€40.00m,40000000.0,https://www.transfermarkt.com/brennan-johnson/profil/spieler/470607,brennan johnson,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,Dominic Solanke,258889,€40.00m,40000000.0,https://www.transfermarkt.com/dominic-solanke/profil/spieler/258889,dominic solanke,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,Mathys Tel,801734,€35.00m,35000000.0,https://www.transfermarkt.com/mathys-tel/profil/spieler/801734,mathys tel,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,Randal Kolo Muani,487969,€30.00m,30000000.0,https://www.transfermarkt.com/randal-kolo-muani/profil/spieler/487969,randal kolo muani,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,Richarlison,378710,€25.00m,25000000.0,https://www.transfermarkt.com/richarlison/profil/spieler/378710,richarlison,tottenham hotspur,2025,GB1
+Tottenham Hotspur,148,Dane Scarlett,670883,€2.00m,2000000.0,https://www.transfermarkt.com/dane-scarlett/profil/spieler/670883,dane scarlett,tottenham hotspur,2025,GB1
+Newcastle United,762,Aaron Ramsdale,427568,€14.00m,14000000.0,https://www.transfermarkt.com/aaron-ramsdale/profil/spieler/427568,aaron ramsdale,newcastle united,2025,GB1
+Newcastle United,762,Nick Pope,192080,€8.00m,8000000.0,https://www.transfermarkt.com/nick-pope/profil/spieler/192080,nick pope,newcastle united,2025,GB1
+Newcastle United,762,Max Thompson,660768,€275k,275000.0,https://www.transfermarkt.com/max-thompson/profil/spieler/660768,max thompson,newcastle united,2025,GB1
+Newcastle United,762,Mark Gillespie,142389,€200k,200000.0,https://www.transfermarkt.com/mark-gillespie/profil/spieler/142389,mark gillespie,newcastle united,2025,GB1
+Newcastle United,762,John Ruddy,29712,€150k,150000.0,https://www.transfermarkt.com/john-ruddy/profil/spieler/29712,john ruddy,newcastle united,2025,GB1
+Newcastle United,762,Sven Botman,361093,€40.00m,40000000.0,https://www.transfermarkt.com/sven-botman/profil/spieler/361093,sven botman,newcastle united,2025,GB1
+Newcastle United,762,Malick Thiaw,521964,€30.00m,30000000.0,https://www.transfermarkt.com/malick-thiaw/profil/spieler/521964,malick thiaw,newcastle united,2025,GB1
+Newcastle United,762,Fabian Schär,135343,€7.00m,7000000.0,https://www.transfermarkt.com/fabian-schar/profil/spieler/135343,fabian schar,newcastle united,2025,GB1
+Newcastle United,762,Dan Burn,134270,€6.00m,6000000.0,https://www.transfermarkt.com/dan-burn/profil/spieler/134270,dan burn,newcastle united,2025,GB1
+Newcastle United,762,Jamaal Lascelles,183318,€3.50m,3500000.0,https://www.transfermarkt.com/jamaal-lascelles/profil/spieler/183318,jamaal lascelles,newcastle united,2025,GB1
+Newcastle United,762,Lewis Hall,670858,€32.00m,32000000.0,https://www.transfermarkt.com/lewis-hall/profil/spieler/670858,lewis hall,newcastle united,2025,GB1
+Newcastle United,762,Alex Murphy,900601,€300k,300000.0,https://www.transfermarkt.com/alex-murphy/profil/spieler/900601,alex murphy,newcastle united,2025,GB1
+Newcastle United,762,Tino Livramento,503981,€40.00m,40000000.0,https://www.transfermarkt.com/tino-livramento/profil/spieler/503981,tino livramento,newcastle united,2025,GB1
+Newcastle United,762,Kieran Trippier,95810,€4.00m,4000000.0,https://www.transfermarkt.com/kieran-trippier/profil/spieler/95810,kieran trippier,newcastle united,2025,GB1
+Newcastle United,762,Emil Krafth,184528,€2.00m,2000000.0,https://www.transfermarkt.com/emil-krafth/profil/spieler/184528,emil krafth,newcastle united,2025,GB1
+Newcastle United,762,Harrison Ashby,559130,€1.40m,1400000.0,https://www.transfermarkt.com/harrison-ashby/profil/spieler/559130,harrison ashby,newcastle united,2025,GB1
+Newcastle United,762,Sandro Tonali,397033,€75.00m,75000000.0,https://www.transfermarkt.com/sandro-tonali/profil/spieler/397033,sandro tonali,newcastle united,2025,GB1
+Newcastle United,762,Bruno Guimarães,520624,€80.00m,80000000.0,https://www.transfermarkt.com/bruno-guimaraes/profil/spieler/520624,bruno guimaraes,newcastle united,2025,GB1
+Newcastle United,762,Jacob Ramsey,503749,€40.00m,40000000.0,https://www.transfermarkt.com/jacob-ramsey/profil/spieler/503749,jacob ramsey,newcastle united,2025,GB1
+Newcastle United,762,Joelinton,333241,€35.00m,35000000.0,https://www.transfermarkt.com/joelinton/profil/spieler/333241,joelinton,newcastle united,2025,GB1
+Newcastle United,762,Lewis Miley,922769,€22.00m,22000000.0,https://www.transfermarkt.com/lewis-miley/profil/spieler/922769,lewis miley,newcastle united,2025,GB1
+Newcastle United,762,Joe Willock,340329,€18.00m,18000000.0,https://www.transfermarkt.com/joe-willock/profil/spieler/340329,joe willock,newcastle united,2025,GB1
+Newcastle United,762,Anthony Gordon,503733,€65.00m,65000000.0,https://www.transfermarkt.com/anthony-gordon/profil/spieler/503733,anthony gordon,newcastle united,2025,GB1
+Newcastle United,762,Harvey Barnes,398065,€35.00m,35000000.0,https://www.transfermarkt.com/harvey-barnes/profil/spieler/398065,harvey barnes,newcastle united,2025,GB1
+Newcastle United,762,Anthony Elanga,583189,€55.00m,55000000.0,https://www.transfermarkt.com/anthony-elanga/profil/spieler/583189,anthony elanga,newcastle united,2025,GB1
+Newcastle United,762,Jacob Murphy,199527,€16.00m,16000000.0,https://www.transfermarkt.com/jacob-murphy/profil/spieler/199527,jacob murphy,newcastle united,2025,GB1
+Newcastle United,762,Nick Woltemade,455661,€65.00m,65000000.0,https://www.transfermarkt.com/nick-woltemade/profil/spieler/455661,nick woltemade,newcastle united,2025,GB1
+Newcastle United,762,Yoane Wissa,388165,€42.00m,42000000.0,https://www.transfermarkt.com/yoane-wissa/profil/spieler/388165,yoane wissa,newcastle united,2025,GB1
+Newcastle United,762,William Osula,609556,€15.00m,15000000.0,https://www.transfermarkt.com/william-osula/profil/spieler/609556,william osula,newcastle united,2025,GB1
+Manchester United,985,Senne Lammens,503883,€20.00m,20000000.0,https://www.transfermarkt.com/senne-lammens/profil/spieler/503883,senne lammens,manchester united,2025,GB1
+Manchester United,985,Altay Bayındır,336077,€8.00m,8000000.0,https://www.transfermarkt.com/altay-bayindir/profil/spieler/336077,altay bayındır,manchester united,2025,GB1
+Manchester United,985,Tom Heaton,34130,€200k,200000.0,https://www.transfermarkt.com/tom-heaton/profil/spieler/34130,tom heaton,manchester united,2025,GB1
+Manchester United,985,Leny Yoro,923831,€55.00m,55000000.0,https://www.transfermarkt.com/leny-yoro/profil/spieler/923831,leny yoro,manchester united,2025,GB1
+Manchester United,985,Matthijs de Ligt,326031,€38.00m,38000000.0,https://www.transfermarkt.com/matthijs-de-ligt/profil/spieler/326031,matthijs de ligt,manchester united,2025,GB1
+Manchester United,985,Lisandro Martínez,480762,€35.00m,35000000.0,https://www.transfermarkt.com/lisandro-martinez/profil/spieler/480762,lisandro martinez,manchester united,2025,GB1
+Manchester United,985,Harry Maguire,177907,€13.00m,13000000.0,https://www.transfermarkt.com/harry-maguire/profil/spieler/177907,harry maguire,manchester united,2025,GB1
+Manchester United,985,Ayden Heaven,1078163,€10.00m,10000000.0,https://www.transfermarkt.com/ayden-heaven/profil/spieler/1078163,ayden heaven,manchester united,2025,GB1
+Manchester United,985,Tyler Fredricson,911424,€3.00m,3000000.0,https://www.transfermarkt.com/tyler-fredricson/profil/spieler/911424,tyler fredricson,manchester united,2025,GB1
+Manchester United,985,Patrick Dorgu,926952,€25.00m,25000000.0,https://www.transfermarkt.com/patrick-dorgu/profil/spieler/926952,patrick dorgu,manchester united,2025,GB1
+Manchester United,985,Luke Shaw,183288,€12.00m,12000000.0,https://www.transfermarkt.com/luke-shaw/profil/spieler/183288,luke shaw,manchester united,2025,GB1
+Manchester United,985,Tyrell Malacia,339340,€8.00m,8000000.0,https://www.transfermarkt.com/tyrell-malacia/profil/spieler/339340,tyrell malacia,manchester united,2025,GB1
+Manchester United,985,Diego León,1283997,€4.00m,4000000.0,https://www.transfermarkt.com/diego-leon/profil/spieler/1283997,diego leon,manchester united,2025,GB1
+Manchester United,985,Diogo Dalot,357147,€28.00m,28000000.0,https://www.transfermarkt.com/diogo-dalot/profil/spieler/357147,diogo dalot,manchester united,2025,GB1
+Manchester United,985,Noussair Mazraoui,340456,€25.00m,25000000.0,https://www.transfermarkt.com/noussair-mazraoui/profil/spieler/340456,noussair mazraoui,manchester united,2025,GB1
+Manchester United,985,Manuel Ugarte,476701,€35.00m,35000000.0,https://www.transfermarkt.com/manuel-ugarte/profil/spieler/476701,manuel ugarte,manchester united,2025,GB1
+Manchester United,985,Casemiro,16306,€10.00m,10000000.0,https://www.transfermarkt.com/casemiro/profil/spieler/16306,casemiro,manchester united,2025,GB1
+Manchester United,985,Kobbie Mainoo,820374,€45.00m,45000000.0,https://www.transfermarkt.com/kobbie-mainoo/profil/spieler/820374,kobbie mainoo,manchester united,2025,GB1
+Manchester United,985,Bruno Fernandes,240306,€45.00m,45000000.0,https://www.transfermarkt.com/bruno-fernandes/profil/spieler/240306,bruno fernandes,manchester united,2025,GB1
+Manchester United,985,Mason Mount,346483,€28.00m,28000000.0,https://www.transfermarkt.com/mason-mount/profil/spieler/346483,mason mount,manchester united,2025,GB1
+Manchester United,985,Bryan Mbeumo,413039,€70.00m,70000000.0,https://www.transfermarkt.com/bryan-mbeumo/profil/spieler/413039,bryan mbeumo,manchester united,2025,GB1
+Manchester United,985,Amad Diallo,536835,€40.00m,40000000.0,https://www.transfermarkt.com/amad-diallo/profil/spieler/536835,amad diallo,manchester united,2025,GB1
+Manchester United,985,Matheus Cunha,517894,€70.00m,70000000.0,https://www.transfermarkt.com/matheus-cunha/profil/spieler/517894,matheus cunha,manchester united,2025,GB1
+Manchester United,985,Benjamin Sesko,627442,€70.00m,70000000.0,https://www.transfermarkt.com/benjamin-sesko/profil/spieler/627442,benjamin sesko,manchester united,2025,GB1
+Manchester United,985,Joshua Zirkzee,435648,€28.00m,28000000.0,https://www.transfermarkt.com/joshua-zirkzee/profil/spieler/435648,joshua zirkzee,manchester united,2025,GB1
+Manchester United,985,Chido Obi,1042886,€5.00m,5000000.0,https://www.transfermarkt.com/chido-obi/profil/spieler/1042886,chido obi,manchester united,2025,GB1
+Nottingham Forest,703,John Victor,432914,€8.00m,8000000.0,https://www.transfermarkt.com/john-victor/profil/spieler/432914,john victor,nottingham forest,2025,GB1
+Nottingham Forest,703,Matz Sels,127202,€7.00m,7000000.0,https://www.transfermarkt.com/matz-sels/profil/spieler/127202,matz sels,nottingham forest,2025,GB1
+Nottingham Forest,703,Angus Gunn,201574,€2.20m,2200000.0,https://www.transfermarkt.com/angus-gunn/profil/spieler/201574,angus gunn,nottingham forest,2025,GB1
+Nottingham Forest,703,Murillo,1005649,€55.00m,55000000.0,https://www.transfermarkt.com/murillo/profil/spieler/1005649,murillo,nottingham forest,2025,GB1
+Nottingham Forest,703,Nikola Milenković,413507,€35.00m,35000000.0,https://www.transfermarkt.com/nikola-milenkovic/profil/spieler/413507,nikola milenkovic,nottingham forest,2025,GB1
+Nottingham Forest,703,Morato,673492,€14.00m,14000000.0,https://www.transfermarkt.com/morato/profil/spieler/673492,morato,nottingham forest,2025,GB1
+Nottingham Forest,703,Jair Cunha,984096,€13.00m,13000000.0,https://www.transfermarkt.com/jair-cunha/profil/spieler/984096,jair cunha,nottingham forest,2025,GB1
+Nottingham Forest,703,Willy Boly,142310,€1.20m,1200000.0,https://www.transfermarkt.com/willy-boly/profil/spieler/142310,willy boly,nottingham forest,2025,GB1
+Nottingham Forest,703,Zach Abbott,933017,€300k,300000.0,https://www.transfermarkt.com/zach-abbott/profil/spieler/933017,zach abbott,nottingham forest,2025,GB1
+Nottingham Forest,703,Neco Williams,503680,€24.00m,24000000.0,https://www.transfermarkt.com/neco-williams/profil/spieler/503680,neco williams,nottingham forest,2025,GB1
+Nottingham Forest,703,Oleksandr Zinchenko,203853,€18.00m,18000000.0,https://www.transfermarkt.com/oleksandr-zinchenko/profil/spieler/203853,oleksandr zinchenko,nottingham forest,2025,GB1
+Nottingham Forest,703,Ola Aina,236490,€22.00m,22000000.0,https://www.transfermarkt.com/ola-aina/profil/spieler/236490,ola aina,nottingham forest,2025,GB1
+Nottingham Forest,703,Nicolò Savona,708072,€12.00m,12000000.0,https://www.transfermarkt.com/nicolo-savona/profil/spieler/708072,nicolo savona,nottingham forest,2025,GB1
+Nottingham Forest,703,Ibrahim Sangaré,375885,€24.00m,24000000.0,https://www.transfermarkt.com/ibrahim-sangare/profil/spieler/375885,ibrahim sangare,nottingham forest,2025,GB1
+Nottingham Forest,703,Elliot Anderson,567576,€45.00m,45000000.0,https://www.transfermarkt.com/elliot-anderson/profil/spieler/567576,elliot anderson,nottingham forest,2025,GB1
+Nottingham Forest,703,Douglas Luiz,447661,€30.00m,30000000.0,https://www.transfermarkt.com/douglas-luiz/profil/spieler/447661,douglas luiz,nottingham forest,2025,GB1
+Nottingham Forest,703,Nicolás Domínguez,497291,€18.00m,18000000.0,https://www.transfermarkt.com/nicolas-dominguez/profil/spieler/497291,nicolas dominguez,nottingham forest,2025,GB1
+Nottingham Forest,703,Ryan Yates,425902,€12.00m,12000000.0,https://www.transfermarkt.com/ryan-yates/profil/spieler/425902,ryan yates,nottingham forest,2025,GB1
+Nottingham Forest,703,Morgan Gibbs-White,429014,€65.00m,65000000.0,https://www.transfermarkt.com/morgan-gibbs-white/profil/spieler/429014,morgan gibbs-white,nottingham forest,2025,GB1
+Nottingham Forest,703,Omari Hutchinson,741238,€35.00m,35000000.0,https://www.transfermarkt.com/omari-hutchinson/profil/spieler/741238,omari hutchinson,nottingham forest,2025,GB1
+Nottingham Forest,703,James McAtee,583199,€25.00m,25000000.0,https://www.transfermarkt.com/james-mcatee/profil/spieler/583199,james mcatee,nottingham forest,2025,GB1
+Nottingham Forest,703,Callum Hudson-Odoi,392768,€30.00m,30000000.0,https://www.transfermarkt.com/callum-hudson-odoi/profil/spieler/392768,callum hudson-odoi,nottingham forest,2025,GB1
+Nottingham Forest,703,Dan Ndoye,365108,€40.00m,40000000.0,https://www.transfermarkt.com/dan-ndoye/profil/spieler/365108,dan ndoye,nottingham forest,2025,GB1
+Nottingham Forest,703,Dilane Bakwa,540664,€35.00m,35000000.0,https://www.transfermarkt.com/dilane-bakwa/profil/spieler/540664,dilane bakwa,nottingham forest,2025,GB1
+Nottingham Forest,703,Arnaud Kalimuendo,585959,€30.00m,30000000.0,https://www.transfermarkt.com/arnaud-kalimuendo/profil/spieler/585959,arnaud kalimuendo,nottingham forest,2025,GB1
+Nottingham Forest,703,Igor Jesus,432164,€20.00m,20000000.0,https://www.transfermarkt.com/igor-jesus/profil/spieler/432164,igor jesus,nottingham forest,2025,GB1
+Nottingham Forest,703,Taiwo Awoniyi,295313,€14.00m,14000000.0,https://www.transfermarkt.com/taiwo-awoniyi/profil/spieler/295313,taiwo awoniyi,nottingham forest,2025,GB1
+Nottingham Forest,703,Chris Wood,108725,€10.00m,10000000.0,https://www.transfermarkt.com/chris-wood/profil/spieler/108725,chris wood,nottingham forest,2025,GB1
+Aston Villa,405,Emiliano Martínez,111873,€16.00m,16000000.0,https://www.transfermarkt.com/emiliano-martinez/profil/spieler/111873,emiliano martinez,aston villa,2025,GB1
+Aston Villa,405,Marco Bizot,124884,€3.00m,3000000.0,https://www.transfermarkt.com/marco-bizot/profil/spieler/124884,marco bizot,aston villa,2025,GB1
+Aston Villa,405,Ezri Konsa,413403,€35.00m,35000000.0,https://www.transfermarkt.com/ezri-konsa/profil/spieler/413403,ezri konsa,aston villa,2025,GB1
+Aston Villa,405,Pau Torres,399776,€30.00m,30000000.0,https://www.transfermarkt.com/pau-torres/profil/spieler/399776,pau torres,aston villa,2025,GB1
+Aston Villa,405,Victor Lindelöf,184573,€8.00m,8000000.0,https://www.transfermarkt.com/victor-lindelof/profil/spieler/184573,victor lindelof,aston villa,2025,GB1
+Aston Villa,405,Tyrone Mings,253677,€5.00m,5000000.0,https://www.transfermarkt.com/tyrone-mings/profil/spieler/253677,tyrone mings,aston villa,2025,GB1
+Aston Villa,405,Ian Maatsen,485585,€25.00m,25000000.0,https://www.transfermarkt.com/ian-maatsen/profil/spieler/485585,ian maatsen,aston villa,2025,GB1
+Aston Villa,405,Lucas Digne,126664,€10.00m,10000000.0,https://www.transfermarkt.com/lucas-digne/profil/spieler/126664,lucas digne,aston villa,2025,GB1
+Aston Villa,405,Matty Cash,425334,€25.00m,25000000.0,https://www.transfermarkt.com/matty-cash/profil/spieler/425334,matty cash,aston villa,2025,GB1
+Aston Villa,405,Andrés García,1063329,€7.00m,7000000.0,https://www.transfermarkt.com/andres-garcia/profil/spieler/1063329,andres garcia,aston villa,2025,GB1
+Aston Villa,405,Amadou Onana,485706,€42.00m,42000000.0,https://www.transfermarkt.com/amadou-onana/profil/spieler/485706,amadou onana,aston villa,2025,GB1
+Aston Villa,405,Boubacar Kamara,394327,€40.00m,40000000.0,https://www.transfermarkt.com/boubacar-kamara/profil/spieler/394327,boubacar kamara,aston villa,2025,GB1
+Aston Villa,405,Lamare Bogarde,645686,€10.00m,10000000.0,https://www.transfermarkt.com/lamare-bogarde/profil/spieler/645686,lamare bogarde,aston villa,2025,GB1
+Aston Villa,405,Youri Tielemans,249565,€38.00m,38000000.0,https://www.transfermarkt.com/youri-tielemans/profil/spieler/249565,youri tielemans,aston villa,2025,GB1
+Aston Villa,405,John McGinn,193116,€16.00m,16000000.0,https://www.transfermarkt.com/john-mcginn/profil/spieler/193116,john mcginn,aston villa,2025,GB1
+Aston Villa,405,Ross Barkley,131978,€6.00m,6000000.0,https://www.transfermarkt.com/ross-barkley/profil/spieler/131978,ross barkley,aston villa,2025,GB1
+Aston Villa,405,Morgan Rogers,503743,€65.00m,65000000.0,https://www.transfermarkt.com/morgan-rogers/profil/spieler/503743,morgan rogers,aston villa,2025,GB1
+Aston Villa,405,Harvey Elliott,565822,€35.00m,35000000.0,https://www.transfermarkt.com/harvey-elliott/profil/spieler/565822,harvey elliott,aston villa,2025,GB1
+Aston Villa,405,Emiliano Buendía,321247,€15.00m,15000000.0,https://www.transfermarkt.com/emiliano-buendia/profil/spieler/321247,emiliano buendia,aston villa,2025,GB1
+Aston Villa,405,Jadon Sancho,401173,€25.00m,25000000.0,https://www.transfermarkt.com/jadon-sancho/profil/spieler/401173,jadon sancho,aston villa,2025,GB1
+Aston Villa,405,Evann Guessand,500689,€30.00m,30000000.0,https://www.transfermarkt.com/evann-guessand/profil/spieler/500689,evann guessand,aston villa,2025,GB1
+Aston Villa,405,Donyell Malen,326029,€25.00m,25000000.0,https://www.transfermarkt.com/donyell-malen/profil/spieler/326029,donyell malen,aston villa,2025,GB1
+Aston Villa,405,Ollie Watkins,324358,€35.00m,35000000.0,https://www.transfermarkt.com/ollie-watkins/profil/spieler/324358,ollie watkins,aston villa,2025,GB1
+Brighton & Hove Albion,1237,Bart Verbruggen,565093,€35.00m,35000000.0,https://www.transfermarkt.com/bart-verbruggen/profil/spieler/565093,bart verbruggen,brighton & hove albion,2025,GB1
+Brighton & Hove Albion,1237,Jason Steele,73564,€1.00m,1000000.0,https://www.transfermarkt.com/jason-steele/profil/spieler/73564,jason steele,brighton & hove albion,2025,GB1
+Brighton & Hove Albion,1237,Tom McGill,406556,€600k,600000.0,https://www.transfermarkt.com/tom-mcgill/profil/spieler/406556,tom mcgill,brighton & hove albion,2025,GB1
+Brighton & Hove Albion,1237,Jan Paul van Hecke,576314,€35.00m,35000000.0,https://www.transfermarkt.com/jan-paul-van-hecke/profil/spieler/576314,jan paul van hecke,brighton & hove albion,2025,GB1
+Brighton & Hove Albion,1237,Olivier Boscagli,318508,€20.00m,20000000.0,https://www.transfermarkt.com/olivier-boscagli/profil/spieler/318508,olivier boscagli,brighton & hove albion,2025,GB1
+Brighton & Hove Albion,1237,Diego Coppola,660860,€10.00m,10000000.0,https://www.transfermarkt.com/diego-coppola/profil/spieler/660860,diego coppola,brighton & hove albion,2025,GB1
+Brighton & Hove Albion,1237,Adam Webster,212847,€9.00m,9000000.0,https://www.transfermarkt.com/adam-webster/profil/spieler/212847,adam webster,brighton & hove albion,2025,GB1
+Brighton & Hove Albion,1237,Lewis Dunk,148153,€6.00m,6000000.0,https://www.transfermarkt.com/lewis-dunk/profil/spieler/148153,lewis dunk,brighton & hove albion,2025,GB1
+Brighton & Hove Albion,1237,Ferdi Kadıoğlu,369316,€25.00m,25000000.0,https://www.transfermarkt.com/ferdi-kadioglu/profil/spieler/369316,ferdi kadıoglu,brighton & hove albion,2025,GB1
+Brighton & Hove Albion,1237,Maxim De Cuyper,429915,€20.00m,20000000.0,https://www.transfermarkt.com/maxim-de-cuyper/profil/spieler/429915,maxim de cuyper,brighton & hove albion,2025,GB1
+Brighton & Hove Albion,1237,Joël Veltman,111195,€4.00m,4000000.0,https://www.transfermarkt.com/joel-veltman/profil/spieler/111195,joel veltman,brighton & hove albion,2025,GB1
+Brighton & Hove Albion,1237,Carlos Baleba,973085,€60.00m,60000000.0,https://www.transfermarkt.com/carlos-baleba/profil/spieler/973085,carlos baleba,brighton & hove albion,2025,GB1
+Brighton & Hove Albion,1237,Mats Wieffer,415381,€25.00m,25000000.0,https://www.transfermarkt.com/mats-wieffer/profil/spieler/415381,mats wieffer,brighton & hove albion,2025,GB1
+Brighton & Hove Albion,1237,Jack Hinshelwood,867688,€24.00m,24000000.0,https://www.transfermarkt.com/jack-hinshelwood/profil/spieler/867688,jack hinshelwood,brighton & hove albion,2025,GB1
+Brighton & Hove Albion,1237,Yasin Ayari,667287,€28.00m,28000000.0,https://www.transfermarkt.com/yasin-ayari/profil/spieler/667287,yasin ayari,brighton & hove albion,2025,GB1
+Brighton & Hove Albion,1237,Diego Gómez,996897,€20.00m,20000000.0,https://www.transfermarkt.com/diego-gomez/profil/spieler/996897,diego gomez,brighton & hove albion,2025,GB1
+Brighton & Hove Albion,1237,James Milner,3333,€1.00m,1000000.0,https://www.transfermarkt.com/james-milner/profil/spieler/3333,james milner,brighton & hove albion,2025,GB1
+Brighton & Hove Albion,1237,Kaoru Mitoma,504849,€35.00m,35000000.0,https://www.transfermarkt.com/kaoru-mitoma/profil/spieler/504849,kaoru mitoma,brighton & hove albion,2025,GB1
+Brighton & Hove Albion,1237,Tom Watson,933018,€10.00m,10000000.0,https://www.transfermarkt.com/tom-watson/profil/spieler/933018,tom watson,brighton & hove albion,2025,GB1
+Brighton & Hove Albion,1237,Yankuba Minteh,1012534,€35.00m,35000000.0,https://www.transfermarkt.com/yankuba-minteh/profil/spieler/1012534,yankuba minteh,brighton & hove albion,2025,GB1
+Brighton & Hove Albion,1237,Brajan Gruda,700106,€28.00m,28000000.0,https://www.transfermarkt.com/brajan-gruda/profil/spieler/700106,brajan gruda,brighton & hove albion,2025,GB1
+Brighton & Hove Albion,1237,Solly March,209212,€5.00m,5000000.0,https://www.transfermarkt.com/solly-march/profil/spieler/209212,solly march,brighton & hove albion,2025,GB1
+Brighton & Hove Albion,1237,Georginio Rutter,538977,€32.00m,32000000.0,https://www.transfermarkt.com/georginio-rutter/profil/spieler/538977,georginio rutter,brighton & hove albion,2025,GB1
+Brighton & Hove Albion,1237,Charalampos Kostoulas,1060087,€25.00m,25000000.0,https://www.transfermarkt.com/charalampos-kostoulas/profil/spieler/1060087,charalampos kostoulas,brighton & hove albion,2025,GB1
+Brighton & Hove Albion,1237,Stefanos Tzimas,950091,€22.00m,22000000.0,https://www.transfermarkt.com/stefanos-tzimas/profil/spieler/950091,stefanos tzimas,brighton & hove albion,2025,GB1
+Brighton & Hove Albion,1237,Danny Welbeck,67063,€5.00m,5000000.0,https://www.transfermarkt.com/danny-welbeck/profil/spieler/67063,danny welbeck,brighton & hove albion,2025,GB1
+Crystal Palace,873,Dean Henderson,258919,€25.00m,25000000.0,https://www.transfermarkt.com/dean-henderson/profil/spieler/258919,dean henderson,crystal palace,2025,GB1
+Crystal Palace,873,Walter Benítez,296802,€6.00m,6000000.0,https://www.transfermarkt.com/walter-benitez/profil/spieler/296802,walter benitez,crystal palace,2025,GB1
+Crystal Palace,873,Remi Matthews,196722,€400k,400000.0,https://www.transfermarkt.com/remi-matthews/profil/spieler/196722,remi matthews,crystal palace,2025,GB1
+Crystal Palace,873,Marc Guéhi,392757,€50.00m,50000000.0,https://www.transfermarkt.com/marc-guehi/profil/spieler/392757,marc guehi,crystal palace,2025,GB1
+Crystal Palace,873,Maxence Lacroix,434224,€32.00m,32000000.0,https://www.transfermarkt.com/maxence-lacroix/profil/spieler/434224,maxence lacroix,crystal palace,2025,GB1
+Crystal Palace,873,Chris Richards,578539,€22.00m,22000000.0,https://www.transfermarkt.com/chris-richards/profil/spieler/578539,chris richards,crystal palace,2025,GB1
+Crystal Palace,873,Jaydee Canvot,1006411,€20.00m,20000000.0,https://www.transfermarkt.com/jaydee-canvot/profil/spieler/1006411,jaydee canvot,crystal palace,2025,GB1
+Crystal Palace,873,Chadi Riad,689637,€12.00m,12000000.0,https://www.transfermarkt.com/chadi-riad/profil/spieler/689637,chadi riad,crystal palace,2025,GB1
+Crystal Palace,873,Tyrick Mitchell,730893,€25.00m,25000000.0,https://www.transfermarkt.com/tyrick-mitchell/profil/spieler/730893,tyrick mitchell,crystal palace,2025,GB1
+Crystal Palace,873,Borna Sosa,293194,€4.50m,4500000.0,https://www.transfermarkt.com/borna-sosa/profil/spieler/293194,borna sosa,crystal palace,2025,GB1
+Crystal Palace,873,Rio Cardines,1047257,€100k,100000.0,https://www.transfermarkt.com/rio-cardines/profil/spieler/1047257,rio cardines,crystal palace,2025,GB1
+Crystal Palace,873,Daniel Muñoz,493003,€25.00m,25000000.0,https://www.transfermarkt.com/daniel-munoz/profil/spieler/493003,daniel munoz,crystal palace,2025,GB1
+Crystal Palace,873,Caleb Kporha,1047261,€1.00m,1000000.0,https://www.transfermarkt.com/caleb-kporha/profil/spieler/1047261,caleb kporha,crystal palace,2025,GB1
+Crystal Palace,873,Nathaniel Clyne,85177,€750k,750000.0,https://www.transfermarkt.com/nathaniel-clyne/profil/spieler/85177,nathaniel clyne,crystal palace,2025,GB1
+Crystal Palace,873,Adam Wharton,744149,€60.00m,60000000.0,https://www.transfermarkt.com/adam-wharton/profil/spieler/744149,adam wharton,crystal palace,2025,GB1
+Crystal Palace,873,Cheick Doucouré,543387,€20.00m,20000000.0,https://www.transfermarkt.com/cheick-doucoure/profil/spieler/543387,cheick doucoure,crystal palace,2025,GB1
+Crystal Palace,873,Jefferson Lerma,262980,€10.00m,10000000.0,https://www.transfermarkt.com/jefferson-lerma/profil/spieler/262980,jefferson lerma,crystal palace,2025,GB1
+Crystal Palace,873,Kaden Rodney,860078,€200k,200000.0,https://www.transfermarkt.com/kaden-rodney/profil/spieler/860078,kaden rodney,crystal palace,2025,GB1
+Crystal Palace,873,Will Hughes,207014,€7.00m,7000000.0,https://www.transfermarkt.com/will-hughes/profil/spieler/207014,will hughes,crystal palace,2025,GB1
+Crystal Palace,873,Naouirou Ahamada,538971,€3.50m,3500000.0,https://www.transfermarkt.com/naouirou-ahamada/profil/spieler/538971,naouirou ahamada,crystal palace,2025,GB1
+Crystal Palace,873,Daichi Kamada,356141,€12.00m,12000000.0,https://www.transfermarkt.com/daichi-kamada/profil/spieler/356141,daichi kamada,crystal palace,2025,GB1
+Crystal Palace,873,Justin Devenny,747009,€8.00m,8000000.0,https://www.transfermarkt.com/justin-devenny/profil/spieler/747009,justin devenny,crystal palace,2025,GB1
+Crystal Palace,873,Asher Agbinone,1047256,€75k,75000.0,https://www.transfermarkt.com/asher-agbinone/profil/spieler/1047256,asher agbinone,crystal palace,2025,GB1
+Crystal Palace,873,Ismaïla Sarr,410225,€30.00m,30000000.0,https://www.transfermarkt.com/ismaila-sarr/profil/spieler/410225,ismaila sarr,crystal palace,2025,GB1
+Crystal Palace,873,Yéremy Pino,568157,€30.00m,30000000.0,https://www.transfermarkt.com/yeremy-pino/profil/spieler/568157,yeremy pino,crystal palace,2025,GB1
+Crystal Palace,873,Romain Esse,967319,€12.00m,12000000.0,https://www.transfermarkt.com/romain-esse/profil/spieler/967319,romain esse,crystal palace,2025,GB1
+Crystal Palace,873,Jean-Philippe Mateta,420002,€35.00m,35000000.0,https://www.transfermarkt.com/jean-philippe-mateta/profil/spieler/420002,jean-philippe mateta,crystal palace,2025,GB1
+Crystal Palace,873,Eddie Nketiah,340324,€18.00m,18000000.0,https://www.transfermarkt.com/eddie-nketiah/profil/spieler/340324,eddie nketiah,crystal palace,2025,GB1
+Crystal Palace,873,Christantus Uche,1124005,€15.00m,15000000.0,https://www.transfermarkt.com/christantus-uche/profil/spieler/1124005,christantus uche,crystal palace,2025,GB1
+Crystal Palace,873,Zach Marsh,1004679,-,,https://www.transfermarkt.com/zach-marsh/profil/spieler/1004679,zach marsh,crystal palace,2025,GB1
+AFC Bournemouth,989,Djordje Petrovic,465555,€28.00m,28000000.0,https://www.transfermarkt.com/djordje-petrovic/profil/spieler/465555,djordje petrovic,afc bournemouth,2025,GB1
+AFC Bournemouth,989,Will Dennis,582078,€350k,350000.0,https://www.transfermarkt.com/will-dennis/profil/spieler/582078,will dennis,afc bournemouth,2025,GB1
+AFC Bournemouth,989,Bafodé Diakité,463605,€35.00m,35000000.0,https://www.transfermarkt.com/bafode-diakite/profil/spieler/463605,bafode diakite,afc bournemouth,2025,GB1
+AFC Bournemouth,989,Marcos Senesi,469781,€22.00m,22000000.0,https://www.transfermarkt.com/marcos-senesi/profil/spieler/469781,marcos senesi,afc bournemouth,2025,GB1
+AFC Bournemouth,989,Veljko Milosavljevic,989112,€15.00m,15000000.0,https://www.transfermarkt.com/veljko-milosavljevic/profil/spieler/989112,veljko milosavljevic,afc bournemouth,2025,GB1
+AFC Bournemouth,989,James Hill,611793,€5.00m,5000000.0,https://www.transfermarkt.com/james-hill/profil/spieler/611793,james hill,afc bournemouth,2025,GB1
+AFC Bournemouth,989,Matai Akinmboni,994604,€1.00m,1000000.0,https://www.transfermarkt.com/matai-akinmboni/profil/spieler/994604,matai akinmboni,afc bournemouth,2025,GB1
+AFC Bournemouth,989,Adrien Truffert,654539,€15.00m,15000000.0,https://www.transfermarkt.com/adrien-truffert/profil/spieler/654539,adrien truffert,afc bournemouth,2025,GB1
+AFC Bournemouth,989,Julio Soler,1009658,€8.00m,8000000.0,https://www.transfermarkt.com/julio-soler/profil/spieler/1009658,julio soler,afc bournemouth,2025,GB1
+AFC Bournemouth,989,Álex Jiménez,741257,€15.00m,15000000.0,https://www.transfermarkt.com/alex-jimenez/profil/spieler/741257,alex jimenez,afc bournemouth,2025,GB1
+AFC Bournemouth,989,Julián Araujo,513970,€10.00m,10000000.0,https://www.transfermarkt.com/julian-araujo/profil/spieler/513970,julian araujo,afc bournemouth,2025,GB1
+AFC Bournemouth,989,Adam Smith,61841,€750k,750000.0,https://www.transfermarkt.com/adam-smith/profil/spieler/61841,adam smith,afc bournemouth,2025,GB1
+AFC Bournemouth,989,Tyler Adams,332705,€20.00m,20000000.0,https://www.transfermarkt.com/tyler-adams/profil/spieler/332705,tyler adams,afc bournemouth,2025,GB1
+AFC Bournemouth,989,Alex Scott,855256,€25.00m,25000000.0,https://www.transfermarkt.com/alex-scott/profil/spieler/855256,alex scott,afc bournemouth,2025,GB1
+AFC Bournemouth,989,Lewis Cook,249089,€15.00m,15000000.0,https://www.transfermarkt.com/lewis-cook/profil/spieler/249089,lewis cook,afc bournemouth,2025,GB1
+AFC Bournemouth,989,Ryan Christie,188077,€10.00m,10000000.0,https://www.transfermarkt.com/ryan-christie/profil/spieler/188077,ryan christie,afc bournemouth,2025,GB1
+AFC Bournemouth,989,Marcus Tavernier,399434,€18.00m,18000000.0,https://www.transfermarkt.com/marcus-tavernier/profil/spieler/399434,marcus tavernier,afc bournemouth,2025,GB1
+AFC Bournemouth,989,Justin Kluivert,330659,€35.00m,35000000.0,https://www.transfermarkt.com/justin-kluivert/profil/spieler/330659,justin kluivert,afc bournemouth,2025,GB1
+AFC Bournemouth,989,Amine Adli,532776,€20.00m,20000000.0,https://www.transfermarkt.com/amine-adli/profil/spieler/532776,amine adli,afc bournemouth,2025,GB1
+AFC Bournemouth,989,Antoine Semenyo,583255,€55.00m,55000000.0,https://www.transfermarkt.com/antoine-semenyo/profil/spieler/583255,antoine semenyo,afc bournemouth,2025,GB1
+AFC Bournemouth,989,Ben Gannon-Doak,719673,€18.00m,18000000.0,https://www.transfermarkt.com/ben-gannon-doak/profil/spieler/719673,ben gannon-doak,afc bournemouth,2025,GB1
+AFC Bournemouth,989,David Brooks,277033,€12.00m,12000000.0,https://www.transfermarkt.com/david-brooks/profil/spieler/277033,david brooks,afc bournemouth,2025,GB1
+AFC Bournemouth,989,Evanilson,711337,€40.00m,40000000.0,https://www.transfermarkt.com/evanilson/profil/spieler/711337,evanilson,afc bournemouth,2025,GB1
+AFC Bournemouth,989,Eli Kroupi,955357,€15.00m,15000000.0,https://www.transfermarkt.com/eli-kroupi/profil/spieler/955357,eli kroupi,afc bournemouth,2025,GB1
+AFC Bournemouth,989,Enes Ünal,251106,€10.00m,10000000.0,https://www.transfermarkt.com/enes-unal/profil/spieler/251106,enes unal,afc bournemouth,2025,GB1
+Brentford FC,1148,Caoimhín Kelleher,340918,€20.00m,20000000.0,https://www.transfermarkt.com/caoimhin-kelleher/profil/spieler/340918,caoimhin kelleher,brentford fc,2025,GB1
+Brentford FC,1148,Hákon Valdimarsson,488935,€2.50m,2500000.0,https://www.transfermarkt.com/hakon-valdimarsson/profil/spieler/488935,hakon valdimarsson,brentford fc,2025,GB1
+Brentford FC,1148,Matthew Cox,741236,€800k,800000.0,https://www.transfermarkt.com/matthew-cox/profil/spieler/741236,matthew cox,brentford fc,2025,GB1
+Brentford FC,1148,Ellery Balcombe,456292,€400k,400000.0,https://www.transfermarkt.com/ellery-balcombe/profil/spieler/456292,ellery balcombe,brentford fc,2025,GB1
+Brentford FC,1148,Nathan Collins,469050,€35.00m,35000000.0,https://www.transfermarkt.com/nathan-collins/profil/spieler/469050,nathan collins,brentford fc,2025,GB1
+Brentford FC,1148,Sepp van den Berg,541231,€25.00m,25000000.0,https://www.transfermarkt.com/sepp-van-den-berg/profil/spieler/541231,sepp van den berg,brentford fc,2025,GB1
+Brentford FC,1148,Kristoffer Ajer,328658,€16.00m,16000000.0,https://www.transfermarkt.com/kristoffer-ajer/profil/spieler/328658,kristoffer ajer,brentford fc,2025,GB1
+Brentford FC,1148,Ethan Pinnock,442248,€7.00m,7000000.0,https://www.transfermarkt.com/ethan-pinnock/profil/spieler/442248,ethan pinnock,brentford fc,2025,GB1
+Brentford FC,1148,Benjamin Arthur,1144158,-,,https://www.transfermarkt.com/benjamin-arthur/profil/spieler/1144158,benjamin arthur,brentford fc,2025,GB1
+Brentford FC,1148,Rico Henry,339556,€15.00m,15000000.0,https://www.transfermarkt.com/rico-henry/profil/spieler/339556,rico henry,brentford fc,2025,GB1
+Brentford FC,1148,Michael Kayode,823486,€20.00m,20000000.0,https://www.transfermarkt.com/michael-kayode/profil/spieler/823486,michael kayode,brentford fc,2025,GB1
+Brentford FC,1148,Aaron Hickey,591949,€15.00m,15000000.0,https://www.transfermarkt.com/aaron-hickey/profil/spieler/591949,aaron hickey,brentford fc,2025,GB1
+Brentford FC,1148,Vitaly Janelt,270171,€20.00m,20000000.0,https://www.transfermarkt.com/vitaly-janelt/profil/spieler/270171,vitaly janelt,brentford fc,2025,GB1
+Brentford FC,1148,Yunus Konak,1141628,€4.50m,4500000.0,https://www.transfermarkt.com/yunus-konak/profil/spieler/1141628,yunus konak,brentford fc,2025,GB1
+Brentford FC,1148,Jordan Henderson,61651,€2.50m,2500000.0,https://www.transfermarkt.com/jordan-henderson/profil/spieler/61651,jordan henderson,brentford fc,2025,GB1
+Brentford FC,1148,Yegor Yarmolyuk,717411,€20.00m,20000000.0,https://www.transfermarkt.com/yegor-yarmolyuk/profil/spieler/717411,yegor yarmolyuk,brentford fc,2025,GB1
+Brentford FC,1148,Mathias Jensen,319859,€14.00m,14000000.0,https://www.transfermarkt.com/mathias-jensen/profil/spieler/319859,mathias jensen,brentford fc,2025,GB1
+Brentford FC,1148,Frank Onyeka,421637,€7.00m,7000000.0,https://www.transfermarkt.com/frank-onyeka/profil/spieler/421637,frank onyeka,brentford fc,2025,GB1
+Brentford FC,1148,Josh Dasilva,340321,€3.00m,3000000.0,https://www.transfermarkt.com/josh-dasilva/profil/spieler/340321,josh dasilva,brentford fc,2025,GB1
+Brentford FC,1148,Paris Maghoma,470596,€800k,800000.0,https://www.transfermarkt.com/paris-maghoma/profil/spieler/470596,paris maghoma,brentford fc,2025,GB1
+Brentford FC,1148,Keane Lewis-Potter,644401,€25.00m,25000000.0,https://www.transfermarkt.com/keane-lewis-potter/profil/spieler/644401,keane lewis-potter,brentford fc,2025,GB1
+Brentford FC,1148,Mikkel Damsgaard,540941,€30.00m,30000000.0,https://www.transfermarkt.com/mikkel-damsgaard/profil/spieler/540941,mikkel damsgaard,brentford fc,2025,GB1
+Brentford FC,1148,Antoni Milambo,683620,€20.00m,20000000.0,https://www.transfermarkt.com/antoni-milambo/profil/spieler/683620,antoni milambo,brentford fc,2025,GB1
+Brentford FC,1148,Fábio Carvalho,559263,€14.00m,14000000.0,https://www.transfermarkt.com/fabio-carvalho/profil/spieler/559263,fabio carvalho,brentford fc,2025,GB1
+Brentford FC,1148,Myles Peart-Harris,587002,€900k,900000.0,https://www.transfermarkt.com/myles-peart-harris/profil/spieler/587002,myles peart-harris,brentford fc,2025,GB1
+Brentford FC,1148,Dango Ouattara,823231,€35.00m,35000000.0,https://www.transfermarkt.com/dango-ouattara/profil/spieler/823231,dango ouattara,brentford fc,2025,GB1
+Brentford FC,1148,Kevin Schade,473050,€30.00m,30000000.0,https://www.transfermarkt.com/kevin-schade/profil/spieler/473050,kevin schade,brentford fc,2025,GB1
+Brentford FC,1148,Reiss Nelson,340325,€16.00m,16000000.0,https://www.transfermarkt.com/reiss-nelson/profil/spieler/340325,reiss nelson,brentford fc,2025,GB1
+Brentford FC,1148,Gustavo Nunes,1086375,€10.00m,10000000.0,https://www.transfermarkt.com/gustavo-nunes/profil/spieler/1086375,gustavo nunes,brentford fc,2025,GB1
+Brentford FC,1148,Romelle Donovan,1091562,€3.50m,3500000.0,https://www.transfermarkt.com/romelle-donovan/profil/spieler/1091562,romelle donovan,brentford fc,2025,GB1
+Brentford FC,1148,Igor Thiago,739443,€22.00m,22000000.0,https://www.transfermarkt.com/igor-thiago/profil/spieler/739443,igor thiago,brentford fc,2025,GB1
+Everton FC,29,Jordan Pickford,130164,€18.00m,18000000.0,https://www.transfermarkt.com/jordan-pickford/profil/spieler/130164,jordan pickford,everton fc,2025,GB1
+Everton FC,29,Mark Travers,357658,€4.00m,4000000.0,https://www.transfermarkt.com/mark-travers/profil/spieler/357658,mark travers,everton fc,2025,GB1
+Everton FC,29,Harry Tyrer,574448,€400k,400000.0,https://www.transfermarkt.com/harry-tyrer/profil/spieler/574448,harry tyrer,everton fc,2025,GB1
+Everton FC,29,Tom King,215810,€200k,200000.0,https://www.transfermarkt.com/tom-king/profil/spieler/215810,tom king,everton fc,2025,GB1
+Everton FC,29,Jarrad Branthwaite,661053,€50.00m,50000000.0,https://www.transfermarkt.com/jarrad-branthwaite/profil/spieler/661053,jarrad branthwaite,everton fc,2025,GB1
+Everton FC,29,James Tarkowski,173504,€9.00m,9000000.0,https://www.transfermarkt.com/james-tarkowski/profil/spieler/173504,james tarkowski,everton fc,2025,GB1
+Everton FC,29,Michael Keane,118534,€5.00m,5000000.0,https://www.transfermarkt.com/michael-keane/profil/spieler/118534,michael keane,everton fc,2025,GB1
+Everton FC,29,Vitaliy Mykolenko,404842,€25.00m,25000000.0,https://www.transfermarkt.com/vitaliy-mykolenko/profil/spieler/404842,vitaliy mykolenko,everton fc,2025,GB1
+Everton FC,29,Adam Aznou,938146,€7.00m,7000000.0,https://www.transfermarkt.com/adam-aznou/profil/spieler/938146,adam aznou,everton fc,2025,GB1
+Everton FC,29,Jake O'Brien,711544,€18.00m,18000000.0,https://www.transfermarkt.com/jake-obrien/profil/spieler/711544,jake o'brien,everton fc,2025,GB1
+Everton FC,29,Nathan Patterson,424015,€13.00m,13000000.0,https://www.transfermarkt.com/nathan-patterson/profil/spieler/424015,nathan patterson,everton fc,2025,GB1
+Everton FC,29,Séamus Coleman,68390,€500k,500000.0,https://www.transfermarkt.com/seamus-coleman/profil/spieler/68390,seamus coleman,everton fc,2025,GB1
+Everton FC,29,James Garner,505219,€22.00m,22000000.0,https://www.transfermarkt.com/james-garner/profil/spieler/505219,james garner,everton fc,2025,GB1
+Everton FC,29,Idrissa Gueye,126665,€1.50m,1500000.0,https://www.transfermarkt.com/idrissa-gueye/profil/spieler/126665,idrissa gueye,everton fc,2025,GB1
+Everton FC,29,Kiernan Dewsbury-Hall,475188,€25.00m,25000000.0,https://www.transfermarkt.com/kiernan-dewsbury-hall/profil/spieler/475188,kiernan dewsbury-hall,everton fc,2025,GB1
+Everton FC,29,Carlos Alcaraz,748319,€15.00m,15000000.0,https://www.transfermarkt.com/carlos-alcaraz/profil/spieler/748319,carlos alcaraz,everton fc,2025,GB1
+Everton FC,29,Tim Iroegbunam,696589,€11.00m,11000000.0,https://www.transfermarkt.com/tim-iroegbunam/profil/spieler/696589,tim iroegbunam,everton fc,2025,GB1
+Everton FC,29,Merlin Röhl,608832,€18.00m,18000000.0,https://www.transfermarkt.com/merlin-rohl/profil/spieler/608832,merlin rohl,everton fc,2025,GB1
+Everton FC,29,Jack Grealish,203460,€28.00m,28000000.0,https://www.transfermarkt.com/jack-grealish/profil/spieler/203460,jack grealish,everton fc,2025,GB1
+Everton FC,29,Dwight McNeil,584769,€22.00m,22000000.0,https://www.transfermarkt.com/dwight-mcneil/profil/spieler/584769,dwight mcneil,everton fc,2025,GB1
+Everton FC,29,Iliman Ndiaye,623570,€35.00m,35000000.0,https://www.transfermarkt.com/iliman-ndiaye/profil/spieler/623570,iliman ndiaye,everton fc,2025,GB1
+Everton FC,29,Tyler Dibling,866655,€35.00m,35000000.0,https://www.transfermarkt.com/tyler-dibling/profil/spieler/866655,tyler dibling,everton fc,2025,GB1
+Everton FC,29,Thierno Barry,937941,€30.00m,30000000.0,https://www.transfermarkt.com/thierno-barry/profil/spieler/937941,thierno barry,everton fc,2025,GB1
+Everton FC,29,Beto,595809,€22.00m,22000000.0,https://www.transfermarkt.com/beto/profil/spieler/595809,beto,everton fc,2025,GB1
+West Ham United,379,Mads Hermansen,400536,€18.00m,18000000.0,https://www.transfermarkt.com/mads-hermansen/profil/spieler/400536,mads hermansen,west ham united,2025,GB1
+West Ham United,379,Alphonse Areola,120629,€9.00m,9000000.0,https://www.transfermarkt.com/alphonse-areola/profil/spieler/120629,alphonse areola,west ham united,2025,GB1
+West Ham United,379,Lukasz Fabianski,29692,€500k,500000.0,https://www.transfermarkt.com/lukasz-fabianski/profil/spieler/29692,lukasz fabianski,west ham united,2025,GB1
+West Ham United,379,Maximilian Kilman,525247,€25.00m,25000000.0,https://www.transfermarkt.com/maximilian-kilman/profil/spieler/525247,maximilian kilman,west ham united,2025,GB1
+West Ham United,379,Jean-Clair Todibo,605184,€25.00m,25000000.0,https://www.transfermarkt.com/jean-clair-todibo/profil/spieler/605184,jean-clair todibo,west ham united,2025,GB1
+West Ham United,379,Igor Julio,380350,€18.00m,18000000.0,https://www.transfermarkt.com/igor-julio/profil/spieler/380350,igor julio,west ham united,2025,GB1
+West Ham United,379,Konstantinos Mavropanos,415912,€17.00m,17000000.0,https://www.transfermarkt.com/konstantinos-mavropanos/profil/spieler/415912,konstantinos mavropanos,west ham united,2025,GB1
+West Ham United,379,El Hadji Malick Diouf,1111589,€25.00m,25000000.0,https://www.transfermarkt.com/el-hadji-malick-diouf/profil/spieler/1111589,el hadji malick diouf,west ham united,2025,GB1
+West Ham United,379,Oliver Scarles,922563,€8.00m,8000000.0,https://www.transfermarkt.com/oliver-scarles/profil/spieler/922563,oliver scarles,west ham united,2025,GB1
+West Ham United,379,Aaron Wan-Bissaka,477758,€24.00m,24000000.0,https://www.transfermarkt.com/aaron-wan-bissaka/profil/spieler/477758,aaron wan-bissaka,west ham united,2025,GB1
+West Ham United,379,Kyle Walker-Peters,341051,€15.00m,15000000.0,https://www.transfermarkt.com/kyle-walker-peters/profil/spieler/341051,kyle walker-peters,west ham united,2025,GB1
+West Ham United,379,Soungoutou Magassa,745181,€17.00m,17000000.0,https://www.transfermarkt.com/soungoutou-magassa/profil/spieler/745181,soungoutou magassa,west ham united,2025,GB1
+West Ham United,379,Tomáš Souček,283628,€15.00m,15000000.0,https://www.transfermarkt.com/tomas-soucek/profil/spieler/283628,tomas soucek,west ham united,2025,GB1
+West Ham United,379,Guido Rodríguez,342385,€8.00m,8000000.0,https://www.transfermarkt.com/guido-rodriguez/profil/spieler/342385,guido rodriguez,west ham united,2025,GB1
+West Ham United,379,Freddie Potts,698164,€2.50m,2500000.0,https://www.transfermarkt.com/freddie-potts/profil/spieler/698164,freddie potts,west ham united,2025,GB1
+West Ham United,379,Mateus Fernandes,880245,€32.00m,32000000.0,https://www.transfermarkt.com/mateus-fernandes/profil/spieler/880245,mateus fernandes,west ham united,2025,GB1
+West Ham United,379,James Ward-Prowse,181579,€8.00m,8000000.0,https://www.transfermarkt.com/james-ward-prowse/profil/spieler/181579,james ward-prowse,west ham united,2025,GB1
+West Ham United,379,Andrew Irving,430310,€4.00m,4000000.0,https://www.transfermarkt.com/andrew-irving/profil/spieler/430310,andrew irving,west ham united,2025,GB1
+West Ham United,379,Lucas Paquetá,444523,€35.00m,35000000.0,https://www.transfermarkt.com/lucas-paqueta/profil/spieler/444523,lucas paqueta,west ham united,2025,GB1
+West Ham United,379,George Earthy,697280,€2.00m,2000000.0,https://www.transfermarkt.com/george-earthy/profil/spieler/697280,george earthy,west ham united,2025,GB1
+West Ham United,379,Crysencio Summerville,474701,€22.00m,22000000.0,https://www.transfermarkt.com/crysencio-summerville/profil/spieler/474701,crysencio summerville,west ham united,2025,GB1
+West Ham United,379,Jarrod Bowen,314875,€40.00m,40000000.0,https://www.transfermarkt.com/jarrod-bowen/profil/spieler/314875,jarrod bowen,west ham united,2025,GB1
+West Ham United,379,Luís Guilherme,991800,€12.00m,12000000.0,https://www.transfermarkt.com/luis-guilherme/profil/spieler/991800,luis guilherme,west ham united,2025,GB1
+West Ham United,379,Niclas Füllkrug,75489,€10.00m,10000000.0,https://www.transfermarkt.com/niclas-fullkrug/profil/spieler/75489,niclas fullkrug,west ham united,2025,GB1
+West Ham United,379,Callum Wilson,123682,€7.00m,7000000.0,https://www.transfermarkt.com/callum-wilson/profil/spieler/123682,callum wilson,west ham united,2025,GB1
+West Ham United,379,Callum Marshall,953135,€1.80m,1800000.0,https://www.transfermarkt.com/callum-marshall/profil/spieler/953135,callum marshall,west ham united,2025,GB1
+Wolverhampton Wanderers,543,José Sá,249994,€7.00m,7000000.0,https://www.transfermarkt.com/jose-sa/profil/spieler/249994,jose sa,wolverhampton wanderers,2025,GB1
+Wolverhampton Wanderers,543,Sam Johnstone,110864,€6.00m,6000000.0,https://www.transfermarkt.com/sam-johnstone/profil/spieler/110864,sam johnstone,wolverhampton wanderers,2025,GB1
+Wolverhampton Wanderers,543,Daniel Bentley,136401,€1.50m,1500000.0,https://www.transfermarkt.com/daniel-bentley/profil/spieler/136401,daniel bentley,wolverhampton wanderers,2025,GB1
+Wolverhampton Wanderers,543,Toti,606718,€28.00m,28000000.0,https://www.transfermarkt.com/toti/profil/spieler/606718,toti,wolverhampton wanderers,2025,GB1
+Wolverhampton Wanderers,543,Ladislav Krejci,345911,€22.00m,22000000.0,https://www.transfermarkt.com/ladislav-krejci/profil/spieler/345911,ladislav krejci,wolverhampton wanderers,2025,GB1
+Wolverhampton Wanderers,543,Emmanuel Agbadou,683895,€20.00m,20000000.0,https://www.transfermarkt.com/emmanuel-agbadou/profil/spieler/683895,emmanuel agbadou,wolverhampton wanderers,2025,GB1
+Wolverhampton Wanderers,543,Santiago Bueno,438001,€10.00m,10000000.0,https://www.transfermarkt.com/santiago-bueno/profil/spieler/438001,santiago bueno,wolverhampton wanderers,2025,GB1
+Wolverhampton Wanderers,543,Yerson Mosquera,716276,€10.00m,10000000.0,https://www.transfermarkt.com/yerson-mosquera/profil/spieler/716276,yerson mosquera,wolverhampton wanderers,2025,GB1
+Wolverhampton Wanderers,543,David Møller Wolfe,661427,€12.00m,12000000.0,https://www.transfermarkt.com/david-moller-wolfe/profil/spieler/661427,david møller wolfe,wolverhampton wanderers,2025,GB1
+Wolverhampton Wanderers,543,Hugo Bueno,698678,€8.00m,8000000.0,https://www.transfermarkt.com/hugo-bueno/profil/spieler/698678,hugo bueno,wolverhampton wanderers,2025,GB1
+Wolverhampton Wanderers,543,Jackson Tchatchoua,848509,€12.00m,12000000.0,https://www.transfermarkt.com/jackson-tchatchoua/profil/spieler/848509,jackson tchatchoua,wolverhampton wanderers,2025,GB1
+Wolverhampton Wanderers,543,Ki-Jana Hoever,485583,€5.00m,5000000.0,https://www.transfermarkt.com/ki-jana-hoever/profil/spieler/485583,ki-jana hoever,wolverhampton wanderers,2025,GB1
+Wolverhampton Wanderers,543,Matt Doherty,171679,€2.00m,2000000.0,https://www.transfermarkt.com/matt-doherty/profil/spieler/171679,matt doherty,wolverhampton wanderers,2025,GB1
+Wolverhampton Wanderers,543,André,800176,€28.00m,28000000.0,https://www.transfermarkt.com/andre/profil/spieler/800176,andre,wolverhampton wanderers,2025,GB1
+Wolverhampton Wanderers,543,João Gomes,735570,€40.00m,40000000.0,https://www.transfermarkt.com/joao-gomes/profil/spieler/735570,joao gomes,wolverhampton wanderers,2025,GB1
+Wolverhampton Wanderers,543,Jean-Ricner Bellegarde,450050,€18.00m,18000000.0,https://www.transfermarkt.com/jean-ricner-bellegarde/profil/spieler/450050,jean-ricner bellegarde,wolverhampton wanderers,2025,GB1
+Wolverhampton Wanderers,543,Marshall Munetsi,414908,€15.00m,15000000.0,https://www.transfermarkt.com/marshall-munetsi/profil/spieler/414908,marshall munetsi,wolverhampton wanderers,2025,GB1
+Wolverhampton Wanderers,543,Rodrigo Gomes,667121,€15.00m,15000000.0,https://www.transfermarkt.com/rodrigo-gomes/profil/spieler/667121,rodrigo gomes,wolverhampton wanderers,2025,GB1
+Wolverhampton Wanderers,543,Fer López,1064471,€18.00m,18000000.0,https://www.transfermarkt.com/fer-lopez/profil/spieler/1064471,fer lopez,wolverhampton wanderers,2025,GB1
+Wolverhampton Wanderers,543,Tawanda Chirewa,724783,€500k,500000.0,https://www.transfermarkt.com/tawanda-chirewa/profil/spieler/724783,tawanda chirewa,wolverhampton wanderers,2025,GB1
+Wolverhampton Wanderers,543,Enso González,1060740,€4.00m,4000000.0,https://www.transfermarkt.com/enso-gonzalez/profil/spieler/1060740,enso gonzalez,wolverhampton wanderers,2025,GB1
+Wolverhampton Wanderers,543,Jhon Arias,588989,€17.00m,17000000.0,https://www.transfermarkt.com/jhon-arias/profil/spieler/588989,jhon arias,wolverhampton wanderers,2025,GB1
+Wolverhampton Wanderers,543,Jørgen Strand Larsen,429983,€40.00m,40000000.0,https://www.transfermarkt.com/jorgen-strand-larsen/profil/spieler/429983,jørgen strand larsen,wolverhampton wanderers,2025,GB1
+Wolverhampton Wanderers,543,Tolu Arokodare,683571,€25.00m,25000000.0,https://www.transfermarkt.com/tolu-arokodare/profil/spieler/683571,tolu arokodare,wolverhampton wanderers,2025,GB1
+Wolverhampton Wanderers,543,Hee-chan Hwang,292246,€12.00m,12000000.0,https://www.transfermarkt.com/hee-chan-hwang/profil/spieler/292246,hee-chan hwang,wolverhampton wanderers,2025,GB1
+Wolverhampton Wanderers,543,Nathan Fraser,863741,€600k,600000.0,https://www.transfermarkt.com/nathan-fraser/profil/spieler/863741,nathan fraser,wolverhampton wanderers,2025,GB1
+Fulham FC,931,Bernd Leno,72476,€10.00m,10000000.0,https://www.transfermarkt.com/bernd-leno/profil/spieler/72476,bernd leno,fulham fc,2025,GB1
+Fulham FC,931,Benjamin Lecomte,127181,€1.50m,1500000.0,https://www.transfermarkt.com/benjamin-lecomte/profil/spieler/127181,benjamin lecomte,fulham fc,2025,GB1
+Fulham FC,931,Calvin Bassey,461883,€28.00m,28000000.0,https://www.transfermarkt.com/calvin-bassey/profil/spieler/461883,calvin bassey,fulham fc,2025,GB1
+Fulham FC,931,Joachim Andersen,260827,€27.00m,27000000.0,https://www.transfermarkt.com/joachim-andersen/profil/spieler/260827,joachim andersen,fulham fc,2025,GB1
+Fulham FC,931,Issa Diop,272622,€12.00m,12000000.0,https://www.transfermarkt.com/issa-diop/profil/spieler/272622,issa diop,fulham fc,2025,GB1
+Fulham FC,931,Jorge Cuenca,494880,€5.00m,5000000.0,https://www.transfermarkt.com/jorge-cuenca/profil/spieler/494880,jorge cuenca,fulham fc,2025,GB1
+Fulham FC,931,Antonee Robinson,349701,€35.00m,35000000.0,https://www.transfermarkt.com/antonee-robinson/profil/spieler/349701,antonee robinson,fulham fc,2025,GB1
+Fulham FC,931,Ryan Sessegnon,392775,€18.00m,18000000.0,https://www.transfermarkt.com/ryan-sessegnon/profil/spieler/392775,ryan sessegnon,fulham fc,2025,GB1
+Fulham FC,931,Kenny Tete,206746,€13.00m,13000000.0,https://www.transfermarkt.com/kenny-tete/profil/spieler/206746,kenny tete,fulham fc,2025,GB1
+Fulham FC,931,Timothy Castagne,262226,€13.00m,13000000.0,https://www.transfermarkt.com/timothy-castagne/profil/spieler/262226,timothy castagne,fulham fc,2025,GB1
+Fulham FC,931,Sander Berge,333014,€25.00m,25000000.0,https://www.transfermarkt.com/sander-berge/profil/spieler/333014,sander berge,fulham fc,2025,GB1
+Fulham FC,931,Saša Lukić,245056,€14.00m,14000000.0,https://www.transfermarkt.com/sasa-lukic/profil/spieler/245056,sasa lukic,fulham fc,2025,GB1
+Fulham FC,931,Josh King,1011131,€10.00m,10000000.0,https://www.transfermarkt.com/josh-king/profil/spieler/1011131,josh king,fulham fc,2025,GB1
+Fulham FC,931,Harrison Reed,226973,€4.50m,4500000.0,https://www.transfermarkt.com/harrison-reed/profil/spieler/226973,harrison reed,fulham fc,2025,GB1
+Fulham FC,931,Tom Cairney,123275,€1.00m,1000000.0,https://www.transfermarkt.com/tom-cairney/profil/spieler/123275,tom cairney,fulham fc,2025,GB1
+Fulham FC,931,Emile Smith Rowe,392765,€28.00m,28000000.0,https://www.transfermarkt.com/emile-smith-rowe/profil/spieler/392765,emile smith rowe,fulham fc,2025,GB1
+Fulham FC,931,Kevin,900195,€30.00m,30000000.0,https://www.transfermarkt.com/kevin/profil/spieler/900195,kevin,fulham fc,2025,GB1
+Fulham FC,931,Alex Iwobi,242631,€28.00m,28000000.0,https://www.transfermarkt.com/alex-iwobi/profil/spieler/242631,alex iwobi,fulham fc,2025,GB1
+Fulham FC,931,Harry Wilson,279455,€18.00m,18000000.0,https://www.transfermarkt.com/harry-wilson/profil/spieler/279455,harry wilson,fulham fc,2025,GB1
+Fulham FC,931,Samuel Chukwueze,401922,€10.00m,10000000.0,https://www.transfermarkt.com/samuel-chukwueze/profil/spieler/401922,samuel chukwueze,fulham fc,2025,GB1
+Fulham FC,931,Adama Traoré,204103,€9.00m,9000000.0,https://www.transfermarkt.com/adama-traore/profil/spieler/204103,adama traore,fulham fc,2025,GB1
+Fulham FC,931,Rodrigo Muniz,735571,€25.00m,25000000.0,https://www.transfermarkt.com/rodrigo-muniz/profil/spieler/735571,rodrigo muniz,fulham fc,2025,GB1
+Fulham FC,931,Raúl Jiménez,206040,€5.00m,5000000.0,https://www.transfermarkt.com/raul-jimenez/profil/spieler/206040,raul jimenez,fulham fc,2025,GB1
+Fulham FC,931,Jonah Kusi-Asare,1069512,€4.00m,4000000.0,https://www.transfermarkt.com/jonah-kusi-asare/profil/spieler/1069512,jonah kusi-asare,fulham fc,2025,GB1
+Sunderland AFC,289,Anthony Patterson,475946,€12.00m,12000000.0,https://www.transfermarkt.com/anthony-patterson/profil/spieler/475946,anthony patterson,sunderland afc,2025,GB1
+Sunderland AFC,289,Robin Roefs,646991,€12.00m,12000000.0,https://www.transfermarkt.com/robin-roefs/profil/spieler/646991,robin roefs,sunderland afc,2025,GB1
+Sunderland AFC,289,Blondy Nna Noukeu,696892,€150k,150000.0,https://www.transfermarkt.com/blondy-nna-noukeu/profil/spieler/696892,blondy nna noukeu,sunderland afc,2025,GB1
+Sunderland AFC,289,Simon Moore,123536,€150k,150000.0,https://www.transfermarkt.com/simon-moore/profil/spieler/123536,simon moore,sunderland afc,2025,GB1
+Sunderland AFC,289,Dan Ballard,503686,€10.00m,10000000.0,https://www.transfermarkt.com/dan-ballard/profil/spieler/503686,dan ballard,sunderland afc,2025,GB1
+Sunderland AFC,289,Omar Alderete,353032,€10.00m,10000000.0,https://www.transfermarkt.com/omar-alderete/profil/spieler/353032,omar alderete,sunderland afc,2025,GB1
+Sunderland AFC,289,Luke O'Nien,282939,€1.50m,1500000.0,https://www.transfermarkt.com/luke-onien/profil/spieler/282939,luke o'nien,sunderland afc,2025,GB1
+Sunderland AFC,289,Aji Alese,502065,€1.00m,1000000.0,https://www.transfermarkt.com/aji-alese/profil/spieler/502065,aji alese,sunderland afc,2025,GB1
+Sunderland AFC,289,Joe Anderson,511551,€175k,175000.0,https://www.transfermarkt.com/joe-anderson/profil/spieler/511551,joe anderson,sunderland afc,2025,GB1
+Sunderland AFC,289,Zak Johnson,827440,€75k,75000.0,https://www.transfermarkt.com/zak-johnson/profil/spieler/827440,zak johnson,sunderland afc,2025,GB1
+Sunderland AFC,289,Dennis Cirkin,568006,€8.00m,8000000.0,https://www.transfermarkt.com/dennis-cirkin/profil/spieler/568006,dennis cirkin,sunderland afc,2025,GB1
+Sunderland AFC,289,Reinildo Mandava,240692,€5.00m,5000000.0,https://www.transfermarkt.com/reinildo-mandava/profil/spieler/240692,reinildo mandava,sunderland afc,2025,GB1
+Sunderland AFC,289,Arthur Masuaku,181380,€3.00m,3000000.0,https://www.transfermarkt.com/arthur-masuaku/profil/spieler/181380,arthur masuaku,sunderland afc,2025,GB1
+Sunderland AFC,289,Leo Hjelde,661208,€2.00m,2000000.0,https://www.transfermarkt.com/leo-hjelde/profil/spieler/661208,leo hjelde,sunderland afc,2025,GB1
+Sunderland AFC,289,Lutsharel Geertruida,420210,€20.00m,20000000.0,https://www.transfermarkt.com/lutsharel-geertruida/profil/spieler/420210,lutsharel geertruida,sunderland afc,2025,GB1
+Sunderland AFC,289,Trai Hume,515544,€15.00m,15000000.0,https://www.transfermarkt.com/trai-hume/profil/spieler/515544,trai hume,sunderland afc,2025,GB1
+Sunderland AFC,289,Nordi Mukiele,348026,€10.00m,10000000.0,https://www.transfermarkt.com/nordi-mukiele/profil/spieler/348026,nordi mukiele,sunderland afc,2025,GB1
+Sunderland AFC,289,Timothée Pembélé,538998,€2.50m,2500000.0,https://www.transfermarkt.com/timothee-pembele/profil/spieler/538998,timothee pembele,sunderland afc,2025,GB1
+Sunderland AFC,289,Granit Xhaka,111455,€12.00m,12000000.0,https://www.transfermarkt.com/granit-xhaka/profil/spieler/111455,granit xhaka,sunderland afc,2025,GB1
+Sunderland AFC,289,Habib Diarra,876631,€32.00m,32000000.0,https://www.transfermarkt.com/habib-diarra/profil/spieler/876631,habib diarra,sunderland afc,2025,GB1
+Sunderland AFC,289,Enzo Le Fée,633992,€20.00m,20000000.0,https://www.transfermarkt.com/enzo-le-fee/profil/spieler/633992,enzo le fee,sunderland afc,2025,GB1
+Sunderland AFC,289,Noah Sadiki,727089,€17.00m,17000000.0,https://www.transfermarkt.com/noah-sadiki/profil/spieler/727089,noah sadiki,sunderland afc,2025,GB1
+Sunderland AFC,289,Dan Neil,570336,€7.50m,7500000.0,https://www.transfermarkt.com/dan-neil/profil/spieler/570336,dan neil,sunderland afc,2025,GB1
+Sunderland AFC,289,Jay Matete,535479,€400k,400000.0,https://www.transfermarkt.com/jay-matete/profil/spieler/535479,jay matete,sunderland afc,2025,GB1
+Sunderland AFC,289,Abdoullah Ba,654412,€2.50m,2500000.0,https://www.transfermarkt.com/abdoullah-ba/profil/spieler/654412,abdoullah ba,sunderland afc,2025,GB1
+Sunderland AFC,289,Chris Rigg,947411,€25.00m,25000000.0,https://www.transfermarkt.com/chris-rigg/profil/spieler/947411,chris rigg,sunderland afc,2025,GB1
+Sunderland AFC,289,Harrison Jones,937840,€150k,150000.0,https://www.transfermarkt.com/harrison-jones/profil/spieler/937840,harrison jones,sunderland afc,2025,GB1
+Sunderland AFC,289,Simon Adingra,658536,€25.00m,25000000.0,https://www.transfermarkt.com/simon-adingra/profil/spieler/658536,simon adingra,sunderland afc,2025,GB1
+Sunderland AFC,289,Romaine Mundle,696181,€6.00m,6000000.0,https://www.transfermarkt.com/romaine-mundle/profil/spieler/696181,romaine mundle,sunderland afc,2025,GB1
+Sunderland AFC,289,Chemsdine Talbi,743384,€20.00m,20000000.0,https://www.transfermarkt.com/chemsdine-talbi/profil/spieler/743384,chemsdine talbi,sunderland afc,2025,GB1
+Sunderland AFC,289,Bertrand Traoré,131996,€5.00m,5000000.0,https://www.transfermarkt.com/bertrand-traore/profil/spieler/131996,bertrand traore,sunderland afc,2025,GB1
+Sunderland AFC,289,Ian Poveda,392763,€900k,900000.0,https://www.transfermarkt.com/ian-poveda/profil/spieler/392763,ian poveda,sunderland afc,2025,GB1
+Sunderland AFC,289,Brian Brobbey,473169,€20.00m,20000000.0,https://www.transfermarkt.com/brian-brobbey/profil/spieler/473169,brian brobbey,sunderland afc,2025,GB1
+Sunderland AFC,289,Eliezer Mayenda,967346,€18.00m,18000000.0,https://www.transfermarkt.com/eliezer-mayenda/profil/spieler/967346,eliezer mayenda,sunderland afc,2025,GB1
+Sunderland AFC,289,Wilson Isidor,494237,€15.00m,15000000.0,https://www.transfermarkt.com/wilson-isidor/profil/spieler/494237,wilson isidor,sunderland afc,2025,GB1
+Sunderland AFC,289,Ahmed Abdullahi,1015619,€1.00m,1000000.0,https://www.transfermarkt.com/ahmed-abdullahi/profil/spieler/1015619,ahmed abdullahi,sunderland afc,2025,GB1
+Leeds United,399,Lucas Perri,352041,€16.00m,16000000.0,https://www.transfermarkt.com/lucas-perri/profil/spieler/352041,lucas perri,leeds united,2025,GB1
+Leeds United,399,Illan Meslier,542586,€14.00m,14000000.0,https://www.transfermarkt.com/illan-meslier/profil/spieler/542586,illan meslier,leeds united,2025,GB1
+Leeds United,399,Karl Darlow,99397,€200k,200000.0,https://www.transfermarkt.com/karl-darlow/profil/spieler/99397,karl darlow,leeds united,2025,GB1
+Leeds United,399,Alex Cairns,194386,€100k,100000.0,https://www.transfermarkt.com/alex-cairns/profil/spieler/194386,alex cairns,leeds united,2025,GB1
+Leeds United,399,Pascal Struijk,410708,€20.00m,20000000.0,https://www.transfermarkt.com/pascal-struijk/profil/spieler/410708,pascal struijk,leeds united,2025,GB1
+Leeds United,399,Jaka Bijol,371851,€18.00m,18000000.0,https://www.transfermarkt.com/jaka-bijol/profil/spieler/371851,jaka bijol,leeds united,2025,GB1
+Leeds United,399,Joe Rodon,297212,€10.00m,10000000.0,https://www.transfermarkt.com/joe-rodon/profil/spieler/297212,joe rodon,leeds united,2025,GB1
+Leeds United,399,Sebastiaan Bornauw,338629,€6.00m,6000000.0,https://www.transfermarkt.com/sebastiaan-bornauw/profil/spieler/338629,sebastiaan bornauw,leeds united,2025,GB1
+Leeds United,399,Gabriel Gudmundsson,362108,€12.00m,12000000.0,https://www.transfermarkt.com/gabriel-gudmundsson/profil/spieler/362108,gabriel gudmundsson,leeds united,2025,GB1
+Leeds United,399,Sam Byram,236953,€800k,800000.0,https://www.transfermarkt.com/sam-byram/profil/spieler/236953,sam byram,leeds united,2025,GB1
+Leeds United,399,James Justin,413220,€13.00m,13000000.0,https://www.transfermarkt.com/james-justin/profil/spieler/413220,james justin,leeds united,2025,GB1
+Leeds United,399,Jayden Bogle,465717,€10.00m,10000000.0,https://www.transfermarkt.com/jayden-bogle/profil/spieler/465717,jayden bogle,leeds united,2025,GB1
+Leeds United,399,Ethan Ampadu,392771,€20.00m,20000000.0,https://www.transfermarkt.com/ethan-ampadu/profil/spieler/392771,ethan ampadu,leeds united,2025,GB1
+Leeds United,399,Anton Stach,344069,€20.00m,20000000.0,https://www.transfermarkt.com/anton-stach/profil/spieler/344069,anton stach,leeds united,2025,GB1
+Leeds United,399,Ilia Gruev,381753,€8.00m,8000000.0,https://www.transfermarkt.com/ilia-gruev/profil/spieler/381753,ilia gruev,leeds united,2025,GB1
+Leeds United,399,Sean Longstaff,346707,€16.00m,16000000.0,https://www.transfermarkt.com/sean-longstaff/profil/spieler/346707,sean longstaff,leeds united,2025,GB1
+Leeds United,399,Ao Tanaka,489359,€10.00m,10000000.0,https://www.transfermarkt.com/ao-tanaka/profil/spieler/489359,ao tanaka,leeds united,2025,GB1
+Leeds United,399,Brenden Aaronson,393323,€15.00m,15000000.0,https://www.transfermarkt.com/brenden-aaronson/profil/spieler/393323,brenden aaronson,leeds united,2025,GB1
+Leeds United,399,Sam Chambers,980343,€200k,200000.0,https://www.transfermarkt.com/sam-chambers/profil/spieler/980343,sam chambers,leeds united,2025,GB1
+Leeds United,399,Noah Okafor,346890,€18.00m,18000000.0,https://www.transfermarkt.com/noah-okafor/profil/spieler/346890,noah okafor,leeds united,2025,GB1
+Leeds United,399,Jack Harrison,417346,€12.00m,12000000.0,https://www.transfermarkt.com/jack-harrison/profil/spieler/417346,jack harrison,leeds united,2025,GB1
+Leeds United,399,Wilfried Gnonto,627626,€22.00m,22000000.0,https://www.transfermarkt.com/wilfried-gnonto/profil/spieler/627626,wilfried gnonto,leeds united,2025,GB1
+Leeds United,399,Daniel James,319301,€16.00m,16000000.0,https://www.transfermarkt.com/daniel-james/profil/spieler/319301,daniel james,leeds united,2025,GB1
+Leeds United,399,Joël Piroe,369962,€18.00m,18000000.0,https://www.transfermarkt.com/joel-piroe/profil/spieler/369962,joel piroe,leeds united,2025,GB1
+Leeds United,399,Dominic Calvert-Lewin,306024,€16.00m,16000000.0,https://www.transfermarkt.com/dominic-calvert-lewin/profil/spieler/306024,dominic calvert-lewin,leeds united,2025,GB1
+Leeds United,399,Lukas Nmecha,314288,€5.00m,5000000.0,https://www.transfermarkt.com/lukas-nmecha/profil/spieler/314288,lukas nmecha,leeds united,2025,GB1
+Burnley FC,1132,Max Weiß,829299,€4.00m,4000000.0,https://www.transfermarkt.com/max-weiss/profil/spieler/829299,max weiß,burnley fc,2025,GB1
+Burnley FC,1132,Martin Dúbravka,74960,€1.00m,1000000.0,https://www.transfermarkt.com/martin-dubravka/profil/spieler/74960,martin dubravka,burnley fc,2025,GB1
+Burnley FC,1132,Václav Hladký,95795,€300k,300000.0,https://www.transfermarkt.com/vaclav-hladky/profil/spieler/95795,vaclav hladky,burnley fc,2025,GB1
+Burnley FC,1132,Maxime Estève,842341,€24.00m,24000000.0,https://www.transfermarkt.com/maxime-esteve/profil/spieler/842341,maxime esteve,burnley fc,2025,GB1
+Burnley FC,1132,Bashir Humphreys,612517,€12.00m,12000000.0,https://www.transfermarkt.com/bashir-humphreys/profil/spieler/612517,bashir humphreys,burnley fc,2025,GB1
+Burnley FC,1132,Joe Worrall,415970,€5.00m,5000000.0,https://www.transfermarkt.com/joe-worrall/profil/spieler/415970,joe worrall,burnley fc,2025,GB1
+Burnley FC,1132,Axel Tuanzebe,342046,€5.00m,5000000.0,https://www.transfermarkt.com/axel-tuanzebe/profil/spieler/342046,axel tuanzebe,burnley fc,2025,GB1
+Burnley FC,1132,Hjalmar Ekdal,392179,€4.50m,4500000.0,https://www.transfermarkt.com/hjalmar-ekdal/profil/spieler/392179,hjalmar ekdal,burnley fc,2025,GB1
+Burnley FC,1132,Jordan Beyer,403898,€4.00m,4000000.0,https://www.transfermarkt.com/jordan-beyer/profil/spieler/403898,jordan beyer,burnley fc,2025,GB1
+Burnley FC,1132,Hannes Delcroix,338635,€2.50m,2500000.0,https://www.transfermarkt.com/hannes-delcroix/profil/spieler/338635,hannes delcroix,burnley fc,2025,GB1
+Burnley FC,1132,Quilindschy Hartman,514285,€14.00m,14000000.0,https://www.transfermarkt.com/quilindschy-hartman/profil/spieler/514285,quilindschy hartman,burnley fc,2025,GB1
+Burnley FC,1132,Lucas Pires,927768,€5.00m,5000000.0,https://www.transfermarkt.com/lucas-pires/profil/spieler/927768,lucas pires,burnley fc,2025,GB1
+Burnley FC,1132,Oliver Sonne,541628,€4.00m,4000000.0,https://www.transfermarkt.com/oliver-sonne/profil/spieler/541628,oliver sonne,burnley fc,2025,GB1
+Burnley FC,1132,Connor Roberts,214666,€3.50m,3500000.0,https://www.transfermarkt.com/connor-roberts/profil/spieler/214666,connor roberts,burnley fc,2025,GB1
+Burnley FC,1132,Kyle Walker,95424,€3.00m,3000000.0,https://www.transfermarkt.com/kyle-walker/profil/spieler/95424,kyle walker,burnley fc,2025,GB1
+Burnley FC,1132,Lesley Ugochukwu,711999,€22.00m,22000000.0,https://www.transfermarkt.com/lesley-ugochukwu/profil/spieler/711999,lesley ugochukwu,burnley fc,2025,GB1
+Burnley FC,1132,Florentino,357162,€22.00m,22000000.0,https://www.transfermarkt.com/florentino/profil/spieler/357162,florentino,burnley fc,2025,GB1
+Burnley FC,1132,Josh Cullen,242606,€6.50m,6500000.0,https://www.transfermarkt.com/josh-cullen/profil/spieler/242606,josh cullen,burnley fc,2025,GB1
+Burnley FC,1132,Josh Laurent,314241,€2.00m,2000000.0,https://www.transfermarkt.com/josh-laurent/profil/spieler/314241,josh laurent,burnley fc,2025,GB1
+Burnley FC,1132,Hannibal,607224,€12.00m,12000000.0,https://www.transfermarkt.com/hannibal/profil/spieler/607224,hannibal,burnley fc,2025,GB1
+Burnley FC,1132,Mike Tresor,381963,€5.00m,5000000.0,https://www.transfermarkt.com/mike-tresor/profil/spieler/381963,mike tresor,burnley fc,2025,GB1
+Burnley FC,1132,Jaidon Anthony,684210,€14.00m,14000000.0,https://www.transfermarkt.com/jaidon-anthony/profil/spieler/684210,jaidon anthony,burnley fc,2025,GB1
+Burnley FC,1132,Jacob Bruun Larsen,293281,€5.00m,5000000.0,https://www.transfermarkt.com/jacob-bruun-larsen/profil/spieler/293281,jacob bruun larsen,burnley fc,2025,GB1
+Burnley FC,1132,Jaydon Banel,706889,€1.00m,1000000.0,https://www.transfermarkt.com/jaydon-banel/profil/spieler/706889,jaydon banel,burnley fc,2025,GB1
+Burnley FC,1132,Loum Tchaouna,607226,€15.00m,15000000.0,https://www.transfermarkt.com/loum-tchaouna/profil/spieler/607226,loum tchaouna,burnley fc,2025,GB1
+Burnley FC,1132,Marcus Edwards,314367,€10.00m,10000000.0,https://www.transfermarkt.com/marcus-edwards/profil/spieler/314367,marcus edwards,burnley fc,2025,GB1
+Burnley FC,1132,Enock Agyei,724041,€600k,600000.0,https://www.transfermarkt.com/enock-agyei/profil/spieler/724041,enock agyei,burnley fc,2025,GB1
+Burnley FC,1132,Armando Broja,571743,€14.00m,14000000.0,https://www.transfermarkt.com/armando-broja/profil/spieler/571743,armando broja,burnley fc,2025,GB1
+Burnley FC,1132,Zeki Amdouni,548729,€10.00m,10000000.0,https://www.transfermarkt.com/zeki-amdouni/profil/spieler/548729,zeki amdouni,burnley fc,2025,GB1
+Burnley FC,1132,Lyle Foster,467623,€8.00m,8000000.0,https://www.transfermarkt.com/lyle-foster/profil/spieler/467623,lyle foster,burnley fc,2025,GB1
+Burnley FC,1132,Zian Flemming,411537,€8.00m,8000000.0,https://www.transfermarkt.com/zian-flemming/profil/spieler/411537,zian flemming,burnley fc,2025,GB1
+Burnley FC,1132,Ashley Barnes,63200,€250k,250000.0,https://www.transfermarkt.com/ashley-barnes/profil/spieler/63200,ashley barnes,burnley fc,2025,GB1

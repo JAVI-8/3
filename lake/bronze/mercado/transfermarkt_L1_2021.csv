@@ -1,0 +1,650 @@
+﻿club,club_id,player,player_id,market_value_str,market_value_eur,player_url,player_norm,club_norm,season,competition_code
+Bayern Munich,27,Manuel Neuer,17259,€15.00m,15000000.0,https://www.transfermarkt.com/manuel-neuer/profil/spieler/17259,manuel neuer,bayern munich,2021,L1
+Bayern Munich,27,Sven Ulreich,40680,€900k,900000.0,https://www.transfermarkt.com/sven-ulreich/profil/spieler/40680,sven ulreich,bayern munich,2021,L1
+Bayern Munich,27,Christian Früchtl,336307,€600k,600000.0,https://www.transfermarkt.com/christian-fruchtl/profil/spieler/336307,christian fruchtl,bayern munich,2021,L1
+Bayern Munich,27,Ron-Thorben Hoffmann,317444,€500k,500000.0,https://www.transfermarkt.com/ron-thorben-hoffmann/profil/spieler/317444,ron-thorben hoffmann,bayern munich,2021,L1
+Bayern Munich,27,Dayot Upamecano,344695,€40.00m,40000000.0,https://www.transfermarkt.com/dayot-upamecano/profil/spieler/344695,dayot upamecano,bayern munich,2021,L1
+Bayern Munich,27,Niklas Süle,166601,€35.00m,35000000.0,https://www.transfermarkt.com/niklas-sule/profil/spieler/166601,niklas sule,bayern munich,2021,L1
+Bayern Munich,27,Benjamin Pavard,353366,€30.00m,30000000.0,https://www.transfermarkt.com/benjamin-pavard/profil/spieler/353366,benjamin pavard,bayern munich,2021,L1
+Bayern Munich,27,Tanguy Nianzou,538996,€9.00m,9000000.0,https://www.transfermarkt.com/tanguy-nianzou/profil/spieler/538996,tanguy nianzou,bayern munich,2021,L1
+Bayern Munich,27,Chris Richards,578539,€7.50m,7500000.0,https://www.transfermarkt.com/chris-richards/profil/spieler/578539,chris richards,bayern munich,2021,L1
+Bayern Munich,27,Bright Arrey-Mbi,580193,€1.30m,1300000.0,https://www.transfermarkt.com/bright-arrey-mbi/profil/spieler/580193,bright arrey-mbi,bayern munich,2021,L1
+Bayern Munich,27,Jamie Lawrence,522248,€1.00m,1000000.0,https://www.transfermarkt.com/jamie-lawrence/profil/spieler/522248,jamie lawrence,bayern munich,2021,L1
+Bayern Munich,27,Alphonso Davies,424204,€70.00m,70000000.0,https://www.transfermarkt.com/alphonso-davies/profil/spieler/424204,alphonso davies,bayern munich,2021,L1
+Bayern Munich,27,Lucas Hernández,281963,€50.00m,50000000.0,https://www.transfermarkt.com/lucas-hernandez/profil/spieler/281963,lucas hernandez,bayern munich,2021,L1
+Bayern Munich,27,Omar Richards,424881,€7.00m,7000000.0,https://www.transfermarkt.com/omar-richards/profil/spieler/424881,omar richards,bayern munich,2021,L1
+Bayern Munich,27,Josip Stanisic,483046,€4.00m,4000000.0,https://www.transfermarkt.com/josip-stanisic/profil/spieler/483046,josip stanisic,bayern munich,2021,L1
+Bayern Munich,27,Bouna Sarr,190685,€2.50m,2500000.0,https://www.transfermarkt.com/bouna-sarr/profil/spieler/190685,bouna sarr,bayern munich,2021,L1
+Bayern Munich,27,Joshua Kimmich,161056,€80.00m,80000000.0,https://www.transfermarkt.com/joshua-kimmich/profil/spieler/161056,joshua kimmich,bayern munich,2021,L1
+Bayern Munich,27,Marc Roca,336869,€7.00m,7000000.0,https://www.transfermarkt.com/marc-roca/profil/spieler/336869,marc roca,bayern munich,2021,L1
+Bayern Munich,27,Nicolas Feldhahn,31741,€125k,125000.0,https://www.transfermarkt.com/nicolas-feldhahn/profil/spieler/31741,nicolas feldhahn,bayern munich,2021,L1
+Bayern Munich,27,Leon Goretzka,153084,€65.00m,65000000.0,https://www.transfermarkt.com/leon-goretzka/profil/spieler/153084,leon goretzka,bayern munich,2021,L1
+Bayern Munich,27,Marcel Sabitzer,106987,€15.00m,15000000.0,https://www.transfermarkt.com/marcel-sabitzer/profil/spieler/106987,marcel sabitzer,bayern munich,2021,L1
+Bayern Munich,27,Corentin Tolisso,190393,€15.00m,15000000.0,https://www.transfermarkt.com/corentin-tolisso/profil/spieler/190393,corentin tolisso,bayern munich,2021,L1
+Bayern Munich,27,Michaël Cuisance,344600,€4.00m,4000000.0,https://www.transfermarkt.com/michael-cuisance/profil/spieler/344600,michael cuisance,bayern munich,2021,L1
+Bayern Munich,27,Timo Kern,57574,€200k,200000.0,https://www.transfermarkt.com/timo-kern/profil/spieler/57574,timo kern,bayern munich,2021,L1
+Bayern Munich,27,Nemanja Motika,604323,€1.20m,1200000.0,https://www.transfermarkt.com/nemanja-motika/profil/spieler/604323,nemanja motika,bayern munich,2021,L1
+Bayern Munich,27,Jamal Musiala,580195,€65.00m,65000000.0,https://www.transfermarkt.com/jamal-musiala/profil/spieler/580195,jamal musiala,bayern munich,2021,L1
+Bayern Munich,27,Paul Wanner,900909,€2.00m,2000000.0,https://www.transfermarkt.com/paul-wanner/profil/spieler/900909,paul wanner,bayern munich,2021,L1
+Bayern Munich,27,Malik Tillman,467437,€1.50m,1500000.0,https://www.transfermarkt.com/malik-tillman/profil/spieler/467437,malik tillman,bayern munich,2021,L1
+Bayern Munich,27,Arijon Ibrahimovic,744728,-,,https://www.transfermarkt.com/arijon-ibrahimovic/profil/spieler/744728,arijon ibrahimovic,bayern munich,2021,L1
+Bayern Munich,27,Kingsley Coman,243714,€60.00m,60000000.0,https://www.transfermarkt.com/kingsley-coman/profil/spieler/243714,kingsley coman,bayern munich,2021,L1
+Bayern Munich,27,Gabriel Vidovic,604327,€3.00m,3000000.0,https://www.transfermarkt.com/gabriel-vidovic/profil/spieler/604327,gabriel vidovic,bayern munich,2021,L1
+Bayern Munich,27,Leroy Sané,192565,€60.00m,60000000.0,https://www.transfermarkt.com/leroy-sane/profil/spieler/192565,leroy sane,bayern munich,2021,L1
+Bayern Munich,27,Lucas Copado,636898,€1.00m,1000000.0,https://www.transfermarkt.com/lucas-copado/profil/spieler/636898,lucas copado,bayern munich,2021,L1
+Bayern Munich,27,Taylor Booth,513963,€1.00m,1000000.0,https://www.transfermarkt.com/taylor-booth/profil/spieler/513963,taylor booth,bayern munich,2021,L1
+Bayern Munich,27,Serge Gnabry,159471,€65.00m,65000000.0,https://www.transfermarkt.com/serge-gnabry/profil/spieler/159471,serge gnabry,bayern munich,2021,L1
+Bayern Munich,27,Thomas Müller,58358,€22.00m,22000000.0,https://www.transfermarkt.com/thomas-muller/profil/spieler/58358,thomas muller,bayern munich,2021,L1
+Bayern Munich,27,Robert Lewandowski,38253,€45.00m,45000000.0,https://www.transfermarkt.com/robert-lewandowski/profil/spieler/38253,robert lewandowski,bayern munich,2021,L1
+Bayern Munich,27,Eric-Maxim Choupo-Moting,45660,€3.00m,3000000.0,https://www.transfermarkt.com/eric-maxim-choupo-moting/profil/spieler/45660,eric-maxim choupo-moting,bayern munich,2021,L1
+Borussia Dortmund,16,Gregor Kobel,257814,€22.00m,22000000.0,https://www.transfermarkt.com/gregor-kobel/profil/spieler/257814,gregor kobel,borussia dortmund,2021,L1
+Borussia Dortmund,16,Luca Unbehaun,388815,€1.50m,1500000.0,https://www.transfermarkt.com/luca-unbehaun/profil/spieler/388815,luca unbehaun,borussia dortmund,2021,L1
+Borussia Dortmund,16,Roman Bürki,59027,€1.50m,1500000.0,https://www.transfermarkt.com/roman-burki/profil/spieler/59027,roman burki,borussia dortmund,2021,L1
+Borussia Dortmund,16,Marwin Hitz,59238,€1.00m,1000000.0,https://www.transfermarkt.com/marwin-hitz/profil/spieler/59238,marwin hitz,borussia dortmund,2021,L1
+Borussia Dortmund,16,Stefan Drljaca,388067,€200k,200000.0,https://www.transfermarkt.com/stefan-drljaca/profil/spieler/388067,stefan drljaca,borussia dortmund,2021,L1
+Borussia Dortmund,16,Silas Ostrzinski,684116,-,,https://www.transfermarkt.com/silas-ostrzinski/profil/spieler/684116,silas ostrzinski,borussia dortmund,2021,L1
+Borussia Dortmund,16,Manuel Akanji,284730,€30.00m,30000000.0,https://www.transfermarkt.com/manuel-akanji/profil/spieler/284730,manuel akanji,borussia dortmund,2021,L1
+Borussia Dortmund,16,Emre Can,119296,€16.00m,16000000.0,https://www.transfermarkt.com/emre-can/profil/spieler/119296,emre can,borussia dortmund,2021,L1
+Borussia Dortmund,16,Dan-Axel Zagadou,344598,€9.00m,9000000.0,https://www.transfermarkt.com/dan-axel-zagadou/profil/spieler/344598,dan-axel zagadou,borussia dortmund,2021,L1
+Borussia Dortmund,16,Mats Hummels,39728,€6.50m,6500000.0,https://www.transfermarkt.com/mats-hummels/profil/spieler/39728,mats hummels,borussia dortmund,2021,L1
+Borussia Dortmund,16,Marin Pongracic,282144,€6.00m,6000000.0,https://www.transfermarkt.com/marin-pongracic/profil/spieler/282144,marin pongracic,borussia dortmund,2021,L1
+Borussia Dortmund,16,Soumaïla Coulibaly,659513,€750k,750000.0,https://www.transfermarkt.com/soumaila-coulibaly/profil/spieler/659513,soumaila coulibaly,borussia dortmund,2021,L1
+Borussia Dortmund,16,Antonios Papadopoulos,482573,€350k,350000.0,https://www.transfermarkt.com/antonios-papadopoulos/profil/spieler/482573,antonios papadopoulos,borussia dortmund,2021,L1
+Borussia Dortmund,16,Raphaël Guerreiro,170986,€25.00m,25000000.0,https://www.transfermarkt.com/raphael-guerreiro/profil/spieler/170986,raphael guerreiro,borussia dortmund,2021,L1
+Borussia Dortmund,16,Nico Schulz,85867,€4.00m,4000000.0,https://www.transfermarkt.com/nico-schulz/profil/spieler/85867,nico schulz,borussia dortmund,2021,L1
+Borussia Dortmund,16,Tom Rothe,798043,€1.20m,1200000.0,https://www.transfermarkt.com/tom-rothe/profil/spieler/798043,tom rothe,borussia dortmund,2021,L1
+Borussia Dortmund,16,Marcel Schmelzer,35208,€500k,500000.0,https://www.transfermarkt.com/marcel-schmelzer/profil/spieler/35208,marcel schmelzer,borussia dortmund,2021,L1
+Borussia Dortmund,16,Thomas Meunier,100986,€6.50m,6500000.0,https://www.transfermarkt.com/thomas-meunier/profil/spieler/100986,thomas meunier,borussia dortmund,2021,L1
+Borussia Dortmund,16,Marius Wolf,193900,€6.50m,6500000.0,https://www.transfermarkt.com/marius-wolf/profil/spieler/193900,marius wolf,borussia dortmund,2021,L1
+Borussia Dortmund,16,Mateu Morey,388513,€4.00m,4000000.0,https://www.transfermarkt.com/mateu-morey/profil/spieler/388513,mateu morey,borussia dortmund,2021,L1
+Borussia Dortmund,16,Felix Passlack,274461,€1.50m,1500000.0,https://www.transfermarkt.com/felix-passlack/profil/spieler/274461,felix passlack,borussia dortmund,2021,L1
+Borussia Dortmund,16,Lion Semic,521919,€500k,500000.0,https://www.transfermarkt.com/lion-semic/profil/spieler/521919,lion semic,borussia dortmund,2021,L1
+Borussia Dortmund,16,Axel Witsel,35047,€4.00m,4000000.0,https://www.transfermarkt.com/axel-witsel/profil/spieler/35047,axel witsel,borussia dortmund,2021,L1
+Borussia Dortmund,16,Abdoulaye Kamara,718232,€1.00m,1000000.0,https://www.transfermarkt.com/abdoulaye-kamara/profil/spieler/718232,abdoulaye kamara,borussia dortmund,2021,L1
+Borussia Dortmund,16,Lennard Maloney,392710,€350k,350000.0,https://www.transfermarkt.com/lennard-maloney/profil/spieler/392710,lennard maloney,borussia dortmund,2021,L1
+Borussia Dortmund,16,Mahmoud Dahoud,191422,€18.00m,18000000.0,https://www.transfermarkt.com/mahmoud-dahoud/profil/spieler/191422,mahmoud dahoud,borussia dortmund,2021,L1
+Borussia Dortmund,16,Thomas Delaney,91849,€7.00m,7000000.0,https://www.transfermarkt.com/thomas-delaney/profil/spieler/91849,thomas delaney,borussia dortmund,2021,L1
+Borussia Dortmund,16,Tobias Raschl,384745,€1.00m,1000000.0,https://www.transfermarkt.com/tobias-raschl/profil/spieler/384745,tobias raschl,borussia dortmund,2021,L1
+Borussia Dortmund,16,Jude Bellingham,581678,€80.00m,80000000.0,https://www.transfermarkt.com/jude-bellingham/profil/spieler/581678,jude bellingham,borussia dortmund,2021,L1
+Borussia Dortmund,16,Giovanni Reyna,504215,€35.00m,35000000.0,https://www.transfermarkt.com/giovanni-reyna/profil/spieler/504215,giovanni reyna,borussia dortmund,2021,L1
+Borussia Dortmund,16,Julian Brandt,187492,€25.00m,25000000.0,https://www.transfermarkt.com/julian-brandt/profil/spieler/187492,julian brandt,borussia dortmund,2021,L1
+Borussia Dortmund,16,Thorgan Hazard,102226,€15.00m,15000000.0,https://www.transfermarkt.com/thorgan-hazard/profil/spieler/102226,thorgan hazard,borussia dortmund,2021,L1
+Borussia Dortmund,16,Marco Reus,35207,€11.00m,11000000.0,https://www.transfermarkt.com/marco-reus/profil/spieler/35207,marco reus,borussia dortmund,2021,L1
+Borussia Dortmund,16,Reinier,627226,€8.00m,8000000.0,https://www.transfermarkt.com/reinier/profil/spieler/627226,reinier,borussia dortmund,2021,L1
+Borussia Dortmund,16,Immanuel Pherai,412935,€700k,700000.0,https://www.transfermarkt.com/immanuel-pherai/profil/spieler/412935,immanuel pherai,borussia dortmund,2021,L1
+Borussia Dortmund,16,Jamie Gittens,670882,€4.00m,4000000.0,https://www.transfermarkt.com/jamie-gittens/profil/spieler/670882,jamie gittens,borussia dortmund,2021,L1
+Borussia Dortmund,16,Donyell Malen,326029,€27.00m,27000000.0,https://www.transfermarkt.com/donyell-malen/profil/spieler/326029,donyell malen,borussia dortmund,2021,L1
+Borussia Dortmund,16,Ansgar Knauff,429874,€10.00m,10000000.0,https://www.transfermarkt.com/ansgar-knauff/profil/spieler/429874,ansgar knauff,borussia dortmund,2021,L1
+Borussia Dortmund,16,Justin Njinmah,596153,€400k,400000.0,https://www.transfermarkt.com/justin-njinmah/profil/spieler/596153,justin njinmah,borussia dortmund,2021,L1
+Borussia Dortmund,16,Marco Pašalić,395928,€275k,275000.0,https://www.transfermarkt.com/marco-pasalic/profil/spieler/395928,marco pasalic,borussia dortmund,2021,L1
+Borussia Dortmund,16,Göktan Gürpüz,655912,€250k,250000.0,https://www.transfermarkt.com/goktan-gurpuz/profil/spieler/655912,goktan gurpuz,borussia dortmund,2021,L1
+Borussia Dortmund,16,Erling Haaland,418560,€150.00m,150000000.0,https://www.transfermarkt.com/erling-haaland/profil/spieler/418560,erling haaland,borussia dortmund,2021,L1
+Borussia Dortmund,16,Youssoufa Moukoko,467720,€15.00m,15000000.0,https://www.transfermarkt.com/youssoufa-moukoko/profil/spieler/467720,youssoufa moukoko,borussia dortmund,2021,L1
+Borussia Dortmund,16,Steffen Tigges,296879,€1.50m,1500000.0,https://www.transfermarkt.com/steffen-tigges/profil/spieler/296879,steffen tigges,borussia dortmund,2021,L1
+RB Leipzig,23826,Péter Gulácsi,57071,€8.00m,8000000.0,https://www.transfermarkt.com/peter-gulacsi/profil/spieler/57071,peter gulacsi,rb leipzig,2021,L1
+RB Leipzig,23826,Josep Martínez,388516,€2.20m,2200000.0,https://www.transfermarkt.com/josep-martinez/profil/spieler/388516,josep martinez,rb leipzig,2021,L1
+RB Leipzig,23826,Philipp Tschauner,21726,€300k,300000.0,https://www.transfermarkt.com/philipp-tschauner/profil/spieler/21726,philipp tschauner,rb leipzig,2021,L1
+RB Leipzig,23826,Fabian Eutinger,692463,€100k,100000.0,https://www.transfermarkt.com/fabian-eutinger/profil/spieler/692463,fabian eutinger,rb leipzig,2021,L1
+RB Leipzig,23826,Josko Gvardiol,475959,€35.00m,35000000.0,https://www.transfermarkt.com/josko-gvardiol/profil/spieler/475959,josko gvardiol,rb leipzig,2021,L1
+RB Leipzig,23826,Mohamed Simakan,666234,€22.00m,22000000.0,https://www.transfermarkt.com/mohamed-simakan/profil/spieler/666234,mohamed simakan,rb leipzig,2021,L1
+RB Leipzig,23826,Lukas Klostermann,215599,€18.00m,18000000.0,https://www.transfermarkt.com/lukas-klostermann/profil/spieler/215599,lukas klostermann,rb leipzig,2021,L1
+RB Leipzig,23826,Willi Orbán,93740,€10.00m,10000000.0,https://www.transfermarkt.com/willi-orban/profil/spieler/93740,willi orban,rb leipzig,2021,L1
+RB Leipzig,23826,Marcel Halstenberg,70243,€5.00m,5000000.0,https://www.transfermarkt.com/marcel-halstenberg/profil/spieler/70243,marcel halstenberg,rb leipzig,2021,L1
+RB Leipzig,23826,David Lelle,574199,-,,https://www.transfermarkt.com/david-lelle/profil/spieler/574199,david lelle,rb leipzig,2021,L1
+RB Leipzig,23826,Angeliño,277179,€30.00m,30000000.0,https://www.transfermarkt.com/angelino/profil/spieler/277179,angelino,rb leipzig,2021,L1
+RB Leipzig,23826,Konrad Laimer,223967,€28.00m,28000000.0,https://www.transfermarkt.com/konrad-laimer/profil/spieler/223967,konrad laimer,rb leipzig,2021,L1
+RB Leipzig,23826,Nordi Mukiele,348026,€20.00m,20000000.0,https://www.transfermarkt.com/nordi-mukiele/profil/spieler/348026,nordi mukiele,rb leipzig,2021,L1
+RB Leipzig,23826,Benjamin Henrichs,202591,€14.00m,14000000.0,https://www.transfermarkt.com/benjamin-henrichs/profil/spieler/202591,benjamin henrichs,rb leipzig,2021,L1
+RB Leipzig,23826,Hugo Novoa,668276,€3.00m,3000000.0,https://www.transfermarkt.com/hugo-novoa/profil/spieler/668276,hugo novoa,rb leipzig,2021,L1
+RB Leipzig,23826,Solomon Bonnah,508637,€750k,750000.0,https://www.transfermarkt.com/solomon-bonnah/profil/spieler/508637,solomon bonnah,rb leipzig,2021,L1
+RB Leipzig,23826,Tyler Adams,332705,€17.00m,17000000.0,https://www.transfermarkt.com/tyler-adams/profil/spieler/332705,tyler adams,rb leipzig,2021,L1
+RB Leipzig,23826,Amadou Haidara,402008,€24.00m,24000000.0,https://www.transfermarkt.com/amadou-haidara/profil/spieler/402008,amadou haidara,rb leipzig,2021,L1
+RB Leipzig,23826,Marcel Sabitzer,106987,€15.00m,15000000.0,https://www.transfermarkt.com/marcel-sabitzer/profil/spieler/106987,marcel sabitzer,rb leipzig,2021,L1
+RB Leipzig,23826,Ilaix Moriba,617074,€9.00m,9000000.0,https://www.transfermarkt.com/ilaix-moriba/profil/spieler/617074,ilaix moriba,rb leipzig,2021,L1
+RB Leipzig,23826,Kevin Kampl,53418,€6.00m,6000000.0,https://www.transfermarkt.com/kevin-kampl/profil/spieler/53418,kevin kampl,rb leipzig,2021,L1
+RB Leipzig,23826,Sidney Raebiger,717345,€750k,750000.0,https://www.transfermarkt.com/sidney-raebiger/profil/spieler/717345,sidney raebiger,rb leipzig,2021,L1
+RB Leipzig,23826,Ben Klefisch,692462,€200k,200000.0,https://www.transfermarkt.com/ben-klefisch/profil/spieler/692462,ben klefisch,rb leipzig,2021,L1
+RB Leipzig,23826,Dani Olmo,293385,€40.00m,40000000.0,https://www.transfermarkt.com/dani-olmo/profil/spieler/293385,dani olmo,rb leipzig,2021,L1
+RB Leipzig,23826,Dominik Szoboszlai,451276,€28.00m,28000000.0,https://www.transfermarkt.com/dominik-szoboszlai/profil/spieler/451276,dominik szoboszlai,rb leipzig,2021,L1
+RB Leipzig,23826,Joscha Wosz,597004,€350k,350000.0,https://www.transfermarkt.com/joscha-wosz/profil/spieler/597004,joscha wosz,rb leipzig,2021,L1
+RB Leipzig,23826,Emil Forsberg,111078,€11.00m,11000000.0,https://www.transfermarkt.com/emil-forsberg/profil/spieler/111078,emil forsberg,rb leipzig,2021,L1
+RB Leipzig,23826,Mehmet Ibrahimi,605306,-,,https://www.transfermarkt.com/mehmet-ibrahimi/profil/spieler/605306,mehmet ibrahimi,rb leipzig,2021,L1
+RB Leipzig,23826,Fabrice Hartmann,405685,€300k,300000.0,https://www.transfermarkt.com/fabrice-hartmann/profil/spieler/405685,fabrice hartmann,rb leipzig,2021,L1
+RB Leipzig,23826,Christopher Nkunku,344381,€80.00m,80000000.0,https://www.transfermarkt.com/christopher-nkunku/profil/spieler/344381,christopher nkunku,rb leipzig,2021,L1
+RB Leipzig,23826,André Silva,198008,€32.00m,32000000.0,https://www.transfermarkt.com/andre-silva/profil/spieler/198008,andre silva,rb leipzig,2021,L1
+RB Leipzig,23826,Hee-chan Hwang,292246,€16.00m,16000000.0,https://www.transfermarkt.com/hee-chan-hwang/profil/spieler/292246,hee-chan hwang,rb leipzig,2021,L1
+RB Leipzig,23826,Yussuf Poulsen,157635,€14.00m,14000000.0,https://www.transfermarkt.com/yussuf-poulsen/profil/spieler/157635,yussuf poulsen,rb leipzig,2021,L1
+RB Leipzig,23826,Brian Brobbey,473169,€9.00m,9000000.0,https://www.transfermarkt.com/brian-brobbey/profil/spieler/473169,brian brobbey,rb leipzig,2021,L1
+Bayer 04 Leverkusen,15,Lukas Hradecky,48015,€5.00m,5000000.0,https://www.transfermarkt.com/lukas-hradecky/profil/spieler/48015,lukas hradecky,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Andrey Lunev,112541,€2.50m,2500000.0,https://www.transfermarkt.com/andrey-lunev/profil/spieler/112541,andrey lunev,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Lennart Grill,309397,€1.00m,1000000.0,https://www.transfermarkt.com/lennart-grill/profil/spieler/309397,lennart grill,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Niklas Lomb,85543,€250k,250000.0,https://www.transfermarkt.com/niklas-lomb/profil/spieler/85543,niklas lomb,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Maximilian Neutgens,696022,-,,https://www.transfermarkt.com/maximilian-neutgens/profil/spieler/696022,maximilian neutgens,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Edmond Tapsoba,564545,€35.00m,35000000.0,https://www.transfermarkt.com/edmond-tapsoba/profil/spieler/564545,edmond tapsoba,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Jonathan Tah,196357,€25.00m,25000000.0,https://www.transfermarkt.com/jonathan-tah/profil/spieler/196357,jonathan tah,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Odilon Kossounou,644771,€20.00m,20000000.0,https://www.transfermarkt.com/odilon-kossounou/profil/spieler/644771,odilon kossounou,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Piero Hincapié,659813,€17.00m,17000000.0,https://www.transfermarkt.com/piero-hincapie/profil/spieler/659813,piero hincapie,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Panagiotis Retsos,324351,€2.80m,2800000.0,https://www.transfermarkt.com/panagiotis-retsos/profil/spieler/324351,panagiotis retsos,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Wendell,228433,€5.00m,5000000.0,https://www.transfermarkt.com/wendell/profil/spieler/228433,wendell,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Daley Sinkgraven,215099,€4.00m,4000000.0,https://www.transfermarkt.com/daley-sinkgraven/profil/spieler/215099,daley sinkgraven,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Jeremie Frimpong,484547,€20.00m,20000000.0,https://www.transfermarkt.com/jeremie-frimpong/profil/spieler/484547,jeremie frimpong,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Timothy Fosu-Mensah,315131,€4.00m,4000000.0,https://www.transfermarkt.com/timothy-fosu-mensah/profil/spieler/315131,timothy fosu-mensah,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Mitchell Weiser,119211,€1.50m,1500000.0,https://www.transfermarkt.com/mitchell-weiser/profil/spieler/119211,mitchell weiser,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Robert Andrich,159088,€13.00m,13000000.0,https://www.transfermarkt.com/robert-andrich/profil/spieler/159088,robert andrich,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Julian Baumgartlinger,34787,€800k,800000.0,https://www.transfermarkt.com/julian-baumgartlinger/profil/spieler/34787,julian baumgartlinger,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Sadik Fofana,644613,-,,https://www.transfermarkt.com/sadik-fofana/profil/spieler/644613,sadik fofana,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Kerem Demirbay,125858,€15.00m,15000000.0,https://www.transfermarkt.com/kerem-demirbay/profil/spieler/125858,kerem demirbay,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Exequiel Palacios,401578,€15.00m,15000000.0,https://www.transfermarkt.com/exequiel-palacios/profil/spieler/401578,exequiel palacios,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Nadiem Amiri,232454,€8.00m,8000000.0,https://www.transfermarkt.com/nadiem-amiri/profil/spieler/232454,nadiem amiri,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Charles Aránguiz,89701,€3.50m,3500000.0,https://www.transfermarkt.com/charles-aranguiz/profil/spieler/89701,charles aranguiz,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Zidan Sertdemir,788445,€2.00m,2000000.0,https://www.transfermarkt.com/zidan-sertdemir/profil/spieler/788445,zidan sertdemir,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Mitchel Bakker,361065,€14.00m,14000000.0,https://www.transfermarkt.com/mitchel-bakker/profil/spieler/361065,mitchel bakker,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Florian Wirtz,598577,€70.00m,70000000.0,https://www.transfermarkt.com/florian-wirtz/profil/spieler/598577,florian wirtz,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Amine Adli,532776,€12.00m,12000000.0,https://www.transfermarkt.com/amine-adli/profil/spieler/532776,amine adli,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Paulinho,428791,€11.00m,11000000.0,https://www.transfermarkt.com/paulinho/profil/spieler/428791,paulinho,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Moussa Diaby,395516,€60.00m,60000000.0,https://www.transfermarkt.com/moussa-diaby/profil/spieler/395516,moussa diaby,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Karim Bellarabi,61087,€3.00m,3000000.0,https://www.transfermarkt.com/karim-bellarabi/profil/spieler/61087,karim bellarabi,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Patrik Schick,242086,€50.00m,50000000.0,https://www.transfermarkt.com/patrik-schick/profil/spieler/242086,patrik schick,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Sardar Azmoun,180337,€22.00m,22000000.0,https://www.transfermarkt.com/sardar-azmoun/profil/spieler/180337,sardar azmoun,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Lucas Alario,193782,€8.00m,8000000.0,https://www.transfermarkt.com/lucas-alario/profil/spieler/193782,lucas alario,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Joel Pohjanpalo,173491,€2.50m,2500000.0,https://www.transfermarkt.com/joel-pohjanpalo/profil/spieler/173491,joel pohjanpalo,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Emrehan Gedikli,580276,€1.20m,1200000.0,https://www.transfermarkt.com/emrehan-gedikli/profil/spieler/580276,emrehan gedikli,bayer 04 leverkusen,2021,L1
+Bayer 04 Leverkusen,15,Iker Bravo,741292,€1.00m,1000000.0,https://www.transfermarkt.com/iker-bravo/profil/spieler/741292,iker bravo,bayer 04 leverkusen,2021,L1
+VfL Wolfsburg,82,Koen Casteels,108880,€11.00m,11000000.0,https://www.transfermarkt.com/koen-casteels/profil/spieler/108880,koen casteels,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Pavao Pervan,51977,€600k,600000.0,https://www.transfermarkt.com/pavao-pervan/profil/spieler/51977,pavao pervan,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Philipp Schulze,574203,€200k,200000.0,https://www.transfermarkt.com/philipp-schulze/profil/spieler/574203,philipp schulze,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Niklas Klinger,192268,€100k,100000.0,https://www.transfermarkt.com/niklas-klinger/profil/spieler/192268,niklas klinger,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Maxence Lacroix,434224,€20.00m,20000000.0,https://www.transfermarkt.com/maxence-lacroix/profil/spieler/434224,maxence lacroix,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Sebastiaan Bornauw,338629,€10.00m,10000000.0,https://www.transfermarkt.com/sebastiaan-bornauw/profil/spieler/338629,sebastiaan bornauw,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,John Brooks,124732,€7.00m,7000000.0,https://www.transfermarkt.com/john-brooks/profil/spieler/124732,john brooks,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Marin Pongracic,282144,€6.00m,6000000.0,https://www.transfermarkt.com/marin-pongracic/profil/spieler/282144,marin pongracic,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Micky van de Ven,557459,€4.00m,4000000.0,https://www.transfermarkt.com/micky-van-de-ven/profil/spieler/557459,micky van de ven,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Anselmo García MacNulty,631904,€300k,300000.0,https://www.transfermarkt.com/anselmo-garcia-macnulty/profil/spieler/631904,anselmo garcia macnulty,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Paulo Otávio,221611,€6.00m,6000000.0,https://www.transfermarkt.com/paulo-otavio/profil/spieler/221611,paulo otavio,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Jérôme Roussillon,127076,€4.50m,4500000.0,https://www.transfermarkt.com/jerome-roussillon/profil/spieler/127076,jerome roussillon,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Ridle Baku,327251,€20.00m,20000000.0,https://www.transfermarkt.com/ridle-baku/profil/spieler/327251,ridle baku,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Kevin Mbabu,183321,€9.00m,9000000.0,https://www.transfermarkt.com/kevin-mbabu/profil/spieler/183321,kevin mbabu,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,William,341710,€2.50m,2500000.0,https://www.transfermarkt.com/william/profil/spieler/341710,william,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Jannis Lang,472234,€200k,200000.0,https://www.transfermarkt.com/jannis-lang/profil/spieler/472234,jannis lang,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Josuha Guilavogui,93704,€3.50m,3500000.0,https://www.transfermarkt.com/josuha-guilavogui/profil/spieler/93704,josuha guilavogui,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Xaver Schlager,223979,€27.00m,27000000.0,https://www.transfermarkt.com/xaver-schlager/profil/spieler/223979,xaver schlager,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Maximilian Arnold,117674,€17.00m,17000000.0,https://www.transfermarkt.com/maximilian-arnold/profil/spieler/117674,maximilian arnold,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Aster Vranckx,503881,€10.00m,10000000.0,https://www.transfermarkt.com/aster-vranckx/profil/spieler/503881,aster vranckx,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Yannick Gerhardt,119277,€6.00m,6000000.0,https://www.transfermarkt.com/yannick-gerhardt/profil/spieler/119277,yannick gerhardt,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Felix Nmecha,406640,€2.00m,2000000.0,https://www.transfermarkt.com/felix-nmecha/profil/spieler/406640,felix nmecha,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Gil-Linnart Walther,690222,-,,https://www.transfermarkt.com/gil-linnart-walther/profil/spieler/690222,gil-linnart walther,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Kevin Paredes,711517,€5.00m,5000000.0,https://www.transfermarkt.com/kevin-paredes/profil/spieler/711517,kevin paredes,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Josip Brekalo,293169,€15.00m,15000000.0,https://www.transfermarkt.com/josip-brekalo/profil/spieler/293169,josip brekalo,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Dodi Lukébakio,303259,€7.50m,7500000.0,https://www.transfermarkt.com/dodi-lukebakio/profil/spieler/303259,dodi lukebakio,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Renato Steffen,194638,€2.00m,2000000.0,https://www.transfermarkt.com/renato-steffen/profil/spieler/194638,renato steffen,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Maximilian Philipp,143891,€4.50m,4500000.0,https://www.transfermarkt.com/maximilian-philipp/profil/spieler/143891,maximilian philipp,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Max Kruse,36182,€3.50m,3500000.0,https://www.transfermarkt.com/max-kruse/profil/spieler/36182,max kruse,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Admir Mehmedi,66058,€1.00m,1000000.0,https://www.transfermarkt.com/admir-mehmedi/profil/spieler/66058,admir mehmedi,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Lukas Nmecha,314288,€18.00m,18000000.0,https://www.transfermarkt.com/lukas-nmecha/profil/spieler/314288,lukas nmecha,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Wout Weghorst,228645,€14.00m,14000000.0,https://www.transfermarkt.com/wout-weghorst/profil/spieler/228645,wout weghorst,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Jonas Wind,391004,€14.00m,14000000.0,https://www.transfermarkt.com/jonas-wind/profil/spieler/391004,jonas wind,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Luca Waldschmidt,196095,€7.00m,7000000.0,https://www.transfermarkt.com/luca-waldschmidt/profil/spieler/196095,luca waldschmidt,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Omar Marmoush,445939,€6.00m,6000000.0,https://www.transfermarkt.com/omar-marmoush/profil/spieler/445939,omar marmoush,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Bartosz Bialek,535551,€4.00m,4000000.0,https://www.transfermarkt.com/bartosz-bialek/profil/spieler/535551,bartosz bialek,vfl wolfsburg,2021,L1
+VfL Wolfsburg,82,Daniel Ginczek,79501,€900k,900000.0,https://www.transfermarkt.com/daniel-ginczek/profil/spieler/79501,daniel ginczek,vfl wolfsburg,2021,L1
+Borussia Mönchengladbach,18,Yann Sommer,42205,€5.00m,5000000.0,https://www.transfermarkt.com/yann-sommer/profil/spieler/42205,yann sommer,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Tobias Sippel,31653,€400k,400000.0,https://www.transfermarkt.com/tobias-sippel/profil/spieler/31653,tobias sippel,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Jan Olschowsky,455922,€300k,300000.0,https://www.transfermarkt.com/jan-olschowsky/profil/spieler/455922,jan olschowsky,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Jonas Kersken,597804,€100k,100000.0,https://www.transfermarkt.com/jonas-kersken/profil/spieler/597804,jonas kersken,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Matthias Ginter,124502,€18.00m,18000000.0,https://www.transfermarkt.com/matthias-ginter/profil/spieler/124502,matthias ginter,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Nico Elvedi,192635,€18.00m,18000000.0,https://www.transfermarkt.com/nico-elvedi/profil/spieler/192635,nico elvedi,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Ramy Bensebaini,284732,€17.00m,17000000.0,https://www.transfermarkt.com/ramy-bensebaini/profil/spieler/284732,ramy bensebaini,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Marvin Friedrich,196231,€8.00m,8000000.0,https://www.transfermarkt.com/marvin-friedrich/profil/spieler/196231,marvin friedrich,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Jordan Beyer,403898,€4.50m,4500000.0,https://www.transfermarkt.com/jordan-beyer/profil/spieler/403898,jordan beyer,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Tom Gaal,392133,€100k,100000.0,https://www.transfermarkt.com/tom-gaal/profil/spieler/392133,tom gaal,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Mamadou Doucouré,340480,€100k,100000.0,https://www.transfermarkt.com/mamadou-doucoure/profil/spieler/340480,mamadou doucoure,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Luca Netz,524285,€6.50m,6500000.0,https://www.transfermarkt.com/luca-netz/profil/spieler/524285,luca netz,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Joe Scally,504153,€8.00m,8000000.0,https://www.transfermarkt.com/joe-scally/profil/spieler/504153,joe scally,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Stefan Lainer,85791,€4.50m,4500000.0,https://www.transfermarkt.com/stefan-lainer/profil/spieler/85791,stefan lainer,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Tony Jantschke,47587,€800k,800000.0,https://www.transfermarkt.com/tony-jantschke/profil/spieler/47587,tony jantschke,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Denis Zakaria,334526,€27.00m,27000000.0,https://www.transfermarkt.com/denis-zakaria/profil/spieler/334526,denis zakaria,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Christoph Kramer,82097,€2.50m,2500000.0,https://www.transfermarkt.com/christoph-kramer/profil/spieler/82097,christoph kramer,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Florian Neuhaus,278332,€20.00m,20000000.0,https://www.transfermarkt.com/florian-neuhaus/profil/spieler/278332,florian neuhaus,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Manu Koné,624690,€18.00m,18000000.0,https://www.transfermarkt.com/manu-kone/profil/spieler/624690,manu kone,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,László Bénes,243188,€3.00m,3000000.0,https://www.transfermarkt.com/laszlo-benes/profil/spieler/243188,laszlo benes,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Torben Müsel,368860,€400k,400000.0,https://www.transfermarkt.com/torben-musel/profil/spieler/368860,torben musel,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Keanan Bennetts,321096,€1.00m,1000000.0,https://www.transfermarkt.com/keanan-bennetts/profil/spieler/321096,keanan bennetts,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Mika Schroers,472246,€100k,100000.0,https://www.transfermarkt.com/mika-schroers/profil/spieler/472246,mika schroers,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Jonas Hofmann,7161,€13.00m,13000000.0,https://www.transfermarkt.com/jonas-hofmann/profil/spieler/7161,jonas hofmann,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Lars Stindl,48298,€2.50m,2500000.0,https://www.transfermarkt.com/lars-stindl/profil/spieler/48298,lars stindl,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Conor Noß,520857,€700k,700000.0,https://www.transfermarkt.com/conor-noss/profil/spieler/520857,conor noß,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Hannes Wolf,321070,€5.00m,5000000.0,https://www.transfermarkt.com/hannes-wolf/profil/spieler/321070,hannes wolf,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Patrick Herrmann,32711,€2.30m,2300000.0,https://www.transfermarkt.com/patrick-herrmann/profil/spieler/32711,patrick herrmann,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Marcus Thuram,318528,€20.00m,20000000.0,https://www.transfermarkt.com/marcus-thuram/profil/spieler/318528,marcus thuram,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Alassane Pléa,167329,€15.00m,15000000.0,https://www.transfermarkt.com/alassane-plea/profil/spieler/167329,alassane plea,borussia monchengladbach,2021,L1
+Borussia Mönchengladbach,18,Breel Embolo,237662,€15.00m,15000000.0,https://www.transfermarkt.com/breel-embolo/profil/spieler/237662,breel embolo,borussia monchengladbach,2021,L1
+Eintracht Frankfurt,24,Kevin Trapp,45672,€7.00m,7000000.0,https://www.transfermarkt.com/kevin-trapp/profil/spieler/45672,kevin trapp,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Diant Ramaj,448705,€750k,750000.0,https://www.transfermarkt.com/diant-ramaj/profil/spieler/448705,diant ramaj,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Jens Grahl,40034,€200k,200000.0,https://www.transfermarkt.com/jens-grahl/profil/spieler/40034,jens grahl,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Jannik Horz,586229,€200k,200000.0,https://www.transfermarkt.com/jannik-horz/profil/spieler/586229,jannik horz,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Matteo Bignetti,629032,-,,https://www.transfermarkt.com/matteo-bignetti/profil/spieler/629032,matteo bignetti,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Evan Ndicka,371149,€32.00m,32000000.0,https://www.transfermarkt.com/evan-ndicka/profil/spieler/371149,evan ndicka,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Tuta,546213,€13.00m,13000000.0,https://www.transfermarkt.com/tuta/profil/spieler/546213,tuta,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Martin Hinteregger,85789,€9.00m,9000000.0,https://www.transfermarkt.com/martin-hinteregger/profil/spieler/85789,martin hinteregger,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Almamy Touré,216181,€3.50m,3500000.0,https://www.transfermarkt.com/almamy-toure/profil/spieler/216181,almamy toure,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Danny da Costa,85906,€2.30m,2300000.0,https://www.transfermarkt.com/danny-da-costa/profil/spieler/85906,danny da costa,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Christopher Lenz,159844,€4.00m,4000000.0,https://www.transfermarkt.com/christopher-lenz/profil/spieler/159844,christopher lenz,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Jan Schröder,610798,€200k,200000.0,https://www.transfermarkt.com/jan-schroder/profil/spieler/610798,jan schroder,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Timothy Chandler,49723,€1.20m,1200000.0,https://www.transfermarkt.com/timothy-chandler/profil/spieler/49723,timothy chandler,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Erik Durm,93922,€1.20m,1200000.0,https://www.transfermarkt.com/erik-durm/profil/spieler/93922,erik durm,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Kristijan Jakic,374954,€9.00m,9000000.0,https://www.transfermarkt.com/kristijan-jakic/profil/spieler/374954,kristijan jakic,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Stefan Ilsanker,40074,€1.00m,1000000.0,https://www.transfermarkt.com/stefan-ilsanker/profil/spieler/40074,stefan ilsanker,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Makoto Hasebe,39259,€800k,800000.0,https://www.transfermarkt.com/makoto-hasebe/profil/spieler/39259,makoto hasebe,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Djibril Sow,212723,€22.00m,22000000.0,https://www.transfermarkt.com/djibril-sow/profil/spieler/212723,djibril sow,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Sebastian Rode,44466,€2.50m,2500000.0,https://www.transfermarkt.com/sebastian-rode/profil/spieler/44466,sebastian rode,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Filip Kostić,161011,€24.00m,24000000.0,https://www.transfermarkt.com/filip-kostic/profil/spieler/161011,filip kostic,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Daichi Kamada,356141,€22.00m,22000000.0,https://www.transfermarkt.com/daichi-kamada/profil/spieler/356141,daichi kamada,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Ajdin Hrustic,265625,€3.00m,3000000.0,https://www.transfermarkt.com/ajdin-hrustic/profil/spieler/265625,ajdin hrustic,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Steven Zuber,68033,€2.50m,2500000.0,https://www.transfermarkt.com/steven-zuber/profil/spieler/68033,steven zuber,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Aymen Barkok,315332,€1.80m,1800000.0,https://www.transfermarkt.com/aymen-barkok/profil/spieler/315332,aymen barkok,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Antonio Foti,615036,€400k,400000.0,https://www.transfermarkt.com/antonio-foti/profil/spieler/615036,antonio foti,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Jens Petter Hauge,422355,€8.00m,8000000.0,https://www.transfermarkt.com/jens-petter-hauge/profil/spieler/422355,jens petter hauge,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Amin Younes,96167,€1.50m,1500000.0,https://www.transfermarkt.com/amin-younes/profil/spieler/96167,amin younes,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Fabio Blanco,648909,€750k,750000.0,https://www.transfermarkt.com/fabio-blanco/profil/spieler/648909,fabio blanco,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Gianluca Schäfer,580277,€150k,150000.0,https://www.transfermarkt.com/gianluca-schafer/profil/spieler/580277,gianluca schafer,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Jesper Lindstrøm,513245,€17.00m,17000000.0,https://www.transfermarkt.com/jesper-lindstrom/profil/spieler/513245,jesper lindstrøm,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Ansgar Knauff,429874,€10.00m,10000000.0,https://www.transfermarkt.com/ansgar-knauff/profil/spieler/429874,ansgar knauff,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Rafael Borré,323831,€20.00m,20000000.0,https://www.transfermarkt.com/rafael-borre/profil/spieler/323831,rafael borre,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Sam Lammers,386914,€3.00m,3000000.0,https://www.transfermarkt.com/sam-lammers/profil/spieler/386914,sam lammers,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Gonçalo Paciência,181547,€3.00m,3000000.0,https://www.transfermarkt.com/goncalo-paciencia/profil/spieler/181547,goncalo paciencia,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Ragnar Ache,416380,€1.50m,1500000.0,https://www.transfermarkt.com/ragnar-ache/profil/spieler/416380,ragnar ache,eintracht frankfurt,2021,L1
+Eintracht Frankfurt,24,Enrique Herrero,741295,€300k,300000.0,https://www.transfermarkt.com/enrique-herrero/profil/spieler/741295,enrique herrero,eintracht frankfurt,2021,L1
+TSG 1899 Hoffenheim,533,Oliver Baumann,55089,€4.50m,4500000.0,https://www.transfermarkt.com/oliver-baumann/profil/spieler/55089,oliver baumann,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Philipp Pentke,8246,€300k,300000.0,https://www.transfermarkt.com/philipp-pentke/profil/spieler/8246,philipp pentke,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Luca Philipp,432671,€300k,300000.0,https://www.transfermarkt.com/luca-philipp/profil/spieler/432671,luca philipp,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Nahuel Noll,600942,€200k,200000.0,https://www.transfermarkt.com/nahuel-noll/profil/spieler/600942,nahuel noll,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Stefan Posch,223974,€10.00m,10000000.0,https://www.transfermarkt.com/stefan-posch/profil/spieler/223974,stefan posch,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Chris Richards,578539,€7.50m,7500000.0,https://www.transfermarkt.com/chris-richards/profil/spieler/578539,chris richards,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Kevin Akpoguma,160241,€6.00m,6000000.0,https://www.transfermarkt.com/kevin-akpoguma/profil/spieler/160241,kevin akpoguma,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Kevin Vogt,84435,€3.50m,3500000.0,https://www.transfermarkt.com/kevin-vogt/profil/spieler/84435,kevin vogt,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Ermin Bicakcic,51676,€1.00m,1000000.0,https://www.transfermarkt.com/ermin-bicakcic/profil/spieler/51676,ermin bicakcic,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Kasim Adams,263801,€1.00m,1000000.0,https://www.transfermarkt.com/kasim-adams/profil/spieler/263801,kasim adams,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Benjamin Hübner,52348,€1.00m,1000000.0,https://www.transfermarkt.com/benjamin-hubner/profil/spieler/52348,benjamin hubner,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Fabian Rüth,452065,€125k,125000.0,https://www.transfermarkt.com/fabian-ruth/profil/spieler/452065,fabian ruth,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Gabriel Haider,523913,€125k,125000.0,https://www.transfermarkt.com/gabriel-haider/profil/spieler/523913,gabriel haider,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Noah König,685487,€125k,125000.0,https://www.transfermarkt.com/noah-konig/profil/spieler/685487,noah konig,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,David Raum,318204,€20.00m,20000000.0,https://www.transfermarkt.com/david-raum/profil/spieler/318204,david raum,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Marco John,450234,€2.50m,2500000.0,https://www.transfermarkt.com/marco-john/profil/spieler/450234,marco john,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Pavel Kaderabek,143798,€5.00m,5000000.0,https://www.transfermarkt.com/pavel-kaderabek/profil/spieler/143798,pavel kaderabek,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Justin Che,796429,€3.00m,3000000.0,https://www.transfermarkt.com/justin-che/profil/spieler/796429,justin che,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Florian Grillitsch,195736,€16.00m,16000000.0,https://www.transfermarkt.com/florian-grillitsch/profil/spieler/195736,florian grillitsch,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Diadié Samassékou,315604,€16.00m,16000000.0,https://www.transfermarkt.com/diadie-samassekou/profil/spieler/315604,diadie samassekou,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Angelo Stiller,443710,€7.00m,7000000.0,https://www.transfermarkt.com/angelo-stiller/profil/spieler/443710,angelo stiller,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Sebastian Rudy,57051,€1.50m,1500000.0,https://www.transfermarkt.com/sebastian-rudy/profil/spieler/57051,sebastian rudy,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Melayro Bogarde,476915,€1.20m,1200000.0,https://www.transfermarkt.com/melayro-bogarde/profil/spieler/476915,melayro bogarde,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Håvard Nordtveit,42234,€1.00m,1000000.0,https://www.transfermarkt.com/havard-nordtveit/profil/spieler/42234,havard nordtveit,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Dennis Geiger,251309,€9.00m,9000000.0,https://www.transfermarkt.com/dennis-geiger/profil/spieler/251309,dennis geiger,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Tom Bischof,822959,€1.00m,1000000.0,https://www.transfermarkt.com/tom-bischof/profil/spieler/822959,tom bischof,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Umut Tohumcu,569031,-,,https://www.transfermarkt.com/umut-tohumcu/profil/spieler/569031,umut tohumcu,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Robert Skov,270393,€7.00m,7000000.0,https://www.transfermarkt.com/robert-skov/profil/spieler/270393,robert skov,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Christoph Baumgartner,324278,€22.00m,22000000.0,https://www.transfermarkt.com/christoph-baumgartner/profil/spieler/324278,christoph baumgartner,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Andrej Kramaric,46580,€12.00m,12000000.0,https://www.transfermarkt.com/andrej-kramaric/profil/spieler/46580,andrej kramaric,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Mijat Gacinovic,215864,€2.50m,2500000.0,https://www.transfermarkt.com/mijat-gacinovic/profil/spieler/215864,mijat gacinovic,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Bambasé Conté,574193,-,,https://www.transfermarkt.com/bambase-conte/profil/spieler/574193,bambase conte,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Jacob Bruun Larsen,293281,€6.00m,6000000.0,https://www.transfermarkt.com/jacob-bruun-larsen/profil/spieler/293281,jacob bruun larsen,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Ihlas Bebou,237164,€16.00m,16000000.0,https://www.transfermarkt.com/ihlas-bebou/profil/spieler/237164,ihlas bebou,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Georginio Rutter,538977,€16.00m,16000000.0,https://www.transfermarkt.com/georginio-rutter/profil/spieler/538977,georginio rutter,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Munas Dabbur,145866,€4.00m,4000000.0,https://www.transfermarkt.com/munas-dabbur/profil/spieler/145866,munas dabbur,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Sargis Adamyan,125614,€3.50m,3500000.0,https://www.transfermarkt.com/sargis-adamyan/profil/spieler/125614,sargis adamyan,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Maximilian Beier,578392,€3.00m,3000000.0,https://www.transfermarkt.com/maximilian-beier/profil/spieler/578392,maximilian beier,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Fisnik Asllani,524290,€400k,400000.0,https://www.transfermarkt.com/fisnik-asllani/profil/spieler/524290,fisnik asllani,tsg 1899 hoffenheim,2021,L1
+TSG 1899 Hoffenheim,533,Nick Proschwitz,31535,€150k,150000.0,https://www.transfermarkt.com/nick-proschwitz/profil/spieler/31535,nick proschwitz,tsg 1899 hoffenheim,2021,L1
+SC Freiburg,60,Mark Flekken,125714,€7.00m,7000000.0,https://www.transfermarkt.com/mark-flekken/profil/spieler/125714,mark flekken,sc freiburg,2021,L1
+SC Freiburg,60,Noah Atubolu,526845,€1.50m,1500000.0,https://www.transfermarkt.com/noah-atubolu/profil/spieler/526845,noah atubolu,sc freiburg,2021,L1
+SC Freiburg,60,Benjamin Uphoff,120296,€500k,500000.0,https://www.transfermarkt.com/benjamin-uphoff/profil/spieler/120296,benjamin uphoff,sc freiburg,2021,L1
+SC Freiburg,60,Nico Schlotterbeck,388198,€33.00m,33000000.0,https://www.transfermarkt.com/nico-schlotterbeck/profil/spieler/388198,nico schlotterbeck,sc freiburg,2021,L1
+SC Freiburg,60,Philipp Lienhart,225657,€18.00m,18000000.0,https://www.transfermarkt.com/philipp-lienhart/profil/spieler/225657,philipp lienhart,sc freiburg,2021,L1
+SC Freiburg,60,Keven Schlotterbeck,413843,€3.00m,3000000.0,https://www.transfermarkt.com/keven-schlotterbeck/profil/spieler/413843,keven schlotterbeck,sc freiburg,2021,L1
+SC Freiburg,60,Dominique Heintz,110036,€2.50m,2500000.0,https://www.transfermarkt.com/dominique-heintz/profil/spieler/110036,dominique heintz,sc freiburg,2021,L1
+SC Freiburg,60,Manuel Gulde,45683,€1.70m,1700000.0,https://www.transfermarkt.com/manuel-gulde/profil/spieler/45683,manuel gulde,sc freiburg,2021,L1
+SC Freiburg,60,Kenneth Schmidt,527276,€500k,500000.0,https://www.transfermarkt.com/kenneth-schmidt/profil/spieler/527276,kenneth schmidt,sc freiburg,2021,L1
+SC Freiburg,60,Christian Günter,93707,€12.00m,12000000.0,https://www.transfermarkt.com/christian-gunter/profil/spieler/93707,christian gunter,sc freiburg,2021,L1
+SC Freiburg,60,Kimberly Ezekwem,453865,€300k,300000.0,https://www.transfermarkt.com/kimberly-ezekwem/profil/spieler/453865,kimberly ezekwem,sc freiburg,2021,L1
+SC Freiburg,60,Roland Sallai,332798,€12.00m,12000000.0,https://www.transfermarkt.com/roland-sallai/profil/spieler/332798,roland sallai,sc freiburg,2021,L1
+SC Freiburg,60,Hugo Siquet,578680,€5.50m,5500000.0,https://www.transfermarkt.com/hugo-siquet/profil/spieler/578680,hugo siquet,sc freiburg,2021,L1
+SC Freiburg,60,Lukas Kübler,93604,€2.30m,2300000.0,https://www.transfermarkt.com/lukas-kubler/profil/spieler/93604,lukas kubler,sc freiburg,2021,L1
+SC Freiburg,60,Kiliann Sildillia,548348,€1.50m,1500000.0,https://www.transfermarkt.com/kiliann-sildillia/profil/spieler/548348,kiliann sildillia,sc freiburg,2021,L1
+SC Freiburg,60,Baptiste Santamaria,285323,€14.00m,14000000.0,https://www.transfermarkt.com/baptiste-santamaria/profil/spieler/285323,baptiste santamaria,sc freiburg,2021,L1
+SC Freiburg,60,Yannik Keitel,342039,€4.00m,4000000.0,https://www.transfermarkt.com/yannik-keitel/profil/spieler/342039,yannik keitel,sc freiburg,2021,L1
+SC Freiburg,60,Nicolas Höfler,55099,€2.50m,2500000.0,https://www.transfermarkt.com/nicolas-hofler/profil/spieler/55099,nicolas hofler,sc freiburg,2021,L1
+SC Freiburg,60,Yannik Engelhardt,405670,€400k,400000.0,https://www.transfermarkt.com/yannik-engelhardt/profil/spieler/405670,yannik engelhardt,sc freiburg,2021,L1
+SC Freiburg,60,Maximilian Eggestein,190284,€8.00m,8000000.0,https://www.transfermarkt.com/maximilian-eggestein/profil/spieler/190284,maximilian eggestein,sc freiburg,2021,L1
+SC Freiburg,60,Janik Haberer,177779,€3.50m,3500000.0,https://www.transfermarkt.com/janik-haberer/profil/spieler/177779,janik haberer,sc freiburg,2021,L1
+SC Freiburg,60,Robert Wagner,690429,€500k,500000.0,https://www.transfermarkt.com/robert-wagner/profil/spieler/690429,robert wagner,sc freiburg,2021,L1
+SC Freiburg,60,Jonathan Schmid,70285,€1.20m,1200000.0,https://www.transfermarkt.com/jonathan-schmid/profil/spieler/70285,jonathan schmid,sc freiburg,2021,L1
+SC Freiburg,60,Woo-yeong Jeong,297583,€5.50m,5500000.0,https://www.transfermarkt.com/woo-yeong-jeong/profil/spieler/297583,woo-yeong jeong,sc freiburg,2021,L1
+SC Freiburg,60,Vincenzo Grifo,185077,€12.00m,12000000.0,https://www.transfermarkt.com/vincenzo-grifo/profil/spieler/185077,vincenzo grifo,sc freiburg,2021,L1
+SC Freiburg,60,Kevin Schade,473050,€7.00m,7000000.0,https://www.transfermarkt.com/kevin-schade/profil/spieler/473050,kevin schade,sc freiburg,2021,L1
+SC Freiburg,60,Noah Weißhaupt,392163,€1.70m,1700000.0,https://www.transfermarkt.com/noah-weisshaupt/profil/spieler/392163,noah weißhaupt,sc freiburg,2021,L1
+SC Freiburg,60,Nishan Burkart,346900,€350k,350000.0,https://www.transfermarkt.com/nishan-burkart/profil/spieler/346900,nishan burkart,sc freiburg,2021,L1
+SC Freiburg,60,Lucas Höler,248999,€6.50m,6500000.0,https://www.transfermarkt.com/lucas-holer/profil/spieler/248999,lucas holer,sc freiburg,2021,L1
+SC Freiburg,60,Ermedin Demirovic,335457,€6.00m,6000000.0,https://www.transfermarkt.com/ermedin-demirovic/profil/spieler/335457,ermedin demirovic,sc freiburg,2021,L1
+SC Freiburg,60,Nils Petersen,42936,€1.50m,1500000.0,https://www.transfermarkt.com/nils-petersen/profil/spieler/42936,nils petersen,sc freiburg,2021,L1
+SC Freiburg,60,Vincent Vermeij,273054,€400k,400000.0,https://www.transfermarkt.com/vincent-vermeij/profil/spieler/273054,vincent vermeij,sc freiburg,2021,L1
+VfB Stuttgart,79,Florian Müller,284769,€5.50m,5500000.0,https://www.transfermarkt.com/florian-muller/profil/spieler/284769,florian muller,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Fabian Bredlow,187624,€500k,500000.0,https://www.transfermarkt.com/fabian-bredlow/profil/spieler/187624,fabian bredlow,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Florian Schock,470816,€200k,200000.0,https://www.transfermarkt.com/florian-schock/profil/spieler/470816,florian schock,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Konstantinos Mavropanos,415912,€15.00m,15000000.0,https://www.transfermarkt.com/konstantinos-mavropanos/profil/spieler/415912,konstantinos mavropanos,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Waldemar Anton,193004,€6.00m,6000000.0,https://www.transfermarkt.com/waldemar-anton/profil/spieler/193004,waldemar anton,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Marc Oliver Kempf,160938,€4.50m,4500000.0,https://www.transfermarkt.com/marc-oliver-kempf/profil/spieler/160938,marc oliver kempf,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Hiroki Ito,353892,€4.50m,4500000.0,https://www.transfermarkt.com/hiroki-ito/profil/spieler/353892,hiroki ito,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Clinton Mola,470594,€1.00m,1000000.0,https://www.transfermarkt.com/clinton-mola/profil/spieler/470594,clinton mola,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Matej Maglica,433388,€900k,900000.0,https://www.transfermarkt.com/matej-maglica/profil/spieler/433388,matej maglica,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Borna Sosa,293194,€23.00m,23000000.0,https://www.transfermarkt.com/borna-sosa/profil/spieler/293194,borna sosa,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Pascal Stenzel,195246,€1.50m,1500000.0,https://www.transfermarkt.com/pascal-stenzel/profil/spieler/195246,pascal stenzel,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Orel Mangala,289592,€15.00m,15000000.0,https://www.transfermarkt.com/orel-mangala/profil/spieler/289592,orel mangala,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Wataru Endo,146310,€8.00m,8000000.0,https://www.transfermarkt.com/wataru-endo/profil/spieler/146310,wataru endo,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Atakan Karazor,232320,€4.50m,4500000.0,https://www.transfermarkt.com/atakan-karazor/profil/spieler/232320,atakan karazor,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Luca Bazzoli,493899,€225k,225000.0,https://www.transfermarkt.com/luca-bazzoli/profil/spieler/493899,luca bazzoli,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Richard Weil,49032,€50k,50000.0,https://www.transfermarkt.com/richard-weil/profil/spieler/49032,richard weil,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Nikolas Nartey,400546,€1.80m,1800000.0,https://www.transfermarkt.com/nikolas-nartey/profil/spieler/400546,nikolas nartey,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Naouirou Ahamada,538971,€1.50m,1500000.0,https://www.transfermarkt.com/naouirou-ahamada/profil/spieler/538971,naouirou ahamada,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Falko Michel,527270,€250k,250000.0,https://www.transfermarkt.com/falko-michel/profil/spieler/527270,falko michel,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Philipp Förster,179635,€2.50m,2500000.0,https://www.transfermarkt.com/philipp-forster/profil/spieler/179635,philipp forster,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Enzo Millot,569366,€2.00m,2000000.0,https://www.transfermarkt.com/enzo-millot/profil/spieler/569366,enzo millot,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Mateo Klimowicz,540302,€2.00m,2000000.0,https://www.transfermarkt.com/mateo-klimowicz/profil/spieler/540302,mateo klimowicz,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Erik Thommy,156779,€1.80m,1800000.0,https://www.transfermarkt.com/erik-thommy/profil/spieler/156779,erik thommy,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Alexis Tibidi,750886,€1.20m,1200000.0,https://www.transfermarkt.com/alexis-tibidi/profil/spieler/750886,alexis tibidi,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Philipp Klement,60394,€1.00m,1000000.0,https://www.transfermarkt.com/philipp-klement/profil/spieler/60394,philipp klement,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Ömer Beyaz,588020,€1.00m,1000000.0,https://www.transfermarkt.com/omer-beyaz/profil/spieler/588020,omer beyaz,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Lilian Egloff,472243,€800k,800000.0,https://www.transfermarkt.com/lilian-egloff/profil/spieler/472243,lilian egloff,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Daniel Didavi,57995,€500k,500000.0,https://www.transfermarkt.com/daniel-didavi/profil/spieler/57995,daniel didavi,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Chris Führich,272278,€4.00m,4000000.0,https://www.transfermarkt.com/chris-fuhrich/profil/spieler/272278,chris fuhrich,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Darko Churlinov,386786,€1.30m,1300000.0,https://www.transfermarkt.com/darko-churlinov/profil/spieler/386786,darko churlinov,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Silas,612826,€15.00m,15000000.0,https://www.transfermarkt.com/silas/profil/spieler/612826,silas,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Tanguy Coulibaly,618425,€2.50m,2500000.0,https://www.transfermarkt.com/tanguy-coulibaly/profil/spieler/618425,tanguy coulibaly,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Roberto Massimo,431561,€2.00m,2000000.0,https://www.transfermarkt.com/roberto-massimo/profil/spieler/431561,roberto massimo,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Sasa Kalajdzic,369567,€25.00m,25000000.0,https://www.transfermarkt.com/sasa-kalajdzic/profil/spieler/369567,sasa kalajdzic,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Tiago Tomás,616344,€7.00m,7000000.0,https://www.transfermarkt.com/tiago-tomas/profil/spieler/616344,tiago tomas,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Omar Marmoush,445939,€6.00m,6000000.0,https://www.transfermarkt.com/omar-marmoush/profil/spieler/445939,omar marmoush,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Wahid Faghir,610431,€3.00m,3000000.0,https://www.transfermarkt.com/wahid-faghir/profil/spieler/610431,wahid faghir,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Mohamed Sankoh,572919,€1.00m,1000000.0,https://www.transfermarkt.com/mohamed-sankoh/profil/spieler/572919,mohamed sankoh,vfb stuttgart,2021,L1
+VfB Stuttgart,79,Hamadi Al-Ghaddioui,193534,€700k,700000.0,https://www.transfermarkt.com/hamadi-al-ghaddioui/profil/spieler/193534,hamadi al-ghaddioui,vfb stuttgart,2021,L1
+Hertha BSC,44,Alexander Schwolow,93763,€3.00m,3000000.0,https://www.transfermarkt.com/alexander-schwolow/profil/spieler/93763,alexander schwolow,hertha bsc,2021,L1
+Hertha BSC,44,Oliver Christensen,471936,€1.50m,1500000.0,https://www.transfermarkt.com/oliver-christensen/profil/spieler/471936,oliver christensen,hertha bsc,2021,L1
+Hertha BSC,44,Marcel Lotka,453737,€1.30m,1300000.0,https://www.transfermarkt.com/marcel-lotka/profil/spieler/453737,marcel lotka,hertha bsc,2021,L1
+Hertha BSC,44,Nils Körber,241974,€300k,300000.0,https://www.transfermarkt.com/nils-korber/profil/spieler/241974,nils korber,hertha bsc,2021,L1
+Hertha BSC,44,Rune Jarstein,24112,€300k,300000.0,https://www.transfermarkt.com/rune-jarstein/profil/spieler/24112,rune jarstein,hertha bsc,2021,L1
+Hertha BSC,44,Niklas Stark,162434,€6.50m,6500000.0,https://www.transfermarkt.com/niklas-stark/profil/spieler/162434,niklas stark,hertha bsc,2021,L1
+Hertha BSC,44,Jordan Torunarigha,227110,€5.00m,5000000.0,https://www.transfermarkt.com/jordan-torunarigha/profil/spieler/227110,jordan torunarigha,hertha bsc,2021,L1
+Hertha BSC,44,Márton Dárdai,432281,€5.00m,5000000.0,https://www.transfermarkt.com/marton-dardai/profil/spieler/432281,marton dardai,hertha bsc,2021,L1
+Hertha BSC,44,Marc Oliver Kempf,160938,€4.50m,4500000.0,https://www.transfermarkt.com/marc-oliver-kempf/profil/spieler/160938,marc oliver kempf,hertha bsc,2021,L1
+Hertha BSC,44,Linus Gechter,692734,€4.50m,4500000.0,https://www.transfermarkt.com/linus-gechter/profil/spieler/692734,linus gechter,hertha bsc,2021,L1
+Hertha BSC,44,Dedryck Boyata,88262,€3.50m,3500000.0,https://www.transfermarkt.com/dedryck-boyata/profil/spieler/88262,dedryck boyata,hertha bsc,2021,L1
+Hertha BSC,44,Christalino Atemona,605225,€150k,150000.0,https://www.transfermarkt.com/christalino-atemona/profil/spieler/605225,christalino atemona,hertha bsc,2021,L1
+Hertha BSC,44,Marlon Morgenstern,533007,€125k,125000.0,https://www.transfermarkt.com/marlon-morgenstern/profil/spieler/533007,marlon morgenstern,hertha bsc,2021,L1
+Hertha BSC,44,Cimo Röcker,117482,€100k,100000.0,https://www.transfermarkt.com/cimo-rocker/profil/spieler/117482,cimo rocker,hertha bsc,2021,L1
+Hertha BSC,44,Maximilian Mittelstädt,282660,€4.50m,4500000.0,https://www.transfermarkt.com/maximilian-mittelstadt/profil/spieler/282660,maximilian mittelstadt,hertha bsc,2021,L1
+Hertha BSC,44,Fredrik Bjørkan,364938,€2.50m,2500000.0,https://www.transfermarkt.com/fredrik-bjorkan/profil/spieler/364938,fredrik bjørkan,hertha bsc,2021,L1
+Hertha BSC,44,Marvin Plattenhardt,89592,€2.00m,2000000.0,https://www.transfermarkt.com/marvin-plattenhardt/profil/spieler/89592,marvin plattenhardt,hertha bsc,2021,L1
+Hertha BSC,44,Deyovaisio Zeefuik,338032,€3.00m,3000000.0,https://www.transfermarkt.com/deyovaisio-zeefuik/profil/spieler/338032,deyovaisio zeefuik,hertha bsc,2021,L1
+Hertha BSC,44,Lukas Klünter,282577,€1.20m,1200000.0,https://www.transfermarkt.com/lukas-klunter/profil/spieler/282577,lukas klunter,hertha bsc,2021,L1
+Hertha BSC,44,Peter Pekarík,51100,€700k,700000.0,https://www.transfermarkt.com/peter-pekarik/profil/spieler/51100,peter pekarik,hertha bsc,2021,L1
+Hertha BSC,44,Julian Eitschberger,706617,-,,https://www.transfermarkt.com/julian-eitschberger/profil/spieler/706617,julian eitschberger,hertha bsc,2021,L1
+Hertha BSC,44,Santiago Ascacíbar,423436,€6.50m,6500000.0,https://www.transfermarkt.com/santiago-ascacibar/profil/spieler/423436,santiago ascacibar,hertha bsc,2021,L1
+Hertha BSC,44,Lucas Tousart,353948,€9.00m,9000000.0,https://www.transfermarkt.com/lucas-tousart/profil/spieler/353948,lucas tousart,hertha bsc,2021,L1
+Hertha BSC,44,Suat Serdar,261905,€8.00m,8000000.0,https://www.transfermarkt.com/suat-serdar/profil/spieler/261905,suat serdar,hertha bsc,2021,L1
+Hertha BSC,44,Jurgen Ekkelenkamp,361068,€3.50m,3500000.0,https://www.transfermarkt.com/jurgen-ekkelenkamp/profil/spieler/361068,jurgen ekkelenkamp,hertha bsc,2021,L1
+Hertha BSC,44,Vladimír Darida,179643,€2.20m,2200000.0,https://www.transfermarkt.com/vladimir-darida/profil/spieler/179643,vladimir darida,hertha bsc,2021,L1
+Hertha BSC,44,Jonas Michelbrink,471901,€500k,500000.0,https://www.transfermarkt.com/jonas-michelbrink/profil/spieler/471901,jonas michelbrink,hertha bsc,2021,L1
+Hertha BSC,44,Julian Albrecht,392149,€175k,175000.0,https://www.transfermarkt.com/julian-albrecht/profil/spieler/392149,julian albrecht,hertha bsc,2021,L1
+Hertha BSC,44,Jonas Dirkner,605222,€175k,175000.0,https://www.transfermarkt.com/jonas-dirkner/profil/spieler/605222,jonas dirkner,hertha bsc,2021,L1
+Hertha BSC,44,Anton Kade,654234,€750k,750000.0,https://www.transfermarkt.com/anton-kade/profil/spieler/654234,anton kade,hertha bsc,2021,L1
+Hertha BSC,44,Marco Richter,279009,€6.00m,6000000.0,https://www.transfermarkt.com/marco-richter/profil/spieler/279009,marco richter,hertha bsc,2021,L1
+Hertha BSC,44,Kevin-Prince Boateng,16922,€900k,900000.0,https://www.transfermarkt.com/kevin-prince-boateng/profil/spieler/16922,kevin-prince boateng,hertha bsc,2021,L1
+Hertha BSC,44,Javairô Dilrosun,315125,€6.00m,6000000.0,https://www.transfermarkt.com/javairo-dilrosun/profil/spieler/315125,javairo dilrosun,hertha bsc,2021,L1
+Hertha BSC,44,Myziane Maolida,371142,€3.00m,3000000.0,https://www.transfermarkt.com/myziane-maolida/profil/spieler/371142,myziane maolida,hertha bsc,2021,L1
+Hertha BSC,44,Kelian Nsona,569368,€1.20m,1200000.0,https://www.transfermarkt.com/kelian-nsona/profil/spieler/569368,kelian nsona,hertha bsc,2021,L1
+Hertha BSC,44,Dodi Lukébakio,303259,€7.50m,7500000.0,https://www.transfermarkt.com/dodi-lukebakio/profil/spieler/303259,dodi lukebakio,hertha bsc,2021,L1
+Hertha BSC,44,Dong-jun Lee,269601,€1.20m,1200000.0,https://www.transfermarkt.com/dong-jun-lee/profil/spieler/269601,dong-jun lee,hertha bsc,2021,L1
+Hertha BSC,44,Marten Winkler,574569,€200k,200000.0,https://www.transfermarkt.com/marten-winkler/profil/spieler/574569,marten winkler,hertha bsc,2021,L1
+Hertha BSC,44,Matheus Cunha,517894,€30.00m,30000000.0,https://www.transfermarkt.com/matheus-cunha/profil/spieler/517894,matheus cunha,hertha bsc,2021,L1
+Hertha BSC,44,Stevan Jovetić,46104,€2.50m,2500000.0,https://www.transfermarkt.com/stevan-jovetic/profil/spieler/46104,stevan jovetic,hertha bsc,2021,L1
+Hertha BSC,44,Krzysztof Piatek,327757,€12.00m,12000000.0,https://www.transfermarkt.com/krzysztof-piatek/profil/spieler/327757,krzysztof piatek,hertha bsc,2021,L1
+Hertha BSC,44,Ishak Belfodil,111039,€2.20m,2200000.0,https://www.transfermarkt.com/ishak-belfodil/profil/spieler/111039,ishak belfodil,hertha bsc,2021,L1
+Hertha BSC,44,Davie Selke,178459,€1.80m,1800000.0,https://www.transfermarkt.com/davie-selke/profil/spieler/178459,davie selke,hertha bsc,2021,L1
+Hertha BSC,44,Dennis Jastrzembski,358870,€800k,800000.0,https://www.transfermarkt.com/dennis-jastrzembski/profil/spieler/358870,dennis jastrzembski,hertha bsc,2021,L1
+Hertha BSC,44,Luca Wollschläger,678088,-,,https://www.transfermarkt.com/luca-wollschlager/profil/spieler/678088,luca wollschlager,hertha bsc,2021,L1
+1.FSV Mainz 05,39,Robin Zentner,160963,€5.00m,5000000.0,https://www.transfermarkt.com/robin-zentner/profil/spieler/160963,robin zentner,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Finn Dahmen,251299,€1.50m,1500000.0,https://www.transfermarkt.com/finn-dahmen/profil/spieler/251299,finn dahmen,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Lasse Rieß,490609,€200k,200000.0,https://www.transfermarkt.com/lasse-riess/profil/spieler/490609,lasse rieß,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Moussa Niakhaté,291200,€18.00m,18000000.0,https://www.transfermarkt.com/moussa-niakhate/profil/spieler/291200,moussa niakhate,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Jeremiah St. Juste,288253,€16.00m,16000000.0,https://www.transfermarkt.com/jeremiah-st-juste/profil/spieler/288253,jeremiah st. juste,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Dominik Kohr,118847,€5.00m,5000000.0,https://www.transfermarkt.com/dominik-kohr/profil/spieler/118847,dominik kohr,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Luca Kilian,384553,€4.50m,4500000.0,https://www.transfermarkt.com/luca-kilian/profil/spieler/384553,luca kilian,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Stefan Bell,82350,€2.50m,2500000.0,https://www.transfermarkt.com/stefan-bell/profil/spieler/82350,stefan bell,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Alexander Hack,126281,€2.50m,2500000.0,https://www.transfermarkt.com/alexander-hack/profil/spieler/126281,alexander hack,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,David Nemeth,451906,€2.30m,2300000.0,https://www.transfermarkt.com/david-nemeth/profil/spieler/451906,david nemeth,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Aarón Martín,251878,€5.00m,5000000.0,https://www.transfermarkt.com/aaron-martin/profil/spieler/251878,aaron martin,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Anderson Lucoqui,240274,€1.80m,1800000.0,https://www.transfermarkt.com/anderson-lucoqui/profil/spieler/240274,anderson lucoqui,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Silvan Widmer,168989,€5.00m,5000000.0,https://www.transfermarkt.com/silvan-widmer/profil/spieler/168989,silvan widmer,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Daniel Brosinski,43984,€500k,500000.0,https://www.transfermarkt.com/daniel-brosinski/profil/spieler/43984,daniel brosinski,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Anton Stach,344069,€13.00m,13000000.0,https://www.transfermarkt.com/anton-stach/profil/spieler/344069,anton stach,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Edimilson Fernandes,247555,€2.00m,2000000.0,https://www.transfermarkt.com/edimilson-fernandes/profil/spieler/247555,edimilson fernandes,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Niklas Tauer,470815,€1.50m,1500000.0,https://www.transfermarkt.com/niklas-tauer/profil/spieler/470815,niklas tauer,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Stephan Fürstner,35493,€75k,75000.0,https://www.transfermarkt.com/stephan-furstner/profil/spieler/35493,stephan furstner,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Leandro Barreiro,357233,€8.00m,8000000.0,https://www.transfermarkt.com/leandro-barreiro/profil/spieler/357233,leandro barreiro,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Merveille Papela,405689,€400k,400000.0,https://www.transfermarkt.com/merveille-papela/profil/spieler/405689,merveille papela,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Eniss Shabani,663189,€200k,200000.0,https://www.transfermarkt.com/eniss-shabani/profil/spieler/663189,eniss shabani,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Timothé Rupil,627661,€100k,100000.0,https://www.transfermarkt.com/timothe-rupil/profil/spieler/627661,timothe rupil,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Romario Rösch,333464,€150k,150000.0,https://www.transfermarkt.com/romario-rosch/profil/spieler/333464,romario rosch,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Jean-Paul Boëtius,182574,€4.00m,4000000.0,https://www.transfermarkt.com/jean-paul-boetius/profil/spieler/182574,jean-paul boetius,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Jae-sung Lee,314398,€3.00m,3000000.0,https://www.transfermarkt.com/jae-sung-lee/profil/spieler/314398,jae-sung lee,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Kevin Stöger,106872,€1.60m,1600000.0,https://www.transfermarkt.com/kevin-stoger/profil/spieler/106872,kevin stoger,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Paul Nebel,503160,€1.30m,1300000.0,https://www.transfermarkt.com/paul-nebel/profil/spieler/503160,paul nebel,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Delano Burgzorg,436585,€2.00m,2000000.0,https://www.transfermarkt.com/delano-burgzorg/profil/spieler/436585,delano burgzorg,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Kaito Mizuta,677794,€150k,150000.0,https://www.transfermarkt.com/kaito-mizuta/profil/spieler/677794,kaito mizuta,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Jonathan Burkardt,333647,€17.00m,17000000.0,https://www.transfermarkt.com/jonathan-burkardt/profil/spieler/333647,jonathan burkardt,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Karim Onisiwo,119234,€3.50m,3500000.0,https://www.transfermarkt.com/karim-onisiwo/profil/spieler/119234,karim onisiwo,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Marcus Ingvartsen,269878,€2.50m,2500000.0,https://www.transfermarkt.com/marcus-ingvartsen/profil/spieler/269878,marcus ingvartsen,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Ádám Szalai,39106,€500k,500000.0,https://www.transfermarkt.com/adam-szalai/profil/spieler/39106,adam szalai,1.fsv mainz 05,2021,L1
+1.FSV Mainz 05,39,Ben Bobzien,658116,€250k,250000.0,https://www.transfermarkt.com/ben-bobzien/profil/spieler/658116,ben bobzien,1.fsv mainz 05,2021,L1
+1.FC Union Berlin,89,Frederik Rönnow,107775,€2.00m,2000000.0,https://www.transfermarkt.com/frederik-ronnow/profil/spieler/107775,frederik ronnow,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Andreas Luthe,41323,€800k,800000.0,https://www.transfermarkt.com/andreas-luthe/profil/spieler/41323,andreas luthe,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Jakob Busk,203411,€250k,250000.0,https://www.transfermarkt.com/jakob-busk/profil/spieler/203411,jakob busk,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Niklas Petzsch,698776,-,,https://www.transfermarkt.com/niklas-petzsch/profil/spieler/698776,niklas petzsch,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Yannic Stein,698840,-,,https://www.transfermarkt.com/yannic-stein/profil/spieler/698840,yannic stein,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Marvin Friedrich,196231,€8.00m,8000000.0,https://www.transfermarkt.com/marvin-friedrich/profil/spieler/196231,marvin friedrich,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Paul Jaeckel,284248,€5.00m,5000000.0,https://www.transfermarkt.com/paul-jaeckel/profil/spieler/284248,paul jaeckel,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Timo Baumgartl,187491,€5.00m,5000000.0,https://www.transfermarkt.com/timo-baumgartl/profil/spieler/187491,timo baumgartl,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Robin Knoche,94201,€5.00m,5000000.0,https://www.transfermarkt.com/robin-knoche/profil/spieler/94201,robin knoche,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Dominique Heintz,110036,€2.50m,2500000.0,https://www.transfermarkt.com/dominique-heintz/profil/spieler/110036,dominique heintz,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Rick van Drongelen,354340,€1.50m,1500000.0,https://www.transfermarkt.com/rick-van-drongelen/profil/spieler/354340,rick van drongelen,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Sebastian Griesbeck,153555,€700k,700000.0,https://www.transfermarkt.com/sebastian-griesbeck/profil/spieler/153555,sebastian griesbeck,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Mathis Bruns,699702,€200k,200000.0,https://www.transfermarkt.com/mathis-bruns/profil/spieler/699702,mathis bruns,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Maximilian Somnitz,692713,€200k,200000.0,https://www.transfermarkt.com/maximilian-somnitz/profil/spieler/692713,maximilian somnitz,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Tymoteusz Puchacz,361575,€2.30m,2300000.0,https://www.transfermarkt.com/tymoteusz-puchacz/profil/spieler/361575,tymoteusz puchacz,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Niko Gießelmann,72792,€2.30m,2300000.0,https://www.transfermarkt.com/niko-giesselmann/profil/spieler/72792,niko gießelmann,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Bastian Oczipka,53437,€600k,600000.0,https://www.transfermarkt.com/bastian-oczipka/profil/spieler/53437,bastian oczipka,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Julian Ryerson,370789,€4.00m,4000000.0,https://www.transfermarkt.com/julian-ryerson/profil/spieler/370789,julian ryerson,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Pawel Wszolek,164759,€1.20m,1200000.0,https://www.transfermarkt.com/pawel-wszolek/profil/spieler/164759,pawel wszolek,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Christopher Trimmel,75921,€900k,900000.0,https://www.transfermarkt.com/christopher-trimmel/profil/spieler/75921,christopher trimmel,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Robert Andrich,159088,€13.00m,13000000.0,https://www.transfermarkt.com/robert-andrich/profil/spieler/159088,robert andrich,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Rani Khedira,124410,€6.00m,6000000.0,https://www.transfermarkt.com/rani-khedira/profil/spieler/124410,rani khedira,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Grischa Prömel,234029,€7.50m,7500000.0,https://www.transfermarkt.com/grischa-promel/profil/spieler/234029,grischa promel,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,András Schäfer,454863,€2.00m,2000000.0,https://www.transfermarkt.com/andras-schafer/profil/spieler/454863,andras schafer,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Kevin Möhwald,94137,€1.50m,1500000.0,https://www.transfermarkt.com/kevin-mohwald/profil/spieler/94137,kevin mohwald,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Fabio Schneider,548803,€200k,200000.0,https://www.transfermarkt.com/fabio-schneider/profil/spieler/548803,fabio schneider,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Genki Haraguchi,79377,€2.50m,2500000.0,https://www.transfermarkt.com/genki-haraguchi/profil/spieler/79377,genki haraguchi,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Sheraldo Becker,188888,€7.00m,7000000.0,https://www.transfermarkt.com/sheraldo-becker/profil/spieler/188888,sheraldo becker,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Levin Öztunali,168543,€1.50m,1500000.0,https://www.transfermarkt.com/levin-oztunali/profil/spieler/168543,levin oztunali,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Sven Michel,186988,€1.20m,1200000.0,https://www.transfermarkt.com/sven-michel/profil/spieler/186988,sven michel,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Keita Endo,421726,€900k,900000.0,https://www.transfermarkt.com/keita-endo/profil/spieler/421726,keita endo,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Laurenz Dehl,451403,€250k,250000.0,https://www.transfermarkt.com/laurenz-dehl/profil/spieler/451403,laurenz dehl,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Max Kruse,36182,€3.50m,3500000.0,https://www.transfermarkt.com/max-kruse/profil/spieler/36182,max kruse,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Taiwo Awoniyi,295313,€20.00m,20000000.0,https://www.transfermarkt.com/taiwo-awoniyi/profil/spieler/295313,taiwo awoniyi,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Marcus Ingvartsen,269878,€2.50m,2500000.0,https://www.transfermarkt.com/marcus-ingvartsen/profil/spieler/269878,marcus ingvartsen,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Andreas Voglsammer,94771,€1.20m,1200000.0,https://www.transfermarkt.com/andreas-voglsammer/profil/spieler/94771,andreas voglsammer,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Cedric Teuchert,207597,€900k,900000.0,https://www.transfermarkt.com/cedric-teuchert/profil/spieler/207597,cedric teuchert,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Kevin Behrens,117432,€900k,900000.0,https://www.transfermarkt.com/kevin-behrens/profil/spieler/117432,kevin behrens,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Anthony Ujah,142281,€500k,500000.0,https://www.transfermarkt.com/anthony-ujah/profil/spieler/142281,anthony ujah,1.fc union berlin,2021,L1
+1.FC Union Berlin,89,Suleiman Abdullahi,356118,€400k,400000.0,https://www.transfermarkt.com/suleiman-abdullahi/profil/spieler/356118,suleiman abdullahi,1.fc union berlin,2021,L1
+1.FC Köln,3,Marvin Schwäbe,160929,€4.00m,4000000.0,https://www.transfermarkt.com/marvin-schwabe/profil/spieler/160929,marvin schwabe,1.fc koln,2021,L1
+1.FC Köln,3,Timo Horn,84938,€2.00m,2000000.0,https://www.transfermarkt.com/timo-horn/profil/spieler/84938,timo horn,1.fc koln,2021,L1
+1.FC Köln,3,Jonas Urbig,607720,€300k,300000.0,https://www.transfermarkt.com/jonas-urbig/profil/spieler/607720,jonas urbig,1.fc koln,2021,L1
+1.FC Köln,3,Matthias Köbbing,227089,€25k,25000.0,https://www.transfermarkt.com/matthias-kobbing/profil/spieler/227089,matthias kobbing,1.fc koln,2021,L1
+1.FC Köln,3,Timo Hübers,236981,€7.50m,7500000.0,https://www.transfermarkt.com/timo-hubers/profil/spieler/236981,timo hubers,1.fc koln,2021,L1
+1.FC Köln,3,Luca Kilian,384553,€4.50m,4500000.0,https://www.transfermarkt.com/luca-kilian/profil/spieler/384553,luca kilian,1.fc koln,2021,L1
+1.FC Köln,3,Jorge Meré,286779,€2.50m,2500000.0,https://www.transfermarkt.com/jorge-mere/profil/spieler/286779,jorge mere,1.fc koln,2021,L1
+1.FC Köln,3,Jeff Chabot,303219,€2.00m,2000000.0,https://www.transfermarkt.com/jeff-chabot/profil/spieler/303219,jeff chabot,1.fc koln,2021,L1
+1.FC Köln,3,Bright Arrey-Mbi,580193,€1.30m,1300000.0,https://www.transfermarkt.com/bright-arrey-mbi/profil/spieler/580193,bright arrey-mbi,1.fc koln,2021,L1
+1.FC Köln,3,Rafael Czichos,84150,€1.00m,1000000.0,https://www.transfermarkt.com/rafael-czichos/profil/spieler/84150,rafael czichos,1.fc koln,2021,L1
+1.FC Köln,3,Jonas Hector,108537,€3.50m,3500000.0,https://www.transfermarkt.com/jonas-hector/profil/spieler/108537,jonas hector,1.fc koln,2021,L1
+1.FC Köln,3,Jannes Horn,231586,€1.80m,1800000.0,https://www.transfermarkt.com/jannes-horn/profil/spieler/231586,jannes horn,1.fc koln,2021,L1
+1.FC Köln,3,Noah Katterbach,469949,€1.70m,1700000.0,https://www.transfermarkt.com/noah-katterbach/profil/spieler/469949,noah katterbach,1.fc koln,2021,L1
+1.FC Köln,3,Kingsley Ehizibue,272812,€1.30m,1300000.0,https://www.transfermarkt.com/kingsley-ehizibue/profil/spieler/272812,kingsley ehizibue,1.fc koln,2021,L1
+1.FC Köln,3,Salih Özcan,244940,€13.00m,13000000.0,https://www.transfermarkt.com/salih-ozcan/profil/spieler/244940,salih ozcan,1.fc koln,2021,L1
+1.FC Köln,3,Ellyes Skhiri,290587,€13.00m,13000000.0,https://www.transfermarkt.com/ellyes-skhiri/profil/spieler/290587,ellyes skhiri,1.fc koln,2021,L1
+1.FC Köln,3,Dejan Ljubicic,287188,€7.50m,7500000.0,https://www.transfermarkt.com/dejan-ljubicic/profil/spieler/287188,dejan ljubicic,1.fc koln,2021,L1
+1.FC Köln,3,Benno Schmitz,160968,€3.00m,3000000.0,https://www.transfermarkt.com/benno-schmitz/profil/spieler/160968,benno schmitz,1.fc koln,2021,L1
+1.FC Köln,3,Mathias Olesen,490581,€350k,350000.0,https://www.transfermarkt.com/mathias-olesen/profil/spieler/490581,mathias olesen,1.fc koln,2021,L1
+1.FC Köln,3,Ondrej Duda,232418,€4.00m,4000000.0,https://www.transfermarkt.com/ondrej-duda/profil/spieler/232418,ondrej duda,1.fc koln,2021,L1
+1.FC Köln,3,Niklas Hauptmann,205544,€350k,350000.0,https://www.transfermarkt.com/niklas-hauptmann/profil/spieler/205544,niklas hauptmann,1.fc koln,2021,L1
+1.FC Köln,3,Louis Schaub,147485,€1.80m,1800000.0,https://www.transfermarkt.com/louis-schaub/profil/spieler/147485,louis schaub,1.fc koln,2021,L1
+1.FC Köln,3,Florian Kainz,106270,€3.50m,3500000.0,https://www.transfermarkt.com/florian-kainz/profil/spieler/106270,florian kainz,1.fc koln,2021,L1
+1.FC Köln,3,Tomas Ostrák,428189,€750k,750000.0,https://www.transfermarkt.com/tomas-ostrak/profil/spieler/428189,tomas ostrak,1.fc koln,2021,L1
+1.FC Köln,3,Jan Thielmann,472249,€7.50m,7500000.0,https://www.transfermarkt.com/jan-thielmann/profil/spieler/472249,jan thielmann,1.fc koln,2021,L1
+1.FC Köln,3,Kingsley Schindler,153678,€800k,800000.0,https://www.transfermarkt.com/kingsley-schindler/profil/spieler/153678,kingsley schindler,1.fc koln,2021,L1
+1.FC Köln,3,Marvin Obuz,522084,€300k,300000.0,https://www.transfermarkt.com/marvin-obuz/profil/spieler/522084,marvin obuz,1.fc koln,2021,L1
+1.FC Köln,3,Mark Uth,112935,€3.00m,3000000.0,https://www.transfermarkt.com/mark-uth/profil/spieler/112935,mark uth,1.fc koln,2021,L1
+1.FC Köln,3,Anthony Modeste,50512,€3.00m,3000000.0,https://www.transfermarkt.com/anthony-modeste/profil/spieler/50512,anthony modeste,1.fc koln,2021,L1
+1.FC Köln,3,Sebastian Andersson,147573,€2.00m,2000000.0,https://www.transfermarkt.com/sebastian-andersson/profil/spieler/147573,sebastian andersson,1.fc koln,2021,L1
+1.FC Köln,3,Tim Lemperle,553285,€2.00m,2000000.0,https://www.transfermarkt.com/tim-lemperle/profil/spieler/553285,tim lemperle,1.fc koln,2021,L1
+FC Augsburg,167,Rafal Gikiewicz,78339,€1.20m,1200000.0,https://www.transfermarkt.com/rafal-gikiewicz/profil/spieler/78339,rafal gikiewicz,fc augsburg,2021,L1
+FC Augsburg,167,Tomas Koubek,146714,€1.00m,1000000.0,https://www.transfermarkt.com/tomas-koubek/profil/spieler/146714,tomas koubek,fc augsburg,2021,L1
+FC Augsburg,167,Daniel Klein,392124,€200k,200000.0,https://www.transfermarkt.com/daniel-klein/profil/spieler/392124,daniel klein,fc augsburg,2021,L1
+FC Augsburg,167,Reece Oxford,314295,€12.00m,12000000.0,https://www.transfermarkt.com/reece-oxford/profil/spieler/314295,reece oxford,fc augsburg,2021,L1
+FC Augsburg,167,Felix Uduokhai,278343,€10.00m,10000000.0,https://www.transfermarkt.com/felix-uduokhai/profil/spieler/278343,felix uduokhai,fc augsburg,2021,L1
+FC Augsburg,167,Jeffrey Gouweleeuw,106405,€3.50m,3500000.0,https://www.transfermarkt.com/jeffrey-gouweleeuw/profil/spieler/106405,jeffrey gouweleeuw,fc augsburg,2021,L1
+FC Augsburg,167,Frederik Winther,569349,€1.00m,1000000.0,https://www.transfermarkt.com/frederik-winther/profil/spieler/569349,frederik winther,fc augsburg,2021,L1
+FC Augsburg,167,Iago,520468,€5.50m,5500000.0,https://www.transfermarkt.com/iago/profil/spieler/520468,iago,fc augsburg,2021,L1
+FC Augsburg,167,Mads Pedersen,288429,€2.00m,2000000.0,https://www.transfermarkt.com/mads-pedersen/profil/spieler/288429,mads pedersen,fc augsburg,2021,L1
+FC Augsburg,167,Lasse Günther,522245,€1.00m,1000000.0,https://www.transfermarkt.com/lasse-gunther/profil/spieler/522245,lasse gunther,fc augsburg,2021,L1
+FC Augsburg,167,Robert Gumny,353826,€2.50m,2500000.0,https://www.transfermarkt.com/robert-gumny/profil/spieler/353826,robert gumny,fc augsburg,2021,L1
+FC Augsburg,167,Raphael Framberger,146163,€1.50m,1500000.0,https://www.transfermarkt.com/raphael-framberger/profil/spieler/146163,raphael framberger,fc augsburg,2021,L1
+FC Augsburg,167,Niklas Dorsch,251302,€10.00m,10000000.0,https://www.transfermarkt.com/niklas-dorsch/profil/spieler/251302,niklas dorsch,fc augsburg,2021,L1
+FC Augsburg,167,Carlos Gruezo,189475,€3.20m,3200000.0,https://www.transfermarkt.com/carlos-gruezo/profil/spieler/189475,carlos gruezo,fc augsburg,2021,L1
+FC Augsburg,167,Tobias Strobl,57845,€900k,900000.0,https://www.transfermarkt.com/tobias-strobl/profil/spieler/57845,tobias strobl,fc augsburg,2021,L1
+FC Augsburg,167,Arne Maier,296397,€5.50m,5500000.0,https://www.transfermarkt.com/arne-maier/profil/spieler/296397,arne maier,fc augsburg,2021,L1
+FC Augsburg,167,Jan Moravek,63022,€500k,500000.0,https://www.transfermarkt.com/jan-moravek/profil/spieler/63022,jan moravek,fc augsburg,2021,L1
+FC Augsburg,167,Tim Civeja,588747,€200k,200000.0,https://www.transfermarkt.com/tim-civeja/profil/spieler/588747,tim civeja,fc augsburg,2021,L1
+FC Augsburg,167,Dominic Schmidt,476498,€100k,100000.0,https://www.transfermarkt.com/dominic-schmidt/profil/spieler/476498,dominic schmidt,fc augsburg,2021,L1
+FC Augsburg,167,Dikeni Salifou,664973,-,,https://www.transfermarkt.com/dikeni-salifou/profil/spieler/664973,dikeni salifou,fc augsburg,2021,L1
+FC Augsburg,167,Fredrik Jensen,249157,€1.50m,1500000.0,https://www.transfermarkt.com/fredrik-jensen/profil/spieler/249157,fredrik jensen,fc augsburg,2021,L1
+FC Augsburg,167,Rubén Vargas,345886,€8.00m,8000000.0,https://www.transfermarkt.com/ruben-vargas/profil/spieler/345886,ruben vargas,fc augsburg,2021,L1
+FC Augsburg,167,André Hahn,42783,€2.00m,2000000.0,https://www.transfermarkt.com/andre-hahn/profil/spieler/42783,andre hahn,fc augsburg,2021,L1
+FC Augsburg,167,Noah Sarenren Bazee,283001,€1.00m,1000000.0,https://www.transfermarkt.com/noah-sarenren-bazee/profil/spieler/283001,noah sarenren bazee,fc augsburg,2021,L1
+FC Augsburg,167,Daniel Caligiuri,38410,€800k,800000.0,https://www.transfermarkt.com/daniel-caligiuri/profil/spieler/38410,daniel caligiuri,fc augsburg,2021,L1
+FC Augsburg,167,Ricardo Pepi,627207,€9.00m,9000000.0,https://www.transfermarkt.com/ricardo-pepi/profil/spieler/627207,ricardo pepi,fc augsburg,2021,L1
+FC Augsburg,167,Michael Gregoritsch,120205,€4.50m,4500000.0,https://www.transfermarkt.com/michael-gregoritsch/profil/spieler/120205,michael gregoritsch,fc augsburg,2021,L1
+FC Augsburg,167,Andi Zeqiri,345468,€2.30m,2300000.0,https://www.transfermarkt.com/andi-zeqiri/profil/spieler/345468,andi zeqiri,fc augsburg,2021,L1
+FC Augsburg,167,Florian Niederlechner,152963,€2.20m,2200000.0,https://www.transfermarkt.com/florian-niederlechner/profil/spieler/152963,florian niederlechner,fc augsburg,2021,L1
+FC Augsburg,167,Sergio Córdova,377387,€1.00m,1000000.0,https://www.transfermarkt.com/sergio-cordova/profil/spieler/377387,sergio cordova,fc augsburg,2021,L1
+FC Augsburg,167,Alfred Finnbogason,90024,€700k,700000.0,https://www.transfermarkt.com/alfred-finnbogason/profil/spieler/90024,alfred finnbogason,fc augsburg,2021,L1
+FC Augsburg,167,Maurice Malone,405568,€500k,500000.0,https://www.transfermarkt.com/maurice-malone/profil/spieler/405568,maurice malone,fc augsburg,2021,L1
+Arminia Bielefeld,10,Stefan Ortega,85941,€6.00m,6000000.0,https://www.transfermarkt.com/stefan-ortega/profil/spieler/85941,stefan ortega,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Stefanos Kapino,68410,€700k,700000.0,https://www.transfermarkt.com/stefanos-kapino/profil/spieler/68410,stefanos kapino,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Oscar Linnér,366974,€300k,300000.0,https://www.transfermarkt.com/oscar-linner/profil/spieler/366974,oscar linner,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Arne Schulz,606301,€100k,100000.0,https://www.transfermarkt.com/arne-schulz/profil/spieler/606301,arne schulz,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Amos Pieper,334221,€5.00m,5000000.0,https://www.transfermarkt.com/amos-pieper/profil/spieler/334221,amos pieper,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Joakim Nilsson,216804,€3.50m,3500000.0,https://www.transfermarkt.com/joakim-nilsson/profil/spieler/216804,joakim nilsson,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Gui Ramos,340521,€2.00m,2000000.0,https://www.transfermarkt.com/gui-ramos/profil/spieler/340521,gui ramos,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Andrés Andrade,403808,€2.00m,2000000.0,https://www.transfermarkt.com/andres-andrade/profil/spieler/403808,andres andrade,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Mike van der Hoorn,187105,€1.60m,1600000.0,https://www.transfermarkt.com/mike-van-der-hoorn/profil/spieler/187105,mike van der hoorn,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Nathan de Medina,285951,€750k,750000.0,https://www.transfermarkt.com/nathan-de-medina/profil/spieler/285951,nathan de medina,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Kenson Pierre Bauer,596481,-,,https://www.transfermarkt.com/kenson-pierre-bauer/profil/spieler/596481,kenson pierre bauer,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,George Bello,504147,€3.00m,3000000.0,https://www.transfermarkt.com/george-bello/profil/spieler/504147,george bello,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Jacob Barrett Laursen,185164,€1.70m,1700000.0,https://www.transfermarkt.com/jacob-barrett-laursen/profil/spieler/185164,jacob barrett laursen,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Cédric Brunner,147038,€3.20m,3200000.0,https://www.transfermarkt.com/cedric-brunner/profil/spieler/147038,cedric brunner,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Edimilson Fernandes,247555,€2.00m,2000000.0,https://www.transfermarkt.com/edimilson-fernandes/profil/spieler/247555,edimilson fernandes,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Manuel Prietl,152317,€1.80m,1800000.0,https://www.transfermarkt.com/manuel-prietl/profil/spieler/152317,manuel prietl,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Fabian Kunze,334186,€1.00m,1000000.0,https://www.transfermarkt.com/fabian-kunze/profil/spieler/334186,fabian kunze,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Julian Frommann,606308,€200k,200000.0,https://www.transfermarkt.com/julian-frommann/profil/spieler/606308,julian frommann,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Vladislav Cherny,606307,€100k,100000.0,https://www.transfermarkt.com/vladislav-cherny/profil/spieler/606307,vladislav cherny,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Alessandro Schöpf,118397,€2.50m,2500000.0,https://www.transfermarkt.com/alessandro-schopf/profil/spieler/118397,alessandro schopf,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Marcel Hartel,189073,€1.80m,1800000.0,https://www.transfermarkt.com/marcel-hartel/profil/spieler/189073,marcel hartel,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Sebastian Vasiliadis,333516,€1.80m,1800000.0,https://www.transfermarkt.com/sebastian-vasiliadis/profil/spieler/333516,sebastian vasiliadis,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Gonzalo Castro,28947,€500k,500000.0,https://www.transfermarkt.com/gonzalo-castro/profil/spieler/28947,gonzalo castro,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Lennart Czyborra,309393,€2.30m,2300000.0,https://www.transfermarkt.com/lennart-czyborra/profil/spieler/309393,lennart czyborra,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Masaya Okugawa,307052,€5.00m,5000000.0,https://www.transfermarkt.com/masaya-okugawa/profil/spieler/307052,masaya okugawa,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Robin Hack,284010,€2.00m,2000000.0,https://www.transfermarkt.com/robin-hack/profil/spieler/284010,robin hack,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Patrick Wimmer,533295,€8.00m,8000000.0,https://www.transfermarkt.com/patrick-wimmer/profil/spieler/533295,patrick wimmer,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Burak İnce,697144,€1.50m,1500000.0,https://www.transfermarkt.com/burak-ince/profil/spieler/697144,burak ince,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Christian Gebauer,275423,€500k,500000.0,https://www.transfermarkt.com/christian-gebauer/profil/spieler/275423,christian gebauer,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Florian Krüger,317740,€1.80m,1800000.0,https://www.transfermarkt.com/florian-kruger/profil/spieler/317740,florian kruger,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Janni Serra,294534,€1.80m,1800000.0,https://www.transfermarkt.com/janni-serra/profil/spieler/294534,janni serra,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Bryan Lasme,477109,€1.00m,1000000.0,https://www.transfermarkt.com/bryan-lasme/profil/spieler/477109,bryan lasme,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Fabian Klos,78147,€400k,400000.0,https://www.transfermarkt.com/fabian-klos/profil/spieler/78147,fabian klos,arminia bielefeld,2021,L1
+Arminia Bielefeld,10,Cem-Ali Dogan,815888,-,,https://www.transfermarkt.com/cem-ali-dogan/profil/spieler/815888,cem-ali dogan,arminia bielefeld,2021,L1
+VfL Bochum,80,Manuel Riemann,40792,€1.20m,1200000.0,https://www.transfermarkt.com/manuel-riemann/profil/spieler/40792,manuel riemann,vfl bochum,2021,L1
+VfL Bochum,80,Michael Esser,61989,€400k,400000.0,https://www.transfermarkt.com/michael-esser/profil/spieler/61989,michael esser,vfl bochum,2021,L1
+VfL Bochum,80,Tjark Ernst,553282,€200k,200000.0,https://www.transfermarkt.com/tjark-ernst/profil/spieler/553282,tjark ernst,vfl bochum,2021,L1
+VfL Bochum,80,Paul Grave,452192,€100k,100000.0,https://www.transfermarkt.com/paul-grave/profil/spieler/452192,paul grave,vfl bochum,2021,L1
+VfL Bochum,80,Armel Bella-Kotchap,467563,€10.00m,10000000.0,https://www.transfermarkt.com/armel-bella-kotchap/profil/spieler/467563,armel bella-kotchap,vfl bochum,2021,L1
+VfL Bochum,80,Maxim Leitsch,334207,€5.00m,5000000.0,https://www.transfermarkt.com/maxim-leitsch/profil/spieler/334207,maxim leitsch,vfl bochum,2021,L1
+VfL Bochum,80,Erhan Masovic,343959,€2.50m,2500000.0,https://www.transfermarkt.com/erhan-masovic/profil/spieler/343959,erhan masovic,vfl bochum,2021,L1
+VfL Bochum,80,Vasilios Lampropoulos,63489,€500k,500000.0,https://www.transfermarkt.com/vasilios-lampropoulos/profil/spieler/63489,vasilios lampropoulos,vfl bochum,2021,L1
+VfL Bochum,80,Saulo Decarli,154578,€300k,300000.0,https://www.transfermarkt.com/saulo-decarli/profil/spieler/154578,saulo decarli,vfl bochum,2021,L1
+VfL Bochum,80,Danilo Soares,154396,€2.20m,2200000.0,https://www.transfermarkt.com/danilo-soares/profil/spieler/154396,danilo soares,vfl bochum,2021,L1
+VfL Bochum,80,Konstantinos Stafylidis,148967,€1.80m,1800000.0,https://www.transfermarkt.com/konstantinos-stafylidis/profil/spieler/148967,konstantinos stafylidis,vfl bochum,2021,L1
+VfL Bochum,80,Moritz Römling,452222,€200k,200000.0,https://www.transfermarkt.com/moritz-romling/profil/spieler/452222,moritz romling,vfl bochum,2021,L1
+VfL Bochum,80,Herbert Bockhorn,186477,€800k,800000.0,https://www.transfermarkt.com/herbert-bockhorn/profil/spieler/186477,herbert bockhorn,vfl bochum,2021,L1
+VfL Bochum,80,Cristian Gamboa,121686,€700k,700000.0,https://www.transfermarkt.com/cristian-gamboa/profil/spieler/121686,cristian gamboa,vfl bochum,2021,L1
+VfL Bochum,80,Patrick Osterhage,443331,€900k,900000.0,https://www.transfermarkt.com/patrick-osterhage/profil/spieler/443331,patrick osterhage,vfl bochum,2021,L1
+VfL Bochum,80,Anthony Losilla,111266,€500k,500000.0,https://www.transfermarkt.com/anthony-losilla/profil/spieler/111266,anthony losilla,vfl bochum,2021,L1
+VfL Bochum,80,Elvis Rexhbecaj,280575,€4.00m,4000000.0,https://www.transfermarkt.com/elvis-rexhbecaj/profil/spieler/280575,elvis rexhbecaj,vfl bochum,2021,L1
+VfL Bochum,80,Eduard Löwen,260655,€2.00m,2000000.0,https://www.transfermarkt.com/eduard-lowen/profil/spieler/260655,eduard lowen,vfl bochum,2021,L1
+VfL Bochum,80,Robert Tesche,41458,€350k,350000.0,https://www.transfermarkt.com/robert-tesche/profil/spieler/41458,robert tesche,vfl bochum,2021,L1
+VfL Bochum,80,Raman Chibsah,199633,€250k,250000.0,https://www.transfermarkt.com/raman-chibsah/profil/spieler/199633,raman chibsah,vfl bochum,2021,L1
+VfL Bochum,80,Milos Pantovic,232144,€2.20m,2200000.0,https://www.transfermarkt.com/milos-pantovic/profil/spieler/232144,milos pantovic,vfl bochum,2021,L1
+VfL Bochum,80,Tom Weilandt,93837,€250k,250000.0,https://www.transfermarkt.com/tom-weilandt/profil/spieler/93837,tom weilandt,vfl bochum,2021,L1
+VfL Bochum,80,Gerrit Holtmann,190289,€4.50m,4500000.0,https://www.transfermarkt.com/gerrit-holtmann/profil/spieler/190289,gerrit holtmann,vfl bochum,2021,L1
+VfL Bochum,80,Christopher Antwi-Adjei,289182,€1.00m,1000000.0,https://www.transfermarkt.com/christopher-antwi-adjei/profil/spieler/289182,christopher antwi-adjei,vfl bochum,2021,L1
+VfL Bochum,80,Danny Blum,41541,€600k,600000.0,https://www.transfermarkt.com/danny-blum/profil/spieler/41541,danny blum,vfl bochum,2021,L1
+VfL Bochum,80,Takuma Asano,245744,€3.00m,3000000.0,https://www.transfermarkt.com/takuma-asano/profil/spieler/245744,takuma asano,vfl bochum,2021,L1
+VfL Bochum,80,Tarsis Bonga,283140,€300k,300000.0,https://www.transfermarkt.com/tarsis-bonga/profil/spieler/283140,tarsis bonga,vfl bochum,2021,L1
+VfL Bochum,80,Sebastian Polter,60957,€2.20m,2200000.0,https://www.transfermarkt.com/sebastian-polter/profil/spieler/60957,sebastian polter,vfl bochum,2021,L1
+VfL Bochum,80,Jürgen Locadia,166240,€2.00m,2000000.0,https://www.transfermarkt.com/jurgen-locadia/profil/spieler/166240,jurgen locadia,vfl bochum,2021,L1
+VfL Bochum,80,Simon Zoller,79967,€1.10m,1100000.0,https://www.transfermarkt.com/simon-zoller/profil/spieler/79967,simon zoller,vfl bochum,2021,L1
+VfL Bochum,80,Silvere Ganvoula,312819,€600k,600000.0,https://www.transfermarkt.com/silvere-ganvoula/profil/spieler/312819,silvere ganvoula,vfl bochum,2021,L1
+VfL Bochum,80,Soma Novothny,148824,€400k,400000.0,https://www.transfermarkt.com/soma-novothny/profil/spieler/148824,soma novothny,vfl bochum,2021,L1
+VfL Bochum,80,Luis Hartwig,571140,€200k,200000.0,https://www.transfermarkt.com/luis-hartwig/profil/spieler/571140,luis hartwig,vfl bochum,2021,L1
+SpVgg Greuther Fürth,65,Andreas Linde,199221,€900k,900000.0,https://www.transfermarkt.com/andreas-linde/profil/spieler/199221,andreas linde,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Sascha Burchert,36898,€400k,400000.0,https://www.transfermarkt.com/sascha-burchert/profil/spieler/36898,sascha burchert,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Marius Funk,170517,€300k,300000.0,https://www.transfermarkt.com/marius-funk/profil/spieler/170517,marius funk,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Leon Schaffran,291383,€125k,125000.0,https://www.transfermarkt.com/leon-schaffran/profil/spieler/291383,leon schaffran,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Lasse Schulz,748061,€125k,125000.0,https://www.transfermarkt.com/lasse-schulz/profil/spieler/748061,lasse schulz,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Maximilian Bauer,388363,€1.60m,1600000.0,https://www.transfermarkt.com/maximilian-bauer/profil/spieler/388363,maximilian bauer,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Luca Itter,296378,€1.50m,1500000.0,https://www.transfermarkt.com/luca-itter/profil/spieler/296378,luca itter,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Justin Hoogma,411287,€1.00m,1000000.0,https://www.transfermarkt.com/justin-hoogma/profil/spieler/411287,justin hoogma,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Jetro Willems,146258,€1.00m,1000000.0,https://www.transfermarkt.com/jetro-willems/profil/spieler/146258,jetro willems,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Nick Viergever,93081,€800k,800000.0,https://www.transfermarkt.com/nick-viergever/profil/spieler/93081,nick viergever,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Sebastian Griesbeck,153555,€700k,700000.0,https://www.transfermarkt.com/sebastian-griesbeck/profil/spieler/153555,sebastian griesbeck,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Gideon Jung,247661,€700k,700000.0,https://www.transfermarkt.com/gideon-jung/profil/spieler/247661,gideon jung,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Abdourahmane Barry,536472,€300k,300000.0,https://www.transfermarkt.com/abdourahmane-barry/profil/spieler/536472,abdourahmane barry,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Oliver Fobassam,690218,€200k,200000.0,https://www.transfermarkt.com/oliver-fobassam/profil/spieler/690218,oliver fobassam,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Marco Meyerhöfer,196084,€2.00m,2000000.0,https://www.transfermarkt.com/marco-meyerhofer/profil/spieler/196084,marco meyerhofer,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Simon Asta,392131,€900k,900000.0,https://www.transfermarkt.com/simon-asta/profil/spieler/392131,simon asta,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Max Christiansen,192300,€1.50m,1500000.0,https://www.transfermarkt.com/max-christiansen/profil/spieler/192300,max christiansen,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Nunoo Sarpei,451340,€450k,450000.0,https://www.transfermarkt.com/nunoo-sarpei/profil/spieler/451340,nunoo sarpei,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Paul Seguin,183780,€2.20m,2200000.0,https://www.transfermarkt.com/paul-seguin/profil/spieler/183780,paul seguin,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Timothy Tillman,310662,€1.80m,1800000.0,https://www.transfermarkt.com/timothy-tillman/profil/spieler/310662,timothy tillman,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Jeremy Dudziak,147359,€1.60m,1600000.0,https://www.transfermarkt.com/jeremy-dudziak/profil/spieler/147359,jeremy dudziak,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Tobias Raschl,384745,€1.00m,1000000.0,https://www.transfermarkt.com/tobias-raschl/profil/spieler/384745,tobias raschl,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Julian Green,161204,€1.00m,1000000.0,https://www.transfermarkt.com/julian-green/profil/spieler/161204,julian green,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Adrian Fein,379979,€700k,700000.0,https://www.transfermarkt.com/adrian-fein/profil/spieler/379979,adrian fein,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Nils Seufert,279064,€600k,600000.0,https://www.transfermarkt.com/nils-seufert/profil/spieler/279064,nils seufert,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Mert Yusuf Torlak,658293,€100k,100000.0,https://www.transfermarkt.com/mert-yusuf-torlak/profil/spieler/658293,mert yusuf torlak,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Jamie Leweling,518505,€4.50m,4500000.0,https://www.transfermarkt.com/jamie-leweling/profil/spieler/518505,jamie leweling,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Branimir Hrgota,171209,€2.00m,2000000.0,https://www.transfermarkt.com/branimir-hrgota/profil/spieler/171209,branimir hrgota,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Jessic Ngankam,448177,€2.00m,2000000.0,https://www.transfermarkt.com/jessic-ngankam/profil/spieler/448177,jessic ngankam,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Cedric Itten,243856,€2.00m,2000000.0,https://www.transfermarkt.com/cedric-itten/profil/spieler/243856,cedric itten,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Afimico Pululu,410649,€1.00m,1000000.0,https://www.transfermarkt.com/afimico-pululu/profil/spieler/410649,afimico pululu,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Havard Nielsen,136181,€1.00m,1000000.0,https://www.transfermarkt.com/havard-nielsen/profil/spieler/136181,havard nielsen,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Dickson Abiama,596813,€800k,800000.0,https://www.transfermarkt.com/dickson-abiama/profil/spieler/596813,dickson abiama,spvgg greuther furth,2021,L1
+SpVgg Greuther Fürth,65,Robin Kehr,334998,€150k,150000.0,https://www.transfermarkt.com/robin-kehr/profil/spieler/334998,robin kehr,spvgg greuther furth,2021,L1

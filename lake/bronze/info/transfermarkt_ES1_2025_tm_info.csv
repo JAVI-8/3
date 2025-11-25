@@ -1,0 +1,2004 @@
+﻿player_name,player_id,team_name,position,other_positions,date_of_birth,age,height_m,nationality,market_value,joined,contract_expires,Value last updated,Citizenship,Last club,Since,Market value history,Transfer history,Player URL,height_cm
+Thibaut Courtois,108390,Real Madrid,Goalkeeper,,11/05/1992 (33),33,2.0,Belgium,€20.00m,09/08/2018,30/06/2027,09/06/2025,['Belgium'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/thibaut-courtois/profil/spieler/108390,200.0
+Andriy Lunin,404839,Real Madrid,Goalkeeper,,11/02/1999 (26),26,1.91,Ukraine,€18.00m,01/07/2018,30/06/2030,09/06/2025,['Ukraine'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/andriy-lunin/profil/spieler/404839,191.0
+Dean Huijsen,890290,Real Madrid,Centre-Back,,14/04/2005 (20),20,1.97,Spain,€70.00m,01/06/2025,30/06/2030,02/10/2025,"['Spain', 'Netherlands']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dean-huijsen/profil/spieler/890290,197.0
+Éder Militão,401530,Real Madrid,Centre-Back,"            0
+0  Right-Back",18/01/1998 (27),27,1.86,Brazil,€30.00m,01/07/2019,30/06/2028,09/06/2025,"['Spain', 'Brazil']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/eder-militao/profil/spieler/401530,186.0
+Raúl Asencio,935245,Real Madrid,Centre-Back,"            0
+0  Right-Back",13/02/2003 (22),22,1.84,Spain,€30.00m,01/07/2024,30/06/2031,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/raul-asencio/profil/spieler/935245,184.0
+Antonio Rüdiger,86202,Real Madrid,Centre-Back,,03/03/1993 (32),32,1.9,Germany,€15.00m,01/07/2022,30/06/2026,02/10/2025,"['Germany', 'Sierra Leone']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/antonio-rudiger/profil/spieler/86202,190.0
+David Alaba,59016,Real Madrid,Centre-Back,"                  0
+0         Left-Back
+1  Central Midfield",24/06/1992 (33),33,1.8,Austria,€4.00m,01/07/2021,30/06/2026,02/10/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/david-alaba/profil/spieler/59016,180.0
+Álvaro Carreras,811778,Real Madrid,Left-Back,"               0
+0  Left Midfield",23/03/2003 (22),22,1.86,Spain,€50.00m,14/07/2025,30/06/2031,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alvaro-carreras/profil/spieler/811778,186.0
+Fran García,341264,Real Madrid,Left-Back,,14/08/1999 (26),26,1.69,Spain,€18.00m,01/07/2023,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/fran-garcia/profil/spieler/341264,169.0
+Ferland Mendy,291417,Real Madrid,Left-Back,,08/06/1995 (30),30,1.8,France,€10.00m,01/07/2019,30/06/2028,02/10/2025,"['France', 'Senegal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ferland-mendy/profil/spieler/291417,180.0
+Trent Alexander-Arnold,314353,Real Madrid,Right-Back,,07/10/1998 (27),27,1.8,England,€75.00m,01/06/2025,30/06/2031,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/trent-alexander-arnold/profil/spieler/314353,180.0
+Daniel Carvajal,138927,Real Madrid,Right-Back,"             0
+0  Centre-Back",11/01/1992 (33),33,1.73,Spain,€8.00m,01/07/2013,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/daniel-carvajal/profil/spieler/138927,173.0
+Aurélien Tchouaméni,413112,Real Madrid,Defensive Midfield,"                  0
+0  Central Midfield
+1       Centre-Back",27/01/2000 (25),25,1.88,France,€75.00m,01/07/2022,30/06/2028,09/06/2025,"['France', 'Cameroon']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/aurelien-tchouameni/profil/spieler/413112,188.0
+Federico Valverde,369081,Real Madrid,Central Midfield,"                0
+0  Right Midfield
+1      Right-Back",22/07/1998 (27),27,1.82,Uruguay,€130.00m,01/07/2018,30/06/2029,09/06/2025,"['Uruguay', 'Spain']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/federico-valverde/profil/spieler/369081,182.0
+Eduardo Camavinga,640428,Real Madrid,Central Midfield,"                    0
+0  Defensive Midfield
+1           Left-Back",10/11/2002 (23),23,1.82,France,€50.00m,31/08/2021,30/06/2029,02/10/2025,"['Angola', 'France', 'Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/eduardo-camavinga/profil/spieler/640428,182.0
+Dani Ceballos,319745,Real Madrid,Central Midfield,"                    0
+0  Attacking Midfield
+1       Left Midfield",07/08/1996 (29),29,1.79,Spain,€8.00m,14/07/2017,30/06/2027,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dani-ceballos/profil/spieler/319745,179.0
+Jude Bellingham,581678,Real Madrid,Attacking Midfield,"                  0
+0  Central Midfield
+1     Left Midfield",29/06/2003 (22),22,1.86,England,€180.00m,01/07/2023,30/06/2029,09/06/2025,"['England', 'Ireland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jude-bellingham/profil/spieler/581678,186.0
+Arda Güler,861410,Real Madrid,Attacking Midfield,"                  0
+0      Right Winger
+1  Central Midfield",25/02/2005 (20),20,1.75,Türkiye,€60.00m,06/07/2023,30/06/2029,02/10/2025,['Türkiye'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/arda-guler/profil/spieler/861410,175.0
+Vinicius Junior,371998,Real Madrid,Left Winger,"                0
+0  Centre-Forward",12/07/2000 (25),25,1.76,Brazil,€150.00m,12/07/2018,30/06/2027,02/10/2025,"['Spain', 'Brazil']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/vinicius-junior/profil/spieler/371998,176.0
+Rodrygo,412363,Real Madrid,Right Winger,"                0
+0     Left Winger
+1  Centre-Forward",09/01/2001 (24),24,1.74,Brazil,€80.00m,01/07/2019,30/06/2028,02/10/2025,"['Spain', 'Brazil']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rodrygo/profil/spieler/412363,174.0
+Franco Mastantuono,1057316,Real Madrid,Right Winger,"                    0
+0  Attacking Midfield",14/08/2007 (18),18,1.78,Argentina,€50.00m,14/08/2025,30/06/2031,02/10/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/franco-mastantuono/profil/spieler/1057316,178.0
+Brahim Díaz,314678,Real Madrid,Right Winger,"                    0
+0  Attacking Midfield
+1         Left Winger",03/08/1999 (26),26,1.7,Morocco,€40.00m,06/01/2019,30/06/2027,09/06/2025,"['Spain', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/brahim-diaz/profil/spieler/314678,170.0
+Kylian Mbappé,342229,Real Madrid,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",20/12/1998 (26),26,1.78,France,€180.00m,01/07/2024,30/06/2029,09/06/2025,"['France', 'Cameroon']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kylian-mbappe/profil/spieler/342229,178.0
+Endrick,971570,Real Madrid,Centre-Forward,"                0
+0  Second Striker",21/07/2006 (19),19,1.73,Brazil,€35.00m,21/07/2024,30/06/2030,09/06/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/endrick/profil/spieler/971570,173.0
+Gonzalo García,935230,Real Madrid,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",24/03/2004 (21),21,1.82,Spain,€15.00m,01/06/2025,30/06/2030,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gonzalo-garcia/profil/spieler/935230,182.0
+Joan García,561613,Barcelona,Goalkeeper,,04/05/2001 (24),24,1.94,Spain,€25.00m,01/07/2025,30/06/2031,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/joan-garcia/profil/spieler/561613,194.0
+Marc-André ter Stegen,74857,Barcelona,Goalkeeper,,30/04/1992 (33),33,1.87,Germany,€8.00m,01/07/2014,30/06/2028,02/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marc-andre-ter-stegen/profil/spieler/74857,187.0
+Wojciech Szczesny,44058,Barcelona,Goalkeeper,,18/04/1990 (35),35,1.95,Poland,€1.00m,02/10/2024,30/06/2027,09/06/2025,['Poland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/wojciech-szczesny/profil/spieler/44058,195.0
+Pau Cubarsí,962110,Barcelona,Centre-Back,,22/01/2007 (18),18,1.84,Spain,€80.00m,01/01/2024,30/06/2029,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pau-cubarsi/profil/spieler/962110,184.0
+Ronald Araujo,480267,Barcelona,Centre-Back,"            0
+0  Right-Back",07/03/1999 (26),26,1.92,Uruguay,€35.00m,05/10/2020,30/06/2031,09/06/2025,"['Uruguay', 'Spain']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ronald-araujo/profil/spieler/480267,192.0
+Eric García,466794,Barcelona,Centre-Back,"                    0
+0          Right-Back
+1  Defensive Midfield",09/01/2001 (24),24,1.82,Spain,€25.00m,01/07/2021,30/06/2026,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/eric-garcia/profil/spieler/466794,182.0
+Andreas Christensen,196948,Barcelona,Centre-Back,"                    0
+0  Defensive Midfield",10/04/1996 (29),29,1.87,Denmark,€12.00m,04/07/2022,30/06/2026,09/06/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/andreas-christensen/profil/spieler/196948,187.0
+Alejandro Balde,636688,Barcelona,Left-Back,"             0
+0  Left Winger",18/10/2003 (22),22,1.77,Spain,€60.00m,01/07/2022,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alejandro-balde/profil/spieler/636688,177.0
+Gerard Martín,705395,Barcelona,Left-Back,"             0
+0  Centre-Back",26/02/2002 (23),23,1.86,Spain,€12.00m,01/07/2024,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gerard-martin/profil/spieler/705395,186.0
+Jules Koundé,411975,Barcelona,Right-Back,"             0
+0  Centre-Back",12/11/1998 (27),27,1.8,France,€65.00m,28/07/2022,30/06/2030,09/06/2025,"['France', 'Benin']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jules-kounde/profil/spieler/411975,180.0
+Marc Casadó,636695,Barcelona,Defensive Midfield,"                  0
+0  Central Midfield
+1        Right-Back",14/09/2003 (22),22,1.72,Spain,€30.00m,01/07/2024,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marc-casado/profil/spieler/636695,172.0
+Marc Bernal,1018920,Barcelona,Defensive Midfield,"                  0
+0  Central Midfield",26/05/2007 (18),18,1.93,Spain,€10.00m,01/07/2024,30/06/2029,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marc-bernal/profil/spieler/1018920,193.0
+Pedri,683840,Barcelona,Central Midfield,"                    0
+0  Attacking Midfield",25/11/2002 (22),22,1.74,Spain,€140.00m,02/09/2019,30/06/2030,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pedri/profil/spieler/683840,174.0
+Frenkie de Jong,326330,Barcelona,Central Midfield,"                    0
+0  Defensive Midfield",12/05/1997 (28),28,1.81,Netherlands,€45.00m,01/07/2019,30/06/2029,09/06/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/frenkie-de-jong/profil/spieler/326330,181.0
+Gavi,646740,Barcelona,Central Midfield,"                    0
+0  Attacking Midfield
+1         Left Winger",05/08/2004 (21),21,1.73,Spain,€40.00m,01/07/2021,30/06/2030,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gavi/profil/spieler/646740,173.0
+Fermín López,636703,Barcelona,Attacking Midfield,"                  0
+0  Central Midfield
+1       Left Winger",11/05/2003 (22),22,1.74,Spain,€60.00m,01/07/2023,30/06/2029,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/fermin-lopez/profil/spieler/636703,174.0
+Dani Olmo,293385,Barcelona,Attacking Midfield,"                0
+0     Left Winger
+1  Second Striker",07/05/1998 (27),27,1.79,Spain,€60.00m,09/08/2024,30/06/2030,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dani-olmo/profil/spieler/293385,179.0
+Raphinha,411295,Barcelona,Left Winger,"                    0
+0        Right Winger
+1  Attacking Midfield",14/12/1996 (28),28,1.76,Brazil,€90.00m,13/07/2022,30/06/2028,09/06/2025,"['Italy', 'Brazil']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/raphinha/profil/spieler/411295,176.0
+Marcus Rashford,258923,Barcelona,Left Winger,"                0
+0  Centre-Forward
+1    Right Winger",31/10/1997 (28),28,1.85,England,€40.00m,23/07/2025,30/06/2026,02/10/2025,"['England', 'St. Kitts & Nevis']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marcus-rashford/profil/spieler/258923,185.0
+Lamine Yamal,937958,Barcelona,Right Winger,"             0
+0  Left Winger",13/07/2007 (18),18,1.8,Spain,€200.00m,01/07/2023,30/06/2031,09/06/2025,"['Spain', 'Equatorial Guinea']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lamine-yamal/profil/spieler/937958,180.0
+Roony Bardghji,792331,Barcelona,Right Winger,,15/11/2005 (20),20,1.73,Sweden,€10.00m,14/07/2025,30/06/2029,02/10/2025,"['Kuwait', 'Syria', 'Sweden']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/roony-bardghji/profil/spieler/792331,173.0
+Ferran Torres,398184,Barcelona,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",29/02/2000 (25),25,1.84,Spain,€50.00m,01/01/2022,30/06/2027,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ferran-torres/profil/spieler/398184,184.0
+Robert Lewandowski,38253,Barcelona,Centre-Forward,,21/08/1988 (37),37,1.85,Poland,€10.00m,19/07/2022,30/06/2026,02/10/2025,['Poland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/robert-lewandowski/profil/spieler/38253,185.0
+Jan Oblak,121483,Atlético,Goalkeeper,,07/01/1993 (32),32,1.88,Slovenia,€20.00m,16/07/2014,30/06/2028,09/06/2025,['Slovenia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jan-oblak/profil/spieler/121483,188.0
+Juan Musso,242359,Atlético,Goalkeeper,,06/05/1994 (31),31,1.91,Argentina,€3.50m,10/06/2025,30/06/2028,09/06/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/juan-musso/profil/spieler/242359,191.0
+Robin Le Normand,351809,Atlético,Centre-Back,,11/11/1996 (29),29,1.87,Spain,€35.00m,27/07/2024,30/06/2029,02/10/2025,"['France', 'Spain']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/robin-le-normand/profil/spieler/351809,187.0
+Dávid Hancko,404418,Atlético,Centre-Back,"           0
+0  Left-Back",13/12/1997 (27),27,1.88,Slovakia,€30.00m,24/07/2025,30/06/2030,28/05/2025,['Slovakia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/david-hancko/profil/spieler/404418,188.0
+José María Giménez,250845,Atlético,Centre-Back,,20/01/1995 (30),30,1.85,Uruguay,€15.00m,25/04/2013,30/06/2028,02/10/2025,"['Uruguay', 'Spain']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jose-maria-gimenez/profil/spieler/250845,185.0
+Clément Lenglet,182904,Atlético,Centre-Back,,17/06/1995 (30),30,1.86,France,€7.50m,09/06/2025,30/06/2028,09/06/2025,['France'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/clement-lenglet/profil/spieler/182904,186.0
+Matteo Ruggeri,616631,Atlético,Left-Back,"               0
+0  Left Midfield
+1    Centre-Back",11/07/2002 (23),23,1.87,Italy,€16.00m,01/07/2025,30/06/2030,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/matteo-ruggeri/profil/spieler/616631,187.0
+Javi Galán,448628,Atlético,Left-Back,"               0
+0    Left Winger
+1  Left Midfield",19/11/1994 (31),31,1.72,Spain,€4.00m,03/07/2023,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/javi-galan/profil/spieler/448628,172.0
+Marcos Llorente,282411,Atlético,Right-Back,"                  0
+0  Central Midfield
+1    Right Midfield",30/01/1995 (30),30,1.84,Spain,€25.00m,01/07/2019,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marcos-llorente/profil/spieler/282411,184.0
+Nahuel Molina,424042,Atlético,Right-Back,"                0
+0  Right Midfield",06/04/1998 (27),27,1.75,Argentina,€20.00m,28/07/2022,30/06/2027,09/06/2025,['Argentina'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nahuel-molina/profil/spieler/424042,175.0
+Marc Pubill,844637,Atlético,Right-Back,,20/06/2003 (22),22,1.9,Spain,€16.00m,23/07/2025,30/06/2030,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marc-pubill/profil/spieler/844637,190.0
+Pablo Barrios,775605,Atlético,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",15/06/2003 (22),22,1.81,Spain,€55.00m,23/01/2023,30/06/2030,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pablo-barrios/profil/spieler/775605,181.0
+Conor Gallagher,488362,Atlético,Central Midfield,,06/02/2000 (25),25,1.82,England,€40.00m,21/08/2024,30/06/2029,09/06/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/conor-gallagher/profil/spieler/488362,182.0
+Johnny Cardoso,689505,Atlético,Central Midfield,"                    0
+0  Defensive Midfield",20/09/2001 (24),24,1.86,United States,€25.00m,16/07/2025,30/06/2030,09/06/2025,"['Italy', 'United States']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/johnny-cardoso/profil/spieler/689505,186.0
+Koke,74229,Atlético,Central Midfield,"                    0
+0  Defensive Midfield",08/01/1992 (33),33,1.76,Spain,€8.00m,01/01/2011,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/koke/profil/spieler/74229,176.0
+Álex Baena,548111,Atlético,Left Winger,"                    0
+0  Attacking Midfield
+1        Right Winger",20/07/2001 (24),24,1.74,Spain,€55.00m,02/07/2025,30/06/2030,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alex-baena/profil/spieler/548111,174.0
+Thiago Almada,576028,Atlético,Left Winger,"                    0
+0  Attacking Midfield
+1        Right Winger",26/04/2001 (24),24,1.71,Argentina,€25.00m,17/07/2025,30/06/2030,03/06/2025,['Argentina'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/thiago-almada/profil/spieler/576028,171.0
+Nico González,486031,Atlético,Left Winger,"                0
+0    Right Winger
+1  Centre-Forward",06/04/1998 (27),27,1.8,Argentina,€24.00m,01/09/2025,30/06/2026,17/06/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nico-gonzalez/profil/spieler/486031,180.0
+Carlos Martín,618813,Atlético,Left Winger,"                0
+0  Centre-Forward",22/04/2002 (23),23,1.84,Spain,€2.80m,01/07/2023,30/06/2029,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/carlos-martin/profil/spieler/618813,184.0
+Giuliano Simeone,742201,Atlético,Right Winger,"                0
+0     Left Winger
+1  Centre-Forward",18/12/2002 (22),22,1.73,Argentina,€35.00m,01/07/2022,30/06/2028,09/06/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/giuliano-simeone/profil/spieler/742201,173.0
+Giacomo Raspadori,405885,Atlético,Second Striker,"                0
+0     Left Winger
+1  Centre-Forward",18/02/2000 (25),25,1.72,Italy,€25.00m,11/08/2025,30/06/2030,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/giacomo-raspadori/profil/spieler/405885,172.0
+Antoine Griezmann,125781,Atlético,Second Striker,"                0
+0  Centre-Forward
+1     Left Winger",21/03/1991 (34),34,1.76,France,€12.00m,01/07/2023,30/06/2027,02/10/2025,['France'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/antoine-griezmann/profil/spieler/125781,176.0
+Julián Alvarez,576024,Atlético,Centre-Forward,"              0
+0  Right Winger
+1   Left Winger",31/01/2000 (25),25,1.7,Argentina,€100.00m,12/08/2024,30/06/2030,09/06/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/julian-alvarez/profil/spieler/576024,170.0
+Alexander Sørloth,238407,Atlético,Centre-Forward,"              0
+0  Right Winger
+1   Left Winger",05/12/1995 (29),29,1.95,Norway,€25.00m,03/08/2024,30/06/2028,09/06/2025,['Norway'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alexander-sorloth/profil/spieler/238407,195.0
+Unai Simón,262396,Athletic Club,Goalkeeper,,11/06/1997 (28),28,1.9,Spain,€28.00m,01/07/2018,30/06/2029,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/unai-simon/profil/spieler/262396,190.0
+Álex Padilla,834483,Athletic Club,Goalkeeper,,01/09/2003 (22),22,1.9,Mexico,€3.00m,01/07/2024,30/06/2029,26/05/2025,"['Spain', 'Mexico']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alex-padilla/profil/spieler/834483,190.0
+Dani Vivian,524000,Athletic Club,Centre-Back,,05/07/1999 (26),26,1.84,Spain,€40.00m,01/08/2020,30/06/2032,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dani-vivian/profil/spieler/524000,184.0
+Aitor Paredes,591916,Athletic Club,Centre-Back,"            0
+0  Right-Back",29/04/2000 (25),25,1.85,Spain,€22.00m,01/07/2022,30/06/2029,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/aitor-paredes/profil/spieler/591916,185.0
+Aymeric Laporte,176553,Athletic Club,Centre-Back,,27/05/1994 (31),31,1.91,Spain,€10.00m,01/09/2025,30/06/2028,02/10/2025,"['France', 'Spain']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/aymeric-laporte/profil/spieler/176553,191.0
+Yeray Álvarez,255488,Athletic Club,Centre-Back,,24/01/1995 (30),30,1.82,Spain,€2.50m,01/07/2016,30/06/2026,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yeray-alvarez/profil/spieler/255488,182.0
+Unai Egiluz,834485,Athletic Club,Centre-Back,,19/03/2002 (23),23,1.86,Spain,€600k,01/07/2024,30/06/2028,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/unai-egiluz/profil/spieler/834485,186.0
+Adama Boiro,710671,Athletic Club,Left-Back,"             0
+0  Left Winger",22/06/2002 (23),23,1.83,Spain,€2.50m,01/07/2024,30/06/2029,09/06/2025,"['Senegal', 'Spain']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adama-boiro/profil/spieler/710671,183.0
+Yuri Berchiche,61812,Athletic Club,Left-Back,,10/02/1990 (35),35,1.81,Spain,€1.40m,02/07/2018,30/06/2026,09/06/2025,"['Spain', 'Algeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yuri-berchiche/profil/spieler/61812,181.0
+Jesús Areso,488626,Athletic Club,Right-Back,,02/07/1999 (26),26,1.82,Spain,€12.00m,22/07/2025,30/06/2031,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jesus-areso/profil/spieler/488626,182.0
+Andoni Gorosabel,289255,Athletic Club,Right-Back,,04/08/1996 (29),29,1.74,Spain,€5.00m,01/07/2024,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/andoni-gorosabel/profil/spieler/289255,174.0
+Iñigo Lekue,255501,Athletic Club,Right-Back,"           0
+0  Left-Back",04/05/1993 (32),32,1.8,Spain,€2.00m,01/07/2016,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/inigo-lekue/profil/spieler/255501,180.0
+Mikel Vesga,300168,Athletic Club,Defensive Midfield,"                  0
+0  Central Midfield",08/04/1993 (32),32,1.91,Spain,€2.50m,01/07/2016,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mikel-vesga/profil/spieler/300168,191.0
+Mikel Jauregizar,938729,Athletic Club,Central Midfield,"                    0
+0  Attacking Midfield",13/11/2003 (22),22,1.77,Spain,€30.00m,01/07/2024,30/06/2031,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mikel-jauregizar/profil/spieler/938729,177.0
+Beñat Prados,625047,Athletic Club,Central Midfield,,08/02/2001 (24),24,1.8,Spain,€18.00m,01/07/2022,30/06/2031,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/benat-prados/profil/spieler/625047,180.0
+Iñigo Ruiz de Galarreta,126751,Athletic Club,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",06/08/1993 (32),32,1.75,Spain,€3.00m,01/07/2023,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/inigo-ruiz-de-galarreta/profil/spieler/126751,175.0
+Alejandro Rego,834491,Athletic Club,Central Midfield,"                    0
+0  Defensive Midfield",11/06/2003 (22),22,1.92,Spain,€2.00m,01/07/2025,30/06/2026,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alejandro-rego/profil/spieler/834491,192.0
+Oihan Sancet,571020,Athletic Club,Attacking Midfield,"                  0
+0  Central Midfield",25/04/2000 (25),25,1.88,Spain,€60.00m,04/08/2020,30/06/2032,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/oihan-sancet/profil/spieler/571020,188.0
+Unai Gómez,834752,Athletic Club,Attacking Midfield,"                  0
+0  Central Midfield",25/05/2003 (22),22,1.83,Spain,€6.00m,01/07/2023,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/unai-gomez/profil/spieler/834752,183.0
+Nico Williams,709187,Athletic Club,Left Winger,"              0
+0  Right Winger",12/07/2002 (23),23,1.81,Spain,€70.00m,01/07/2021,30/06/2035,09/06/2025,"['Ghana', 'Spain']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nico-williams/profil/spieler/709187,181.0
+Álex Berenguer,338425,Athletic Club,Left Winger,"                    0
+0        Right Winger
+1  Attacking Midfield",04/07/1995 (30),30,1.75,Spain,€9.00m,02/10/2020,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alex-berenguer/profil/spieler/338425,175.0
+Nico Serrano,668183,Athletic Club,Left Winger,"                0
+0    Right Winger
+1  Centre-Forward",05/03/2003 (22),22,1.76,Spain,€1.20m,01/07/2022,30/06/2028,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nico-serrano/profil/spieler/668183,176.0
+Iñaki Williams,255508,Athletic Club,Right Winger,"                0
+0  Centre-Forward",15/06/1994 (31),31,1.86,Ghana,€15.00m,01/07/2015,30/06/2028,09/06/2025,"['Ghana', 'Spain']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/inaki-williams/profil/spieler/255508,186.0
+Robert Navarro,563137,Athletic Club,Right Winger,"                    0
+0         Left Winger
+1  Attacking Midfield",12/04/2002 (23),23,1.78,Spain,€6.00m,01/07/2025,30/06/2030,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/robert-navarro/profil/spieler/563137,178.0
+Maroan Sannadi,1054934,Athletic Club,Centre-Forward,,01/02/2001 (24),24,1.92,Morocco,€10.00m,01/02/2025,30/06/2029,09/06/2025,"['Spain', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/maroan-sannadi/profil/spieler/1054934,192.0
+Gorka Guruzeta,340205,Athletic Club,Centre-Forward,,12/09/1996 (29),29,1.88,Spain,€6.00m,03/07/2022,30/06/2028,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gorka-guruzeta/profil/spieler/340205,188.0
+Urko Izeta,610622,Athletic Club,Centre-Forward,"                0
+0  Second Striker",29/09/1999 (26),26,1.75,Spain,€2.00m,01/07/2024,30/06/2027,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/urko-izeta/profil/spieler/610622,175.0
+Luiz Júnior,712107,Villarreal,Goalkeeper,,14/01/2001 (24),24,1.92,Brazil,€10.00m,20/08/2024,30/06/2030,09/06/2025,"['Portugal', 'Brazil']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luiz-junior/profil/spieler/712107,192.0
+Diego Conde,341713,Villarreal,Goalkeeper,,28/10/1998 (27),27,1.88,Spain,€5.00m,02/07/2024,30/06/2029,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/diego-conde/profil/spieler/341713,188.0
+Arnau Tenas,466783,Villarreal,Goalkeeper,,30/05/2001 (24),24,1.85,Spain,€4.00m,28/08/2025,30/06/2029,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/arnau-tenas/profil/spieler/466783,185.0
+Renato Veiga,805714,Villarreal,Centre-Back,"                    0
+0           Left-Back
+1  Defensive Midfield",29/07/2003 (22),22,1.9,Portugal,€25.00m,22/08/2025,30/06/2032,17/06/2025,"['Portugal', 'Cape Verde']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/renato-veiga/profil/spieler/805714,190.0
+Logan Costa,484988,Villarreal,Centre-Back,,01/04/2001 (24),24,1.9,Cape Verde,€18.00m,22/08/2024,30/06/2030,09/06/2025,"['France', 'Cape Verde']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/logan-costa/profil/spieler/484988,190.0
+Juan Foyth,480763,Villarreal,Centre-Back,"            0
+0  Right-Back",12/01/1998 (27),27,1.87,Argentina,€15.00m,01/07/2021,30/06/2029,09/06/2025,"['Spain', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/juan-foyth/profil/spieler/480763,187.0
+Rafa Marín,662261,Villarreal,Centre-Back,,19/05/2002 (23),23,1.91,Spain,€10.00m,03/07/2025,30/06/2026,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rafa-marin/profil/spieler/662261,191.0
+Willy Kambwala,780630,Villarreal,Centre-Back,"            0
+0  Right-Back",25/08/2004 (21),21,1.92,France,€4.00m,15/07/2024,30/06/2029,09/06/2025,"['France', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/willy-kambwala/profil/spieler/780630,192.0
+Sergi Cardona,678406,Villarreal,Left-Back,,08/07/1999 (26),26,1.86,Spain,€10.00m,18/07/2024,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sergi-cardona/profil/spieler/678406,186.0
+Alfonso Pedraza,356197,Villarreal,Left-Back,"             0
+0  Left Winger",09/04/1996 (29),29,1.84,Spain,€2.50m,01/07/2016,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alfonso-pedraza/profil/spieler/356197,184.0
+Santiago Mouriño,953901,Villarreal,Right-Back,"             0
+0  Centre-Back",13/02/2002 (23),23,1.86,Uruguay,€10.00m,01/08/2025,30/06/2030,02/10/2025,"['Uruguay', 'Spain']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/santiago-mourino/profil/spieler/953901,186.0
+Pau Navarro,1061336,Villarreal,Right-Back,"                  0
+0       Centre-Back
+1  Central Midfield",25/04/2005 (20),20,1.85,Spain,€3.00m,01/11/2024,30/06/2030,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pau-navarro/profil/spieler/1061336,185.0
+Adrià Altimira,466807,Villarreal,Right-Back,"              0
+0  Right Winger",28/03/2001 (24),24,1.7,Spain,€1.50m,01/07/2024,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adria-altimira/profil/spieler/466807,170.0
+Pape Gueye,485963,Villarreal,Defensive Midfield,"                  0
+0  Central Midfield",24/01/1999 (26),26,1.89,Senegal,€25.00m,05/07/2024,30/06/2028,02/10/2025,"['France', 'Senegal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pape-gueye/profil/spieler/485963,189.0
+Thomas Partey,230784,Villarreal,Defensive Midfield,"                  0
+0  Central Midfield
+1        Right-Back",13/06/1993 (32),32,1.85,Ghana,€8.00m,07/08/2025,30/06/2026,02/10/2025,['Ghana'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/thomas-partey/profil/spieler/230784,185.0
+Santi Comesaña,380598,Villarreal,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",05/10/1996 (29),29,1.88,Spain,€8.00m,01/07/2023,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/santi-comesana/profil/spieler/380598,188.0
+Dani Parejo,59561,Villarreal,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",16/04/1989 (36),36,1.82,Spain,€1.50m,12/08/2020,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dani-parejo/profil/spieler/59561,182.0
+Alberto Moleiro,733576,Villarreal,Left Winger,"                    0
+0  Attacking Midfield
+1        Right Winger",30/09/2003 (22),22,1.71,Spain,€25.00m,01/07/2025,30/06/2030,09/06/2025,"['Spain', 'Cuba']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alberto-moleiro/profil/spieler/733576,171.0
+Manor Solomon,396638,Villarreal,Left Winger,"                    0
+0        Right Winger
+1  Attacking Midfield",24/07/1999 (26),26,1.7,Israel,€14.00m,01/09/2025,30/06/2026,27/05/2025,"['Israel', 'Portugal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/manor-solomon/profil/spieler/396638,170.0
+Ilias Akhomach,709969,Villarreal,Right Winger,,16/04/2004 (21),21,1.75,Morocco,€15.00m,03/07/2023,30/06/2026,09/06/2025,"['Spain', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ilias-akhomach/profil/spieler/709969,175.0
+Tajon Buchanan,638793,Villarreal,Right Winger,"             0
+0  Left Winger",08/02/1999 (26),26,1.83,Canada,€9.00m,29/07/2025,30/06/2030,02/10/2025,"['Canada', 'Jamaica']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tajon-buchanan/profil/spieler/638793,183.0
+Nicolas Pépé,343052,Villarreal,Right Winger,"                0
+0  Centre-Forward
+1  Second Striker",29/05/1995 (30),30,1.83,Cote d'Ivoire,€7.50m,04/08/2024,30/06/2028,02/10/2025,"['France', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nicolas-pepe/profil/spieler/343052,183.0
+Georges Mikautadze,729814,Villarreal,Centre-Forward,"                0
+0     Left Winger
+1  Second Striker",31/10/2000 (25),25,1.76,Georgia,€30.00m,01/09/2025,30/06/2031,02/10/2025,"['France', 'Georgia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/georges-mikautadze/profil/spieler/729814,176.0
+Tani Oluwaseyi,972465,Villarreal,Centre-Forward,,15/05/2000 (25),25,1.88,Canada,€8.00m,29/08/2025,30/06/2030,02/10/2025,"['Canada', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tani-oluwaseyi/profil/spieler/972465,188.0
+Ayoze Pérez,246968,Villarreal,Centre-Forward,"                0
+0  Second Striker
+1     Left Winger",29/07/1993 (32),32,1.78,Spain,€7.50m,13/08/2024,30/06/2028,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ayoze-perez/profil/spieler/246968,178.0
+Gerard Moreno,177467,Villarreal,Centre-Forward,"              0
+0  Right Winger",07/04/1992 (33),33,1.8,Spain,€3.00m,01/07/2018,30/06/2027,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gerard-moreno/profil/spieler/177467,180.0
+Pau Cabanes,1063553,Villarreal,Centre-Forward,"             0
+0  Left Winger",17/02/2005 (20),20,1.79,Spain,€800k,01/01/2025,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pau-cabanes/profil/spieler/1063553,179.0
+Álex Remiro,212862,Real Sociedad,Goalkeeper,,24/03/1995 (30),30,1.91,Spain,€15.00m,01/07/2019,30/06/2027,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alex-remiro/profil/spieler/212862,191.0
+Unai Marrero,625657,Real Sociedad,Goalkeeper,,09/10/2001 (24),24,1.89,Spain,€600k,01/07/2023,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/unai-marrero/profil/spieler/625657,189.0
+Igor Zubeldia,355628,Real Sociedad,Centre-Back,"                    0
+0  Defensive Midfield",30/03/1997 (28),28,1.81,Spain,€9.00m,01/07/2017,30/06/2029,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/igor-zubeldia/profil/spieler/355628,181.0
+Jon Martín,1018938,Real Sociedad,Centre-Back,,23/04/2006 (19),19,1.87,Spain,€5.00m,01/07/2024,30/06/2031,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jon-martin/profil/spieler/1018938,187.0
+Duje Caleta-Car,238266,Real Sociedad,Centre-Back,,17/09/1996 (29),29,1.93,Croatia,€4.00m,01/08/2025,30/06/2026,02/10/2025,['Croatia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/duje-caleta-car/profil/spieler/238266,193.0
+Aritz Elustondo,229804,Real Sociedad,Centre-Back,"            0
+0  Right-Back",28/03/1994 (31),31,1.8,Spain,€2.00m,04/01/2016,30/06/2026,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/aritz-elustondo/profil/spieler/229804,180.0
+Sergio Gómez,366930,Real Sociedad,Left-Back,"               0
+0  Left Midfield
+1    Left Winger",04/09/2000 (25),25,1.71,Spain,€15.00m,12/07/2024,30/06/2030,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sergio-gomez/profil/spieler/366930,171.0
+Aihen Muñoz,517842,Real Sociedad,Left-Back,,16/08/1997 (28),28,1.75,Spain,€4.00m,01/07/2019,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/aihen-munoz/profil/spieler/517842,175.0
+Jon Aramburu,661145,Real Sociedad,Right-Back,"                0
+0       Left-Back
+1  Right Midfield",23/07/2002 (23),23,1.76,Venezuela,€15.00m,01/07/2024,30/06/2030,09/06/2025,"['Spain', 'Venezuela']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jon-aramburu/profil/spieler/661145,176.0
+Álvaro Odriozola,280730,Real Sociedad,Right-Back,,14/12/1995 (29),29,1.76,Spain,€800k,01/09/2023,30/06/2029,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alvaro-odriozola/profil/spieler/280730,176.0
+Jon Gorrotxategi,711374,Real Sociedad,Defensive Midfield,"                  0
+0  Central Midfield
+1       Centre-Back",02/02/2002 (23),23,1.77,Spain,€6.00m,01/07/2024,30/06/2030,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jon-gorrotxategi/profil/spieler/711374,177.0
+Carlos Soler,372246,Real Sociedad,Central Midfield,"                    0
+0      Right Midfield
+1  Attacking Midfield",02/01/1997 (28),28,1.8,Spain,€12.00m,01/09/2025,30/06/2029,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/carlos-soler/profil/spieler/372246,180.0
+Luka Sucic,502722,Real Sociedad,Central Midfield,"                    0
+0  Attacking Midfield",08/09/2002 (23),23,1.85,Croatia,€12.00m,02/08/2024,30/06/2029,02/10/2025,"['Austria', 'Croatia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luka-sucic/profil/spieler/502722,185.0
+Yangel Herrera,378293,Real Sociedad,Central Midfield,"                    0
+0  Defensive Midfield",07/01/1998 (27),27,1.84,Venezuela,€11.00m,01/09/2025,30/06/2030,02/10/2025,"['Spain', 'Venezuela']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yangel-herrera/profil/spieler/378293,184.0
+Beñat Turrientes,634431,Real Sociedad,Central Midfield,"                    0
+0  Defensive Midfield",31/01/2002 (23),23,1.81,Spain,€9.00m,07/08/2022,30/06/2030,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/benat-turrientes/profil/spieler/634431,181.0
+Brais Méndez,309110,Real Sociedad,Attacking Midfield,"                  0
+0  Central Midfield
+1      Right Winger",07/01/1997 (28),28,1.84,Spain,€18.00m,06/07/2022,30/06/2028,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/brais-mendez/profil/spieler/309110,184.0
+Pablo Marín,907813,Real Sociedad,Attacking Midfield,"                  0
+0  Central Midfield",03/07/2003 (22),22,1.78,Spain,€8.00m,01/07/2024,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pablo-marin/profil/spieler/907813,178.0
+Arsen Zakharyan,555143,Real Sociedad,Attacking Midfield,"              0
+0   Left Winger
+1  Right Winger",26/05/2003 (22),22,1.83,Russia,€7.50m,19/08/2023,30/06/2029,02/10/2025,['Russia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/arsen-zakharyan/profil/spieler/555143,183.0
+Mikel Goti,709215,Real Sociedad,Attacking Midfield,"              0
+0  Right Winger
+1   Left Winger",23/05/2002 (23),23,1.85,Spain,€1.00m,01/07/2025,30/06/2028,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mikel-goti/profil/spieler/709215,185.0
+Ander Barrenetxea,616369,Real Sociedad,Left Winger,"              0
+0  Right Winger",27/12/2001 (23),23,1.75,Spain,€18.00m,01/07/2019,30/06/2030,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ander-barrenetxea/profil/spieler/616369,175.0
+Gonçalo Guedes,225122,Real Sociedad,Left Winger,"                0
+0    Right Winger
+1  Centre-Forward",29/11/1996 (28),28,1.79,Portugal,€8.00m,04/08/2025,30/06/2028,02/10/2025,['Portugal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/goncalo-guedes/profil/spieler/225122,179.0
+Takefusa Kubo,405398,Real Sociedad,Right Winger,"                    0
+0  Attacking Midfield
+1         Left Winger",04/06/2001 (24),24,1.73,Japan,€30.00m,19/07/2022,30/06/2029,09/06/2025,['Japan'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/takefusa-kubo/profil/spieler/405398,173.0
+Mikel Oyarzabal,351478,Real Sociedad,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",21/04/1997 (28),28,1.81,Spain,€20.00m,01/01/2016,30/06/2028,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mikel-oyarzabal/profil/spieler/351478,181.0
+Orri Óskarsson,660438,Real Sociedad,Centre-Forward,,29/08/2004 (21),21,1.86,Iceland,€15.00m,30/08/2024,30/06/2030,09/06/2025,['Iceland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/orri-oskarsson/profil/spieler/660438,186.0
+Umar Sadiq,337715,Real Sociedad,Centre-Forward,,02/02/1997 (28),28,1.91,Nigeria,€5.00m,01/09/2022,30/06/2028,09/06/2025,['Nigeria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/umar-sadiq/profil/spieler/337715,191.0
+Jon Karrikaburu,711382,Real Sociedad,Centre-Forward,,19/09/2002 (23),23,1.83,Spain,€2.00m,01/07/2022,30/06/2027,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jon-karrikaburu/profil/spieler/711382,183.0
+Álvaro Valles,417913,Real Betis,Goalkeeper,,25/07/1997 (28),28,1.91,Spain,€2.50m,01/07/2025,30/06/2030,04/04/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alvaro-valles/profil/spieler/417913,191.0
+Pau López,286415,Real Betis,Goalkeeper,,13/12/1994 (30),30,1.89,Spain,€2.50m,22/07/2025,30/06/2028,26/05/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pau-lopez/profil/spieler/286415,189.0
+Adrián,71271,Real Betis,Goalkeeper,,03/01/1987 (38),38,1.9,Spain,€500k,08/07/2024,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adrian/profil/spieler/71271,190.0
+Natan,735568,Real Betis,Centre-Back,,06/02/2001 (24),24,1.88,Brazil,€18.00m,01/07/2025,30/06/2030,02/10/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/natan/profil/spieler/735568,188.0
+Valentín Gómez,985383,Real Betis,Centre-Back,"           0
+0  Left-Back",26/06/2003 (22),22,1.81,Argentina,€10.00m,26/07/2025,30/06/2030,02/06/2025,"['Spain', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/valentin-gomez/profil/spieler/985383,181.0
+Diego Llorente,246291,Real Betis,Centre-Back,"                    0
+0  Defensive Midfield",16/08/1993 (32),32,1.86,Spain,€5.00m,09/07/2024,30/06/2028,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/diego-llorente/profil/spieler/246291,186.0
+Marc Bartra,99922,Real Betis,Centre-Back,"            0
+0  Right-Back",15/01/1991 (34),34,1.84,Spain,€1.00m,24/07/2023,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marc-bartra/profil/spieler/99922,184.0
+Junior Firpo,374139,Real Betis,Left-Back,"               0
+0  Left Midfield",22/08/1996 (29),29,1.84,Dominican Republic,€8.00m,17/07/2025,30/06/2028,27/05/2025,"['Dominican Republic', 'Spain']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/junior-firpo/profil/spieler/374139,184.0
+Ricardo Rodríguez,86784,Real Betis,Left-Back,"               0
+0    Centre-Back
+1  Left Midfield",25/08/1992 (33),33,1.82,Switzerland,€2.00m,05/08/2024,30/06/2026,09/06/2025,"['Switzerland', 'Chile']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ricardo-rodriguez/profil/spieler/86784,182.0
+Ángel Ortiz,933908,Real Betis,Right-Back,"              0
+0  Right Winger",25/07/2004 (21),21,1.67,Spain,€3.00m,01/01/2025,30/06/2029,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/angel-ortiz/profil/spieler/933908,167.0
+Héctor Bellerín,191217,Real Betis,Right-Back,,19/03/1995 (30),30,1.78,Spain,€2.00m,18/07/2023,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/hector-bellerin/profil/spieler/191217,178.0
+Sofyan Amrabat,287579,Real Betis,Defensive Midfield,"                  0
+0  Central Midfield
+1       Centre-Back",21/08/1996 (29),29,1.85,Morocco,€12.00m,01/09/2025,30/06/2026,02/10/2025,"['Netherlands', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sofyan-amrabat/profil/spieler/287579,185.0
+Marc Roca,336869,Real Betis,Defensive Midfield,"                  0
+0  Central Midfield",26/11/1996 (28),28,1.84,Spain,€4.00m,01/07/2024,30/06/2029,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marc-roca/profil/spieler/336869,184.0
+Sergi Altimira,466801,Real Betis,Central Midfield,"                    0
+0  Defensive Midfield",25/08/2001 (24),24,1.88,Spain,€20.00m,11/08/2023,30/06/2029,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sergi-altimira/profil/spieler/466801,188.0
+Nelson Deossa,907559,Real Betis,Central Midfield,"                    0
+0  Defensive Midfield",06/02/2000 (25),25,1.85,Colombia,€10.00m,04/08/2025,30/06/2030,02/10/2025,['Colombia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nelson-deossa/profil/spieler/907559,185.0
+Pablo Fornals,357885,Real Betis,Central Midfield,"                    0
+0  Attacking Midfield
+1        Right Winger",22/02/1996 (29),29,1.78,Spain,€6.00m,01/02/2024,30/06/2029,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pablo-fornals/profil/spieler/357885,178.0
+Giovani Lo Celso,348795,Real Betis,Attacking Midfield,"                  0
+0  Central Midfield",09/04/1996 (29),29,1.77,Argentina,€15.00m,30/08/2024,30/06/2028,09/06/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/giovani-lo-celso/profil/spieler/348795,177.0
+Isco,85288,Real Betis,Attacking Midfield,"                  0
+0  Central Midfield
+1       Left Winger",21/04/1992 (33),33,1.76,Spain,€5.00m,26/07/2023,30/06/2028,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/isco/profil/spieler/85288,176.0
+Abde Ezzalzouli,724520,Real Betis,Left Winger,"              0
+0  Right Winger",17/12/2001 (23),23,1.77,Morocco,€12.00m,01/09/2023,30/06/2029,09/06/2025,"['Spain', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/abde-ezzalzouli/profil/spieler/724520,177.0
+Rodrigo Riquelme,461617,Real Betis,Left Winger,"                    0
+0        Right Winger
+1  Attacking Midfield",02/04/2000 (25),25,1.74,Spain,€12.00m,04/07/2025,30/06/2030,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rodrigo-riquelme/profil/spieler/461617,174.0
+Antony,602105,Real Betis,Right Winger,"             0
+0  Left Winger",24/02/2000 (25),25,1.72,Brazil,€30.00m,01/09/2025,30/06/2030,02/10/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/antony/profil/spieler/602105,172.0
+Pablo García,961087,Real Betis,Right Winger,"             0
+0  Left Winger",13/06/2006 (19),19,1.75,Spain,€10.00m,01/07/2025,30/06/2029,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pablo-garcia/profil/spieler/961087,175.0
+Aitor Ruibal,378139,Real Betis,Right Winger,"                0
+0      Right-Back
+1  Centre-Forward",22/03/1996 (29),29,1.76,Spain,€3.50m,01/07/2019,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/aitor-ruibal/profil/spieler/378139,176.0
+Cucho Hernández,459463,Real Betis,Centre-Forward,,20/04/1999 (26),26,1.76,Colombia,€18.00m,03/02/2025,30/06/2030,09/06/2025,"['Spain', 'Colombia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/cucho-hernandez/profil/spieler/459463,176.0
+Chimy Ávila,167721,Real Betis,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",06/02/1994 (31),31,1.72,Argentina,€2.00m,01/02/2024,30/06/2027,09/06/2025,"['Spain', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/chimy-avila/profil/spieler/167721,172.0
+Cédric Bakambu,127048,Real Betis,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",11/04/1991 (34),34,1.82,DR Congo,€1.50m,01/02/2024,30/06/2026,09/06/2025,"['France', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/cedric-bakambu/profil/spieler/127048,182.0
+Julen Agirrezabala,625014,Valencia,Goalkeeper,,26/12/2000 (24),24,1.87,Spain,€15.00m,11/07/2025,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/julen-agirrezabala/profil/spieler/625014,187.0
+Stole Dimitrievski,165467,Valencia,Goalkeeper,,25/12/1993 (31),31,1.88,North Macedonia,€2.50m,01/07/2024,30/06/2026,09/06/2025,"['Macedonia', 'North Macedonia', 'Spain']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/stole-dimitrievski/profil/spieler/165467,188.0
+Cristian Rivero,398131,Valencia,Goalkeeper,,21/03/1998 (27),27,1.88,Spain,€100k,01/08/2020,30/06/2026,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/cristian-rivero/profil/spieler/398131,188.0
+César Tárrega,707274,Valencia,Centre-Back,,26/02/2002 (23),23,1.94,Spain,€15.00m,18/01/2024,30/06/2030,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/cesar-tarrega/profil/spieler/707274,194.0
+José Copete,520840,Valencia,Centre-Back,,10/10/1999 (26),26,1.9,Spain,€4.00m,28/07/2025,30/06/2029,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jose-copete/profil/spieler/520840,190.0
+Mouctar Diakhaby,346289,Valencia,Centre-Back,"                    0
+0  Defensive Midfield",19/12/1996 (28),28,1.92,Guinea,€3.00m,01/07/2018,30/06/2027,02/10/2025,"['France', 'Guinea']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mouctar-diakhaby/profil/spieler/346289,192.0
+Eray Cömert,298583,Valencia,Centre-Back,"                    0
+0  Defensive Midfield",04/02/1998 (27),27,1.83,Switzerland,€2.00m,25/01/2022,30/06/2026,09/06/2025,"['Türkiye', 'Switzerland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/eray-comert/profil/spieler/298583,183.0
+José Gayà,221322,Valencia,Left-Back,,25/05/1995 (30),30,1.72,Spain,€6.00m,01/07/2014,30/06/2027,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jose-gaya/profil/spieler/221322,172.0
+Jesús Vázquez,623024,Valencia,Left-Back,"               0
+0  Left Midfield
+1    Left Winger",02/01/2003 (22),22,1.82,Spain,€3.00m,01/01/2022,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jesus-vazquez/profil/spieler/623024,182.0
+Thierry Correia,367466,Valencia,Right-Back,"           0
+0  Left-Back",09/03/1999 (26),26,1.76,Portugal,€3.00m,02/09/2019,30/06/2026,09/06/2025,"['Portugal', 'Cape Verde']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/thierry-correia/profil/spieler/367466,176.0
+Dimitri Foulquier,170472,Valencia,Right-Back,"                0
+0  Right Midfield",23/03/1993 (32),32,1.83,Guadeloupe,€1.50m,30/08/2021,30/06/2027,09/06/2025,"['France', 'Guadeloupe']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dimitri-foulquier/profil/spieler/170472,183.0
+Pepelu,328480,Valencia,Defensive Midfield,"                  0
+0  Central Midfield",11/08/1998 (27),27,1.86,Spain,€7.50m,08/07/2023,30/06/2028,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pepelu/profil/spieler/328480,186.0
+Baptiste Santamaria,285323,Valencia,Defensive Midfield,"                  0
+0  Central Midfield",09/03/1995 (30),30,1.83,France,€5.00m,07/08/2025,30/06/2027,02/10/2025,['France'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/baptiste-santamaria/profil/spieler/285323,183.0
+Javi Guerra,834764,Valencia,Central Midfield,,13/05/2003 (22),22,1.87,Spain,€25.00m,01/07/2023,30/06/2029,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/javi-guerra/profil/spieler/834764,187.0
+Filip Ugrinic,394236,Valencia,Central Midfield,"                    0
+0       Left Midfield
+1  Attacking Midfield",05/01/1999 (26),26,1.84,Switzerland,€7.00m,08/08/2025,30/06/2029,10/06/2025,['Switzerland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/filip-ugrinic/profil/spieler/394236,184.0
+André Almeida,375382,Valencia,Attacking Midfield,"                  0
+0  Central Midfield
+1    Second Striker",30/05/2000 (25),25,1.76,Portugal,€10.00m,25/08/2022,30/06/2029,09/06/2025,['Portugal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/andre-almeida/profil/spieler/375382,176.0
+Lucas Beltrán,628366,Valencia,Centre-Forward,"                0
+0  Second Striker",29/03/2001 (24),24,1.76,Argentina,€10.00m,01/09/2025,30/06/2026,02/10/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lucas-beltran/profil/spieler/628366,176.0
+Largie Ramazani,518644,Valencia,Left Winger,"                0
+0    Right Winger
+1  Centre-Forward",27/02/2001 (24),24,1.68,Belgium,€7.50m,28/08/2025,30/06/2026,27/05/2025,"['Burundi', 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/largie-ramazani/profil/spieler/518644,168.0
+Arnaut Danjuma,355861,Valencia,Left Winger,"                0
+0  Centre-Forward
+1    Right Winger",31/01/1997 (28),28,1.78,Netherlands,€4.00m,10/08/2025,30/06/2028,09/06/2025,"['Netherlands', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/arnaut-danjuma/profil/spieler/355861,178.0
+Luis Rioja,278837,Valencia,Left Winger,"              0
+0  Right Winger
+1     Left-Back",16/10/1993 (32),32,1.76,Spain,€2.00m,22/08/2024,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luis-rioja/profil/spieler/278837,176.0
+Diego López,617081,Valencia,Right Winger,"                0
+0     Left Winger
+1  Centre-Forward",13/05/2002 (23),23,1.72,Spain,€15.00m,01/07/2023,30/06/2029,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/diego-lopez/profil/spieler/617081,172.0
+Dani Raba,413262,Valencia,Second Striker,"                0
+0  Centre-Forward
+1    Right Winger",29/10/1995 (30),30,1.85,Spain,€2.50m,01/07/2025,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dani-raba/profil/spieler/413262,185.0
+Hugo Duro,573775,Valencia,Centre-Forward,"              0
+0  Right Winger
+1   Left Winger",10/11/1999 (26),26,1.77,Spain,€16.00m,01/07/2022,30/06/2028,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/hugo-duro/profil/spieler/573775,177.0
+Dominik Livakovic,205927,Girona,Goalkeeper,,09/01/1995 (30),30,1.88,Croatia,€6.00m,01/09/2025,30/06/2026,02/10/2025,['Croatia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dominik-livakovic/profil/spieler/205927,188.0
+Paulo Gazzaniga,195488,Girona,Goalkeeper,,02/01/1992 (33),33,1.95,Argentina,€2.50m,01/07/2023,30/06/2027,09/06/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/paulo-gazzaniga/profil/spieler/195488,195.0
+Vladyslav Krapyvtsov,1169436,Girona,Goalkeeper,,25/06/2005 (20),20,1.88,Ukraine,€400k,01/01/2025,30/06/2029,02/10/2025,['Ukraine'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/vladyslav-krapyvtsov/profil/spieler/1169436,188.0
+Juan Carlos,120705,Girona,Goalkeeper,,20/01/1988 (37),37,1.87,Spain,€100k,01/07/2019,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/juan-carlos/profil/spieler/120705,187.0
+Vitor Reis,1005575,Girona,Centre-Back,,12/01/2006 (19),19,1.86,Brazil,€30.00m,08/08/2025,30/06/2026,30/05/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/vitor-reis/profil/spieler/1005575,186.0
+Alejandro Francés,632896,Girona,Centre-Back,"                0
+0      Right-Back
+1  Right Midfield",01/08/2002 (23),23,1.82,Spain,€3.50m,26/07/2024,30/06/2029,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alejandro-frances/profil/spieler/632896,182.0
+Daley Blind,12282,Girona,Centre-Back,"                    0
+0           Left-Back
+1  Defensive Midfield",09/03/1990 (35),35,1.8,Netherlands,€1.50m,07/07/2023,30/06/2026,09/06/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/daley-blind/profil/spieler/12282,180.0
+David López,129444,Girona,Centre-Back,"                    0
+0  Defensive Midfield
+1    Central Midfield",09/10/1989 (36),36,1.85,Spain,€900k,25/07/2022,30/06/2026,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/david-lopez/profil/spieler/129444,185.0
+Álex Moreno,193098,Girona,Left-Back,,08/06/1993 (32),32,1.79,Spain,€4.00m,22/08/2025,30/06/2027,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alex-moreno/profil/spieler/193098,179.0
+Arnau Martínez,826224,Girona,Right-Back,"                0
+0     Centre-Back
+1  Right Midfield",25/04/2003 (22),22,1.82,Spain,€10.00m,01/04/2021,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/arnau-martinez/profil/spieler/826224,182.0
+Hugo Rincón,834487,Girona,Right-Back,,27/01/2003 (22),22,1.83,Spain,€2.00m,29/07/2025,30/06/2026,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/hugo-rincon/profil/spieler/834487,183.0
+Axel Witsel,35047,Girona,Defensive Midfield,"                  0
+0       Centre-Back
+1  Central Midfield",12/01/1989 (36),36,1.86,Belgium,€1.50m,12/08/2025,30/06/2026,02/10/2025,"['Martinique', 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/axel-witsel/profil/spieler/35047,186.0
+Azzedine Ounahi,593482,Girona,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",19/04/2000 (25),25,1.82,Morocco,€10.00m,30/08/2025,30/06/2030,23/05/2025,['Morocco'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/azzedine-ounahi/profil/spieler/593482,182.0
+Donny van de Beek,288255,Girona,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",18/04/1997 (28),28,1.84,Netherlands,€3.00m,11/07/2024,30/06/2028,02/10/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/donny-van-de-beek/profil/spieler/288255,184.0
+Jhon Solís,742521,Girona,Central Midfield,"                    0
+0  Defensive Midfield",03/10/2004 (21),21,1.86,Colombia,€2.50m,01/09/2023,30/06/2028,09/06/2025,['Colombia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jhon-solis/profil/spieler/742521,186.0
+Iván Martín,341278,Girona,Attacking Midfield,"                  0
+0      Right Winger
+1  Central Midfield",14/02/1999 (26),26,1.78,Spain,€6.00m,22/07/2023,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ivan-martin/profil/spieler/341278,178.0
+Thomas Lemar,205562,Girona,Attacking Midfield,"              0
+0   Left Winger
+1  Right Winger",12/11/1995 (30),30,1.71,France,€3.00m,30/07/2025,30/06/2026,02/10/2025,"['France', 'Guadeloupe']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/thomas-lemar/profil/spieler/205562,171.0
+Bryan Gil,537382,Girona,Left Winger,"                    0
+0        Right Winger
+1  Attacking Midfield",11/02/2001 (24),24,1.75,Spain,€12.00m,01/09/2025,30/06/2030,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/bryan-gil/profil/spieler/537382,175.0
+Joel Roca,895326,Girona,Left Winger,"                    0
+0  Attacking Midfield
+1        Right Winger",07/06/2005 (20),20,1.76,Spain,€5.00m,01/07/2024,30/06/2029,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/joel-roca/profil/spieler/895326,176.0
+Yáser Asprilla,857818,Girona,Right Winger,"                    0
+0  Attacking Midfield
+1         Left Winger",19/11/2003 (22),22,1.76,Colombia,€15.00m,23/08/2024,30/06/2030,09/06/2025,['Colombia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yaser-asprilla/profil/spieler/857818,176.0
+Viktor Tsygankov,264372,Girona,Right Winger,"                    0
+0  Attacking Midfield
+1         Left Winger",15/11/1997 (28),28,1.78,Ukraine,€15.00m,17/01/2023,30/06/2027,02/10/2025,"['Israel', 'Ukraine']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/viktor-tsygankov/profil/spieler/264372,178.0
+Portu,99353,Girona,Right Winger,"                    0
+0  Attacking Midfield
+1         Left Winger",21/05/1992 (33),33,1.67,Spain,€1.80m,01/09/2023,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/portu/profil/spieler/99353,167.0
+Vladyslav Vanat,631821,Girona,Centre-Forward,"             0
+0  Left Winger",04/01/2002 (23),23,1.82,Ukraine,€15.00m,01/09/2025,30/06/2030,10/06/2025,['Ukraine'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/vladyslav-vanat/profil/spieler/631821,182.0
+Abel Ruiz,340376,Girona,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",28/01/2000 (25),25,1.82,Spain,€3.50m,01/07/2024,30/06/2029,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/abel-ruiz/profil/spieler/340376,182.0
+Cristhian Stuani,59323,Girona,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",12/10/1986 (39),39,1.84,Uruguay,€1.00m,21/07/2017,30/06/2026,09/06/2025,"['Uruguay', 'Italy']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/cristhian-stuani/profil/spieler/59323,184.0
+Ionuț Radu,303657,Celta de Vigo,Goalkeeper,,28/05/1997 (28),28,1.88,Romania,€3.50m,01/07/2025,30/06/2029,02/10/2025,['Romania'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ionut-radu/profil/spieler/303657,188.0
+Iván Villar,297194,Celta de Vigo,Goalkeeper,,09/07/1997 (28),28,1.86,Spain,€900k,01/07/2019,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ivan-villar/profil/spieler/297194,186.0
+Marc Vidal,541621,Celta de Vigo,Goalkeeper,,14/02/2000 (25),25,1.85,Spain,€300k,01/07/2025,30/06/2028,25/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marc-vidal/profil/spieler/541621,185.0
+Javi Rodríguez,1076815,Celta de Vigo,Centre-Back,"            0
+0  Right-Back",27/06/2003 (22),22,1.78,Spain,€15.00m,01/07/2024,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/javi-rodriguez/profil/spieler/1076815,178.0
+Carl Starfelt,258987,Celta de Vigo,Centre-Back,,01/06/1995 (30),30,1.87,Sweden,€6.00m,10/08/2023,30/06/2027,09/06/2025,['Sweden'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/carl-starfelt/profil/spieler/258987,187.0
+Carlos Domínguez,636093,Celta de Vigo,Centre-Back,,11/02/2001 (24),24,1.87,Spain,€3.00m,01/01/2023,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/carlos-dominguez/profil/spieler/636093,187.0
+Yoel Lago,939374,Celta de Vigo,Centre-Back,"                  0
+0  Central Midfield",25/03/2004 (21),21,1.85,Spain,€2.50m,01/07/2025,30/06/2029,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yoel-lago/profil/spieler/939374,185.0
+Manu Fernández,638124,Celta de Vigo,Centre-Back,"                  0
+0  Central Midfield",23/04/2001 (24),24,1.85,Spain,€2.00m,01/07/2025,30/06/2028,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/manu-fernandez/profil/spieler/638124,185.0
+Marcos Alonso,112515,Celta de Vigo,Centre-Back,"           0
+0  Left-Back",28/12/1990 (34),34,1.88,Spain,€1.50m,28/08/2024,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marcos-alonso/profil/spieler/112515,188.0
+Joseph Aidoo,358250,Celta de Vigo,Centre-Back,,29/09/1995 (30),30,1.81,Ghana,€1.20m,11/07/2019,30/06/2026,09/06/2025,['Ghana'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/joseph-aidoo/profil/spieler/358250,181.0
+Mihailo Ristic,271455,Celta de Vigo,Left-Back,,31/10/1995 (30),30,1.8,Serbia,€900k,01/09/2023,30/06/2026,09/06/2025,"['Bosnia-Herzegovina', 'Serbia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mihailo-ristic/profil/spieler/271455,180.0
+Óscar Mingueza,331505,Celta de Vigo,Right-Back,"                0
+0     Centre-Back
+1  Right Midfield",13/05/1999 (26),26,1.84,Spain,€18.00m,30/07/2022,30/06/2026,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/oscar-mingueza/profil/spieler/331505,184.0
+Sergio Carreira,545647,Celta de Vigo,Right-Back,"             0
+0    Left-Back
+1  Centre-Back",13/10/2000 (25),25,1.7,Spain,€4.00m,01/07/2021,30/06/2029,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sergio-carreira/profil/spieler/545647,170.0
+Javi Rueda,652331,Celta de Vigo,Right-Back,"           0
+0  Left-Back",08/05/2002 (23),23,1.77,Spain,€3.00m,01/07/2024,30/06/2027,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/javi-rueda/profil/spieler/652331,177.0
+Damián Rodríguez,715628,Celta de Vigo,Defensive Midfield,"                  0
+0  Central Midfield
+1       Centre-Back",17/03/2003 (22),22,1.8,Spain,€2.50m,18/07/2024,30/06/2028,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/damian-rodriguez/profil/spieler/715628,180.0
+Hugo Sotelo,892221,Celta de Vigo,Central Midfield,,19/12/2003 (21),21,1.8,Spain,€12.00m,01/07/2023,30/06/2028,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/hugo-sotelo/profil/spieler/892221,180.0
+Ilaix Moriba,617074,Celta de Vigo,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",19/01/2003 (22),22,1.85,Guinea,€6.00m,01/07/2025,30/06/2029,09/06/2025,"['Guinea', 'Spain']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ilaix-moriba/profil/spieler/617074,185.0
+Fran Beltrán,423444,Celta de Vigo,Central Midfield,"                    0
+0  Defensive Midfield",03/02/1999 (26),26,1.65,Spain,€5.00m,01/08/2018,30/06/2026,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/fran-beltran/profil/spieler/423444,165.0
+Miguel Román,892932,Celta de Vigo,Central Midfield,,26/12/2002 (22),22,1.78,Spain,€800k,01/07/2025,30/06/2028,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/miguel-roman/profil/spieler/892932,178.0
+Bryan Zaragoza,713644,Celta de Vigo,Left Winger,"                    0
+0        Right Winger
+1  Attacking Midfield",09/09/2001 (24),24,1.64,Spain,€12.00m,30/07/2025,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/bryan-zaragoza/profil/spieler/713644,164.0
+Williot Swedberg,764859,Celta de Vigo,Left Winger,"                    0
+0  Attacking Midfield
+1    Central Midfield",01/02/2004 (21),21,1.87,Sweden,€10.00m,01/07/2022,30/06/2029,02/10/2025,['Sweden'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/williot-swedberg/profil/spieler/764859,187.0
+Hugo Álvarez,892929,Celta de Vigo,Left Winger,"               0
+0   Right Winger
+1  Left Midfield",02/07/2003 (22),22,1.76,Spain,€10.00m,18/07/2024,30/06/2028,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/hugo-alvarez/profil/spieler/892929,176.0
+Franco Cervi,341110,Celta de Vigo,Left Winger,"               0
+0  Left Midfield
+1      Left-Back",26/05/1994 (31),31,1.66,Argentina,€800k,05/07/2021,30/06/2026,09/06/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/franco-cervi/profil/spieler/341110,166.0
+Jones El-Abdellaoui,960571,Celta de Vigo,Right Winger,"                0
+0  Centre-Forward
+1     Left Winger",12/01/2006 (19),19,1.84,Morocco,€4.00m,08/01/2025,30/06/2029,02/10/2025,"['Norway', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jones-el-abdellaoui/profil/spieler/960571,184.0
+Ferran Jutglà,599231,Celta de Vigo,Centre-Forward,"             0
+0  Left Winger",01/02/1999 (26),26,1.75,Spain,€8.00m,01/07/2025,30/06/2029,12/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ferran-jutgla/profil/spieler/599231,175.0
+Pablo Durán,905997,Celta de Vigo,Centre-Forward,"              0
+0  Right Winger
+1   Left Winger",25/05/2001 (24),24,1.76,Spain,€3.50m,18/07/2024,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pablo-duran/profil/spieler/905997,176.0
+Borja Iglesias,278359,Celta de Vigo,Centre-Forward,,17/01/1993 (32),32,1.87,Spain,€3.00m,12/08/2025,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/borja-iglesias/profil/spieler/278359,187.0
+Iago Aspas,72047,Celta de Vigo,Centre-Forward,"              0
+0  Right Winger",01/08/1987 (38),38,1.76,Spain,€2.00m,07/07/2015,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/iago-aspas/profil/spieler/72047,176.0
+Odysseas Vlachodimos,124419,Sevilla FC,Goalkeeper,,26/04/1994 (31),31,1.91,Greece,€5.00m,12/08/2025,30/06/2026,30/05/2025,"['Greece', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/odysseas-vlachodimos/profil/spieler/124419,191.0
+Álvaro Fernández,453704,Sevilla FC,Goalkeeper,,13/04/1998 (27),27,1.85,Spain,€2.00m,12/08/2024,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alvaro-fernandez/profil/spieler/453704,185.0
+Ørjan Nyland,73517,Sevilla FC,Goalkeeper,,10/09/1990 (35),35,1.92,Norway,€900k,20/08/2023,30/06/2026,09/06/2025,['Norway'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/orjan-nyland/profil/spieler/73517,192.0
+Kike Salas,766583,Sevilla FC,Centre-Back,"           0
+0  Left-Back",23/04/2002 (23),23,1.88,Spain,€8.00m,01/01/2023,30/06/2029,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kike-salas/profil/spieler/766583,188.0
+Fábio Cardoso,155025,Sevilla FC,Centre-Back,,19/04/1994 (31),31,1.87,Portugal,€3.00m,01/09/2025,30/06/2028,29/05/2025,['Portugal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/fabio-cardoso/profil/spieler/155025,187.0
+Marcão,439022,Sevilla FC,Centre-Back,"                    0
+0  Defensive Midfield",05/06/1996 (29),29,1.85,Brazil,€2.00m,08/07/2022,30/06/2028,09/06/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marcao/profil/spieler/439022,185.0
+César Azpilicueta,57500,Sevilla FC,Centre-Back,"            0
+0  Right-Back
+1   Left-Back",28/08/1989 (36),36,1.78,Spain,€1.50m,29/08/2025,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/cesar-azpilicueta/profil/spieler/57500,178.0
+Tanguy Nianzou,538996,Sevilla FC,Centre-Back,"                    0
+0  Defensive Midfield",07/06/2002 (23),23,1.91,France,€1.50m,17/08/2022,30/06/2027,09/06/2025,"['France', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tanguy-nianzou/profil/spieler/538996,191.0
+Andrés Castrín,719999,Sevilla FC,Centre-Back,,26/05/2003 (22),22,1.88,Spain,€1.50m,01/07/2025,-,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/andres-castrin/profil/spieler/719999,188.0
+Ramón Martínez,882710,Sevilla FC,Centre-Back,"            0
+0  Right-Back",22/10/2002 (23),23,1.85,Spain,€1.00m,01/07/2025,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ramon-martinez/profil/spieler/882710,185.0
+Gabriel Suazo,385105,Sevilla FC,Left-Back,"                  0
+0     Left Midfield
+1  Central Midfield",09/08/1997 (28),28,1.78,Chile,€4.00m,12/07/2025,30/06/2028,03/06/2025,['Chile'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gabriel-suazo/profil/spieler/385105,178.0
+Juanlu Sánchez,676042,Sevilla FC,Right-Back,"                  0
+0      Right Winger
+1  Central Midfield",15/08/2003 (22),22,1.86,Spain,€15.00m,01/07/2022,30/06/2029,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/juanlu-sanchez/profil/spieler/676042,186.0
+José Ángel Carmona,711625,Sevilla FC,Right-Back,"             0
+0  Centre-Back",29/01/2002 (23),23,1.84,Spain,€12.00m,01/07/2022,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jose-angel-carmona/profil/spieler/711625,184.0
+Batista Mendy,395234,Sevilla FC,Defensive Midfield,"                  0
+0       Centre-Back
+1  Central Midfield",12/01/2000 (25),25,1.91,France,€10.00m,01/09/2025,30/06/2026,18/06/2025,"['France', 'Guinea-Bissau']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/batista-mendy/profil/spieler/395234,191.0
+Lucien Agoumé,569384,Sevilla FC,Defensive Midfield,"                  0
+0  Central Midfield",09/02/2002 (23),23,1.85,France,€8.00m,06/08/2024,30/06/2028,09/06/2025,"['France', 'Cameroon']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lucien-agoume/profil/spieler/569384,185.0
+Nemanja Gudelj,74294,Sevilla FC,Defensive Midfield,"                  0
+0       Centre-Back
+1  Central Midfield",16/11/1991 (34),34,1.87,Serbia,€3.00m,23/07/2019,30/06/2026,09/06/2025,"['Jugoslawien (SFR)', 'Serbia', 'Netherlands']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nemanja-gudelj/profil/spieler/74294,187.0
+Djibril Sow,212723,Sevilla FC,Central Midfield,"                    0
+0  Defensive Midfield",06/02/1997 (28),28,1.84,Switzerland,€7.50m,04/08/2023,30/06/2029,09/06/2025,"['Senegal', 'Switzerland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/djibril-sow/profil/spieler/212723,184.0
+Joan Jordán,263727,Sevilla FC,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",06/07/1994 (31),31,1.85,Spain,€2.50m,01/07/2019,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/joan-jordan/profil/spieler/263727,185.0
+Manu Bueno,766723,Sevilla Atl.,Central Midfield,,27/07/2004 (21),21,1.78,Spain,€1.50m,01/11/2022,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/manu-bueno/profil/spieler/766723,178.0
+Rubén Vargas,345886,Sevilla FC,Left Winger,"                    0
+0        Right Winger
+1  Attacking Midfield",05/08/1998 (27),27,1.79,Switzerland,€11.00m,10/01/2025,30/06/2029,02/10/2025,"['Dominican Republic', 'Switzerland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ruben-vargas/profil/spieler/345886,179.0
+Alfon González,357628,Sevilla FC,Left Winger,"                0
+0  Centre-Forward
+1    Right Winger",04/05/1999 (26),26,1.72,Spain,€5.00m,01/07/2025,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alfon-gonzalez/profil/spieler/357628,172.0
+Chidera Ejuke,500067,Sevilla FC,Left Winger,"                0
+0    Right Winger
+1  Second Striker",02/01/1998 (27),27,1.76,Nigeria,€4.00m,01/07/2024,30/06/2027,09/06/2025,['Nigeria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/chidera-ejuke/profil/spieler/500067,176.0
+Adnan Januzaj,177847,Sevilla FC,Right Winger,"                    0
+0         Left Winger
+1  Attacking Midfield",05/02/1995 (30),30,1.86,Belgium,€1.20m,31/08/2022,30/06/2026,09/06/2025,"['Kosovo', 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adnan-januzaj/profil/spieler/177847,186.0
+Peque Fernández,639733,Sevilla FC,Second Striker,"                0
+0  Centre-Forward
+1     Left Winger",04/10/2002 (23),23,1.72,Spain,€3.50m,11/07/2024,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/peque-fernandez/profil/spieler/639733,172.0
+Isaac Romero,687609,Sevilla FC,Centre-Forward,"             0
+0  Left Winger",18/05/2000 (25),25,1.83,Spain,€6.00m,11/01/2024,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/isaac-romero/profil/spieler/687609,183.0
+Akor Adams,607034,Sevilla FC,Centre-Forward,,29/01/2000 (25),25,1.9,Nigeria,€5.00m,27/01/2025,30/06/2029,09/06/2025,['Nigeria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/akor-adams/profil/spieler/607034,190.0
+Alexis Sánchez,40433,Sevilla FC,Centre-Forward,"                0
+0  Second Striker
+1    Right Winger",19/12/1988 (36),36,1.69,Chile,€1.50m,01/09/2025,30/06/2026,17/06/2025,['Chile'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alexis-sanchez/profil/spieler/40433,169.0
+Marko Dmitrovic,94308,Espanyol,Goalkeeper,,24/01/1992 (33),33,1.89,Serbia,€800k,01/07/2025,30/06/2028,09/06/2025,"['Jugoslawien (SFR)', 'Serbia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marko-dmitrovic/profil/spieler/94308,189.0
+Ángel Fortuño,628487,Espanyol,Goalkeeper,,05/10/2001 (24),24,1.83,Spain,€300k,01/07/2024,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/angel-fortuno/profil/spieler/628487,183.0
+Clemens Riedel,692070,Espanyol,Centre-Back,"                    0
+0  Defensive Midfield",19/07/2003 (22),22,1.86,Germany,€4.00m,25/08/2025,30/06/2029,19/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/clemens-riedel/profil/spieler/692070,186.0
+Miguel Rubio,583510,Espanyol,Centre-Back,,11/03/1998 (27),27,1.91,Spain,€2.00m,01/07/2025,30/06/2028,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/miguel-rubio/profil/spieler/583510,191.0
+Fernando Calero,357884,Espanyol,Centre-Back,,14/09/1995 (30),30,1.84,Spain,€1.50m,09/08/2019,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/fernando-calero/profil/spieler/357884,184.0
+Leandro Cabrera,102423,Espanyol,Centre-Back,"           0
+0  Left-Back",17/06/1991 (34),34,1.9,Uruguay,€1.00m,20/01/2020,30/06/2026,09/06/2025,"['Uruguay', 'Spain']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/leandro-cabrera/profil/spieler/102423,190.0
+Carlos Romero,709372,Espanyol,Left-Back,"             0
+0  Left Winger",29/10/2001 (24),24,1.74,Spain,€10.00m,09/07/2024,30/06/2026,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/carlos-romero/profil/spieler/709372,174.0
+José Salinas,819590,Espanyol,Left-Back,"             0
+0  Left Winger",30/09/2000 (25),25,1.78,Spain,€3.00m,01/07/2025,30/06/2028,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jose-salinas/profil/spieler/819590,178.0
+Omar El Hilali,822331,Espanyol,Right-Back,"             0
+0    Left-Back
+1  Centre-Back",12/09/2003 (22),22,1.83,Morocco,€15.00m,01/01/2023,30/06/2027,09/06/2025,"['Spain', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/omar-el-hilali/profil/spieler/822331,183.0
+Rubén Sánchez,705813,Espanyol,Right-Back,"              0
+0  Right Winger",04/02/2001 (24),24,1.85,Spain,€1.00m,01/07/2022,30/06/2027,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ruben-sanchez/profil/spieler/705813,185.0
+Urko González de Zárate,625651,Espanyol,Defensive Midfield,"                  0
+0       Centre-Back
+1  Central Midfield",20/03/2001 (24),24,1.89,Spain,€5.00m,28/08/2025,30/06/2030,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/urko-gonzalez-de-zarate/profil/spieler/625651,189.0
+Charles Pickel,243879,Espanyol,Defensive Midfield,"                    0
+0    Central Midfield
+1  Attacking Midfield",15/05/1997 (28),28,1.87,DR Congo,€3.00m,27/08/2025,30/06/2026,02/10/2025,"['Switzerland', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/charles-pickel/profil/spieler/243879,187.0
+Pol Lozano,412045,Espanyol,Central Midfield,,06/10/1999 (26),26,1.76,Spain,€5.00m,01/07/2020,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pol-lozano/profil/spieler/412045,176.0
+Edu Expósito,506248,Espanyol,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",01/08/1996 (29),29,1.78,Spain,€4.00m,08/08/2022,30/06/2027,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/edu-exposito/profil/spieler/506248,178.0
+Ramón Terrats,783396,Espanyol,Central Midfield,"                    0
+0  Attacking Midfield
+1        Right Winger",18/10/2000 (25),25,1.81,Spain,€4.00m,01/07/2025,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ramon-terrats/profil/spieler/783396,181.0
+Javi Hernández,946279,Espanyol,Attacking Midfield,,30/01/2004 (21),21,1.75,Spain,€500k,01/07/2024,30/06/2028,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/javi-hernandez/profil/spieler/946279,175.0
+Javi Puado,408471,Espanyol,Left Winger,"                0
+0  Centre-Forward
+1    Right Winger",25/05/1998 (27),27,1.77,Spain,€10.00m,01/07/2018,30/06/2030,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/javi-puado/profil/spieler/408471,177.0
+Pere Milla,225593,Espanyol,Left Winger,"                0
+0  Centre-Forward
+1  Second Striker",23/09/1992 (33),33,1.8,Spain,€1.20m,15/08/2023,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pere-milla/profil/spieler/225593,180.0
+Tyrhys Dolan,647435,Espanyol,Right Winger,"                0
+0     Left Winger
+1  Centre-Forward",28/12/2001 (23),23,1.7,England,€10.00m,25/07/2025,30/06/2028,02/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tyrhys-dolan/profil/spieler/647435,170.0
+Luca Koleosho,745461,Espanyol,Right Winger,"                    0
+0         Left Winger
+1  Attacking Midfield",15/09/2004 (21),21,1.75,Italy,€6.00m,21/08/2025,30/06/2026,02/10/2025,"['Italy', 'United States']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luca-koleosho/profil/spieler/745461,175.0
+Jofre Carreras,628498,Espanyol,Right Winger,"             0
+0  Left Winger",17/06/2001 (24),24,1.75,Spain,€3.00m,01/07/2022,30/06/2029,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jofre-carreras/profil/spieler/628498,175.0
+Antoniu Roca,834744,Espanyol,Right Winger,"             0
+0  Left Winger
+1   Right-Back",05/09/2002 (23),23,1.8,Spain,€1.80m,01/07/2024,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/antoniu-roca/profil/spieler/834744,180.0
+Roberto Fernández,720518,Espanyol,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",03/07/2002 (23),23,1.86,Spain,€6.00m,01/07/2025,30/06/2031,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/roberto-fernandez/profil/spieler/720518,186.0
+Kike García,93936,Espanyol,Centre-Forward,,25/11/1989 (35),35,1.86,Spain,€900k,01/07/2025,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kike-garcia/profil/spieler/93936,186.0
+Sergio Herrera,248738,CA Osasuna,Goalkeeper,,05/06/1993 (32),32,1.92,Spain,€3.00m,12/07/2017,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sergio-herrera/profil/spieler/248738,192.0
+Aitor Fernández,118997,CA Osasuna,Goalkeeper,,03/05/1991 (34),34,1.82,Spain,€700k,02/07/2022,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/aitor-fernandez/profil/spieler/118997,182.0
+Enzo Boyomo,541555,CA Osasuna,Centre-Back,,07/10/2001 (24),24,1.84,Cameroon,€20.00m,29/08/2024,30/06/2029,09/06/2025,"['France', 'Cameroon']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/enzo-boyomo/profil/spieler/541555,184.0
+Jorge Herrando,555500,CA Osasuna,Centre-Back,,28/02/2001 (24),24,1.92,Spain,€3.50m,01/07/2023,30/06/2027,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jorge-herrando/profil/spieler/555500,192.0
+Alejandro Catena,449796,CA Osasuna,Centre-Back,,28/10/1994 (31),31,1.94,Spain,€3.00m,01/07/2023,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alejandro-catena/profil/spieler/449796,194.0
+Abel Bretones,658115,CA Osasuna,Left-Back,"             0
+0  Left Winger",21/08/2000 (25),25,1.88,Spain,€4.00m,05/07/2024,30/06/2029,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/abel-bretones/profil/spieler/658115,188.0
+Juan Cruz,169497,CA Osasuna,Left-Back,"             0
+0  Centre-Back",28/07/1992 (33),33,1.82,Spain,€1.50m,30/08/2020,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/juan-cruz/profil/spieler/169497,182.0
+Valentin Rosier,441170,CA Osasuna,Right-Back,,19/08/1996 (29),29,1.75,France,€3.00m,01/07/2025,30/06/2028,09/06/2025,"['France', 'Guadeloupe']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/valentin-rosier/profil/spieler/441170,175.0
+Lucas Torró,213670,CA Osasuna,Defensive Midfield,"                  0
+0  Central Midfield",19/07/1994 (31),31,1.9,Spain,€3.00m,04/08/2020,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lucas-torro/profil/spieler/213670,190.0
+Iker Muñoz,710677,CA Osasuna,Defensive Midfield,"                  0
+0  Central Midfield",05/09/2002 (23),23,1.8,Spain,€3.00m,01/07/2023,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/iker-munoz/profil/spieler/710677,180.0
+Jon Moncayola,552425,CA Osasuna,Central Midfield,"                0
+0  Right Midfield
+1      Right-Back",13/05/1998 (27),27,1.82,Spain,€7.00m,01/07/2019,30/06/2031,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jon-moncayola/profil/spieler/552425,182.0
+Asier Osambela,1038512,Osasuna B,Central Midfield,"             0
+0  Centre-Back",30/10/2004 (21),21,1.86,Spain,€500k,01/07/2022,30/06/2029,25/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/asier-osambela/profil/spieler/1038512,186.0
+Aimar Oroz,634131,CA Osasuna,Attacking Midfield,"                  0
+0  Central Midfield
+1       Left Winger",27/11/2001 (23),23,1.77,Spain,€15.00m,01/07/2022,30/06/2029,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/aimar-oroz/profil/spieler/634131,177.0
+Víctor Muñoz,935231,CA Osasuna,Left Winger,"                0
+0    Right Winger
+1  Centre-Forward",13/07/2003 (22),22,1.73,Spain,€5.00m,11/07/2025,30/06/2030,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/victor-munoz/profil/spieler/935231,173.0
+Moi Gómez,175449,CA Osasuna,Left Winger,"                    0
+0  Attacking Midfield
+1        Right Winger",23/06/1994 (31),31,1.76,Spain,€2.00m,28/07/2022,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/moi-gomez/profil/spieler/175449,176.0
+Sheraldo Becker,188888,CA Osasuna,Left Winger,"                0
+0  Centre-Forward
+1    Right Winger",09/02/1995 (30),30,1.8,Suriname,€2.00m,01/09/2025,30/06/2027,02/10/2025,"['Netherlands', 'Suriname']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sheraldo-becker/profil/spieler/188888,180.0
+Rubén García,213260,CA Osasuna,Right Winger,"                    0
+0         Left Winger
+1  Attacking Midfield",14/07/1993 (32),32,1.72,Spain,€2.00m,01/07/2019,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ruben-garcia/profil/spieler/213260,172.0
+Iker Benito,710679,CA Osasuna,Right Winger,"            0
+0   Left-Back
+1  Right-Back",10/08/2002 (23),23,1.76,Spain,€1.50m,01/07/2023,30/06/2027,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/iker-benito/profil/spieler/710679,176.0
+Kike Barja,298575,CA Osasuna,Right Winger,"             0
+0  Left Winger",01/04/1997 (28),28,1.79,Spain,€1.50m,01/01/2018,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kike-barja/profil/spieler/298575,179.0
+Ante Budimir,46413,CA Osasuna,Centre-Forward,,22/07/1991 (34),34,1.9,Croatia,€5.00m,01/07/2021,30/06/2027,09/06/2025,"['Jugoslawien (SFR)', 'Croatia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ante-budimir/profil/spieler/46413,190.0
+Raúl García,631002,CA Osasuna,Centre-Forward,,03/11/2000 (25),25,1.92,Spain,€3.00m,10/08/2023,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/raul-garcia/profil/spieler/631002,192.0
+Augusto Batalla,275218,Rayo Vallecano,Goalkeeper,,30/04/1996 (29),29,1.86,Argentina,€6.00m,01/07/2025,30/06/2030,09/06/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/augusto-batalla/profil/spieler/275218,186.0
+Dani Cárdenas,397676,Rayo Vallecano,Goalkeeper,,28/03/1997 (28),28,1.86,Spain,€1.80m,18/08/2023,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dani-cardenas/profil/spieler/397676,186.0
+Luiz Felipe,457931,Rayo Vallecano,Centre-Back,,22/03/1997 (28),28,1.87,Italy,€5.00m,07/07/2025,30/06/2026,03/06/2025,"['Italy', 'Brazil']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luiz-felipe/profil/spieler/457931,187.0
+Abdul Mumin,451801,Rayo Vallecano,Centre-Back,"            0
+0  Right-Back",06/06/1998 (27),27,1.88,Ghana,€5.00m,01/09/2022,30/06/2026,09/06/2025,"['Ghana', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/abdul-mumin/profil/spieler/451801,188.0
+Nobel Mendy,1034853,Rayo Vallecano,Centre-Back,"           0
+0  Left-Back",03/09/2004 (21),21,1.87,Senegal,€4.00m,20/08/2025,30/06/2026,25/06/2025,"['Senegal', 'Guinea-Bissau']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nobel-mendy/profil/spieler/1034853,187.0
+Florian Lejeune,127108,Rayo Vallecano,Centre-Back,,20/05/1991 (34),34,1.9,France,€2.50m,28/07/2023,30/06/2027,09/06/2025,['France'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/florian-lejeune/profil/spieler/127108,190.0
+Jozhua Vertrouwd,765467,Rayo Vallecano,Centre-Back,"               0
+0  Left Midfield
+1      Left-Back",21/08/2004 (21),21,1.87,Netherlands,€1.50m,12/08/2025,30/06/2026,02/10/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jozhua-vertrouwd/profil/spieler/765467,187.0
+Pep Chavarría,596122,Rayo Vallecano,Left-Back,,10/04/1998 (27),27,1.74,Spain,€7.50m,31/08/2022,30/06/2030,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pep-chavarria/profil/spieler/596122,174.0
+Alfonso Espino,311044,Rayo Vallecano,Left-Back,,05/01/1992 (33),33,1.72,Uruguay,€1.20m,17/07/2023,30/06/2026,09/06/2025,"['Uruguay', 'Spain']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alfonso-espino/profil/spieler/311044,172.0
+Andrei Rațiu,527966,Rayo Vallecano,Right-Back,"              0
+0  Right Winger",20/06/1998 (27),27,1.83,Romania,€12.00m,26/08/2023,30/06/2030,09/06/2025,"['Spain', 'Romania']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/andrei-ratiu/profil/spieler/527966,183.0
+Iván Balliu,85295,Rayo Vallecano,Right-Back,"           0
+0  Left-Back",01/01/1992 (33),33,1.72,Albania,€1.40m,14/07/2021,30/06/2027,09/06/2025,"['Spain', 'Albania']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ivan-balliu/profil/spieler/85295,172.0
+Gerard Gumbau,268670,Rayo Vallecano,Defensive Midfield,"                  0
+0  Central Midfield
+1       Centre-Back",18/12/1994 (30),30,1.88,Spain,€1.50m,16/07/2025,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gerard-gumbau/profil/spieler/268670,188.0
+Pedro Díaz,363057,Rayo Vallecano,Central Midfield,,05/06/1998 (27),27,1.8,Spain,€3.00m,05/08/2024,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pedro-diaz/profil/spieler/363057,180.0
+Unai López,192009,Rayo Vallecano,Central Midfield,"                    0
+0  Attacking Midfield",30/10/1995 (30),30,1.7,Spain,€2.50m,01/07/2022,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/unai-lopez/profil/spieler/192009,170.0
+Óscar Valentín,517753,Rayo Vallecano,Central Midfield,"                    0
+0  Defensive Midfield",20/08/1994 (31),31,1.77,Spain,€2.50m,01/07/2019,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/oscar-valentin/profil/spieler/517753,177.0
+Pathé Ciss,525578,Rayo Vallecano,Central Midfield,"                    0
+0  Defensive Midfield",16/03/1994 (31),31,1.86,Senegal,€2.00m,28/07/2021,30/06/2027,09/06/2025,['Senegal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pathe-ciss/profil/spieler/525578,186.0
+Samu Becerra,1384911,Rayo B,Central Midfield,,01/06/2006 (19),19,,Spain,€25k,01/07/2024,30/06/2027,16/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/samu-becerra/profil/spieler/1384911,
+Randy Nteka,560483,Rayo Vallecano,Attacking Midfield,"                  0
+0    Centre-Forward
+1  Central Midfield",06/12/1997 (27),27,1.89,Angola,€1.50m,28/07/2021,30/06/2028,09/06/2025,"['France', 'Angola']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/randy-nteka/profil/spieler/560483,189.0
+Óscar Trejo,30321,Rayo Vallecano,Attacking Midfield,"                  0
+0  Central Midfield",26/04/1988 (37),37,1.8,Argentina,€500k,01/07/2017,30/06/2026,09/06/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/oscar-trejo/profil/spieler/30321,180.0
+Álvaro García,257062,Rayo Vallecano,Left Winger,"              0
+0  Right Winger",27/10/1992 (33),33,1.67,Spain,€2.00m,23/08/2018,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alvaro-garcia/profil/spieler/257062,167.0
+Jorge de Frutos,455181,Rayo Vallecano,Right Winger,"                0
+0     Left Winger
+1  Centre-Forward",20/02/1997 (28),28,1.73,Spain,€12.00m,17/08/2023,30/06/2028,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jorge-de-frutos/profil/spieler/455181,173.0
+Fran Pérez,622988,Rayo Vallecano,Right Winger,"             0
+0  Left Winger",09/09/2002 (23),23,1.76,Spain,€3.00m,15/08/2025,30/06/2029,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/fran-perez/profil/spieler/622988,176.0
+Isi Palazón,362086,Rayo Vallecano,Second Striker,"              0
+0   Left Winger
+1  Right Winger",27/12/1994 (30),30,1.69,Spain,€3.50m,23/01/2020,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/isi-palazon/profil/spieler/362086,169.0
+Alemão,560417,Rayo Vallecano,Centre-Forward,"                0
+0  Second Striker
+1    Right Winger",01/04/1998 (27),27,1.82,Brazil,€3.50m,01/09/2025,30/06/2030,24/06/2025,"['Poland', 'Brazil']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alemao/profil/spieler/560417,182.0
+Sergio Camello,505674,Rayo Vallecano,Centre-Forward,,10/02/2001 (24),24,1.82,Spain,€3.00m,17/08/2023,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sergio-camello/profil/spieler/505674,182.0
+Mathew Ryan,128969,Levante,Goalkeeper,,08/04/1992 (33),33,1.84,Australia,€2.50m,26/08/2025,30/06/2026,03/06/2025,"['Australia', 'Scotland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mathew-ryan/profil/spieler/128969,184.0
+Pablo Campos,617059,Levante,Goalkeeper,,28/04/2002 (23),23,1.88,Spain,€1.50m,01/07/2023,30/06/2027,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pablo-campos/profil/spieler/617059,188.0
+Alan Matturro,861981,Levante,Centre-Back,"               0
+0      Left-Back
+1  Left Midfield",11/10/2004 (21),21,1.89,Uruguay,€6.00m,09/07/2025,30/06/2026,02/10/2025,"['Uruguay', 'Italy']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alan-matturro/profil/spieler/861981,189.0
+Matías Moreno,1144700,Levante,Centre-Back,,24/09/2003 (22),22,1.93,Argentina,€3.40m,11/07/2025,30/06/2026,17/06/2025,['Argentina'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/matias-moreno/profil/spieler/1144700,193.0
+Adrián Dela,341263,Levante,Centre-Back,"            0
+0  Right-Back",26/02/1999 (26),26,1.79,Spain,€1.50m,01/07/2023,30/06/2026,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adrian-dela/profil/spieler/341263,179.0
+Unai Elgezabal,255495,Levante,Centre-Back,"                    0
+0  Defensive Midfield",25/04/1993 (32),32,1.85,Spain,€700k,01/07/2024,30/06/2027,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/unai-elgezabal/profil/spieler/255495,185.0
+Jorge Cabello,1063333,Levante,Centre-Back,"           0
+0  Left-Back",25/04/2004 (21),21,1.83,Spain,€700k,01/07/2024,30/06/2028,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jorge-cabello/profil/spieler/1063333,183.0
+Manu Sánchez,618809,Levante,Left-Back,"               0
+0  Left Midfield",24/08/2000 (25),25,1.71,Spain,€6.00m,25/07/2025,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/manu-sanchez/profil/spieler/618809,171.0
+Diego Pampín,505493,Levante,Left-Back,"             0
+0  Left Winger",15/03/2000 (25),25,1.75,Spain,€1.20m,22/07/2024,30/06/2026,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/diego-pampin/profil/spieler/505493,175.0
+Jeremy Toljan,129674,Levante,Right-Back,"                0
+0       Left-Back
+1  Right Midfield",08/08/1994 (31),31,1.82,Germany,€2.40m,08/07/2025,30/06/2027,02/06/2025,"['Germany', 'United States']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jeremy-toljan/profil/spieler/129674,182.0
+Víctor García,590690,Levante,Right-Back,"              0
+0  Right Winger",16/09/1997 (28),28,1.8,Spain,€800k,03/07/2025,30/06/2027,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/victor-garcia/profil/spieler/590690,180.0
+Oriol Rey,293388,Levante,Defensive Midfield,"                  0
+0  Central Midfield
+1       Centre-Back",25/02/1998 (27),27,1.77,Spain,€2.00m,01/07/2023,30/06/2027,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/oriol-rey/profil/spieler/293388,177.0
+Kervin Arriaga,526050,Levante,Defensive Midfield,"                  0
+0  Central Midfield
+1       Centre-Back",05/01/1998 (27),27,1.91,Honduras,€1.50m,02/07/2025,30/06/2028,24/06/2025,['Honduras'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kervin-arriaga/profil/spieler/526050,191.0
+Jon Ander Olasagasti,625660,Levante,Central Midfield,"                    0
+0  Defensive Midfield
+1         Centre-Back",16/08/2000 (25),25,1.76,Spain,€2.00m,16/07/2025,30/06/2028,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jon-ander-olasagasti/profil/spieler/625660,176.0
+Pablo Martínez,568835,Levante,Central Midfield,"                    0
+0  Attacking Midfield",22/02/1998 (27),27,1.82,Spain,€2.00m,17/07/2020,30/06/2026,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pablo-martinez/profil/spieler/568835,182.0
+Unai Vencedor,610083,Levante,Central Midfield,"                    0
+0  Defensive Midfield",15/11/2000 (25),25,1.76,Spain,€2.00m,01/09/2025,30/06/2026,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/unai-vencedor/profil/spieler/610083,176.0
+Roger Brugué,557057,Levante,Left Winger,"                0
+0    Right Winger
+1  Centre-Forward",04/11/1996 (29),29,1.74,Spain,€2.00m,01/07/2021,30/06/2028,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/roger-brugue/profil/spieler/557057,174.0
+Carlos Álvarez,668179,Levante,Right Winger,"                    0
+0  Attacking Midfield
+1         Left Winger",06/08/2003 (22),22,1.68,Spain,€15.00m,12/08/2023,30/06/2027,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/carlos-alvarez/profil/spieler/668179,168.0
+Iker Losada,632741,Levante,Second Striker,"              0
+0  Right Winger
+1   Left Winger",01/08/2001 (24),24,1.75,Spain,€1.50m,21/08/2025,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/iker-losada/profil/spieler/632741,175.0
+Karl Etta Eyong,1038950,Levante,Centre-Forward,,14/10/2003 (22),22,1.81,Cameroon,€20.00m,01/09/2025,30/06/2029,02/10/2025,['Cameroon'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/karl-etta-eyong/profil/spieler/1038950,181.0
+Iván Romero,628886,Levante,Centre-Forward,"              0
+0  Right Winger
+1   Left Winger",10/04/2001 (24),24,1.73,Spain,€7.50m,12/08/2023,30/06/2028,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ivan-romero/profil/spieler/628886,173.0
+Goduine Koyalipou,525140,Levante,Centre-Forward,"              0
+0  Right Winger",15/02/2000 (25),25,1.84,Central African Republic,€2.50m,29/07/2025,30/06/2026,03/06/2025,"['France', 'Central African Republic']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/goduine-koyalipou/profil/spieler/525140,184.0
+Carlos Espí,1063338,Levante,Centre-Forward,,24/07/2005 (20),20,1.94,Spain,€2.00m,01/07/2024,30/06/2027,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/carlos-espi/profil/spieler/1063338,194.0
+José Luis Morales,252677,Levante,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",23/07/1987 (38),38,1.8,Spain,€500k,05/07/2024,30/06/2026,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jose-luis-morales/profil/spieler/252677,180.0
+Leo Román,562742,RCD Mallorca,Goalkeeper,,06/07/2000 (25),25,1.89,Spain,€5.00m,01/07/2022,30/06/2030,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/leo-roman/profil/spieler/562742,189.0
+Lucas Bergström,490606,RCD Mallorca,Goalkeeper,,05/09/2002 (23),23,2.05,Finland,€700k,15/07/2025,30/06/2027,30/05/2025,['Finland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lucas-bergstrom/profil/spieler/490606,205.0
+Iván Cuéllar,27493,RCD Mallorca,Goalkeeper,,27/05/1984 (41),41,1.87,Spain,€100k,28/08/2023,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ivan-cuellar/profil/spieler/27493,187.0
+Marash Kumbulla,371371,RCD Mallorca,Centre-Back,,08/02/2000 (25),25,1.91,Albania,€7.50m,18/08/2025,30/06/2026,09/06/2025,"['Albania', 'Italy']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marash-kumbulla/profil/spieler/371371,191.0
+Martin Valjent,277384,RCD Mallorca,Centre-Back,,11/12/1995 (29),29,1.87,Slovakia,€5.00m,01/07/2019,30/06/2029,02/10/2025,['Slovakia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/martin-valjent/profil/spieler/277384,187.0
+Antonio Raíllo,278296,RCD Mallorca,Centre-Back,,08/10/1991 (34),34,1.87,Spain,€1.80m,01/07/2016,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/antonio-raillo/profil/spieler/278296,187.0
+David López,947431,RCD Mallorca,Centre-Back,,03/02/2003 (22),22,1.95,Spain,€500k,31/01/2024,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/david-lopez/profil/spieler/947431,195.0
+Johan Mojica,262939,RCD Mallorca,Left-Back,,21/08/1992 (33),33,1.85,Colombia,€2.00m,23/07/2024,30/06/2027,09/06/2025,"['Spain', 'Colombia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/johan-mojica/profil/spieler/262939,185.0
+Toni Lato,320271,RCD Mallorca,Left-Back,,21/11/1997 (28),28,1.71,Spain,€1.80m,01/07/2023,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/toni-lato/profil/spieler/320271,171.0
+Pablo Maffeo,251876,RCD Mallorca,Right-Back,"                0
+0  Right Midfield",12/07/1997 (28),28,1.72,Argentina,€5.00m,01/07/2022,30/06/2027,09/06/2025,"['Spain', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pablo-maffeo/profil/spieler/251876,172.0
+Mateu Morey,388513,RCD Mallorca,Right-Back,,02/03/2000 (25),25,1.73,Spain,€1.50m,05/07/2024,30/06/2027,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mateu-morey/profil/spieler/388513,173.0
+Samú Costa,657430,RCD Mallorca,Defensive Midfield,"                  0
+0  Central Midfield",27/11/2000 (24),24,1.85,Portugal,€15.00m,10/08/2023,30/06/2028,09/06/2025,['Portugal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/samu-costa/profil/spieler/657430,185.0
+Omar Mascarell,142031,RCD Mallorca,Defensive Midfield,"                  0
+0  Central Midfield
+1       Centre-Back",02/02/1993 (32),32,1.81,Equatorial Guinea,€900k,01/07/2023,30/06/2026,09/06/2025,"['Spain', 'Equatorial Guinea']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/omar-mascarell/profil/spieler/142031,181.0
+Sergi Darder,142021,RCD Mallorca,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",22/12/1993 (31),31,1.8,Spain,€4.00m,11/08/2023,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sergi-darder/profil/spieler/142021,180.0
+Antonio Sánchez,513031,RCD Mallorca,Central Midfield,"                    0
+0  Attacking Midfield
+1        Right Winger",22/04/1997 (28),28,1.79,Spain,€2.50m,01/07/2018,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/antonio-sanchez/profil/spieler/513031,179.0
+Manu Morlanes,335225,RCD Mallorca,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",12/01/1999 (26),26,1.78,Spain,€2.50m,01/07/2023,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/manu-morlanes/profil/spieler/335225,178.0
+Pablo Torre,720038,RCD Mallorca,Attacking Midfield,"                  0
+0  Central Midfield
+1       Left Winger",03/04/2003 (22),22,1.73,Spain,€6.00m,14/07/2025,30/06/2029,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pablo-torre/profil/spieler/720038,173.0
+Dani Rodríguez,139435,RCD Mallorca,Attacking Midfield,"              0
+0  Right Winger
+1   Left Winger",06/06/1988 (37),37,1.78,Spain,€100k,01/07/2018,30/06/2026,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dani-rodriguez/profil/spieler/139435,178.0
+Jan Virgili,1301775,RCD Mallorca,Left Winger,"              0
+0  Right Winger
+1    Right-Back",26/07/2006 (19),19,1.77,Spain,€10.00m,28/08/2025,30/06/2030,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jan-virgili/profil/spieler/1301775,177.0
+Javi Llabrés,706138,RCD Mallorca,Left Winger,"                0
+0  Second Striker
+1    Right Winger",11/09/2002 (23),23,1.74,Spain,€800k,01/07/2022,30/06/2026,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/javi-llabres/profil/spieler/706138,174.0
+Takuma Asano,245744,RCD Mallorca,Right Winger,"                0
+0     Left Winger
+1  Centre-Forward",10/11/1994 (31),31,1.73,Japan,€2.00m,06/07/2024,30/06/2026,02/10/2025,['Japan'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/takuma-asano/profil/spieler/245744,173.0
+Vedat Muriqi,256267,RCD Mallorca,Centre-Forward,,24/04/1994 (31),31,1.94,Kosovo,€5.00m,22/07/2022,30/06/2029,09/06/2025,"['Yugoslavia (Republic)', 'Kosovo', 'Albania']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/vedat-muriqi/profil/spieler/256267,194.0
+Mateo Joseph,834742,RCD Mallorca,Centre-Forward,,19/10/2003 (22),22,1.85,Spain,€3.50m,09/08/2025,30/06/2026,27/05/2025,"['England', 'Spain']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mateo-joseph/profil/spieler/834742,185.0
+Abdón Prats,177452,RCD Mallorca,Centre-Forward,,07/12/1992 (32),32,1.81,Spain,€1.00m,04/07/2017,30/06/2028,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/abdon-prats/profil/spieler/177452,181.0
+Marc Domènech,1296876,RCD Mallorca,Centre-Forward,"             0
+0  Left Winger",01/12/2006 (18),18,1.82,Spain,€1.00m,01/07/2025,30/06/2029,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marc-domenech/profil/spieler/1296876,182.0
+Iñaki Peña,283170,Elche CF,Goalkeeper,,02/03/1999 (26),26,1.84,Spain,€8.00m,27/08/2025,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/inaki-pena/profil/spieler/283170,184.0
+Alejandro Iturbe,618801,Elche CF,Goalkeeper,,02/09/2003 (22),22,1.86,Spain,€2.00m,16/07/2025,30/06/2029,25/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alejandro-iturbe/profil/spieler/618801,186.0
+Matías Dituro,144128,Elche CF,Goalkeeper,,08/05/1987 (38),38,1.91,Argentina,€200k,08/01/2024,30/06/2026,24/06/2025,"['Argentina', 'Chile']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/matias-dituro/profil/spieler/144128,191.0
+David Affengruber,452483,Elche CF,Centre-Back,"                    0
+0  Defensive Midfield",19/03/2001 (24),24,1.85,Austria,€7.50m,28/08/2024,30/06/2027,02/10/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/david-affengruber/profil/spieler/452483,185.0
+Víctor Chust,495625,Elche CF,Centre-Back,,05/03/2000 (25),25,1.84,Spain,€2.50m,07/08/2025,30/06/2026,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/victor-chust/profil/spieler/495625,184.0
+Bambo Diaby,435493,Elche CF,Centre-Back,"                    0
+0          Right-Back
+1  Defensive Midfield",17/12/1997 (27),27,1.88,Spain,€800k,22/08/2024,30/06/2027,24/06/2025,"['Spain', 'Senegal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/bambo-diaby/profil/spieler/435493,188.0
+John Donald,627290,Elche CF,Centre-Back,"                    0
+0  Defensive Midfield
+1    Central Midfield",25/09/2000 (25),25,1.82,Spain,€800k,01/07/2022,30/06/2028,24/06/2025,"['Spain', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/john-donald/profil/spieler/627290,182.0
+Pedro Bigas,203043,Elche CF,Centre-Back,"           0
+0  Left-Back",15/05/1990 (35),35,1.81,Spain,€400k,07/07/2021,30/06/2026,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pedro-bigas/profil/spieler/203043,181.0
+Adrià Pedrosa,501418,Elche CF,Left-Back,"             0
+0  Left Winger",13/05/1998 (27),27,1.72,Spain,€4.00m,01/09/2025,30/06/2026,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adria-pedrosa/profil/spieler/501418,172.0
+Léo Pétrot,412829,Elche CF,Left-Back,"             0
+0  Centre-Back",15/04/1997 (28),28,1.88,France,€900k,11/07/2025,30/06/2026,03/06/2025,['France'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/leo-petrot/profil/spieler/412829,188.0
+Héctor Fort,937955,Elche CF,Right-Back,"           0
+0  Left-Back",02/08/2006 (19),19,1.85,Spain,€10.00m,01/09/2025,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/hector-fort/profil/spieler/937955,185.0
+Álvaro Núñez,626953,Elche CF,Right-Back,,07/07/2000 (25),25,1.77,Spain,€3.00m,01/07/2024,30/06/2026,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alvaro-nunez/profil/spieler/626953,177.0
+Federico Redondo,909758,Elche CF,Defensive Midfield,"                  0
+0  Central Midfield",18/01/2003 (22),22,1.88,Argentina,€5.00m,14/08/2025,30/06/2030,05/06/2025,"['Spain', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/federico-redondo/profil/spieler/909758,188.0
+Marc Aguado,531404,Elche CF,Defensive Midfield,"                  0
+0  Central Midfield",22/02/2000 (25),25,1.82,Spain,€2.00m,03/02/2025,30/06/2027,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marc-aguado/profil/spieler/531404,182.0
+Rodrigo Mendoza,961297,Elche CF,Central Midfield,"                    0
+0  Attacking Midfield",15/03/2005 (20),20,1.82,Spain,€9.00m,01/07/2023,30/06/2028,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rodrigo-mendoza/profil/spieler/961297,182.0
+Martim Neto,549027,Elche CF,Central Midfield,"                    0
+0  Attacking Midfield",14/01/2003 (22),22,1.85,Portugal,€5.00m,30/07/2025,30/06/2028,02/10/2025,['Portugal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/martim-neto/profil/spieler/549027,185.0
+Aleix Febas,217144,Elche CF,Central Midfield,"                    0
+0  Attacking Midfield",02/02/1996 (29),29,1.72,Spain,€3.00m,06/07/2023,30/06/2026,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/aleix-febas/profil/spieler/217144,172.0
+Yago Santiago,706947,Elche CF,Left Winger,"                    0
+0  Attacking Midfield
+1        Right Winger",15/04/2003 (22),22,1.8,Spain,€800k,30/07/2024,30/06/2027,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yago-santiago/profil/spieler/706947,180.0
+Grady Diangana,342048,Elche CF,Right Winger,"                    0
+0         Left Winger
+1  Attacking Midfield",19/04/1998 (27),27,1.8,DR Congo,€3.50m,30/08/2025,30/06/2027,27/05/2025,"['England', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/grady-diangana/profil/spieler/342048,180.0
+Germán Valera,548188,Elche CF,Right Winger,"             0
+0  Left Winger",16/03/2002 (23),23,1.7,Spain,€1.50m,03/07/2025,30/06/2027,24/06/2025,"['Spain', 'Lithuania']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/german-valera/profil/spieler/548188,170.0
+Josan,277533,Elche CF,Right Winger,"            0
+0  Right-Back",03/12/1989 (35),35,1.76,Spain,€200k,01/01/2018,30/06/2026,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/josan/profil/spieler/277533,176.0
+Adam Boayar,1064506,Elche CF,Second Striker,"                0
+0  Centre-Forward",13/10/2005 (20),20,1.8,Morocco,€500k,01/07/2023,30/06/2027,24/06/2025,"['Spain', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adam-boayar/profil/spieler/1064506,180.0
+Ali Houary,1064538,Elche CF,Second Striker,"             0
+0  Left Winger",05/08/2005 (20),20,1.78,Morocco,€300k,01/07/2025,30/06/2028,02/10/2025,"['Spain', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ali-houary/profil/spieler/1064538,178.0
+Álvaro Rodríguez,948275,Elche CF,Centre-Forward,,14/07/2004 (21),21,1.93,Uruguay,€4.00m,22/07/2025,30/06/2029,02/10/2025,"['Uruguay', 'Spain']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alvaro-rodriguez/profil/spieler/948275,193.0
+André Silva,198008,Elche CF,Centre-Forward,,06/11/1995 (30),30,1.86,Portugal,€3.00m,18/08/2025,30/06/2026,02/10/2025,['Portugal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/andre-silva/profil/spieler/198008,186.0
+Rafa Mir,361254,Elche CF,Centre-Forward,"              0
+0  Right Winger
+1   Left Winger",18/06/1997 (28),28,1.91,Spain,€2.00m,17/08/2025,30/06/2026,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rafa-mir/profil/spieler/361254,191.0
+Antonio Sivera,298197,Alavés,Goalkeeper,,11/08/1996 (29),29,1.85,Spain,€6.00m,19/07/2017,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/antonio-sivera/profil/spieler/298197,185.0
+Raúl Fernández,54217,Alavés,Goalkeeper,,13/03/1988 (37),37,1.95,Spain,€200k,14/07/2025,30/06/2026,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/raul-fernandez/profil/spieler/54217,195.0
+Jon Pacheco,580560,Alavés,Centre-Back,,08/01/2001 (24),24,1.84,Spain,€4.00m,25/08/2025,30/06/2026,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jon-pacheco/profil/spieler/580560,184.0
+Moussa Diarra,694509,Alavés,Centre-Back,"           0
+0  Left-Back",10/11/2000 (25),25,1.85,Mali,€1.80m,18/07/2024,30/06/2028,09/06/2025,"['France', 'Mali']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/moussa-diarra/profil/spieler/694509,185.0
+Facundo Garcés,533354,Alavés,Centre-Back,,05/09/1999 (26),26,1.91,Malaysia,€1.00m,01/01/2025,30/06/2028,02/10/2025,"['Argentina', 'Malaysia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/facundo-garces/profil/spieler/533354,191.0
+Nikola Maras,258475,Alavés,Centre-Back,,19/12/1995 (29),29,1.89,Serbia,€1.00m,01/07/2023,30/06/2027,24/06/2025,"['Yugoslavia (Republic)', 'Serbia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nikola-maras/profil/spieler/258475,189.0
+Youssef Enríquez,741289,Alavés,Left-Back,,07/10/2005 (20),20,1.7,Morocco,€3.00m,16/07/2025,30/06/2029,02/10/2025,"['Spain', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/youssef-enriquez/profil/spieler/741289,170.0
+Victor Parada,591957,Alavés,Left-Back,"             0
+0  Centre-Back",04/04/2002 (23),23,1.85,Spain,€1.00m,01/07/2024,30/06/2029,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/victor-parada/profil/spieler/591957,185.0
+Nahuel Tenaglia,533568,Alavés,Right-Back,"             0
+0  Centre-Back",21/02/1996 (29),29,1.81,Argentina,€3.00m,20/08/2023,30/06/2027,09/06/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nahuel-tenaglia/profil/spieler/533568,181.0
+Jonny Otto,175446,Alavés,Right-Back,"             0
+0    Left-Back
+1  Centre-Back",03/03/1994 (31),31,1.75,Spain,€3.00m,02/07/2025,30/06/2027,23/05/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jonny-otto/profil/spieler/175446,175.0
+Antonio Blanco,495621,Alavés,Defensive Midfield,"                  0
+0  Central Midfield",23/07/2000 (25),25,1.76,Spain,€10.00m,25/07/2023,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/antonio-blanco/profil/spieler/495621,176.0
+Carlos Protesoni,431190,Alavés,Defensive Midfield,"                  0
+0  Central Midfield",30/03/1998 (27),27,1.85,Uruguay,€1.20m,01/07/2022,30/06/2026,09/06/2025,"['Uruguay', 'Italy']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/carlos-protesoni/profil/spieler/431190,185.0
+Ander Guevara,465967,Alavés,Central Midfield,"                    0
+0  Defensive Midfield",07/07/1997 (28),28,1.8,Spain,€3.50m,09/07/2023,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ander-guevara/profil/spieler/465967,180.0
+Carles Aleñá,284854,Alavés,Central Midfield,"                    0
+0  Attacking Midfield
+1        Right Winger",05/01/1998 (27),27,1.8,Spain,€3.00m,24/07/2025,30/06/2029,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/carles-alena/profil/spieler/284854,180.0
+Jon Guridi,289257,Alavés,Central Midfield,"                    0
+0  Attacking Midfield",28/02/1995 (30),30,1.79,Spain,€3.00m,11/07/2022,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jon-guridi/profil/spieler/289257,179.0
+Pablo Ibáñez,785353,Alavés,Central Midfield,,20/09/1998 (27),27,1.79,Spain,€3.00m,01/07/2025,30/06/2030,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pablo-ibanez/profil/spieler/785353,179.0
+Calebe,798114,Alavés,Attacking Midfield,"                  0
+0  Central Midfield
+1      Right Winger",30/04/2000 (25),25,1.73,Brazil,€2.00m,22/07/2025,30/06/2026,06/06/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/calebe/profil/spieler/798114,173.0
+Denis Suárez,165007,Alavés,Attacking Midfield,"                  0
+0       Left Winger
+1  Central Midfield",06/01/1994 (31),31,1.76,Spain,€1.20m,29/08/2025,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/denis-suarez/profil/spieler/165007,176.0
+Abde Rebbach,718034,Alavés,Left Winger,"                0
+0    Right Winger
+1  Second Striker",11/08/1998 (27),27,1.76,Algeria,€700k,01/07/2022,30/06/2028,24/06/2025,"['Spain', 'Algeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/abde-rebbach/profil/spieler/718034,176.0
+Carlos Vicente,540536,Alavés,Right Winger,"            0
+0  Right-Back",23/04/1999 (26),26,1.79,Spain,€10.00m,01/01/2024,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/carlos-vicente/profil/spieler/540536,179.0
+Lucas Boyé,334222,Alavés,Centre-Forward,"             0
+0  Left Winger",28/02/1996 (29),29,1.83,Argentina,€5.00m,22/08/2025,30/06/2029,02/10/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lucas-boye/profil/spieler/334222,183.0
+Toni Martínez,302371,Alavés,Centre-Forward,,30/06/1997 (28),28,1.87,Spain,€3.00m,27/08/2024,30/06/2028,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/toni-martinez/profil/spieler/302371,187.0
+Mariano Díaz,225020,Alavés,Centre-Forward,,01/08/1993 (32),32,1.8,Dominican Republic,€800k,07/08/2025,30/06/2027,04/04/2025,"['Spain', 'Dominican Republic']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mariano-diaz/profil/spieler/225020,180.0
+David Soria,226012,Getafe,Goalkeeper,,04/04/1993 (32),32,1.92,Spain,€3.00m,13/07/2018,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/david-soria/profil/spieler/226012,192.0
+Jiri Letacek,339079,Getafe,Goalkeeper,,09/01/1999 (26),26,1.96,Czech Republic,€2.00m,13/07/2024,30/06/2028,09/06/2025,['Czech Republic'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jiri-letacek/profil/spieler/339079,196.0
+Abdel Abqar,559979,Getafe,Centre-Back,,10/03/1999 (26),26,1.88,Morocco,€7.50m,29/07/2025,30/06/2028,09/06/2025,['Morocco'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/abdel-abqar/profil/spieler/559979,188.0
+Dakonam Djené,221150,Getafe,Centre-Back,"                    0
+0          Right-Back
+1  Defensive Midfield",31/12/1991 (33),33,1.78,Togo,€1.80m,24/07/2017,30/06/2026,09/06/2025,['Togo'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dakonam-djene/profil/spieler/221150,178.0
+Domingos Duarte,257376,Getafe,Centre-Back,,10/03/1995 (30),30,1.92,Portugal,€800k,11/07/2022,30/06/2026,09/06/2025,['Portugal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/domingos-duarte/profil/spieler/257376,192.0
+Diego Rico,249513,Getafe,Left-Back,"             0
+0  Centre-Back",23/02/1993 (32),32,1.83,Spain,€1.20m,16/07/2024,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/diego-rico/profil/spieler/249513,183.0
+Davinchi,1268764,Getafe,Left-Back,,16/10/2007 (18),18,1.82,Spain,€1.00m,03/07/2025,30/06/2028,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/davinchi/profil/spieler/1268764,182.0
+Juan Iglesias,390688,Getafe,Right-Back,"              0
+0     Left-Back
+1  Right Winger",03/07/1998 (27),27,1.87,Spain,€3.50m,01/07/2021,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/juan-iglesias/profil/spieler/390688,187.0
+Kiko Femenía,76467,Getafe,Right-Back,"              0
+0  Right Winger",02/02/1991 (34),34,1.74,Spain,€900k,01/07/2025,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kiko-femenia/profil/spieler/76467,174.0
+Allan Nyom,111508,Getafe,Right-Back,"           0
+0  Left-Back",10/05/1988 (37),37,1.89,Cameroon,€300k,20/09/2025,30/06/2026,09/06/2025,"['France', 'Cameroon']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/allan-nyom/profil/spieler/111508,189.0
+Ismael Bekhoucha,1164331,Getafe,Right-Back,,20/11/2004 (21),21,1.76,Morocco,€300k,01/07/2025,30/06/2028,09/06/2025,"['Spain', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ismael-bekhoucha/profil/spieler/1164331,176.0
+Yvan Neyou,469669,Getafe,Defensive Midfield,"                  0
+0  Central Midfield",03/01/1997 (28),28,1.8,Cameroon,€3.00m,01/07/2025,30/06/2028,09/06/2025,"['France', 'Cameroon']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yvan-neyou/profil/spieler/469669,180.0
+Mario Martín,948273,Getafe,Defensive Midfield,"                  0
+0  Central Midfield",05/03/2004 (21),21,1.77,Spain,€3.00m,29/07/2025,30/06/2026,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mario-martin/profil/spieler/948273,177.0
+Mauro Arambarri,290249,Getafe,Central Midfield,"                    0
+0  Defensive Midfield",30/09/1995 (30),30,1.75,Uruguay,€12.00m,01/07/2018,30/06/2028,09/06/2025,"['Uruguay', 'Spain']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mauro-arambarri/profil/spieler/290249,175.0
+Luis Milla,281989,Getafe,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",07/10/1994 (31),31,1.75,Spain,€4.00m,25/07/2022,30/06/2027,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luis-milla/profil/spieler/281989,175.0
+Javi Muñoz,282421,Getafe,Central Midfield,"                    0
+0  Attacking Midfield",28/02/1995 (30),30,1.77,Spain,€2.00m,04/07/2025,30/06/2028,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/javi-munoz/profil/spieler/282421,177.0
+Adrián Liso,1061122,Getafe,Left Winger,"                0
+0  Centre-Forward",02/04/2005 (20),20,1.82,Spain,€4.00m,02/07/2025,30/06/2026,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adrian-liso/profil/spieler/1061122,182.0
+Coba da Costa,1033005,Getafe,Left Winger,"                0
+0  Centre-Forward
+1    Right Winger",26/07/2002 (23),23,1.82,Guinea-Bissau,€2.50m,01/12/2024,30/06/2029,02/10/2025,"['Spain', 'Guinea-Bissau']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/coba-da-costa/profil/spieler/1033005,182.0
+Juanmi,126737,Getafe,Left Winger,"                0
+0    Right Winger
+1  Centre-Forward",20/05/1993 (32),32,1.72,Spain,€1.50m,01/07/2025,30/06/2027,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/juanmi/profil/spieler/126737,172.0
+Abu Kamara,696764,Getafe,Right Winger,"                0
+0  Centre-Forward
+1     Left Winger",21/07/2003 (22),22,1.83,England,€4.00m,01/09/2025,30/06/2026,27/05/2025,"['England', 'Sierra Leone']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/abu-kamara/profil/spieler/696764,183.0
+Álex Sancris,560705,Getafe,Right Winger,"             0
+0  Left Winger",18/01/1997 (28),28,1.81,Spain,€2.00m,02/07/2025,30/06/2028,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alex-sancris/profil/spieler/560705,181.0
+Borja Mayoral,298976,Getafe,Centre-Forward,,05/04/1997 (28),28,1.82,Spain,€7.50m,01/08/2022,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/borja-mayoral/profil/spieler/298976,182.0
+Horațiu Moldovan,525438,Real Oviedo,Goalkeeper,,20/01/1998 (27),27,1.86,Romania,€2.20m,18/07/2025,30/06/2026,02/06/2025,['Romania'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/horatiu-moldovan/profil/spieler/525438,186.0
+Aarón Escandell,284430,Real Oviedo,Goalkeeper,,27/09/1995 (30),30,1.84,Spain,€2.00m,10/07/2024,30/06/2027,02/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/aaron-escandell/profil/spieler/284430,184.0
+David Carmo,498237,Real Oviedo,Centre-Back,,19/07/1999 (26),26,1.96,Angola,€10.00m,29/08/2025,30/06/2026,23/05/2025,"['Angola', 'Portugal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/david-carmo/profil/spieler/498237,196.0
+Eric Bailly,286384,Real Oviedo,Centre-Back,,12/04/1994 (31),31,1.87,Cote d'Ivoire,€2.00m,18/08/2025,30/06/2027,09/06/2025,"[""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/eric-bailly/profil/spieler/286384,187.0
+David Costas,276111,Real Oviedo,Centre-Back,"            0
+0  Right-Back",26/03/1995 (30),30,1.84,Spain,€1.40m,12/07/2021,30/06/2026,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/david-costas/profil/spieler/276111,184.0
+Dani Calvo,326416,Real Oviedo,Centre-Back,,01/04/1994 (31),31,1.93,Spain,€1.20m,27/07/2021,30/06/2026,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dani-calvo/profil/spieler/326416,193.0
+Oier Luengo,447823,Real Oviedo,Centre-Back,"            0
+0  Right-Back",11/11/1997 (28),28,1.85,Spain,€1.00m,04/07/2022,30/06/2027,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/oier-luengo/profil/spieler/447823,185.0
+Javi López,568158,Real Oviedo,Left-Back,,25/03/2002 (23),23,1.83,Spain,€7.50m,31/08/2025,30/06/2026,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/javi-lopez/profil/spieler/568158,183.0
+Rahim Alhassane,929899,Real Oviedo,Left-Back,"             0
+0  Centre-Back",01/01/2002 (23),23,1.84,Niger,€1.50m,15/07/2024,30/06/2027,02/10/2025,"['Spain', 'Niger', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rahim-alhassane/profil/spieler/929899,184.0
+Nacho Vidal,216870,Real Oviedo,Right-Back,,24/01/1995 (30),30,1.8,Spain,€1.80m,22/01/2025,30/06/2027,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nacho-vidal/profil/spieler/216870,180.0
+Lucas Ahijado,349884,Real Oviedo,Right-Back,"              0
+0  Right Winger
+1     Left-Back",30/01/1995 (30),30,1.74,Spain,€800k,01/07/2019,30/06/2026,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lucas-ahijado/profil/spieler/349884,174.0
+Álvaro Lemos,230222,Real Oviedo,Right-Back,"              0
+0  Right Winger",30/03/1993 (32),32,1.77,Spain,€500k,19/07/2024,30/06/2026,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alvaro-lemos/profil/spieler/230222,177.0
+Leander Dendoncker,168157,Real Oviedo,Defensive Midfield,"                  0
+0  Central Midfield
+1       Centre-Back",15/04/1995 (30),30,1.88,Belgium,€4.50m,19/08/2025,30/06/2027,12/06/2025,['Belgium'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/leander-dendoncker/profil/spieler/168157,188.0
+Santiago Colombatto,395122,Real Oviedo,Defensive Midfield,"                  0
+0  Central Midfield",17/01/1997 (28),28,1.78,Argentina,€3.00m,25/08/2023,30/06/2026,24/06/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/santiago-colombatto/profil/spieler/395122,178.0
+Alberto Reina,603696,Real Oviedo,Central Midfield,"                    0
+0  Attacking Midfield",19/11/1997 (28),28,1.79,Spain,€1.50m,06/07/2025,30/06/2027,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alberto-reina/profil/spieler/603696,179.0
+Kwasi Sibo,538006,Real Oviedo,Central Midfield,"                    0
+0  Attacking Midfield",24/06/1998 (27),27,1.83,Ghana,€1.50m,04/07/2024,30/06/2026,02/10/2025,['Ghana'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kwasi-sibo/profil/spieler/538006,183.0
+Santi Cazorla,15799,Real Oviedo,Central Midfield,"                    0
+0  Attacking Midfield
+1         Left Winger",13/12/1984 (40),40,1.68,Spain,€200k,16/08/2023,30/06/2026,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/santi-cazorla/profil/spieler/15799,168.0
+Luka Ilic,429790,Real Oviedo,Attacking Midfield,"                  0
+0  Central Midfield
+1    Right Midfield",02/07/1999 (26),26,1.85,Serbia,€2.00m,18/07/2025,30/06/2028,12/06/2025,"['Yugoslavia (Republic)', 'Serbia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luka-ilic/profil/spieler/429790,185.0
+Brandon Dominguès,804708,Real Oviedo,Attacking Midfield,"              0
+0   Left Winger
+1  Right Winger",06/06/2000 (25),25,1.72,France,€700k,01/07/2025,30/06/2028,28/05/2025,"['France', 'Portugal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/brandon-domingues/profil/spieler/804708,172.0
+Ilyas Chaira,593412,Real Oviedo,Left Winger,"              0
+0  Right Winger",02/02/2001 (24),24,1.79,Morocco,€4.00m,11/07/2025,30/06/2028,02/10/2025,"['Spain', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ilyas-chaira/profil/spieler/593412,179.0
+Josip Brekalo,293169,Real Oviedo,Left Winger,"                0
+0    Right Winger
+1  Second Striker",23/06/1998 (27),27,1.75,Croatia,€3.00m,21/08/2025,30/06/2027,02/10/2025,['Croatia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/josip-brekalo/profil/spieler/293169,175.0
+Ovie Ejaria,337284,Real Oviedo,Left Winger,"                    0
+0    Central Midfield
+1  Attacking Midfield",18/11/1997 (28),28,1.88,England,€300k,13/08/2025,30/06/2026,04/04/2025,"['England', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ovie-ejaria/profil/spieler/337284,188.0
+Haissem Hassan,620164,Real Oviedo,Right Winger,"             0
+0  Left Winger",08/02/2002 (23),23,1.75,France,€5.00m,11/08/2024,30/06/2027,02/10/2025,"['France', 'Egypt']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/haissem-hassan/profil/spieler/620164,175.0
+Federico Viñas,578419,Real Oviedo,Centre-Forward,,30/06/1998 (27),27,1.82,Uruguay,€2.00m,28/08/2024,30/06/2026,24/06/2025,['Uruguay'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/federico-vinas/profil/spieler/578419,182.0
+Álex Forés,709380,Real Oviedo,Centre-Forward,,12/04/2001 (24),24,1.79,Spain,€700k,24/07/2025,30/06/2026,24/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alex-fores/profil/spieler/709380,179.0
+Salomón Rondón,80197,Real Oviedo,Centre-Forward,,16/09/1989 (36),36,1.89,Venezuela,€500k,03/07/2025,30/06/2026,02/10/2025,['Venezuela'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/salomon-rondon/profil/spieler/80197,189.0

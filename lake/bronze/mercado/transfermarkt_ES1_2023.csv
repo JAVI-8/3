@@ -1,0 +1,775 @@
+﻿club,club_id,player,player_id,market_value_str,market_value_eur,player_url,player_norm,club_norm,season,competition_code
+Real Madrid,418,Thibaut Courtois,108390,€28.00m,28000000.0,https://www.transfermarkt.com/thibaut-courtois/profil/spieler/108390,thibaut courtois,real madrid,2023,ES1
+Real Madrid,418,Andriy Lunin,404839,€25.00m,25000000.0,https://www.transfermarkt.com/andriy-lunin/profil/spieler/404839,andriy lunin,real madrid,2023,ES1
+Real Madrid,418,Kepa Arrizabalaga,192279,€12.00m,12000000.0,https://www.transfermarkt.com/kepa-arrizabalaga/profil/spieler/192279,kepa arrizabalaga,real madrid,2023,ES1
+Real Madrid,418,Lucas Cañizares,568154,€400k,400000.0,https://www.transfermarkt.com/lucas-canizares/profil/spieler/568154,lucas canizares,real madrid,2023,ES1
+Real Madrid,418,Mario de Luis,717952,€400k,400000.0,https://www.transfermarkt.com/mario-de-luis/profil/spieler/717952,mario de luis,real madrid,2023,ES1
+Real Madrid,418,Diego Piñeiro,926850,€50k,50000.0,https://www.transfermarkt.com/diego-pineiro/profil/spieler/926850,diego pineiro,real madrid,2023,ES1
+Real Madrid,418,Fran González,1055220,-,,https://www.transfermarkt.com/fran-gonzalez/profil/spieler/1055220,fran gonzalez,real madrid,2023,ES1
+Real Madrid,418,Éder Militão,401530,€60.00m,60000000.0,https://www.transfermarkt.com/eder-militao/profil/spieler/401530,eder militao,real madrid,2023,ES1
+Real Madrid,418,Antonio Rüdiger,86202,€25.00m,25000000.0,https://www.transfermarkt.com/antonio-rudiger/profil/spieler/86202,antonio rudiger,real madrid,2023,ES1
+Real Madrid,418,David Alaba,59016,€20.00m,20000000.0,https://www.transfermarkt.com/david-alaba/profil/spieler/59016,david alaba,real madrid,2023,ES1
+Real Madrid,418,Nacho Fernández,58884,€3.00m,3000000.0,https://www.transfermarkt.com/nacho-fernandez/profil/spieler/58884,nacho fernandez,real madrid,2023,ES1
+Real Madrid,418,Álvaro Carrillo,652330,€300k,300000.0,https://www.transfermarkt.com/alvaro-carrillo/profil/spieler/652330,alvaro carrillo,real madrid,2023,ES1
+Real Madrid,418,Edgar Pujol,646745,€250k,250000.0,https://www.transfermarkt.com/edgar-pujol/profil/spieler/646745,edgar pujol,real madrid,2023,ES1
+Real Madrid,418,Jacobo Ramón,948278,€100k,100000.0,https://www.transfermarkt.com/jacobo-ramon/profil/spieler/948278,jacobo ramon,real madrid,2023,ES1
+Real Madrid,418,Ferland Mendy,291417,€22.00m,22000000.0,https://www.transfermarkt.com/ferland-mendy/profil/spieler/291417,ferland mendy,real madrid,2023,ES1
+Real Madrid,418,Fran García,341264,€15.00m,15000000.0,https://www.transfermarkt.com/fran-garcia/profil/spieler/341264,fran garcia,real madrid,2023,ES1
+Real Madrid,418,Daniel Carvajal,138927,€12.00m,12000000.0,https://www.transfermarkt.com/daniel-carvajal/profil/spieler/138927,daniel carvajal,real madrid,2023,ES1
+Real Madrid,418,Lucas Vázquez,221316,€4.00m,4000000.0,https://www.transfermarkt.com/lucas-vazquez/profil/spieler/221316,lucas vazquez,real madrid,2023,ES1
+Real Madrid,418,Vinícius Tobias,743587,€3.00m,3000000.0,https://www.transfermarkt.com/vinicius-tobias/profil/spieler/743587,vinicius tobias,real madrid,2023,ES1
+Real Madrid,418,Álvaro Odriozola,280730,€2.50m,2500000.0,https://www.transfermarkt.com/alvaro-odriozola/profil/spieler/280730,alvaro odriozola,real madrid,2023,ES1
+Real Madrid,418,Aurélien Tchouaméni,413112,€100.00m,100000000.0,https://www.transfermarkt.com/aurelien-tchouameni/profil/spieler/413112,aurelien tchouameni,real madrid,2023,ES1
+Real Madrid,418,Mario Martín,948273,€300k,300000.0,https://www.transfermarkt.com/mario-martin/profil/spieler/948273,mario martin,real madrid,2023,ES1
+Real Madrid,418,Federico Valverde,369081,€120.00m,120000000.0,https://www.transfermarkt.com/federico-valverde/profil/spieler/369081,federico valverde,real madrid,2023,ES1
+Real Madrid,418,Eduardo Camavinga,640428,€100.00m,100000000.0,https://www.transfermarkt.com/eduardo-camavinga/profil/spieler/640428,eduardo camavinga,real madrid,2023,ES1
+Real Madrid,418,Toni Kroos,31909,€10.00m,10000000.0,https://www.transfermarkt.com/toni-kroos/profil/spieler/31909,toni kroos,real madrid,2023,ES1
+Real Madrid,418,Luka Modrić,27992,€6.00m,6000000.0,https://www.transfermarkt.com/luka-modric/profil/spieler/27992,luka modric,real madrid,2023,ES1
+Real Madrid,418,Dani Ceballos,319745,€6.00m,6000000.0,https://www.transfermarkt.com/dani-ceballos/profil/spieler/319745,dani ceballos,real madrid,2023,ES1
+Real Madrid,418,Théo Zidane,337917,€300k,300000.0,https://www.transfermarkt.com/theo-zidane/profil/spieler/337917,theo zidane,real madrid,2023,ES1
+Real Madrid,418,Jude Bellingham,581678,€180.00m,180000000.0,https://www.transfermarkt.com/jude-bellingham/profil/spieler/581678,jude bellingham,real madrid,2023,ES1
+Real Madrid,418,Arda Güler,861410,€30.00m,30000000.0,https://www.transfermarkt.com/arda-guler/profil/spieler/861410,arda guler,real madrid,2023,ES1
+Real Madrid,418,Nico Paz,948294,€10.00m,10000000.0,https://www.transfermarkt.com/nico-paz/profil/spieler/948294,nico paz,real madrid,2023,ES1
+Real Madrid,418,Vinicius Junior,371998,€180.00m,180000000.0,https://www.transfermarkt.com/vinicius-junior/profil/spieler/371998,vinicius junior,real madrid,2023,ES1
+Real Madrid,418,Rodrygo,412363,€110.00m,110000000.0,https://www.transfermarkt.com/rodrygo/profil/spieler/412363,rodrygo,real madrid,2023,ES1
+Real Madrid,418,Brahim Díaz,314678,€40.00m,40000000.0,https://www.transfermarkt.com/brahim-diaz/profil/spieler/314678,brahim diaz,real madrid,2023,ES1
+Real Madrid,418,Joselu,81999,€5.00m,5000000.0,https://www.transfermarkt.com/joselu/profil/spieler/81999,joselu,real madrid,2023,ES1
+Real Madrid,418,Álvaro Rodríguez,948275,€3.50m,3500000.0,https://www.transfermarkt.com/alvaro-rodriguez/profil/spieler/948275,alvaro rodriguez,real madrid,2023,ES1
+Real Madrid,418,Gonzalo García,935230,€1.00m,1000000.0,https://www.transfermarkt.com/gonzalo-garcia/profil/spieler/935230,gonzalo garcia,real madrid,2023,ES1
+FC Barcelona,131,Marc-André ter Stegen,74857,€28.00m,28000000.0,https://www.transfermarkt.com/marc-andre-ter-stegen/profil/spieler/74857,marc-andre ter stegen,fc barcelona,2023,ES1
+FC Barcelona,131,Iñaki Peña,283170,€8.00m,8000000.0,https://www.transfermarkt.com/inaki-pena/profil/spieler/283170,inaki pena,fc barcelona,2023,ES1
+FC Barcelona,131,Ander Astralaga,709955,€1.00m,1000000.0,https://www.transfermarkt.com/ander-astralaga/profil/spieler/709955,ander astralaga,fc barcelona,2023,ES1
+FC Barcelona,131,Diego Kochen,938144,€100k,100000.0,https://www.transfermarkt.com/diego-kochen/profil/spieler/938144,diego kochen,fc barcelona,2023,ES1
+FC Barcelona,131,Áron Yaakobishvili,938145,-,,https://www.transfermarkt.com/aron-yaakobishvili/profil/spieler/938145,aron yaakobishvili,fc barcelona,2023,ES1
+FC Barcelona,131,Ronald Araujo,480267,€70.00m,70000000.0,https://www.transfermarkt.com/ronald-araujo/profil/spieler/480267,ronald araujo,fc barcelona,2023,ES1
+FC Barcelona,131,Andreas Christensen,196948,€40.00m,40000000.0,https://www.transfermarkt.com/andreas-christensen/profil/spieler/196948,andreas christensen,fc barcelona,2023,ES1
+FC Barcelona,131,Pau Cubarsí,962110,€30.00m,30000000.0,https://www.transfermarkt.com/pau-cubarsi/profil/spieler/962110,pau cubarsi,fc barcelona,2023,ES1
+FC Barcelona,131,Eric García,466794,€20.00m,20000000.0,https://www.transfermarkt.com/eric-garcia/profil/spieler/466794,eric garcia,fc barcelona,2023,ES1
+FC Barcelona,131,Mikayil Faye,666974,€10.00m,10000000.0,https://www.transfermarkt.com/mikayil-faye/profil/spieler/666974,mikayil faye,fc barcelona,2023,ES1
+FC Barcelona,131,Iñigo Martínez,158863,€5.00m,5000000.0,https://www.transfermarkt.com/inigo-martinez/profil/spieler/158863,inigo martinez,fc barcelona,2023,ES1
+FC Barcelona,131,Marcos Alonso,112515,€2.00m,2000000.0,https://www.transfermarkt.com/marcos-alonso/profil/spieler/112515,marcos alonso,fc barcelona,2023,ES1
+FC Barcelona,131,Alejandro Balde,636688,€40.00m,40000000.0,https://www.transfermarkt.com/alejandro-balde/profil/spieler/636688,alejandro balde,fc barcelona,2023,ES1
+FC Barcelona,131,Jules Koundé,411975,€45.00m,45000000.0,https://www.transfermarkt.com/jules-kounde/profil/spieler/411975,jules kounde,fc barcelona,2023,ES1
+FC Barcelona,131,João Cancelo,182712,€25.00m,25000000.0,https://www.transfermarkt.com/joao-cancelo/profil/spieler/182712,joao cancelo,fc barcelona,2023,ES1
+FC Barcelona,131,Héctor Fort,937955,€10.00m,10000000.0,https://www.transfermarkt.com/hector-fort/profil/spieler/937955,hector fort,fc barcelona,2023,ES1
+FC Barcelona,131,Marc Casadó,636695,€2.50m,2500000.0,https://www.transfermarkt.com/marc-casado/profil/spieler/636695,marc casado,fc barcelona,2023,ES1
+FC Barcelona,131,Oriol Romeu,66100,€2.00m,2000000.0,https://www.transfermarkt.com/oriol-romeu/profil/spieler/66100,oriol romeu,fc barcelona,2023,ES1
+FC Barcelona,131,Pau Prim,937956,€500k,500000.0,https://www.transfermarkt.com/pau-prim/profil/spieler/937956,pau prim,fc barcelona,2023,ES1
+FC Barcelona,131,Gavi,646740,€90.00m,90000000.0,https://www.transfermarkt.com/gavi/profil/spieler/646740,gavi,fc barcelona,2023,ES1
+FC Barcelona,131,Pedri,683840,€80.00m,80000000.0,https://www.transfermarkt.com/pedri/profil/spieler/683840,pedri,fc barcelona,2023,ES1
+FC Barcelona,131,Frenkie de Jong,326330,€70.00m,70000000.0,https://www.transfermarkt.com/frenkie-de-jong/profil/spieler/326330,frenkie de jong,fc barcelona,2023,ES1
+FC Barcelona,131,İlkay Gündoğan,53622,€15.00m,15000000.0,https://www.transfermarkt.com/ilkay-gundogan/profil/spieler/53622,ilkay gundogan,fc barcelona,2023,ES1
+FC Barcelona,131,Sergi Roberto,85370,€2.50m,2500000.0,https://www.transfermarkt.com/sergi-roberto/profil/spieler/85370,sergi roberto,fc barcelona,2023,ES1
+FC Barcelona,131,Unai Hernández,970633,€800k,800000.0,https://www.transfermarkt.com/unai-hernandez/profil/spieler/970633,unai hernandez,fc barcelona,2023,ES1
+FC Barcelona,131,Aleix Garrido,709966,€500k,500000.0,https://www.transfermarkt.com/aleix-garrido/profil/spieler/709966,aleix garrido,fc barcelona,2023,ES1
+FC Barcelona,131,Fermín López,636703,€30.00m,30000000.0,https://www.transfermarkt.com/fermin-lopez/profil/spieler/636703,fermin lopez,fc barcelona,2023,ES1
+FC Barcelona,131,Raphinha,411295,€50.00m,50000000.0,https://www.transfermarkt.com/raphinha/profil/spieler/411295,raphinha,fc barcelona,2023,ES1
+FC Barcelona,131,Ansu Fati,466810,€25.00m,25000000.0,https://www.transfermarkt.com/ansu-fati/profil/spieler/466810,ansu fati,fc barcelona,2023,ES1
+FC Barcelona,131,Abde Ezzalzouli,724520,€9.00m,9000000.0,https://www.transfermarkt.com/abde-ezzalzouli/profil/spieler/724520,abde ezzalzouli,fc barcelona,2023,ES1
+FC Barcelona,131,Ángel Alarcón,646739,€300k,300000.0,https://www.transfermarkt.com/angel-alarcon/profil/spieler/646739,angel alarcon,fc barcelona,2023,ES1
+FC Barcelona,131,Lamine Yamal,937958,€90.00m,90000000.0,https://www.transfermarkt.com/lamine-yamal/profil/spieler/937958,lamine yamal,fc barcelona,2023,ES1
+FC Barcelona,131,João Félix,462250,€30.00m,30000000.0,https://www.transfermarkt.com/joao-felix/profil/spieler/462250,joao felix,fc barcelona,2023,ES1
+FC Barcelona,131,Ferran Torres,398184,€30.00m,30000000.0,https://www.transfermarkt.com/ferran-torres/profil/spieler/398184,ferran torres,fc barcelona,2023,ES1
+FC Barcelona,131,Vitor Roque,943837,€30.00m,30000000.0,https://www.transfermarkt.com/vitor-roque/profil/spieler/943837,vitor roque,fc barcelona,2023,ES1
+FC Barcelona,131,Robert Lewandowski,38253,€15.00m,15000000.0,https://www.transfermarkt.com/robert-lewandowski/profil/spieler/38253,robert lewandowski,fc barcelona,2023,ES1
+FC Barcelona,131,Marc Guiu,938158,€7.50m,7500000.0,https://www.transfermarkt.com/marc-guiu/profil/spieler/938158,marc guiu,fc barcelona,2023,ES1
+FC Barcelona,131,Pau Víctor,707572,€1.50m,1500000.0,https://www.transfermarkt.com/pau-victor/profil/spieler/707572,pau victor,fc barcelona,2023,ES1
+Real Sociedad,681,Álex Remiro,212862,€25.00m,25000000.0,https://www.transfermarkt.com/alex-remiro/profil/spieler/212862,alex remiro,real sociedad,2023,ES1
+Real Sociedad,681,Gaizka Ayesa,561702,€300k,300000.0,https://www.transfermarkt.com/gaizka-ayesa/profil/spieler/561702,gaizka ayesa,real sociedad,2023,ES1
+Real Sociedad,681,Unai Marrero,625657,€300k,300000.0,https://www.transfermarkt.com/unai-marrero/profil/spieler/625657,unai marrero,real sociedad,2023,ES1
+Real Sociedad,681,Aitor Fraga,668313,€200k,200000.0,https://www.transfermarkt.com/aitor-fraga/profil/spieler/668313,aitor fraga,real sociedad,2023,ES1
+Real Sociedad,681,Robin Le Normand,351809,€40.00m,40000000.0,https://www.transfermarkt.com/robin-le-normand/profil/spieler/351809,robin le normand,real sociedad,2023,ES1
+Real Sociedad,681,Igor Zubeldia,355628,€22.00m,22000000.0,https://www.transfermarkt.com/igor-zubeldia/profil/spieler/355628,igor zubeldia,real sociedad,2023,ES1
+Real Sociedad,681,Jon Pacheco,580560,€15.00m,15000000.0,https://www.transfermarkt.com/jon-pacheco/profil/spieler/580560,jon pacheco,real sociedad,2023,ES1
+Real Sociedad,681,Aritz Elustondo,229804,€5.00m,5000000.0,https://www.transfermarkt.com/aritz-elustondo/profil/spieler/229804,aritz elustondo,real sociedad,2023,ES1
+Real Sociedad,681,Jon Martín,1018938,€2.00m,2000000.0,https://www.transfermarkt.com/jon-martin/profil/spieler/1018938,jon martin,real sociedad,2023,ES1
+Real Sociedad,681,Kieran Tierney,300716,€12.00m,12000000.0,https://www.transfermarkt.com/kieran-tierney/profil/spieler/300716,kieran tierney,real sociedad,2023,ES1
+Real Sociedad,681,Aihen Muñoz,517842,€8.00m,8000000.0,https://www.transfermarkt.com/aihen-munoz/profil/spieler/517842,aihen munoz,real sociedad,2023,ES1
+Real Sociedad,681,Javi Galán,448628,€7.00m,7000000.0,https://www.transfermarkt.com/javi-galan/profil/spieler/448628,javi galan,real sociedad,2023,ES1
+Real Sociedad,681,Diego Rico,249513,€1.50m,1500000.0,https://www.transfermarkt.com/diego-rico/profil/spieler/249513,diego rico,real sociedad,2023,ES1
+Real Sociedad,681,Hamari Traoré,297070,€6.00m,6000000.0,https://www.transfermarkt.com/hamari-traore/profil/spieler/297070,hamari traore,real sociedad,2023,ES1
+Real Sociedad,681,Jon Aramburu,661145,€2.50m,2500000.0,https://www.transfermarkt.com/jon-aramburu/profil/spieler/661145,jon aramburu,real sociedad,2023,ES1
+Real Sociedad,681,Álvaro Odriozola,280730,€2.50m,2500000.0,https://www.transfermarkt.com/alvaro-odriozola/profil/spieler/280730,alvaro odriozola,real sociedad,2023,ES1
+Real Sociedad,681,Iñaki Rupérez,1055860,€150k,150000.0,https://www.transfermarkt.com/inaki-ruperez/profil/spieler/1055860,inaki ruperez,real sociedad,2023,ES1
+Real Sociedad,681,Martín Zubimendi,423440,€50.00m,50000000.0,https://www.transfermarkt.com/martin-zubimendi/profil/spieler/423440,martin zubimendi,real sociedad,2023,ES1
+Real Sociedad,681,Urko González de Zárate,625651,€1.20m,1200000.0,https://www.transfermarkt.com/urko-gonzalez-de-zarate/profil/spieler/625651,urko gonzalez de zarate,real sociedad,2023,ES1
+Real Sociedad,681,Mikel Merino,338424,€50.00m,50000000.0,https://www.transfermarkt.com/mikel-merino/profil/spieler/338424,mikel merino,real sociedad,2023,ES1
+Real Sociedad,681,Beñat Turrientes,634431,€20.00m,20000000.0,https://www.transfermarkt.com/benat-turrientes/profil/spieler/634431,benat turrientes,real sociedad,2023,ES1
+Real Sociedad,681,Jon Ander Olasagasti,625660,€1.20m,1200000.0,https://www.transfermarkt.com/jon-ander-olasagasti/profil/spieler/625660,jon ander olasagasti,real sociedad,2023,ES1
+Real Sociedad,681,Brais Méndez,309110,€40.00m,40000000.0,https://www.transfermarkt.com/brais-mendez/profil/spieler/309110,brais mendez,real sociedad,2023,ES1
+Real Sociedad,681,Arsen Zakharyan,555143,€18.00m,18000000.0,https://www.transfermarkt.com/arsen-zakharyan/profil/spieler/555143,arsen zakharyan,real sociedad,2023,ES1
+Real Sociedad,681,Pablo Marín,907813,€1.50m,1500000.0,https://www.transfermarkt.com/pablo-marin/profil/spieler/907813,pablo marin,real sociedad,2023,ES1
+Real Sociedad,681,Jon Magunazelaia,625655,€1.00m,1000000.0,https://www.transfermarkt.com/jon-magunazelaia/profil/spieler/625655,jon magunazelaia,real sociedad,2023,ES1
+Real Sociedad,681,Ander Barrenetxea,616369,€20.00m,20000000.0,https://www.transfermarkt.com/ander-barrenetxea/profil/spieler/616369,ander barrenetxea,real sociedad,2023,ES1
+Real Sociedad,681,Sheraldo Becker,188888,€10.00m,10000000.0,https://www.transfermarkt.com/sheraldo-becker/profil/spieler/188888,sheraldo becker,real sociedad,2023,ES1
+Real Sociedad,681,Martín Merquelanz,289272,€600k,600000.0,https://www.transfermarkt.com/martin-merquelanz/profil/spieler/289272,martin merquelanz,real sociedad,2023,ES1
+Real Sociedad,681,Takefusa Kubo,405398,€50.00m,50000000.0,https://www.transfermarkt.com/takefusa-kubo/profil/spieler/405398,takefusa kubo,real sociedad,2023,ES1
+Real Sociedad,681,Mohamed-Ali Cho,670847,€10.00m,10000000.0,https://www.transfermarkt.com/mohamed-ali-cho/profil/spieler/670847,mohamed-ali cho,real sociedad,2023,ES1
+Real Sociedad,681,Robert Navarro,563137,€6.00m,6000000.0,https://www.transfermarkt.com/robert-navarro/profil/spieler/563137,robert navarro,real sociedad,2023,ES1
+Real Sociedad,681,Álex Sola,434990,€4.00m,4000000.0,https://www.transfermarkt.com/alex-sola/profil/spieler/434990,alex sola,real sociedad,2023,ES1
+Real Sociedad,681,Alberto Dadie,711377,€250k,250000.0,https://www.transfermarkt.com/alberto-dadie/profil/spieler/711377,alberto dadie,real sociedad,2023,ES1
+Real Sociedad,681,Mikel Oyarzabal,351478,€45.00m,45000000.0,https://www.transfermarkt.com/mikel-oyarzabal/profil/spieler/351478,mikel oyarzabal,real sociedad,2023,ES1
+Real Sociedad,681,Umar Sadiq,337715,€10.00m,10000000.0,https://www.transfermarkt.com/umar-sadiq/profil/spieler/337715,umar sadiq,real sociedad,2023,ES1
+Real Sociedad,681,André Silva,198008,€6.00m,6000000.0,https://www.transfermarkt.com/andre-silva/profil/spieler/198008,andre silva,real sociedad,2023,ES1
+Real Sociedad,681,Jon Karrikaburu,711382,€2.50m,2500000.0,https://www.transfermarkt.com/jon-karrikaburu/profil/spieler/711382,jon karrikaburu,real sociedad,2023,ES1
+Real Sociedad,681,Carlos Fernández,216464,€1.50m,1500000.0,https://www.transfermarkt.com/carlos-fernandez/profil/spieler/216464,carlos fernandez,real sociedad,2023,ES1
+Real Sociedad,681,Bryan Fiabema,581113,€300k,300000.0,https://www.transfermarkt.com/bryan-fiabema/profil/spieler/581113,bryan fiabema,real sociedad,2023,ES1
+Atlético de Madrid,13,Jan Oblak,121483,€28.00m,28000000.0,https://www.transfermarkt.com/jan-oblak/profil/spieler/121483,jan oblak,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Ivo Grbic,226073,€3.50m,3500000.0,https://www.transfermarkt.com/ivo-grbic/profil/spieler/226073,ivo grbic,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Horațiu Moldovan,525438,€2.50m,2500000.0,https://www.transfermarkt.com/horatiu-moldovan/profil/spieler/525438,horatiu moldovan,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Antonio Gomis,930415,€150k,150000.0,https://www.transfermarkt.com/antonio-gomis/profil/spieler/930415,antonio gomis,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Sergio Mestre,973314,€50k,50000.0,https://www.transfermarkt.com/sergio-mestre/profil/spieler/973314,sergio mestre,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Mario Hermoso,281769,€25.00m,25000000.0,https://www.transfermarkt.com/mario-hermoso/profil/spieler/281769,mario hermoso,atletico de madrid,2023,ES1
+Atlético de Madrid,13,José María Giménez,250845,€22.00m,22000000.0,https://www.transfermarkt.com/jose-maria-gimenez/profil/spieler/250845,jose maria gimenez,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Çağlar Söyüncü,320141,€10.00m,10000000.0,https://www.transfermarkt.com/caglar-soyuncu/profil/spieler/320141,caglar soyuncu,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Stefan Savic,107010,€2.50m,2500000.0,https://www.transfermarkt.com/stefan-savic/profil/spieler/107010,stefan savic,atletico de madrid,2023,ES1
+Atlético de Madrid,13,César Azpilicueta,57500,€2.00m,2000000.0,https://www.transfermarkt.com/cesar-azpilicueta/profil/spieler/57500,cesar azpilicueta,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Gabriel Paulista,149498,€2.00m,2000000.0,https://www.transfermarkt.com/gabriel-paulista/profil/spieler/149498,gabriel paulista,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Marco Moreno,534376,€400k,400000.0,https://www.transfermarkt.com/marco-moreno/profil/spieler/534376,marco moreno,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Ilias Kostis,614988,€300k,300000.0,https://www.transfermarkt.com/ilias-kostis/profil/spieler/614988,ilias kostis,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Reinildo Mandava,240692,€9.00m,9000000.0,https://www.transfermarkt.com/reinildo-mandava/profil/spieler/240692,reinildo mandava,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Javi Galán,448628,€7.00m,7000000.0,https://www.transfermarkt.com/javi-galan/profil/spieler/448628,javi galan,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Marcos Llorente,282411,€30.00m,30000000.0,https://www.transfermarkt.com/marcos-llorente/profil/spieler/282411,marcos llorente,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Nahuel Molina,424042,€28.00m,28000000.0,https://www.transfermarkt.com/nahuel-molina/profil/spieler/424042,nahuel molina,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Javier Boñar,741253,€500k,500000.0,https://www.transfermarkt.com/javier-bonar/profil/spieler/741253,javier bonar,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Arthur Vermeeren,926694,€25.00m,25000000.0,https://www.transfermarkt.com/arthur-vermeeren/profil/spieler/926694,arthur vermeeren,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Axel Witsel,35047,€3.50m,3500000.0,https://www.transfermarkt.com/axel-witsel/profil/spieler/35047,axel witsel,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Rodrigo De Paul,255901,€30.00m,30000000.0,https://www.transfermarkt.com/rodrigo-de-paul/profil/spieler/255901,rodrigo de paul,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Pablo Barrios,775605,€25.00m,25000000.0,https://www.transfermarkt.com/pablo-barrios/profil/spieler/775605,pablo barrios,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Koke,74229,€12.00m,12000000.0,https://www.transfermarkt.com/koke/profil/spieler/74229,koke,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Saúl Ñíguez,148928,€7.50m,7500000.0,https://www.transfermarkt.com/saul-niguez/profil/spieler/148928,saul niguez,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Aitor Gismera,646735,€250k,250000.0,https://www.transfermarkt.com/aitor-gismera/profil/spieler/646735,aitor gismera,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Thomas Lemar,205562,€10.00m,10000000.0,https://www.transfermarkt.com/thomas-lemar/profil/spieler/205562,thomas lemar,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Sergio Guerrero,606570,€200k,200000.0,https://www.transfermarkt.com/sergio-guerrero/profil/spieler/606570,sergio guerrero,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Álex Calatrava,633111,€200k,200000.0,https://www.transfermarkt.com/alex-calatrava/profil/spieler/633111,alex calatrava,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Rayane Belaid,945500,-,,https://www.transfermarkt.com/rayane-belaid/profil/spieler/945500,rayane belaid,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Samuel Lino,694928,€30.00m,30000000.0,https://www.transfermarkt.com/samuel-lino/profil/spieler/694928,samuel lino,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Rodrigo Riquelme,461617,€25.00m,25000000.0,https://www.transfermarkt.com/rodrigo-riquelme/profil/spieler/461617,rodrigo riquelme,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Yannick Carrasco,140776,€14.00m,14000000.0,https://www.transfermarkt.com/yannick-carrasco/profil/spieler/140776,yannick carrasco,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Marcos Paulo,612496,€2.00m,2000000.0,https://www.transfermarkt.com/marcos-paulo/profil/spieler/612496,marcos paulo,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Salim El Jebari,935457,€1.00m,1000000.0,https://www.transfermarkt.com/salim-el-jebari/profil/spieler/935457,salim el jebari,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Vitolo,67082,€100k,100000.0,https://www.transfermarkt.com/vitolo/profil/spieler/67082,vitolo,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Ángel Correa,266807,€18.00m,18000000.0,https://www.transfermarkt.com/angel-correa/profil/spieler/266807,angel correa,atletico de madrid,2023,ES1
+Atlético de Madrid,13,João Félix,462250,€30.00m,30000000.0,https://www.transfermarkt.com/joao-felix/profil/spieler/462250,joao felix,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Antoine Griezmann,125781,€25.00m,25000000.0,https://www.transfermarkt.com/antoine-griezmann/profil/spieler/125781,antoine griezmann,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Álvaro Morata,128223,€16.00m,16000000.0,https://www.transfermarkt.com/alvaro-morata/profil/spieler/128223,alvaro morata,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Memphis Depay,167850,€10.00m,10000000.0,https://www.transfermarkt.com/memphis-depay/profil/spieler/167850,memphis depay,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Adrián Niño,926849,€500k,500000.0,https://www.transfermarkt.com/adrian-nino/profil/spieler/926849,adrian nino,atletico de madrid,2023,ES1
+Atlético de Madrid,13,Abde Raihani,860062,€300k,300000.0,https://www.transfermarkt.com/abde-raihani/profil/spieler/860062,abde raihani,atletico de madrid,2023,ES1
+Girona FC,12321,Paulo Gazzaniga,195488,€4.00m,4000000.0,https://www.transfermarkt.com/paulo-gazzaniga/profil/spieler/195488,paulo gazzaniga,girona fc,2023,ES1
+Girona FC,12321,Toni Fuidias,623526,€300k,300000.0,https://www.transfermarkt.com/toni-fuidias/profil/spieler/623526,toni fuidias,girona fc,2023,ES1
+Girona FC,12321,Juan Carlos,120705,€200k,200000.0,https://www.transfermarkt.com/juan-carlos/profil/spieler/120705,juan carlos,girona fc,2023,ES1
+Girona FC,12321,Eric García,466794,€20.00m,20000000.0,https://www.transfermarkt.com/eric-garcia/profil/spieler/466794,eric garcia,girona fc,2023,ES1
+Girona FC,12321,Santiago Bueno,438001,€8.00m,8000000.0,https://www.transfermarkt.com/santiago-bueno/profil/spieler/438001,santiago bueno,girona fc,2023,ES1
+Girona FC,12321,Daley Blind,12282,€3.00m,3000000.0,https://www.transfermarkt.com/daley-blind/profil/spieler/12282,daley blind,girona fc,2023,ES1
+Girona FC,12321,David López,129444,€2.50m,2500000.0,https://www.transfermarkt.com/david-lopez/profil/spieler/129444,david lopez,girona fc,2023,ES1
+Girona FC,12321,Juanpe,115333,€1.00m,1000000.0,https://www.transfermarkt.com/juanpe/profil/spieler/115333,juanpe,girona fc,2023,ES1
+Girona FC,12321,Bernardo Espinosa,64598,€550k,550000.0,https://www.transfermarkt.com/bernardo-espinosa/profil/spieler/64598,bernardo espinosa,girona fc,2023,ES1
+Girona FC,12321,Eric Monjonell,787154,€200k,200000.0,https://www.transfermarkt.com/eric-monjonell/profil/spieler/787154,eric monjonell,girona fc,2023,ES1
+Girona FC,12321,Antal Yaakobishvili,923915,-,,https://www.transfermarkt.com/antal-yaakobishvili/profil/spieler/923915,antal yaakobishvili,girona fc,2023,ES1
+Girona FC,12321,Miguel Gutiérrez,525299,€25.00m,25000000.0,https://www.transfermarkt.com/miguel-gutierrez/profil/spieler/525299,miguel gutierrez,girona fc,2023,ES1
+Girona FC,12321,Arnau Martínez,826224,€10.00m,10000000.0,https://www.transfermarkt.com/arnau-martinez/profil/spieler/826224,arnau martinez,girona fc,2023,ES1
+Girona FC,12321,Ibrahima Kébé,785967,€500k,500000.0,https://www.transfermarkt.com/ibrahima-kebe/profil/spieler/785967,ibrahima kebe,girona fc,2023,ES1
+Girona FC,12321,Selvi Clua,1061660,-,,https://www.transfermarkt.com/selvi-clua/profil/spieler/1061660,selvi clua,girona fc,2023,ES1
+Girona FC,12321,Aleix García,261504,€25.00m,25000000.0,https://www.transfermarkt.com/aleix-garcia/profil/spieler/261504,aleix garcia,girona fc,2023,ES1
+Girona FC,12321,Yangel Herrera,378293,€25.00m,25000000.0,https://www.transfermarkt.com/yangel-herrera/profil/spieler/378293,yangel herrera,girona fc,2023,ES1
+Girona FC,12321,Jhon Solís,742521,€3.00m,3000000.0,https://www.transfermarkt.com/jhon-solis/profil/spieler/742521,jhon solis,girona fc,2023,ES1
+Girona FC,12321,Enric García,1000626,-,,https://www.transfermarkt.com/enric-garcia/profil/spieler/1000626,enric garcia,girona fc,2023,ES1
+Girona FC,12321,Yan Couto,627228,€25.00m,25000000.0,https://www.transfermarkt.com/yan-couto/profil/spieler/627228,yan couto,girona fc,2023,ES1
+Girona FC,12321,Iván Martín,341278,€15.00m,15000000.0,https://www.transfermarkt.com/ivan-martin/profil/spieler/341278,ivan martin,girona fc,2023,ES1
+Girona FC,12321,Pablo Torre,720038,€3.00m,3000000.0,https://www.transfermarkt.com/pablo-torre/profil/spieler/720038,pablo torre,girona fc,2023,ES1
+Girona FC,12321,Borja García,67808,€800k,800000.0,https://www.transfermarkt.com/borja-garcia/profil/spieler/67808,borja garcia,girona fc,2023,ES1
+Girona FC,12321,Ricard Artero,906025,-,,https://www.transfermarkt.com/ricard-artero/profil/spieler/906025,ricard artero,girona fc,2023,ES1
+Girona FC,12321,Savinho,743591,€50.00m,50000000.0,https://www.transfermarkt.com/savinho/profil/spieler/743591,savinho,girona fc,2023,ES1
+Girona FC,12321,Toni Villa,337066,€1.50m,1500000.0,https://www.transfermarkt.com/toni-villa/profil/spieler/337066,toni villa,girona fc,2023,ES1
+Girona FC,12321,Alex Almansa,946269,-,,https://www.transfermarkt.com/alex-almansa/profil/spieler/946269,alex almansa,girona fc,2023,ES1
+Girona FC,12321,Juan Arango,1025582,-,,https://www.transfermarkt.com/juan-arango/profil/spieler/1025582,juan arango,girona fc,2023,ES1
+Girona FC,12321,Jastin Garcia,1061665,-,,https://www.transfermarkt.com/jastin-garcia/profil/spieler/1061665,jastin garcia,girona fc,2023,ES1
+Girona FC,12321,Viktor Tsygankov,264372,€30.00m,30000000.0,https://www.transfermarkt.com/viktor-tsygankov/profil/spieler/264372,viktor tsygankov,girona fc,2023,ES1
+Girona FC,12321,Portu,99353,€3.50m,3500000.0,https://www.transfermarkt.com/portu/profil/spieler/99353,portu,girona fc,2023,ES1
+Girona FC,12321,Valery Fernández,331496,€2.50m,2500000.0,https://www.transfermarkt.com/valery-fernandez/profil/spieler/331496,valery fernandez,girona fc,2023,ES1
+Girona FC,12321,Iker Almena,1061656,-,,https://www.transfermarkt.com/iker-almena/profil/spieler/1061656,iker almena,girona fc,2023,ES1
+Girona FC,12321,Manu Vallejo,527350,€1.50m,1500000.0,https://www.transfermarkt.com/manu-vallejo/profil/spieler/527350,manu vallejo,girona fc,2023,ES1
+Girona FC,12321,Artem Dovbyk,343537,€35.00m,35000000.0,https://www.transfermarkt.com/artem-dovbyk/profil/spieler/343537,artem dovbyk,girona fc,2023,ES1
+Girona FC,12321,Cristhian Stuani,59323,€1.80m,1800000.0,https://www.transfermarkt.com/cristhian-stuani/profil/spieler/59323,cristhian stuani,girona fc,2023,ES1
+Girona FC,12321,Carles Garrido,964264,€50k,50000.0,https://www.transfermarkt.com/carles-garrido/profil/spieler/964264,carles garrido,girona fc,2023,ES1
+Athletic Bilbao,621,Unai Simón,262396,€30.00m,30000000.0,https://www.transfermarkt.com/unai-simon/profil/spieler/262396,unai simon,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Julen Agirrezabala,625014,€5.00m,5000000.0,https://www.transfermarkt.com/julen-agirrezabala/profil/spieler/625014,julen agirrezabala,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Álex Padilla,834483,€200k,200000.0,https://www.transfermarkt.com/alex-padilla/profil/spieler/834483,alex padilla,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Dani Vivian,524000,€25.00m,25000000.0,https://www.transfermarkt.com/dani-vivian/profil/spieler/524000,dani vivian,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Aitor Paredes,591916,€22.00m,22000000.0,https://www.transfermarkt.com/aitor-paredes/profil/spieler/591916,aitor paredes,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Yeray Álvarez,255488,€8.00m,8000000.0,https://www.transfermarkt.com/yeray-alvarez/profil/spieler/255488,yeray alvarez,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Unai Egiluz,834485,€100k,100000.0,https://www.transfermarkt.com/unai-egiluz/profil/spieler/834485,unai egiluz,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Yuri Berchiche,61812,€1.80m,1800000.0,https://www.transfermarkt.com/yuri-berchiche/profil/spieler/61812,yuri berchiche,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Imanol García de Albéniz,626954,€1.20m,1200000.0,https://www.transfermarkt.com/imanol-garcia-de-albeniz/profil/spieler/626954,imanol garcia de albeniz,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Iñigo Lekue,255501,€3.00m,3000000.0,https://www.transfermarkt.com/inigo-lekue/profil/spieler/255501,inigo lekue,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Óscar de Marcos,96718,€1.50m,1500000.0,https://www.transfermarkt.com/oscar-de-marcos/profil/spieler/96718,oscar de marcos,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Hugo Rincón,834487,€250k,250000.0,https://www.transfermarkt.com/hugo-rincon/profil/spieler/834487,hugo rincon,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Mikel Vesga,300168,€4.00m,4000000.0,https://www.transfermarkt.com/mikel-vesga/profil/spieler/300168,mikel vesga,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Dani García,178425,€1.80m,1800000.0,https://www.transfermarkt.com/dani-garcia/profil/spieler/178425,dani garcia,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Peru Nolaskoain,447052,€1.00m,1000000.0,https://www.transfermarkt.com/peru-nolaskoain/profil/spieler/447052,peru nolaskoain,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Beñat Prados,625047,€15.00m,15000000.0,https://www.transfermarkt.com/benat-prados/profil/spieler/625047,benat prados,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Iñigo Ruiz de Galarreta,126751,€5.00m,5000000.0,https://www.transfermarkt.com/inigo-ruiz-de-galarreta/profil/spieler/126751,inigo ruiz de galarreta,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Ander Herrera,99343,€2.00m,2000000.0,https://www.transfermarkt.com/ander-herrera/profil/spieler/99343,ander herrera,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Mikel Jauregizar,938729,€800k,800000.0,https://www.transfermarkt.com/mikel-jauregizar/profil/spieler/938729,mikel jauregizar,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Oihan Sancet,571020,€35.00m,35000000.0,https://www.transfermarkt.com/oihan-sancet/profil/spieler/571020,oihan sancet,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Unai Gómez,834752,€6.00m,6000000.0,https://www.transfermarkt.com/unai-gomez/profil/spieler/834752,unai gomez,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Raúl García,34601,€1.50m,1500000.0,https://www.transfermarkt.com/raul-garcia/profil/spieler/34601,raul garcia,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Nico Williams,709187,€60.00m,60000000.0,https://www.transfermarkt.com/nico-williams/profil/spieler/709187,nico williams,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Álex Berenguer,338425,€12.00m,12000000.0,https://www.transfermarkt.com/alex-berenguer/profil/spieler/338425,alex berenguer,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Iker Muniain,54235,€5.00m,5000000.0,https://www.transfermarkt.com/iker-muniain/profil/spieler/54235,iker muniain,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Iñaki Williams,255508,€25.00m,25000000.0,https://www.transfermarkt.com/inaki-williams/profil/spieler/255508,inaki williams,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Adu Ares,895480,€2.00m,2000000.0,https://www.transfermarkt.com/adu-ares/profil/spieler/895480,adu ares,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Aingeru Olabarrieta,1056971,€500k,500000.0,https://www.transfermarkt.com/aingeru-olabarrieta/profil/spieler/1056971,aingeru olabarrieta,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Gorka Guruzeta,340205,€18.00m,18000000.0,https://www.transfermarkt.com/gorka-guruzeta/profil/spieler/340205,gorka guruzeta,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Asier Villalibre,251897,€2.50m,2500000.0,https://www.transfermarkt.com/asier-villalibre/profil/spieler/251897,asier villalibre,athletic bilbao,2023,ES1
+Athletic Bilbao,621,Javi Martón,711394,€500k,500000.0,https://www.transfermarkt.com/javi-marton/profil/spieler/711394,javi marton,athletic bilbao,2023,ES1
+Villarreal CF,1050,Filip Jørgensen,585323,€20.00m,20000000.0,https://www.transfermarkt.com/filip-jorgensen/profil/spieler/585323,filip jørgensen,villarreal cf,2023,ES1
+Villarreal CF,1050,Iker Álvarez,547248,€800k,800000.0,https://www.transfermarkt.com/iker-alvarez/profil/spieler/547248,iker alvarez,villarreal cf,2023,ES1
+Villarreal CF,1050,Pepe Reina,7825,€600k,600000.0,https://www.transfermarkt.com/pepe-reina/profil/spieler/7825,pepe reina,villarreal cf,2023,ES1
+Villarreal CF,1050,Juan Foyth,480763,€15.00m,15000000.0,https://www.transfermarkt.com/juan-foyth/profil/spieler/480763,juan foyth,villarreal cf,2023,ES1
+Villarreal CF,1050,Matteo Gabbia,323167,€8.00m,8000000.0,https://www.transfermarkt.com/matteo-gabbia/profil/spieler/323167,matteo gabbia,villarreal cf,2023,ES1
+Villarreal CF,1050,Yerson Mosquera,716276,€6.00m,6000000.0,https://www.transfermarkt.com/yerson-mosquera/profil/spieler/716276,yerson mosquera,villarreal cf,2023,ES1
+Villarreal CF,1050,Jorge Cuenca,494880,€6.00m,6000000.0,https://www.transfermarkt.com/jorge-cuenca/profil/spieler/494880,jorge cuenca,villarreal cf,2023,ES1
+Villarreal CF,1050,Eric Bailly,286384,€3.00m,3000000.0,https://www.transfermarkt.com/eric-bailly/profil/spieler/286384,eric bailly,villarreal cf,2023,ES1
+Villarreal CF,1050,Stefan Leković,797572,€1.80m,1800000.0,https://www.transfermarkt.com/stefan-lekovic/profil/spieler/797572,stefan lekovic,villarreal cf,2023,ES1
+Villarreal CF,1050,Aïssa Mandi,80293,€1.80m,1800000.0,https://www.transfermarkt.com/aissa-mandi/profil/spieler/80293,aissa mandi,villarreal cf,2023,ES1
+Villarreal CF,1050,Raúl Albiol,15452,€1.50m,1500000.0,https://www.transfermarkt.com/raul-albiol/profil/spieler/15452,raul albiol,villarreal cf,2023,ES1
+Villarreal CF,1050,Antonio Espigares,886047,€500k,500000.0,https://www.transfermarkt.com/antonio-espigares/profil/spieler/886047,antonio espigares,villarreal cf,2023,ES1
+Villarreal CF,1050,Abraham del Moral,635344,€100k,100000.0,https://www.transfermarkt.com/abraham-del-moral/profil/spieler/635344,abraham del moral,villarreal cf,2023,ES1
+Villarreal CF,1050,Alfonso Pedraza,356197,€5.00m,5000000.0,https://www.transfermarkt.com/alfonso-pedraza/profil/spieler/356197,alfonso pedraza,villarreal cf,2023,ES1
+Villarreal CF,1050,Alberto Moreno,207917,€1.80m,1800000.0,https://www.transfermarkt.com/alberto-moreno/profil/spieler/207917,alberto moreno,villarreal cf,2023,ES1
+Villarreal CF,1050,Carlos Romero,709372,€1.50m,1500000.0,https://www.transfermarkt.com/carlos-romero/profil/spieler/709372,carlos romero,villarreal cf,2023,ES1
+Villarreal CF,1050,Adrià Altimira,466807,€2.00m,2000000.0,https://www.transfermarkt.com/adria-altimira/profil/spieler/466807,adria altimira,villarreal cf,2023,ES1
+Villarreal CF,1050,Kiko Femenía,76467,€1.40m,1400000.0,https://www.transfermarkt.com/kiko-femenia/profil/spieler/76467,kiko femenia,villarreal cf,2023,ES1
+Villarreal CF,1050,Daniel Budesca,937942,-,,https://www.transfermarkt.com/daniel-budesca/profil/spieler/937942,daniel budesca,villarreal cf,2023,ES1
+Villarreal CF,1050,Étienne Capoue,63494,€1.50m,1500000.0,https://www.transfermarkt.com/etienne-capoue/profil/spieler/63494,etienne capoue,villarreal cf,2023,ES1
+Villarreal CF,1050,Francis Coquelin,74869,€1.50m,1500000.0,https://www.transfermarkt.com/francis-coquelin/profil/spieler/74869,francis coquelin,villarreal cf,2023,ES1
+Villarreal CF,1050,Santi Comesaña,380598,€6.00m,6000000.0,https://www.transfermarkt.com/santi-comesana/profil/spieler/380598,santi comesana,villarreal cf,2023,ES1
+Villarreal CF,1050,Ramón Terrats,783396,€4.00m,4000000.0,https://www.transfermarkt.com/ramon-terrats/profil/spieler/783396,ramon terrats,villarreal cf,2023,ES1
+Villarreal CF,1050,Dani Parejo,59561,€2.50m,2500000.0,https://www.transfermarkt.com/dani-parejo/profil/spieler/59561,dani parejo,villarreal cf,2023,ES1
+Villarreal CF,1050,Manu Trigueros,188854,€1.50m,1500000.0,https://www.transfermarkt.com/manu-trigueros/profil/spieler/188854,manu trigueros,villarreal cf,2023,ES1
+Villarreal CF,1050,Dani Requena,945709,€400k,400000.0,https://www.transfermarkt.com/dani-requena/profil/spieler/945709,dani requena,villarreal cf,2023,ES1
+Villarreal CF,1050,Denis Suárez,165007,€1.50m,1500000.0,https://www.transfermarkt.com/denis-suarez/profil/spieler/165007,denis suarez,villarreal cf,2023,ES1
+Villarreal CF,1050,Álex Baena,548111,€40.00m,40000000.0,https://www.transfermarkt.com/alex-baena/profil/spieler/548111,alex baena,villarreal cf,2023,ES1
+Villarreal CF,1050,Gonçalo Guedes,225122,€15.00m,15000000.0,https://www.transfermarkt.com/goncalo-guedes/profil/spieler/225122,goncalo guedes,villarreal cf,2023,ES1
+Villarreal CF,1050,Diego Collado,566965,€800k,800000.0,https://www.transfermarkt.com/diego-collado/profil/spieler/566965,diego collado,villarreal cf,2023,ES1
+Villarreal CF,1050,Yéremy Pino,568157,€30.00m,30000000.0,https://www.transfermarkt.com/yeremy-pino/profil/spieler/568157,yeremy pino,villarreal cf,2023,ES1
+Villarreal CF,1050,Ilias Akhomach,709969,€15.00m,15000000.0,https://www.transfermarkt.com/ilias-akhomach/profil/spieler/709969,ilias akhomach,villarreal cf,2023,ES1
+Villarreal CF,1050,Bertrand Traoré,131996,€9.00m,9000000.0,https://www.transfermarkt.com/bertrand-traore/profil/spieler/131996,bertrand traore,villarreal cf,2023,ES1
+Villarreal CF,1050,Alexander Sørloth,238407,€25.00m,25000000.0,https://www.transfermarkt.com/alexander-sorloth/profil/spieler/238407,alexander sørloth,villarreal cf,2023,ES1
+Villarreal CF,1050,Gerard Moreno,177467,€10.00m,10000000.0,https://www.transfermarkt.com/gerard-moreno/profil/spieler/177467,gerard moreno,villarreal cf,2023,ES1
+Villarreal CF,1050,Ben Brereton Díaz,426192,€8.00m,8000000.0,https://www.transfermarkt.com/ben-brereton-diaz/profil/spieler/426192,ben brereton diaz,villarreal cf,2023,ES1
+Villarreal CF,1050,Álex Forés,709380,€1.50m,1500000.0,https://www.transfermarkt.com/alex-fores/profil/spieler/709380,alex fores,villarreal cf,2023,ES1
+Villarreal CF,1050,José Luis Morales,252677,€1.50m,1500000.0,https://www.transfermarkt.com/jose-luis-morales/profil/spieler/252677,jose luis morales,villarreal cf,2023,ES1
+Villarreal CF,1050,Jorge Pascual,669511,€1.00m,1000000.0,https://www.transfermarkt.com/jorge-pascual/profil/spieler/669511,jorge pascual,villarreal cf,2023,ES1
+Valencia CF,1049,Giorgi Mamardashvili,502676,€35.00m,35000000.0,https://www.transfermarkt.com/giorgi-mamardashvili/profil/spieler/502676,giorgi mamardashvili,valencia cf,2023,ES1
+Valencia CF,1049,Jaume Doménech,227805,€800k,800000.0,https://www.transfermarkt.com/jaume-domenech/profil/spieler/227805,jaume domenech,valencia cf,2023,ES1
+Valencia CF,1049,Cristian Rivero,398131,€200k,200000.0,https://www.transfermarkt.com/cristian-rivero/profil/spieler/398131,cristian rivero,valencia cf,2023,ES1
+Valencia CF,1049,Vicent Abril,741251,-,,https://www.transfermarkt.com/vicent-abril/profil/spieler/741251,vicent abril,valencia cf,2023,ES1
+Valencia CF,1049,Cristhian Mosquera,646750,€30.00m,30000000.0,https://www.transfermarkt.com/cristhian-mosquera/profil/spieler/646750,cristhian mosquera,valencia cf,2023,ES1
+Valencia CF,1049,Yarek Gasiorowski,895334,€15.00m,15000000.0,https://www.transfermarkt.com/yarek-gasiorowski/profil/spieler/895334,yarek gasiorowski,valencia cf,2023,ES1
+Valencia CF,1049,Cenk Özkacar,615350,€4.00m,4000000.0,https://www.transfermarkt.com/cenk-ozkacar/profil/spieler/615350,cenk ozkacar,valencia cf,2023,ES1
+Valencia CF,1049,Mouctar Diakhaby,346289,€2.00m,2000000.0,https://www.transfermarkt.com/mouctar-diakhaby/profil/spieler/346289,mouctar diakhaby,valencia cf,2023,ES1
+Valencia CF,1049,Gabriel Paulista,149498,€2.00m,2000000.0,https://www.transfermarkt.com/gabriel-paulista/profil/spieler/149498,gabriel paulista,valencia cf,2023,ES1
+Valencia CF,1049,César Tárrega,707274,€1.50m,1500000.0,https://www.transfermarkt.com/cesar-tarrega/profil/spieler/707274,cesar tarrega,valencia cf,2023,ES1
+Valencia CF,1049,José Gayà,221322,€25.00m,25000000.0,https://www.transfermarkt.com/jose-gaya/profil/spieler/221322,jose gaya,valencia cf,2023,ES1
+Valencia CF,1049,Jesús Vázquez,623024,€3.00m,3000000.0,https://www.transfermarkt.com/jesus-vazquez/profil/spieler/623024,jesus vazquez,valencia cf,2023,ES1
+Valencia CF,1049,Thierry Correia,367466,€6.00m,6000000.0,https://www.transfermarkt.com/thierry-correia/profil/spieler/367466,thierry correia,valencia cf,2023,ES1
+Valencia CF,1049,Dimitri Foulquier,170472,€2.50m,2500000.0,https://www.transfermarkt.com/dimitri-foulquier/profil/spieler/170472,dimitri foulquier,valencia cf,2023,ES1
+Valencia CF,1049,Rubén Iranzo,668212,€300k,300000.0,https://www.transfermarkt.com/ruben-iranzo/profil/spieler/668212,ruben iranzo,valencia cf,2023,ES1
+Valencia CF,1049,Pepelu,328480,€22.00m,22000000.0,https://www.transfermarkt.com/pepelu/profil/spieler/328480,pepelu,valencia cf,2023,ES1
+Valencia CF,1049,Hugo Guillamón,495629,€8.00m,8000000.0,https://www.transfermarkt.com/hugo-guillamon/profil/spieler/495629,hugo guillamon,valencia cf,2023,ES1
+Valencia CF,1049,Javi Guerra,834764,€20.00m,20000000.0,https://www.transfermarkt.com/javi-guerra/profil/spieler/834764,javi guerra,valencia cf,2023,ES1
+Valencia CF,1049,Ali Fadal,980242,€100k,100000.0,https://www.transfermarkt.com/ali-fadal/profil/spieler/980242,ali fadal,valencia cf,2023,ES1
+Valencia CF,1049,Javi Navarro,646743,€25k,25000.0,https://www.transfermarkt.com/javi-navarro/profil/spieler/646743,javi navarro,valencia cf,2023,ES1
+Valencia CF,1049,André Almeida,375382,€15.00m,15000000.0,https://www.transfermarkt.com/andre-almeida/profil/spieler/375382,andre almeida,valencia cf,2023,ES1
+Valencia CF,1049,Selim Amallah,377219,€1.50m,1500000.0,https://www.transfermarkt.com/selim-amallah/profil/spieler/377219,selim amallah,valencia cf,2023,ES1
+Valencia CF,1049,Pablo Gozálbez,622992,€800k,800000.0,https://www.transfermarkt.com/pablo-gozalbez/profil/spieler/622992,pablo gozalbez,valencia cf,2023,ES1
+Valencia CF,1049,Martín Tejón,941883,€100k,100000.0,https://www.transfermarkt.com/martin-tejon/profil/spieler/941883,martin tejon,valencia cf,2023,ES1
+Valencia CF,1049,Sergi Canós,251845,€2.50m,2500000.0,https://www.transfermarkt.com/sergi-canos/profil/spieler/251845,sergi canos,valencia cf,2023,ES1
+Valencia CF,1049,Marco Camus,636119,€300k,300000.0,https://www.transfermarkt.com/marco-camus/profil/spieler/636119,marco camus,valencia cf,2023,ES1
+Valencia CF,1049,Diego López,617081,€14.00m,14000000.0,https://www.transfermarkt.com/diego-lopez/profil/spieler/617081,diego lopez,valencia cf,2023,ES1
+Valencia CF,1049,Fran Pérez,622988,€8.00m,8000000.0,https://www.transfermarkt.com/fran-perez/profil/spieler/622988,fran perez,valencia cf,2023,ES1
+Valencia CF,1049,Peter Federico,710004,€3.00m,3000000.0,https://www.transfermarkt.com/peter-federico/profil/spieler/710004,peter federico,valencia cf,2023,ES1
+Valencia CF,1049,David Otorbi,1009766,€500k,500000.0,https://www.transfermarkt.com/david-otorbi/profil/spieler/1009766,david otorbi,valencia cf,2023,ES1
+Valencia CF,1049,Hugo González,707279,€300k,300000.0,https://www.transfermarkt.com/hugo-gonzalez/profil/spieler/707279,hugo gonzalez,valencia cf,2023,ES1
+Valencia CF,1049,Hugo Duro,573775,€16.00m,16000000.0,https://www.transfermarkt.com/hugo-duro/profil/spieler/573775,hugo duro,valencia cf,2023,ES1
+Valencia CF,1049,Roman Yaremchuk,221958,€3.50m,3500000.0,https://www.transfermarkt.com/roman-yaremchuk/profil/spieler/221958,roman yaremchuk,valencia cf,2023,ES1
+Valencia CF,1049,Alberto Marí,634105,€1.50m,1500000.0,https://www.transfermarkt.com/alberto-mari/profil/spieler/634105,alberto mari,valencia cf,2023,ES1
+Valencia CF,1049,Mario Domínguez,941867,€200k,200000.0,https://www.transfermarkt.com/mario-dominguez/profil/spieler/941867,mario dominguez,valencia cf,2023,ES1
+Valencia CF,1049,Joselu Pérez,1000135,€100k,100000.0,https://www.transfermarkt.com/joselu-perez/profil/spieler/1000135,joselu perez,valencia cf,2023,ES1
+Sevilla FC,368,Yassine Bounou,207834,€9.00m,9000000.0,https://www.transfermarkt.com/yassine-bounou/profil/spieler/207834,yassine bounou,sevilla fc,2023,ES1
+Sevilla FC,368,Ørjan Nyland,73517,€1.40m,1400000.0,https://www.transfermarkt.com/orjan-nyland/profil/spieler/73517,ørjan nyland,sevilla fc,2023,ES1
+Sevilla FC,368,Marko Dmitrovic,94308,€900k,900000.0,https://www.transfermarkt.com/marko-dmitrovic/profil/spieler/94308,marko dmitrovic,sevilla fc,2023,ES1
+Sevilla FC,368,Alberto Flores,766552,€300k,300000.0,https://www.transfermarkt.com/alberto-flores/profil/spieler/766552,alberto flores,sevilla fc,2023,ES1
+Sevilla FC,368,Matías Árbol,767255,€100k,100000.0,https://www.transfermarkt.com/matias-arbol/profil/spieler/767255,matias arbol,sevilla fc,2023,ES1
+Sevilla FC,368,Rafa Romero,833884,-,,https://www.transfermarkt.com/rafa-romero/profil/spieler/833884,rafa romero,sevilla fc,2023,ES1
+Sevilla FC,368,Loïc Badé,730581,€14.00m,14000000.0,https://www.transfermarkt.com/loic-bade/profil/spieler/730581,loic bade,sevilla fc,2023,ES1
+Sevilla FC,368,Kike Salas,766583,€10.00m,10000000.0,https://www.transfermarkt.com/kike-salas/profil/spieler/766583,kike salas,sevilla fc,2023,ES1
+Sevilla FC,368,Marcão,439022,€4.00m,4000000.0,https://www.transfermarkt.com/marcao/profil/spieler/439022,marcao,sevilla fc,2023,ES1
+Sevilla FC,368,Federico Gattoni,660735,€3.50m,3500000.0,https://www.transfermarkt.com/federico-gattoni/profil/spieler/660735,federico gattoni,sevilla fc,2023,ES1
+Sevilla FC,368,Tanguy Nianzou,538996,€3.00m,3000000.0,https://www.transfermarkt.com/tanguy-nianzou/profil/spieler/538996,tanguy nianzou,sevilla fc,2023,ES1
+Sevilla FC,368,Sergio Ramos,25557,€2.50m,2500000.0,https://www.transfermarkt.com/sergio-ramos/profil/spieler/25557,sergio ramos,sevilla fc,2023,ES1
+Sevilla FC,368,Xavi Sintes,569876,€200k,200000.0,https://www.transfermarkt.com/xavi-sintes/profil/spieler/569876,xavi sintes,sevilla fc,2023,ES1
+Sevilla FC,368,Adrià Pedrosa,501418,€6.00m,6000000.0,https://www.transfermarkt.com/adria-pedrosa/profil/spieler/501418,adria pedrosa,sevilla fc,2023,ES1
+Sevilla FC,368,Marcos Acuña,60410,€4.00m,4000000.0,https://www.transfermarkt.com/marcos-acuna/profil/spieler/60410,marcos acuna,sevilla fc,2023,ES1
+Sevilla FC,368,Diego Hormigo,767229,€200k,200000.0,https://www.transfermarkt.com/diego-hormigo/profil/spieler/767229,diego hormigo,sevilla fc,2023,ES1
+Sevilla FC,368,Oso,1032280,€200k,200000.0,https://www.transfermarkt.com/osotm/profil/spieler/1032280,oso,sevilla fc,2023,ES1
+Sevilla FC,368,Juanlu Sánchez,676042,€15.00m,15000000.0,https://www.transfermarkt.com/juanlu-sanchez/profil/spieler/676042,juanlu sanchez,sevilla fc,2023,ES1
+Sevilla FC,368,Gonzalo Montiel,402733,€10.00m,10000000.0,https://www.transfermarkt.com/gonzalo-montiel/profil/spieler/402733,gonzalo montiel,sevilla fc,2023,ES1
+Sevilla FC,368,Jesús Navas,15956,€2.50m,2500000.0,https://www.transfermarkt.com/jesus-navas/profil/spieler/15956,jesus navas,sevilla fc,2023,ES1
+Sevilla FC,368,Darío Benavides,711626,€150k,150000.0,https://www.transfermarkt.com/dario-benavides/profil/spieler/711626,dario benavides,sevilla fc,2023,ES1
+Sevilla FC,368,Boubakary Soumaré,344605,€14.00m,14000000.0,https://www.transfermarkt.com/boubakary-soumare/profil/spieler/344605,boubakary soumare,sevilla fc,2023,ES1
+Sevilla FC,368,Lucien Agoumé,569384,€6.00m,6000000.0,https://www.transfermarkt.com/lucien-agoume/profil/spieler/569384,lucien agoume,sevilla fc,2023,ES1
+Sevilla FC,368,Nemanja Gudelj,74294,€3.50m,3500000.0,https://www.transfermarkt.com/nemanja-gudelj/profil/spieler/74294,nemanja gudelj,sevilla fc,2023,ES1
+Sevilla FC,368,Fernando,51174,€2.00m,2000000.0,https://www.transfermarkt.com/fernando/profil/spieler/51174,fernando,sevilla fc,2023,ES1
+Sevilla FC,368,Djibril Sow,212723,€9.00m,9000000.0,https://www.transfermarkt.com/djibril-sow/profil/spieler/212723,djibril sow,sevilla fc,2023,ES1
+Sevilla FC,368,Óliver Torres,214775,€6.00m,6000000.0,https://www.transfermarkt.com/oliver-torres/profil/spieler/214775,oliver torres,sevilla fc,2023,ES1
+Sevilla FC,368,Joan Jordán,263727,€3.50m,3500000.0,https://www.transfermarkt.com/joan-jordan/profil/spieler/263727,joan jordan,sevilla fc,2023,ES1
+Sevilla FC,368,Ivan Rakitic,32467,€3.50m,3500000.0,https://www.transfermarkt.com/ivan-rakitic/profil/spieler/32467,ivan rakitic,sevilla fc,2023,ES1
+Sevilla FC,368,Manu Bueno,766723,€300k,300000.0,https://www.transfermarkt.com/manu-bueno/profil/spieler/766723,manu bueno,sevilla fc,2023,ES1
+Sevilla FC,368,Lulo Dasilva,718581,€150k,150000.0,https://www.transfermarkt.com/lulo-dasilva/profil/spieler/718581,lulo dasilva,sevilla fc,2023,ES1
+Sevilla FC,368,Alberto Collado,935342,-,,https://www.transfermarkt.com/alberto-collado/profil/spieler/935342,alberto collado,sevilla fc,2023,ES1
+Sevilla FC,368,Hannibal,607224,€9.00m,9000000.0,https://www.transfermarkt.com/hannibal/profil/spieler/607224,hannibal,sevilla fc,2023,ES1
+Sevilla FC,368,Stanis Idumbo,743387,€800k,800000.0,https://www.transfermarkt.com/stanis-idumbo/profil/spieler/743387,stanis idumbo,sevilla fc,2023,ES1
+Sevilla FC,368,Miguel Capitas,628926,€200k,200000.0,https://www.transfermarkt.com/miguel-capitas/profil/spieler/628926,miguel capitas,sevilla fc,2023,ES1
+Sevilla FC,368,Lucas Ocampos,189441,€9.00m,9000000.0,https://www.transfermarkt.com/lucas-ocampos/profil/spieler/189441,lucas ocampos,sevilla fc,2023,ES1
+Sevilla FC,368,Isra Domínguez,916014,€150k,150000.0,https://www.transfermarkt.com/isra-dominguez/profil/spieler/916014,isra dominguez,sevilla fc,2023,ES1
+Sevilla FC,368,Papu Gómez,20005,-,,https://www.transfermarkt.com/papu-gomez/profil/spieler/20005,papu gomez,sevilla fc,2023,ES1
+Sevilla FC,368,Dodi Lukébakio,303259,€12.00m,12000000.0,https://www.transfermarkt.com/dodi-lukebakio/profil/spieler/303259,dodi lukebakio,sevilla fc,2023,ES1
+Sevilla FC,368,Suso,111961,€4.00m,4000000.0,https://www.transfermarkt.com/suso/profil/spieler/111961,suso,sevilla fc,2023,ES1
+Sevilla FC,368,Jesús Corona,125165,€3.50m,3500000.0,https://www.transfermarkt.com/jesus-corona/profil/spieler/125165,jesus corona,sevilla fc,2023,ES1
+Sevilla FC,368,Erik Lamela,111630,€2.00m,2000000.0,https://www.transfermarkt.com/erik-lamela/profil/spieler/111630,erik lamela,sevilla fc,2023,ES1
+Sevilla FC,368,Adnan Januzaj,177847,€2.00m,2000000.0,https://www.transfermarkt.com/adnan-januzaj/profil/spieler/177847,adnan januzaj,sevilla fc,2023,ES1
+Sevilla FC,368,Youssef En-Nesyri,433049,€20.00m,20000000.0,https://www.transfermarkt.com/youssef-en-nesyri/profil/spieler/433049,youssef en-nesyri,sevilla fc,2023,ES1
+Sevilla FC,368,Isaac Romero,687609,€18.00m,18000000.0,https://www.transfermarkt.com/isaac-romero/profil/spieler/687609,isaac romero,sevilla fc,2023,ES1
+Sevilla FC,368,Alejo Veliz,888493,€9.00m,9000000.0,https://www.transfermarkt.com/alejo-veliz/profil/spieler/888493,alejo veliz,sevilla fc,2023,ES1
+Sevilla FC,368,Rafa Mir,361254,€2.50m,2500000.0,https://www.transfermarkt.com/rafa-mir/profil/spieler/361254,rafa mir,sevilla fc,2023,ES1
+Sevilla FC,368,Mariano Díaz,225020,€1.50m,1500000.0,https://www.transfermarkt.com/mariano-diaz/profil/spieler/225020,mariano diaz,sevilla fc,2023,ES1
+Sevilla FC,368,Ibra Sow,934420,€200k,200000.0,https://www.transfermarkt.com/ibra-sow/profil/spieler/934420,ibra sow,sevilla fc,2023,ES1
+Real Betis Balompié,150,Rui Silva,234811,€8.00m,8000000.0,https://www.transfermarkt.com/rui-silva/profil/spieler/234811,rui silva,real betis balompie,2023,ES1
+Real Betis Balompié,150,Claudio Bravo,40423,€800k,800000.0,https://www.transfermarkt.com/claudio-bravo/profil/spieler/40423,claudio bravo,real betis balompie,2023,ES1
+Real Betis Balompié,150,Fran Vieites,551182,€500k,500000.0,https://www.transfermarkt.com/fran-vieites/profil/spieler/551182,fran vieites,real betis balompie,2023,ES1
+Real Betis Balompié,150,Guilherme Fernandes,567504,€150k,150000.0,https://www.transfermarkt.com/guilherme-fernandes/profil/spieler/567504,guilherme fernandes,real betis balompie,2023,ES1
+Real Betis Balompié,150,Germán García,1061277,€25k,25000.0,https://www.transfermarkt.com/german-garcia/profil/spieler/1061277,german garcia,real betis balompie,2023,ES1
+Real Betis Balompié,150,Chadi Riad,689637,€15.00m,15000000.0,https://www.transfermarkt.com/chadi-riad/profil/spieler/689637,chadi riad,real betis balompie,2023,ES1
+Real Betis Balompié,150,Luiz Felipe,457931,€13.00m,13000000.0,https://www.transfermarkt.com/luiz-felipe/profil/spieler/457931,luiz felipe,real betis balompie,2023,ES1
+Real Betis Balompié,150,Germán Pezzella,113133,€3.00m,3000000.0,https://www.transfermarkt.com/german-pezzella/profil/spieler/113133,german pezzella,real betis balompie,2023,ES1
+Real Betis Balompié,150,Nobel Mendy,1034853,€1.00m,1000000.0,https://www.transfermarkt.com/nobel-mendy/profil/spieler/1034853,nobel mendy,real betis balompie,2023,ES1
+Real Betis Balompié,150,Marc Bartra,99922,€1.00m,1000000.0,https://www.transfermarkt.com/marc-bartra/profil/spieler/99922,marc bartra,real betis balompie,2023,ES1
+Real Betis Balompié,150,Sokratis,34322,€700k,700000.0,https://www.transfermarkt.com/sokratis/profil/spieler/34322,sokratis,real betis balompie,2023,ES1
+Real Betis Balompié,150,Ricardo Visus,630989,€150k,150000.0,https://www.transfermarkt.com/ricardo-visus/profil/spieler/630989,ricardo visus,real betis balompie,2023,ES1
+Real Betis Balompié,150,Juan Miranda,341227,€9.00m,9000000.0,https://www.transfermarkt.com/juan-miranda/profil/spieler/341227,juan miranda,real betis balompie,2023,ES1
+Real Betis Balompié,150,Abner,646402,€7.00m,7000000.0,https://www.transfermarkt.com/abner/profil/spieler/646402,abner,real betis balompie,2023,ES1
+Real Betis Balompié,150,Xavi Pleguezuelo,971774,€100k,100000.0,https://www.transfermarkt.com/xavi-pleguezuelo/profil/spieler/971774,xavi pleguezuelo,real betis balompie,2023,ES1
+Real Betis Balompié,150,Héctor Bellerín,191217,€4.00m,4000000.0,https://www.transfermarkt.com/hector-bellerin/profil/spieler/191217,hector bellerin,real betis balompie,2023,ES1
+Real Betis Balompié,150,Youssouf Sabaly,135492,€2.50m,2500000.0,https://www.transfermarkt.com/youssouf-sabaly/profil/spieler/135492,youssouf sabaly,real betis balompie,2023,ES1
+Real Betis Balompié,150,Pablo Busto,1054909,€500k,500000.0,https://www.transfermarkt.com/pablo-busto/profil/spieler/1054909,pablo busto,real betis balompie,2023,ES1
+Real Betis Balompié,150,Guido Rodríguez,342385,€20.00m,20000000.0,https://www.transfermarkt.com/guido-rodriguez/profil/spieler/342385,guido rodriguez,real betis balompie,2023,ES1
+Real Betis Balompié,150,Marc Roca,336869,€9.00m,9000000.0,https://www.transfermarkt.com/marc-roca/profil/spieler/336869,marc roca,real betis balompie,2023,ES1
+Real Betis Balompié,150,William Carvalho,100131,€3.00m,3000000.0,https://www.transfermarkt.com/william-carvalho/profil/spieler/100131,william carvalho,real betis balompie,2023,ES1
+Real Betis Balompié,150,Paul Akouokou,429901,€1.50m,1500000.0,https://www.transfermarkt.com/paul-akouokou/profil/spieler/429901,paul akouokou,real betis balompie,2023,ES1
+Real Betis Balompié,150,Johnny Cardoso,689505,€25.00m,25000000.0,https://www.transfermarkt.com/johnny-cardoso/profil/spieler/689505,johnny cardoso,real betis balompie,2023,ES1
+Real Betis Balompié,150,Pablo Fornals,357885,€14.00m,14000000.0,https://www.transfermarkt.com/pablo-fornals/profil/spieler/357885,pablo fornals,real betis balompie,2023,ES1
+Real Betis Balompié,150,Sergi Altimira,466801,€2.50m,2500000.0,https://www.transfermarkt.com/sergi-altimira/profil/spieler/466801,sergi altimira,real betis balompie,2023,ES1
+Real Betis Balompié,150,Andrés Guardado,20506,€1.00m,1000000.0,https://www.transfermarkt.com/andres-guardado/profil/spieler/20506,andres guardado,real betis balompie,2023,ES1
+Real Betis Balompié,150,Ginés Sorroche,961944,€300k,300000.0,https://www.transfermarkt.com/gines-sorroche/profil/spieler/961944,gines sorroche,real betis balompie,2023,ES1
+Real Betis Balompié,150,Quique Fernández,668184,€150k,150000.0,https://www.transfermarkt.com/quique-fernandez/profil/spieler/668184,quique fernandez,real betis balompie,2023,ES1
+Real Betis Balompié,150,Nabil Fekir,203496,€10.00m,10000000.0,https://www.transfermarkt.com/nabil-fekir/profil/spieler/203496,nabil fekir,real betis balompie,2023,ES1
+Real Betis Balompié,150,Isco,85288,€8.00m,8000000.0,https://www.transfermarkt.com/isco/profil/spieler/85288,isco,real betis balompie,2023,ES1
+Real Betis Balompié,150,Dani Pérez,895331,€500k,500000.0,https://www.transfermarkt.com/dani-perez/profil/spieler/895331,dani perez,real betis balompie,2023,ES1
+Real Betis Balompié,150,Assane Diao,1061282,€12.00m,12000000.0,https://www.transfermarkt.com/assane-diao/profil/spieler/1061282,assane diao,real betis balompie,2023,ES1
+Real Betis Balompié,150,Abde Ezzalzouli,724520,€9.00m,9000000.0,https://www.transfermarkt.com/abde-ezzalzouli/profil/spieler/724520,abde ezzalzouli,real betis balompie,2023,ES1
+Real Betis Balompié,150,Juan Cruz,585700,€1.50m,1500000.0,https://www.transfermarkt.com/juan-cruz/profil/spieler/585700,juan cruz,real betis balompie,2023,ES1
+Real Betis Balompié,150,Luiz Henrique,800175,€12.00m,12000000.0,https://www.transfermarkt.com/luiz-henrique/profil/spieler/800175,luiz henrique,real betis balompie,2023,ES1
+Real Betis Balompié,150,Aitor Ruibal,378139,€3.50m,3500000.0,https://www.transfermarkt.com/aitor-ruibal/profil/spieler/378139,aitor ruibal,real betis balompie,2023,ES1
+Real Betis Balompié,150,Rodri Sánchez,630995,€3.00m,3000000.0,https://www.transfermarkt.com/rodri-sanchez/profil/spieler/630995,rodri sanchez,real betis balompie,2023,ES1
+Real Betis Balompié,150,Ayoze Pérez,246968,€7.00m,7000000.0,https://www.transfermarkt.com/ayoze-perez/profil/spieler/246968,ayoze perez,real betis balompie,2023,ES1
+Real Betis Balompié,150,Borja Iglesias,278359,€5.00m,5000000.0,https://www.transfermarkt.com/borja-iglesias/profil/spieler/278359,borja iglesias,real betis balompie,2023,ES1
+Real Betis Balompié,150,Willian José,122155,€5.00m,5000000.0,https://www.transfermarkt.com/willian-jose/profil/spieler/122155,willian jose,real betis balompie,2023,ES1
+Real Betis Balompié,150,Chimy Ávila,167721,€3.00m,3000000.0,https://www.transfermarkt.com/chimy-avila/profil/spieler/167721,chimy avila,real betis balompie,2023,ES1
+Real Betis Balompié,150,Cédric Bakambu,127048,€2.50m,2500000.0,https://www.transfermarkt.com/cedric-bakambu/profil/spieler/127048,cedric bakambu,real betis balompie,2023,ES1
+Celta de Vigo,940,Iván Villar,297194,€1.20m,1200000.0,https://www.transfermarkt.com/ivan-villar/profil/spieler/297194,ivan villar,celta de vigo,2023,ES1
+Celta de Vigo,940,Agustín Marchesín,54534,€800k,800000.0,https://www.transfermarkt.com/agustin-marchesin/profil/spieler/54534,agustin marchesin,celta de vigo,2023,ES1
+Celta de Vigo,940,Vicente Guaita,64399,€800k,800000.0,https://www.transfermarkt.com/vicente-guaita/profil/spieler/64399,vicente guaita,celta de vigo,2023,ES1
+Celta de Vigo,940,Coke Carrillo,581640,€200k,200000.0,https://www.transfermarkt.com/coke-carrillo/profil/spieler/581640,coke carrillo,celta de vigo,2023,ES1
+Celta de Vigo,940,César Fernández,646741,€200k,200000.0,https://www.transfermarkt.com/cesar-fernandez/profil/spieler/646741,cesar fernandez,celta de vigo,2023,ES1
+Celta de Vigo,940,Ruly García,577869,€150k,150000.0,https://www.transfermarkt.com/ruly-garcia/profil/spieler/577869,ruly garcia,celta de vigo,2023,ES1
+Celta de Vigo,940,Unai Núñez,338285,€7.00m,7000000.0,https://www.transfermarkt.com/unai-nunez/profil/spieler/338285,unai nunez,celta de vigo,2023,ES1
+Celta de Vigo,940,Carl Starfelt,258987,€6.00m,6000000.0,https://www.transfermarkt.com/carl-starfelt/profil/spieler/258987,carl starfelt,celta de vigo,2023,ES1
+Celta de Vigo,940,Joseph Aidoo,358250,€4.00m,4000000.0,https://www.transfermarkt.com/joseph-aidoo/profil/spieler/358250,joseph aidoo,celta de vigo,2023,ES1
+Celta de Vigo,940,Carlos Domínguez,636093,€3.00m,3000000.0,https://www.transfermarkt.com/carlos-dominguez/profil/spieler/636093,carlos dominguez,celta de vigo,2023,ES1
+Celta de Vigo,940,Javi Rodríguez,1076815,€250k,250000.0,https://www.transfermarkt.com/javi-rodriguez/profil/spieler/1076815,javi rodriguez,celta de vigo,2023,ES1
+Celta de Vigo,940,Yoel Lago,939374,€200k,200000.0,https://www.transfermarkt.com/yoel-lago/profil/spieler/939374,yoel lago,celta de vigo,2023,ES1
+Celta de Vigo,940,Javi Domínguez,625882,€150k,150000.0,https://www.transfermarkt.com/javi-dominguez/profil/spieler/625882,javi dominguez,celta de vigo,2023,ES1
+Celta de Vigo,940,Manu Sánchez,618809,€8.00m,8000000.0,https://www.transfermarkt.com/manu-sanchez/profil/spieler/618809,manu sanchez,celta de vigo,2023,ES1
+Celta de Vigo,940,Mihailo Ristic,271455,€1.00m,1000000.0,https://www.transfermarkt.com/mihailo-ristic/profil/spieler/271455,mihailo ristic,celta de vigo,2023,ES1
+Celta de Vigo,940,Joel López,586736,€200k,200000.0,https://www.transfermarkt.com/joel-lopez/profil/spieler/586736,joel lopez,celta de vigo,2023,ES1
+Celta de Vigo,940,Óscar Mingueza,331505,€8.00m,8000000.0,https://www.transfermarkt.com/oscar-mingueza/profil/spieler/331505,oscar mingueza,celta de vigo,2023,ES1
+Celta de Vigo,940,Javier Manquillo,162029,€1.80m,1800000.0,https://www.transfermarkt.com/javier-manquillo/profil/spieler/162029,javier manquillo,celta de vigo,2023,ES1
+Celta de Vigo,940,Kevin Vázquez,221315,€800k,800000.0,https://www.transfermarkt.com/kevin-vazquez/profil/spieler/221315,kevin vazquez,celta de vigo,2023,ES1
+Celta de Vigo,940,Javi Rueda,652331,€250k,250000.0,https://www.transfermarkt.com/javi-rueda/profil/spieler/652331,javi rueda,celta de vigo,2023,ES1
+Celta de Vigo,940,Renato Tapia,277137,€5.00m,5000000.0,https://www.transfermarkt.com/renato-tapia/profil/spieler/277137,renato tapia,celta de vigo,2023,ES1
+Celta de Vigo,940,Jailson,366948,€1.50m,1500000.0,https://www.transfermarkt.com/jailson/profil/spieler/366948,jailson,celta de vigo,2023,ES1
+Celta de Vigo,940,Damián Rodríguez,715628,€500k,500000.0,https://www.transfermarkt.com/damian-rodriguez/profil/spieler/715628,damian rodriguez,celta de vigo,2023,ES1
+Celta de Vigo,940,Fran Beltrán,423444,€6.00m,6000000.0,https://www.transfermarkt.com/fran-beltran/profil/spieler/423444,fran beltran,celta de vigo,2023,ES1
+Celta de Vigo,940,Luca de la Torre,315762,€3.00m,3000000.0,https://www.transfermarkt.com/luca-de-la-torre/profil/spieler/315762,luca de la torre,celta de vigo,2023,ES1
+Celta de Vigo,940,Hugo Sotelo,892221,€2.50m,2500000.0,https://www.transfermarkt.com/hugo-sotelo/profil/spieler/892221,hugo sotelo,celta de vigo,2023,ES1
+Celta de Vigo,940,Carlos Dotor,623524,€2.00m,2000000.0,https://www.transfermarkt.com/carlos-dotor/profil/spieler/623524,carlos dotor,celta de vigo,2023,ES1
+Celta de Vigo,940,Gabri Veiga,699704,€25.00m,25000000.0,https://www.transfermarkt.com/gabri-veiga/profil/spieler/699704,gabri veiga,celta de vigo,2023,ES1
+Celta de Vigo,940,Jonathan Bamba,292818,€9.00m,9000000.0,https://www.transfermarkt.com/jonathan-bamba/profil/spieler/292818,jonathan bamba,celta de vigo,2023,ES1
+Celta de Vigo,940,Williot Swedberg,764859,€5.00m,5000000.0,https://www.transfermarkt.com/williot-swedberg/profil/spieler/764859,williot swedberg,celta de vigo,2023,ES1
+Celta de Vigo,940,Hugo Álvarez,892929,€1.50m,1500000.0,https://www.transfermarkt.com/hugo-alvarez/profil/spieler/892929,hugo alvarez,celta de vigo,2023,ES1
+Celta de Vigo,940,Franco Cervi,341110,€1.50m,1500000.0,https://www.transfermarkt.com/franco-cervi/profil/spieler/341110,franco cervi,celta de vigo,2023,ES1
+Celta de Vigo,940,Tadeo Allende,872184,€4.00m,4000000.0,https://www.transfermarkt.com/tadeo-allende/profil/spieler/872184,tadeo allende,celta de vigo,2023,ES1
+Celta de Vigo,940,Carles Pérez,282810,€2.50m,2500000.0,https://www.transfermarkt.com/carles-perez/profil/spieler/282810,carles perez,celta de vigo,2023,ES1
+Celta de Vigo,940,Miguel Rodríguez,634427,€800k,800000.0,https://www.transfermarkt.com/miguel-rodriguez/profil/spieler/634427,miguel rodriguez,celta de vigo,2023,ES1
+Celta de Vigo,940,Jørgen Strand Larsen,429983,€25.00m,25000000.0,https://www.transfermarkt.com/jorgen-strand-larsen/profil/spieler/429983,jørgen strand larsen,celta de vigo,2023,ES1
+Celta de Vigo,940,Anastasios Douvikas,523318,€6.00m,6000000.0,https://www.transfermarkt.com/anastasios-douvikas/profil/spieler/523318,anastasios douvikas,celta de vigo,2023,ES1
+Celta de Vigo,940,Iago Aspas,72047,€3.00m,3000000.0,https://www.transfermarkt.com/iago-aspas/profil/spieler/72047,iago aspas,celta de vigo,2023,ES1
+Celta de Vigo,940,Gonçalo Paciência,181547,€1.50m,1500000.0,https://www.transfermarkt.com/goncalo-paciencia/profil/spieler/181547,goncalo paciencia,celta de vigo,2023,ES1
+Granada CF,16795,Augusto Batalla,275218,€5.00m,5000000.0,https://www.transfermarkt.com/augusto-batalla/profil/spieler/275218,augusto batalla,granada cf,2023,ES1
+Granada CF,16795,André Ferreira,290346,€800k,800000.0,https://www.transfermarkt.com/andre-ferreira/profil/spieler/290346,andre ferreira,granada cf,2023,ES1
+Granada CF,16795,Marc Martínez,129374,€300k,300000.0,https://www.transfermarkt.com/marc-martinez/profil/spieler/129374,marc martinez,granada cf,2023,ES1
+Granada CF,16795,Adri López,412042,€200k,200000.0,https://www.transfermarkt.com/adri-lopez/profil/spieler/412042,adri lopez,granada cf,2023,ES1
+Granada CF,16795,Raúl Fernández,54217,€200k,200000.0,https://www.transfermarkt.com/raul-fernandez/profil/spieler/54217,raul fernandez,granada cf,2023,ES1
+Granada CF,16795,Pol Tristán,605528,€100k,100000.0,https://www.transfermarkt.com/pol-tristan/profil/spieler/605528,pol tristan,granada cf,2023,ES1
+Granada CF,16795,Fran Árbol,891312,-,,https://www.transfermarkt.com/fran-arbol/profil/spieler/891312,fran arbol,granada cf,2023,ES1
+Granada CF,16795,Bruno Méndez,552912,€5.00m,5000000.0,https://www.transfermarkt.com/bruno-mendez/profil/spieler/552912,bruno mendez,granada cf,2023,ES1
+Granada CF,16795,Raúl Torrente,631222,€3.00m,3000000.0,https://www.transfermarkt.com/raul-torrente/profil/spieler/631222,raul torrente,granada cf,2023,ES1
+Granada CF,16795,Kamil Piatkowski,345449,€2.50m,2500000.0,https://www.transfermarkt.com/kamil-piatkowski/profil/spieler/345449,kamil piatkowski,granada cf,2023,ES1
+Granada CF,16795,Miguel Rubio,583510,€1.50m,1500000.0,https://www.transfermarkt.com/miguel-rubio/profil/spieler/583510,miguel rubio,granada cf,2023,ES1
+Granada CF,16795,Ignasi Miquel,70245,€1.20m,1200000.0,https://www.transfermarkt.com/ignasi-miquel/profil/spieler/70245,ignasi miquel,granada cf,2023,ES1
+Granada CF,16795,Jesús Vallejo,251896,€1.00m,1000000.0,https://www.transfermarkt.com/jesus-vallejo/profil/spieler/251896,jesus vallejo,granada cf,2023,ES1
+Granada CF,16795,Miki Bosch,707276,€100k,100000.0,https://www.transfermarkt.com/miki-bosch/profil/spieler/707276,miki bosch,granada cf,2023,ES1
+Granada CF,16795,Álvaro Carreras,811778,€7.00m,7000000.0,https://www.transfermarkt.com/alvaro-carreras/profil/spieler/811778,alvaro carreras,granada cf,2023,ES1
+Granada CF,16795,Faitout Maouassa,357072,€4.00m,4000000.0,https://www.transfermarkt.com/faitout-maouassa/profil/spieler/357072,faitout maouassa,granada cf,2023,ES1
+Granada CF,16795,Carlos Neva,448844,€2.50m,2500000.0,https://www.transfermarkt.com/carlos-neva/profil/spieler/448844,carlos neva,granada cf,2023,ES1
+Granada CF,16795,Miguel Ángel Brau,713649,€150k,150000.0,https://www.transfermarkt.com/miguel-angel-brau/profil/spieler/713649,miguel angel brau,granada cf,2023,ES1
+Granada CF,16795,Ricard Sánchez,388545,€2.50m,2500000.0,https://www.transfermarkt.com/ricard-sanchez/profil/spieler/388545,ricard sanchez,granada cf,2023,ES1
+Granada CF,16795,Wilson Manafá,257388,€1.30m,1300000.0,https://www.transfermarkt.com/wilson-manafa/profil/spieler/257388,wilson manafa,granada cf,2023,ES1
+Granada CF,16795,Víctor Díaz,58330,€400k,400000.0,https://www.transfermarkt.com/victor-diaz/profil/spieler/58330,victor diaz,granada cf,2023,ES1
+Granada CF,16795,Gerard Gumbau,268670,€3.00m,3000000.0,https://www.transfermarkt.com/gerard-gumbau/profil/spieler/268670,gerard gumbau,granada cf,2023,ES1
+Granada CF,16795,Martin Hongla,398808,€2.50m,2500000.0,https://www.transfermarkt.com/martin-hongla/profil/spieler/398808,martin hongla,granada cf,2023,ES1
+Granada CF,16795,Njegos Petrovic,376588,€2.50m,2500000.0,https://www.transfermarkt.com/njegos-petrovic/profil/spieler/376588,njegos petrovic,granada cf,2023,ES1
+Granada CF,16795,Gonzalo Villar,398163,€3.00m,3000000.0,https://www.transfermarkt.com/gonzalo-villar/profil/spieler/398163,gonzalo villar,granada cf,2023,ES1
+Granada CF,16795,Sergio Ruiz,394694,€2.00m,2000000.0,https://www.transfermarkt.com/sergio-ruiz/profil/spieler/394694,sergio ruiz,granada cf,2023,ES1
+Granada CF,16795,Lass Sangaré,944124,€150k,150000.0,https://www.transfermarkt.com/lass-sangare/profil/spieler/944124,lass sangare,granada cf,2023,ES1
+Granada CF,16795,Óscar Melendo,448344,€2.00m,2000000.0,https://www.transfermarkt.com/oscar-melendo/profil/spieler/448344,oscar melendo,granada cf,2023,ES1
+Granada CF,16795,Mario González,833340,€150k,150000.0,https://www.transfermarkt.com/mario-gonzalez/profil/spieler/833340,mario gonzalez,granada cf,2023,ES1
+Granada CF,16795,Bryan Zaragoza,713644,€12.00m,12000000.0,https://www.transfermarkt.com/bryan-zaragoza/profil/spieler/713644,bryan zaragoza,granada cf,2023,ES1
+Granada CF,16795,Myrto Uzuni,315289,€8.00m,8000000.0,https://www.transfermarkt.com/myrto-uzuni/profil/spieler/315289,myrto uzuni,granada cf,2023,ES1
+Granada CF,16795,Kamil Jozwiak,289167,€2.00m,2000000.0,https://www.transfermarkt.com/kamil-jozwiak/profil/spieler/289167,kamil jozwiak,granada cf,2023,ES1
+Granada CF,16795,Alberto Perea,99559,€450k,450000.0,https://www.transfermarkt.com/alberto-perea/profil/spieler/99559,alberto perea,granada cf,2023,ES1
+Granada CF,16795,Sergio Rodelas,1064103,€200k,200000.0,https://www.transfermarkt.com/sergio-rodelas/profil/spieler/1064103,sergio rodelas,granada cf,2023,ES1
+Granada CF,16795,Facundo Pellistri,676318,€8.00m,8000000.0,https://www.transfermarkt.com/facundo-pellistri/profil/spieler/676318,facundo pellistri,granada cf,2023,ES1
+Granada CF,16795,Antonio Puertas,262365,€2.00m,2000000.0,https://www.transfermarkt.com/antonio-puertas/profil/spieler/262365,antonio puertas,granada cf,2023,ES1
+Granada CF,16795,Theo Corbeanu,568535,€1.50m,1500000.0,https://www.transfermarkt.com/theo-corbeanu/profil/spieler/568535,theo corbeanu,granada cf,2023,ES1
+Granada CF,16795,José Callejón,61253,€800k,800000.0,https://www.transfermarkt.com/jose-callejon/profil/spieler/61253,jose callejon,granada cf,2023,ES1
+Granada CF,16795,Alberto Soro,487688,€700k,700000.0,https://www.transfermarkt.com/alberto-soro/profil/spieler/487688,alberto soro,granada cf,2023,ES1
+Granada CF,16795,Pablo Sáenz,821820,€150k,150000.0,https://www.transfermarkt.com/pablo-saenz/profil/spieler/821820,pablo saenz,granada cf,2023,ES1
+Granada CF,16795,Samu Aghehowa,991268,€35.00m,35000000.0,https://www.transfermarkt.com/samu-aghehowa/profil/spieler/991268,samu aghehowa,granada cf,2023,ES1
+Granada CF,16795,Lucas Boyé,334222,€7.00m,7000000.0,https://www.transfermarkt.com/lucas-boye/profil/spieler/334222,lucas boye,granada cf,2023,ES1
+Granada CF,16795,Matías Arezo,611426,€7.00m,7000000.0,https://www.transfermarkt.com/matias-arezo/profil/spieler/611426,matias arezo,granada cf,2023,ES1
+Granada CF,16795,Shon Weissman,247652,€1.70m,1700000.0,https://www.transfermarkt.com/shon-weissman/profil/spieler/247652,shon weissman,granada cf,2023,ES1
+Granada CF,16795,Famara Diédhiou,237125,€500k,500000.0,https://www.transfermarkt.com/famara-diedhiou/profil/spieler/237125,famara diedhiou,granada cf,2023,ES1
+Granada CF,16795,Eghosa Bello,1056096,€50k,50000.0,https://www.transfermarkt.com/eghosa-bello/profil/spieler/1056096,eghosa bello,granada cf,2023,ES1
+Getafe CF,3709,David Soria,226012,€5.00m,5000000.0,https://www.transfermarkt.com/david-soria/profil/spieler/226012,david soria,getafe cf,2023,ES1
+Getafe CF,3709,Daniel Fuzato,438682,€900k,900000.0,https://www.transfermarkt.com/daniel-fuzato/profil/spieler/438682,daniel fuzato,getafe cf,2023,ES1
+Getafe CF,3709,Jorge Benito,1135452,€25k,25000.0,https://www.transfermarkt.com/jorge-benito/profil/spieler/1135452,jorge benito,getafe cf,2023,ES1
+Getafe CF,3709,Djordjije Medenica,1130318,-,,https://www.transfermarkt.com/djordjije-medenica/profil/spieler/1130318,djordjije medenica,getafe cf,2023,ES1
+Getafe CF,3709,Gastón Álvarez,577486,€15.00m,15000000.0,https://www.transfermarkt.com/gaston-alvarez/profil/spieler/577486,gaston alvarez,getafe cf,2023,ES1
+Getafe CF,3709,Omar Alderete,353032,€5.00m,5000000.0,https://www.transfermarkt.com/omar-alderete/profil/spieler/353032,omar alderete,getafe cf,2023,ES1
+Getafe CF,3709,Dakonam Djené,221150,€2.50m,2500000.0,https://www.transfermarkt.com/dakonam-djene/profil/spieler/221150,dakonam djene,getafe cf,2023,ES1
+Getafe CF,3709,Domingos Duarte,257376,€2.00m,2000000.0,https://www.transfermarkt.com/domingos-duarte/profil/spieler/257376,domingos duarte,getafe cf,2023,ES1
+Getafe CF,3709,Stefan Mitrovic,143029,€1.30m,1300000.0,https://www.transfermarkt.com/stefan-mitrovic/profil/spieler/143029,stefan mitrovic,getafe cf,2023,ES1
+Getafe CF,3709,Nabil Aberdin,908621,€100k,100000.0,https://www.transfermarkt.com/nabil-aberdin/profil/spieler/908621,nabil aberdin,getafe cf,2023,ES1
+Getafe CF,3709,Sergio Gimeno,623025,€50k,50000.0,https://www.transfermarkt.com/sergio-gimeno/profil/spieler/623025,sergio gimeno,getafe cf,2023,ES1
+Getafe CF,3709,Diego Rico,249513,€1.50m,1500000.0,https://www.transfermarkt.com/diego-rico/profil/spieler/249513,diego rico,getafe cf,2023,ES1
+Getafe CF,3709,Fabrizio Angileri,268506,€1.00m,1000000.0,https://www.transfermarkt.com/fabrizio-angileri/profil/spieler/268506,fabrizio angileri,getafe cf,2023,ES1
+Getafe CF,3709,Jordi Martín,537763,€600k,600000.0,https://www.transfermarkt.com/jordi-martin/profil/spieler/537763,jordi martin,getafe cf,2023,ES1
+Getafe CF,3709,Gorka Rivera,1000136,€100k,100000.0,https://www.transfermarkt.com/gorka-rivera/profil/spieler/1000136,gorka rivera,getafe cf,2023,ES1
+Getafe CF,3709,Alejandro Herranz,1158757,€25k,25000.0,https://www.transfermarkt.com/alejandro-herranz/profil/spieler/1158757,alejandro herranz,getafe cf,2023,ES1
+Getafe CF,3709,José Ángel Carmona,711625,€3.50m,3500000.0,https://www.transfermarkt.com/jose-angel-carmona/profil/spieler/711625,jose angel carmona,getafe cf,2023,ES1
+Getafe CF,3709,Juan Iglesias,390688,€2.50m,2500000.0,https://www.transfermarkt.com/juan-iglesias/profil/spieler/390688,juan iglesias,getafe cf,2023,ES1
+Getafe CF,3709,Damián Suárez,76746,€650k,650000.0,https://www.transfermarkt.com/damian-suarez/profil/spieler/76746,damian suarez,getafe cf,2023,ES1
+Getafe CF,3709,Nemanja Maksimovic,273152,€6.00m,6000000.0,https://www.transfermarkt.com/nemanja-maksimovic/profil/spieler/273152,nemanja maksimovic,getafe cf,2023,ES1
+Getafe CF,3709,Mauro Arambarri,290249,€5.00m,5000000.0,https://www.transfermarkt.com/mauro-arambarri/profil/spieler/290249,mauro arambarri,getafe cf,2023,ES1
+Getafe CF,3709,Luis Milla,281989,€3.50m,3500000.0,https://www.transfermarkt.com/luis-milla/profil/spieler/281989,luis milla,getafe cf,2023,ES1
+Getafe CF,3709,Carles Aleñá,284854,€3.00m,3000000.0,https://www.transfermarkt.com/carles-alena/profil/spieler/284854,carles alena,getafe cf,2023,ES1
+Getafe CF,3709,Ilaix Moriba,617074,€3.00m,3000000.0,https://www.transfermarkt.com/ilaix-moriba/profil/spieler/617074,ilaix moriba,getafe cf,2023,ES1
+Getafe CF,3709,Yellu Santiago,941869,€1.00m,1000000.0,https://www.transfermarkt.com/yellu-santiago/profil/spieler/941869,yellu santiago,getafe cf,2023,ES1
+Getafe CF,3709,John Patrick,841121,€200k,200000.0,https://www.transfermarkt.com/john-patrick/profil/spieler/841121,john patrick,getafe cf,2023,ES1
+Getafe CF,3709,Facu Esnáider,737138,€100k,100000.0,https://www.transfermarkt.com/facu-esnaider/profil/spieler/737138,facu esnaider,getafe cf,2023,ES1
+Getafe CF,3709,Óscar Rodríguez,284884,€2.50m,2500000.0,https://www.transfermarkt.com/oscar-rodriguez/profil/spieler/284884,oscar rodriguez,getafe cf,2023,ES1
+Getafe CF,3709,Santi García,732096,€200k,200000.0,https://www.transfermarkt.com/santi-garcia/profil/spieler/732096,santi garcia,getafe cf,2023,ES1
+Getafe CF,3709,Diego López,891091,€100k,100000.0,https://www.transfermarkt.com/diego-lopez/profil/spieler/891091,diego lopez,getafe cf,2023,ES1
+Getafe CF,3709,Alberto Risco,1255616,-,,https://www.transfermarkt.com/alberto-risco/profil/spieler/1255616,alberto risco,getafe cf,2023,ES1
+Getafe CF,3709,Jeremy Jorge,1041934,€200k,200000.0,https://www.transfermarkt.com/jeremy-jorge/profil/spieler/1041934,jeremy jorge,getafe cf,2023,ES1
+Getafe CF,3709,Yassin Tallal,1184137,€50k,50000.0,https://www.transfermarkt.com/yassin-tallal/profil/spieler/1184137,yassin tallal,getafe cf,2023,ES1
+Getafe CF,3709,Mason Greenwood,532826,€25.00m,25000000.0,https://www.transfermarkt.com/mason-greenwood/profil/spieler/532826,mason greenwood,getafe cf,2023,ES1
+Getafe CF,3709,Portu,99353,€3.50m,3500000.0,https://www.transfermarkt.com/portu/profil/spieler/99353,portu,getafe cf,2023,ES1
+Getafe CF,3709,Enes Ünal,251106,€18.00m,18000000.0,https://www.transfermarkt.com/enes-unal/profil/spieler/251106,enes unal,getafe cf,2023,ES1
+Getafe CF,3709,Borja Mayoral,298976,€15.00m,15000000.0,https://www.transfermarkt.com/borja-mayoral/profil/spieler/298976,borja mayoral,getafe cf,2023,ES1
+Getafe CF,3709,Juanmi Latasa,623521,€2.80m,2800000.0,https://www.transfermarkt.com/juanmi-latasa/profil/spieler/623521,juanmi latasa,getafe cf,2023,ES1
+Getafe CF,3709,Choco Lozano,131275,€1.20m,1200000.0,https://www.transfermarkt.com/choco-lozano/profil/spieler/131275,choco lozano,getafe cf,2023,ES1
+Getafe CF,3709,Jaime Mata,227961,€900k,900000.0,https://www.transfermarkt.com/jaime-mata/profil/spieler/227961,jaime mata,getafe cf,2023,ES1
+Deportivo Alavés,1108,Antonio Sivera,298197,€6.00m,6000000.0,https://www.transfermarkt.com/antonio-sivera/profil/spieler/298197,antonio sivera,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Jesús Owono,631693,€1.00m,1000000.0,https://www.transfermarkt.com/jesus-owono/profil/spieler/631693,jesus owono,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Adrián Rodríguez,608382,€150k,150000.0,https://www.transfermarkt.com/adrian-rodriguez/profil/spieler/608382,adrian rodriguez,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Gaizka García,895316,€100k,100000.0,https://www.transfermarkt.com/gaizka-garcia/profil/spieler/895316,gaizka garcia,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Rubén Montero,948253,-,,https://www.transfermarkt.com/ruben-montero/profil/spieler/948253,ruben montero,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Abdel Abqar,559979,€7.50m,7500000.0,https://www.transfermarkt.com/abdel-abqar/profil/spieler/559979,abdel abqar,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Rafa Marín,662261,€7.50m,7500000.0,https://www.transfermarkt.com/rafa-marin/profil/spieler/662261,rafa marin,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Rubén Duarte,177046,€3.00m,3000000.0,https://www.transfermarkt.com/ruben-duarte/profil/spieler/177046,ruben duarte,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Nikola Maras,258475,€1.20m,1200000.0,https://www.transfermarkt.com/nikola-maras/profil/spieler/258475,nikola maras,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Aleksandar Sedlar,237499,€400k,400000.0,https://www.transfermarkt.com/aleksandar-sedlar/profil/spieler/237499,aleksandar sedlar,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Álvaro García,1064403,€150k,150000.0,https://www.transfermarkt.com/alvaro-garcia/profil/spieler/1064403,alvaro garcia,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Javi López,568158,€7.50m,7500000.0,https://www.transfermarkt.com/javi-lopez/profil/spieler/568158,javi lopez,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Victor Parada,591957,€200k,200000.0,https://www.transfermarkt.com/victor-parada/profil/spieler/591957,victor parada,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Eneko Ortiz,892217,€150k,150000.0,https://www.transfermarkt.com/eneko-ortiz/profil/spieler/892217,eneko ortiz,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Andoni Gorosabel,289255,€5.00m,5000000.0,https://www.transfermarkt.com/andoni-gorosabel/profil/spieler/289255,andoni gorosabel,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Nahuel Tenaglia,533568,€2.00m,2000000.0,https://www.transfermarkt.com/nahuel-tenaglia/profil/spieler/533568,nahuel tenaglia,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Egoitz Muñoz,1064391,€200k,200000.0,https://www.transfermarkt.com/egoitz-munoz/profil/spieler/1064391,egoitz munoz,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Joseda Álvarez,718177,€100k,100000.0,https://www.transfermarkt.com/joseda-alvarez/profil/spieler/718177,joseda alvarez,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Antonio Blanco,495621,€7.50m,7500000.0,https://www.transfermarkt.com/antonio-blanco/profil/spieler/495621,antonio blanco,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Carlos Protesoni,431190,€1.50m,1500000.0,https://www.transfermarkt.com/carlos-protesoni/profil/spieler/431190,carlos protesoni,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Tomás Mendes,646734,€200k,200000.0,https://www.transfermarkt.com/tomas-mendes/profil/spieler/646734,tomas mendes,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Ander Guevara,465967,€5.00m,5000000.0,https://www.transfermarkt.com/ander-guevara/profil/spieler/465967,ander guevara,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Jon Guridi,289257,€4.00m,4000000.0,https://www.transfermarkt.com/jon-guridi/profil/spieler/289257,jon guridi,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Selu Diallo,1054931,€200k,200000.0,https://www.transfermarkt.com/selu-diallo/profil/spieler/1054931,selu diallo,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Ianis Hagi,282076,€2.00m,2000000.0,https://www.transfermarkt.com/ianis-hagi/profil/spieler/282076,ianis hagi,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Ander Sánchez,1064402,€100k,100000.0,https://www.transfermarkt.com/ander-sanchez/profil/spieler/1064402,ander sanchez,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Luis Rioja,278837,€4.00m,4000000.0,https://www.transfermarkt.com/luis-rioja/profil/spieler/278837,luis rioja,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Abde Rebbach,718034,€800k,800000.0,https://www.transfermarkt.com/abde-rebbach/profil/spieler/718034,abde rebbach,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,José de León,867611,€200k,200000.0,https://www.transfermarkt.com/jose-de-leon/profil/spieler/867611,jose de leon,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Álex Sola,434990,€4.00m,4000000.0,https://www.transfermarkt.com/alex-sola/profil/spieler/434990,alex sola,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Carlos Vicente,540536,€4.00m,4000000.0,https://www.transfermarkt.com/carlos-vicente/profil/spieler/540536,carlos vicente,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Giuliano Simeone,742201,€3.00m,3000000.0,https://www.transfermarkt.com/giuliano-simeone/profil/spieler/742201,giuliano simeone,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Xeber Alkain,572271,€1.50m,1500000.0,https://www.transfermarkt.com/xeber-alkain/profil/spieler/572271,xeber alkain,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Unai Ropero,718029,€500k,500000.0,https://www.transfermarkt.com/unai-ropero/profil/spieler/718029,unai ropero,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Samu Aghehowa,991268,€35.00m,35000000.0,https://www.transfermarkt.com/samu-aghehowa/profil/spieler/991268,samu aghehowa,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Miguel de la Fuente,480883,€2.50m,2500000.0,https://www.transfermarkt.com/miguel-de-la-fuente/profil/spieler/480883,miguel de la fuente,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Jon Karrikaburu,711382,€2.50m,2500000.0,https://www.transfermarkt.com/jon-karrikaburu/profil/spieler/711382,jon karrikaburu,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Mamadou Sylla,166683,€1.50m,1500000.0,https://www.transfermarkt.com/mamadou-sylla/profil/spieler/166683,mamadou sylla,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Kike García,93936,€1.00m,1000000.0,https://www.transfermarkt.com/kike-garcia/profil/spieler/93936,kike garcia,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Joaquín Panichelli,1064871,€300k,300000.0,https://www.transfermarkt.com/joaquin-panichelli/profil/spieler/1064871,joaquin panichelli,deportivo alaves,2023,ES1
+Deportivo Alavés,1108,Giorgi Gagua,550492,€250k,250000.0,https://www.transfermarkt.com/giorgi-gagua/profil/spieler/550492,giorgi gagua,deportivo alaves,2023,ES1
+UD Las Palmas,472,Álvaro Valles,417913,€12.00m,12000000.0,https://www.transfermarkt.com/alvaro-valles/profil/spieler/417913,alvaro valles,ud las palmas,2023,ES1
+UD Las Palmas,472,Aarón Escandell,284430,€1.00m,1000000.0,https://www.transfermarkt.com/aaron-escandell/profil/spieler/284430,aaron escandell,ud las palmas,2023,ES1
+UD Las Palmas,472,Ale Gorrin,749978,-,,https://www.transfermarkt.com/ale-gorrin/profil/spieler/749978,ale gorrin,ud las palmas,2023,ES1
+UD Las Palmas,472,Álvaro Killane,1036451,-,,https://www.transfermarkt.com/alvaro-killane/profil/spieler/1036451,alvaro killane,ud las palmas,2023,ES1
+UD Las Palmas,472,Mika Mármol,617060,€15.00m,15000000.0,https://www.transfermarkt.com/mika-marmol/profil/spieler/617060,mika marmol,ud las palmas,2023,ES1
+UD Las Palmas,472,Saúl Coco,588426,€8.00m,8000000.0,https://www.transfermarkt.com/saul-coco/profil/spieler/588426,saul coco,ud las palmas,2023,ES1
+UD Las Palmas,472,Álex Suárez,510396,€1.20m,1200000.0,https://www.transfermarkt.com/alex-suarez/profil/spieler/510396,alex suarez,ud las palmas,2023,ES1
+UD Las Palmas,472,Juanma Herzog,1146029,€1.00m,1000000.0,https://www.transfermarkt.com/juanma-herzog/profil/spieler/1146029,juanma herzog,ud las palmas,2023,ES1
+UD Las Palmas,472,Eric Curbelo,390823,€800k,800000.0,https://www.transfermarkt.com/eric-curbelo/profil/spieler/390823,eric curbelo,ud las palmas,2023,ES1
+UD Las Palmas,472,Sergi Cardona,678406,€6.00m,6000000.0,https://www.transfermarkt.com/sergi-cardona/profil/spieler/678406,sergi cardona,ud las palmas,2023,ES1
+UD Las Palmas,472,Daley Sinkgraven,215099,€1.00m,1000000.0,https://www.transfermarkt.com/daley-sinkgraven/profil/spieler/215099,daley sinkgraven,ud las palmas,2023,ES1
+UD Las Palmas,472,Gabriel Palmero,1011316,-,,https://www.transfermarkt.com/gabriel-palmero/profil/spieler/1011316,gabriel palmero,ud las palmas,2023,ES1
+UD Las Palmas,472,Julián Araujo,513970,€8.00m,8000000.0,https://www.transfermarkt.com/julian-araujo/profil/spieler/513970,julian araujo,ud las palmas,2023,ES1
+UD Las Palmas,472,Marvin Park,603940,€2.00m,2000000.0,https://www.transfermarkt.com/marvin-park/profil/spieler/603940,marvin park,ud las palmas,2023,ES1
+UD Las Palmas,472,Álvaro Lemos,230222,€700k,700000.0,https://www.transfermarkt.com/alvaro-lemos/profil/spieler/230222,alvaro lemos,ud las palmas,2023,ES1
+UD Las Palmas,472,Máximo Perrone,668547,€9.00m,9000000.0,https://www.transfermarkt.com/maximo-perrone/profil/spieler/668547,maximo perrone,ud las palmas,2023,ES1
+UD Las Palmas,472,Nuke Mfulu,203516,€700k,700000.0,https://www.transfermarkt.com/nuke-mfulu/profil/spieler/203516,nuke mfulu,ud las palmas,2023,ES1
+UD Las Palmas,472,Enzo Loiodice,581781,€4.00m,4000000.0,https://www.transfermarkt.com/enzo-loiodice/profil/spieler/581781,enzo loiodice,ud las palmas,2023,ES1
+UD Las Palmas,472,Javi Muñoz,282421,€3.00m,3000000.0,https://www.transfermarkt.com/javi-munoz/profil/spieler/282421,javi munoz,ud las palmas,2023,ES1
+UD Las Palmas,472,José Campaña,120095,€1.50m,1500000.0,https://www.transfermarkt.com/jose-campana/profil/spieler/120095,jose campana,ud las palmas,2023,ES1
+UD Las Palmas,472,Fabio González,531062,€500k,500000.0,https://www.transfermarkt.com/fabio-gonzalez/profil/spieler/531062,fabio gonzalez,ud las palmas,2023,ES1
+UD Las Palmas,472,Iñaki González,1019408,-,,https://www.transfermarkt.com/inaki-gonzalez/profil/spieler/1019408,inaki gonzalez,ud las palmas,2023,ES1
+UD Las Palmas,472,Aboubacar Bassinga,1210422,-,,https://www.transfermarkt.com/aboubacar-bassinga/profil/spieler/1210422,aboubacar bassinga,ud las palmas,2023,ES1
+UD Las Palmas,472,Kirian Rodríguez,566574,€12.00m,12000000.0,https://www.transfermarkt.com/kirian-rodriguez/profil/spieler/566574,kirian rodriguez,ud las palmas,2023,ES1
+UD Las Palmas,472,Munir El Haddadi,223725,€2.50m,2500000.0,https://www.transfermarkt.com/munir-el-haddadi/profil/spieler/223725,munir el haddadi,ud las palmas,2023,ES1
+UD Las Palmas,472,Jonathan Viera,153238,€1.00m,1000000.0,https://www.transfermarkt.com/jonathan-viera/profil/spieler/153238,jonathan viera,ud las palmas,2023,ES1
+UD Las Palmas,472,Yadam Santana,913955,-,,https://www.transfermarkt.com/yadam-santana/profil/spieler/913955,yadam santana,ud las palmas,2023,ES1
+UD Las Palmas,472,Alberto Moleiro,733576,€15.00m,15000000.0,https://www.transfermarkt.com/alberto-moleiro/profil/spieler/733576,alberto moleiro,ud las palmas,2023,ES1
+UD Las Palmas,472,Benito Ramírez,282672,€600k,600000.0,https://www.transfermarkt.com/benito-ramirez/profil/spieler/282672,benito ramirez,ud las palmas,2023,ES1
+UD Las Palmas,472,Pejiño,534379,€1.20m,1200000.0,https://www.transfermarkt.com/pejino/profil/spieler/534379,pejino,ud las palmas,2023,ES1
+UD Las Palmas,472,Sandro Ramírez,199369,€1.50m,1500000.0,https://www.transfermarkt.com/sandro-ramirez/profil/spieler/199369,sandro ramirez,ud las palmas,2023,ES1
+UD Las Palmas,472,Sory Kaba,355689,€1.50m,1500000.0,https://www.transfermarkt.com/sory-kaba/profil/spieler/355689,sory kaba,ud las palmas,2023,ES1
+UD Las Palmas,472,Marc Cardona,443222,€1.40m,1400000.0,https://www.transfermarkt.com/marc-cardona/profil/spieler/443222,marc cardona,ud las palmas,2023,ES1
+UD Las Palmas,472,Cristian Herrera,237617,€300k,300000.0,https://www.transfermarkt.com/cristian-herrera/profil/spieler/237617,cristian herrera,ud las palmas,2023,ES1
+UD Las Palmas,472,Pau Ferrer,940462,-,,https://www.transfermarkt.com/pau-ferrer/profil/spieler/940462,pau ferrer,ud las palmas,2023,ES1
+CA Osasuna,331,Sergio Herrera,248738,€6.00m,6000000.0,https://www.transfermarkt.com/sergio-herrera/profil/spieler/248738,sergio herrera,ca osasuna,2023,ES1
+CA Osasuna,331,Aitor Fernández,118997,€1.80m,1800000.0,https://www.transfermarkt.com/aitor-fernandez/profil/spieler/118997,aitor fernandez,ca osasuna,2023,ES1
+CA Osasuna,331,Pablo Valencia,634117,€200k,200000.0,https://www.transfermarkt.com/pablo-valencia/profil/spieler/634117,pablo valencia,ca osasuna,2023,ES1
+CA Osasuna,331,Dimitrios Stamatakis,890817,€200k,200000.0,https://www.transfermarkt.com/dimitrios-stamatakis/profil/spieler/890817,dimitrios stamatakis,ca osasuna,2023,ES1
+CA Osasuna,331,David García,298589,€10.00m,10000000.0,https://www.transfermarkt.com/david-garcia/profil/spieler/298589,david garcia,ca osasuna,2023,ES1
+CA Osasuna,331,Jorge Herrando,555500,€6.00m,6000000.0,https://www.transfermarkt.com/jorge-herrando/profil/spieler/555500,jorge herrando,ca osasuna,2023,ES1
+CA Osasuna,331,Alejandro Catena,449796,€4.00m,4000000.0,https://www.transfermarkt.com/alejandro-catena/profil/spieler/449796,alejandro catena,ca osasuna,2023,ES1
+CA Osasuna,331,Unai García,197122,€1.20m,1200000.0,https://www.transfermarkt.com/unai-garcia/profil/spieler/197122,unai garcia,ca osasuna,2023,ES1
+CA Osasuna,331,Jorge Moreno,717957,€500k,500000.0,https://www.transfermarkt.com/jorge-moreno/profil/spieler/717957,jorge moreno,ca osasuna,2023,ES1
+CA Osasuna,331,Juan Cruz,169497,€2.20m,2200000.0,https://www.transfermarkt.com/juan-cruz/profil/spieler/169497,juan cruz,ca osasuna,2023,ES1
+CA Osasuna,331,Johan Mojica,262939,€2.20m,2200000.0,https://www.transfermarkt.com/johan-mojica/profil/spieler/262939,johan mojica,ca osasuna,2023,ES1
+CA Osasuna,331,Jesús Areso,488626,€7.50m,7500000.0,https://www.transfermarkt.com/jesus-areso/profil/spieler/488626,jesus areso,ca osasuna,2023,ES1
+CA Osasuna,331,Rubén Peña,238868,€2.20m,2200000.0,https://www.transfermarkt.com/ruben-pena/profil/spieler/238868,ruben pena,ca osasuna,2023,ES1
+CA Osasuna,331,Nacho Vidal,216870,€2.00m,2000000.0,https://www.transfermarkt.com/nacho-vidal/profil/spieler/216870,nacho vidal,ca osasuna,2023,ES1
+CA Osasuna,331,Iñigo Arguibide,1065442,€150k,150000.0,https://www.transfermarkt.com/inigo-arguibide/profil/spieler/1065442,inigo arguibide,ca osasuna,2023,ES1
+CA Osasuna,331,Iker Muñoz,710677,€5.00m,5000000.0,https://www.transfermarkt.com/iker-munoz/profil/spieler/710677,iker munoz,ca osasuna,2023,ES1
+CA Osasuna,331,Lucas Torró,213670,€4.00m,4000000.0,https://www.transfermarkt.com/lucas-torro/profil/spieler/213670,lucas torro,ca osasuna,2023,ES1
+CA Osasuna,331,Jon Moncayola,552425,€7.00m,7000000.0,https://www.transfermarkt.com/jon-moncayola/profil/spieler/552425,jon moncayola,ca osasuna,2023,ES1
+CA Osasuna,331,Pablo Ibáñez,785353,€2.50m,2500000.0,https://www.transfermarkt.com/pablo-ibanez/profil/spieler/785353,pablo ibanez,ca osasuna,2023,ES1
+CA Osasuna,331,Darko Brasanac,95641,€1.40m,1400000.0,https://www.transfermarkt.com/darko-brasanac/profil/spieler/95641,darko brasanac,ca osasuna,2023,ES1
+CA Osasuna,331,Asier Osambela,1038512,€500k,500000.0,https://www.transfermarkt.com/asier-osambela/profil/spieler/1038512,asier osambela,ca osasuna,2023,ES1
+CA Osasuna,331,Aimar Oroz,634131,€15.00m,15000000.0,https://www.transfermarkt.com/aimar-oroz/profil/spieler/634131,aimar oroz,ca osasuna,2023,ES1
+CA Osasuna,331,Javi Martínez,471474,€1.20m,1200000.0,https://www.transfermarkt.com/javi-martinez/profil/spieler/471474,javi martinez,ca osasuna,2023,ES1
+CA Osasuna,331,Xabi Huarte,634125,€200k,200000.0,https://www.transfermarkt.com/xabi-huarte/profil/spieler/634125,xabi huarte,ca osasuna,2023,ES1
+CA Osasuna,331,Moi Gómez,175449,€3.50m,3500000.0,https://www.transfermarkt.com/moi-gomez/profil/spieler/175449,moi gomez,ca osasuna,2023,ES1
+CA Osasuna,331,José Manuel Arnáiz,364603,€2.00m,2000000.0,https://www.transfermarkt.com/jose-manuel-arnaiz/profil/spieler/364603,jose manuel arnaiz,ca osasuna,2023,ES1
+CA Osasuna,331,Rubén García,213260,€2.50m,2500000.0,https://www.transfermarkt.com/ruben-garcia/profil/spieler/213260,ruben garcia,ca osasuna,2023,ES1
+CA Osasuna,331,Kike Barja,298575,€2.00m,2000000.0,https://www.transfermarkt.com/kike-barja/profil/spieler/298575,kike barja,ca osasuna,2023,ES1
+CA Osasuna,331,Ante Budimir,46413,€5.00m,5000000.0,https://www.transfermarkt.com/ante-budimir/profil/spieler/46413,ante budimir,ca osasuna,2023,ES1
+CA Osasuna,331,Raúl García,631002,€4.00m,4000000.0,https://www.transfermarkt.com/raul-garcia/profil/spieler/631002,raul garcia,ca osasuna,2023,ES1
+CA Osasuna,331,Chimy Ávila,167721,€3.00m,3000000.0,https://www.transfermarkt.com/chimy-avila/profil/spieler/167721,chimy avila,ca osasuna,2023,ES1
+CA Osasuna,331,Max Svensson,705808,€400k,400000.0,https://www.transfermarkt.com/max-svensson/profil/spieler/705808,max svensson,ca osasuna,2023,ES1
+UD Almería,3302,Luís Maximiano,367464,€5.00m,5000000.0,https://www.transfermarkt.com/luis-maximiano/profil/spieler/367464,luis maximiano,ud almeria,2023,ES1
+UD Almería,3302,Fernando Martínez,81997,€700k,700000.0,https://www.transfermarkt.com/fernando-martinez/profil/spieler/81997,fernando martinez,ud almeria,2023,ES1
+UD Almería,3302,Diego Mariño,59349,€300k,300000.0,https://www.transfermarkt.com/diego-marino/profil/spieler/59349,diego marino,ud almeria,2023,ES1
+UD Almería,3302,Bruno Iribarne,747197,-,,https://www.transfermarkt.com/bruno-iribarne/profil/spieler/747197,bruno iribarne,ud almeria,2023,ES1
+UD Almería,3302,Srdjan Babic,222805,€4.00m,4000000.0,https://www.transfermarkt.com/srdjan-babic/profil/spieler/222805,srdjan babic,ud almeria,2023,ES1
+UD Almería,3302,Edgar González,401624,€3.00m,3000000.0,https://www.transfermarkt.com/edgar-gonzalez/profil/spieler/401624,edgar gonzalez,ud almeria,2023,ES1
+UD Almería,3302,César Montes,387687,€3.00m,3000000.0,https://www.transfermarkt.com/cesar-montes/profil/spieler/387687,cesar montes,ud almeria,2023,ES1
+UD Almería,3302,Kaiky,743589,€2.00m,2000000.0,https://www.transfermarkt.com/kaiky/profil/spieler/743589,kaiky,ud almeria,2023,ES1
+UD Almería,3302,Chumi,333361,€2.00m,2000000.0,https://www.transfermarkt.com/chumi/profil/spieler/333361,chumi,ud almeria,2023,ES1
+UD Almería,3302,Aleksandar Radovanovic,339501,€900k,900000.0,https://www.transfermarkt.com/aleksandar-radovanovic/profil/spieler/339501,aleksandar radovanovic,ud almeria,2023,ES1
+UD Almería,3302,Paco Sanz,1064116,-,,https://www.transfermarkt.com/paco-sanz/profil/spieler/1064116,paco sanz,ud almeria,2023,ES1
+UD Almería,3302,Sergio Akieme,355627,€7.00m,7000000.0,https://www.transfermarkt.com/sergio-akieme/profil/spieler/355627,sergio akieme,ud almeria,2023,ES1
+UD Almería,3302,Bruno Langa,631472,€1.50m,1500000.0,https://www.transfermarkt.com/bruno-langa/profil/spieler/631472,bruno langa,ud almeria,2023,ES1
+UD Almería,3302,Álex Centelles,423443,€1.20m,1200000.0,https://www.transfermarkt.com/alex-centelles/profil/spieler/423443,alex centelles,ud almeria,2023,ES1
+UD Almería,3302,Arvin Appiah,433257,€400k,400000.0,https://www.transfermarkt.com/arvin-appiah/profil/spieler/433257,arvin appiah,ud almeria,2023,ES1
+UD Almería,3302,Marc Pubill,844637,€4.00m,4000000.0,https://www.transfermarkt.com/marc-pubill/profil/spieler/844637,marc pubill,ud almeria,2023,ES1
+UD Almería,3302,Álex Pozo,341272,€2.00m,2000000.0,https://www.transfermarkt.com/alex-pozo/profil/spieler/341272,alex pozo,ud almeria,2023,ES1
+UD Almería,3302,Houboulang Mendes,442552,€700k,700000.0,https://www.transfermarkt.com/houboulang-mendes/profil/spieler/442552,houboulang mendes,ud almeria,2023,ES1
+UD Almería,3302,Miguel Peña,718178,-,,https://www.transfermarkt.com/miguel-pena/profil/spieler/718178,miguel pena,ud almeria,2023,ES1
+UD Almería,3302,Carlos Ballestero,945760,-,,https://www.transfermarkt.com/carlos-ballestero/profil/spieler/945760,carlos ballestero,ud almeria,2023,ES1
+UD Almería,3302,Dion Lopy,649033,€10.00m,10000000.0,https://www.transfermarkt.com/dion-lopy/profil/spieler/649033,dion lopy,ud almeria,2023,ES1
+UD Almería,3302,Lucas Robertone,457221,€7.00m,7000000.0,https://www.transfermarkt.com/lucas-robertone/profil/spieler/457221,lucas robertone,ud almeria,2023,ES1
+UD Almería,3302,Iddrisu Baba,442805,€2.20m,2200000.0,https://www.transfermarkt.com/iddrisu-baba/profil/spieler/442805,iddrisu baba,ud almeria,2023,ES1
+UD Almería,3302,Arnau Puigmal,536030,€1.80m,1800000.0,https://www.transfermarkt.com/arnau-puigmal/profil/spieler/536030,arnau puigmal,ud almeria,2023,ES1
+UD Almería,3302,Gonzalo Melero,162056,€1.80m,1800000.0,https://www.transfermarkt.com/gonzalo-melero/profil/spieler/162056,gonzalo melero,ud almeria,2023,ES1
+UD Almería,3302,Marcos Peña,1064121,€1.00m,1000000.0,https://www.transfermarkt.com/marcos-pena/profil/spieler/1064121,marcos pena,ud almeria,2023,ES1
+UD Almería,3302,Gui Guedes,696506,€900k,900000.0,https://www.transfermarkt.com/gui-guedes/profil/spieler/696506,gui guedes,ud almeria,2023,ES1
+UD Almería,3302,Martin Svidersky,630523,€300k,300000.0,https://www.transfermarkt.com/martin-svidersky/profil/spieler/630523,martin svidersky,ud almeria,2023,ES1
+UD Almería,3302,Sergio Arribas,537762,€10.00m,10000000.0,https://www.transfermarkt.com/sergio-arribas/profil/spieler/537762,sergio arribas,ud almeria,2023,ES1
+UD Almería,3302,Jonathan Viera,153238,€1.00m,1000000.0,https://www.transfermarkt.com/jonathan-viera/profil/spieler/153238,jonathan viera,ud almeria,2023,ES1
+UD Almería,3302,Largie Ramazani,518644,€5.00m,5000000.0,https://www.transfermarkt.com/largie-ramazani/profil/spieler/518644,largie ramazani,ud almeria,2023,ES1
+UD Almería,3302,Lázaro,574772,€3.50m,3500000.0,https://www.transfermarkt.com/lazaro/profil/spieler/574772,lazaro,ud almeria,2023,ES1
+UD Almería,3302,Luka Romero,769063,€5.00m,5000000.0,https://www.transfermarkt.com/luka-romero/profil/spieler/769063,luka romero,ud almeria,2023,ES1
+UD Almería,3302,Adrián Embarba,288318,€1.80m,1800000.0,https://www.transfermarkt.com/adrian-embarba/profil/spieler/288318,adrian embarba,ud almeria,2023,ES1
+UD Almería,3302,Luis Suárez,424784,€3.50m,3500000.0,https://www.transfermarkt.com/luis-suarez/profil/spieler/424784,luis suarez,ud almeria,2023,ES1
+UD Almería,3302,Ibrahima Koné,490223,€2.50m,2500000.0,https://www.transfermarkt.com/ibrahima-kone/profil/spieler/490223,ibrahima kone,ud almeria,2023,ES1
+UD Almería,3302,Léo Baptistão,221899,€1.50m,1500000.0,https://www.transfermarkt.com/leo-baptistao/profil/spieler/221899,leo baptistao,ud almeria,2023,ES1
+UD Almería,3302,Choco Lozano,131275,€1.20m,1200000.0,https://www.transfermarkt.com/choco-lozano/profil/spieler/131275,choco lozano,ud almeria,2023,ES1
+UD Almería,3302,Marko Milovanović,845568,€900k,900000.0,https://www.transfermarkt.com/marko-milovanovic/profil/spieler/845568,marko milovanovic,ud almeria,2023,ES1
+UD Almería,3302,Marciano Sanca,1013774,€800k,800000.0,https://www.transfermarkt.com/marciano-sanca/profil/spieler/1013774,marciano sanca,ud almeria,2023,ES1
+UD Almería,3302,Rachad Fettal,891310,-,,https://www.transfermarkt.com/rachad-fettal/profil/spieler/891310,rachad fettal,ud almeria,2023,ES1
+RCD Mallorca,237,Predrag Rajković,190263,€10.00m,10000000.0,https://www.transfermarkt.com/predrag-rajkovic/profil/spieler/190263,predrag rajkovic,rcd mallorca,2023,ES1
+RCD Mallorca,237,Dominik Greif,316884,€2.50m,2500000.0,https://www.transfermarkt.com/dominik-greif/profil/spieler/316884,dominik greif,rcd mallorca,2023,ES1
+RCD Mallorca,237,Iván Cuéllar,27493,€100k,100000.0,https://www.transfermarkt.com/ivan-cuellar/profil/spieler/27493,ivan cuellar,rcd mallorca,2023,ES1
+RCD Mallorca,237,Pere García,632913,€50k,50000.0,https://www.transfermarkt.com/pere-garcia/profil/spieler/632913,pere garcia,rcd mallorca,2023,ES1
+RCD Mallorca,237,Alex Quevedo,892421,-,,https://www.transfermarkt.com/alex-quevedo/profil/spieler/892421,alex quevedo,rcd mallorca,2023,ES1
+RCD Mallorca,237,Martin Valjent,277384,€6.00m,6000000.0,https://www.transfermarkt.com/martin-valjent/profil/spieler/277384,martin valjent,rcd mallorca,2023,ES1
+RCD Mallorca,237,José Copete,520840,€2.80m,2800000.0,https://www.transfermarkt.com/jose-copete/profil/spieler/520840,jose copete,rcd mallorca,2023,ES1
+RCD Mallorca,237,Siebe Van der Heyden,400131,€2.00m,2000000.0,https://www.transfermarkt.com/siebe-van-der-heyden/profil/spieler/400131,siebe van der heyden,rcd mallorca,2023,ES1
+RCD Mallorca,237,Antonio Raíllo,278296,€2.00m,2000000.0,https://www.transfermarkt.com/antonio-raillo/profil/spieler/278296,antonio raillo,rcd mallorca,2023,ES1
+RCD Mallorca,237,Matija Nastasić,143559,€1.50m,1500000.0,https://www.transfermarkt.com/matija-nastasic/profil/spieler/143559,matija nastasic,rcd mallorca,2023,ES1
+RCD Mallorca,237,David López,947431,€100k,100000.0,https://www.transfermarkt.com/david-lopez/profil/spieler/947431,david lopez,rcd mallorca,2023,ES1
+RCD Mallorca,237,Toni Lato,320271,€3.50m,3500000.0,https://www.transfermarkt.com/toni-lato/profil/spieler/320271,toni lato,rcd mallorca,2023,ES1
+RCD Mallorca,237,Jaume Costa,65318,€900k,900000.0,https://www.transfermarkt.com/jaume-costa/profil/spieler/65318,jaume costa,rcd mallorca,2023,ES1
+RCD Mallorca,237,Marcos Fernández,947432,€50k,50000.0,https://www.transfermarkt.com/marcos-fernandez/profil/spieler/947432,marcos fernandez,rcd mallorca,2023,ES1
+RCD Mallorca,237,Pablo Maffeo,251876,€5.00m,5000000.0,https://www.transfermarkt.com/pablo-maffeo/profil/spieler/251876,pablo maffeo,rcd mallorca,2023,ES1
+RCD Mallorca,237,Giovanni González,339699,€3.00m,3000000.0,https://www.transfermarkt.com/giovanni-gonzalez/profil/spieler/339699,giovanni gonzalez,rcd mallorca,2023,ES1
+RCD Mallorca,237,Nacho Vidal,216870,€2.00m,2000000.0,https://www.transfermarkt.com/nacho-vidal/profil/spieler/216870,nacho vidal,rcd mallorca,2023,ES1
+RCD Mallorca,237,Carles Sogorb,1004518,-,,https://www.transfermarkt.com/carles-sogorb/profil/spieler/1004518,carles sogorb,rcd mallorca,2023,ES1
+RCD Mallorca,237,Yuzún Ley,1179588,-,,https://www.transfermarkt.com/yuzun-ley/profil/spieler/1179588,yuzun ley,rcd mallorca,2023,ES1
+RCD Mallorca,237,Samú Costa,657430,€10.00m,10000000.0,https://www.transfermarkt.com/samu-costa/profil/spieler/657430,samu costa,rcd mallorca,2023,ES1
+RCD Mallorca,237,Omar Mascarell,142031,€1.00m,1000000.0,https://www.transfermarkt.com/omar-mascarell/profil/spieler/142031,omar mascarell,rcd mallorca,2023,ES1
+RCD Mallorca,237,Sergi Darder,142021,€6.00m,6000000.0,https://www.transfermarkt.com/sergi-darder/profil/spieler/142021,sergi darder,rcd mallorca,2023,ES1
+RCD Mallorca,237,Manu Morlanes,335225,€2.50m,2500000.0,https://www.transfermarkt.com/manu-morlanes/profil/spieler/335225,manu morlanes,rcd mallorca,2023,ES1
+RCD Mallorca,237,Antonio Sánchez,513031,€2.50m,2500000.0,https://www.transfermarkt.com/antonio-sanchez/profil/spieler/513031,antonio sanchez,rcd mallorca,2023,ES1
+RCD Mallorca,237,Rubén Quintanilla,1056655,€50k,50000.0,https://www.transfermarkt.com/ruben-quintanilla/profil/spieler/1056655,ruben quintanilla,rcd mallorca,2023,ES1
+RCD Mallorca,237,Dani Rodríguez,139435,€1.00m,1000000.0,https://www.transfermarkt.com/dani-rodriguez/profil/spieler/139435,dani rodriguez,rcd mallorca,2023,ES1
+RCD Mallorca,237,Daniel Luna,857830,€300k,300000.0,https://www.transfermarkt.com/daniel-luna/profil/spieler/857830,daniel luna,rcd mallorca,2023,ES1
+RCD Mallorca,237,Nemanja Radonjić,245078,€2.80m,2800000.0,https://www.transfermarkt.com/nemanja-radonjic/profil/spieler/245078,nemanja radonjic,rcd mallorca,2023,ES1
+RCD Mallorca,237,Javi Llabrés,706138,€700k,700000.0,https://www.transfermarkt.com/javi-llabres/profil/spieler/706138,javi llabres,rcd mallorca,2023,ES1
+RCD Mallorca,237,Amath Ndiaye,339820,€1.50m,1500000.0,https://www.transfermarkt.com/amath-ndiaye/profil/spieler/339820,amath ndiaye,rcd mallorca,2023,ES1
+RCD Mallorca,237,Miguelito,632498,€50k,50000.0,https://www.transfermarkt.com/miguelito/profil/spieler/632498,miguelito,rcd mallorca,2023,ES1
+RCD Mallorca,237,Vedat Muriqi,256267,€12.00m,12000000.0,https://www.transfermarkt.com/vedat-muriqi/profil/spieler/256267,vedat muriqi,rcd mallorca,2023,ES1
+RCD Mallorca,237,Cyle Larin,343463,€4.00m,4000000.0,https://www.transfermarkt.com/cyle-larin/profil/spieler/343463,cyle larin,rcd mallorca,2023,ES1
+RCD Mallorca,237,Abdón Prats,177452,€1.80m,1800000.0,https://www.transfermarkt.com/abdon-prats/profil/spieler/177452,abdon prats,rcd mallorca,2023,ES1
+RCD Mallorca,237,Pau Mascaró,947460,-,,https://www.transfermarkt.com/pau-mascaro/profil/spieler/947460,pau mascaro,rcd mallorca,2023,ES1
+Rayo Vallecano,367,Stole Dimitrievski,165467,€4.00m,4000000.0,https://www.transfermarkt.com/stole-dimitrievski/profil/spieler/165467,stole dimitrievski,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Dani Cárdenas,397676,€1.80m,1800000.0,https://www.transfermarkt.com/dani-cardenas/profil/spieler/397676,dani cardenas,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Miguel Ángel Morro,607780,€600k,600000.0,https://www.transfermarkt.com/miguel-angel-morro/profil/spieler/607780,miguel angel morro,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Florian Lejeune,127108,€3.00m,3000000.0,https://www.transfermarkt.com/florian-lejeune/profil/spieler/127108,florian lejeune,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Abdul Mumin,451801,€2.50m,2500000.0,https://www.transfermarkt.com/abdul-mumin/profil/spieler/451801,abdul mumin,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Aridane Hernández,82503,€800k,800000.0,https://www.transfermarkt.com/aridane-hernandez/profil/spieler/82503,aridane hernandez,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Jorge Moreno,717957,€500k,500000.0,https://www.transfermarkt.com/jorge-moreno/profil/spieler/717957,jorge moreno,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Martín Pascual,638588,€300k,300000.0,https://www.transfermarkt.com/martin-pascual/profil/spieler/638588,martin pascual,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Alfonso Espino,311044,€2.40m,2400000.0,https://www.transfermarkt.com/alfonso-espino/profil/spieler/311044,alfonso espino,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Pep Chavarría,596122,€2.00m,2000000.0,https://www.transfermarkt.com/pep-chavarria/profil/spieler/596122,pep chavarria,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Iván Balliu,85295,€2.00m,2000000.0,https://www.transfermarkt.com/ivan-balliu/profil/spieler/85295,ivan balliu,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Andrei Rațiu,527966,€1.40m,1400000.0,https://www.transfermarkt.com/andrei-ratiu/profil/spieler/527966,andrei ratiu,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Miguel Crespo,498529,€4.00m,4000000.0,https://www.transfermarkt.com/miguel-crespo/profil/spieler/498529,miguel crespo,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Óscar Valentín,517753,€4.00m,4000000.0,https://www.transfermarkt.com/oscar-valentin/profil/spieler/517753,oscar valentin,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Kike Pérez,527698,€3.00m,3000000.0,https://www.transfermarkt.com/kike-perez/profil/spieler/527698,kike perez,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Unai López,192009,€3.00m,3000000.0,https://www.transfermarkt.com/unai-lopez/profil/spieler/192009,unai lopez,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Pathé Ciss,525578,€2.50m,2500000.0,https://www.transfermarkt.com/pathe-ciss/profil/spieler/525578,pathe ciss,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Diego Méndez,932349,-,,https://www.transfermarkt.com/diego-mendez/profil/spieler/932349,diego mendez,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Randy Nteka,560483,€1.50m,1500000.0,https://www.transfermarkt.com/randy-nteka/profil/spieler/560483,randy nteka,rayo vallecano,2023,ES1
+Rayo Vallecano,367,José Pozo,195605,€1.00m,1000000.0,https://www.transfermarkt.com/jose-pozo/profil/spieler/195605,jose pozo,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Óscar Trejo,30321,€1.00m,1000000.0,https://www.transfermarkt.com/oscar-trejo/profil/spieler/30321,oscar trejo,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Álvaro García,257062,€3.00m,3000000.0,https://www.transfermarkt.com/alvaro-garcia/profil/spieler/257062,alvaro garcia,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Bebé,153427,€600k,600000.0,https://www.transfermarkt.com/bebe/profil/spieler/153427,bebe,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Pablo Muñoz,1045767,€50k,50000.0,https://www.transfermarkt.com/pablo-munoz/profil/spieler/1045767,pablo munoz,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Jorge de Frutos,455181,€4.00m,4000000.0,https://www.transfermarkt.com/jorge-de-frutos/profil/spieler/455181,jorge de frutos,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Salvi Sánchez,246204,€1.20m,1200000.0,https://www.transfermarkt.com/salvi-sanchez/profil/spieler/246204,salvi sanchez,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Isi Palazón,362086,€8.00m,8000000.0,https://www.transfermarkt.com/isi-palazon/profil/spieler/362086,isi palazon,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Sergio Camello,505674,€3.00m,3000000.0,https://www.transfermarkt.com/sergio-camello/profil/spieler/505674,sergio camello,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Raúl de Tomás,162038,€2.00m,2000000.0,https://www.transfermarkt.com/raul-de-tomas/profil/spieler/162038,raul de tomas,rayo vallecano,2023,ES1
+Rayo Vallecano,367,Radamel Falcao,39152,€800k,800000.0,https://www.transfermarkt.com/radamel-falcao/profil/spieler/39152,radamel falcao,rayo vallecano,2023,ES1
+Cádiz CF,2687,Conan Ledesma,284342,€5.00m,5000000.0,https://www.transfermarkt.com/conan-ledesma/profil/spieler/284342,conan ledesma,cadiz cf,2023,ES1
+Cádiz CF,2687,David Gil,162027,€700k,700000.0,https://www.transfermarkt.com/david-gil/profil/spieler/162027,david gil,cadiz cf,2023,ES1
+Cádiz CF,2687,Victor Aznar,706797,€100k,100000.0,https://www.transfermarkt.com/victor-aznar/profil/spieler/706797,victor aznar,cadiz cf,2023,ES1
+Cádiz CF,2687,Nando Almodóvar,930096,€50k,50000.0,https://www.transfermarkt.com/nando-almodovar/profil/spieler/930096,nando almodovar,cadiz cf,2023,ES1
+Cádiz CF,2687,Fali,252667,€2.00m,2000000.0,https://www.transfermarkt.com/fali/profil/spieler/252667,fali,cadiz cf,2023,ES1
+Cádiz CF,2687,Víctor Chust,495625,€2.00m,2000000.0,https://www.transfermarkt.com/victor-chust/profil/spieler/495625,victor chust,cadiz cf,2023,ES1
+Cádiz CF,2687,Aiham Ousou,585068,€1.80m,1800000.0,https://www.transfermarkt.com/aiham-ousou/profil/spieler/585068,aiham ousou,cadiz cf,2023,ES1
+Cádiz CF,2687,Jorge Meré,286779,€1.00m,1000000.0,https://www.transfermarkt.com/jorge-mere/profil/spieler/286779,jorge mere,cadiz cf,2023,ES1
+Cádiz CF,2687,Luis Hernández,62945,€500k,500000.0,https://www.transfermarkt.com/luis-hernandez/profil/spieler/62945,luis hernandez,cadiz cf,2023,ES1
+Cádiz CF,2687,Momo Mbaye,490421,€400k,400000.0,https://www.transfermarkt.com/momo-mbaye/profil/spieler/490421,momo mbaye,cadiz cf,2023,ES1
+Cádiz CF,2687,Álex Morata,1178748,€150k,150000.0,https://www.transfermarkt.com/alex-morata/profil/spieler/1178748,alex morata,cadiz cf,2023,ES1
+Cádiz CF,2687,Adri Miranda,834737,€100k,100000.0,https://www.transfermarkt.com/adri-miranda/profil/spieler/834737,adri miranda,cadiz cf,2023,ES1
+Cádiz CF,2687,Adrián Salguero,946276,€100k,100000.0,https://www.transfermarkt.com/adrian-salguero/profil/spieler/946276,adrian salguero,cadiz cf,2023,ES1
+Cádiz CF,2687,Javi Hernández,422466,€2.50m,2500000.0,https://www.transfermarkt.com/javi-hernandez/profil/spieler/422466,javi hernandez,cadiz cf,2023,ES1
+Cádiz CF,2687,Lucas Pires,927768,€2.00m,2000000.0,https://www.transfermarkt.com/lucas-pires/profil/spieler/927768,lucas pires,cadiz cf,2023,ES1
+Cádiz CF,2687,Julio Cabrera,1032447,€150k,150000.0,https://www.transfermarkt.com/julio-cabrera/profil/spieler/1032447,julio cabrera,cadiz cf,2023,ES1
+Cádiz CF,2687,Iván Alejo,281755,€1.50m,1500000.0,https://www.transfermarkt.com/ivan-alejo/profil/spieler/281755,ivan alejo,cadiz cf,2023,ES1
+Cádiz CF,2687,Iza Carcelén,254037,€1.50m,1500000.0,https://www.transfermarkt.com/iza-carcelen/profil/spieler/254037,iza carcelen,cadiz cf,2023,ES1
+Cádiz CF,2687,Joseba Zaldua,197135,€900k,900000.0,https://www.transfermarkt.com/joseba-zaldua/profil/spieler/197135,joseba zaldua,cadiz cf,2023,ES1
+Cádiz CF,2687,Diadié Samassékou,315604,€2.00m,2000000.0,https://www.transfermarkt.com/diadie-samassekou/profil/spieler/315604,diadie samassekou,cadiz cf,2023,ES1
+Cádiz CF,2687,José Mari,225462,€200k,200000.0,https://www.transfermarkt.com/jose-mari/profil/spieler/225462,jose mari,cadiz cf,2023,ES1
+Cádiz CF,2687,Rominigue Kouamé,277635,€2.00m,2000000.0,https://www.transfermarkt.com/rominigue-kouame/profil/spieler/277635,rominigue kouame,cadiz cf,2023,ES1
+Cádiz CF,2687,Rubén Alcaraz,247250,€1.50m,1500000.0,https://www.transfermarkt.com/ruben-alcaraz/profil/spieler/247250,ruben alcaraz,cadiz cf,2023,ES1
+Cádiz CF,2687,Álex Fernández,89733,€1.50m,1500000.0,https://www.transfermarkt.com/alex-fernandez/profil/spieler/89733,alex fernandez,cadiz cf,2023,ES1
+Cádiz CF,2687,Gonzalo Escalante,266795,€1.50m,1500000.0,https://www.transfermarkt.com/gonzalo-escalante/profil/spieler/266795,gonzalo escalante,cadiz cf,2023,ES1
+Cádiz CF,2687,Fede San Emeterio,307519,€1.50m,1500000.0,https://www.transfermarkt.com/fede-san-emeterio/profil/spieler/307519,fede san emeterio,cadiz cf,2023,ES1
+Cádiz CF,2687,Álvaro Bastida,882772,€300k,300000.0,https://www.transfermarkt.com/alvaro-bastida/profil/spieler/882772,alvaro bastida,cadiz cf,2023,ES1
+Cádiz CF,2687,Martín Calderón,278404,€200k,200000.0,https://www.transfermarkt.com/martin-calderon/profil/spieler/278404,martin calderon,cadiz cf,2023,ES1
+Cádiz CF,2687,Moussa Diakité,979235,€150k,150000.0,https://www.transfermarkt.com/moussa-diakite/profil/spieler/979235,moussa diakite,cadiz cf,2023,ES1
+Cádiz CF,2687,Juanmi,126737,€6.00m,6000000.0,https://www.transfermarkt.com/juanmi/profil/spieler/126737,juanmi,cadiz cf,2023,ES1
+Cádiz CF,2687,Darwin Machís,211251,€2.00m,2000000.0,https://www.transfermarkt.com/darwin-machis/profil/spieler/211251,darwin machis,cadiz cf,2023,ES1
+Cádiz CF,2687,Brian Ocampo,598765,€900k,900000.0,https://www.transfermarkt.com/brian-ocampo/profil/spieler/598765,brian ocampo,cadiz cf,2023,ES1
+Cádiz CF,2687,José Antonio de la Rosa,1027993,€300k,300000.0,https://www.transfermarkt.com/jose-antonio-de-la-rosa/profil/spieler/1027993,jose antonio de la rosa,cadiz cf,2023,ES1
+Cádiz CF,2687,Robert Navarro,563137,€6.00m,6000000.0,https://www.transfermarkt.com/robert-navarro/profil/spieler/563137,robert navarro,cadiz cf,2023,ES1
+Cádiz CF,2687,Nico Njalla,1054922,€150k,150000.0,https://www.transfermarkt.com/nico-njalla/profil/spieler/1054922,nico njalla,cadiz cf,2023,ES1
+Cádiz CF,2687,Chris Ramos,538810,€4.00m,4000000.0,https://www.transfermarkt.com/chris-ramos/profil/spieler/538810,chris ramos,cadiz cf,2023,ES1
+Cádiz CF,2687,Milutin Osmajic,542819,€2.00m,2000000.0,https://www.transfermarkt.com/milutin-osmajic/profil/spieler/542819,milutin osmajic,cadiz cf,2023,ES1
+Cádiz CF,2687,Maxi Gómez,396894,€2.00m,2000000.0,https://www.transfermarkt.com/maxi-gomez/profil/spieler/396894,maxi gomez,cadiz cf,2023,ES1
+Cádiz CF,2687,Rubén Sobrino,85383,€1.40m,1400000.0,https://www.transfermarkt.com/ruben-sobrino/profil/spieler/85383,ruben sobrino,cadiz cf,2023,ES1
+Cádiz CF,2687,Roger Martí,212391,€1.20m,1200000.0,https://www.transfermarkt.com/roger-marti/profil/spieler/212391,roger marti,cadiz cf,2023,ES1
+Cádiz CF,2687,Sergi Guardiola,256429,€800k,800000.0,https://www.transfermarkt.com/sergi-guardiola/profil/spieler/256429,sergi guardiola,cadiz cf,2023,ES1
+Cádiz CF,2687,Karl Etta Eyong,1038950,€300k,300000.0,https://www.transfermarkt.com/karl-etta-eyong/profil/spieler/1038950,karl etta eyong,cadiz cf,2023,ES1
+Cádiz CF,2687,Álvaro Negredo,18644,€300k,300000.0,https://www.transfermarkt.com/alvaro-negredo/profil/spieler/18644,alvaro negredo,cadiz cf,2023,ES1
+Cádiz CF,2687,Borja Vázquez,1230202,€50k,50000.0,https://www.transfermarkt.com/borja-vazquez/profil/spieler/1230202,borja vazquez,cadiz cf,2023,ES1

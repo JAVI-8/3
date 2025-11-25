@@ -1,0 +1,756 @@
+﻿club,club_id,player,player_id,market_value_str,market_value_eur,player_url,player_norm,club_norm,season,competition_code
+Paris Saint-Germain,583,Gianluigi Donnarumma,315858,€45.00m,45000000.0,https://www.transfermarkt.com/gianluigi-donnarumma/profil/spieler/315858,gianluigi donnarumma,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Keylor Navas,79422,€4.00m,4000000.0,https://www.transfermarkt.com/keylor-navas/profil/spieler/79422,keylor navas,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Sergio Rico,207302,€3.00m,3000000.0,https://www.transfermarkt.com/sergio-rico/profil/spieler/207302,sergio rico,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Lucas Lavallée,654408,€300k,300000.0,https://www.transfermarkt.com/lucas-lavallee/profil/spieler/654408,lucas lavallee,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Alexandre Letellier,93730,€300k,300000.0,https://www.transfermarkt.com/alexandre-letellier/profil/spieler/93730,alexandre letellier,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Marquinhos,181767,€65.00m,65000000.0,https://www.transfermarkt.com/marquinhos/profil/spieler/181767,marquinhos,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Presnel Kimpembe,282041,€28.00m,28000000.0,https://www.transfermarkt.com/presnel-kimpembe/profil/spieler/282041,presnel kimpembe,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Abdou Diallo,229005,€10.00m,10000000.0,https://www.transfermarkt.com/abdou-diallo/profil/spieler/229005,abdou diallo,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Danilo Pereira,141050,€10.00m,10000000.0,https://www.transfermarkt.com/danilo-pereira/profil/spieler/141050,danilo pereira,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,El Chadaille Bitshiabu,787912,€7.00m,7000000.0,https://www.transfermarkt.com/el-chadaille-bitshiabu/profil/spieler/787912,el chadaille bitshiabu,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Sergio Ramos,25557,€4.50m,4500000.0,https://www.transfermarkt.com/sergio-ramos/profil/spieler/25557,sergio ramos,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Nehemiah Fernandez,743495,€250k,250000.0,https://www.transfermarkt.com/nehemiah-fernandez/profil/spieler/743495,nehemiah fernandez,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Nuno Mendes,616341,€65.00m,65000000.0,https://www.transfermarkt.com/nuno-mendes/profil/spieler/616341,nuno mendes,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Juan Bernat,126719,€10.00m,10000000.0,https://www.transfermarkt.com/juan-bernat/profil/spieler/126719,juan bernat,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Achraf Hakimi,398073,€65.00m,65000000.0,https://www.transfermarkt.com/achraf-hakimi/profil/spieler/398073,achraf hakimi,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Nordi Mukiele,348026,€18.00m,18000000.0,https://www.transfermarkt.com/nordi-mukiele/profil/spieler/348026,nordi mukiele,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Timothée Pembélé,538998,€5.00m,5000000.0,https://www.transfermarkt.com/timothee-pembele/profil/spieler/538998,timothee pembele,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Hugo Lamy,815445,€250k,250000.0,https://www.transfermarkt.com/hugo-lamy/profil/spieler/815445,hugo lamy,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Vitinha,487469,€42.00m,42000000.0,https://www.transfermarkt.com/vitinha/profil/spieler/487469,vitinha,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Leandro Paredes,166237,€12.00m,12000000.0,https://www.transfermarkt.com/leandro-paredes/profil/spieler/166237,leandro paredes,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Idrissa Gueye,126665,€5.00m,5000000.0,https://www.transfermarkt.com/idrissa-gueye/profil/spieler/126665,idrissa gueye,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Marco Verratti,102558,€40.00m,40000000.0,https://www.transfermarkt.com/marco-verratti/profil/spieler/102558,marco verratti,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Fabián Ruiz,350219,€32.00m,32000000.0,https://www.transfermarkt.com/fabian-ruiz/profil/spieler/350219,fabian ruiz,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Carlos Soler,372246,€25.00m,25000000.0,https://www.transfermarkt.com/carlos-soler/profil/spieler/372246,carlos soler,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Warren Zaïre-Emery,810092,€20.00m,20000000.0,https://www.transfermarkt.com/warren-zaire-emery/profil/spieler/810092,warren zaire-emery,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Renato Sanches,258027,€15.00m,15000000.0,https://www.transfermarkt.com/renato-sanches/profil/spieler/258027,renato sanches,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Ayman Kari,810093,€1.00m,1000000.0,https://www.transfermarkt.com/ayman-kari/profil/spieler/810093,ayman kari,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Serif Nhaga,1102761,-,,https://www.transfermarkt.com/serif-nhaga/profil/spieler/1102761,serif nhaga,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Neymar,68290,€60.00m,60000000.0,https://www.transfermarkt.com/neymar/profil/spieler/68290,neymar,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Ismaël Gharbi,810096,€5.00m,5000000.0,https://www.transfermarkt.com/ismael-gharbi/profil/spieler/810096,ismael gharbi,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Lionel Messi,28003,€35.00m,35000000.0,https://www.transfermarkt.com/lionel-messi/profil/spieler/28003,lionel messi,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Pablo Sarabia,74230,€14.00m,14000000.0,https://www.transfermarkt.com/pablo-sarabia/profil/spieler/74230,pablo sarabia,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Kylian Mbappé,342229,€180.00m,180000000.0,https://www.transfermarkt.com/kylian-mbappe/profil/spieler/342229,kylian mbappe,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Arnaud Kalimuendo,585959,€22.00m,22000000.0,https://www.transfermarkt.com/arnaud-kalimuendo/profil/spieler/585959,arnaud kalimuendo,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Hugo Ekitiké,709726,€20.00m,20000000.0,https://www.transfermarkt.com/hugo-ekitike/profil/spieler/709726,hugo ekitike,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Mauro Icardi,68863,€19.00m,19000000.0,https://www.transfermarkt.com/mauro-icardi/profil/spieler/68863,mauro icardi,paris saint-germain,2022,FR1
+Paris Saint-Germain,583,Ilyes Housni,825437,€3.50m,3500000.0,https://www.transfermarkt.com/ilyes-housni/profil/spieler/825437,ilyes housni,paris saint-germain,2022,FR1
+Stade Rennais FC,273,Doğan Alemdar,576033,€4.00m,4000000.0,https://www.transfermarkt.com/dogan-alemdar/profil/spieler/576033,dogan alemdar,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Steve Mandanda,23951,€1.00m,1000000.0,https://www.transfermarkt.com/steve-mandanda/profil/spieler/23951,steve mandanda,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Elias Damergy,693312,€150k,150000.0,https://www.transfermarkt.com/elias-damergy/profil/spieler/693312,elias damergy,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Romain Salin,23974,€150k,150000.0,https://www.transfermarkt.com/romain-salin/profil/spieler/23974,romain salin,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Arthur Theate,368891,€22.00m,22000000.0,https://www.transfermarkt.com/arthur-theate/profil/spieler/368891,arthur theate,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Loïc Badé,730581,€12.00m,12000000.0,https://www.transfermarkt.com/loic-bade/profil/spieler/730581,loic bade,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Warmed Omari,711996,€9.00m,9000000.0,https://www.transfermarkt.com/warmed-omari/profil/spieler/711996,warmed omari,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Joe Rodon,297212,€7.00m,7000000.0,https://www.transfermarkt.com/joe-rodon/profil/spieler/297212,joe rodon,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Jeanuël Belocian,919515,€7.00m,7000000.0,https://www.transfermarkt.com/jeanuel-belocian/profil/spieler/919515,jeanuel belocian,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Christopher Wooh,572326,€6.00m,6000000.0,https://www.transfermarkt.com/christopher-wooh/profil/spieler/572326,christopher wooh,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Noah Françoise,620321,€350k,350000.0,https://www.transfermarkt.com/noah-francoise/profil/spieler/620321,noah francoise,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Jérémy Jacquet,1004301,€50k,50000.0,https://www.transfermarkt.com/jeremy-jacquet/profil/spieler/1004301,jeremy jacquet,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Adrien Truffert,654539,€18.00m,18000000.0,https://www.transfermarkt.com/adrien-truffert/profil/spieler/654539,adrien truffert,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Djed Spence,483348,€10.00m,10000000.0,https://www.transfermarkt.com/djed-spence/profil/spieler/483348,djed spence,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Birger Meling,282250,€5.00m,5000000.0,https://www.transfermarkt.com/birger-meling/profil/spieler/282250,birger meling,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Léo Rouillé,1030144,€50k,50000.0,https://www.transfermarkt.com/leo-rouille/profil/spieler/1030144,leo rouille,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Hamari Traoré,297070,€10.00m,10000000.0,https://www.transfermarkt.com/hamari-traore/profil/spieler/297070,hamari traore,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Lorenz Assignon,711969,€5.00m,5000000.0,https://www.transfermarkt.com/lorenz-assignon/profil/spieler/711969,lorenz assignon,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Guéla Doué,711980,€300k,300000.0,https://www.transfermarkt.com/guela-doue/profil/spieler/711980,guela doue,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Baptiste Santamaria,285323,€14.00m,14000000.0,https://www.transfermarkt.com/baptiste-santamaria/profil/spieler/285323,baptiste santamaria,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Lesley Ugochukwu,711999,€9.00m,9000000.0,https://www.transfermarkt.com/lesley-ugochukwu/profil/spieler/711999,lesley ugochukwu,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Benjamin Bourigeaud,266359,€18.00m,18000000.0,https://www.transfermarkt.com/benjamin-bourigeaud/profil/spieler/266359,benjamin bourigeaud,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Flavien Tait,202278,€6.00m,6000000.0,https://www.transfermarkt.com/flavien-tait/profil/spieler/202278,flavien tait,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Xeka,290256,€6.00m,6000000.0,https://www.transfermarkt.com/xeka/profil/spieler/290256,xeka,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Gabriel Tutu,931172,€50k,50000.0,https://www.transfermarkt.com/gabriel-tutu/profil/spieler/931172,gabriel tutu,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Lovro Majer,387106,€20.00m,20000000.0,https://www.transfermarkt.com/lovro-majer/profil/spieler/387106,lovro majer,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Martin Terrier,442891,€30.00m,30000000.0,https://www.transfermarkt.com/martin-terrier/profil/spieler/442891,martin terrier,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Jérémy Doku,486049,€28.00m,28000000.0,https://www.transfermarkt.com/jeremy-doku/profil/spieler/486049,jeremy doku,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Kamaldeen Sulemana,746695,€22.00m,22000000.0,https://www.transfermarkt.com/kamaldeen-sulemana/profil/spieler/746695,kamaldeen sulemana,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Ibrahim Salah,928323,€3.00m,3000000.0,https://www.transfermarkt.com/ibrahim-salah/profil/spieler/928323,ibrahim salah,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Désiré Doué,914562,€15.00m,15000000.0,https://www.transfermarkt.com/desire-doue/profil/spieler/914562,desire doue,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Amine Gouiri,418659,€35.00m,35000000.0,https://www.transfermarkt.com/amine-gouiri/profil/spieler/418659,amine gouiri,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Arnaud Kalimuendo,585959,€22.00m,22000000.0,https://www.transfermarkt.com/arnaud-kalimuendo/profil/spieler/585959,arnaud kalimuendo,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Gaëtan Laborde,181378,€16.00m,16000000.0,https://www.transfermarkt.com/gaetan-laborde/profil/spieler/181378,gaetan laborde,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Serhou Guirassy,270541,€14.00m,14000000.0,https://www.transfermarkt.com/serhou-guirassy/profil/spieler/270541,serhou guirassy,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Karl Toko Ekambi,315110,€8.00m,8000000.0,https://www.transfermarkt.com/karl-toko-ekambi/profil/spieler/315110,karl toko ekambi,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Matthis Abline,659543,€4.50m,4500000.0,https://www.transfermarkt.com/matthis-abline/profil/spieler/659543,matthis abline,stade rennais fc,2022,FR1
+Stade Rennais FC,273,Alan Do Marcolino,783635,€150k,150000.0,https://www.transfermarkt.com/alan-do-marcolino/profil/spieler/783635,alan do marcolino,stade rennais fc,2022,FR1
+AS Monaco,162,Alexander Nübel,195778,€8.00m,8000000.0,https://www.transfermarkt.com/alexander-nubel/profil/spieler/195778,alexander nubel,as monaco,2022,FR1
+AS Monaco,162,Thomas Didillon-Hödl,182891,€1.00m,1000000.0,https://www.transfermarkt.com/thomas-didillon-hodl/profil/spieler/182891,thomas didillon-hodl,as monaco,2022,FR1
+AS Monaco,162,Yann Lienard,745341,€200k,200000.0,https://www.transfermarkt.com/yann-lienard/profil/spieler/745341,yann lienard,as monaco,2022,FR1
+AS Monaco,162,Benoît Badiashile,463603,€40.00m,40000000.0,https://www.transfermarkt.com/benoit-badiashile/profil/spieler/463603,benoit badiashile,as monaco,2022,FR1
+AS Monaco,162,Axel Disasi,386047,€30.00m,30000000.0,https://www.transfermarkt.com/axel-disasi/profil/spieler/386047,axel disasi,as monaco,2022,FR1
+AS Monaco,162,Guillermo Maripán,249730,€10.00m,10000000.0,https://www.transfermarkt.com/guillermo-maripan/profil/spieler/249730,guillermo maripan,as monaco,2022,FR1
+AS Monaco,162,Malang Sarr,344596,€6.00m,6000000.0,https://www.transfermarkt.com/malang-sarr/profil/spieler/344596,malang sarr,as monaco,2022,FR1
+AS Monaco,162,Chrislain Matsima,569383,€6.00m,6000000.0,https://www.transfermarkt.com/chrislain-matsima/profil/spieler/569383,chrislain matsima,as monaco,2022,FR1
+AS Monaco,162,Yllan Okou,745202,€300k,300000.0,https://www.transfermarkt.com/yllan-okou/profil/spieler/745202,yllan okou,as monaco,2022,FR1
+AS Monaco,162,Caio Henrique,420064,€20.00m,20000000.0,https://www.transfermarkt.com/caio-henrique/profil/spieler/420064,caio henrique,as monaco,2022,FR1
+AS Monaco,162,Ismail Jakobs,375137,€6.00m,6000000.0,https://www.transfermarkt.com/ismail-jakobs/profil/spieler/375137,ismail jakobs,as monaco,2022,FR1
+AS Monaco,162,Vanderson,789082,€20.00m,20000000.0,https://www.transfermarkt.com/vanderson/profil/spieler/789082,vanderson,as monaco,2022,FR1
+AS Monaco,162,Ruben Aguilar,203746,€7.00m,7000000.0,https://www.transfermarkt.com/ruben-aguilar/profil/spieler/203746,ruben aguilar,as monaco,2022,FR1
+AS Monaco,162,Nazim Babaï,745177,-,,https://www.transfermarkt.com/nazim-babai/profil/spieler/745177,nazim babai,as monaco,2022,FR1
+AS Monaco,162,Mohamed Camara,543382,€30.00m,30000000.0,https://www.transfermarkt.com/mohamed-camara/profil/spieler/543382,mohamed camara,as monaco,2022,FR1
+AS Monaco,162,Youssouf Fofana,569598,€25.00m,25000000.0,https://www.transfermarkt.com/youssouf-fofana/profil/spieler/569598,youssouf fofana,as monaco,2022,FR1
+AS Monaco,162,Soungoutou Magassa,745181,€800k,800000.0,https://www.transfermarkt.com/soungoutou-magassa/profil/spieler/745181,soungoutou magassa,as monaco,2022,FR1
+AS Monaco,162,Eliot Matazo,535834,€7.00m,7000000.0,https://www.transfermarkt.com/eliot-matazo/profil/spieler/535834,eliot matazo,as monaco,2022,FR1
+AS Monaco,162,Jean Lucas,578872,€5.00m,5000000.0,https://www.transfermarkt.com/jean-lucas/profil/spieler/578872,jean lucas,as monaco,2022,FR1
+AS Monaco,162,Edan Diop,745178,€2.00m,2000000.0,https://www.transfermarkt.com/edan-diop/profil/spieler/745178,edan diop,as monaco,2022,FR1
+AS Monaco,162,Aleksandr Golovin,263918,€28.00m,28000000.0,https://www.transfermarkt.com/aleksandr-golovin/profil/spieler/263918,aleksandr golovin,as monaco,2022,FR1
+AS Monaco,162,Kevin Volland,82009,€8.00m,8000000.0,https://www.transfermarkt.com/kevin-volland/profil/spieler/82009,kevin volland,as monaco,2022,FR1
+AS Monaco,162,Félix Lemaréchal,659518,€1.00m,1000000.0,https://www.transfermarkt.com/felix-lemarechal/profil/spieler/659518,felix lemarechal,as monaco,2022,FR1
+AS Monaco,162,Eliesse Ben Seghir,810895,€18.00m,18000000.0,https://www.transfermarkt.com/eliesse-ben-seghir/profil/spieler/810895,eliesse ben seghir,as monaco,2022,FR1
+AS Monaco,162,Sofiane Diop,569389,€15.00m,15000000.0,https://www.transfermarkt.com/sofiane-diop/profil/spieler/569389,sofiane diop,as monaco,2022,FR1
+AS Monaco,162,Takumi Minamino,165793,€6.00m,6000000.0,https://www.transfermarkt.com/takumi-minamino/profil/spieler/165793,takumi minamino,as monaco,2022,FR1
+AS Monaco,162,Krépin Diatta,490426,€15.00m,15000000.0,https://www.transfermarkt.com/krepin-diatta/profil/spieler/490426,krepin diatta,as monaco,2022,FR1
+AS Monaco,162,Maghnes Akliouche,745200,€6.00m,6000000.0,https://www.transfermarkt.com/maghnes-akliouche/profil/spieler/745200,maghnes akliouche,as monaco,2022,FR1
+AS Monaco,162,Gelson Martins,257448,€5.00m,5000000.0,https://www.transfermarkt.com/gelson-martins/profil/spieler/257448,gelson martins,as monaco,2022,FR1
+AS Monaco,162,Breel Embolo,237662,€20.00m,20000000.0,https://www.transfermarkt.com/breel-embolo/profil/spieler/237662,breel embolo,as monaco,2022,FR1
+AS Monaco,162,Wissam Ben Yedder,146854,€15.00m,15000000.0,https://www.transfermarkt.com/wissam-ben-yedder/profil/spieler/146854,wissam ben yedder,as monaco,2022,FR1
+AS Monaco,162,Myron Boadu,412932,€7.00m,7000000.0,https://www.transfermarkt.com/myron-boadu/profil/spieler/412932,myron boadu,as monaco,2022,FR1
+Olympique Lyon,1041,Anthony Lopes,60561,€8.00m,8000000.0,https://www.transfermarkt.com/anthony-lopes/profil/spieler/60561,anthony lopes,olympique lyon,2022,FR1
+Olympique Lyon,1041,Rémy Riou,18940,€400k,400000.0,https://www.transfermarkt.com/remy-riou/profil/spieler/18940,remy riou,olympique lyon,2022,FR1
+Olympique Lyon,1041,Kayne Bonnevie,618465,€200k,200000.0,https://www.transfermarkt.com/kayne-bonnevie/profil/spieler/618465,kayne bonnevie,olympique lyon,2022,FR1
+Olympique Lyon,1041,Castello Lukeba,618472,€25.00m,25000000.0,https://www.transfermarkt.com/castello-lukeba/profil/spieler/618472,castello lukeba,olympique lyon,2022,FR1
+Olympique Lyon,1041,Sinaly Diomandé,702441,€9.00m,9000000.0,https://www.transfermarkt.com/sinaly-diomande/profil/spieler/702441,sinaly diomande,olympique lyon,2022,FR1
+Olympique Lyon,1041,Dejan Lovren,37838,€2.50m,2500000.0,https://www.transfermarkt.com/dejan-lovren/profil/spieler/37838,dejan lovren,olympique lyon,2022,FR1
+Olympique Lyon,1041,Mamadou Sarr,910905,€1.00m,1000000.0,https://www.transfermarkt.com/mamadou-sarr/profil/spieler/910905,mamadou sarr,olympique lyon,2022,FR1
+Olympique Lyon,1041,Jérôme Boateng,26485,€800k,800000.0,https://www.transfermarkt.com/jerome-boateng/profil/spieler/26485,jerome boateng,olympique lyon,2022,FR1
+Olympique Lyon,1041,Damien Da Silva,57370,€500k,500000.0,https://www.transfermarkt.com/damien-da-silva/profil/spieler/57370,damien da silva,olympique lyon,2022,FR1
+Olympique Lyon,1041,Nicolás Tagliafico,131225,€9.00m,9000000.0,https://www.transfermarkt.com/nicolas-tagliafico/profil/spieler/131225,nicolas tagliafico,olympique lyon,2022,FR1
+Olympique Lyon,1041,Henrique Silva,204072,€1.00m,1000000.0,https://www.transfermarkt.com/henrique-silva/profil/spieler/204072,henrique silva,olympique lyon,2022,FR1
+Olympique Lyon,1041,Achraf Laâziri,902862,€250k,250000.0,https://www.transfermarkt.com/achraf-laaziri/profil/spieler/902862,achraf laaziri,olympique lyon,2022,FR1
+Olympique Lyon,1041,Malo Gusto,620322,€25.00m,25000000.0,https://www.transfermarkt.com/malo-gusto/profil/spieler/620322,malo gusto,olympique lyon,2022,FR1
+Olympique Lyon,1041,Saël Kumbedi,951579,€12.00m,12000000.0,https://www.transfermarkt.com/sael-kumbedi/profil/spieler/951579,sael kumbedi,olympique lyon,2022,FR1
+Olympique Lyon,1041,Johann Lepenant,585973,€10.00m,10000000.0,https://www.transfermarkt.com/johann-lepenant/profil/spieler/585973,johann lepenant,olympique lyon,2022,FR1
+Olympique Lyon,1041,Thiago Mendes,135617,€5.00m,5000000.0,https://www.transfermarkt.com/thiago-mendes/profil/spieler/135617,thiago mendes,olympique lyon,2022,FR1
+Olympique Lyon,1041,Maxence Caqueret,395237,€25.00m,25000000.0,https://www.transfermarkt.com/maxence-caqueret/profil/spieler/395237,maxence caqueret,olympique lyon,2022,FR1
+Olympique Lyon,1041,Corentin Tolisso,190393,€14.00m,14000000.0,https://www.transfermarkt.com/corentin-tolisso/profil/spieler/190393,corentin tolisso,olympique lyon,2022,FR1
+Olympique Lyon,1041,Mohamed El Arouch,743533,€2.00m,2000000.0,https://www.transfermarkt.com/mohamed-el-arouch/profil/spieler/743533,mohamed el arouch,olympique lyon,2022,FR1
+Olympique Lyon,1041,Lucas Paquetá,444523,€45.00m,45000000.0,https://www.transfermarkt.com/lucas-paqueta/profil/spieler/444523,lucas paqueta,olympique lyon,2022,FR1
+Olympique Lyon,1041,Houssem Aouar,395693,€13.00m,13000000.0,https://www.transfermarkt.com/houssem-aouar/profil/spieler/395693,houssem aouar,olympique lyon,2022,FR1
+Olympique Lyon,1041,Romain Faivre,555076,€10.00m,10000000.0,https://www.transfermarkt.com/romain-faivre/profil/spieler/555076,romain faivre,olympique lyon,2022,FR1
+Olympique Lyon,1041,Jeff Reine-Adélaïde,326300,€5.00m,5000000.0,https://www.transfermarkt.com/jeff-reine-adelaide/profil/spieler/326300,jeff reine-adelaide,olympique lyon,2022,FR1
+Olympique Lyon,1041,Djibrail Dib,538969,€150k,150000.0,https://www.transfermarkt.com/djibrail-dib/profil/spieler/538969,djibrail dib,olympique lyon,2022,FR1
+Olympique Lyon,1041,Bradley Barcola,708265,€18.00m,18000000.0,https://www.transfermarkt.com/bradley-barcola/profil/spieler/708265,bradley barcola,olympique lyon,2022,FR1
+Olympique Lyon,1041,Jeffinho,884072,€8.00m,8000000.0,https://www.transfermarkt.com/jeffinho/profil/spieler/884072,jeffinho,olympique lyon,2022,FR1
+Olympique Lyon,1041,Rayan Cherki,607223,€30.00m,30000000.0,https://www.transfermarkt.com/rayan-cherki/profil/spieler/607223,rayan cherki,olympique lyon,2022,FR1
+Olympique Lyon,1041,Tetê,371256,€25.00m,25000000.0,https://www.transfermarkt.com/tete/profil/spieler/371256,tete,olympique lyon,2022,FR1
+Olympique Lyon,1041,Alexandre Lacazette,93720,€14.00m,14000000.0,https://www.transfermarkt.com/alexandre-lacazette/profil/spieler/93720,alexandre lacazette,olympique lyon,2022,FR1
+Olympique Lyon,1041,Moussa Dembélé,229004,€12.00m,12000000.0,https://www.transfermarkt.com/moussa-dembele/profil/spieler/229004,moussa dembele,olympique lyon,2022,FR1
+Olympique Lyon,1041,Karl Toko Ekambi,315110,€8.00m,8000000.0,https://www.transfermarkt.com/karl-toko-ekambi/profil/spieler/315110,karl toko ekambi,olympique lyon,2022,FR1
+Olympique Lyon,1041,Amin Sarr,748382,€8.00m,8000000.0,https://www.transfermarkt.com/amin-sarr/profil/spieler/748382,amin sarr,olympique lyon,2022,FR1
+Olympique Lyon,1041,Tino Kadewere,384060,€4.00m,4000000.0,https://www.transfermarkt.com/tino-kadewere/profil/spieler/384060,tino kadewere,olympique lyon,2022,FR1
+Olympique Lyon,1041,Sekou Lega,744941,€150k,150000.0,https://www.transfermarkt.com/sekou-lega/profil/spieler/744941,sekou lega,olympique lyon,2022,FR1
+Olympique Marseille,244,Pau López,286415,€14.00m,14000000.0,https://www.transfermarkt.com/pau-lopez/profil/spieler/286415,pau lopez,olympique marseille,2022,FR1
+Olympique Marseille,244,Rubén Blanco,199321,€4.00m,4000000.0,https://www.transfermarkt.com/ruben-blanco/profil/spieler/199321,ruben blanco,olympique marseille,2022,FR1
+Olympique Marseille,244,Simon Ngapandouetnbu,696600,€400k,400000.0,https://www.transfermarkt.com/simon-ngapandouetnbu/profil/spieler/696600,simon ngapandouetnbu,olympique marseille,2022,FR1
+Olympique Marseille,244,Chancel Mbemba,203348,€20.00m,20000000.0,https://www.transfermarkt.com/chancel-mbemba/profil/spieler/203348,chancel mbemba,olympique marseille,2022,FR1
+Olympique Marseille,244,Duje Caleta-Car,238266,€11.00m,11000000.0,https://www.transfermarkt.com/duje-caleta-car/profil/spieler/238266,duje caleta-car,olympique marseille,2022,FR1
+Olympique Marseille,244,Samuel Gigot,276896,€10.00m,10000000.0,https://www.transfermarkt.com/samuel-gigot/profil/spieler/276896,samuel gigot,olympique marseille,2022,FR1
+Olympique Marseille,244,Leonardo Balerdi,575998,€10.00m,10000000.0,https://www.transfermarkt.com/leonardo-balerdi/profil/spieler/575998,leonardo balerdi,olympique marseille,2022,FR1
+Olympique Marseille,244,Sead Kolasinac,94005,€8.00m,8000000.0,https://www.transfermarkt.com/sead-kolasinac/profil/spieler/94005,sead kolasinac,olympique marseille,2022,FR1
+Olympique Marseille,244,Isaak Touré,708678,€6.00m,6000000.0,https://www.transfermarkt.com/isaak-toure/profil/spieler/708678,isaak toure,olympique marseille,2022,FR1
+Olympique Marseille,244,Eric Bailly,286384,€5.00m,5000000.0,https://www.transfermarkt.com/eric-bailly/profil/spieler/286384,eric bailly,olympique marseille,2022,FR1
+Olympique Marseille,244,Yakine Said M'Madi,922488,€150k,150000.0,https://www.transfermarkt.com/yakine-said-mmadi/profil/spieler/922488,yakine said m'madi,olympique marseille,2022,FR1
+Olympique Marseille,244,Nuno Tavares,535955,€18.00m,18000000.0,https://www.transfermarkt.com/nuno-tavares/profil/spieler/535955,nuno tavares,olympique marseille,2022,FR1
+Olympique Marseille,244,Emran Soglo,913495,-,,https://www.transfermarkt.com/emran-soglo/profil/spieler/913495,emran soglo,olympique marseille,2022,FR1
+Olympique Marseille,244,Jonathan Clauss,175639,€14.00m,14000000.0,https://www.transfermarkt.com/jonathan-clauss/profil/spieler/175639,jonathan clauss,olympique marseille,2022,FR1
+Olympique Marseille,244,Issa Kaboré,649452,€7.00m,7000000.0,https://www.transfermarkt.com/issa-kabore/profil/spieler/649452,issa kabore,olympique marseille,2022,FR1
+Olympique Marseille,244,Pol Lirola,298975,€2.00m,2000000.0,https://www.transfermarkt.com/pol-lirola/profil/spieler/298975,pol lirola,olympique marseille,2022,FR1
+Olympique Marseille,244,Pape Gueye,485963,€10.00m,10000000.0,https://www.transfermarkt.com/pape-gueye/profil/spieler/485963,pape gueye,olympique marseille,2022,FR1
+Olympique Marseille,244,Bartuğ Elmaz,655895,€300k,300000.0,https://www.transfermarkt.com/bartug-elmaz/profil/spieler/655895,bartug elmaz,olympique marseille,2022,FR1
+Olympique Marseille,244,Raimane Daou,960655,-,,https://www.transfermarkt.com/raimane-daou/profil/spieler/960655,raimane daou,olympique marseille,2022,FR1
+Olympique Marseille,244,Mattéo Guendouzi,465830,€25.00m,25000000.0,https://www.transfermarkt.com/matteo-guendouzi/profil/spieler/465830,matteo guendouzi,olympique marseille,2022,FR1
+Olympique Marseille,244,Valentin Rongier,332889,€22.00m,22000000.0,https://www.transfermarkt.com/valentin-rongier/profil/spieler/332889,valentin rongier,olympique marseille,2022,FR1
+Olympique Marseille,244,Gerson,341705,€16.00m,16000000.0,https://www.transfermarkt.com/gerson/profil/spieler/341705,gerson,olympique marseille,2022,FR1
+Olympique Marseille,244,Jordan Veretout,164771,€16.00m,16000000.0,https://www.transfermarkt.com/jordan-veretout/profil/spieler/164771,jordan veretout,olympique marseille,2022,FR1
+Olympique Marseille,244,Azzedine Ounahi,593482,€12.00m,12000000.0,https://www.transfermarkt.com/azzedine-ounahi/profil/spieler/593482,azzedine ounahi,olympique marseille,2022,FR1
+Olympique Marseille,244,Esey Gebreyesus,659271,€100k,100000.0,https://www.transfermarkt.com/esey-gebreyesus/profil/spieler/659271,esey gebreyesus,olympique marseille,2022,FR1
+Olympique Marseille,244,Ruslan Malinovskyi,207877,€15.00m,15000000.0,https://www.transfermarkt.com/ruslan-malinovskyi/profil/spieler/207877,ruslan malinovskyi,olympique marseille,2022,FR1
+Olympique Marseille,244,Amine Harit,372711,€12.00m,12000000.0,https://www.transfermarkt.com/amine-harit/profil/spieler/372711,amine harit,olympique marseille,2022,FR1
+Olympique Marseille,244,Dimitri Payet,37647,€1.80m,1800000.0,https://www.transfermarkt.com/dimitri-payet/profil/spieler/37647,dimitri payet,olympique marseille,2022,FR1
+Olympique Marseille,244,Salim Ben Seghir,708681,€500k,500000.0,https://www.transfermarkt.com/salim-ben-seghir/profil/spieler/708681,salim ben seghir,olympique marseille,2022,FR1
+Olympique Marseille,244,Cengiz Ünder,341647,€20.00m,20000000.0,https://www.transfermarkt.com/cengiz-under/profil/spieler/341647,cengiz under,olympique marseille,2022,FR1
+Olympique Marseille,244,François Mughe,1027216,€300k,300000.0,https://www.transfermarkt.com/francois-mughe/profil/spieler/1027216,francois mughe,olympique marseille,2022,FR1
+Olympique Marseille,244,Vitinha,586853,€18.00m,18000000.0,https://www.transfermarkt.com/vitinha/profil/spieler/586853,vitinha,olympique marseille,2022,FR1
+Olympique Marseille,244,Arkadiusz Milik,191891,€8.00m,8000000.0,https://www.transfermarkt.com/arkadiusz-milik/profil/spieler/191891,arkadiusz milik,olympique marseille,2022,FR1
+Olympique Marseille,244,Luis Suárez,424784,€8.00m,8000000.0,https://www.transfermarkt.com/luis-suarez/profil/spieler/424784,luis suarez,olympique marseille,2022,FR1
+Olympique Marseille,244,Bamba Dieng,822458,€8.00m,8000000.0,https://www.transfermarkt.com/bamba-dieng/profil/spieler/822458,bamba dieng,olympique marseille,2022,FR1
+Olympique Marseille,244,Cédric Bakambu,127048,€5.00m,5000000.0,https://www.transfermarkt.com/cedric-bakambu/profil/spieler/127048,cedric bakambu,olympique marseille,2022,FR1
+Olympique Marseille,244,Alexis Sánchez,40433,€4.00m,4000000.0,https://www.transfermarkt.com/alexis-sanchez/profil/spieler/40433,alexis sanchez,olympique marseille,2022,FR1
+OGC Nice,417,Kasper Schmeichel,16911,€2.00m,2000000.0,https://www.transfermarkt.com/kasper-schmeichel/profil/spieler/16911,kasper schmeichel,ogc nice,2022,FR1
+OGC Nice,417,Marcin Bulka,465955,€2.00m,2000000.0,https://www.transfermarkt.com/marcin-bulka/profil/spieler/465955,marcin bulka,ogc nice,2022,FR1
+OGC Nice,417,Teddy Boulhendi,789419,€150k,150000.0,https://www.transfermarkt.com/teddy-boulhendi/profil/spieler/789419,teddy boulhendi,ogc nice,2022,FR1
+OGC Nice,417,Enzo Garrido,904710,-,,https://www.transfermarkt.com/enzo-garrido/profil/spieler/904710,enzo garrido,ogc nice,2022,FR1
+OGC Nice,417,Jean-Clair Todibo,605184,€30.00m,30000000.0,https://www.transfermarkt.com/jean-clair-todibo/profil/spieler/605184,jean-clair todibo,ogc nice,2022,FR1
+OGC Nice,417,Youssouf Ndayishimiye,674612,€12.00m,12000000.0,https://www.transfermarkt.com/youssouf-ndayishimiye/profil/spieler/674612,youssouf ndayishimiye,ogc nice,2022,FR1
+OGC Nice,417,Flavius Daniliuc,322655,€8.00m,8000000.0,https://www.transfermarkt.com/flavius-daniliuc/profil/spieler/322655,flavius daniliuc,ogc nice,2022,FR1
+OGC Nice,417,Mattia Viti,493702,€7.00m,7000000.0,https://www.transfermarkt.com/mattia-viti/profil/spieler/493702,mattia viti,ogc nice,2022,FR1
+OGC Nice,417,Mads Bech Sørensen,372240,€2.50m,2500000.0,https://www.transfermarkt.com/mads-bech-sorensen/profil/spieler/372240,mads bech sørensen,ogc nice,2022,FR1
+OGC Nice,417,Antoine Mendy,891998,€1.00m,1000000.0,https://www.transfermarkt.com/antoine-mendy/profil/spieler/891998,antoine mendy,ogc nice,2022,FR1
+OGC Nice,417,Dante,16136,€600k,600000.0,https://www.transfermarkt.com/dante/profil/spieler/16136,dante,ogc nice,2022,FR1
+OGC Nice,417,Yannis Nahounou,904707,€150k,150000.0,https://www.transfermarkt.com/yannis-nahounou/profil/spieler/904707,yannis nahounou,ogc nice,2022,FR1
+OGC Nice,417,Melvin Bard,532775,€7.00m,7000000.0,https://www.transfermarkt.com/melvin-bard/profil/spieler/532775,melvin bard,ogc nice,2022,FR1
+OGC Nice,417,Ayoub Amraoui,860051,€2.50m,2500000.0,https://www.transfermarkt.com/ayoub-amraoui/profil/spieler/860051,ayoub amraoui,ogc nice,2022,FR1
+OGC Nice,417,Joe Bryan,194460,€2.20m,2200000.0,https://www.transfermarkt.com/joe-bryan/profil/spieler/194460,joe bryan,ogc nice,2022,FR1
+OGC Nice,417,Jordan Lotomba,313094,€8.00m,8000000.0,https://www.transfermarkt.com/jordan-lotomba/profil/spieler/313094,jordan lotomba,ogc nice,2022,FR1
+OGC Nice,417,Youcef Atal,416108,€7.00m,7000000.0,https://www.transfermarkt.com/youcef-atal/profil/spieler/416108,youcef atal,ogc nice,2022,FR1
+OGC Nice,417,Mario Lemina,170934,€10.00m,10000000.0,https://www.transfermarkt.com/mario-lemina/profil/spieler/170934,mario lemina,ogc nice,2022,FR1
+OGC Nice,417,Pablo Rosario,370791,€6.00m,6000000.0,https://www.transfermarkt.com/pablo-rosario/profil/spieler/370791,pablo rosario,ogc nice,2022,FR1
+OGC Nice,417,Alexis Beka Beka,539065,€4.50m,4500000.0,https://www.transfermarkt.com/alexis-beka-beka/profil/spieler/539065,alexis beka beka,ogc nice,2022,FR1
+OGC Nice,417,Reda Belahyane,982855,€300k,300000.0,https://www.transfermarkt.com/reda-belahyane/profil/spieler/982855,reda belahyane,ogc nice,2022,FR1
+OGC Nice,417,Théo Trinker,982859,€100k,100000.0,https://www.transfermarkt.com/theo-trinker/profil/spieler/982859,theo trinker,ogc nice,2022,FR1
+OGC Nice,417,Khéphren Thuram,463618,€40.00m,40000000.0,https://www.transfermarkt.com/khephren-thuram/profil/spieler/463618,khephren thuram,ogc nice,2022,FR1
+OGC Nice,417,Hicham Boudaoui,560593,€8.00m,8000000.0,https://www.transfermarkt.com/hicham-boudaoui/profil/spieler/560593,hicham boudaoui,ogc nice,2022,FR1
+OGC Nice,417,Ross Barkley,131978,€6.00m,6000000.0,https://www.transfermarkt.com/ross-barkley/profil/spieler/131978,ross barkley,ogc nice,2022,FR1
+OGC Nice,417,Aaron Ramsey,50057,€2.50m,2500000.0,https://www.transfermarkt.com/aaron-ramsey/profil/spieler/50057,aaron ramsey,ogc nice,2022,FR1
+OGC Nice,417,Soudeysse Kari,569365,€100k,100000.0,https://www.transfermarkt.com/soudeysse-kari/profil/spieler/569365,soudeysse kari,ogc nice,2022,FR1
+OGC Nice,417,Daouda Traoré,986300,€100k,100000.0,https://www.transfermarkt.com/daouda-traore/profil/spieler/986300,daouda traore,ogc nice,2022,FR1
+OGC Nice,417,Tom Louchet,750904,€100k,100000.0,https://www.transfermarkt.com/tom-louchet/profil/spieler/750904,tom louchet,ogc nice,2022,FR1
+OGC Nice,417,Calvin Stengs,409344,€10.00m,10000000.0,https://www.transfermarkt.com/calvin-stengs/profil/spieler/409344,calvin stengs,ogc nice,2022,FR1
+OGC Nice,417,Alexis Claude-Maurice,384593,€4.50m,4500000.0,https://www.transfermarkt.com/alexis-claude-maurice/profil/spieler/384593,alexis claude-maurice,ogc nice,2022,FR1
+OGC Nice,417,Rareș Ilie,812654,€2.50m,2500000.0,https://www.transfermarkt.com/rares-ilie/profil/spieler/812654,rares ilie,ogc nice,2022,FR1
+OGC Nice,417,Andréa Dacourt,1072902,-,,https://www.transfermarkt.com/andrea-dacourt/profil/spieler/1072902,andrea dacourt,ogc nice,2022,FR1
+OGC Nice,417,Sofiane Diop,569389,€15.00m,15000000.0,https://www.transfermarkt.com/sofiane-diop/profil/spieler/569389,sofiane diop,ogc nice,2022,FR1
+OGC Nice,417,Nicolas Pépé,343052,€18.00m,18000000.0,https://www.transfermarkt.com/nicolas-pepe/profil/spieler/343052,nicolas pepe,ogc nice,2022,FR1
+OGC Nice,417,Billal Brahimi,543051,€7.00m,7000000.0,https://www.transfermarkt.com/billal-brahimi/profil/spieler/543051,billal brahimi,ogc nice,2022,FR1
+OGC Nice,417,Badredine Bouanani,707242,€6.00m,6000000.0,https://www.transfermarkt.com/badredine-bouanani/profil/spieler/707242,badredine bouanani,ogc nice,2022,FR1
+OGC Nice,417,Amine Gouiri,418659,€35.00m,35000000.0,https://www.transfermarkt.com/amine-gouiri/profil/spieler/418659,amine gouiri,ogc nice,2022,FR1
+OGC Nice,417,Terem Moffi,538874,€20.00m,20000000.0,https://www.transfermarkt.com/terem-moffi/profil/spieler/538874,terem moffi,ogc nice,2022,FR1
+OGC Nice,417,Gaëtan Laborde,181378,€16.00m,16000000.0,https://www.transfermarkt.com/gaetan-laborde/profil/spieler/181378,gaetan laborde,ogc nice,2022,FR1
+OGC Nice,417,Andy Delort,122797,€7.00m,7000000.0,https://www.transfermarkt.com/andy-delort/profil/spieler/122797,andy delort,ogc nice,2022,FR1
+LOSC Lille,1082,Lucas Chevalier,463600,€10.00m,10000000.0,https://www.transfermarkt.com/lucas-chevalier/profil/spieler/463600,lucas chevalier,losc lille,2022,FR1
+LOSC Lille,1082,Léo Jardim,288415,€3.00m,3000000.0,https://www.transfermarkt.com/leo-jardim/profil/spieler/288415,leo jardim,losc lille,2022,FR1
+LOSC Lille,1082,Benoît Costil,22628,€1.00m,1000000.0,https://www.transfermarkt.com/benoit-costil/profil/spieler/22628,benoit costil,losc lille,2022,FR1
+LOSC Lille,1082,Adam Jakubech,258267,€300k,300000.0,https://www.transfermarkt.com/adam-jakubech/profil/spieler/258267,adam jakubech,losc lille,2022,FR1
+LOSC Lille,1082,Tom Negrel,866916,€50k,50000.0,https://www.transfermarkt.com/tom-negrel/profil/spieler/866916,tom negrel,losc lille,2022,FR1
+LOSC Lille,1082,Tiago Djaló,420465,€16.00m,16000000.0,https://www.transfermarkt.com/tiago-djalo/profil/spieler/420465,tiago djalo,losc lille,2022,FR1
+LOSC Lille,1082,Leny Yoro,923831,€10.00m,10000000.0,https://www.transfermarkt.com/leny-yoro/profil/spieler/923831,leny yoro,losc lille,2022,FR1
+LOSC Lille,1082,Bafodé Diakité,463605,€10.00m,10000000.0,https://www.transfermarkt.com/bafode-diakite/profil/spieler/463605,bafode diakite,losc lille,2022,FR1
+LOSC Lille,1082,Alexsandro,648020,€5.00m,5000000.0,https://www.transfermarkt.com/alexsandro/profil/spieler/648020,alexsandro,losc lille,2022,FR1
+LOSC Lille,1082,José Fonte,33829,€600k,600000.0,https://www.transfermarkt.com/jose-fonte/profil/spieler/33829,jose fonte,losc lille,2022,FR1
+LOSC Lille,1082,Abdoulaye Ousmane,689091,€50k,50000.0,https://www.transfermarkt.com/abdoulaye-ousmane/profil/spieler/689091,abdoulaye ousmane,losc lille,2022,FR1
+LOSC Lille,1082,Gabriel Gudmundsson,362108,€4.50m,4500000.0,https://www.transfermarkt.com/gabriel-gudmundsson/profil/spieler/362108,gabriel gudmundsson,losc lille,2022,FR1
+LOSC Lille,1082,Ismaily,124028,€2.50m,2500000.0,https://www.transfermarkt.com/ismaily/profil/spieler/124028,ismaily,losc lille,2022,FR1
+LOSC Lille,1082,Akim Zedadka,327863,€2.50m,2500000.0,https://www.transfermarkt.com/akim-zedadka/profil/spieler/327863,akim zedadka,losc lille,2022,FR1
+LOSC Lille,1082,Simon Ramet,707231,€150k,150000.0,https://www.transfermarkt.com/simon-ramet/profil/spieler/707231,simon ramet,losc lille,2022,FR1
+LOSC Lille,1082,Benjamin André,84301,€9.00m,9000000.0,https://www.transfermarkt.com/benjamin-andre/profil/spieler/84301,benjamin andre,losc lille,2022,FR1
+LOSC Lille,1082,Carlos Baleba,973085,€5.00m,5000000.0,https://www.transfermarkt.com/carlos-baleba/profil/spieler/973085,carlos baleba,losc lille,2022,FR1
+LOSC Lille,1082,Jonas Martin,127142,€1.50m,1500000.0,https://www.transfermarkt.com/jonas-martin/profil/spieler/127142,jonas martin,losc lille,2022,FR1
+LOSC Lille,1082,André Gomes,221025,€16.00m,16000000.0,https://www.transfermarkt.com/andre-gomes/profil/spieler/221025,andre gomes,losc lille,2022,FR1
+LOSC Lille,1082,Alan Virginius,654415,€4.00m,4000000.0,https://www.transfermarkt.com/alan-virginius/profil/spieler/654415,alan virginius,losc lille,2022,FR1
+LOSC Lille,1082,Angel Gomes,392770,€16.00m,16000000.0,https://www.transfermarkt.com/angel-gomes/profil/spieler/392770,angel gomes,losc lille,2022,FR1
+LOSC Lille,1082,Yusuf Yazıcı,386726,€9.00m,9000000.0,https://www.transfermarkt.com/yusuf-yazici/profil/spieler/386726,yusuf yazıcı,losc lille,2022,FR1
+LOSC Lille,1082,Rémy Cabella,113707,€5.00m,5000000.0,https://www.transfermarkt.com/remy-cabella/profil/spieler/113707,remy cabella,losc lille,2022,FR1
+LOSC Lille,1082,Mattéo Makhabe,935198,€100k,100000.0,https://www.transfermarkt.com/matteo-makhabe/profil/spieler/935198,matteo makhabe,losc lille,2022,FR1
+LOSC Lille,1082,Jonathan Bamba,292818,€20.00m,20000000.0,https://www.transfermarkt.com/jonathan-bamba/profil/spieler/292818,jonathan bamba,losc lille,2022,FR1
+LOSC Lille,1082,Timothy Weah,370846,€14.00m,14000000.0,https://www.transfermarkt.com/timothy-weah/profil/spieler/370846,timothy weah,losc lille,2022,FR1
+LOSC Lille,1082,Edon Zhegrova,496857,€8.00m,8000000.0,https://www.transfermarkt.com/edon-zhegrova/profil/spieler/496857,edon zhegrova,losc lille,2022,FR1
+LOSC Lille,1082,Adam Ounas,400485,€7.00m,7000000.0,https://www.transfermarkt.com/adam-ounas/profil/spieler/400485,adam ounas,losc lille,2022,FR1
+LOSC Lille,1082,Isaac Lihadji,557610,€1.20m,1200000.0,https://www.transfermarkt.com/isaac-lihadji/profil/spieler/557610,isaac lihadji,losc lille,2022,FR1
+LOSC Lille,1082,Ichem Ferrah,1083024,€100k,100000.0,https://www.transfermarkt.com/ichem-ferrah/profil/spieler/1083024,ichem ferrah,losc lille,2022,FR1
+LOSC Lille,1082,Jonathan David,533738,€60.00m,60000000.0,https://www.transfermarkt.com/jonathan-david/profil/spieler/533738,jonathan david,losc lille,2022,FR1
+LOSC Lille,1082,Mohamed Bayo,594991,€6.00m,6000000.0,https://www.transfermarkt.com/mohamed-bayo/profil/spieler/594991,mohamed bayo,losc lille,2022,FR1
+LOSC Lille,1082,Amine Messoussa,934154,€400k,400000.0,https://www.transfermarkt.com/amine-messoussa/profil/spieler/934154,amine messoussa,losc lille,2022,FR1
+RC Lens,826,Brice Samba,191056,€13.00m,13000000.0,https://www.transfermarkt.com/brice-samba/profil/spieler/191056,brice samba,rc lens,2022,FR1
+RC Lens,826,Wuilker Fariñez,373714,€3.50m,3500000.0,https://www.transfermarkt.com/wuilker-farinez/profil/spieler/373714,wuilker farinez,rc lens,2022,FR1
+RC Lens,826,Jean-Louis Leca,27490,€200k,200000.0,https://www.transfermarkt.com/jean-louis-leca/profil/spieler/27490,jean-louis leca,rc lens,2022,FR1
+RC Lens,826,Yannick Pandor,804829,€150k,150000.0,https://www.transfermarkt.com/yannick-pandor/profil/spieler/804829,yannick pandor,rc lens,2022,FR1
+RC Lens,826,Kevin Danso,263236,€22.00m,22000000.0,https://www.transfermarkt.com/kevin-danso/profil/spieler/263236,kevin danso,rc lens,2022,FR1
+RC Lens,826,Facundo Medina,474800,€22.00m,22000000.0,https://www.transfermarkt.com/facundo-medina/profil/spieler/474800,facundo medina,rc lens,2022,FR1
+RC Lens,826,Christopher Wooh,572326,€6.00m,6000000.0,https://www.transfermarkt.com/christopher-wooh/profil/spieler/572326,christopher wooh,rc lens,2022,FR1
+RC Lens,826,Jonathan Gradit,126557,€5.00m,5000000.0,https://www.transfermarkt.com/jonathan-gradit/profil/spieler/126557,jonathan gradit,rc lens,2022,FR1
+RC Lens,826,Julien Le Cardinal,794349,€2.00m,2000000.0,https://www.transfermarkt.com/julien-le-cardinal/profil/spieler/794349,julien le cardinal,rc lens,2022,FR1
+RC Lens,826,Steven Fortes,276895,€400k,400000.0,https://www.transfermarkt.com/steven-fortes/profil/spieler/276895,steven fortes,rc lens,2022,FR1
+RC Lens,826,Ismaëlo Ganiou,1020191,€50k,50000.0,https://www.transfermarkt.com/ismaelo-ganiou/profil/spieler/1020191,ismaelo ganiou,rc lens,2022,FR1
+RC Lens,826,Deiver Machado,332560,€4.00m,4000000.0,https://www.transfermarkt.com/deiver-machado/profil/spieler/332560,deiver machado,rc lens,2022,FR1
+RC Lens,826,Massadio Haïdara,170929,€3.00m,3000000.0,https://www.transfermarkt.com/massadio-haidara/profil/spieler/170929,massadio haidara,rc lens,2022,FR1
+RC Lens,826,Ismaël Boura,770895,€1.00m,1000000.0,https://www.transfermarkt.com/ismael-boura/profil/spieler/770895,ismael boura,rc lens,2022,FR1
+RC Lens,826,Przemyslaw Frankowski,239743,€9.00m,9000000.0,https://www.transfermarkt.com/przemyslaw-frankowski/profil/spieler/239743,przemyslaw frankowski,rc lens,2022,FR1
+RC Lens,826,Salis Abdul Samed,688707,€18.00m,18000000.0,https://www.transfermarkt.com/salis-abdul-samed/profil/spieler/688707,salis abdul samed,rc lens,2022,FR1
+RC Lens,826,Jean Onana,656441,€6.00m,6000000.0,https://www.transfermarkt.com/jean-onana/profil/spieler/656441,jean onana,rc lens,2022,FR1
+RC Lens,826,Patrick Berg,308439,€4.50m,4500000.0,https://www.transfermarkt.com/patrick-berg/profil/spieler/308439,patrick berg,rc lens,2022,FR1
+RC Lens,826,Yacouba Barry,821136,€100k,100000.0,https://www.transfermarkt.com/yacouba-barry/profil/spieler/821136,yacouba barry,rc lens,2022,FR1
+RC Lens,826,Adrien Louveau,804817,€100k,100000.0,https://www.transfermarkt.com/adrien-louveau/profil/spieler/804817,adrien louveau,rc lens,2022,FR1
+RC Lens,826,Fodé Sylla,955359,-,,https://www.transfermarkt.com/fode-sylla/profil/spieler/955359,fode sylla,rc lens,2022,FR1
+RC Lens,826,Seko Fofana,182893,€32.00m,32000000.0,https://www.transfermarkt.com/seko-fofana/profil/spieler/182893,seko fofana,rc lens,2022,FR1
+RC Lens,826,Lukasz Poreba,532169,€2.00m,2000000.0,https://www.transfermarkt.com/lukasz-poreba/profil/spieler/532169,lukasz poreba,rc lens,2022,FR1
+RC Lens,826,Mamadou Camara,905408,€250k,250000.0,https://www.transfermarkt.com/mamadou-camara/profil/spieler/905408,mamadou camara,rc lens,2022,FR1
+RC Lens,826,Yaya Fofana,1044893,€150k,150000.0,https://www.transfermarkt.com/yaya-fofana/profil/spieler/1044893,yaya fofana,rc lens,2022,FR1
+RC Lens,826,Jimmy Cabot,206912,€3.50m,3500000.0,https://www.transfermarkt.com/jimmy-cabot/profil/spieler/206912,jimmy cabot,rc lens,2022,FR1
+RC Lens,826,Angelo Fulgini,250013,€9.00m,9000000.0,https://www.transfermarkt.com/angelo-fulgini/profil/spieler/250013,angelo fulgini,rc lens,2022,FR1
+RC Lens,826,David Da Costa,719442,€8.00m,8000000.0,https://www.transfermarkt.com/david-da-costa/profil/spieler/719442,david da costa,rc lens,2022,FR1
+RC Lens,826,Adrien Thomasson,215977,€6.00m,6000000.0,https://www.transfermarkt.com/adrien-thomasson/profil/spieler/215977,adrien thomasson,rc lens,2022,FR1
+RC Lens,826,Alexis Claude-Maurice,384593,€4.50m,4500000.0,https://www.transfermarkt.com/alexis-claude-maurice/profil/spieler/384593,alexis claude-maurice,rc lens,2022,FR1
+RC Lens,826,Gaël Kakuta,74297,€1.80m,1800000.0,https://www.transfermarkt.com/gael-kakuta/profil/spieler/74297,gael kakuta,rc lens,2022,FR1
+RC Lens,826,Nolan Bonte,1052885,€100k,100000.0,https://www.transfermarkt.com/nolan-bonte/profil/spieler/1052885,nolan bonte,rc lens,2022,FR1
+RC Lens,826,Loïs Openda,368887,€35.00m,35000000.0,https://www.transfermarkt.com/lois-openda/profil/spieler/368887,lois openda,rc lens,2022,FR1
+RC Lens,826,Adam Buksa,267160,€5.00m,5000000.0,https://www.transfermarkt.com/adam-buksa/profil/spieler/267160,adam buksa,rc lens,2022,FR1
+RC Lens,826,Ignatius Ganago,531949,€4.00m,4000000.0,https://www.transfermarkt.com/ignatius-ganago/profil/spieler/531949,ignatius ganago,rc lens,2022,FR1
+RC Lens,826,Florian Sotoca,354726,€4.00m,4000000.0,https://www.transfermarkt.com/florian-sotoca/profil/spieler/354726,florian sotoca,rc lens,2022,FR1
+RC Lens,826,Wesley Saïd,182916,€2.00m,2000000.0,https://www.transfermarkt.com/wesley-said/profil/spieler/182916,wesley said,rc lens,2022,FR1
+RC Lens,826,Rémy Labeau Lascary,917778,€500k,500000.0,https://www.transfermarkt.com/remy-labeau-lascary/profil/spieler/917778,remy labeau lascary,rc lens,2022,FR1
+RC Lens,826,Ibrahima Baldé,804884,€400k,400000.0,https://www.transfermarkt.com/ibrahima-balde/profil/spieler/804884,ibrahima balde,rc lens,2022,FR1
+FC Lorient,1158,Yvon Mvogo,147051,€3.50m,3500000.0,https://www.transfermarkt.com/yvon-mvogo/profil/spieler/147051,yvon mvogo,fc lorient,2022,FR1
+FC Lorient,1158,Paul Nardi,189744,€3.00m,3000000.0,https://www.transfermarkt.com/paul-nardi/profil/spieler/189744,paul nardi,fc lorient,2022,FR1
+FC Lorient,1158,Julian Pollersbeck,228975,€500k,500000.0,https://www.transfermarkt.com/julian-pollersbeck/profil/spieler/228975,julian pollersbeck,fc lorient,2022,FR1
+FC Lorient,1158,Vito Mannone,33781,€300k,300000.0,https://www.transfermarkt.com/vito-mannone/profil/spieler/33781,vito mannone,fc lorient,2022,FR1
+FC Lorient,1158,Teddy Bartouche-Selbonne,629587,€150k,150000.0,https://www.transfermarkt.com/teddy-bartouche-selbonne/profil/spieler/629587,teddy bartouche-selbonne,fc lorient,2022,FR1
+FC Lorient,1158,Montassar Talbi,496706,€8.00m,8000000.0,https://www.transfermarkt.com/montassar-talbi/profil/spieler/496706,montassar talbi,fc lorient,2022,FR1
+FC Lorient,1158,Chrislain Matsima,569383,€6.00m,6000000.0,https://www.transfermarkt.com/chrislain-matsima/profil/spieler/569383,chrislain matsima,fc lorient,2022,FR1
+FC Lorient,1158,Julien Laporte,386057,€2.50m,2500000.0,https://www.transfermarkt.com/julien-laporte/profil/spieler/386057,julien laporte,fc lorient,2022,FR1
+FC Lorient,1158,Bamo Meïté,807165,€2.50m,2500000.0,https://www.transfermarkt.com/bamo-meite/profil/spieler/807165,bamo meite,fc lorient,2022,FR1
+FC Lorient,1158,Loris Mouyokolo,799936,€500k,500000.0,https://www.transfermarkt.com/loris-mouyokolo/profil/spieler/799936,loris mouyokolo,fc lorient,2022,FR1
+FC Lorient,1158,Maxime Wackers,798894,€150k,150000.0,https://www.transfermarkt.com/maxime-wackers/profil/spieler/798894,maxime wackers,fc lorient,2022,FR1
+FC Lorient,1158,Aurélien Pelon,918268,€50k,50000.0,https://www.transfermarkt.com/aurelien-pelon/profil/spieler/918268,aurelien pelon,fc lorient,2022,FR1
+FC Lorient,1158,Darlin Yongwa,717118,€1.20m,1200000.0,https://www.transfermarkt.com/darlin-yongwa/profil/spieler/717118,darlin yongwa,fc lorient,2022,FR1
+FC Lorient,1158,Vincent Le Goff,120651,€1.00m,1000000.0,https://www.transfermarkt.com/vincent-le-goff/profil/spieler/120651,vincent le goff,fc lorient,2022,FR1
+FC Lorient,1158,Léo Pétrot,412829,€900k,900000.0,https://www.transfermarkt.com/leo-petrot/profil/spieler/412829,leo petrot,fc lorient,2022,FR1
+FC Lorient,1158,Samuel Loric,648886,€500k,500000.0,https://www.transfermarkt.com/samuel-loric/profil/spieler/648886,samuel loric,fc lorient,2022,FR1
+FC Lorient,1158,Gédéon Kalulu,395685,€5.00m,5000000.0,https://www.transfermarkt.com/gedeon-kalulu/profil/spieler/395685,gedeon kalulu,fc lorient,2022,FR1
+FC Lorient,1158,Igor Silva,391720,€1.50m,1500000.0,https://www.transfermarkt.com/igor-silva/profil/spieler/391720,igor silva,fc lorient,2022,FR1
+FC Lorient,1158,Paul Mbelek,601059,-,,https://www.transfermarkt.com/paul-mbelek/profil/spieler/601059,paul mbelek,fc lorient,2022,FR1
+FC Lorient,1158,Laurent Abergel,238626,€3.00m,3000000.0,https://www.transfermarkt.com/laurent-abergel/profil/spieler/238626,laurent abergel,fc lorient,2022,FR1
+FC Lorient,1158,Bonke Innocent,333383,€2.00m,2000000.0,https://www.transfermarkt.com/bonke-innocent/profil/spieler/333383,bonke innocent,fc lorient,2022,FR1
+FC Lorient,1158,Paul Bellon,804550,€100k,100000.0,https://www.transfermarkt.com/paul-bellon/profil/spieler/804550,paul bellon,fc lorient,2022,FR1
+FC Lorient,1158,Enzo Le Fée,633992,€20.00m,20000000.0,https://www.transfermarkt.com/enzo-le-fee/profil/spieler/633992,enzo le fee,fc lorient,2022,FR1
+FC Lorient,1158,Jean-Victor Makengo,322305,€10.00m,10000000.0,https://www.transfermarkt.com/jean-victor-makengo/profil/spieler/322305,jean-victor makengo,fc lorient,2022,FR1
+FC Lorient,1158,Ayman Kari,810093,€1.00m,1000000.0,https://www.transfermarkt.com/ayman-kari/profil/spieler/810093,ayman kari,fc lorient,2022,FR1
+FC Lorient,1158,Théo Le Bris,766412,€3.00m,3000000.0,https://www.transfermarkt.com/theo-le-bris/profil/spieler/766412,theo le bris,fc lorient,2022,FR1
+FC Lorient,1158,Romain Faivre,555076,€10.00m,10000000.0,https://www.transfermarkt.com/romain-faivre/profil/spieler/555076,romain faivre,fc lorient,2022,FR1
+FC Lorient,1158,Julien Ponceau,569390,€2.50m,2500000.0,https://www.transfermarkt.com/julien-ponceau/profil/spieler/569390,julien ponceau,fc lorient,2022,FR1
+FC Lorient,1158,Adil Aouchiche,569385,€2.20m,2200000.0,https://www.transfermarkt.com/adil-aouchiche/profil/spieler/569385,adil aouchiche,fc lorient,2022,FR1
+FC Lorient,1158,Quentin Boisgard,412671,€1.00m,1000000.0,https://www.transfermarkt.com/quentin-boisgard/profil/spieler/412671,quentin boisgard,fc lorient,2022,FR1
+FC Lorient,1158,Dango Ouattara,823231,€25.00m,25000000.0,https://www.transfermarkt.com/dango-ouattara/profil/spieler/823231,dango ouattara,fc lorient,2022,FR1
+FC Lorient,1158,Armand Laurienté,579930,€18.00m,18000000.0,https://www.transfermarkt.com/armand-lauriente/profil/spieler/579930,armand lauriente,fc lorient,2022,FR1
+FC Lorient,1158,Yoann Cathline,782476,€2.00m,2000000.0,https://www.transfermarkt.com/yoann-cathline/profil/spieler/782476,yoann cathline,fc lorient,2022,FR1
+FC Lorient,1158,Erwan Colas,804386,-,,https://www.transfermarkt.com/erwan-colas/profil/spieler/804386,erwan colas,fc lorient,2022,FR1
+FC Lorient,1158,Stéphane Diarra,428954,€2.50m,2500000.0,https://www.transfermarkt.com/stephane-diarra/profil/spieler/428954,stephane diarra,fc lorient,2022,FR1
+FC Lorient,1158,Terem Moffi,538874,€20.00m,20000000.0,https://www.transfermarkt.com/terem-moffi/profil/spieler/538874,terem moffi,fc lorient,2022,FR1
+FC Lorient,1158,Bamba Dieng,822458,€8.00m,8000000.0,https://www.transfermarkt.com/bamba-dieng/profil/spieler/822458,bamba dieng,fc lorient,2022,FR1
+FC Lorient,1158,Ibrahima Koné,490223,€4.00m,4000000.0,https://www.transfermarkt.com/ibrahima-kone/profil/spieler/490223,ibrahima kone,fc lorient,2022,FR1
+FC Lorient,1158,Adrian Grbic,167342,€1.50m,1500000.0,https://www.transfermarkt.com/adrian-grbic/profil/spieler/167342,adrian grbic,fc lorient,2022,FR1
+FC Lorient,1158,Pablo Pagis,810411,€1.50m,1500000.0,https://www.transfermarkt.com/pablo-pagis/profil/spieler/810411,pablo pagis,fc lorient,2022,FR1
+FC Lorient,1158,Siriné Doucouré,802747,€500k,500000.0,https://www.transfermarkt.com/sirine-doucoure/profil/spieler/802747,sirine doucoure,fc lorient,2022,FR1
+FC Lorient,1158,Eli Kroupi,955357,€400k,400000.0,https://www.transfermarkt.com/eli-kroupi/profil/spieler/955357,eli kroupi,fc lorient,2022,FR1
+Stade Reims,1421,Yehvann Diouf,448632,€8.00m,8000000.0,https://www.transfermarkt.com/yehvann-diouf/profil/spieler/448632,yehvann diouf,stade reims,2022,FR1
+Stade Reims,1421,Patrick Pentz,223972,€1.50m,1500000.0,https://www.transfermarkt.com/patrick-pentz/profil/spieler/223972,patrick pentz,stade reims,2022,FR1
+Stade Reims,1421,Alexandre Olliero,395602,€600k,600000.0,https://www.transfermarkt.com/alexandre-olliero/profil/spieler/395602,alexandre olliero,stade reims,2022,FR1
+Stade Reims,1421,Nicolas Penneteau,5578,€100k,100000.0,https://www.transfermarkt.com/nicolas-penneteau/profil/spieler/5578,nicolas penneteau,stade reims,2022,FR1
+Stade Reims,1421,Florent Duparchy,854861,€100k,100000.0,https://www.transfermarkt.com/florent-duparchy/profil/spieler/854861,florent duparchy,stade reims,2022,FR1
+Stade Reims,1421,Soumaïla Sylla,894585,€50k,50000.0,https://www.transfermarkt.com/soumaila-sylla/profil/spieler/894585,soumaila sylla,stade reims,2022,FR1
+Stade Reims,1421,Wout Faes,292808,€20.00m,20000000.0,https://www.transfermarkt.com/wout-faes/profil/spieler/292808,wout faes,stade reims,2022,FR1
+Stade Reims,1421,Emmanuel Agbadou,683895,€7.50m,7500000.0,https://www.transfermarkt.com/emmanuel-agbadou/profil/spieler/683895,emmanuel agbadou,stade reims,2022,FR1
+Stade Reims,1421,Andreaw Gravillon,395083,€4.00m,4000000.0,https://www.transfermarkt.com/andreaw-gravillon/profil/spieler/395083,andreaw gravillon,stade reims,2022,FR1
+Stade Reims,1421,Check Keita,820146,€1.50m,1500000.0,https://www.transfermarkt.com/check-keita/profil/spieler/820146,check keita,stade reims,2022,FR1
+Stade Reims,1421,Yunis Abdelhamid,199704,€700k,700000.0,https://www.transfermarkt.com/yunis-abdelhamid/profil/spieler/199704,yunis abdelhamid,stade reims,2022,FR1
+Stade Reims,1421,Moustapha Mbow,649026,€600k,600000.0,https://www.transfermarkt.com/moustapha-mbow/profil/spieler/649026,moustapha mbow,stade reims,2022,FR1
+Stade Reims,1421,Fallou Fall,1038821,€150k,150000.0,https://www.transfermarkt.com/fallou-fall/profil/spieler/1038821,fallou fall,stade reims,2022,FR1
+Stade Reims,1421,Thibault De Smet,340177,€3.00m,3000000.0,https://www.transfermarkt.com/thibault-de-smet/profil/spieler/340177,thibault de smet,stade reims,2022,FR1
+Stade Reims,1421,Bradley Locko,805908,€2.50m,2500000.0,https://www.transfermarkt.com/bradley-locko/profil/spieler/805908,bradley locko,stade reims,2022,FR1
+Stade Reims,1421,Thomas Foket,215114,€5.00m,5000000.0,https://www.transfermarkt.com/thomas-foket/profil/spieler/215114,thomas foket,stade reims,2022,FR1
+Stade Reims,1421,Maxime Busi,570817,€2.50m,2500000.0,https://www.transfermarkt.com/maxime-busi/profil/spieler/570817,maxime busi,stade reims,2022,FR1
+Stade Reims,1421,Ibrahim Diakité,919173,€350k,350000.0,https://www.transfermarkt.com/ibrahim-diakite/profil/spieler/919173,ibrahim diakite,stade reims,2022,FR1
+Stade Reims,1421,Thérence Koudou,910176,€100k,100000.0,https://www.transfermarkt.com/therence-koudou/profil/spieler/910176,therence koudou,stade reims,2022,FR1
+Stade Reims,1421,Azor Matusiwa,315145,€7.50m,7500000.0,https://www.transfermarkt.com/azor-matusiwa/profil/spieler/315145,azor matusiwa,stade reims,2022,FR1
+Stade Reims,1421,Jens Cajuste,468066,€6.00m,6000000.0,https://www.transfermarkt.com/jens-cajuste/profil/spieler/468066,jens cajuste,stade reims,2022,FR1
+Stade Reims,1421,Dion Lopy,649033,€4.00m,4000000.0,https://www.transfermarkt.com/dion-lopy/profil/spieler/649033,dion lopy,stade reims,2022,FR1
+Stade Reims,1421,Samuel Koeberlé,926235,€250k,250000.0,https://www.transfermarkt.com/samuel-koeberle/profil/spieler/926235,samuel koeberle,stade reims,2022,FR1
+Stade Reims,1421,Marshall Munetsi,414908,€9.00m,9000000.0,https://www.transfermarkt.com/marshall-munetsi/profil/spieler/414908,marshall munetsi,stade reims,2022,FR1
+Stade Reims,1421,Martin Adeline,814976,€800k,800000.0,https://www.transfermarkt.com/martin-adeline/profil/spieler/814976,martin adeline,stade reims,2022,FR1
+Stade Reims,1421,Valentin Atangana,923759,€250k,250000.0,https://www.transfermarkt.com/valentin-atangana/profil/spieler/923759,valentin atangana,stade reims,2022,FR1
+Stade Reims,1421,Alexis Flips,395242,€6.00m,6000000.0,https://www.transfermarkt.com/alexis-flips/profil/spieler/395242,alexis flips,stade reims,2022,FR1
+Stade Reims,1421,Kamory Doumbia,671594,€2.50m,2500000.0,https://www.transfermarkt.com/kamory-doumbia/profil/spieler/671594,kamory doumbia,stade reims,2022,FR1
+Stade Reims,1421,Arbër Zeneli,222876,€3.50m,3500000.0,https://www.transfermarkt.com/arber-zeneli/profil/spieler/222876,arber zeneli,stade reims,2022,FR1
+Stade Reims,1421,Nathanaël Mbuku,557614,€3.00m,3000000.0,https://www.transfermarkt.com/nathanael-mbuku/profil/spieler/557614,nathanael mbuku,stade reims,2022,FR1
+Stade Reims,1421,Myziane Maolida,371142,€1.50m,1500000.0,https://www.transfermarkt.com/myziane-maolida/profil/spieler/371142,myziane maolida,stade reims,2022,FR1
+Stade Reims,1421,Mamadou Diakhon,1054839,-,,https://www.transfermarkt.com/mamadou-diakhon/profil/spieler/1054839,mamadou diakhon,stade reims,2022,FR1
+Stade Reims,1421,Junya Ito,348791,€10.00m,10000000.0,https://www.transfermarkt.com/junya-ito/profil/spieler/348791,junya ito,stade reims,2022,FR1
+Stade Reims,1421,Mitchell van Bergen,393239,€1.20m,1200000.0,https://www.transfermarkt.com/mitchell-van-bergen/profil/spieler/393239,mitchell van bergen,stade reims,2022,FR1
+Stade Reims,1421,Rafik Guitane,394328,€1.00m,1000000.0,https://www.transfermarkt.com/rafik-guitane/profil/spieler/394328,rafik guitane,stade reims,2022,FR1
+Stade Reims,1421,Folarin Balogun,503770,€30.00m,30000000.0,https://www.transfermarkt.com/folarin-balogun/profil/spieler/503770,folarin balogun,stade reims,2022,FR1
+Stade Reims,1421,El Bilal Touré,649016,€12.00m,12000000.0,https://www.transfermarkt.com/el-bilal-toure/profil/spieler/649016,el bilal toure,stade reims,2022,FR1
+Stade Reims,1421,Kaj Sierhuis,315283,€1.20m,1200000.0,https://www.transfermarkt.com/kaj-sierhuis/profil/spieler/315283,kaj sierhuis,stade reims,2022,FR1
+Stade Reims,1421,Noah Holm,494177,€700k,700000.0,https://www.transfermarkt.com/noah-holm/profil/spieler/494177,noah holm,stade reims,2022,FR1
+Stade Reims,1421,Mohamed Touré,742770,€400k,400000.0,https://www.transfermarkt.com/mohamed-toure/profil/spieler/742770,mohamed toure,stade reims,2022,FR1
+Montpellier HSC,969,Jonas Omlin,247915,€9.00m,9000000.0,https://www.transfermarkt.com/jonas-omlin/profil/spieler/247915,jonas omlin,montpellier hsc,2022,FR1
+Montpellier HSC,969,Benjamin Lecomte,127181,€4.00m,4000000.0,https://www.transfermarkt.com/benjamin-lecomte/profil/spieler/127181,benjamin lecomte,montpellier hsc,2022,FR1
+Montpellier HSC,969,Dimitry Bertaud,371816,€1.50m,1500000.0,https://www.transfermarkt.com/dimitry-bertaud/profil/spieler/371816,dimitry bertaud,montpellier hsc,2022,FR1
+Montpellier HSC,969,Bingourou Kamara,333175,€800k,800000.0,https://www.transfermarkt.com/bingourou-kamara/profil/spieler/333175,bingourou kamara,montpellier hsc,2022,FR1
+Montpellier HSC,969,Matis Carvalho,478346,€300k,300000.0,https://www.transfermarkt.com/matis-carvalho/profil/spieler/478346,matis carvalho,montpellier hsc,2022,FR1
+Montpellier HSC,969,Maxime Estève,842341,€7.00m,7000000.0,https://www.transfermarkt.com/maxime-esteve/profil/spieler/842341,maxime esteve,montpellier hsc,2022,FR1
+Montpellier HSC,969,Kiki Kouyaté,211637,€5.00m,5000000.0,https://www.transfermarkt.com/kiki-kouyate/profil/spieler/211637,kiki kouyate,montpellier hsc,2022,FR1
+Montpellier HSC,969,Christopher Jullien,201737,€3.50m,3500000.0,https://www.transfermarkt.com/christopher-jullien/profil/spieler/201737,christopher jullien,montpellier hsc,2022,FR1
+Montpellier HSC,969,Mamadou Sakho,47713,€2.50m,2500000.0,https://www.transfermarkt.com/mamadou-sakho/profil/spieler/47713,mamadou sakho,montpellier hsc,2022,FR1
+Montpellier HSC,969,Pedro Mendes,72857,€1.80m,1800000.0,https://www.transfermarkt.com/pedro-mendes/profil/spieler/72857,pedro mendes,montpellier hsc,2022,FR1
+Montpellier HSC,969,Ryan Tchato,743516,€150k,150000.0,https://www.transfermarkt.com/ryan-tchato/profil/spieler/743516,ryan tchato,montpellier hsc,2022,FR1
+Montpellier HSC,969,Téo Allix,913669,€150k,150000.0,https://www.transfermarkt.com/teo-allix/profil/spieler/913669,teo allix,montpellier hsc,2022,FR1
+Montpellier HSC,969,Redouane Halhal,913660,€100k,100000.0,https://www.transfermarkt.com/redouane-halhal/profil/spieler/913660,redouane halhal,montpellier hsc,2022,FR1
+Montpellier HSC,969,Faitout Maouassa,357072,€6.00m,6000000.0,https://www.transfermarkt.com/faitout-maouassa/profil/spieler/357072,faitout maouassa,montpellier hsc,2022,FR1
+Montpellier HSC,969,Nicolas Cozza,485965,€3.50m,3500000.0,https://www.transfermarkt.com/nicolas-cozza/profil/spieler/485965,nicolas cozza,montpellier hsc,2022,FR1
+Montpellier HSC,969,Issiaga Sylla,220878,€2.50m,2500000.0,https://www.transfermarkt.com/issiaga-sylla/profil/spieler/220878,issiaga sylla,montpellier hsc,2022,FR1
+Montpellier HSC,969,Théo Sainte-Luce,537127,€2.00m,2000000.0,https://www.transfermarkt.com/theo-sainte-luce/profil/spieler/537127,theo sainte-luce,montpellier hsc,2022,FR1
+Montpellier HSC,969,Thibault Tamas,569374,€150k,150000.0,https://www.transfermarkt.com/thibault-tamas/profil/spieler/569374,thibault tamas,montpellier hsc,2022,FR1
+Montpellier HSC,969,Falaye Sacko,364857,€4.00m,4000000.0,https://www.transfermarkt.com/falaye-sacko/profil/spieler/364857,falaye sacko,montpellier hsc,2022,FR1
+Montpellier HSC,969,Enzo Tchato,842338,€2.50m,2500000.0,https://www.transfermarkt.com/enzo-tchato/profil/spieler/842338,enzo tchato,montpellier hsc,2022,FR1
+Montpellier HSC,969,Arnaud Souquet,111058,€2.00m,2000000.0,https://www.transfermarkt.com/arnaud-souquet/profil/spieler/111058,arnaud souquet,montpellier hsc,2022,FR1
+Montpellier HSC,969,Mathías Suárez,294895,€300k,300000.0,https://www.transfermarkt.com/mathias-suarez/profil/spieler/294895,mathias suarez,montpellier hsc,2022,FR1
+Montpellier HSC,969,Joris Chotard,624037,€9.00m,9000000.0,https://www.transfermarkt.com/joris-chotard/profil/spieler/624037,joris chotard,montpellier hsc,2022,FR1
+Montpellier HSC,969,Jordan Ferri,118284,€5.00m,5000000.0,https://www.transfermarkt.com/jordan-ferri/profil/spieler/118284,jordan ferri,montpellier hsc,2022,FR1
+Montpellier HSC,969,Khalil Fayad,782630,€4.50m,4500000.0,https://www.transfermarkt.com/khalil-fayad/profil/spieler/782630,khalil fayad,montpellier hsc,2022,FR1
+Montpellier HSC,969,Léo Leroy,650350,€1.20m,1200000.0,https://www.transfermarkt.com/leo-leroy/profil/spieler/650350,leo leroy,montpellier hsc,2022,FR1
+Montpellier HSC,969,Matéo Loubatières,913645,€150k,150000.0,https://www.transfermarkt.com/mateo-loubatieres/profil/spieler/913645,mateo loubatieres,montpellier hsc,2022,FR1
+Montpellier HSC,969,Téji Savanier,127156,€10.00m,10000000.0,https://www.transfermarkt.com/teji-savanier/profil/spieler/127156,teji savanier,montpellier hsc,2022,FR1
+Montpellier HSC,969,Sacha Delaye,842425,€400k,400000.0,https://www.transfermarkt.com/sacha-delaye/profil/spieler/842425,sacha delaye,montpellier hsc,2022,FR1
+Montpellier HSC,969,Edvin Bongemba,944847,€50k,50000.0,https://www.transfermarkt.com/edvin-bongemba/profil/spieler/944847,edvin bongemba,montpellier hsc,2022,FR1
+Montpellier HSC,969,Stephy Mavididi,340328,€6.00m,6000000.0,https://www.transfermarkt.com/stephy-mavididi/profil/spieler/340328,stephy mavididi,montpellier hsc,2022,FR1
+Montpellier HSC,969,Wahbi Khazri,103565,€2.50m,2500000.0,https://www.transfermarkt.com/wahbi-khazri/profil/spieler/103565,wahbi khazri,montpellier hsc,2022,FR1
+Montpellier HSC,969,Béni Makouana,624920,€600k,600000.0,https://www.transfermarkt.com/beni-makouana/profil/spieler/624920,beni makouana,montpellier hsc,2022,FR1
+Montpellier HSC,969,Arnaud Nordin,324811,€7.00m,7000000.0,https://www.transfermarkt.com/arnaud-nordin/profil/spieler/324811,arnaud nordin,montpellier hsc,2022,FR1
+Montpellier HSC,969,Axel Guéguin,981977,€800k,800000.0,https://www.transfermarkt.com/axel-gueguin/profil/spieler/981977,axel gueguin,montpellier hsc,2022,FR1
+Montpellier HSC,969,Elye Wahi,659542,€35.00m,35000000.0,https://www.transfermarkt.com/elye-wahi/profil/spieler/659542,elye wahi,montpellier hsc,2022,FR1
+Montpellier HSC,969,Valère Germain,60540,€1.50m,1500000.0,https://www.transfermarkt.com/valere-germain/profil/spieler/60540,valere germain,montpellier hsc,2022,FR1
+Montpellier HSC,969,Serigne Faye,1087022,€300k,300000.0,https://www.transfermarkt.com/serigne-faye/profil/spieler/1087022,serigne faye,montpellier hsc,2022,FR1
+Montpellier HSC,969,Yanis Guermouche,876034,€150k,150000.0,https://www.transfermarkt.com/yanis-guermouche/profil/spieler/876034,yanis guermouche,montpellier hsc,2022,FR1
+RC Strasbourg Alsace,667,Matz Sels,127202,€7.00m,7000000.0,https://www.transfermarkt.com/matz-sels/profil/spieler/127202,matz sels,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Eiji Kawashima,77383,€150k,150000.0,https://www.transfermarkt.com/eiji-kawashima/profil/spieler/77383,eiji kawashima,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Robin Risser,743515,€150k,150000.0,https://www.transfermarkt.com/robin-risser/profil/spieler/743515,robin risser,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Alexandre Pierre,838947,€100k,100000.0,https://www.transfermarkt.com/alexandre-pierre/profil/spieler/838947,alexandre pierre,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Alexander Djiku,250844,€8.00m,8000000.0,https://www.transfermarkt.com/alexander-djiku/profil/spieler/250844,alexander djiku,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Ismaël Doukouré,786436,€6.00m,6000000.0,https://www.transfermarkt.com/ismael-doukoure/profil/spieler/786436,ismael doukoure,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Gerzino Nyamsi,378953,€5.00m,5000000.0,https://www.transfermarkt.com/gerzino-nyamsi/profil/spieler/378953,gerzino nyamsi,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Lucas Perrin,352392,€3.00m,3000000.0,https://www.transfermarkt.com/lucas-perrin/profil/spieler/352392,lucas perrin,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Maxime Le Marchand,60558,€1.00m,1000000.0,https://www.transfermarkt.com/maxime-le-marchand/profil/spieler/60558,maxime le marchand,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Eduard Sobol,206717,€2.50m,2500000.0,https://www.transfermarkt.com/eduard-sobol/profil/spieler/206717,eduard sobol,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Thomas Delaine,170961,€1.20m,1200000.0,https://www.transfermarkt.com/thomas-delaine/profil/spieler/170961,thomas delaine,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Franci Bouebari,1029294,€250k,250000.0,https://www.transfermarkt.com/franci-bouebari/profil/spieler/1029294,franci bouebari,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Anas Nanah,667999,€50k,50000.0,https://www.transfermarkt.com/anas-nanah/profil/spieler/667999,anas nanah,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Colin Dagba,460629,€4.50m,4500000.0,https://www.transfermarkt.com/colin-dagba/profil/spieler/460629,colin dagba,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Frédéric Guilbert,354352,€4.50m,4500000.0,https://www.transfermarkt.com/frederic-guilbert/profil/spieler/354352,frederic guilbert,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Ronaël Pierre-Gabriel,410185,€3.50m,3500000.0,https://www.transfermarkt.com/ronael-pierre-gabriel/profil/spieler/410185,ronael pierre-gabriel,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Karol Fila,385817,€900k,900000.0,https://www.transfermarkt.com/karol-fila/profil/spieler/385817,karol fila,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Marvin Senaya,830890,€900k,900000.0,https://www.transfermarkt.com/marvin-senaya/profil/spieler/830890,marvin senaya,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Antoine Nuss,1029293,€100k,100000.0,https://www.transfermarkt.com/antoine-nuss/profil/spieler/1029293,antoine nuss,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Ibrahima Sissoko,372712,€6.00m,6000000.0,https://www.transfermarkt.com/ibrahima-sissoko/profil/spieler/372712,ibrahima sissoko,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Jean-Eudes Aholou,178313,€2.50m,2500000.0,https://www.transfermarkt.com/jean-eudes-aholou/profil/spieler/178313,jean-eudes aholou,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Jean-Ricner Bellegarde,450050,€10.00m,10000000.0,https://www.transfermarkt.com/jean-ricner-bellegarde/profil/spieler/450050,jean-ricner bellegarde,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Habib Diarra,876631,€10.00m,10000000.0,https://www.transfermarkt.com/habib-diarra/profil/spieler/876631,habib diarra,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Morgan Sanson,174094,€6.00m,6000000.0,https://www.transfermarkt.com/morgan-sanson/profil/spieler/174094,morgan sanson,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Sanjin Prcic,125783,€3.00m,3000000.0,https://www.transfermarkt.com/sanjin-prcic/profil/spieler/125783,sanjin prcic,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Dimitri Liénard,314940,€500k,500000.0,https://www.transfermarkt.com/dimitri-lienard/profil/spieler/314940,dimitri lienard,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Jordan Robinand,888823,€50k,50000.0,https://www.transfermarkt.com/jordan-robinand/profil/spieler/888823,jordan robinand,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Adrien Thomasson,215977,€6.00m,6000000.0,https://www.transfermarkt.com/adrien-thomasson/profil/spieler/215977,adrien thomasson,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Yuito Suzuki,668606,€600k,600000.0,https://www.transfermarkt.com/yuito-suzuki/profil/spieler/668606,yuito suzuki,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Nordine Kandil,891379,€400k,400000.0,https://www.transfermarkt.com/nordine-kandil/profil/spieler/891379,nordine kandil,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Dany Jean,628835,€150k,150000.0,https://www.transfermarkt.com/dany-jean/profil/spieler/628835,dany jean,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Tom Saettel,886502,€150k,150000.0,https://www.transfermarkt.com/tom-saettel/profil/spieler/886502,tom saettel,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Habib Diallo,344888,€18.00m,18000000.0,https://www.transfermarkt.com/habib-diallo/profil/spieler/344888,habib diallo,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Ludovic Ajorque,283994,€9.00m,9000000.0,https://www.transfermarkt.com/ludovic-ajorque/profil/spieler/283994,ludovic ajorque,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Kévin Gameiro,27389,€1.20m,1200000.0,https://www.transfermarkt.com/kevin-gameiro/profil/spieler/27389,kevin gameiro,rc strasbourg alsace,2022,FR1
+RC Strasbourg Alsace,667,Lebo Mothiba,427161,€1.20m,1200000.0,https://www.transfermarkt.com/lebo-mothiba/profil/spieler/427161,lebo mothiba,rc strasbourg alsace,2022,FR1
+FC Nantes,995,Alban Lafont,357117,€16.00m,16000000.0,https://www.transfermarkt.com/alban-lafont/profil/spieler/357117,alban lafont,fc nantes,2022,FR1
+FC Nantes,995,Rémy Descamps,282028,€700k,700000.0,https://www.transfermarkt.com/remy-descamps/profil/spieler/282028,remy descamps,fc nantes,2022,FR1
+FC Nantes,995,Denis Petric,28356,€150k,150000.0,https://www.transfermarkt.com/denis-petric/profil/spieler/28356,denis petric,fc nantes,2022,FR1
+FC Nantes,995,João Victor,671145,€7.00m,7000000.0,https://www.transfermarkt.com/joao-victor/profil/spieler/671145,joao victor,fc nantes,2022,FR1
+FC Nantes,995,Andrei Girotto,270051,€4.00m,4000000.0,https://www.transfermarkt.com/andrei-girotto/profil/spieler/270051,andrei girotto,fc nantes,2022,FR1
+FC Nantes,995,Jean-Charles Castelletto,182875,€3.50m,3500000.0,https://www.transfermarkt.com/jean-charles-castelletto/profil/spieler/182875,jean-charles castelletto,fc nantes,2022,FR1
+FC Nantes,995,Nicolas Pallois,139279,€900k,900000.0,https://www.transfermarkt.com/nicolas-pallois/profil/spieler/139279,nicolas pallois,fc nantes,2022,FR1
+FC Nantes,995,Nathan Zézé,923832,€400k,400000.0,https://www.transfermarkt.com/nathan-zeze/profil/spieler/923832,nathan zeze,fc nantes,2022,FR1
+FC Nantes,995,Robin Voisine,650582,€150k,150000.0,https://www.transfermarkt.com/robin-voisine/profil/spieler/650582,robin voisine,fc nantes,2022,FR1
+FC Nantes,995,Junior Diaz,1009596,€100k,100000.0,https://www.transfermarkt.com/junior-diaz/profil/spieler/1009596,junior diaz,fc nantes,2022,FR1
+FC Nantes,995,Quentin Merlin,557613,€7.00m,7000000.0,https://www.transfermarkt.com/quentin-merlin/profil/spieler/557613,quentin merlin,fc nantes,2022,FR1
+FC Nantes,995,Jaouen Hadjam,750903,€2.00m,2000000.0,https://www.transfermarkt.com/jaouen-hadjam/profil/spieler/750903,jaouen hadjam,fc nantes,2022,FR1
+FC Nantes,995,Charles Traoré,394906,€600k,600000.0,https://www.transfermarkt.com/charles-traore/profil/spieler/394906,charles traore,fc nantes,2022,FR1
+FC Nantes,995,Fabien Centonze,384859,€4.00m,4000000.0,https://www.transfermarkt.com/fabien-centonze/profil/spieler/384859,fabien centonze,fc nantes,2022,FR1
+FC Nantes,995,Dennis Appiah,111038,€1.50m,1500000.0,https://www.transfermarkt.com/dennis-appiah/profil/spieler/111038,dennis appiah,fc nantes,2022,FR1
+FC Nantes,995,Fábio,61891,€1.20m,1200000.0,https://www.transfermarkt.com/fabio/profil/spieler/61891,fabio,fc nantes,2022,FR1
+FC Nantes,995,Marcus Coco,353365,€1.20m,1200000.0,https://www.transfermarkt.com/marcus-coco/profil/spieler/353365,marcus coco,fc nantes,2022,FR1
+FC Nantes,995,Sébastien Corchia,102744,€1.00m,1000000.0,https://www.transfermarkt.com/sebastien-corchia/profil/spieler/102744,sebastien corchia,fc nantes,2022,FR1
+FC Nantes,995,Mathieu Acapandié,944355,-,,https://www.transfermarkt.com/mathieu-acapandie/profil/spieler/944355,mathieu acapandie,fc nantes,2022,FR1
+FC Nantes,995,Pedro Chirivella,242273,€6.00m,6000000.0,https://www.transfermarkt.com/pedro-chirivella/profil/spieler/242273,pedro chirivella,fc nantes,2022,FR1
+FC Nantes,995,Lohann Doucet,830265,€700k,700000.0,https://www.transfermarkt.com/lohann-doucet/profil/spieler/830265,lohann doucet,fc nantes,2022,FR1
+FC Nantes,995,Samuel Moutoussamy,353403,€5.00m,5000000.0,https://www.transfermarkt.com/samuel-moutoussamy/profil/spieler/353403,samuel moutoussamy,fc nantes,2022,FR1
+FC Nantes,995,Moussa Sissoko,46001,€2.50m,2500000.0,https://www.transfermarkt.com/moussa-sissoko/profil/spieler/46001,moussa sissoko,fc nantes,2022,FR1
+FC Nantes,995,Mohamed Achi,855158,€300k,300000.0,https://www.transfermarkt.com/mohamed-achi/profil/spieler/855158,mohamed achi,fc nantes,2022,FR1
+FC Nantes,995,Florent Mollet,222859,€2.00m,2000000.0,https://www.transfermarkt.com/florent-mollet/profil/spieler/222859,florent mollet,fc nantes,2022,FR1
+FC Nantes,995,Gor Manvelyan,773795,€400k,400000.0,https://www.transfermarkt.com/gor-manvelyan/profil/spieler/773795,gor manvelyan,fc nantes,2022,FR1
+FC Nantes,995,Santiago Eneme,615618,€150k,150000.0,https://www.transfermarkt.com/santiago-eneme/profil/spieler/615618,santiago eneme,fc nantes,2022,FR1
+FC Nantes,995,Samuel Yépié Yépié,538973,€150k,150000.0,https://www.transfermarkt.com/samuel-yepie-yepie/profil/spieler/538973,samuel yepie yepie,fc nantes,2022,FR1
+FC Nantes,995,Moses Simon,274862,€8.00m,8000000.0,https://www.transfermarkt.com/moses-simon/profil/spieler/274862,moses simon,fc nantes,2022,FR1
+FC Nantes,995,Ludovic Blas,288225,€20.00m,20000000.0,https://www.transfermarkt.com/ludovic-blas/profil/spieler/288225,ludovic blas,fc nantes,2022,FR1
+FC Nantes,995,Evann Guessand,500689,€4.50m,4500000.0,https://www.transfermarkt.com/evann-guessand/profil/spieler/500689,evann guessand,fc nantes,2022,FR1
+FC Nantes,995,Abdoul Kader Bamba,560725,€900k,900000.0,https://www.transfermarkt.com/abdoul-kader-bamba/profil/spieler/560725,abdoul kader bamba,fc nantes,2022,FR1
+FC Nantes,995,Stredair Appuah,1004618,€150k,150000.0,https://www.transfermarkt.com/stredair-appuah/profil/spieler/1004618,stredair appuah,fc nantes,2022,FR1
+FC Nantes,995,Andy Delort,122797,€7.00m,7000000.0,https://www.transfermarkt.com/andy-delort/profil/spieler/122797,andy delort,fc nantes,2022,FR1
+FC Nantes,995,Mostafa Mohamed,462348,€6.00m,6000000.0,https://www.transfermarkt.com/mostafa-mohamed/profil/spieler/462348,mostafa mohamed,fc nantes,2022,FR1
+FC Nantes,995,Ignatius Ganago,531949,€4.00m,4000000.0,https://www.transfermarkt.com/ignatius-ganago/profil/spieler/531949,ignatius ganago,fc nantes,2022,FR1
+FC Nantes,995,Joe-Loïc Affamah,644768,€125k,125000.0,https://www.transfermarkt.com/joe-loic-affamah/profil/spieler/644768,joe-loic affamah,fc nantes,2022,FR1
+FC Toulouse,415,Maxime Dupé,127188,€2.50m,2500000.0,https://www.transfermarkt.com/maxime-dupe/profil/spieler/127188,maxime dupe,fc toulouse,2022,FR1
+FC Toulouse,415,Kjetil Haug,328770,€400k,400000.0,https://www.transfermarkt.com/kjetil-haug/profil/spieler/328770,kjetil haug,fc toulouse,2022,FR1
+FC Toulouse,415,Thomas Himeur,835136,€150k,150000.0,https://www.transfermarkt.com/thomas-himeur/profil/spieler/835136,thomas himeur,fc toulouse,2022,FR1
+FC Toulouse,415,Guillaume Restes,912902,-,,https://www.transfermarkt.com/guillaume-restes/profil/spieler/912902,guillaume restes,fc toulouse,2022,FR1
+FC Toulouse,415,Anthony Rouault,690799,€10.00m,10000000.0,https://www.transfermarkt.com/anthony-rouault/profil/spieler/690799,anthony rouault,fc toulouse,2022,FR1
+FC Toulouse,415,Rasmus Nicolaisen,283227,€6.00m,6000000.0,https://www.transfermarkt.com/rasmus-nicolaisen/profil/spieler/283227,rasmus nicolaisen,fc toulouse,2022,FR1
+FC Toulouse,415,Logan Costa,484988,€1.20m,1200000.0,https://www.transfermarkt.com/logan-costa/profil/spieler/484988,logan costa,fc toulouse,2022,FR1
+FC Toulouse,415,Moussa Diarra,694509,€800k,800000.0,https://www.transfermarkt.com/moussa-diarra/profil/spieler/694509,moussa diarra,fc toulouse,2022,FR1
+FC Toulouse,415,Kévin Keben,855014,€400k,400000.0,https://www.transfermarkt.com/kevin-keben/profil/spieler/855014,kevin keben,fc toulouse,2022,FR1
+FC Toulouse,415,Christian Mawissa,1005240,€250k,250000.0,https://www.transfermarkt.com/christian-mawissa/profil/spieler/1005240,christian mawissa,fc toulouse,2022,FR1
+FC Toulouse,415,Issiaga Sylla,220878,€2.50m,2500000.0,https://www.transfermarkt.com/issiaga-sylla/profil/spieler/220878,issiaga sylla,fc toulouse,2022,FR1
+FC Toulouse,415,Gabriel Suazo,385105,€2.50m,2500000.0,https://www.transfermarkt.com/gabriel-suazo/profil/spieler/385105,gabriel suazo,fc toulouse,2022,FR1
+FC Toulouse,415,Oliver Zandén,611195,€1.00m,1000000.0,https://www.transfermarkt.com/oliver-zanden/profil/spieler/611195,oliver zanden,fc toulouse,2022,FR1
+FC Toulouse,415,Ylies Aradj,923758,€50k,50000.0,https://www.transfermarkt.com/ylies-aradj/profil/spieler/923758,ylies aradj,fc toulouse,2022,FR1
+FC Toulouse,415,Mikkel Desler,221873,€2.50m,2500000.0,https://www.transfermarkt.com/mikkel-desler/profil/spieler/221873,mikkel desler,fc toulouse,2022,FR1
+FC Toulouse,415,Warren Kamanzi,794758,€1.20m,1200000.0,https://www.transfermarkt.com/warren-kamanzi/profil/spieler/794758,warren kamanzi,fc toulouse,2022,FR1
+FC Toulouse,415,Branco van den Boomen,203938,€12.00m,12000000.0,https://www.transfermarkt.com/branco-van-den-boomen/profil/spieler/203938,branco van den boomen,fc toulouse,2022,FR1
+FC Toulouse,415,Stijn Spierings,241501,€6.00m,6000000.0,https://www.transfermarkt.com/stijn-spierings/profil/spieler/241501,stijn spierings,fc toulouse,2022,FR1
+FC Toulouse,415,Brecht Dejaegere,159098,€1.80m,1800000.0,https://www.transfermarkt.com/brecht-dejaegere/profil/spieler/159098,brecht dejaegere,fc toulouse,2022,FR1
+FC Toulouse,415,Vincent Sierro,280387,€1.50m,1500000.0,https://www.transfermarkt.com/vincent-sierro/profil/spieler/280387,vincent sierro,fc toulouse,2022,FR1
+FC Toulouse,415,Theocharis Tsingaras,464530,€1.20m,1200000.0,https://www.transfermarkt.com/theocharis-tsingaras/profil/spieler/464530,theocharis tsingaras,fc toulouse,2022,FR1
+FC Toulouse,415,Steve Mvoué,666953,€400k,400000.0,https://www.transfermarkt.com/steve-mvoue/profil/spieler/666953,steve mvoue,fc toulouse,2022,FR1
+FC Toulouse,415,Farès Chaïbi,855015,€10.00m,10000000.0,https://www.transfermarkt.com/fares-chaibi/profil/spieler/855015,fares chaibi,fc toulouse,2022,FR1
+FC Toulouse,415,Denis Genreau,470618,€1.50m,1500000.0,https://www.transfermarkt.com/denis-genreau/profil/spieler/470618,denis genreau,fc toulouse,2022,FR1
+FC Toulouse,415,Naatan Skyttä,567309,€500k,500000.0,https://www.transfermarkt.com/naatan-skytta/profil/spieler/567309,naatan skytta,fc toulouse,2022,FR1
+FC Toulouse,415,Edhy Zuliani,944427,€50k,50000.0,https://www.transfermarkt.com/edhy-zuliani/profil/spieler/944427,edhy zuliani,fc toulouse,2022,FR1
+FC Toulouse,415,Veljko Birmancevic,419648,€3.00m,3000000.0,https://www.transfermarkt.com/veljko-birmancevic/profil/spieler/419648,veljko birmancevic,fc toulouse,2022,FR1
+FC Toulouse,415,Rafael Ratão,289802,€2.50m,2500000.0,https://www.transfermarkt.com/rafael-ratao/profil/spieler/289802,rafael ratao,fc toulouse,2022,FR1
+FC Toulouse,415,Junior Flemmings,354664,€350k,350000.0,https://www.transfermarkt.com/junior-flemmings/profil/spieler/354664,junior flemmings,fc toulouse,2022,FR1
+FC Toulouse,415,Zakaria Aboukhlal,393238,€9.00m,9000000.0,https://www.transfermarkt.com/zakaria-aboukhlal/profil/spieler/393238,zakaria aboukhlal,fc toulouse,2022,FR1
+FC Toulouse,415,Nathan Ngoumou,629588,€5.00m,5000000.0,https://www.transfermarkt.com/nathan-ngoumou/profil/spieler/629588,nathan ngoumou,fc toulouse,2022,FR1
+FC Toulouse,415,Thijs Dallinga,538964,€12.00m,12000000.0,https://www.transfermarkt.com/thijs-dallinga/profil/spieler/538964,thijs dallinga,fc toulouse,2022,FR1
+FC Toulouse,415,Rhys Healey,238185,€2.50m,2500000.0,https://www.transfermarkt.com/rhys-healey/profil/spieler/238185,rhys healey,fc toulouse,2022,FR1
+FC Toulouse,415,Ado Onaiwu,308133,€1.50m,1500000.0,https://www.transfermarkt.com/ado-onaiwu/profil/spieler/308133,ado onaiwu,fc toulouse,2022,FR1
+FC Toulouse,415,Said Hamulic,652996,€1.50m,1500000.0,https://www.transfermarkt.com/said-hamulic/profil/spieler/652996,said hamulic,fc toulouse,2022,FR1
+FC Toulouse,415,Yanis Begraoui,569376,€1.00m,1000000.0,https://www.transfermarkt.com/yanis-begraoui/profil/spieler/569376,yanis begraoui,fc toulouse,2022,FR1
+FC Toulouse,415,Bonota Traoré,967049,€50k,50000.0,https://www.transfermarkt.com/bonota-traore/profil/spieler/967049,bonota traore,fc toulouse,2022,FR1
+Stade Brestois 29,3911,Marco Bizot,124884,€3.50m,3500000.0,https://www.transfermarkt.com/marco-bizot/profil/spieler/124884,marco bizot,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Joaquín Blázquez,668996,€400k,400000.0,https://www.transfermarkt.com/joaquin-blazquez/profil/spieler/668996,joaquin blazquez,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Grégoire Coudert,525155,€150k,150000.0,https://www.transfermarkt.com/gregoire-coudert/profil/spieler/525155,gregoire coudert,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Lilian Brassier,485960,€5.00m,5000000.0,https://www.transfermarkt.com/lilian-brassier/profil/spieler/485960,lilian brassier,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Brendan Chardonnet,250779,€5.00m,5000000.0,https://www.transfermarkt.com/brendan-chardonnet/profil/spieler/250779,brendan chardonnet,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Jean-Kévin Duverne,344864,€4.00m,4000000.0,https://www.transfermarkt.com/jean-kevin-duverne/profil/spieler/344864,jean-kevin duverne,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Achraf Dari,566823,€2.00m,2000000.0,https://www.transfermarkt.com/achraf-dari/profil/spieler/566823,achraf dari,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Christophe Hérelle,170544,€2.00m,2000000.0,https://www.transfermarkt.com/christophe-herelle/profil/spieler/170544,christophe herelle,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Josué Escartin,862972,€150k,150000.0,https://www.transfermarkt.com/josue-escartin/profil/spieler/862972,josue escartin,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Bradley Locko,805908,€2.50m,2500000.0,https://www.transfermarkt.com/bradley-locko/profil/spieler/805908,bradley locko,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Jere Uronen,131827,€1.00m,1000000.0,https://www.transfermarkt.com/jere-uronen/profil/spieler/131827,jere uronen,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Kenny Lala,174196,€1.50m,1500000.0,https://www.transfermarkt.com/kenny-lala/profil/spieler/174196,kenny lala,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Noah Fadiga,379168,€1.20m,1200000.0,https://www.transfermarkt.com/noah-fadiga/profil/spieler/379168,noah fadiga,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Pierre Lees-Melou,377393,€4.00m,4000000.0,https://www.transfermarkt.com/pierre-lees-melou/profil/spieler/377393,pierre lees-melou,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Haris Belkebla,138055,€3.00m,3000000.0,https://www.transfermarkt.com/haris-belkebla/profil/spieler/138055,haris belkebla,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Mahdi Camara,324795,€3.00m,3000000.0,https://www.transfermarkt.com/mahdi-camara/profil/spieler/324795,mahdi camara,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Hugo Magnetti,474662,€2.00m,2000000.0,https://www.transfermarkt.com/hugo-magnetti/profil/spieler/474662,hugo magnetti,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Hianga'a Mbock,684062,€1.20m,1200000.0,https://www.transfermarkt.com/hiangaa-mbock/profil/spieler/684062,hianga'a mbock,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Félix Lemaréchal,659518,€1.00m,1000000.0,https://www.transfermarkt.com/felix-lemarechal/profil/spieler/659518,felix lemarechal,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Karamoko Dembélé,466602,€500k,500000.0,https://www.transfermarkt.com/karamoko-dembele/profil/spieler/466602,karamoko dembele,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Mathias Pereira Lage,424072,€2.00m,2000000.0,https://www.transfermarkt.com/mathias-pereira-lage/profil/spieler/424072,mathias pereira lage,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Youcef Belaïli,175014,€1.50m,1500000.0,https://www.transfermarkt.com/youcef-belaili/profil/spieler/175014,youcef belaili,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Franck Honorat,229006,€10.00m,10000000.0,https://www.transfermarkt.com/franck-honorat/profil/spieler/229006,franck honorat,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Romain Del Castillo,353399,€3.00m,3000000.0,https://www.transfermarkt.com/romain-del-castillo/profil/spieler/353399,romain del castillo,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Alberth Elis,281319,€2.50m,2500000.0,https://www.transfermarkt.com/alberth-elis/profil/spieler/281319,alberth elis,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Axel Camblan,924800,€400k,400000.0,https://www.transfermarkt.com/axel-camblan/profil/spieler/924800,axel camblan,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Steve Mounié,238639,€5.00m,5000000.0,https://www.transfermarkt.com/steve-mounie/profil/spieler/238639,steve mounie,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Jérémy Le Douaron,737781,€4.50m,4500000.0,https://www.transfermarkt.com/jeremy-le-douaron/profil/spieler/737781,jeremy le douaron,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Irvin Cardona,342226,€2.50m,2500000.0,https://www.transfermarkt.com/irvin-cardona/profil/spieler/342226,irvin cardona,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Islam Slimani,174915,€1.50m,1500000.0,https://www.transfermarkt.com/islam-slimani/profil/spieler/174915,islam slimani,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Taïryk Arconte,855056,€500k,500000.0,https://www.transfermarkt.com/tairyk-arconte/profil/spieler/855056,tairyk arconte,stade brestois 29,2022,FR1
+Stade Brestois 29,3911,Loïc Rémy,45121,€150k,150000.0,https://www.transfermarkt.com/loic-remy/profil/spieler/45121,loic remy,stade brestois 29,2022,FR1
+ESTAC Troyes,1095,Gauthier Gallon,193256,€2.00m,2000000.0,https://www.transfermarkt.com/gauthier-gallon/profil/spieler/193256,gauthier gallon,estac troyes,2022,FR1
+ESTAC Troyes,1095,Mateusz Lis,345437,€900k,900000.0,https://www.transfermarkt.com/mateusz-lis/profil/spieler/345437,mateusz lis,estac troyes,2022,FR1
+ESTAC Troyes,1095,Jessy Moulin,33925,€200k,200000.0,https://www.transfermarkt.com/jessy-moulin/profil/spieler/33925,jessy moulin,estac troyes,2022,FR1
+ESTAC Troyes,1095,Corentin Michel,540642,€150k,150000.0,https://www.transfermarkt.com/corentin-michel/profil/spieler/540642,corentin michel,estac troyes,2022,FR1
+ESTAC Troyes,1095,Jackson Porozo,491616,€3.00m,3000000.0,https://www.transfermarkt.com/jackson-porozo/profil/spieler/491616,jackson porozo,estac troyes,2022,FR1
+ESTAC Troyes,1095,Erik Palmer-Brown,282199,€2.50m,2500000.0,https://www.transfermarkt.com/erik-palmer-brown/profil/spieler/282199,erik palmer-brown,estac troyes,2022,FR1
+ESTAC Troyes,1095,Yoann Salmier,351843,€2.00m,2000000.0,https://www.transfermarkt.com/yoann-salmier/profil/spieler/351843,yoann salmier,estac troyes,2022,FR1
+ESTAC Troyes,1095,Tanguy Zoukrou,917120,€1.00m,1000000.0,https://www.transfermarkt.com/tanguy-zoukrou/profil/spieler/917120,tanguy zoukrou,estac troyes,2022,FR1
+ESTAC Troyes,1095,Adil Rami,51118,€250k,250000.0,https://www.transfermarkt.com/adil-rami/profil/spieler/51118,adil rami,estac troyes,2022,FR1
+ESTAC Troyes,1095,Eric N'Jo,991649,€200k,200000.0,https://www.transfermarkt.com/eric-njo/profil/spieler/991649,eric n'jo,estac troyes,2022,FR1
+ESTAC Troyes,1095,Rudy Kohon,917101,€100k,100000.0,https://www.transfermarkt.com/rudy-kohon/profil/spieler/917101,rudy kohon,estac troyes,2022,FR1
+ESTAC Troyes,1095,Yasser Larouci,554251,€3.50m,3500000.0,https://www.transfermarkt.com/yasser-larouci/profil/spieler/554251,yasser larouci,estac troyes,2022,FR1
+ESTAC Troyes,1095,Abdu Conté,337798,€2.00m,2000000.0,https://www.transfermarkt.com/abdu-conte/profil/spieler/337798,abdu conte,estac troyes,2022,FR1
+ESTAC Troyes,1095,Mathis Hamdi,982864,€150k,150000.0,https://www.transfermarkt.com/mathis-hamdi/profil/spieler/982864,mathis hamdi,estac troyes,2022,FR1
+ESTAC Troyes,1095,Thierno Baldé,709482,€4.00m,4000000.0,https://www.transfermarkt.com/thierno-balde/profil/spieler/709482,thierno balde,estac troyes,2022,FR1
+ESTAC Troyes,1095,Andreas Bruus,345748,€2.00m,2000000.0,https://www.transfermarkt.com/andreas-bruus/profil/spieler/345748,andreas bruus,estac troyes,2022,FR1
+ESTAC Troyes,1095,Lucien Agoumé,569384,€7.00m,7000000.0,https://www.transfermarkt.com/lucien-agoume/profil/spieler/569384,lucien agoume,estac troyes,2022,FR1
+ESTAC Troyes,1095,Ante Palaversa,371003,€700k,700000.0,https://www.transfermarkt.com/ante-palaversa/profil/spieler/371003,ante palaversa,estac troyes,2022,FR1
+ESTAC Troyes,1095,Rominigue Kouamé,277635,€4.50m,4500000.0,https://www.transfermarkt.com/rominigue-kouame/profil/spieler/277635,rominigue kouame,estac troyes,2022,FR1
+ESTAC Troyes,1095,Florian Tardieu,212804,€2.00m,2000000.0,https://www.transfermarkt.com/florian-tardieu/profil/spieler/212804,florian tardieu,estac troyes,2022,FR1
+ESTAC Troyes,1095,Xavier Chavalerin,118278,€1.50m,1500000.0,https://www.transfermarkt.com/xavier-chavalerin/profil/spieler/118278,xavier chavalerin,estac troyes,2022,FR1
+ESTAC Troyes,1095,Tristan Dingomé,126683,€500k,500000.0,https://www.transfermarkt.com/tristan-dingome/profil/spieler/126683,tristan dingome,estac troyes,2022,FR1
+ESTAC Troyes,1095,Derek Mazou-Sacko,917104,€250k,250000.0,https://www.transfermarkt.com/derek-mazou-sacko/profil/spieler/917104,derek mazou-sacko,estac troyes,2022,FR1
+ESTAC Troyes,1095,Danel Dongmo,929612,€100k,100000.0,https://www.transfermarkt.com/danel-dongmo/profil/spieler/929612,danel dongmo,estac troyes,2022,FR1
+ESTAC Troyes,1095,Jeff Reine-Adélaïde,326300,€5.00m,5000000.0,https://www.transfermarkt.com/jeff-reine-adelaide/profil/spieler/326300,jeff reine-adelaide,estac troyes,2022,FR1
+ESTAC Troyes,1095,Alexis Tibidi,750886,€2.00m,2000000.0,https://www.transfermarkt.com/alexis-tibidi/profil/spieler/750886,alexis tibidi,estac troyes,2022,FR1
+ESTAC Troyes,1095,Ryan Fage,857155,€50k,50000.0,https://www.transfermarkt.com/ryan-fage/profil/spieler/857155,ryan fage,estac troyes,2022,FR1
+ESTAC Troyes,1095,Wilson Odobert,743498,€6.00m,6000000.0,https://www.transfermarkt.com/wilson-odobert/profil/spieler/743498,wilson odobert,estac troyes,2022,FR1
+ESTAC Troyes,1095,Amar Fatah,931841,€1.20m,1200000.0,https://www.transfermarkt.com/amar-fatah/profil/spieler/931841,amar fatah,estac troyes,2022,FR1
+ESTAC Troyes,1095,Papa Ndiaga Yade,568702,€1.20m,1200000.0,https://www.transfermarkt.com/papa-ndiaga-yade/profil/spieler/568702,papa ndiaga yade,estac troyes,2022,FR1
+ESTAC Troyes,1095,Marlos Moreno,345654,€950k,950000.0,https://www.transfermarkt.com/marlos-moreno/profil/spieler/345654,marlos moreno,estac troyes,2022,FR1
+ESTAC Troyes,1095,Levi Lumeka,537182,€200k,200000.0,https://www.transfermarkt.com/levi-lumeka/profil/spieler/537182,levi lumeka,estac troyes,2022,FR1
+ESTAC Troyes,1095,Rony Lopes,174694,€4.00m,4000000.0,https://www.transfermarkt.com/rony-lopes/profil/spieler/174694,rony lopes,estac troyes,2022,FR1
+ESTAC Troyes,1095,Renaud Ripart,234802,€2.50m,2500000.0,https://www.transfermarkt.com/renaud-ripart/profil/spieler/234802,renaud ripart,estac troyes,2022,FR1
+ESTAC Troyes,1095,Kyliane Dong,982863,€500k,500000.0,https://www.transfermarkt.com/kyliane-dong/profil/spieler/982863,kyliane dong,estac troyes,2022,FR1
+ESTAC Troyes,1095,Alexis Lefebvre,857154,€250k,250000.0,https://www.transfermarkt.com/alexis-lefebvre/profil/spieler/857154,alexis lefebvre,estac troyes,2022,FR1
+ESTAC Troyes,1095,Mama Baldé,325223,€8.00m,8000000.0,https://www.transfermarkt.com/mama-balde/profil/spieler/325223,mama balde,estac troyes,2022,FR1
+ESTAC Troyes,1095,Iké Ugbo,339943,€3.00m,3000000.0,https://www.transfermarkt.com/ike-ugbo/profil/spieler/339943,ike ugbo,estac troyes,2022,FR1
+ESTAC Troyes,1095,Mykola Kukharevych,730126,€500k,500000.0,https://www.transfermarkt.com/mykola-kukharevych/profil/spieler/730126,mykola kukharevych,estac troyes,2022,FR1
+ESTAC Troyes,1095,Yoann Touzghar,68718,€300k,300000.0,https://www.transfermarkt.com/yoann-touzghar/profil/spieler/68718,yoann touzghar,estac troyes,2022,FR1
+ESTAC Troyes,1095,Yoann Beaka,983798,€150k,150000.0,https://www.transfermarkt.com/yoann-beaka/profil/spieler/983798,yoann beaka,estac troyes,2022,FR1
+Angers SCO,1420,Paul Bernardoni,318507,€2.50m,2500000.0,https://www.transfermarkt.com/paul-bernardoni/profil/spieler/318507,paul bernardoni,angers sco,2022,FR1
+Angers SCO,1420,Yahia Fofana,418651,€2.00m,2000000.0,https://www.transfermarkt.com/yahia-fofana/profil/spieler/418651,yahia fofana,angers sco,2022,FR1
+Angers SCO,1420,Melvin Zinga,548347,€100k,100000.0,https://www.transfermarkt.com/melvin-zinga/profil/spieler/548347,melvin zinga,angers sco,2022,FR1
+Angers SCO,1420,Théo Borne,920218,€100k,100000.0,https://www.transfermarkt.com/theo-borne/profil/spieler/920218,theo borne,angers sco,2022,FR1
+Angers SCO,1420,Cédric Hountondji,198709,€2.00m,2000000.0,https://www.transfermarkt.com/cedric-hountondji/profil/spieler/198709,cedric hountondji,angers sco,2022,FR1
+Angers SCO,1420,Miha Blazic,179806,€1.80m,1800000.0,https://www.transfermarkt.com/miha-blazic/profil/spieler/179806,miha blazic,angers sco,2022,FR1
+Angers SCO,1420,Ousmane Camara,804711,€1.50m,1500000.0,https://www.transfermarkt.com/ousmane-camara/profil/spieler/804711,ousmane camara,angers sco,2022,FR1
+Angers SCO,1420,Abdoulaye Bamba,62351,€400k,400000.0,https://www.transfermarkt.com/abdoulaye-bamba/profil/spieler/62351,abdoulaye bamba,angers sco,2022,FR1
+Angers SCO,1420,Yacine Gaya,743520,€50k,50000.0,https://www.transfermarkt.com/yacine-gaya/profil/spieler/743520,yacine gaya,angers sco,2022,FR1
+Angers SCO,1420,Demba N'Diaye,1086168,-,,https://www.transfermarkt.com/demba-ndiaye/profil/spieler/1086168,demba n'diaye,angers sco,2022,FR1
+Angers SCO,1420,Ismaël Dramé,807691,-,,https://www.transfermarkt.com/ismael-drame/profil/spieler/807691,ismael drame,angers sco,2022,FR1
+Angers SCO,1420,Demba N'Diaye,1086787,-,,https://www.transfermarkt.com/demba-ndiaye/profil/spieler/1086787,demba n'diaye,angers sco,2022,FR1
+Angers SCO,1420,Souleyman Doumbia,296356,€2.50m,2500000.0,https://www.transfermarkt.com/souleyman-doumbia/profil/spieler/296356,souleyman doumbia,angers sco,2022,FR1
+Angers SCO,1420,Faouzi Ghoulam,126656,€900k,900000.0,https://www.transfermarkt.com/faouzi-ghoulam/profil/spieler/126656,faouzi ghoulam,angers sco,2022,FR1
+Angers SCO,1420,Ilyes Chetti,477834,€400k,400000.0,https://www.transfermarkt.com/ilyes-chetti/profil/spieler/477834,ilyes chetti,angers sco,2022,FR1
+Angers SCO,1420,Yan Valery,406008,€2.00m,2000000.0,https://www.transfermarkt.com/yan-valery/profil/spieler/406008,yan valery,angers sco,2022,FR1
+Angers SCO,1420,Halid Sabanovic,422986,€700k,700000.0,https://www.transfermarkt.com/halid-sabanovic/profil/spieler/422986,halid sabanovic,angers sco,2022,FR1
+Angers SCO,1420,Lilian Raolisoa,829874,€200k,200000.0,https://www.transfermarkt.com/lilian-raolisoa/profil/spieler/829874,lilian raolisoa,angers sco,2022,FR1
+Angers SCO,1420,Ali Kalla,807687,€100k,100000.0,https://www.transfermarkt.com/ali-kalla/profil/spieler/807687,ali kalla,angers sco,2022,FR1
+Angers SCO,1420,Nabil Bentaleb,245537,€7.00m,7000000.0,https://www.transfermarkt.com/nabil-bentaleb/profil/spieler/245537,nabil bentaleb,angers sco,2022,FR1
+Angers SCO,1420,Batista Mendy,395234,€3.00m,3000000.0,https://www.transfermarkt.com/batista-mendy/profil/spieler/395234,batista mendy,angers sco,2022,FR1
+Angers SCO,1420,Ibrahim Amadou,205503,€1.50m,1500000.0,https://www.transfermarkt.com/ibrahim-amadou/profil/spieler/205503,ibrahim amadou,angers sco,2022,FR1
+Angers SCO,1420,Zinédine Ould Khaled,650104,€200k,200000.0,https://www.transfermarkt.com/zinedine-ould-khaled/profil/spieler/650104,zinedine ould khaled,angers sco,2022,FR1
+Angers SCO,1420,Salim Akkal,591194,€50k,50000.0,https://www.transfermarkt.com/salim-akkal/profil/spieler/591194,salim akkal,angers sco,2022,FR1
+Angers SCO,1420,Azzedine Ounahi,593482,€12.00m,12000000.0,https://www.transfermarkt.com/azzedine-ounahi/profil/spieler/593482,azzedine ounahi,angers sco,2022,FR1
+Angers SCO,1420,Antonin Bobichon,344575,€900k,900000.0,https://www.transfermarkt.com/antonin-bobichon/profil/spieler/344575,antonin bobichon,angers sco,2022,FR1
+Angers SCO,1420,Waniss Taïbi,680447,€500k,500000.0,https://www.transfermarkt.com/waniss-taibi/profil/spieler/680447,waniss taibi,angers sco,2022,FR1
+Angers SCO,1420,Pierrick Capelle,214532,€250k,250000.0,https://www.transfermarkt.com/pierrick-capelle/profil/spieler/214532,pierrick capelle,angers sco,2022,FR1
+Angers SCO,1420,Yassin Belkhdim,807688,€100k,100000.0,https://www.transfermarkt.com/yassin-belkhdim/profil/spieler/807688,yassin belkhdim,angers sco,2022,FR1
+Angers SCO,1420,Sofiane Boufal,232271,€8.00m,8000000.0,https://www.transfermarkt.com/sofiane-boufal/profil/spieler/232271,sofiane boufal,angers sco,2022,FR1
+Angers SCO,1420,Himad Abdelli,592979,€2.50m,2500000.0,https://www.transfermarkt.com/himad-abdelli/profil/spieler/592979,himad abdelli,angers sco,2022,FR1
+Angers SCO,1420,Abdallah Sima,776798,€6.00m,6000000.0,https://www.transfermarkt.com/abdallah-sima/profil/spieler/776798,abdallah sima,angers sco,2022,FR1
+Angers SCO,1420,Jean-Mattéo Bahoya,939964,€1.50m,1500000.0,https://www.transfermarkt.com/jean-matteo-bahoya/profil/spieler/939964,jean-matteo bahoya,angers sco,2022,FR1
+Angers SCO,1420,Marin Jakolis,261963,€600k,600000.0,https://www.transfermarkt.com/marin-jakolis/profil/spieler/261963,marin jakolis,angers sco,2022,FR1
+Angers SCO,1420,Farid El Melali,425400,€600k,600000.0,https://www.transfermarkt.com/farid-el-melali/profil/spieler/425400,farid el melali,angers sco,2022,FR1
+Angers SCO,1420,Jason Mbock,460660,€150k,150000.0,https://www.transfermarkt.com/jason-mbock/profil/spieler/460660,jason mbock,angers sco,2022,FR1
+Angers SCO,1420,Sada Thioub,290593,€1.20m,1200000.0,https://www.transfermarkt.com/sada-thioub/profil/spieler/290593,sada thioub,angers sco,2022,FR1
+Angers SCO,1420,Justin Kalumba,1101641,€250k,250000.0,https://www.transfermarkt.com/justin-kalumba/profil/spieler/1101641,justin kalumba,angers sco,2022,FR1
+Angers SCO,1420,Ibrahima Niane,490417,€3.00m,3000000.0,https://www.transfermarkt.com/ibrahima-niane/profil/spieler/490417,ibrahima niane,angers sco,2022,FR1
+Angers SCO,1420,Adrien Hunou,203507,€2.50m,2500000.0,https://www.transfermarkt.com/adrien-hunou/profil/spieler/203507,adrien hunou,angers sco,2022,FR1
+Angers SCO,1420,Amine Salama,980576,€1.50m,1500000.0,https://www.transfermarkt.com/amine-salama/profil/spieler/980576,amine salama,angers sco,2022,FR1
+Angers SCO,1420,Loïs Diony,126552,€900k,900000.0,https://www.transfermarkt.com/lois-diony/profil/spieler/126552,lois diony,angers sco,2022,FR1
+Angers SCO,1420,Ulrick Eneme-Ella,484994,€200k,200000.0,https://www.transfermarkt.com/ulrick-eneme-ella/profil/spieler/484994,ulrick eneme-ella,angers sco,2022,FR1
+Angers SCO,1420,Guédé Nadje,855160,€150k,150000.0,https://www.transfermarkt.com/guede-nadje/profil/spieler/855160,guede nadje,angers sco,2022,FR1
+AJ Auxerre,290,Ionuț Radu,303657,€3.50m,3500000.0,https://www.transfermarkt.com/ionut-radu/profil/spieler/303657,ionut radu,aj auxerre,2022,FR1
+AJ Auxerre,290,Benoît Costil,22628,€1.00m,1000000.0,https://www.transfermarkt.com/benoit-costil/profil/spieler/22628,benoit costil,aj auxerre,2022,FR1
+AJ Auxerre,290,Donovan Léon,170911,€500k,500000.0,https://www.transfermarkt.com/donovan-leon/profil/spieler/170911,donovan leon,aj auxerre,2022,FR1
+AJ Auxerre,290,Théo De Percin,695422,€150k,150000.0,https://www.transfermarkt.com/theo-de-percin/profil/spieler/695422,theo de percin,aj auxerre,2022,FR1
+AJ Auxerre,290,Vincenzo Cozzella,563140,€100k,100000.0,https://www.transfermarkt.com/vincenzo-cozzella/profil/spieler/563140,vincenzo cozzella,aj auxerre,2022,FR1
+AJ Auxerre,290,Isaak Touré,708678,€6.00m,6000000.0,https://www.transfermarkt.com/isaak-toure/profil/spieler/708678,isaak toure,aj auxerre,2022,FR1
+AJ Auxerre,290,Jubal,149928,€2.00m,2000000.0,https://www.transfermarkt.com/jubal/profil/spieler/149928,jubal,aj auxerre,2022,FR1
+AJ Auxerre,290,Théo Pellenard,238716,€1.00m,1000000.0,https://www.transfermarkt.com/theo-pellenard/profil/spieler/238716,theo pellenard,aj auxerre,2022,FR1
+AJ Auxerre,290,Julian Jeanvier,134277,€800k,800000.0,https://www.transfermarkt.com/julian-jeanvier/profil/spieler/134277,julian jeanvier,aj auxerre,2022,FR1
+AJ Auxerre,290,Alexandre Coeff,89450,€700k,700000.0,https://www.transfermarkt.com/alexandre-coeff/profil/spieler/89450,alexandre coeff,aj auxerre,2022,FR1
+AJ Auxerre,290,Brayann Pereira,620317,€600k,600000.0,https://www.transfermarkt.com/brayann-pereira/profil/spieler/620317,brayann pereira,aj auxerre,2022,FR1
+AJ Auxerre,290,Denys Bain,184575,€500k,500000.0,https://www.transfermarkt.com/denys-bain/profil/spieler/184575,denys bain,aj auxerre,2022,FR1
+AJ Auxerre,290,Quentin Bernard,98262,€350k,350000.0,https://www.transfermarkt.com/quentin-bernard/profil/spieler/98262,quentin bernard,aj auxerre,2022,FR1
+AJ Auxerre,290,Lamine Buhanga,696630,€100k,100000.0,https://www.transfermarkt.com/lamine-buhanga/profil/spieler/696630,lamine buhanga,aj auxerre,2022,FR1
+AJ Auxerre,290,Raphaël Lipinski,913323,€100k,100000.0,https://www.transfermarkt.com/raphael-lipinski/profil/spieler/913323,raphael lipinski,aj auxerre,2022,FR1
+AJ Auxerre,290,Gideon Mensah,397171,€2.50m,2500000.0,https://www.transfermarkt.com/gideon-mensah/profil/spieler/397171,gideon mensah,aj auxerre,2022,FR1
+AJ Auxerre,290,Kenji-Van Boto,229012,€400k,400000.0,https://www.transfermarkt.com/kenji-van-boto/profil/spieler/229012,kenji-van boto,aj auxerre,2022,FR1
+AJ Auxerre,290,Akim Zedadka,327863,€2.50m,2500000.0,https://www.transfermarkt.com/akim-zedadka/profil/spieler/327863,akim zedadka,aj auxerre,2022,FR1
+AJ Auxerre,290,Paul Joly,806168,€1.20m,1200000.0,https://www.transfermarkt.com/paul-joly/profil/spieler/806168,paul joly,aj auxerre,2022,FR1
+AJ Auxerre,290,Elisha Owusu,395695,€2.00m,2000000.0,https://www.transfermarkt.com/elisha-owusu/profil/spieler/395695,elisha owusu,aj auxerre,2022,FR1
+AJ Auxerre,290,Birama Touré,229853,€1.80m,1800000.0,https://www.transfermarkt.com/birama-toure/profil/spieler/229853,birama toure,aj auxerre,2022,FR1
+AJ Auxerre,290,Ousoumane Camara,478107,€150k,150000.0,https://www.transfermarkt.com/ousoumane-camara/profil/spieler/478107,ousoumane camara,aj auxerre,2022,FR1
+AJ Auxerre,290,Natanaël Bouekou,913303,€100k,100000.0,https://www.transfermarkt.com/natanael-bouekou/profil/spieler/913303,natanael bouekou,aj auxerre,2022,FR1
+AJ Auxerre,290,Han-Noah Massengo,536508,€5.00m,5000000.0,https://www.transfermarkt.com/han-noah-massengo/profil/spieler/536508,han-noah massengo,aj auxerre,2022,FR1
+AJ Auxerre,290,Rayan Raveloson,344576,€1.80m,1800000.0,https://www.transfermarkt.com/rayan-raveloson/profil/spieler/344576,rayan raveloson,aj auxerre,2022,FR1
+AJ Auxerre,290,Youssouf M'Changama,167472,€900k,900000.0,https://www.transfermarkt.com/youssouf-mchangama/profil/spieler/167472,youssouf m'changama,aj auxerre,2022,FR1
+AJ Auxerre,290,Kays Ruiz-Atil,538045,€800k,800000.0,https://www.transfermarkt.com/kays-ruiz-atil/profil/spieler/538045,kays ruiz-atil,aj auxerre,2022,FR1
+AJ Auxerre,290,Kévin Danois,743496,€100k,100000.0,https://www.transfermarkt.com/kevin-danois/profil/spieler/743496,kevin danois,aj auxerre,2022,FR1
+AJ Auxerre,290,Hamza Sakhi,263951,€2.00m,2000000.0,https://www.transfermarkt.com/hamza-sakhi/profil/spieler/263951,hamza sakhi,aj auxerre,2022,FR1
+AJ Auxerre,290,Mathias Autret,138171,€800k,800000.0,https://www.transfermarkt.com/mathias-autret/profil/spieler/138171,mathias autret,aj auxerre,2022,FR1
+AJ Auxerre,290,Siriki Dembélé,488656,€2.00m,2000000.0,https://www.transfermarkt.com/siriki-dembele/profil/spieler/488656,siriki dembele,aj auxerre,2022,FR1
+AJ Auxerre,290,Rémy Dugimont,174304,€100k,100000.0,https://www.transfermarkt.com/remy-dugimont/profil/spieler/174304,remy dugimont,aj auxerre,2022,FR1
+AJ Auxerre,290,Gauthier Hein,344892,€2.00m,2000000.0,https://www.transfermarkt.com/gauthier-hein/profil/spieler/344892,gauthier hein,aj auxerre,2022,FR1
+AJ Auxerre,290,Gaëtan Perrin,353404,€1.20m,1200000.0,https://www.transfermarkt.com/gaetan-perrin/profil/spieler/353404,gaetan perrin,aj auxerre,2022,FR1
+AJ Auxerre,290,Kylian Silvestre,806167,€100k,100000.0,https://www.transfermarkt.com/kylian-silvestre/profil/spieler/806167,kylian silvestre,aj auxerre,2022,FR1
+AJ Auxerre,290,Matthis Abline,659543,€4.50m,4500000.0,https://www.transfermarkt.com/matthis-abline/profil/spieler/659543,matthis abline,aj auxerre,2022,FR1
+AJ Auxerre,290,M'Baye Niang,157501,€2.50m,2500000.0,https://www.transfermarkt.com/mbaye-niang/profil/spieler/157501,m'baye niang,aj auxerre,2022,FR1
+AJ Auxerre,290,Lassine Sinayoko,569140,€1.20m,1200000.0,https://www.transfermarkt.com/lassine-sinayoko/profil/spieler/569140,lassine sinayoko,aj auxerre,2022,FR1
+AJ Auxerre,290,Nuno Da Costa,306166,€1.00m,1000000.0,https://www.transfermarkt.com/nuno-da-costa/profil/spieler/306166,nuno da costa,aj auxerre,2022,FR1
+AJ Auxerre,290,Gaëtan Charbonnier,93678,€500k,500000.0,https://www.transfermarkt.com/gaetan-charbonnier/profil/spieler/93678,gaetan charbonnier,aj auxerre,2022,FR1
+AJ Auxerre,290,Ousmane Camara,827950,€150k,150000.0,https://www.transfermarkt.com/ousmane-camara/profil/spieler/827950,ousmane camara,aj auxerre,2022,FR1
+AJ Auxerre,290,Idjessi Metsoko,913305,€100k,100000.0,https://www.transfermarkt.com/idjessi-metsoko/profil/spieler/913305,idjessi metsoko,aj auxerre,2022,FR1
+Clermont Foot 63,3524,Mory Diaw,164904,€2.00m,2000000.0,https://www.transfermarkt.com/mory-diaw/profil/spieler/164904,mory diaw,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Ouparine Djoco,594993,€500k,500000.0,https://www.transfermarkt.com/ouparine-djoco/profil/spieler/594993,ouparine djoco,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Lucas Margueron,618463,€150k,150000.0,https://www.transfermarkt.com/lucas-margueron/profil/spieler/618463,lucas margueron,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Alidu Seidu,798404,€7.00m,7000000.0,https://www.transfermarkt.com/alidu-seidu/profil/spieler/798404,alidu seidu,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Mateusz Wieteska,208172,€3.00m,3000000.0,https://www.transfermarkt.com/mateusz-wieteska/profil/spieler/208172,mateusz wieteska,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Maximiliano Caufriez,369267,€2.50m,2500000.0,https://www.transfermarkt.com/maximiliano-caufriez/profil/spieler/369267,maximiliano caufriez,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Florent Ogier,91473,€450k,450000.0,https://www.transfermarkt.com/florent-ogier/profil/spieler/91473,florent ogier,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Jean-Claude Billong,391192,€250k,250000.0,https://www.transfermarkt.com/jean-claude-billong/profil/spieler/391192,jean-claude billong,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Souleymane Cissé,806501,€100k,100000.0,https://www.transfermarkt.com/souleymane-cisse/profil/spieler/806501,souleymane cisse,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Neto Borges,557939,€4.00m,4000000.0,https://www.transfermarkt.com/neto-borges/profil/spieler/557939,neto borges,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Arial Mendy,422715,€600k,600000.0,https://www.transfermarkt.com/arial-mendy/profil/spieler/422715,arial mendy,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Baïla Diallo,857482,€200k,200000.0,https://www.transfermarkt.com/baila-diallo/profil/spieler/857482,baila diallo,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Cheick Oumar Konaté,1108145,€1.00m,1000000.0,https://www.transfermarkt.com/cheick-oumar-konate/profil/spieler/1108145,cheick oumar konate,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Mehdi Zeffane,118303,€450k,450000.0,https://www.transfermarkt.com/mehdi-zeffane/profil/spieler/118303,mehdi zeffane,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Oliver Kamdem,969154,€100k,100000.0,https://www.transfermarkt.com/oliver-kamdem/profil/spieler/969154,oliver kamdem,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Yohann Magnin,594997,€2.50m,2500000.0,https://www.transfermarkt.com/yohann-magnin/profil/spieler/594997,yohann magnin,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Maxime Gonalons,60542,€900k,900000.0,https://www.transfermarkt.com/maxime-gonalons/profil/spieler/60542,maxime gonalons,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Johan Gastien,72121,€700k,700000.0,https://www.transfermarkt.com/johan-gastien/profil/spieler/72121,johan gastien,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Brandon Baiye,358025,€500k,500000.0,https://www.transfermarkt.com/brandon-baiye/profil/spieler/358025,brandon baiye,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Stan Berkani,1051756,€50k,50000.0,https://www.transfermarkt.com/stan-berkani/profil/spieler/1051756,stan berkani,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Muhammed Cham,422281,€6.00m,6000000.0,https://www.transfermarkt.com/muhammed-cham/profil/spieler/422281,muhammed cham,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Saîf-Eddine Khaoui,270411,€2.00m,2000000.0,https://www.transfermarkt.com/saif-eddine-khaoui/profil/spieler/270411,saif-eddine khaoui,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Aïman Maurer,860056,€800k,800000.0,https://www.transfermarkt.com/aiman-maurer/profil/spieler/860056,aiman maurer,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Jason Berthomier,306191,€500k,500000.0,https://www.transfermarkt.com/jason-berthomier/profil/spieler/306191,jason berthomier,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Yanis Massolin,915849,€250k,250000.0,https://www.transfermarkt.com/yanis-massolin/profil/spieler/915849,yanis massolin,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Elbasan Rashani,149579,€2.00m,2000000.0,https://www.transfermarkt.com/elbasan-rashani/profil/spieler/149579,elbasan rashani,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Jérémie Bela,170966,€1.50m,1500000.0,https://www.transfermarkt.com/jeremie-bela/profil/spieler/170966,jeremie bela,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Sofyan Chader,748358,€800k,800000.0,https://www.transfermarkt.com/sofyan-chader/profil/spieler/748358,sofyan chader,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Jim Allevinah,646733,€2.00m,2000000.0,https://www.transfermarkt.com/jim-allevinah/profil/spieler/646733,jim allevinah,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Jodel Dossou,221151,€800k,800000.0,https://www.transfermarkt.com/jodel-dossou/profil/spieler/221151,jodel dossou,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Giovani Versini,922685,€100k,100000.0,https://www.transfermarkt.com/giovani-versini/profil/spieler/922685,giovani versini,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Grejohn Kyei,321647,€2.50m,2500000.0,https://www.transfermarkt.com/grejohn-kyei/profil/spieler/321647,grejohn kyei,clermont foot 63,2022,FR1
+Clermont Foot 63,3524,Komnen Andric,260316,€1.80m,1800000.0,https://www.transfermarkt.com/komnen-andric/profil/spieler/260316,komnen andric,clermont foot 63,2022,FR1
+AC Ajaccio,1147,Benjamin Leroy,124901,€500k,500000.0,https://www.transfermarkt.com/benjamin-leroy/profil/spieler/124901,benjamin leroy,ac ajaccio,2022,FR1
+AC Ajaccio,1147,François-Joseph Sollacaro,331977,€300k,300000.0,https://www.transfermarkt.com/francois-joseph-sollacaro/profil/spieler/331977,francois-joseph sollacaro,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Ghjuvanni Quilichini,855050,€150k,150000.0,https://www.transfermarkt.com/ghjuvanni-quilichini/profil/spieler/855050,ghjuvanni quilichini,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Oumar Gonzalez,388795,€2.50m,2500000.0,https://www.transfermarkt.com/oumar-gonzalez/profil/spieler/388795,oumar gonzalez,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Clément Vidal,569388,€1.80m,1800000.0,https://www.transfermarkt.com/clement-vidal/profil/spieler/569388,clement vidal,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Fernand Mayembo,413245,€600k,600000.0,https://www.transfermarkt.com/fernand-mayembo/profil/spieler/413245,fernand mayembo,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Cédric Avinel,44421,€250k,250000.0,https://www.transfermarkt.com/cedric-avinel/profil/spieler/44421,cedric avinel,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Anthony Khelifa,989817,€150k,150000.0,https://www.transfermarkt.com/anthony-khelifa/profil/spieler/989817,anthony khelifa,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Ismaël Diallo,375881,€1.50m,1500000.0,https://www.transfermarkt.com/ismael-diallo/profil/spieler/375881,ismael diallo,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Youssouf Koné,274484,€1.50m,1500000.0,https://www.transfermarkt.com/youssouf-kone/profil/spieler/274484,youssouf kone,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Chaker Alhadhur,178540,€150k,150000.0,https://www.transfermarkt.com/chaker-alhadhur/profil/spieler/178540,chaker alhadhur,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Victor Lebas,726698,€50k,50000.0,https://www.transfermarkt.com/victor-lebas/profil/spieler/726698,victor lebas,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Mickaël Alphonse,172153,€250k,250000.0,https://www.transfermarkt.com/mickael-alphonse/profil/spieler/172153,mickael alphonse,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Mohamed Youssouf,57482,€200k,200000.0,https://www.transfermarkt.com/mohamed-youssouf/profil/spieler/57482,mohamed youssouf,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Tony Strata,1004681,€50k,50000.0,https://www.transfermarkt.com/tony-strata/profil/spieler/1004681,tony strata,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Mehdi Puch,989826,€150k,150000.0,https://www.transfermarkt.com/mehdi-puch/profil/spieler/989826,mehdi puch,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Paolo Lebas,657919,€100k,100000.0,https://www.transfermarkt.com/paolo-lebas/profil/spieler/657919,paolo lebas,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Vincent Marchetti,374040,€2.50m,2500000.0,https://www.transfermarkt.com/vincent-marchetti/profil/spieler/374040,vincent marchetti,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Qazim Laci,290552,€1.70m,1700000.0,https://www.transfermarkt.com/qazim-laci/profil/spieler/290552,qazim laci,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Thomas Mangani,18934,€400k,400000.0,https://www.transfermarkt.com/thomas-mangani/profil/spieler/18934,thomas mangani,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Mathieu Coutadeur,39914,€200k,200000.0,https://www.transfermarkt.com/mathieu-coutadeur/profil/spieler/39914,mathieu coutadeur,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Alassane N'Diaye,281704,€150k,150000.0,https://www.transfermarkt.com/alassane-ndiaye/profil/spieler/281704,alassane n'diaye,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Yanis Cimignani,801754,€1.20m,1200000.0,https://www.transfermarkt.com/yanis-cimignani/profil/spieler/801754,yanis cimignani,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Michaël Barreto,149518,€400k,400000.0,https://www.transfermarkt.com/michael-barreto/profil/spieler/149518,michael barreto,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Florian Chabrolle,418662,€200k,200000.0,https://www.transfermarkt.com/florian-chabrolle/profil/spieler/418662,florian chabrolle,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Youcef Belaïli,175014,€1.50m,1500000.0,https://www.transfermarkt.com/youcef-belaili/profil/spieler/175014,youcef belaili,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Kevin Spadanuda,371554,€700k,700000.0,https://www.transfermarkt.com/kevin-spadanuda/profil/spieler/371554,kevin spadanuda,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Ivane Chegra,989819,€150k,150000.0,https://www.transfermarkt.com/ivane-chegra/profil/spieler/989819,ivane chegra,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Cyrille Bayala,267147,€900k,900000.0,https://www.transfermarkt.com/cyrille-bayala/profil/spieler/267147,cyrille bayala,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Romain Hamouma,98349,€400k,400000.0,https://www.transfermarkt.com/romain-hamouma/profil/spieler/98349,romain hamouma,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Riad Nouri,119104,€200k,200000.0,https://www.transfermarkt.com/riad-nouri/profil/spieler/119104,riad nouri,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Ruan Levine,645601,€100k,100000.0,https://www.transfermarkt.com/ruan-levine/profil/spieler/645601,ruan levine,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Mounaïm El Idrissy,627163,€2.00m,2000000.0,https://www.transfermarkt.com/mounaim-el-idrissy/profil/spieler/627163,mounaim el idrissy,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Moussa Djitté,591796,€1.50m,1500000.0,https://www.transfermarkt.com/moussa-djitte/profil/spieler/591796,moussa djitte,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Moussa Soumano,1053240,€900k,900000.0,https://www.transfermarkt.com/moussa-soumano/profil/spieler/1053240,moussa soumano,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Bevic Moussiti-Oko,364525,€500k,500000.0,https://www.transfermarkt.com/bevic-moussiti-oko/profil/spieler/364525,bevic moussiti-oko,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Gaëtan Courtet,171408,€400k,400000.0,https://www.transfermarkt.com/gaetan-courtet/profil/spieler/171408,gaetan courtet,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Jean Botué,649457,€400k,400000.0,https://www.transfermarkt.com/jean-botue/profil/spieler/649457,jean botue,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Yoann Touzghar,68718,€300k,300000.0,https://www.transfermarkt.com/yoann-touzghar/profil/spieler/68718,yoann touzghar,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Ben Hamed Touré,989824,€100k,100000.0,https://www.transfermarkt.com/ben-hamed-toure/profil/spieler/989824,ben hamed toure,ac ajaccio,2022,FR1
+AC Ajaccio,1147,Mamadu Silla,1063540,-,,https://www.transfermarkt.com/mamadu-silla/profil/spieler/1063540,mamadu silla,ac ajaccio,2022,FR1

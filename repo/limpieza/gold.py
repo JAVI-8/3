@@ -1,328 +1,216 @@
 from pyspark.sql import SparkSession, functions as F, types as T
-import os
-import re
-from functools import reduce
-import unicodedata
-import re
 from pyspark.sql.window import Window
-# ------------------- PATHS -------------------
+import os, unicodedata, re
 
+# ------------------- PATHS -------------------
 SOFA_SILVER_PATH = r"C:/Users/jahoy/Documents/scouting/lake/silver/sofascore"
-MIN_SILVER_PATH = r"C:/Users/jahoy/Documents/scouting/lake/silver/minutes"
-MERC_SILVER_PATH = r"C:/Users/jahoy/Documents/scouting/lake/silver/mercado"
-GOLD_PATH        = r"C:/Users/jahoy/Documents/scouting/lake/gold/players_stats_market"
+MERC_SILVER_PATH = r"C:/Users/jahoy/Documents/scouting/lake/silver/info"
+UN_SILVER_PATH   = r"C:/Users/jahoy/Documents/scouting/lake/silver/understat"
+STATS_PATH       = r"C:/Users/jahoy/Documents/scouting/lake/gold/players_stats_market"
 
 os.environ["HADOOP_HOME"] = r"C:\hadoop"
 os.environ["hadoop.home.dir"] = r"C:\hadoop"
 
-# --- normalización fuerte para nombres/equipos ---
-
+# ------------- Normalización robusta (UDF) -------------
 def _normalize_name(s: str) -> str:
-    """
-    Normaliza nombres de jugadores y equipos:
-      - minúsculas
-      - quita acentos
-      - quita caracteres raros
-      - elimina stopwords típicas de nombres de club (fc, cf, club, etc.)
-      - colapsa espacios
-    """
     if s is None:
         return None
-
     s = str(s).lower().strip()
-
     # quitar acentos
     s = unicodedata.normalize("NFKD", s)
     s = "".join(ch for ch in s if not unicodedata.combining(ch))
-
-    # dejar solo letras/números como tokens
+    # dejar solo letras/numeros como tokens
     s = re.sub(r"[^a-z0-9]+", " ", s)
-
-    stopwords = {
-        "fc", "cf", "club", "sad", "ac", "sc", "ud", "cd",
-        "de", "the", "fk", "sv", "afc", "cfc", "bc"
-    }
-    tokens = [t for t in s.split() if t not in stopwords]
-
-    s = " ".join(tokens)
+    # quitar stopwords típicas de nombres de club
+    stop = {"fc","cf","club","sad","ac","sc","ud","cd","de","the","fk","sv","afc","cfc","bc"}
+    s = " ".join(t for t in s.split() if t not in stop)
     s = re.sub(r"\s+", " ", s).strip()
     return s
 
 normalize_name_udf = F.udf(_normalize_name, T.StringType())
 
-
-# --- similitud en % usando levenshtein ---
-
 def similarity_percent(col1, col2):
-    """
-    Devuelve un Column con el % de similitud (0-100) entre dos columnas string
-    usando levenshtein / longitud máxima.
-    """
     dist = F.levenshtein(col1, col2)
     max_len = F.greatest(F.length(col1), F.length(col2))
-    sim = (1 - dist / max_len) * 100.0
-    # evitar división por cero
-    return F.when(max_len == 0, F.lit(0.0)).otherwise(sim)
-#funcion auxiliar--------------------------------------------------------------------------------
+    return F.when(max_len == 0, F.lit(0.0)).otherwise((1 - dist / max_len) * 100.0)
 
-def igualar_sofascore_con_mercado(sofa_df,merc_df, umbral_similitud=80.0):
+# ------------- MAPPING genérico: src -> tgt -------------
+def build_mapping_src_to_tgt(df_src, df_tgt, umbral=85.0, w_player=0.7, w_team=0.3):
     """
-    Cambia los nombres de Sofascore (player_name, team_name) por los de Mercado
-    cuando:
-      - Liga y Season coinciden EXACTAMENTE
-      - la similitud (score combinado jugador+equipo) es >= umbral_similitud
-
-    NO añade valores de mercado, solo corrige nombres de Sofascore.
-
-    Parámetros:
-      sofa_df: DataFrame Spark con columnas al menos:
-               player_name, team_name, Liga, Season, ...
-      merc_df: DataFrame Spark con columnas al menos:
-               player_name, team_name, Liga, Season
-      umbral_similitud: porcentaje mínimo de similitud (0-100) para aceptar el cambio.
-
-    Devuelve:
-      sofa_corrected: mismo esquema que sofa_df, pero con player_name y team_name
-                      reemplazados por los de Mercado cuando hay match.
+    Crea un mapping para que los nombres del DF de destino (tgt) se reetiqueten
+    a los nombres del DF fuente (src), emparejando por (liga, season) y similitud.
+    Devuelve columnas: liga, season, src_player_name, src_team_name, tgt_player_name, tgt_team_name, score...
     """
-
-    # 1) Normalizar nombres en ambos DF
-    sofa_norm = (
-        sofa_df
-        .withColumn("player_key", normalize_name_udf("player_name"))
-        .withColumn("team_key",   normalize_name_udf("team_name"))
+    s = (df_src
+         .withColumn("player_key", normalize_name_udf("player_name"))
+         .withColumn("team_key",   normalize_name_udf("team_name"))
+         .withColumn("liga_key",   normalize_name_udf("liga"))
+         .withColumn("season_key", F.col("season"))
+         .select("player_name","team_name","liga","season",
+                 "player_key","team_key","liga_key","season_key")
+         .dropDuplicates(["player_name","team_name","liga","season"])
     )
 
-    merc_norm = (
-        merc_df
-        .withColumn("player_key", normalize_name_udf("player_name"))
-        .withColumn("team_key",   normalize_name_udf("team_name"))
+    t = (df_tgt
+         .withColumn("player_key", normalize_name_udf("player_name"))
+         .withColumn("team_key",   normalize_name_udf("team_name"))
+         .withColumn("liga_key",   normalize_name_udf("liga"))
+         .withColumn("season_key", F.col("season"))
+         .select("player_name","team_name","liga","season",
+                 "player_key","team_key","liga_key","season_key")
+         .dropDuplicates(["player_name","team_name","liga","season"])
     )
 
-    # Nos quedamos con lo necesario de Mercado (unique-ish)
-    merc_small = (
-        merc_norm
-        .select(
-            "Liga",
-            "Season",
-            "player_name",
-            "team_name",
-            "player_key",
-            "team_key"
-        )
-        .dropDuplicates()
-    )
-
-    # 2) Generar candidatos solo dentro de misma Liga + Season (match exacto)
-    candidates = (
-        sofa_norm.alias("s")
+    cand = (
+        s.alias("s")
         .join(
-            merc_small.alias("m"),
-            (F.col("s.Liga")   == F.col("m.Liga")) &
-            (F.col("s.Season") == F.col("m.Season")),
+            t.alias("t"),
+            (F.col("s.liga_key") == F.col("t.liga_key")) &
+            (F.col("s.season_key") == F.col("t.season_key")),
             "inner"
         )
-        # similitud en % para jugador y equipo
-        .withColumn("player_sim", similarity_percent(F.col("s.player_key"), F.col("m.player_key")))
-        .withColumn("team_sim",   similarity_percent(F.col("s.team_key"),   F.col("m.team_key")))
-        # score combinado (ajustable)
-        .withColumn("score", 0.7 * F.col("player_sim") + 0.3 * F.col("team_sim"))
-        .filter(F.col("score") >= umbral_similitud)
+        .withColumn("player_sim", similarity_percent(F.col("s.player_key"), F.col("t.player_key")))
+        .withColumn("team_sim",   similarity_percent(F.col("s.team_key"),   F.col("t.team_key")))
+        .withColumn("score", w_player*F.col("player_sim") + w_team*F.col("team_sim"))
+        .filter(F.col("score") >= F.lit(umbral))
     )
 
-    # 3) Elegir el mejor candidato de Mercado para cada fila de Sofascore
     w = Window.partitionBy(
-        "s.player_name", "s.team_name", "s.Liga", "s.Season"
+        "t.player_name","t.team_name","t.liga","t.season"
     ).orderBy(F.col("score").desc())
 
-    best_candidates = (
-        candidates
-        .withColumn("rn", F.row_number().over(w))
-        .filter(F.col("rn") == 1)
-        .drop("rn")
+    best = (
+        cand.withColumn("rn", F.row_number().over(w))
+            .filter(F.col("rn")==1)
+            .select(
+                F.col("s.liga").alias("liga"),
+                F.col("s.season").alias("season"),
+                F.col("s.player_name").alias("src_player_name"),
+                F.col("s.team_name").alias("src_team_name"),
+                F.col("t.player_name").alias("tgt_player_name"),
+                F.col("t.team_name").alias("tgt_team_name"),
+                F.col("score"), F.col("player_sim"), F.col("team_sim")
+            )
+            .dropDuplicates()
+    )
+    return best
+
+def apply_mapping_to_target(df_tgt, mapping):
+    """
+    Aplica el mapping (src->tgt) al DF destino para reetiquetar player_name y team_name
+    a los nombres del DF fuente (src).
+    """
+    m = mapping.select(
+        "liga","season",
+        "src_player_name","src_team_name",
+        "tgt_player_name","tgt_team_name"
     )
 
-    # 4) Construir tabla de mapping (Sofascore -> Mercado)
-    mapping = (
-        best_candidates
-        .select(
-            F.col("s.Liga").alias("Liga"),
-            F.col("s.Season").alias("Season"),
-            F.col("s.player_name").alias("sofa_player_name"),
-            F.col("s.team_name").alias("sofa_team_name"),
-            F.col("m.player_name").alias("mercado_player_name"),
-            F.col("m.team_name").alias("mercado_team_name"),
-            F.col("score")
-        )
-        .dropDuplicates()
-    )
-
-    # 5) Aplicar mapping sobre el DF original de Sofascore
-    #    → reemplazar player_name y team_name cuando hay match
-    sofa_corrected = (
-        sofa_df.alias("s")
+    out = (
+        df_tgt.alias("t")
         .join(
-            mapping.alias("map"),
-            (F.col("s.Liga")        == F.col("map.Liga")) &
-            (F.col("s.Season")      == F.col("map.Season")) &
-            (F.col("s.player_name") == F.col("map.sofa_player_name")) &
-            (F.col("s.team_name")   == F.col("map.sofa_team_name")),
+            m.alias("m"),
+            (F.col("t.liga") == F.col("m.liga")) &
+            (F.col("t.season") == F.col("m.season")) &
+            (F.col("t.player_name") == F.col("m.tgt_player_name")) &
+            (F.col("t.team_name") == F.col("m.tgt_team_name")),
             "left"
         )
         .select(
-            # todas las columnas originales salvo player_name/team_name...
-            *[
-                F.col("s." + c)
-                for c in sofa_df.columns
-                if c not in ("player_name", "team_name")
-            ],
-            # ...y estas 2 ya corregidas
-            F.coalesce(F.col("map.mercado_player_name"), F.col("s.player_name")).alias("player_name"),
-            F.coalesce(F.col("map.mercado_team_name"),   F.col("s.team_name")).alias("team_name"),
+            *[F.col("t."+c) for c in df_tgt.columns if c not in ("player_name","team_name")],
+            F.coalesce(F.col("m.src_player_name"), F.col("t.player_name")).alias("player_name"),
+            F.coalesce(F.col("m.src_team_name"),   F.col("t.team_name")).alias("team_name"),
         )
     )
+    return out
 
-    return sofa_corrected
-#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-def unir_df_sofascore(df_sofascore, df_minutes):
-    if "source" in df_minutes.columns and "source_minutes" not in df_minutes.columns:
-        df_minutes = df_minutes.withColumnRenamed("source", "source_minutes")
-    joined_df = df_sofascore.join(
-    df_minutes,
-    on=[
-        "player_name",
-        "team_name",
-        "Season",
-        "Liga"
-    ],
-    how="inner"   # puede ser: "inner", "left", "right", "outer", etc.
-)
-    return joined_df
-
-
-def join_stats_market_and_write(merc_df, sofa_df):
-    """
-    LEFT JOIN desde Mercado hacia Sofascore:
-      claves: player_name, team_name, Season, Liga
-
-    ➜ Solo jugadores con valor de mercado (Mercado) aparecen en GOLD.
-       Stats de Sofascore se añaden cuando existen; si no, quedan a NULL.
-
-    Escribe un parquet GOLD sobrescribiendo en GOLD_PATH.
-    """
-
-    # 1) RENOMBRAR columnas 'source' de silver para que no choquen
-    if "source" in merc_df.columns:
-        merc_df = merc_df.withColumnRenamed("source", "source_market")
-    if "source" in sofa_df.columns:
-        sofa_df = sofa_df.withColumnRenamed("source", "source_stats")
-
-    # 2) Aseguramos una fila por jugador+equipo+Liga+Season en Mercado
-    merc_small = (
-        merc_df
-        .dropDuplicates(["player_name", "team_name", "Season", "Liga"])
-    )
-
-    # 3) LEFT JOIN: el lado izquierdo es Mercado
-    gold_df = (
-        merc_small
-        .join(
-            sofa_df,
-            on=["player_name", "team_name", "Season", "Liga"],
-            how="inner"
-        )
-        .withColumn("created_at", F.current_timestamp())
-    )
-
-    # 4) Por si algún paso previo dejó otra 'source' colada, la eliminamos
-    if "source" in gold_df.columns:
-        gold_df = gold_df.drop("source")
-
-    gold_df = gold_df.withColumn("Season_part", F.col("Season"))
-    gold_df = gold_df.withColumn("Liga_part", F.col("Liga"))
-
-    # 5) Escribir GOLD particionado
-    (
-        gold_df
-        .write
-        .mode("overwrite")
-        .partitionBy("Season_part", "Liga_part")
-        .parquet(GOLD_PATH)
-    )
-    print("➡️  Filas en GOLD antes de escribir:", gold_df.count())
-
-    print(f"✅ GOLD creado (overwrite) en: {GOLD_PATH}")
-    return gold_df
-
-
-# ---------------------------------------------
-#  INICIAR SPARK
-# ---------------------------------------------
-
+# ------------- utilidades -------------
 def iniciar_spark():
     return (
         SparkSession.builder
         .appName("build_gold_players_stats_market")
+        .config("spark.sql.execution.pyspark.udf.faulthandler.enabled", "true")
+        .config("spark.python.worker.faulthandler.enabled", "true")
         .getOrCreate()
     )
 
-
-
-
-# ---------------------------------------------
-#  COMPROBACIÓN DE SCHEMAS
-# ---------------------------------------------
-
-def comprobacion(df_mercado, df_sofascore, df_minutes):
-    required = ["player_name", "team_name", "Season", "Liga"]
-
+def comprobacion(df_mercado, df_sofascore, df_understat):
+    required = ["player_name", "team_name", "season", "liga"]
     for col in required:
         if col not in df_sofascore.columns:
             raise ValueError(f"❌ Falta columna '{col}' en Sofascore Silver")
         if col not in df_mercado.columns:
             raise ValueError(f"❌ Falta columna '{col}' en Mercado Silver")
-        if col not in df_minutes.columns:
-            raise ValueError(f"❌ Falta columna '{col}' en Sofascore Silver")
+        if col not in df_understat.columns:
+            raise ValueError(f"❌ Falta columna '{col}' en Understat Silver")
+    if "market_value" not in df_mercado.columns:
+        raise ValueError("❌ Mercado Silver debe tener 'market_value'")
 
-    if "player_market_value_euro" not in df_mercado.columns:
-        raise ValueError("❌ Mercado Silver debe tener 'player_market_value_euro'")
+def cargar_mercado(spark):   return spark.read.parquet(MERC_SILVER_PATH)
+def cargar_sofascore(spark): return spark.read.parquet(SOFA_SILVER_PATH)
+def cargar_understat(spark): return spark.read.parquet(UN_SILVER_PATH)
 
-# ---------------------------------------------
-#  CARGA DE PARQUETS
-# ---------------------------------------------
-
-def cargar_mercado(spark):
-    return spark.read.parquet(MERC_SILVER_PATH)
-
-def cargar_sofascore(spark):
-    return spark.read.parquet(SOFA_SILVER_PATH)
-
-def cargar_sofascore_minutes(spark):
-    return spark.read.parquet(MIN_SILVER_PATH)
-
-
-# ---------------------------------------------
-#  MAIN PIPELINE
-# ---------------------------------------------
-
+# ------------- MAIN -------------
 def main():
     spark = iniciar_spark()
 
-    df_mercado = cargar_mercado(spark)
+    df_mercado   = cargar_mercado(spark)
     df_sofascore = cargar_sofascore(spark)
-    df_minutes = cargar_sofascore_minutes(spark)
-    comprobacion(df_mercado, df_sofascore, df_minutes)
-    
-    df_sofascore = igualar_sofascore_con_mercado(df_sofascore, df_mercado)
-    
-    df_minutes = igualar_sofascore_con_mercado(df_minutes, df_mercado)
+    df_understat = cargar_understat(spark)
 
-    df_sofascore = unir_df_sofascore(df_sofascore, df_minutes)
+    print("▶️ Conteos iniciales")
+    print("Mercado  :", df_mercado.count(),   "filas —", df_mercado.columns)
+    print("Sofascore:", df_sofascore.count(), "filas —", df_sofascore.columns)
+    print("Understat:", df_understat.count(), "filas —", df_understat.columns)
 
-    join_stats_market_and_write(df_mercado, df_sofascore)
+    comprobacion(df_mercado, df_sofascore, df_understat)
+
+    # 1) Mapear Understat -> Sofascore (usamos Sofascore como canon)
+    map_sofa_under = build_mapping_src_to_tgt(df_sofascore, df_understat, umbral=70.0)
+    print("Pairs mapeados (Understat→Sofa):", map_sofa_under.count())
+    # map_sofa_under.orderBy(F.col("score").desc()).show(20, truncate=False)
+
+    df_under_unificado = apply_mapping_to_target(df_understat, map_sofa_under)
+
+    # 2) Mapear Mercado -> Sofascore (mismo criterio)
+    map_sofa_merc = build_mapping_src_to_tgt(df_sofascore, df_mercado, umbral=70.0)
+    print("Pairs mapeados (Mercado→Sofa):", map_sofa_merc.count())
+
+    df_mercado_unificado = apply_mapping_to_target(df_mercado, map_sofa_merc)
+
+    # 3) Renombrar 'source' para evitar colisiones
+    if "source" in df_sofascore.columns:
+        df_sofascore = df_sofascore.withColumnRenamed("source", "source_sofascore")
+    if "source" in df_under_unificado.columns:
+        df_under_unificado = df_under_unificado.withColumnRenamed("source", "source_understat")
+    if "source" in df_mercado_unificado.columns:
+        df_mercado_unificado = df_mercado_unificado.withColumnRenamed("source", "source_info")
+
+    # 4) JOINS exactos en las 4 claves
+    keys = ["player_name","team_name","season","liga"]
+
+    # deduplicar por seguridad
+    df_sofascore = df_sofascore.dropDuplicates(keys)
+    df_under_unificado = df_under_unificado.dropDuplicates(keys)
+    df_mercado_unificado = df_mercado_unificado.dropDuplicates(keys)
+
+    df_join1 = df_sofascore.join(df_under_unificado, on=keys, how="inner")
+    print("Union sofascore+understat:", df_join1.count())
+    df_final = df_join1.join(df_mercado_unificado, on=keys, how="inner")
+    print("Union sofascore+understat+mercado:", df_final.count())
+    # 5) Particiones y escritura
+    df_final = df_final.withColumn("season_part", F.col("season")) \
+                       .withColumn("liga_part",   F.col("liga"))
+
+    print("➡️ Filas finales (match exacto 4 claves):", df_final.count())
+
+    (df_final.write
+        .mode("overwrite")
+        .partitionBy("season_part", "liga_part")
+        .parquet(STATS_PATH))
+
+    print(f"✅ GOLD escrito en: {STATS_PATH}")
     spark.stop()
-
 
 if __name__ == "__main__":
     main()

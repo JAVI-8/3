@@ -1,5 +1,6 @@
 import ScraperFC as sfc
 
+
 ss = sfc.Sofascore()
 ligas = ["Bundesliga", "EPL", "La Liga", "Ligue 1", "Serie A"]
 years = ["20/21", "21/22", "22/23", "23/24", "24/25", "25/26"] # Formato correcto para SofaScore
@@ -31,6 +32,9 @@ def stats():
             file = f"C:/Users/jahoy/Documents/scouting/lake/bronze/minutes/{liga.replace(' ', '_')}_{safe_year}_minutes.csv"
             df.to_csv(file, index=False)
             print(f"C:/Users/jahoy/Documents/scouting/lake/bronze/minutes/{liga.replace(' ', '_')}_{safe_year}_minutes.csv")
+
+
+
 
 if __name__ == "__main__":
     stats()

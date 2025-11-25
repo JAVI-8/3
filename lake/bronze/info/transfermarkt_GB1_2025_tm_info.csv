@@ -1,0 +1,2302 @@
+﻿player_name,player_id,team_name,position,other_positions,date_of_birth,age,height_m,nationality,market_value,joined,contract_expires,Value last updated,Citizenship,Last club,Since,Market value history,Transfer history,Player URL,height_cm
+David Raya,262749,Arsenal,Goalkeeper,,15/09/1995 (30),30,1.83,Spain,€40.00m,04/07/2024,30/06/2028,30/05/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/david-raya/profil/spieler/262749,183.0
+Kepa Arrizabalaga,192279,Arsenal,Goalkeeper,,03/10/1994 (31),31,1.88,Spain,€8.00m,01/07/2025,30/06/2028,17/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kepa-arrizabalaga/profil/spieler/192279,188.0
+William Saliba,495666,Arsenal,Centre-Back,,24/03/2001 (24),24,1.92,France,€80.00m,25/07/2019,30/06/2030,30/05/2025,"['France', 'Cameroon']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/william-saliba/profil/spieler/495666,192.0
+Gabriel Magalhães,435338,Arsenal,Centre-Back,,19/12/1997 (27),27,1.9,Brazil,€75.00m,01/09/2020,30/06/2029,30/05/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gabriel-magalhaes/profil/spieler/435338,190.0
+Piero Hincapié,659813,Arsenal,Centre-Back,"               0
+0      Left-Back
+1  Left Midfield",09/01/2002 (23),23,1.84,Ecuador,€50.00m,01/09/2025,30/06/2026,05/06/2025,['Ecuador'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/piero-hincapie/profil/spieler/659813,184.0
+Cristhian Mosquera,646750,Arsenal,Centre-Back,"            0
+0  Right-Back",27/06/2004 (21),21,1.91,Spain,€35.00m,24/07/2025,30/06/2030,17/10/2025,"['Spain', 'Colombia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/cristhian-mosquera/profil/spieler/646750,191.0
+Myles Lewis-Skelly,890721,Arsenal,Left-Back,"                    0
+0  Defensive Midfield
+1    Central Midfield",26/09/2006 (19),19,1.78,England,€45.00m,01/07/2024,30/06/2030,30/05/2025,"['England', 'Barbados']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/myles-lewis-skelly/profil/spieler/890721,178.0
+Riccardo Calafiori,502821,Arsenal,Left-Back,"             0
+0  Centre-Back",19/05/2002 (23),23,1.88,Italy,€40.00m,29/07/2024,30/06/2029,17/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/riccardo-calafiori/profil/spieler/502821,188.0
+Jurriën Timber,420243,Arsenal,Right-Back,"             0
+0  Centre-Back
+1    Left-Back",17/06/2001 (24),24,1.79,Netherlands,€60.00m,14/07/2023,30/06/2028,17/10/2025,"['Curacao', 'Netherlands']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jurrien-timber/profil/spieler/420243,179.0
+Ben White,335721,Arsenal,Right-Back,"                    0
+0         Centre-Back
+1  Defensive Midfield",08/10/1997 (28),28,1.86,England,€38.00m,30/07/2021,30/06/2028,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ben-white/profil/spieler/335721,186.0
+Martín Zubimendi,423440,Arsenal,Defensive Midfield,"                  0
+0  Central Midfield",02/02/1999 (26),26,1.81,Spain,€70.00m,06/07/2025,30/06/2030,17/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/martin-zubimendi/profil/spieler/423440,181.0
+Christian Nørgaard,148367,Arsenal,Defensive Midfield,"                  0
+0  Central Midfield",10/03/1994 (31),31,1.87,Denmark,€11.00m,10/07/2025,30/06/2027,30/05/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/christian-norgaard/profil/spieler/148367,187.0
+Declan Rice,357662,Arsenal,Central Midfield,"                    0
+0  Defensive Midfield",14/01/1999 (26),26,1.88,England,€120.00m,15/07/2023,30/06/2028,30/05/2025,"['England', 'Ireland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/declan-rice/profil/spieler/357662,188.0
+Mikel Merino,338424,Arsenal,Central Midfield,"                    0
+0      Centre-Forward
+1  Attacking Midfield",22/06/1996 (29),29,1.89,Spain,€35.00m,27/08/2024,30/06/2028,30/05/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mikel-merino/profil/spieler/338424,189.0
+Martin Ødegaard,316264,Arsenal,Attacking Midfield,"                  0
+0      Right Winger
+1  Central Midfield",17/12/1998 (26),26,1.78,Norway,€80.00m,20/08/2021,30/06/2028,17/10/2025,['Norway'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/martin-odegaard/profil/spieler/316264,178.0
+Eberechi Eze,479999,Arsenal,Attacking Midfield,"               0
+0    Left Winger
+1  Left Midfield",29/06/1998 (27),27,1.78,England,€65.00m,23/08/2025,30/06/2029,17/10/2025,"['England', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/eberechi-eze/profil/spieler/479999,178.0
+Ethan Nwaneri,890719,Arsenal,Attacking Midfield,"                0
+0    Right Winger
+1  Centre-Forward",21/03/2007 (18),18,1.76,England,€45.00m,01/07/2024,30/06/2030,17/10/2025,"['England', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ethan-nwaneri/profil/spieler/890719,176.0
+Gabriel Martinelli,655488,Arsenal,Left Winger,"              0
+0  Right Winger",18/06/2001 (24),24,1.78,Brazil,€45.00m,02/07/2019,30/06/2027,17/10/2025,"['Italy', 'Brazil']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gabriel-martinelli/profil/spieler/655488,178.0
+Leandro Trossard,144028,Arsenal,Left Winger,"                0
+0  Second Striker
+1  Centre-Forward",04/12/1994 (30),30,1.72,Belgium,€22.00m,20/01/2023,30/06/2027,30/05/2025,['Belgium'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/leandro-trossard/profil/spieler/144028,172.0
+Bukayo Saka,433177,Arsenal,Right Winger,"                0
+0     Left Winger
+1  Right Midfield",05/09/2001 (24),24,1.78,England,€140.00m,01/07/2019,30/06/2027,17/10/2025,"['England', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/bukayo-saka/profil/spieler/433177,178.0
+Noni Madueke,503987,Arsenal,Right Winger,"             0
+0  Left Winger",10/03/2002 (23),23,1.82,England,€50.00m,18/07/2025,30/06/2030,17/10/2025,"['England', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/noni-madueke/profil/spieler/503987,182.0
+Max Dowman,1187629,Arsenal,Right Winger,"                    0
+0  Attacking Midfield
+1    Central Midfield",31/12/2009 (15),15,1.83,England,,01/07/2025,-,,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/max-dowman/profil/spieler/1187629,183.0
+Viktor Gyökeres,325443,Arsenal,Centre-Forward,,04/06/1998 (27),27,1.89,Sweden,€75.00m,26/07/2025,30/06/2030,30/05/2025,"['Hungary', 'Sweden']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/viktor-gyokeres/profil/spieler/325443,189.0
+Kai Havertz,309400,Arsenal,Centre-Forward,"                    0
+0  Attacking Midfield
+1        Right Winger",11/06/1999 (26),26,1.93,Germany,€60.00m,01/07/2023,30/06/2028,17/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kai-havertz/profil/spieler/309400,193.0
+Gabriel Jesus,363205,Arsenal,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",03/04/1997 (28),28,1.75,Brazil,€25.00m,04/07/2022,30/06/2027,17/10/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gabriel-jesus/profil/spieler/363205,175.0
+Gianluigi Donnarumma,315858,Man City,Goalkeeper,,25/02/1999 (26),26,1.96,Italy,€40.00m,01/09/2025,30/06/2030,03/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gianluigi-donnarumma/profil/spieler/315858,196.0
+James Trafford,566799,Man City,Goalkeeper,,10/10/2002 (23),23,1.92,England,€30.00m,29/07/2025,30/06/2030,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/james-trafford/profil/spieler/566799,192.0
+Stefan Ortega,85941,Man City,Goalkeeper,,06/11/1992 (33),33,1.85,Germany,€6.00m,01/07/2022,30/06/2026,17/10/2025,"['Spain', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/stefan-ortega/profil/spieler/85941,185.0
+Marcus Bettinelli,116648,Man City,Goalkeeper,,24/05/1992 (33),33,1.93,England,€600k,10/06/2025,30/06/2026,30/05/2025,"['England', 'Italy']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marcus-bettinelli/profil/spieler/116648,193.0
+Josko Gvardiol,475959,Man City,Centre-Back,"           0
+0  Left-Back",23/01/2002 (23),23,1.85,Croatia,€75.00m,05/08/2023,30/06/2028,30/05/2025,['Croatia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/josko-gvardiol/profil/spieler/475959,185.0
+Rúben Dias,258004,Man City,Centre-Back,,14/05/1997 (28),28,1.87,Portugal,€60.00m,29/09/2020,30/06/2029,17/10/2025,['Portugal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ruben-dias/profil/spieler/258004,187.0
+Abdukodir Khusanov,763079,Man City,Centre-Back,"            0
+0  Right-Back",29/02/2004 (21),21,1.86,Uzbekistan,€35.00m,20/01/2025,30/06/2029,30/05/2025,['Uzbekistan'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/abdukodir-khusanov/profil/spieler/763079,186.0
+John Stones,186590,Man City,Centre-Back,"                    0
+0          Right-Back
+1  Defensive Midfield",28/05/1994 (31),31,1.88,England,€22.00m,09/08/2016,30/06/2026,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/john-stones/profil/spieler/186590,188.0
+Nathan Aké,177476,Man City,Centre-Back,"           0
+0  Left-Back",18/02/1995 (30),30,1.8,Netherlands,€22.00m,05/08/2020,30/06/2027,17/10/2025,"['Netherlands', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nathan-ake/profil/spieler/177476,180.0
+Rayan Aït-Nouri,578391,Man City,Left-Back,"               0
+0  Left Midfield",06/06/2001 (24),24,1.8,Algeria,€40.00m,09/06/2025,30/06/2030,17/10/2025,"['France', 'Algeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rayan-ait-nouri/profil/spieler/578391,180.0
+Nico O'Reilly,743413,Man City,Left-Back,"                    0
+0  Attacking Midfield
+1    Central Midfield",21/03/2005 (20),20,1.93,England,€30.00m,01/07/2024,30/06/2030,17/10/2025,"['England', 'Jamaica']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nico-oreilly/profil/spieler/743413,193.0
+Rico Lewis,701057,Man City,Right-Back,"                    0
+0  Defensive Midfield
+1           Left-Back",21/11/2004 (21),21,1.7,England,€40.00m,01/07/2022,30/06/2030,30/05/2025,"['England', 'Jamaica']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rico-lewis/profil/spieler/701057,170.0
+Matheus Nunes,601883,Man City,Right-Back,"                  0
+0  Central Midfield",27/08/1998 (27),27,1.83,Portugal,€35.00m,01/09/2023,30/06/2028,30/05/2025,"['Portugal', 'Brazil']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/matheus-nunes/profil/spieler/601883,183.0
+Rodri,357565,Man City,Defensive Midfield,"                  0
+0  Central Midfield",22/06/1996 (29),29,1.91,Spain,€90.00m,04/07/2019,30/06/2027,17/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rodri/profil/spieler/357565,191.0
+Nico González,466805,Man City,Defensive Midfield,"                    0
+0    Central Midfield
+1  Attacking Midfield",03/01/2002 (23),23,1.88,Spain,€40.00m,03/02/2025,30/06/2029,30/05/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nico-gonzalez/profil/spieler/466805,188.0
+Kalvin Phillips,351749,Man City,Defensive Midfield,"                  0
+0  Central Midfield
+1       Centre-Back",02/12/1995 (29),29,1.79,England,€10.00m,04/07/2022,30/06/2028,17/10/2025,"['England', 'Jamaica']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kalvin-phillips/profil/spieler/351749,179.0
+Tijjani Reijnders,460939,Man City,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",29/07/1998 (27),27,1.85,Netherlands,€70.00m,10/06/2025,30/06/2030,17/10/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tijjani-reijnders/profil/spieler/460939,185.0
+Mateo Kovacic,51471,Man City,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",06/05/1994 (31),31,1.77,Croatia,€20.00m,01/07/2023,30/06/2027,30/05/2025,"['Austria', 'Croatia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mateo-kovacic/profil/spieler/51471,177.0
+Bernardo Silva,241641,Man City,Attacking Midfield,"                  0
+0      Right Winger
+1  Central Midfield",10/08/1994 (31),31,1.73,Portugal,€32.00m,01/07/2017,30/06/2026,17/10/2025,['Portugal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/bernardo-silva/profil/spieler/241641,173.0
+Jérémy Doku,486049,Man City,Left Winger,"               0
+0   Right Winger
+1  Left Midfield",27/05/2002 (23),23,1.73,Belgium,€55.00m,24/08/2023,30/06/2028,17/10/2025,"['Ghana', 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jeremy-doku/profil/spieler/486049,173.0
+Savinho,743591,Man City,Left Winger,"                    0
+0        Right Winger
+1  Attacking Midfield",10/04/2004 (21),21,1.76,Brazil,€50.00m,18/07/2024,30/06/2031,30/05/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/savinho/profil/spieler/743591,176.0
+Phil Foden,406635,Man City,Right Winger,"                  0
+0       Left Winger
+1  Central Midfield",28/05/2000 (25),25,1.71,England,€80.00m,01/07/2017,30/06/2027,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/phil-foden/profil/spieler/406635,171.0
+Rayan Cherki,607223,Man City,Right Winger,"                    0
+0  Attacking Midfield
+1         Left Winger",17/08/2003 (22),22,1.77,France,€45.00m,10/06/2025,30/06/2030,03/06/2025,"['France', 'Algeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rayan-cherki/profil/spieler/607223,177.0
+Oscar Bobb,661207,Man City,Right Winger,"                    0
+0  Attacking Midfield
+1         Left Winger",12/07/2003 (22),22,1.75,Norway,€30.00m,01/07/2023,30/06/2029,17/10/2025,"['The Gambia', 'Norway']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/oscar-bobb/profil/spieler/661207,175.0
+Erling Haaland,418560,Man City,Centre-Forward,,21/07/2000 (25),25,1.95,Norway,€180.00m,01/07/2022,30/06/2034,30/05/2025,"['England', 'Norway']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/erling-haaland/profil/spieler/418560,195.0
+Omar Marmoush,445939,Man City,Centre-Forward,"                0
+0     Left Winger
+1  Second Striker",07/02/1999 (26),26,1.83,Egypt,€75.00m,23/01/2025,30/06/2029,30/05/2025,"['Egypt', 'Canada']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/omar-marmoush/profil/spieler/445939,183.0
+Giorgi Mamardashvili,502676,Liverpool,Goalkeeper,,29/09/2000 (25),25,1.97,Georgia,€28.00m,27/08/2024,30/06/2031,17/10/2025,['Georgia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/giorgi-mamardashvili/profil/spieler/502676,197.0
+Alisson,105470,Liverpool,Goalkeeper,,02/10/1992 (33),33,1.93,Brazil,€20.00m,19/07/2018,30/06/2027,30/05/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alisson/profil/spieler/105470,193.0
+Freddie Woodman,226049,Liverpool,Goalkeeper,,04/03/1997 (28),28,1.88,England,€3.50m,01/07/2025,30/06/2026,27/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/freddie-woodman/profil/spieler/226049,188.0
+Ibrahima Konaté,357119,Liverpool,Centre-Back,,25/05/1999 (26),26,1.94,France,€55.00m,01/07/2021,30/06/2026,17/10/2025,"['France', 'Mali']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ibrahima-konate/profil/spieler/357119,194.0
+Giovanni Leoni,1086619,Liverpool,Centre-Back,"            0
+0  Right-Back",21/12/2006 (18),18,1.96,Italy,€25.00m,15/08/2025,30/06/2031,17/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/giovanni-leoni/profil/spieler/1086619,196.0
+Virgil van Dijk,139208,Liverpool,Centre-Back,,08/07/1991 (34),34,1.95,Netherlands,€23.00m,01/01/2018,30/06/2027,30/05/2025,"['Netherlands', 'Suriname']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/virgil-van-dijk/profil/spieler/139208,195.0
+Joe Gomez,256178,Liverpool,Centre-Back,"            0
+0  Right-Back
+1   Left-Back",23/05/1997 (28),28,1.88,England,€18.00m,01/07/2015,30/06/2027,17/10/2025,"['England', 'The Gambia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/joe-gomez/profil/spieler/256178,188.0
+Rhys Williams,503679,Liverpool,Centre-Back,,03/02/2001 (24),24,1.95,England,€700k,01/07/2020,30/06/2026,30/06/2025,"['England', 'Jamaica']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rhys-williams/profil/spieler/503679,195.0
+Milos Kerkez,730861,Liverpool,Left-Back,"               0
+0  Left Midfield",07/11/2003 (22),22,1.8,Hungary,€45.00m,01/07/2025,30/06/2030,30/05/2025,"['Hungary', 'Serbia', 'Serbia and Montenegro']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/milos-kerkez/profil/spieler/730861,180.0
+Andrew Robertson,234803,Liverpool,Left-Back,"               0
+0  Left Midfield",11/03/1994 (31),31,1.78,Scotland,€15.00m,21/07/2017,30/06/2026,17/10/2025,['Scotland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/andrew-robertson/profil/spieler/234803,178.0
+Jeremie Frimpong,484547,Liverpool,Right-Back,"                0
+0  Right Midfield",10/12/2000 (24),24,1.72,Netherlands,€45.00m,01/07/2025,30/06/2030,17/10/2025,"['Ghana', 'Netherlands']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jeremie-frimpong/profil/spieler/484547,172.0
+Conor Bradley,624258,Liverpool,Right-Back,"                0
+0  Right Midfield",09/07/2003 (22),22,1.81,Northern Ireland,€30.00m,01/07/2023,30/06/2029,30/05/2025,['Northern Ireland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/conor-bradley/profil/spieler/624258,181.0
+Ryan Gravenberch,478573,Liverpool,Defensive Midfield,"                  0
+0  Central Midfield",16/05/2002 (23),23,1.9,Netherlands,€90.00m,01/09/2023,30/06/2028,17/10/2025,"['Netherlands', 'Suriname']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ryan-gravenberch/profil/spieler/478573,190.0
+Stefan Bajcetic,864799,Liverpool,Defensive Midfield,"                  0
+0       Centre-Back
+1  Central Midfield",22/10/2004 (21),21,1.85,Spain,€9.00m,01/07/2022,30/06/2027,09/06/2025,"['Spain', 'Serbia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/stefan-bajcetic/profil/spieler/864799,185.0
+Wataru Endo,146310,Liverpool,Defensive Midfield,"                  0
+0       Centre-Back
+1  Central Midfield",09/02/1993 (32),32,1.78,Japan,€8.00m,18/08/2023,30/06/2027,30/05/2025,['Japan'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/wataru-endo/profil/spieler/146310,178.0
+Alexis Mac Allister,534033,Liverpool,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",24/12/1998 (26),26,1.76,Argentina,€100.00m,01/07/2023,30/06/2028,30/05/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alexis-mac-allister/profil/spieler/534033,176.0
+Curtis Jones,433188,Liverpool,Central Midfield,"                    0
+0       Left Midfield
+1  Attacking Midfield",30/01/2001 (24),24,1.85,England,€45.00m,01/07/2020,30/06/2027,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/curtis-jones/profil/spieler/433188,185.0
+Trey Nyoni,1045123,Liverpool,Central Midfield,"                    0
+0  Attacking Midfield",30/06/2007 (18),18,1.8,England,€6.00m,01/07/2025,30/06/2026,17/10/2025,"['England', 'Zimbabwe']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/trey-nyoni/profil/spieler/1045123,180.0
+Florian Wirtz,598577,Liverpool,Attacking Midfield,"                0
+0    Right Winger
+1  Second Striker",03/05/2003 (22),22,1.77,Germany,€130.00m,01/07/2025,30/06/2030,17/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/florian-wirtz/profil/spieler/598577,177.0
+Dominik Szoboszlai,451276,Liverpool,Attacking Midfield,"                  0
+0  Central Midfield
+1        Right-Back",25/10/2000 (25),25,1.87,Hungary,€85.00m,02/07/2023,30/06/2028,17/10/2025,['Hungary'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dominik-szoboszlai/profil/spieler/451276,187.0
+Cody Gakpo,434675,Liverpool,Left Winger,"                0
+0  Centre-Forward",07/05/1999 (26),26,1.93,Netherlands,€70.00m,01/01/2023,30/06/2030,30/05/2025,"['Togo', 'Netherlands']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/cody-gakpo/profil/spieler/434675,193.0
+Rio Ngumoha,1108466,Liverpool,Left Winger,"               0
+0   Right Winger
+1  Left Midfield",29/08/2008 (17),17,1.7,England,€15.00m,01/07/2025,30/06/2028,17/10/2025,"['England', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rio-ngumoha/profil/spieler/1108466,170.0
+Mohamed Salah,148455,Liverpool,Right Winger,"                0
+0  Second Striker
+1  Centre-Forward",15/06/1992 (33),33,1.75,Egypt,€45.00m,01/07/2017,30/06/2027,17/10/2025,['Egypt'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mohamed-salah/profil/spieler/148455,175.0
+Federico Chiesa,341092,Liverpool,Right Winger,"                0
+0     Left Winger
+1  Second Striker",25/10/1997 (28),28,1.75,Italy,€18.00m,29/08/2024,30/06/2028,17/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/federico-chiesa/profil/spieler/341092,175.0
+Alexander Isak,349066,Liverpool,Centre-Forward,,21/09/1999 (26),26,1.92,Sweden,€140.00m,01/09/2025,30/06/2031,17/10/2025,"['Sweden', 'Eritrea']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alexander-isak/profil/spieler/349066,192.0
+Hugo Ekitiké,709726,Liverpool,Centre-Forward,,20/06/2002 (23),23,1.9,France,€85.00m,23/07/2025,30/06/2031,17/10/2025,"['France', 'Cameroon']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/hugo-ekitike/profil/spieler/709726,190.0
+Robert Sánchez,403151,Chelsea,Goalkeeper,,18/11/1997 (28),28,1.97,Spain,€20.00m,05/08/2023,30/06/2030,30/05/2025,"['England', 'Spain']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/robert-sanchez/profil/spieler/403151,197.0
+Filip Jørgensen,585323,Chelsea,Goalkeeper,,16/04/2002 (23),23,1.92,Denmark,€18.00m,30/07/2024,30/06/2031,30/05/2025,"['Sweden', 'Denmark']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/filip-jorgensen/profil/spieler/585323,192.0
+Gabriel Slonina,656316,Chelsea,Goalkeeper,,15/05/2004 (21),21,1.93,United States,€3.50m,02/08/2022,30/06/2028,30/05/2025,"['Poland', 'United States']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gabriel-slonina/profil/spieler/656316,193.0
+Levi Colwill,614258,Chelsea,Centre-Back,"           0
+0  Left-Back",26/02/2003 (22),22,1.87,England,€55.00m,01/07/2022,30/06/2029,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/levi-colwill/profil/spieler/614258,187.0
+Trevoh Chalobah,346314,Chelsea,Centre-Back,"                    0
+0  Defensive Midfield
+1          Right-Back",05/07/1999 (26),26,1.92,England,€32.00m,01/07/2021,30/06/2028,17/10/2025,"['England', 'Sierra Leone']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/trevoh-chalobah/profil/spieler/346314,192.0
+Wesley Fofana,475411,Chelsea,Centre-Back,"            0
+0  Right-Back",17/12/2000 (24),24,1.85,France,€25.00m,31/08/2022,30/06/2029,30/05/2025,"['France', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/wesley-fofana/profil/spieler/475411,185.0
+Tosin Adarabioyo,258878,Chelsea,Centre-Back,,24/09/1997 (28),28,1.97,England,€20.00m,01/07/2024,30/06/2028,30/05/2025,"['England', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tosin-adarabioyo/profil/spieler/258878,197.0
+Benoît Badiashile,463603,Chelsea,Centre-Back,,26/03/2001 (24),24,1.94,France,€20.00m,05/01/2023,30/06/2030,17/10/2025,"['France', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/benoit-badiashile/profil/spieler/463603,194.0
+Axel Disasi,386047,Chelsea,Centre-Back,"            0
+0  Right-Back",11/03/1998 (27),27,1.91,France,€18.00m,04/08/2023,30/06/2029,17/10/2025,"['France', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/axel-disasi/profil/spieler/386047,191.0
+Josh Acheampong,1004708,Chelsea,Centre-Back,"            0
+0  Right-Back",05/05/2006 (19),19,1.9,England,€15.00m,18/12/2024,30/06/2029,17/10/2025,"['England', 'Ghana']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/josh-acheampong/profil/spieler/1004708,190.0
+Marc Cucurella,284857,Chelsea,Left-Back,"               0
+0  Left Midfield",22/07/1998 (27),27,1.73,Spain,€45.00m,05/08/2022,30/06/2028,17/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marc-cucurella/profil/spieler/284857,173.0
+Jorrel Hato,904802,Chelsea,Left-Back,"             0
+0  Centre-Back",07/03/2006 (19),19,1.82,Netherlands,€40.00m,03/08/2025,30/06/2032,17/10/2025,"['Curacao', 'Netherlands']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jorrel-hato/profil/spieler/904802,182.0
+Reece James,472423,Chelsea,Right-Back,"                    0
+0  Defensive Midfield
+1      Right Midfield",08/12/1999 (25),25,1.8,England,€35.00m,01/07/2019,30/06/2028,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/reece-james/profil/spieler/472423,180.0
+Malo Gusto,620322,Chelsea,Right-Back,"                0
+0  Right Midfield
+1       Left-Back",19/05/2003 (22),22,1.78,France,€35.00m,29/01/2023,30/06/2030,30/05/2025,"['France', 'Martinique']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/malo-gusto/profil/spieler/620322,178.0
+Moisés Caicedo,687626,Chelsea,Defensive Midfield,"                  0
+0  Central Midfield
+1        Right-Back",02/11/2001 (24),24,1.78,Ecuador,€100.00m,14/08/2023,30/06/2031,17/10/2025,['Ecuador'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/moises-caicedo/profil/spieler/687626,178.0
+Roméo Lavia,628451,Chelsea,Defensive Midfield,"                  0
+0  Central Midfield",06/01/2004 (21),21,1.81,Belgium,€35.00m,18/08/2023,30/06/2030,17/10/2025,['Belgium'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/romeo-lavia/profil/spieler/628451,181.0
+Dário Essugo,670717,Chelsea,Defensive Midfield,"                  0
+0  Central Midfield",14/03/2005 (20),20,1.78,Portugal,€20.00m,10/06/2025,30/06/2033,09/06/2025,"['Angola', 'Portugal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dario-essugo/profil/spieler/670717,178.0
+Enzo Fernández,648195,Chelsea,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",17/01/2001 (24),24,1.78,Argentina,€80.00m,31/01/2023,30/06/2032,17/10/2025,['Argentina'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/enzo-fernandez/profil/spieler/648195,178.0
+Andrey Santos,743600,Chelsea,Central Midfield,"                    0
+0  Defensive Midfield",03/05/2004 (21),21,1.8,Brazil,€35.00m,01/01/2023,30/06/2030,03/06/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/andrey-santos/profil/spieler/743600,180.0
+Cole Palmer,568177,Chelsea,Attacking Midfield,"                0
+0    Right Winger
+1  Centre-Forward",06/05/2002 (23),23,1.85,England,€120.00m,01/09/2023,30/06/2033,30/05/2025,"['England', 'St. Kitts & Nevis']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/cole-palmer/profil/spieler/568177,185.0
+Facundo Buonanotte,983989,Chelsea,Attacking Midfield,"                0
+0    Right Winger
+1  Right Midfield",23/12/2004 (20),20,1.74,Argentina,€20.00m,01/09/2025,30/06/2026,30/05/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/facundo-buonanotte/profil/spieler/983989,174.0
+Jamie Gittens,670882,Chelsea,Left Winger,"              0
+0  Right Winger",08/08/2004 (21),21,1.78,England,€45.00m,05/07/2025,30/06/2032,17/10/2025,"['England', 'Barbados']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jamie-gittens/profil/spieler/670882,178.0
+Alejandro Garnacho,811779,Chelsea,Left Winger,"                    0
+0  Attacking Midfield
+1        Right Winger",01/07/2004 (21),21,1.8,Argentina,€45.00m,30/08/2025,30/06/2032,30/05/2025,"['Spain', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alejandro-garnacho/profil/spieler/811779,180.0
+Tyrique George,936874,Chelsea,Left Winger,"                0
+0    Right Winger
+1  Centre-Forward",04/02/2006 (19),19,1.81,England,€20.00m,18/12/2024,30/06/2027,17/10/2025,"['England', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tyrique-george/profil/spieler/936874,181.0
+Mykhaylo Mudryk,537860,Chelsea,Left Winger,"              0
+0  Right Winger",05/01/2001 (24),24,1.75,Ukraine,,15/01/2023,30/06/2031,,['Ukraine'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mykhaylo-mudryk/profil/spieler/537860,175.0
+Estêvão,1056993,Chelsea,Right Winger,"                    0
+0  Attacking Midfield
+1      Right Midfield",24/04/2007 (18),18,1.76,Brazil,€60.00m,14/07/2025,30/06/2033,06/06/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/estevao/profil/spieler/1056993,176.0
+Pedro Neto,487465,Chelsea,Right Winger,"                0
+0     Left Winger
+1  Centre-Forward",09/03/2000 (25),25,1.74,Portugal,€55.00m,11/08/2024,30/06/2031,17/10/2025,['Portugal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pedro-neto/profil/spieler/487465,174.0
+Raheem Sterling,134425,Chelsea,Right Winger,"                0
+0     Left Winger
+1  Centre-Forward",08/12/1994 (30),30,1.7,England,€7.00m,13/07/2022,30/06/2027,17/10/2025,"['England', 'Jamaica']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/raheem-sterling/profil/spieler/134425,170.0
+João Pedro,626724,Chelsea,Centre-Forward,"                0
+0     Left Winger
+1  Second Striker",26/09/2001 (24),24,1.82,Brazil,€65.00m,02/07/2025,30/06/2033,17/10/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/joao-pedro/profil/spieler/626724,182.0
+Liam Delap,610849,Chelsea,Centre-Forward,"              0
+0  Right Winger",08/02/2003 (22),22,1.86,England,€40.00m,04/06/2025,30/06/2031,30/05/2025,"['England', 'Ireland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/liam-delap/profil/spieler/610849,186.0
+Marc Guiu,938158,Chelsea,Centre-Forward,,04/01/2006 (19),19,1.87,Spain,€8.00m,01/07/2024,30/06/2029,30/05/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marc-guiu/profil/spieler/938158,187.0
+Guglielmo Vicario,286047,Tottenham,Goalkeeper,,07/10/1996 (29),29,1.94,Italy,€32.00m,01/07/2023,30/06/2028,30/05/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/guglielmo-vicario/profil/spieler/286047,194.0
+Antonín Kinský,725912,Tottenham,Goalkeeper,,13/03/2003 (22),22,1.9,Czech Republic,€15.00m,05/01/2025,30/06/2029,30/05/2025,['Czech Republic'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/antonin-kinsky/profil/spieler/725912,190.0
+Brandon Austin,428016,Tottenham,Goalkeeper,,08/01/1999 (26),26,1.88,England,€600k,01/08/2021,30/06/2029,30/05/2025,"['England', 'United States']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/brandon-austin/profil/spieler/428016,188.0
+Cristian Romero,355915,Tottenham,Centre-Back,,27/04/1998 (27),27,1.85,Argentina,€55.00m,30/08/2022,30/06/2029,17/10/2025,['Argentina'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/cristian-romero/profil/spieler/355915,185.0
+Micky van de Ven,557459,Tottenham,Centre-Back,"           0
+0  Left-Back",19/04/2001 (24),24,1.93,Netherlands,€55.00m,08/08/2023,30/06/2029,17/10/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/micky-van-de-ven/profil/spieler/557459,193.0
+Radu Drăgușin,568559,Tottenham,Centre-Back,"            0
+0  Right-Back",03/02/2002 (23),23,1.91,Romania,€25.00m,11/01/2024,30/06/2030,30/05/2025,['Romania'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/radu-dragusin/profil/spieler/568559,191.0
+Kevin Danso,263236,Tottenham,Centre-Back,,19/09/1998 (27),27,1.9,Austria,€25.00m,01/07/2025,30/06/2030,30/05/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kevin-danso/profil/spieler/263236,190.0
+Ben Davies,192765,Tottenham,Centre-Back,"           0
+0  Left-Back",24/04/1993 (32),32,1.81,Wales,€6.00m,23/07/2014,30/06/2026,30/05/2025,['Wales'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ben-davies/profil/spieler/192765,181.0
+Kota Takai,671108,Tottenham,Centre-Back,,04/09/2004 (21),21,1.92,Japan,€5.00m,08/07/2025,30/06/2030,17/10/2025,['Japan'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kota-takai/profil/spieler/671108,192.0
+Destiny Udogie,556385,Tottenham,Left-Back,"               0
+0  Left Midfield",28/11/2002 (22),22,1.88,Italy,€40.00m,16/08/2022,30/06/2030,30/05/2025,"['Italy', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/destiny-udogie/profil/spieler/556385,188.0
+Djed Spence,483348,Tottenham,Left-Back,"                0
+0      Right-Back
+1  Right Midfield",09/08/2000 (25),25,1.84,England,€30.00m,19/07/2022,30/06/2029,17/10/2025,"['England', 'Jamaica']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/djed-spence/profil/spieler/483348,184.0
+Pedro Porro,553875,Tottenham,Right-Back,"                0
+0  Right Midfield",13/09/1999 (26),26,1.73,Spain,€40.00m,01/07/2023,30/06/2028,17/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pedro-porro/profil/spieler/553875,173.0
+João Palhinha,257455,Tottenham,Defensive Midfield,,09/07/1995 (30),30,1.9,Portugal,€30.00m,03/08/2025,30/06/2026,05/06/2025,['Portugal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/joao-palhinha/profil/spieler/257455,190.0
+Yves Bissouma,410425,Tottenham,Defensive Midfield,"                  0
+0  Central Midfield",30/08/1996 (29),29,1.82,Mali,€20.00m,01/07/2022,30/06/2026,17/10/2025,"[""Cote d'Ivoire"", 'Mali']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yves-bissouma/profil/spieler/410425,182.0
+Lucas Bergvall,866246,Tottenham,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",02/02/2006 (19),19,1.87,Sweden,€40.00m,01/07/2024,30/06/2031,17/10/2025,['Sweden'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lucas-bergvall/profil/spieler/866246,187.0
+Archie Gray,922693,Tottenham,Central Midfield,"             0
+0   Right-Back
+1  Centre-Back",12/03/2006 (19),19,1.87,England,€35.00m,02/07/2024,30/06/2030,17/10/2025,"['England', 'Scotland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/archie-gray/profil/spieler/922693,187.0
+Pape Matar Sarr,568693,Tottenham,Central Midfield,"                    0
+0  Defensive Midfield",14/09/2002 (23),23,1.84,Senegal,€35.00m,27/08/2021,30/06/2030,17/10/2025,['Senegal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pape-matar-sarr/profil/spieler/568693,184.0
+Rodrigo Bentancur,354362,Tottenham,Central Midfield,"                    0
+0  Defensive Midfield",25/06/1997 (28),28,1.87,Uruguay,€30.00m,31/01/2022,-,30/05/2025,['Uruguay'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rodrigo-bentancur/profil/spieler/354362,187.0
+Xavi Simons,566931,Tottenham,Attacking Midfield,"              0
+0   Left Winger
+1  Right Winger",21/04/2003 (22),22,1.79,Netherlands,€70.00m,29/08/2025,30/06/2030,05/06/2025,"['Netherlands', 'Suriname']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/xavi-simons/profil/spieler/566931,179.0
+Dejan Kulusevski,431755,Tottenham,Attacking Midfield,"                  0
+0      Right Winger
+1  Central Midfield",25/04/2000 (25),25,1.86,Sweden,€50.00m,01/07/2023,30/06/2028,30/05/2025,"['North Macedonia', 'Sweden']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dejan-kulusevski/profil/spieler/431755,186.0
+James Maddison,294057,Tottenham,Attacking Midfield,"                  0
+0  Central Midfield",23/11/1996 (29),29,1.75,England,€35.00m,01/07/2023,30/06/2028,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/james-maddison/profil/spieler/294057,175.0
+Wilson Odobert,743498,Tottenham,Left Winger,"              0
+0  Right Winger",28/11/2004 (20),20,1.82,France,€20.00m,16/08/2024,30/06/2029,30/05/2025,"['France', 'Martinique']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/wilson-odobert/profil/spieler/743498,182.0
+Mohammed Kudus,543499,Tottenham,Right Winger,"                    0
+0  Attacking Midfield
+1         Left Winger",02/08/2000 (25),25,1.77,Ghana,€55.00m,10/07/2025,30/06/2031,17/10/2025,['Ghana'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mohammed-kudus/profil/spieler/543499,177.0
+Brennan Johnson,470607,Tottenham,Right Winger,"                0
+0     Left Winger
+1  Centre-Forward",23/05/2001 (24),24,1.86,Wales,€40.00m,01/09/2023,30/06/2028,30/05/2025,"['England', 'Wales']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/brennan-johnson/profil/spieler/470607,186.0
+Dominic Solanke,258889,Tottenham,Centre-Forward,,14/09/1997 (28),28,1.86,England,€40.00m,10/08/2024,30/06/2030,30/05/2025,"['England', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dominic-solanke/profil/spieler/258889,186.0
+Mathys Tel,801734,Tottenham,Centre-Forward,"              0
+0  Right Winger
+1   Left Winger",27/04/2005 (20),20,1.83,France,€35.00m,01/07/2025,30/06/2031,30/05/2025,"['France', 'Guadeloupe']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mathys-tel/profil/spieler/801734,183.0
+Randal Kolo Muani,487969,Tottenham,Centre-Forward,"              0
+0  Right Winger
+1   Left Winger",05/12/1998 (26),26,1.87,France,€30.00m,01/09/2025,30/06/2026,17/06/2025,"['France', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/randal-kolo-muani/profil/spieler/487969,187.0
+Richarlison,378710,Tottenham,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",10/05/1997 (28),28,1.84,Brazil,€25.00m,01/07/2022,30/06/2027,17/10/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/richarlison/profil/spieler/378710,184.0
+Dane Scarlett,670883,Tottenham,Centre-Forward,"             0
+0  Left Winger",24/03/2004 (21),21,1.8,England,€2.00m,01/07/2023,30/06/2027,30/05/2025,"['England', 'Jamaica']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dane-scarlett/profil/spieler/670883,180.0
+Aaron Ramsdale,427568,Newcastle,Goalkeeper,,14/05/1998 (27),27,1.9,England,€14.00m,02/08/2025,30/06/2026,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/aaron-ramsdale/profil/spieler/427568,190.0
+Nick Pope,192080,Newcastle,Goalkeeper,,19/04/1992 (33),33,1.98,England,€8.00m,01/07/2022,30/06/2026,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nick-pope/profil/spieler/192080,198.0
+Max Thompson,660768,Newcastle,Goalkeeper,,01/08/2004 (21),21,1.88,England,€275k,01/07/2025,30/06/2026,30/06/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/max-thompson/profil/spieler/660768,188.0
+Mark Gillespie,142389,Newcastle,Goalkeeper,,27/03/1992 (33),33,1.91,England,€200k,03/07/2020,30/06/2026,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mark-gillespie/profil/spieler/142389,191.0
+John Ruddy,29712,Newcastle,Goalkeeper,,24/10/1986 (39),39,1.92,England,€150k,01/07/2024,-,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/john-ruddy/profil/spieler/29712,192.0
+Sven Botman,361093,Newcastle,Centre-Back,,12/01/2000 (25),25,1.93,Netherlands,€40.00m,01/07/2022,30/06/2027,17/10/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sven-botman/profil/spieler/361093,193.0
+Malick Thiaw,521964,Newcastle,Centre-Back,"                    0
+0  Defensive Midfield",08/08/2001 (24),24,1.94,Germany,€30.00m,12/08/2025,-,17/10/2025,"['Germany', 'Finland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/malick-thiaw/profil/spieler/521964,194.0
+Fabian Schär,135343,Newcastle,Centre-Back,,20/12/1991 (33),33,1.86,Switzerland,€7.00m,26/07/2018,30/06/2026,30/05/2025,['Switzerland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/fabian-schar/profil/spieler/135343,186.0
+Dan Burn,134270,Newcastle,Centre-Back,"           0
+0  Left-Back",09/05/1992 (33),33,2.01,England,€6.00m,31/01/2022,30/06/2027,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dan-burn/profil/spieler/134270,201.0
+Jamaal Lascelles,183318,Newcastle,Centre-Back,,11/11/1993 (32),32,1.88,England,€3.50m,09/08/2014,30/06/2026,17/10/2025,"['England', 'Barbados']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jamaal-lascelles/profil/spieler/183318,188.0
+Lewis Hall,670858,Newcastle,Left-Back,"                  0
+0     Left Midfield
+1  Central Midfield",08/09/2004 (21),21,1.79,England,€32.00m,01/07/2024,-,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lewis-hall/profil/spieler/670858,179.0
+Alex Murphy,900601,Newcastle,Left-Back,"               0
+0    Centre-Back
+1  Left Midfield",25/06/2004 (21),21,1.88,Ireland,€300k,01/07/2025,30/06/2028,18/06/2025,['Ireland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alex-murphy/profil/spieler/900601,188.0
+Tino Livramento,503981,Newcastle,Right-Back,"                0
+0       Left-Back
+1  Right Midfield",12/11/2002 (23),23,1.82,England,€40.00m,08/08/2023,30/06/2028,30/05/2025,"['England', 'Scotland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tino-livramento/profil/spieler/503981,182.0
+Kieran Trippier,95810,Newcastle,Right-Back,"                0
+0  Right Midfield",19/09/1990 (35),35,1.73,England,€4.00m,07/01/2022,30/06/2026,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kieran-trippier/profil/spieler/95810,173.0
+Emil Krafth,184528,Newcastle,Right-Back,"             0
+0  Centre-Back",02/08/1994 (31),31,1.84,Sweden,€2.00m,08/08/2019,30/06/2026,30/05/2025,['Sweden'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/emil-krafth/profil/spieler/184528,184.0
+Harrison Ashby,559130,Newcastle,Right-Back,"                0
+0  Right Midfield",14/11/2001 (24),24,1.79,Scotland,€1.40m,01/07/2025,-,27/05/2025,"['England', 'Scotland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/harrison-ashby/profil/spieler/559130,179.0
+Sandro Tonali,397033,Newcastle,Defensive Midfield,"                  0
+0  Central Midfield",08/05/2000 (25),25,1.81,Italy,€75.00m,03/07/2023,30/06/2028,17/10/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sandro-tonali/profil/spieler/397033,181.0
+Bruno Guimarães,520624,Newcastle,Central Midfield,"                    0
+0  Defensive Midfield",16/11/1997 (28),28,1.82,Brazil,€80.00m,30/01/2022,30/06/2028,30/05/2025,"['Spain', 'Brazil']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/bruno-guimaraes/profil/spieler/520624,182.0
+Jacob Ramsey,503749,Newcastle,Central Midfield,"                    0
+0  Attacking Midfield
+1       Left Midfield",28/05/2001 (24),24,1.8,England,€40.00m,17/08/2025,-,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jacob-ramsey/profil/spieler/503749,180.0
+Joelinton,333241,Newcastle,Central Midfield,"                    0
+0  Attacking Midfield
+1         Left Winger",14/08/1996 (29),29,1.86,Brazil,€35.00m,23/07/2019,30/06/2028,30/05/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/joelinton/profil/spieler/333241,186.0
+Lewis Miley,922769,Newcastle,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",01/05/2006 (19),19,1.89,England,€22.00m,01/07/2023,30/06/2029,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lewis-miley/profil/spieler/922769,189.0
+Joe Willock,340329,Newcastle,Central Midfield,"                    0
+0  Attacking Midfield
+1      Right Midfield",20/08/1999 (26),26,1.86,England,€18.00m,13/08/2021,30/06/2027,17/10/2025,"['England', 'Montserrat']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/joe-willock/profil/spieler/340329,186.0
+Anthony Gordon,503733,Newcastle,Left Winger,"                0
+0    Right Winger
+1  Centre-Forward",24/02/2001 (24),24,1.83,England,€65.00m,29/01/2023,-,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/anthony-gordon/profil/spieler/503733,183.0
+Harvey Barnes,398065,Newcastle,Left Winger,"                    0
+0       Left Midfield
+1  Attacking Midfield",09/12/1997 (27),27,1.82,England,€35.00m,23/07/2023,30/06/2028,30/05/2025,"['England', 'Scotland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/harvey-barnes/profil/spieler/398065,182.0
+Anthony Elanga,583189,Newcastle,Right Winger,"                0
+0     Left Winger
+1  Centre-Forward",27/04/2002 (23),23,1.78,Sweden,€55.00m,11/07/2025,-,17/10/2025,"['Cameroon', 'Sweden']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/anthony-elanga/profil/spieler/583189,178.0
+Jacob Murphy,199527,Newcastle,Right Winger,"                0
+0     Left Winger
+1  Right Midfield",24/02/1995 (30),30,1.79,England,€16.00m,19/07/2017,30/06/2027,30/05/2025,"['England', 'Ireland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jacob-murphy/profil/spieler/199527,179.0
+Nick Woltemade,455661,Newcastle,Centre-Forward,"                0
+0  Second Striker",14/02/2002 (23),23,1.98,Germany,€65.00m,30/08/2025,01/07/2031,17/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nick-woltemade/profil/spieler/455661,198.0
+Yoane Wissa,388165,Newcastle,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",03/09/1996 (29),29,1.76,DR Congo,€42.00m,01/09/2025,-,17/10/2025,"['France', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yoane-wissa/profil/spieler/388165,176.0
+William Osula,609556,Newcastle,Centre-Forward,,04/08/2003 (22),22,1.91,Denmark,€15.00m,08/08/2024,30/06/2029,17/10/2025,"['England', 'Denmark']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/william-osula/profil/spieler/609556,191.0
+Senne Lammens,503883,Man Utd,Goalkeeper,,07/07/2002 (23),23,1.93,Belgium,€20.00m,01/09/2025,30/06/2030,17/10/2025,['Belgium'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/senne-lammens/profil/spieler/503883,193.0
+Altay Bayındır,336077,Man Utd,Goalkeeper,,14/04/1998 (27),27,1.98,Türkiye,€8.00m,01/09/2023,30/06/2027,30/05/2025,['Türkiye'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/altay-bayindir/profil/spieler/336077,198.0
+Tom Heaton,34130,Man Utd,Goalkeeper,,15/04/1986 (39),39,1.88,England,€200k,02/07/2021,30/06/2026,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tom-heaton/profil/spieler/34130,188.0
+Leny Yoro,923831,Man Utd,Centre-Back,,13/11/2005 (20),20,1.9,France,€55.00m,18/07/2024,30/06/2029,30/05/2025,"['France', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/leny-yoro/profil/spieler/923831,190.0
+Matthijs de Ligt,326031,Man Utd,Centre-Back,,12/08/1999 (26),26,1.89,Netherlands,€38.00m,13/08/2024,30/06/2029,30/05/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/matthijs-de-ligt/profil/spieler/326031,189.0
+Lisandro Martínez,480762,Man Utd,Centre-Back,"                    0
+0  Defensive Midfield
+1           Left-Back",18/01/1998 (27),27,1.75,Argentina,€35.00m,27/07/2022,30/06/2027,17/10/2025,['Argentina'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lisandro-martinez/profil/spieler/480762,175.0
+Harry Maguire,177907,Man Utd,Centre-Back,,05/03/1993 (32),32,1.94,England,€13.00m,05/08/2019,30/06/2026,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/harry-maguire/profil/spieler/177907,194.0
+Ayden Heaven,1078163,Man Utd,Centre-Back,"           0
+0  Left-Back",22/09/2006 (19),19,1.89,England,€10.00m,01/02/2025,30/06/2029,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ayden-heaven/profil/spieler/1078163,189.0
+Tyler Fredricson,911424,Man Utd,Centre-Back,,23/02/2005 (20),20,1.88,England,€3.00m,01/07/2025,-,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tyler-fredricson/profil/spieler/911424,188.0
+Patrick Dorgu,926952,Man Utd,Left-Back,"                0
+0   Left Midfield
+1  Right Midfield",26/10/2004 (21),21,1.85,Denmark,€25.00m,02/02/2025,30/06/2030,30/05/2025,"['Denmark', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/patrick-dorgu/profil/spieler/926952,185.0
+Luke Shaw,183288,Man Utd,Left-Back,"               0
+0    Centre-Back
+1  Left Midfield",12/07/1995 (30),30,1.78,England,€12.00m,01/07/2014,30/06/2027,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luke-shaw/profil/spieler/183288,178.0
+Tyrell Malacia,339340,Man Utd,Left-Back,"               0
+0  Left Midfield",17/08/1999 (26),26,1.69,Netherlands,€8.00m,05/07/2022,30/06/2026,28/05/2025,"['Curacao', 'Netherlands']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tyrell-malacia/profil/spieler/339340,169.0
+Diego León,1283997,Man Utd,Left-Back,"               0
+0  Left Midfield",03/04/2007 (18),18,1.77,Paraguay,€4.00m,05/07/2025,-,13/05/2025,['Paraguay'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/diego-leon/profil/spieler/1283997,177.0
+Diogo Dalot,357147,Man Utd,Right-Back,"                0
+0       Left-Back
+1  Right Midfield",18/03/1999 (26),26,1.83,Portugal,€28.00m,01/07/2018,30/06/2028,17/10/2025,['Portugal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/diogo-dalot/profil/spieler/357147,183.0
+Noussair Mazraoui,340456,Man Utd,Right-Back,"             0
+0  Centre-Back
+1    Left-Back",14/11/1997 (28),28,1.83,Morocco,€25.00m,13/08/2024,30/06/2028,30/05/2025,"['Netherlands', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/noussair-mazraoui/profil/spieler/340456,183.0
+Manuel Ugarte,476701,Man Utd,Defensive Midfield,"                  0
+0  Central Midfield",11/04/2001 (24),24,1.82,Uruguay,€35.00m,30/08/2024,30/06/2029,17/10/2025,['Uruguay'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/manuel-ugarte/profil/spieler/476701,182.0
+Casemiro,16306,Man Utd,Defensive Midfield,"                  0
+0       Centre-Back
+1  Central Midfield",23/02/1992 (33),33,1.85,Brazil,€10.00m,22/08/2022,30/06/2026,30/05/2025,"['Spain', 'Brazil']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/casemiro/profil/spieler/16306,185.0
+Kobbie Mainoo,820374,Man Utd,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",19/04/2005 (20),20,1.8,England,€45.00m,01/01/2023,30/06/2027,17/10/2025,"['England', 'Ghana']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kobbie-mainoo/profil/spieler/820374,180.0
+Bruno Fernandes,240306,Man Utd,Attacking Midfield,"                  0
+0  Central Midfield
+1    Second Striker",08/09/1994 (31),31,1.79,Portugal,€45.00m,29/01/2020,30/06/2027,17/10/2025,['Portugal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/bruno-fernandes/profil/spieler/240306,179.0
+Mason Mount,346483,Man Utd,Attacking Midfield,"                  0
+0  Central Midfield
+1     Left Midfield",10/01/1999 (26),26,1.81,England,€28.00m,05/07/2023,30/06/2028,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mason-mount/profil/spieler/346483,181.0
+Bryan Mbeumo,413039,Man Utd,Right Winger,"                0
+0  Second Striker
+1  Centre-Forward",07/08/1999 (26),26,1.71,Cameroon,€70.00m,21/07/2025,30/06/2030,17/10/2025,"['France', 'Cameroon']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/bryan-mbeumo/profil/spieler/413039,171.0
+Amad Diallo,536835,Man Utd,Right Winger,"                    0
+0      Right Midfield
+1  Attacking Midfield",11/07/2002 (23),23,1.73,Cote d'Ivoire,€40.00m,02/01/2021,30/06/2030,17/10/2025,"['Italy', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/amad-diallo/profil/spieler/536835,173.0
+Matheus Cunha,517894,Man Utd,Second Striker,"                0
+0  Centre-Forward
+1     Left Winger",27/05/1999 (26),26,1.83,Brazil,€70.00m,01/07/2025,30/06/2030,17/10/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/matheus-cunha/profil/spieler/517894,183.0
+Benjamin Sesko,627442,Man Utd,Centre-Forward,,31/05/2003 (22),22,1.95,Slovenia,€70.00m,09/08/2025,30/06/2030,05/06/2025,['Slovenia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/benjamin-sesko/profil/spieler/627442,195.0
+Joshua Zirkzee,435648,Man Utd,Centre-Forward,"                0
+0  Second Striker",22/05/2001 (24),24,1.93,Netherlands,€28.00m,14/07/2024,30/06/2029,17/10/2025,"['Netherlands', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/joshua-zirkzee/profil/spieler/435648,193.0
+Chido Obi,1042886,Man Utd,Centre-Forward,,29/11/2007 (17),17,1.88,Denmark,€5.00m,01/07/2025,-,30/05/2025,"['Denmark', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/chido-obi/profil/spieler/1042886,188.0
+John Victor,432914,Nott'm Forest,Goalkeeper,,13/02/1996 (29),29,1.97,Brazil,€8.00m,31/08/2025,30/06/2028,06/06/2025,"['Portugal', 'Brazil']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/john-victor/profil/spieler/432914,197.0
+Matz Sels,127202,Nott'm Forest,Goalkeeper,,26/02/1992 (33),33,1.88,Belgium,€7.00m,01/02/2024,30/06/2027,30/05/2025,['Belgium'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/matz-sels/profil/spieler/127202,188.0
+Angus Gunn,201574,Nott'm Forest,Goalkeeper,,22/01/1996 (29),29,1.96,Scotland,€2.20m,06/08/2025,30/06/2026,27/05/2025,"['England', 'Scotland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/angus-gunn/profil/spieler/201574,196.0
+Murillo,1005649,Nott'm Forest,Centre-Back,,04/07/2002 (23),23,1.8,Brazil,€55.00m,31/08/2023,30/06/2029,30/05/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/murillo/profil/spieler/1005649,180.0
+Nikola Milenković,413507,Nott'm Forest,Centre-Back,"            0
+0  Right-Back",12/10/1997 (28),28,1.95,Serbia,€35.00m,18/07/2024,30/06/2029,30/05/2025,"['Yugoslavia (Republic)', 'Serbia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nikola-milenkovic/profil/spieler/413507,195.0
+Morato,673492,Nott'm Forest,Centre-Back,"           0
+0  Left-Back",30/06/2001 (24),24,1.92,Brazil,€14.00m,30/08/2024,30/06/2029,30/05/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/morato/profil/spieler/673492,192.0
+Jair Cunha,984096,Nott'm Forest,Centre-Back,,07/03/2005 (20),20,1.98,Brazil,€13.00m,11/07/2025,30/06/2030,06/06/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jair-cunha/profil/spieler/984096,198.0
+Willy Boly,142310,Nott'm Forest,Centre-Back,,03/02/1991 (34),34,1.95,Cote d'Ivoire,€1.20m,01/09/2022,30/06/2026,17/10/2025,"['France', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/willy-boly/profil/spieler/142310,195.0
+Zach Abbott,933017,Nott'm Forest,Centre-Back,"            0
+0  Right-Back
+1   Left-Back",13/05/2006 (19),19,1.8,England,€300k,01/07/2025,30/06/2029,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/zach-abbott/profil/spieler/933017,180.0
+Neco Williams,503680,Nott'm Forest,Left-Back,"            0
+0  Right-Back",13/04/2001 (24),24,1.83,Wales,€24.00m,10/07/2022,30/06/2029,17/10/2025,['Wales'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/neco-williams/profil/spieler/503680,183.0
+Oleksandr Zinchenko,203853,Nott'm Forest,Left-Back,"                  0
+0     Left Midfield
+1  Central Midfield",15/12/1996 (28),28,1.75,Ukraine,€18.00m,01/09/2025,30/06/2026,17/10/2025,['Ukraine'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/oleksandr-zinchenko/profil/spieler/203853,175.0
+Ola Aina,236490,Nott'm Forest,Right-Back,"                0
+0       Left-Back
+1  Right Midfield",08/10/1996 (29),29,1.84,Nigeria,€22.00m,22/07/2023,30/06/2028,30/05/2025,"['England', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ola-aina/profil/spieler/236490,184.0
+Nicolò Savona,708072,Nott'm Forest,Right-Back,"                0
+0     Centre-Back
+1  Right Midfield",19/03/2003 (22),22,1.92,Italy,€12.00m,30/08/2025,30/06/2030,17/06/2025,['Italy'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nicolo-savona/profil/spieler/708072,192.0
+Ibrahim Sangaré,375885,Nott'm Forest,Defensive Midfield,"                  0
+0  Central Midfield",02/12/1997 (27),27,1.91,Cote d'Ivoire,€24.00m,01/09/2023,30/06/2028,30/05/2025,"[""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ibrahim-sangare/profil/spieler/375885,191.0
+Elliot Anderson,567576,Nott'm Forest,Central Midfield,"                    0
+0  Attacking Midfield
+1       Left Midfield",06/11/2002 (23),23,1.79,England,€45.00m,01/07/2024,30/06/2029,17/10/2025,"['England', 'Scotland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/elliot-anderson/profil/spieler/567576,179.0
+Douglas Luiz,447661,Nott'm Forest,Central Midfield,"                    0
+0  Defensive Midfield",09/05/1998 (27),27,1.77,Brazil,€30.00m,21/08/2025,30/06/2026,17/06/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/douglas-luiz/profil/spieler/447661,177.0
+Nicolás Domínguez,497291,Nott'm Forest,Central Midfield,"                    0
+0  Defensive Midfield",28/06/1998 (27),27,1.79,Argentina,€18.00m,01/09/2023,30/06/2028,30/05/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nicolas-dominguez/profil/spieler/497291,179.0
+Ryan Yates,425902,Nott'm Forest,Central Midfield,"                    0
+0  Defensive Midfield",21/11/1997 (28),28,1.9,England,€12.00m,01/07/2016,30/06/2028,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ryan-yates/profil/spieler/425902,190.0
+Morgan Gibbs-White,429014,Nott'm Forest,Attacking Midfield,"                  0
+0  Central Midfield
+1      Right Winger",27/01/2000 (25),25,1.71,England,€65.00m,19/08/2022,30/06/2028,17/10/2025,"['England', 'Jamaica']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/morgan-gibbs-white/profil/spieler/429014,171.0
+Omari Hutchinson,741238,Nott'm Forest,Attacking Midfield,"              0
+0  Right Winger
+1   Left Winger",30/10/2003 (22),22,1.74,England,€35.00m,16/08/2025,30/06/2030,17/10/2025,"['England', 'Jamaica']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/omari-hutchinson/profil/spieler/741238,174.0
+James McAtee,583199,Nott'm Forest,Attacking Midfield,"                  0
+0  Central Midfield
+1      Right Winger",18/10/2002 (23),23,1.8,England,€25.00m,16/08/2025,30/06/2030,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/james-mcatee/profil/spieler/583199,180.0
+Callum Hudson-Odoi,392768,Nott'm Forest,Left Winger,"                    0
+0        Right Winger
+1  Attacking Midfield",07/11/2000 (25),25,1.78,England,€30.00m,01/09/2023,30/06/2028,17/10/2025,"['England', 'Ghana']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/callum-hudson-odoi/profil/spieler/392768,178.0
+Dan Ndoye,365108,Nott'm Forest,Right Winger,"                0
+0  Right Midfield
+1     Left Winger",25/10/2000 (25),25,1.84,Switzerland,€40.00m,31/07/2025,30/06/2030,17/10/2025,"['Senegal', 'Switzerland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dan-ndoye/profil/spieler/365108,184.0
+Dilane Bakwa,540664,Nott'm Forest,Right Winger,"                0
+0  Right Midfield
+1     Left Winger",26/08/2002 (23),23,1.8,France,€35.00m,01/09/2025,30/06/2030,17/10/2025,"['France', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dilane-bakwa/profil/spieler/540664,180.0
+Arnaud Kalimuendo,585959,Nott'm Forest,Centre-Forward,,20/01/2002 (23),23,1.75,France,€30.00m,18/08/2025,30/06/2030,17/10/2025,"['France', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/arnaud-kalimuendo/profil/spieler/585959,175.0
+Igor Jesus,432164,Nott'm Forest,Centre-Forward,,25/02/2001 (24),24,1.79,Brazil,€20.00m,05/07/2025,30/06/2029,17/10/2025,"['Brazil', 'United Arab Emirates']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/igor-jesus/profil/spieler/432164,179.0
+Taiwo Awoniyi,295313,Nott'm Forest,Centre-Forward,,12/08/1997 (28),28,1.83,Nigeria,€14.00m,01/07/2022,30/06/2027,17/10/2025,['Nigeria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/taiwo-awoniyi/profil/spieler/295313,183.0
+Chris Wood,108725,Nott'm Forest,Centre-Forward,,07/12/1991 (33),33,1.91,New Zealand,€10.00m,01/07/2023,30/06/2027,30/05/2025,['New Zealand'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/chris-wood/profil/spieler/108725,191.0
+Emiliano Martínez,111873,Aston Villa,Goalkeeper,,02/09/1992 (33),33,1.95,Argentina,€16.00m,16/09/2020,30/06/2029,17/10/2025,"['Spain', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/emiliano-martinez/profil/spieler/111873,195.0
+Marco Bizot,124884,Aston Villa,Goalkeeper,,10/03/1991 (34),34,1.93,Netherlands,€3.00m,15/07/2025,30/06/2027,03/06/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marco-bizot/profil/spieler/124884,193.0
+Ezri Konsa,413403,Aston Villa,Centre-Back,"            0
+0  Right-Back",23/10/1997 (28),28,1.83,England,€35.00m,11/07/2019,30/06/2028,30/05/2025,"['England', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ezri-konsa/profil/spieler/413403,183.0
+Pau Torres,399776,Aston Villa,Centre-Back,,16/01/1997 (28),28,1.92,Spain,€30.00m,12/07/2023,30/06/2028,17/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pau-torres/profil/spieler/399776,192.0
+Victor Lindelöf,184573,Aston Villa,Centre-Back,"            0
+0  Right-Back
+1   Left-Back",17/07/1994 (31),31,1.87,Sweden,€8.00m,01/09/2025,30/06/2027,30/05/2025,['Sweden'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/victor-lindelof/profil/spieler/184573,187.0
+Tyrone Mings,253677,Aston Villa,Centre-Back,"           0
+0  Left-Back",13/03/1993 (32),32,1.96,England,€5.00m,08/07/2019,30/06/2027,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tyrone-mings/profil/spieler/253677,196.0
+Ian Maatsen,485585,Aston Villa,Left-Back,"               0
+0  Left Midfield",10/03/2002 (23),23,1.78,Netherlands,€25.00m,01/07/2024,30/06/2030,17/10/2025,"['Netherlands', 'Suriname']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ian-maatsen/profil/spieler/485585,178.0
+Lucas Digne,126664,Aston Villa,Left-Back,"               0
+0  Left Midfield",20/07/1993 (32),32,1.78,France,€10.00m,13/01/2022,30/06/2028,30/05/2025,['France'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lucas-digne/profil/spieler/126664,178.0
+Matty Cash,425334,Aston Villa,Right-Back,"                  0
+0    Right Midfield
+1  Central Midfield",07/08/1997 (28),28,1.85,Poland,€25.00m,03/09/2020,30/06/2029,30/05/2025,"['England', 'Poland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/matty-cash/profil/spieler/425334,185.0
+Andrés García,1063329,Aston Villa,Right-Back,"                0
+0  Right Midfield",07/02/2003 (22),22,1.85,Spain,€7.00m,21/01/2025,-,30/05/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/andres-garcia/profil/spieler/1063329,185.0
+Amadou Onana,485706,Aston Villa,Defensive Midfield,"                  0
+0  Central Midfield",16/08/2001 (24),24,1.95,Belgium,€42.00m,22/07/2024,30/06/2029,17/10/2025,"['Senegal', 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/amadou-onana/profil/spieler/485706,195.0
+Boubacar Kamara,394327,Aston Villa,Defensive Midfield,"                  0
+0       Centre-Back
+1  Central Midfield",23/11/1999 (26),26,1.84,France,€40.00m,01/07/2022,30/06/2030,30/05/2025,"['France', 'Senegal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/boubacar-kamara/profil/spieler/394327,184.0
+Lamare Bogarde,645686,Aston Villa,Defensive Midfield,"             0
+0  Centre-Back
+1   Right-Back",05/01/2004 (21),21,1.85,Netherlands,€10.00m,01/07/2024,-,17/10/2025,"['Netherlands', 'Suriname']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lamare-bogarde/profil/spieler/645686,185.0
+Youri Tielemans,249565,Aston Villa,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",07/05/1997 (28),28,1.77,Belgium,€38.00m,01/07/2023,30/06/2027,30/05/2025,"['DR Congo', 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/youri-tielemans/profil/spieler/249565,177.0
+John McGinn,193116,Aston Villa,Central Midfield,"                0
+0   Left Midfield
+1  Right Midfield",18/10/1994 (31),31,1.78,Scotland,€16.00m,08/08/2018,30/06/2028,30/05/2025,['Scotland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/john-mcginn/profil/spieler/193116,178.0
+Ross Barkley,131978,Aston Villa,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",05/12/1993 (31),31,1.89,England,€6.00m,01/07/2024,30/06/2026,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ross-barkley/profil/spieler/131978,189.0
+Morgan Rogers,503743,Aston Villa,Attacking Midfield,"              0
+0  Right Winger
+1   Left Winger",26/07/2002 (23),23,1.87,England,€65.00m,01/02/2024,30/06/2031,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/morgan-rogers/profil/spieler/503743,187.0
+Harvey Elliott,565822,Aston Villa,Attacking Midfield,"                  0
+0  Central Midfield
+1      Right Winger",04/04/2003 (22),22,1.7,England,€35.00m,01/09/2025,30/06/2026,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/harvey-elliott/profil/spieler/565822,170.0
+Emiliano Buendía,321247,Aston Villa,Attacking Midfield,"              0
+0  Right Winger
+1   Left Winger",25/12/1996 (28),28,1.72,Argentina,€15.00m,01/07/2021,30/06/2027,05/06/2025,"['Spain', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/emiliano-buendia/profil/spieler/321247,172.0
+Jadon Sancho,401173,Aston Villa,Left Winger,"              0
+0  Right Winger",25/03/2000 (25),25,1.8,England,€25.00m,01/09/2025,30/06/2026,17/10/2025,"['England', 'Jamaica']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jadon-sancho/profil/spieler/401173,180.0
+Evann Guessand,500689,Aston Villa,Right Winger,"                0
+0  Centre-Forward
+1     Left Winger",01/07/2001 (24),24,1.88,Cote d'Ivoire,€30.00m,08/08/2025,-,17/10/2025,"['France', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/evann-guessand/profil/spieler/500689,188.0
+Donyell Malen,326029,Aston Villa,Right Winger,"                0
+0  Centre-Forward
+1     Left Winger",19/01/1999 (26),26,1.76,Netherlands,€25.00m,14/01/2025,-,30/05/2025,"['Netherlands', 'Suriname']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/donyell-malen/profil/spieler/326029,176.0
+Ollie Watkins,324358,Aston Villa,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",30/12/1995 (29),29,1.8,England,€35.00m,09/09/2020,30/06/2028,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ollie-watkins/profil/spieler/324358,180.0
+Bart Verbruggen,565093,Brighton,Goalkeeper,,18/08/2002 (23),23,1.94,Netherlands,€35.00m,03/07/2023,30/06/2028,17/10/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/bart-verbruggen/profil/spieler/565093,194.0
+Jason Steele,73564,Brighton,Goalkeeper,,18/08/1990 (35),35,1.88,England,€1.00m,01/07/2018,30/06/2027,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jason-steele/profil/spieler/73564,188.0
+Tom McGill,406556,Brighton,Goalkeeper,,25/03/2000 (25),25,1.85,Canada,€600k,29/07/2022,30/06/2027,30/05/2025,"['England', 'Canada']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tom-mcgill/profil/spieler/406556,185.0
+Jan Paul van Hecke,576314,Brighton,Centre-Back,,08/06/2000 (25),25,1.89,Netherlands,€35.00m,10/09/2020,30/06/2027,17/10/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jan-paul-van-hecke/profil/spieler/576314,189.0
+Olivier Boscagli,318508,Brighton,Centre-Back,"                    0
+0           Left-Back
+1  Defensive Midfield",18/11/1997 (28),28,1.81,France,€20.00m,02/07/2025,30/06/2030,28/05/2025,"['France', 'Monaco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/olivier-boscagli/profil/spieler/318508,181.0
+Diego Coppola,660860,Brighton,Centre-Back,,28/12/2003 (21),21,1.93,Italy,€10.00m,01/07/2025,30/06/2030,17/06/2025,"['Italy', 'Netherlands']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/diego-coppola/profil/spieler/660860,193.0
+Adam Webster,212847,Brighton,Centre-Back,"            0
+0  Right-Back",04/01/1995 (30),30,1.9,England,€9.00m,03/08/2019,30/06/2026,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adam-webster/profil/spieler/212847,190.0
+Lewis Dunk,148153,Brighton,Centre-Back,,21/11/1991 (34),34,1.92,England,€6.00m,30/04/2010,30/06/2026,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lewis-dunk/profil/spieler/148153,192.0
+Ferdi Kadıoğlu,369316,Brighton,Left-Back,"                  0
+0        Right-Back
+1  Central Midfield",07/10/1999 (26),26,1.74,Türkiye,€25.00m,24/08/2024,30/06/2028,30/05/2025,"['Türkiye', 'Netherlands']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ferdi-kadioglu/profil/spieler/369316,174.0
+Maxim De Cuyper,429915,Brighton,Left-Back,"               0
+0  Left Midfield
+1    Left Winger",22/12/2000 (24),24,1.82,Belgium,€20.00m,05/07/2025,30/06/2030,17/10/2025,['Belgium'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/maxim-de-cuyper/profil/spieler/429915,182.0
+Joël Veltman,111195,Brighton,Right-Back,"             0
+0  Centre-Back",15/01/1992 (33),33,1.84,Netherlands,€4.00m,29/07/2020,30/06/2026,30/05/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/joel-veltman/profil/spieler/111195,184.0
+Carlos Baleba,973085,Brighton,Defensive Midfield,"                  0
+0  Central Midfield",03/01/2004 (21),21,1.79,Cameroon,€60.00m,29/08/2023,30/06/2028,17/10/2025,['Cameroon'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/carlos-baleba/profil/spieler/973085,179.0
+Mats Wieffer,415381,Brighton,Defensive Midfield,"                  0
+0  Central Midfield
+1       Centre-Back",16/11/1999 (26),26,1.88,Netherlands,€25.00m,05/07/2024,30/06/2029,30/05/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mats-wieffer/profil/spieler/415381,188.0
+Jack Hinshelwood,867688,Brighton,Defensive Midfield,"                  0
+0  Central Midfield
+1        Right-Back",11/04/2005 (20),20,1.82,England,€24.00m,01/07/2023,30/06/2028,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jack-hinshelwood/profil/spieler/867688,182.0
+Yasin Ayari,667287,Brighton,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",06/10/2003 (22),22,1.72,Sweden,€28.00m,30/01/2023,30/06/2027,17/10/2025,"['Sweden', 'Tunisia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yasin-ayari/profil/spieler/667287,172.0
+Diego Gómez,996897,Brighton,Central Midfield,"                    0
+0  Attacking Midfield
+1      Right Midfield",27/03/2003 (22),22,1.85,Paraguay,€20.00m,01/01/2025,-,17/10/2025,['Paraguay'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/diego-gomez/profil/spieler/996897,185.0
+James Milner,3333,Brighton,Central Midfield,"            0
+0  Right-Back
+1   Left-Back",04/01/1986 (39),39,1.75,England,€1.00m,01/07/2023,30/06/2026,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/james-milner/profil/spieler/3333,175.0
+Kaoru Mitoma,504849,Brighton,Left Winger,"               0
+0  Left Midfield",20/05/1997 (28),28,1.78,Japan,€35.00m,10/08/2021,30/06/2027,17/10/2025,['Japan'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kaoru-mitoma/profil/spieler/504849,178.0
+Tom Watson,933018,Brighton,Left Winger,"                0
+0    Right Winger
+1  Centre-Forward",08/04/2006 (19),19,1.9,England,€10.00m,01/07/2025,30/06/2029,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tom-watson/profil/spieler/933018,190.0
+Yankuba Minteh,1012534,Brighton,Right Winger,"                0
+0     Left Winger
+1  Right Midfield",22/07/2004 (21),21,1.8,The Gambia,€35.00m,01/07/2024,30/06/2029,17/10/2025,['The Gambia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yankuba-minteh/profil/spieler/1012534,180.0
+Brajan Gruda,700106,Brighton,Right Winger,"                    0
+0  Attacking Midfield
+1      Second Striker",31/05/2004 (21),21,1.78,Germany,€28.00m,14/08/2024,30/06/2028,17/10/2025,"['Albania', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/brajan-gruda/profil/spieler/700106,178.0
+Solly March,209212,Brighton,Right Winger,"                0
+0   Left Midfield
+1  Right Midfield",20/07/1994 (31),31,1.8,England,€5.00m,01/07/2013,30/06/2026,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/solly-march/profil/spieler/209212,180.0
+Georginio Rutter,538977,Brighton,Centre-Forward,"                0
+0  Second Striker
+1    Right Winger",20/04/2002 (23),23,1.82,France,€32.00m,19/08/2024,30/06/2028,30/05/2025,"['France', 'Martinique']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/georginio-rutter/profil/spieler/538977,182.0
+Charalampos Kostoulas,1060087,Brighton,Centre-Forward,"                    0
+0  Attacking Midfield
+1      Second Striker",30/05/2007 (18),18,1.85,Greece,€25.00m,01/07/2025,30/06/2030,17/10/2025,['Greece'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/charalampos-kostoulas/profil/spieler/1060087,185.0
+Stefanos Tzimas,950091,Brighton,Centre-Forward,,06/01/2006 (19),19,1.86,Greece,€22.00m,03/02/2025,30/06/2030,19/06/2025,['Greece'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/stefanos-tzimas/profil/spieler/950091,186.0
+Danny Welbeck,67063,Brighton,Centre-Forward,"             0
+0  Left Winger",26/11/1990 (34),34,1.85,England,€5.00m,18/10/2020,30/06/2026,30/05/2025,"['England', 'Ghana']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/danny-welbeck/profil/spieler/67063,185.0
+Dean Henderson,258919,Crystal Palace,Goalkeeper,,12/03/1997 (28),28,1.88,England,€25.00m,31/08/2023,30/06/2028,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dean-henderson/profil/spieler/258919,188.0
+Walter Benítez,296802,Crystal Palace,Goalkeeper,,19/01/1993 (32),32,1.91,Argentina,€6.00m,01/07/2025,-,17/10/2025,"['France', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/walter-benitez/profil/spieler/296802,191.0
+Remi Matthews,196722,Crystal Palace,Goalkeeper,,10/02/1994 (31),31,1.92,England,€400k,12/07/2021,30/06/2027,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/remi-matthews/profil/spieler/196722,192.0
+Marc Guéhi,392757,Crystal Palace,Centre-Back,,13/07/2000 (25),25,1.82,England,€50.00m,18/07/2021,30/06/2026,17/10/2025,"['England', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marc-guehi/profil/spieler/392757,182.0
+Maxence Lacroix,434224,Crystal Palace,Centre-Back,,06/04/2000 (25),25,1.9,France,€32.00m,30/08/2024,30/06/2029,17/10/2025,"['France', 'Guadeloupe']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/maxence-lacroix/profil/spieler/434224,190.0
+Chris Richards,578539,Crystal Palace,Centre-Back,"            0
+0  Right-Back",28/03/2000 (25),25,1.88,United States,€22.00m,27/07/2022,30/06/2027,17/10/2025,['United States'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/chris-richards/profil/spieler/578539,188.0
+Jaydee Canvot,1006411,Crystal Palace,Centre-Back,"                    0
+0  Defensive Midfield",29/07/2006 (19),19,1.88,France,€20.00m,01/09/2025,30/06/2029,17/10/2025,"['France', 'Senegal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jaydee-canvot/profil/spieler/1006411,188.0
+Chadi Riad,689637,Crystal Palace,Centre-Back,,17/06/2003 (22),22,1.87,Morocco,€12.00m,02/07/2024,30/06/2029,17/10/2025,"['Spain', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/chadi-riad/profil/spieler/689637,187.0
+Tyrick Mitchell,730893,Crystal Palace,Left-Back,"               0
+0  Left Midfield",01/09/1999 (26),26,1.81,England,€25.00m,01/07/2020,30/06/2027,30/05/2025,"['England', 'Jamaica']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tyrick-mitchell/profil/spieler/730893,181.0
+Borna Sosa,293194,Crystal Palace,Left-Back,"               0
+0  Left Midfield",21/01/1998 (27),27,1.87,Croatia,€4.50m,11/07/2025,30/06/2028,17/06/2025,"['Germany', 'Croatia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/borna-sosa/profil/spieler/293194,187.0
+Rio Cardines,1047257,Crystal Palace,Left-Back,"               0
+0  Left Midfield",01/07/2006 (19),19,,Trinidad and Tobago,€100k,01/07/2025,-,04/07/2025,"['England', 'Trinidad and Tobago']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rio-cardines/profil/spieler/1047257,
+Daniel Muñoz,493003,Crystal Palace,Right-Back,"             0
+0  Centre-Back",26/05/1996 (29),29,1.81,Colombia,€25.00m,30/01/2024,30/06/2028,30/05/2025,['Colombia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/daniel-munoz/profil/spieler/493003,181.0
+Caleb Kporha,1047261,Crystal Palace,Right-Back,"                0
+0  Right Midfield
+1       Left-Back",15/07/2006 (19),19,,England,€1.00m,01/07/2024,30/06/2029,30/05/2025,"['England', 'Ghana']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/caleb-kporha/profil/spieler/1047261,
+Nathaniel Clyne,85177,Crystal Palace,Right-Back,"             0
+0    Left-Back
+1  Centre-Back",05/04/1991 (34),34,1.75,England,€750k,14/10/2020,30/06/2026,17/10/2025,"['England', 'Grenada']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nathaniel-clyne/profil/spieler/85177,175.0
+Adam Wharton,744149,Crystal Palace,Defensive Midfield,"                    0
+0  Attacking Midfield
+1    Central Midfield",06/02/2004 (21),21,1.82,England,€60.00m,01/02/2024,30/06/2029,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adam-wharton/profil/spieler/744149,182.0
+Cheick Doucouré,543387,Crystal Palace,Defensive Midfield,"             0
+0  Centre-Back",08/01/2000 (25),25,1.8,Mali,€20.00m,11/07/2022,30/06/2029,17/10/2025,['Mali'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/cheick-doucoure/profil/spieler/543387,180.0
+Jefferson Lerma,262980,Crystal Palace,Defensive Midfield,"                  0
+0  Central Midfield",25/10/1994 (31),31,1.79,Colombia,€10.00m,01/07/2023,30/06/2026,30/05/2025,['Colombia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jefferson-lerma/profil/spieler/262980,179.0
+Kaden Rodney,860078,Crystal Palace,Defensive Midfield,"             0
+0  Centre-Back
+1   Right-Back",07/10/2004 (21),21,1.89,England,€200k,01/07/2024,-,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kaden-rodney/profil/spieler/860078,189.0
+Will Hughes,207014,Crystal Palace,Central Midfield,"                0
+0   Left Midfield
+1  Right Midfield",17/04/1995 (30),30,1.85,England,€7.00m,28/08/2021,30/06/2027,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/will-hughes/profil/spieler/207014,185.0
+Naouirou Ahamada,538971,Crystal Palace,Central Midfield,"                    0
+0  Defensive Midfield",29/03/2002 (23),23,1.83,France,€3.50m,31/01/2023,30/06/2026,03/06/2025,"['France', 'Comoros']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/naouirou-ahamada/profil/spieler/538971,183.0
+Daichi Kamada,356141,Crystal Palace,Attacking Midfield,"                  0
+0    Second Striker
+1  Central Midfield",05/08/1996 (29),29,1.8,Japan,€12.00m,01/07/2024,30/06/2026,30/05/2025,['Japan'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/daichi-kamada/profil/spieler/356141,180.0
+Justin Devenny,747009,Crystal Palace,Attacking Midfield,"                  0
+0  Central Midfield
+1    Right Midfield",11/10/2003 (22),22,1.84,Northern Ireland,€8.00m,01/07/2024,30/06/2027,17/10/2025,"['Scotland', 'Northern Ireland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/justin-devenny/profil/spieler/747009,184.0
+Asher Agbinone,1047256,Crystal Palace,Left Winger,"                0
+0  Centre-Forward
+1    Right Winger",28/09/2005 (20),20,1.78,England,€75k,01/07/2025,-,30/06/2025,"['England', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/asher-agbinone/profil/spieler/1047256,178.0
+Ismaïla Sarr,410225,Crystal Palace,Right Winger,"                0
+0  Second Striker
+1     Left Winger",25/02/1998 (27),27,1.85,Senegal,€30.00m,01/08/2024,30/06/2029,17/10/2025,['Senegal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ismaila-sarr/profil/spieler/410225,185.0
+Yéremy Pino,568157,Crystal Palace,Right Winger,"                0
+0     Left Winger
+1  Right Midfield",20/10/2002 (23),23,1.72,Spain,€30.00m,29/08/2025,30/06/2030,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yeremy-pino/profil/spieler/568157,172.0
+Romain Esse,967319,Crystal Palace,Right Winger,"                    0
+0         Left Winger
+1  Attacking Midfield",13/05/2005 (20),20,1.78,England,€12.00m,18/01/2025,30/06/2030,30/05/2025,"['England', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/romain-esse/profil/spieler/967319,178.0
+Jean-Philippe Mateta,420002,Crystal Palace,Centre-Forward,,28/06/1997 (28),28,1.92,France,€35.00m,31/01/2022,30/06/2027,17/10/2025,"['France', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jean-philippe-mateta/profil/spieler/420002,192.0
+Eddie Nketiah,340324,Crystal Palace,Centre-Forward,"              0
+0  Right Winger
+1   Left Winger",30/05/1999 (26),26,1.75,England,€18.00m,30/08/2024,30/06/2029,30/05/2025,"['England', 'Ghana']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/eddie-nketiah/profil/spieler/340324,175.0
+Christantus Uche,1124005,Crystal Palace,Centre-Forward,"                    0
+0         Left Winger
+1  Attacking Midfield",19/05/2003 (22),22,1.9,Nigeria,€15.00m,01/09/2025,30/06/2026,09/06/2025,['Nigeria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/christantus-uche/profil/spieler/1124005,190.0
+Zach Marsh,1004679,Crystal Palace,Centre-Forward,,06/10/2005 (20),20,,England,,01/07/2025,-,,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/zach-marsh/profil/spieler/1004679,
+Djordje Petrovic,465555,Bournemouth,Goalkeeper,,08/10/1999 (26),26,1.94,Serbia,€28.00m,16/07/2025,30/06/2030,17/10/2025,"['Yugoslavia (Republic)', 'Serbia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/djordje-petrovic/profil/spieler/465555,194.0
+Will Dennis,582078,Bournemouth,Goalkeeper,,10/07/2000 (25),25,1.88,England,€350k,01/07/2021,30/06/2028,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/will-dennis/profil/spieler/582078,188.0
+Bafodé Diakité,463605,Bournemouth,Centre-Back,"            0
+0  Right-Back
+1   Left-Back",06/01/2001 (24),24,1.84,France,€35.00m,13/08/2025,-,17/10/2025,"['France', 'Guinea']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/bafode-diakite/profil/spieler/463605,184.0
+Marcos Senesi,469781,Bournemouth,Centre-Back,,10/05/1997 (28),28,1.85,Argentina,€22.00m,08/08/2022,30/06/2026,30/05/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marcos-senesi/profil/spieler/469781,185.0
+Veljko Milosavljevic,989112,Bournemouth,Centre-Back,"                    0
+0  Defensive Midfield",28/06/2007 (18),18,1.92,Serbia,€15.00m,01/09/2025,30/06/2030,17/10/2025,['Serbia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/veljko-milosavljevic/profil/spieler/989112,192.0
+James Hill,611793,Bournemouth,Centre-Back,"            0
+0  Right-Back",10/01/2002 (23),23,1.84,England,€5.00m,05/01/2022,30/06/2029,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/james-hill/profil/spieler/611793,184.0
+Matai Akinmboni,994604,Bournemouth,Centre-Back,,17/10/2006 (19),19,1.88,United States,€1.00m,03/01/2025,30/06/2026,30/05/2025,"['United States', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/matai-akinmboni/profil/spieler/994604,188.0
+Adrien Truffert,654539,Bournemouth,Left-Back,"               0
+0  Left Midfield",20/11/2001 (24),24,1.76,France,€15.00m,01/07/2025,30/06/2030,03/06/2025,"['France', 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adrien-truffert/profil/spieler/654539,176.0
+Julio Soler,1009658,Bournemouth,Left-Back,"               0
+0  Left Midfield",16/02/2005 (20),20,1.75,Argentina,€8.00m,07/01/2025,30/06/2029,30/05/2025,"['Paraguay', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/julio-soler/profil/spieler/1009658,175.0
+Álex Jiménez,741257,Bournemouth,Right-Back,"                0
+0       Left-Back
+1  Right Midfield",08/05/2005 (20),20,1.77,Spain,€15.00m,01/09/2025,30/06/2026,17/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alex-jimenez/profil/spieler/741257,177.0
+Julián Araujo,513970,Bournemouth,Right-Back,,13/08/2001 (24),24,1.76,Mexico,€10.00m,13/08/2024,30/06/2029,30/05/2025,"['United States', 'Mexico']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/julian-araujo/profil/spieler/513970,176.0
+Adam Smith,61841,Bournemouth,Right-Back,"                0
+0       Left-Back
+1  Right Midfield",29/04/1991 (34),34,1.74,England,€750k,28/01/2014,30/06/2026,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adam-smith/profil/spieler/61841,174.0
+Tyler Adams,332705,Bournemouth,Defensive Midfield,"                0
+0  Right Midfield
+1      Right-Back",14/02/1999 (26),26,1.75,United States,€20.00m,20/08/2023,30/06/2028,17/10/2025,['United States'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tyler-adams/profil/spieler/332705,175.0
+Alex Scott,855256,Bournemouth,Central Midfield,"                    0
+0  Attacking Midfield
+1      Right Midfield",21/08/2003 (22),22,1.78,England,€25.00m,10/08/2023,30/06/2028,17/10/2025,"['England', 'Guernsey']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alex-scott/profil/spieler/855256,178.0
+Lewis Cook,249089,Bournemouth,Central Midfield,"                    0
+0  Defensive Midfield
+1      Right Midfield",03/02/1997 (28),28,1.75,England,€15.00m,08/07/2016,30/06/2028,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lewis-cook/profil/spieler/249089,175.0
+Ryan Christie,188077,Bournemouth,Central Midfield,"                    0
+0  Defensive Midfield
+1      Right Midfield",22/02/1995 (30),30,1.78,Scotland,€10.00m,31/08/2021,30/06/2027,30/05/2025,['Scotland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ryan-christie/profil/spieler/188077,178.0
+Marcus Tavernier,399434,Bournemouth,Left Midfield,"                  0
+0  Central Midfield
+1    Right Midfield",22/03/1999 (26),26,1.78,England,€18.00m,01/08/2022,30/06/2029,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marcus-tavernier/profil/spieler/399434,178.0
+Justin Kluivert,330659,Bournemouth,Attacking Midfield,"              0
+0   Left Winger
+1  Right Winger",05/05/1999 (26),26,1.72,Netherlands,€35.00m,01/07/2023,30/06/2028,30/05/2025,"['Netherlands', 'Suriname']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/justin-kluivert/profil/spieler/330659,172.0
+Amine Adli,532776,Bournemouth,Left Winger,"                0
+0    Right Winger
+1  Second Striker",10/05/2000 (25),25,1.8,Morocco,€20.00m,21/08/2025,30/06/2030,17/10/2025,"['France', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/amine-adli/profil/spieler/532776,180.0
+Antoine Semenyo,583255,Bournemouth,Right Winger,"                0
+0     Left Winger
+1  Centre-Forward",07/01/2000 (25),25,1.85,Ghana,€55.00m,27/01/2023,30/06/2030,17/10/2025,"['England', 'Ghana']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/antoine-semenyo/profil/spieler/583255,185.0
+Ben Gannon-Doak,719673,Bournemouth,Right Winger,"             0
+0  Left Winger",11/11/2005 (20),20,1.73,Scotland,€18.00m,18/08/2025,30/06/2030,17/10/2025,['Scotland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ben-gannon-doak/profil/spieler/719673,173.0
+David Brooks,277033,Bournemouth,Right Winger,"                    0
+0  Attacking Midfield
+1      Second Striker",08/07/1997 (28),28,1.73,Wales,€12.00m,01/07/2018,30/06/2029,17/10/2025,"['England', 'Wales']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/david-brooks/profil/spieler/277033,173.0
+Evanilson,711337,Bournemouth,Centre-Forward,,06/10/1999 (26),26,1.83,Brazil,€40.00m,16/08/2024,-,17/10/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/evanilson/profil/spieler/711337,183.0
+Eli Kroupi,955357,Bournemouth,Centre-Forward,"                    0
+0         Left Winger
+1  Attacking Midfield",23/06/2006 (19),19,1.79,France,€15.00m,03/02/2025,30/06/2030,02/06/2025,"['France', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/eli-kroupi/profil/spieler/955357,179.0
+Enes Ünal,251106,Bournemouth,Centre-Forward,,10/05/1997 (28),28,1.87,Türkiye,€10.00m,01/07/2024,30/06/2028,30/05/2025,['Türkiye'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/enes-unal/profil/spieler/251106,187.0
+Caoimhín Kelleher,340918,Brentford,Goalkeeper,,23/11/1998 (27),27,1.88,Ireland,€20.00m,01/07/2025,30/06/2030,30/05/2025,['Ireland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/caoimhin-kelleher/profil/spieler/340918,188.0
+Hákon Valdimarsson,488935,Brentford,Goalkeeper,,13/10/2001 (24),24,1.95,Iceland,€2.50m,26/01/2024,30/06/2028,30/05/2025,['Iceland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/hakon-valdimarsson/profil/spieler/488935,195.0
+Matthew Cox,741236,Brentford,Goalkeeper,,02/05/2003 (22),22,1.83,England,€800k,01/07/2022,30/06/2028,18/06/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/matthew-cox/profil/spieler/741236,183.0
+Ellery Balcombe,456292,Brentford,Goalkeeper,,15/10/1999 (26),26,1.9,England,€400k,01/07/2018,30/06/2027,17/06/2025,"['England', 'St. Vincent & Grenadinen']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ellery-balcombe/profil/spieler/456292,190.0
+Nathan Collins,469050,Brentford,Centre-Back,,30/04/2001 (24),24,1.93,Ireland,€35.00m,04/07/2023,30/06/2029,17/10/2025,['Ireland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nathan-collins/profil/spieler/469050,193.0
+Sepp van den Berg,541231,Brentford,Centre-Back,"            0
+0  Right-Back",20/12/2001 (23),23,1.92,Netherlands,€25.00m,22/08/2024,30/06/2029,17/10/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sepp-van-den-berg/profil/spieler/541231,192.0
+Kristoffer Ajer,328658,Brentford,Centre-Back,"                    0
+0          Right-Back
+1  Defensive Midfield",17/04/1998 (27),27,1.98,Norway,€16.00m,21/07/2021,30/06/2028,17/10/2025,['Norway'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kristoffer-ajer/profil/spieler/328658,198.0
+Ethan Pinnock,442248,Brentford,Centre-Back,,29/05/1993 (32),32,1.94,Jamaica,€7.00m,02/07/2019,30/06/2027,30/05/2025,"['England', 'Jamaica']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ethan-pinnock/profil/spieler/442248,194.0
+Benjamin Arthur,1144158,Brentford,Centre-Back,,09/10/2005 (20),20,1.92,England,,04/07/2025,30/06/2031,,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/benjamin-arthur/profil/spieler/1144158,192.0
+Rico Henry,339556,Brentford,Left-Back,"               0
+0  Left Midfield",08/07/1997 (28),28,1.7,Jamaica,€15.00m,31/08/2016,30/06/2026,30/05/2025,"['England', 'Jamaica']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rico-henry/profil/spieler/339556,170.0
+Michael Kayode,823486,Brentford,Right-Back,"                0
+0       Left-Back
+1  Right Midfield",10/07/2004 (21),21,1.79,Italy,€20.00m,01/07/2025,30/06/2030,17/10/2025,"['Italy', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/michael-kayode/profil/spieler/823486,179.0
+Aaron Hickey,591949,Brentford,Right-Back,"               0
+0      Left-Back
+1  Left Midfield",10/06/2002 (23),23,1.85,Scotland,€15.00m,09/07/2022,30/06/2028,17/10/2025,['Scotland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/aaron-hickey/profil/spieler/591949,185.0
+Vitaly Janelt,270171,Brentford,Defensive Midfield,"                  0
+0  Central Midfield
+1         Left-Back",10/05/1998 (27),27,1.84,Germany,€20.00m,03/10/2020,30/06/2026,30/05/2025,"['Bosnia-Herzegovina', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/vitaly-janelt/profil/spieler/270171,184.0
+Yunus Konak,1141628,Brentford,Defensive Midfield,"                  0
+0  Central Midfield",10/01/2006 (19),19,1.81,Türkiye,€4.50m,11/01/2024,30/06/2029,30/05/2025,['Türkiye'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yunus-konak/profil/spieler/1141628,181.0
+Jordan Henderson,61651,Brentford,Defensive Midfield,"                  0
+0  Central Midfield
+1    Right Midfield",17/06/1990 (35),35,1.82,England,€2.50m,15/07/2025,30/06/2027,28/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jordan-henderson/profil/spieler/61651,182.0
+Yegor Yarmolyuk,717411,Brentford,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",01/03/2004 (21),21,1.8,Ukraine,€20.00m,01/07/2023,30/06/2031,17/10/2025,['Ukraine'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yegor-yarmolyuk/profil/spieler/717411,180.0
+Mathias Jensen,319859,Brentford,Central Midfield,,01/01/1996 (29),29,1.8,Denmark,€14.00m,10/07/2019,30/06/2026,30/05/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mathias-jensen/profil/spieler/319859,180.0
+Frank Onyeka,421637,Brentford,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",01/01/1998 (27),27,1.83,Nigeria,€7.00m,20/07/2021,30/06/2027,05/06/2025,['Nigeria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/frank-onyeka/profil/spieler/421637,183.0
+Josh Dasilva,340321,Brentford,Central Midfield,"                    0
+0  Defensive Midfield
+1           Left-Back",23/10/1998 (27),27,1.84,England,€3.00m,23/10/2025,30/06/2026,21/10/2025,"['England', 'Angola']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/josh-dasilva/profil/spieler/340321,184.0
+Paris Maghoma,470596,Brentford,Central Midfield,"                    0
+0  Attacking Midfield",08/05/2001 (24),24,1.84,England,€800k,01/07/2022,30/06/2027,30/05/2025,"['England', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/paris-maghoma/profil/spieler/470596,184.0
+Keane Lewis-Potter,644401,Brentford,Left Midfield,"             0
+0    Left-Back
+1  Left Winger",22/02/2001 (24),24,1.7,England,€25.00m,12/07/2022,30/06/2031,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/keane-lewis-potter/profil/spieler/644401,170.0
+Mikkel Damsgaard,540941,Brentford,Attacking Midfield,"                  0
+0       Left Winger
+1  Central Midfield",03/07/2000 (25),25,1.8,Denmark,€30.00m,10/08/2022,30/06/2030,17/10/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mikkel-damsgaard/profil/spieler/540941,180.0
+Antoni Milambo,683620,Brentford,Attacking Midfield,"                  0
+0  Central Midfield",03/04/2005 (20),20,1.79,Netherlands,€20.00m,03/07/2025,30/06/2030,17/10/2025,"['Netherlands', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/antoni-milambo/profil/spieler/683620,179.0
+Fábio Carvalho,559263,Brentford,Attacking Midfield,"                0
+0     Left Winger
+1  Centre-Forward",30/08/2002 (23),23,1.7,Portugal,€14.00m,12/08/2024,30/06/2029,30/05/2025,"['England', 'Portugal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/fabio-carvalho/profil/spieler/559263,170.0
+Myles Peart-Harris,587002,Brentford,Attacking Midfield,"              0
+0  Right Winger
+1   Left Winger",18/09/2002 (23),23,1.87,Jamaica,€900k,23/07/2021,30/06/2026,27/05/2025,"['England', 'Jamaica']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/myles-peart-harris/profil/spieler/587002,187.0
+Dango Ouattara,823231,Brentford,Left Winger,"               0
+0  Left Midfield
+1   Right Winger",11/02/2002 (23),23,1.77,Burkina Faso,€35.00m,16/08/2025,30/06/2030,17/10/2025,['Burkina Faso'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dango-ouattara/profil/spieler/823231,177.0
+Kevin Schade,473050,Brentford,Left Winger,"                0
+0    Right Winger
+1  Centre-Forward",27/11/2001 (23),23,1.85,Germany,€30.00m,01/07/2023,30/06/2028,30/05/2025,"['Germany', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kevin-schade/profil/spieler/473050,185.0
+Reiss Nelson,340325,Brentford,Left Winger,"                    0
+0        Right Winger
+1  Attacking Midfield",10/12/1999 (25),25,1.75,England,€16.00m,01/09/2025,30/06/2026,30/05/2025,"['England', 'Jamaica']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/reiss-nelson/profil/spieler/340325,175.0
+Gustavo Nunes,1086375,Brentford,Left Winger,"              0
+0  Right Winger",20/11/2005 (20),20,1.73,Brazil,€10.00m,28/08/2024,30/06/2030,30/05/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gustavo-nunes/profil/spieler/1086375,173.0
+Romelle Donovan,1091562,Brentford,Right Winger,"                    0
+0  Attacking Midfield
+1         Left Winger",30/11/2006 (18),18,1.71,England,€3.50m,01/07/2025,30/06/2030,17/10/2025,"['England', 'St. Kitts & Nevis']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/romelle-donovan/profil/spieler/1091562,171.0
+Igor Thiago,739443,Brentford,Centre-Forward,,26/06/2001 (24),24,1.91,Brazil,€22.00m,01/07/2024,30/06/2029,17/10/2025,"['Bulgaria', 'Brazil']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/igor-thiago/profil/spieler/739443,191.0
+Jordan Pickford,130164,Everton,Goalkeeper,,07/03/1994 (31),31,1.85,England,€18.00m,01/07/2017,30/06/2029,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jordan-pickford/profil/spieler/130164,185.0
+Mark Travers,357658,Everton,Goalkeeper,,18/05/1999 (26),26,1.91,Ireland,€4.00m,15/07/2025,30/06/2029,27/05/2025,['Ireland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mark-travers/profil/spieler/357658,191.0
+Harry Tyrer,574448,Everton,Goalkeeper,,06/12/2001 (23),23,1.94,England,€400k,01/07/2024,30/06/2026,18/06/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/harry-tyrer/profil/spieler/574448,194.0
+Tom King,215810,Everton,Goalkeeper,,09/03/1995 (30),30,1.94,Wales,€200k,15/08/2025,30/06/2027,30/05/2025,"['England', 'Wales']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tom-king/profil/spieler/215810,194.0
+Jarrad Branthwaite,661053,Everton,Centre-Back,,27/06/2002 (23),23,1.95,England,€50.00m,13/01/2020,30/06/2030,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jarrad-branthwaite/profil/spieler/661053,195.0
+James Tarkowski,173504,Everton,Centre-Back,,19/11/1992 (33),33,1.85,England,€9.00m,02/07/2022,30/06/2028,30/05/2025,"['England', 'Poland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/james-tarkowski/profil/spieler/173504,185.0
+Michael Keane,118534,Everton,Centre-Back,,11/01/1993 (32),32,1.88,England,€5.00m,03/07/2017,30/06/2026,30/05/2025,"['England', 'Ireland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/michael-keane/profil/spieler/118534,188.0
+Vitaliy Mykolenko,404842,Everton,Left-Back,"               0
+0    Centre-Back
+1  Left Midfield",29/05/1999 (26),26,1.8,Ukraine,€25.00m,01/01/2022,30/06/2026,17/10/2025,['Ukraine'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/vitaliy-mykolenko/profil/spieler/404842,180.0
+Adam Aznou,938146,Everton,Left-Back,"             0
+0  Left Winger
+1   Right-Back",02/06/2006 (19),19,1.78,Morocco,€7.00m,29/07/2025,30/06/2029,17/10/2025,"['Spain', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adam-aznou/profil/spieler/938146,178.0
+Jake O'Brien,711544,Everton,Right-Back,"             0
+0  Centre-Back",15/05/2001 (24),24,1.97,Ireland,€18.00m,30/07/2024,30/06/2028,30/05/2025,['Ireland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jake-obrien/profil/spieler/711544,197.0
+Nathan Patterson,424015,Everton,Right-Back,"                0
+0  Right Midfield
+1       Left-Back",16/10/2001 (24),24,1.89,Scotland,€13.00m,04/01/2022,30/06/2027,17/10/2025,['Scotland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nathan-patterson/profil/spieler/424015,189.0
+Séamus Coleman,68390,Everton,Right-Back,"                0
+0  Right Midfield",11/10/1988 (37),37,1.77,Ireland,€500k,01/01/2009,30/06/2026,30/05/2025,['Ireland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/seamus-coleman/profil/spieler/68390,177.0
+James Garner,505219,Everton,Defensive Midfield,"                  0
+0  Central Midfield
+1    Right Midfield",13/03/2001 (24),24,1.82,England,€22.00m,01/09/2022,30/06/2027,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/james-garner/profil/spieler/505219,182.0
+Idrissa Gueye,126665,Everton,Defensive Midfield,"                  0
+0  Central Midfield",26/09/1989 (36),36,1.74,Senegal,€1.50m,01/09/2022,30/06/2026,30/05/2025,['Senegal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/idrissa-gueye/profil/spieler/126665,174.0
+Kiernan Dewsbury-Hall,475188,Everton,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",06/09/1998 (27),27,1.76,England,€25.00m,06/08/2025,30/06/2030,17/10/2025,"['England', 'Ireland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kiernan-dewsbury-hall/profil/spieler/475188,176.0
+Carlos Alcaraz,748319,Everton,Central Midfield,"                    0
+0  Attacking Midfield
+1      Right Midfield",30/11/2002 (22),22,1.76,Argentina,€15.00m,01/07/2025,30/06/2027,17/10/2025,['Argentina'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/carlos-alcaraz/profil/spieler/748319,176.0
+Tim Iroegbunam,696589,Everton,Central Midfield,"                    0
+0  Defensive Midfield",30/06/2003 (22),22,1.83,England,€11.00m,01/07/2024,30/06/2027,17/10/2025,"['England', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tim-iroegbunam/profil/spieler/696589,183.0
+Merlin Röhl,608832,Everton,Attacking Midfield,"                  0
+0  Central Midfield
+1    Second Striker",05/07/2002 (23),23,1.92,Germany,€18.00m,01/09/2025,30/06/2026,17/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/merlin-rohl/profil/spieler/608832,192.0
+Jack Grealish,203460,Everton,Left Winger,"                    0
+0  Attacking Midfield
+1       Left Midfield",10/09/1995 (30),30,1.8,England,€28.00m,12/08/2025,30/06/2026,30/05/2025,"['England', 'Ireland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jack-grealish/profil/spieler/203460,180.0
+Dwight McNeil,584769,Everton,Left Winger,"               0
+0  Left Midfield
+1   Right Winger",22/11/1999 (26),26,1.83,England,€22.00m,28/07/2022,30/06/2027,17/10/2025,"['England', 'Jamaica']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dwight-mcneil/profil/spieler/584769,183.0
+Iliman Ndiaye,623570,Everton,Right Winger,"                0
+0     Left Winger
+1  Centre-Forward",06/03/2000 (25),25,1.8,Senegal,€35.00m,03/07/2024,30/06/2029,17/10/2025,"['France', 'Senegal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/iliman-ndiaye/profil/spieler/623570,180.0
+Tyler Dibling,866655,Everton,Right Winger,"                    0
+0  Attacking Midfield
+1      Centre-Forward",17/02/2006 (19),19,1.78,England,€35.00m,25/08/2025,30/06/2029,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tyler-dibling/profil/spieler/866655,178.0
+Thierno Barry,937941,Everton,Centre-Forward,,21/10/2002 (23),23,1.95,France,€30.00m,09/07/2025,30/06/2029,17/10/2025,"['France', 'Guinea']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/thierno-barry/profil/spieler/937941,195.0
+Beto,595809,Everton,Centre-Forward,,31/01/1998 (27),27,1.94,Guinea-Bissau,€22.00m,29/08/2023,30/06/2027,30/05/2025,"['Portugal', 'Guinea-Bissau']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/beto/profil/spieler/595809,194.0
+Mads Hermansen,400536,West Ham,Goalkeeper,,11/07/2000 (25),25,1.87,Denmark,€18.00m,09/08/2025,30/06/2030,17/10/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mads-hermansen/profil/spieler/400536,187.0
+Alphonse Areola,120629,West Ham,Goalkeeper,,27/02/1993 (32),32,1.95,France,€9.00m,01/07/2022,30/06/2027,30/05/2025,"['France', 'Philippines']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alphonse-areola/profil/spieler/120629,195.0
+Lukasz Fabianski,29692,West Ham,Goalkeeper,,18/04/1985 (40),40,1.9,Poland,€500k,10/09/2025,30/06/2026,30/05/2025,['Poland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lukasz-fabianski/profil/spieler/29692,190.0
+Maximilian Kilman,525247,West Ham,Centre-Back,"           0
+0  Left-Back",23/05/1997 (28),28,1.94,England,€25.00m,06/07/2024,30/06/2031,30/05/2025,"['England', 'Ukraine']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/maximilian-kilman/profil/spieler/525247,194.0
+Jean-Clair Todibo,605184,West Ham,Centre-Back,,30/12/1999 (25),25,1.9,France,€25.00m,01/07/2025,-,30/05/2025,"['France', 'French Guiana']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jean-clair-todibo/profil/spieler/605184,190.0
+Igor Julio,380350,West Ham,Centre-Back,"           0
+0  Left-Back",07/02/1998 (27),27,1.88,Brazil,€18.00m,01/09/2025,30/06/2026,17/10/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/igor-julio/profil/spieler/380350,188.0
+Konstantinos Mavropanos,415912,West Ham,Centre-Back,,11/12/1997 (27),27,1.94,Greece,€17.00m,22/08/2023,30/06/2028,30/05/2025,['Greece'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/konstantinos-mavropanos/profil/spieler/415912,194.0
+El Hadji Malick Diouf,1111589,West Ham,Left-Back,"               0
+0  Left Midfield
+1    Left Winger",28/12/2004 (20),20,1.83,Senegal,€25.00m,15/07/2025,30/06/2030,17/10/2025,['Senegal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/el-hadji-malick-diouf/profil/spieler/1111589,183.0
+Oliver Scarles,922563,West Ham,Left-Back,"                  0
+0     Left Midfield
+1  Central Midfield",12/12/2005 (19),19,1.8,England,€8.00m,01/01/2025,30/06/2028,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/oliver-scarles/profil/spieler/922563,180.0
+Aaron Wan-Bissaka,477758,West Ham,Right-Back,"                0
+0       Left-Back
+1  Right Midfield",26/11/1997 (27),27,1.83,DR Congo,€24.00m,13/08/2024,30/06/2031,30/05/2025,"['England', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/aaron-wan-bissaka/profil/spieler/477758,183.0
+Kyle Walker-Peters,341051,West Ham,Right-Back,"                0
+0       Left-Back
+1  Right Midfield",13/04/1997 (28),28,1.73,England,€15.00m,20/07/2025,30/06/2028,30/05/2025,"['England', 'Jamaica']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kyle-walker-peters/profil/spieler/341051,173.0
+Soungoutou Magassa,745181,West Ham,Defensive Midfield,"                  0
+0       Centre-Back
+1  Central Midfield",08/10/2003 (22),22,1.9,France,€17.00m,29/08/2025,30/06/2031,17/10/2025,"['France', 'Mali']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/soungoutou-magassa/profil/spieler/745181,190.0
+Tomáš Souček,283628,West Ham,Defensive Midfield,"                    0
+0    Central Midfield
+1  Attacking Midfield",27/02/1995 (30),30,1.92,Czech Republic,€15.00m,27/07/2020,30/06/2027,17/10/2025,['Czech Republic'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tomas-soucek/profil/spieler/283628,192.0
+Guido Rodríguez,342385,West Ham,Defensive Midfield,"                  0
+0  Central Midfield",12/04/1994 (31),31,1.85,Argentina,€8.00m,06/08/2024,30/06/2026,17/10/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/guido-rodriguez/profil/spieler/342385,185.0
+Freddie Potts,698164,West Ham,Defensive Midfield,"                  0
+0  Central Midfield
+1       Centre-Back",12/09/2003 (22),22,1.83,England,€2.50m,01/07/2025,30/06/2029,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/freddie-potts/profil/spieler/698164,183.0
+Mateus Fernandes,880245,West Ham,Central Midfield,"                    0
+0  Attacking Midfield",10/07/2004 (21),21,1.8,Portugal,€32.00m,29/08/2025,-,17/10/2025,['Portugal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mateus-fernandes/profil/spieler/880245,180.0
+James Ward-Prowse,181579,West Ham,Central Midfield,"                    0
+0  Attacking Midfield
+1      Right Midfield",01/11/1994 (31),31,1.77,England,€8.00m,14/08/2023,30/06/2027,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/james-ward-prowse/profil/spieler/181579,177.0
+Andrew Irving,430310,West Ham,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",13/05/2000 (25),25,1.9,Scotland,€4.00m,31/08/2023,30/06/2026,30/05/2025,['Scotland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/andrew-irving/profil/spieler/430310,190.0
+Lucas Paquetá,444523,West Ham,Attacking Midfield,"                  0
+0  Central Midfield
+1     Left Midfield",27/08/1997 (28),28,1.8,Brazil,€35.00m,29/08/2022,30/06/2027,17/10/2025,"['Portugal', 'Brazil']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lucas-paqueta/profil/spieler/444523,180.0
+George Earthy,697280,West Ham,Attacking Midfield,"                  0
+0  Central Midfield",05/09/2004 (21),21,1.8,England,€2.00m,01/07/2025,30/06/2026,27/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/george-earthy/profil/spieler/697280,180.0
+Crysencio Summerville,474701,West Ham,Left Winger,"              0
+0  Right Winger",30/10/2001 (24),24,1.74,Netherlands,€22.00m,03/08/2024,30/06/2029,30/05/2025,"['Netherlands', 'Suriname']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/crysencio-summerville/profil/spieler/474701,174.0
+Jarrod Bowen,314875,West Ham,Right Winger,"                0
+0  Centre-Forward
+1  Second Striker",20/12/1996 (28),28,1.76,England,€40.00m,31/01/2020,30/06/2030,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jarrod-bowen/profil/spieler/314875,176.0
+Luís Guilherme,991800,West Ham,Right Winger,"                    0
+0  Attacking Midfield
+1         Left Winger",09/02/2006 (19),19,1.75,Brazil,€12.00m,01/07/2024,30/06/2029,17/10/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luis-guilherme/profil/spieler/991800,175.0
+Niclas Füllkrug,75489,West Ham,Centre-Forward,,09/02/1993 (32),32,1.89,Germany,€10.00m,05/08/2024,30/06/2028,30/05/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/niclas-fullkrug/profil/spieler/75489,189.0
+Callum Wilson,123682,West Ham,Centre-Forward,,27/02/1992 (33),33,1.8,England,€7.00m,02/08/2025,30/06/2026,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/callum-wilson/profil/spieler/123682,180.0
+Callum Marshall,953135,West Ham,Centre-Forward,"              0
+0  Right Winger",28/11/2004 (20),20,1.72,Northern Ireland,€1.80m,01/07/2025,30/06/2027,18/06/2025,['Northern Ireland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/callum-marshall/profil/spieler/953135,172.0
+José Sá,249994,Wolves,Goalkeeper,,17/01/1993 (32),32,1.92,Portugal,€7.00m,15/07/2021,30/06/2027,30/05/2025,['Portugal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jose-sa/profil/spieler/249994,192.0
+Sam Johnstone,110864,Wolves,Goalkeeper,,25/03/1993 (32),32,1.93,England,€6.00m,30/08/2024,30/06/2028,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sam-johnstone/profil/spieler/110864,193.0
+Daniel Bentley,136401,Wolves,Goalkeeper,,13/07/1993 (32),32,1.93,England,€1.50m,25/01/2023,30/06/2027,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/daniel-bentley/profil/spieler/136401,193.0
+Toti,606718,Wolves,Centre-Back,"           0
+0  Left-Back",16/01/1999 (26),26,1.87,Portugal,€28.00m,02/09/2020,30/06/2029,30/05/2025,"['Portugal', 'Guinea-Bissau']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/toti/profil/spieler/606718,187.0
+Ladislav Krejci,345911,Wolves,Centre-Back,"                    0
+0  Defensive Midfield",20/04/1999 (26),26,1.91,Czech Republic,€22.00m,28/08/2025,30/06/2026,17/10/2025,['Czech Republic'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ladislav-krejci/profil/spieler/345911,191.0
+Emmanuel Agbadou,683895,Wolves,Centre-Back,"                    0
+0  Defensive Midfield",17/06/1997 (28),28,1.92,Cote d'Ivoire,€20.00m,09/01/2025,30/06/2029,30/05/2025,"[""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/emmanuel-agbadou/profil/spieler/683895,192.0
+Santiago Bueno,438001,Wolves,Centre-Back,,09/11/1998 (27),27,1.9,Uruguay,€10.00m,31/08/2023,30/06/2028,30/05/2025,"['Uruguay', 'Italy']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/santiago-bueno/profil/spieler/438001,190.0
+Yerson Mosquera,716276,Wolves,Centre-Back,"            0
+0  Right-Back",02/05/2001 (24),24,1.88,Colombia,€10.00m,01/07/2021,30/06/2030,17/10/2025,['Colombia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yerson-mosquera/profil/spieler/716276,188.0
+David Møller Wolfe,661427,Wolves,Left-Back,"               0
+0  Left Midfield",23/04/2002 (23),23,1.87,Norway,€12.00m,02/08/2025,30/06/2030,17/10/2025,['Norway'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/david-moller-wolfe/profil/spieler/661427,187.0
+Hugo Bueno,698678,Wolves,Left-Back,"               0
+0  Left Midfield",18/09/2002 (23),23,1.8,Spain,€8.00m,01/07/2022,30/06/2028,28/05/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/hugo-bueno/profil/spieler/698678,180.0
+Jackson Tchatchoua,848509,Wolves,Right-Back,"                0
+0   Left Midfield
+1  Right Midfield",14/09/2001 (24),24,1.8,Cameroon,€12.00m,19/08/2025,30/06/2030,17/10/2025,"['Cameroon', 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jackson-tchatchoua/profil/spieler/848509,180.0
+Ki-Jana Hoever,485583,Wolves,Right-Back,"             0
+0    Left-Back
+1  Centre-Back",18/01/2002 (23),23,1.83,Netherlands,€5.00m,19/09/2020,30/06/2026,03/06/2025,"['Netherlands', 'Suriname']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ki-jana-hoever/profil/spieler/485583,183.0
+Matt Doherty,171679,Wolves,Right-Back,"                0
+0  Right Midfield
+1       Left-Back",16/01/1992 (33),33,1.85,Ireland,€2.00m,20/07/2023,30/06/2026,30/05/2025,['Ireland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/matt-doherty/profil/spieler/171679,185.0
+André,800176,Wolves,Defensive Midfield,"                  0
+0  Central Midfield",16/07/2001 (24),24,1.76,Brazil,€28.00m,30/08/2024,30/06/2029,30/05/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/andre/profil/spieler/800176,176.0
+João Gomes,735570,Wolves,Central Midfield,"                    0
+0  Defensive Midfield",12/02/2001 (24),24,1.76,Brazil,€40.00m,30/01/2023,30/06/2030,30/05/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/joao-gomes/profil/spieler/735570,176.0
+Jean-Ricner Bellegarde,450050,Wolves,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",27/06/1998 (27),27,1.72,Haiti,€18.00m,01/09/2023,30/06/2028,30/05/2025,"['France', 'Haiti']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jean-ricner-bellegarde/profil/spieler/450050,172.0
+Marshall Munetsi,414908,Wolves,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",22/06/1996 (29),29,1.88,Zimbabwe,€15.00m,03/02/2025,30/06/2028,30/05/2025,['Zimbabwe'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marshall-munetsi/profil/spieler/414908,188.0
+Rodrigo Gomes,667121,Wolves,Left Midfield,"                0
+0  Right Midfield
+1      Right-Back",07/07/2003 (22),22,1.75,Portugal,€15.00m,01/07/2024,30/06/2029,30/05/2025,['Portugal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rodrigo-gomes/profil/spieler/667121,175.0
+Fer López,1064471,Wolves,Attacking Midfield,"              0
+0  Right Winger",24/05/2004 (21),21,1.88,Spain,€18.00m,01/07/2025,30/06/2030,17/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/fer-lopez/profil/spieler/1064471,188.0
+Tawanda Chirewa,724783,Wolves,Attacking Midfield,"                  0
+0       Left Winger
+1  Central Midfield",12/10/2003 (22),22,1.81,Zimbabwe,€500k,01/01/2024,30/06/2027,18/06/2025,"['England', 'Zimbabwe']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tawanda-chirewa/profil/spieler/724783,181.0
+Enso González,1060740,Wolves,Left Winger,"                    0
+0  Attacking Midfield
+1        Right Winger",20/01/2005 (20),20,1.69,Paraguay,€4.00m,31/08/2023,30/06/2029,30/05/2025,['Paraguay'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/enso-gonzalez/profil/spieler/1060740,169.0
+Jhon Arias,588989,Wolves,Right Winger,"                    0
+0  Attacking Midfield
+1         Left Winger",21/09/1997 (28),28,1.68,Colombia,€17.00m,24/07/2025,30/06/2029,06/06/2025,['Colombia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jhon-arias/profil/spieler/588989,168.0
+Jørgen Strand Larsen,429983,Wolves,Centre-Forward,"              0
+0  Right Winger",06/02/2000 (25),25,1.93,Norway,€40.00m,01/07/2025,30/06/2030,17/10/2025,['Norway'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jorgen-strand-larsen/profil/spieler/429983,193.0
+Tolu Arokodare,683571,Wolves,Centre-Forward,,23/11/2000 (25),25,1.97,Nigeria,€25.00m,01/09/2025,30/06/2029,17/10/2025,['Nigeria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tolu-arokodare/profil/spieler/683571,197.0
+Hee-chan Hwang,292246,Wolves,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",26/01/1996 (29),29,1.77,"Korea, South",€12.00m,01/07/2022,30/06/2028,30/05/2025,"['Korea, South']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/hee-chan-hwang/profil/spieler/292246,177.0
+Nathan Fraser,863741,Wolves,Centre-Forward,,22/02/2005 (20),20,1.88,Ireland,€600k,01/01/2024,30/06/2028,30/05/2025,"['England', 'Ireland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nathan-fraser/profil/spieler/863741,188.0
+Bernd Leno,72476,Fulham,Goalkeeper,,04/03/1992 (33),33,1.9,Germany,€10.00m,02/08/2022,30/06/2027,30/05/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/bernd-leno/profil/spieler/72476,190.0
+Benjamin Lecomte,127181,Fulham,Goalkeeper,,26/04/1991 (34),34,1.86,France,€1.50m,26/07/2025,30/06/2027,03/06/2025,['France'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/benjamin-lecomte/profil/spieler/127181,186.0
+Calvin Bassey,461883,Fulham,Centre-Back,"           0
+0  Left-Back",31/12/1999 (25),25,1.85,Nigeria,€28.00m,28/07/2023,30/06/2027,17/10/2025,"['England', 'Italy', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/calvin-bassey/profil/spieler/461883,185.0
+Joachim Andersen,260827,Fulham,Centre-Back,,31/05/1996 (29),29,1.92,Denmark,€27.00m,23/08/2024,30/06/2029,30/05/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/joachim-andersen/profil/spieler/260827,192.0
+Issa Diop,272622,Fulham,Centre-Back,,09/01/1997 (28),28,1.94,France,€12.00m,10/08/2022,30/06/2027,17/10/2025,"['France', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/issa-diop/profil/spieler/272622,194.0
+Jorge Cuenca,494880,Fulham,Centre-Back,"           0
+0  Left-Back",17/11/1999 (26),26,1.9,Spain,€5.00m,03/08/2024,30/06/2028,30/05/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jorge-cuenca/profil/spieler/494880,190.0
+Antonee Robinson,349701,Fulham,Left-Back,"               0
+0  Left Midfield",08/08/1997 (28),28,1.83,United States,€35.00m,20/08/2020,30/06/2028,30/05/2025,"['England', 'United States']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/antonee-robinson/profil/spieler/349701,183.0
+Ryan Sessegnon,392775,Fulham,Left-Back,"               0
+0  Left Midfield
+1    Left Winger",18/05/2000 (25),25,1.78,England,€18.00m,26/07/2024,30/06/2026,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ryan-sessegnon/profil/spieler/392775,178.0
+Kenny Tete,206746,Fulham,Right-Back,"             0
+0  Centre-Back
+1    Left-Back",09/10/1995 (30),30,1.8,Netherlands,€13.00m,10/09/2020,30/06/2028,30/05/2025,"['Mozambique', 'Netherlands']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kenny-tete/profil/spieler/206746,180.0
+Timothy Castagne,262226,Fulham,Right-Back,"                0
+0  Right Midfield
+1       Left-Back",05/12/1995 (29),29,1.85,Belgium,€13.00m,29/08/2023,30/06/2027,30/05/2025,['Belgium'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/timothy-castagne/profil/spieler/262226,185.0
+Sander Berge,333014,Fulham,Defensive Midfield,"                  0
+0  Central Midfield",14/02/1998 (27),27,1.95,Norway,€25.00m,22/08/2024,30/06/2029,30/05/2025,['Norway'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sander-berge/profil/spieler/333014,195.0
+Saša Lukić,245056,Fulham,Central Midfield,"                    0
+0  Defensive Midfield",13/08/1996 (29),29,1.82,Serbia,€14.00m,31/01/2023,30/06/2027,30/05/2025,"['Yugoslavia (Republic)', 'Serbia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sasa-lukic/profil/spieler/245056,182.0
+Josh King,1011131,Fulham,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",03/01/2007 (18),18,1.73,England,€10.00m,01/07/2024,30/06/2029,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/josh-king/profil/spieler/1011131,173.0
+Harrison Reed,226973,Fulham,Central Midfield,"                    0
+0  Defensive Midfield
+1      Right Midfield",27/01/1995 (30),30,1.81,England,€4.50m,30/08/2020,30/06/2027,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/harrison-reed/profil/spieler/226973,181.0
+Tom Cairney,123275,Fulham,Central Midfield,"                    0
+0  Attacking Midfield
+1      Right Midfield",20/01/1991 (34),34,1.85,Scotland,€1.00m,01/07/2015,30/06/2026,17/10/2025,"['England', 'Scotland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tom-cairney/profil/spieler/123275,185.0
+Emile Smith Rowe,392765,Fulham,Attacking Midfield,"                  0
+0  Central Midfield
+1     Left Midfield",28/07/2000 (25),25,1.82,England,€28.00m,02/08/2024,30/06/2029,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/emile-smith-rowe/profil/spieler/392765,182.0
+Kevin,900195,Fulham,Left Winger,"                0
+0    Right Winger
+1  Centre-Forward",04/01/2003 (22),22,1.76,Brazil,€30.00m,01/09/2025,30/06/2030,17/10/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kevin/profil/spieler/900195,176.0
+Alex Iwobi,242631,Fulham,Left Winger,"                    0
+0        Right Winger
+1  Attacking Midfield",03/05/1996 (29),29,1.83,Nigeria,€28.00m,01/09/2023,30/06/2028,30/05/2025,"['England', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alex-iwobi/profil/spieler/242631,183.0
+Harry Wilson,279455,Fulham,Right Winger,"                    0
+0         Left Winger
+1  Attacking Midfield",22/03/1997 (28),28,1.73,Wales,€18.00m,24/07/2021,30/06/2026,17/10/2025,"['England', 'Wales']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/harry-wilson/profil/spieler/279455,173.0
+Samuel Chukwueze,401922,Fulham,Right Winger,"             0
+0  Left Winger",22/05/1999 (26),26,1.72,Nigeria,€10.00m,01/09/2025,30/06/2026,17/06/2025,['Nigeria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/samuel-chukwueze/profil/spieler/401922,172.0
+Adama Traoré,204103,Fulham,Right Winger,"                0
+0  Centre-Forward
+1     Left Winger",25/01/1996 (29),29,1.78,Spain,€9.00m,12/08/2023,30/06/2026,30/05/2025,"['Spain', 'Mali']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adama-traore/profil/spieler/204103,178.0
+Rodrigo Muniz,735571,Fulham,Centre-Forward,,04/05/2001 (24),24,1.86,Brazil,€25.00m,20/08/2021,30/06/2030,17/10/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rodrigo-muniz/profil/spieler/735571,186.0
+Raúl Jiménez,206040,Fulham,Centre-Forward,,05/05/1991 (34),34,1.87,Mexico,€5.00m,25/07/2023,30/06/2026,30/05/2025,['Mexico'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/raul-jimenez/profil/spieler/206040,187.0
+Jonah Kusi-Asare,1069512,Fulham,Centre-Forward,,04/07/2007 (18),18,1.96,Sweden,€4.00m,01/09/2025,30/06/2026,17/10/2025,"['Ghana', 'Sweden']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jonah-kusi-asare/profil/spieler/1069512,196.0
+Anthony Patterson,475946,Sunderland,Goalkeeper,,10/05/2000 (25),25,1.89,England,€12.00m,01/07/2021,30/06/2028,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/anthony-patterson/profil/spieler/475946,189.0
+Robin Roefs,646991,Sunderland,Goalkeeper,,17/01/2003 (22),22,1.93,Netherlands,€12.00m,01/08/2025,30/06/2030,17/10/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/robin-roefs/profil/spieler/646991,193.0
+Blondy Nna Noukeu,696892,Sunderland,Goalkeeper,,31/05/2001 (24),24,1.96,Cameroon,€150k,02/08/2024,30/06/2026,27/05/2025,"['Cameroon', 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/blondy-nna-noukeu/profil/spieler/696892,196.0
+Simon Moore,123536,Sunderland,Goalkeeper,,19/05/1990 (35),35,1.91,England,€150k,01/07/2024,30/06/2026,27/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/simon-moore/profil/spieler/123536,191.0
+Dan Ballard,503686,Sunderland,Centre-Back,,22/09/1999 (26),26,1.87,Northern Ireland,€10.00m,01/07/2022,30/06/2028,17/10/2025,"['England', 'Northern Ireland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dan-ballard/profil/spieler/503686,187.0
+Omar Alderete,353032,Sunderland,Centre-Back,"           0
+0  Left-Back",26/12/1996 (28),28,1.88,Paraguay,€10.00m,12/08/2025,30/06/2029,17/10/2025,['Paraguay'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/omar-alderete/profil/spieler/353032,188.0
+Luke O'Nien,282939,Sunderland,Centre-Back,"                    0
+0          Right-Back
+1  Defensive Midfield",21/11/1994 (31),31,1.74,England,€1.50m,30/07/2018,30/06/2027,27/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luke-onien/profil/spieler/282939,174.0
+Aji Alese,502065,Sunderland,Centre-Back,"           0
+0  Left-Back",17/01/2001 (24),24,1.92,England,€1.00m,15/07/2022,30/06/2027,27/05/2025,"['England', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/aji-alese/profil/spieler/502065,192.0
+Joe Anderson,511551,Sunderland,Centre-Back,"           0
+0  Left-Back",06/02/2001 (24),24,1.88,England,€175k,31/01/2023,30/06/2026,27/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/joe-anderson/profil/spieler/511551,188.0
+Zak Johnson,827440,Sunderland,Centre-Back,"            0
+0  Right-Back",25/05/2005 (20),20,1.88,England,€75k,01/06/2025,30/06/2026,30/06/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/zak-johnson/profil/spieler/827440,188.0
+Dennis Cirkin,568006,Sunderland,Left-Back,"             0
+0  Centre-Back",06/04/2002 (23),23,1.82,England,€8.00m,11/08/2021,30/06/2026,27/05/2025,"['England', 'Ireland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dennis-cirkin/profil/spieler/568006,182.0
+Reinildo Mandava,240692,Sunderland,Left-Back,"               0
+0  Left Midfield
+1    Centre-Back",21/01/1994 (31),31,1.8,Mozambique,€5.00m,08/07/2025,30/06/2027,09/06/2025,['Mozambique'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/reinildo-mandava/profil/spieler/240692,180.0
+Arthur Masuaku,181380,Sunderland,Left-Back,"               0
+0  Left Midfield",07/11/1993 (32),32,1.79,DR Congo,€3.00m,10/08/2025,30/06/2027,18/06/2025,"['France', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/arthur-masuaku/profil/spieler/181380,179.0
+Leo Hjelde,661208,Sunderland,Left-Back,"             0
+0  Centre-Back",26/08/2003 (22),22,1.9,Norway,€2.00m,30/01/2024,30/06/2028,27/05/2025,"['England', 'Norway']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/leo-hjelde/profil/spieler/661208,190.0
+Lutsharel Geertruida,420210,Sunderland,Right-Back,"             0
+0  Centre-Back",18/07/2000 (25),25,1.84,Netherlands,€20.00m,01/09/2025,30/06/2026,05/06/2025,"['Curacao', 'Netherlands']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lutsharel-geertruida/profil/spieler/420210,184.0
+Trai Hume,515544,Sunderland,Right-Back,"             0
+0  Centre-Back
+1    Left-Back",18/03/2002 (23),23,1.8,Northern Ireland,€15.00m,04/01/2022,30/06/2030,17/10/2025,['Northern Ireland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/trai-hume/profil/spieler/515544,180.0
+Nordi Mukiele,348026,Sunderland,Right-Back,"                0
+0     Centre-Back
+1  Right Midfield",01/11/1997 (28),28,1.87,France,€10.00m,17/08/2025,30/06/2029,05/06/2025,"['France', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nordi-mukiele/profil/spieler/348026,187.0
+Timothée Pembélé,538998,Sunderland,Right-Back,"                0
+0     Centre-Back
+1  Right Midfield",09/09/2002 (23),23,1.83,France,€2.50m,01/09/2023,30/06/2028,03/06/2025,"['France', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/timothee-pembele/profil/spieler/538998,183.0
+Granit Xhaka,111455,Sunderland,Defensive Midfield,"                  0
+0  Central Midfield",27/09/1992 (33),33,1.86,Switzerland,€12.00m,30/07/2025,30/06/2028,05/06/2025,['Switzerland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/granit-xhaka/profil/spieler/111455,186.0
+Habib Diarra,876631,Sunderland,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",03/01/2004 (21),21,1.78,Senegal,€32.00m,01/07/2025,30/06/2030,17/10/2025,"['France', 'Senegal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/habib-diarra/profil/spieler/876631,178.0
+Enzo Le Fée,633992,Sunderland,Central Midfield,"                    0
+0  Attacking Midfield
+1       Left Midfield",03/02/2000 (25),25,1.73,France,€20.00m,01/07/2025,30/06/2029,17/10/2025,['France'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/enzo-le-fee/profil/spieler/633992,173.0
+Noah Sadiki,727089,Sunderland,Central Midfield,"                    0
+0  Defensive Midfield
+1          Right-Back",17/12/2004 (20),20,1.73,DR Congo,€17.00m,04/07/2025,30/06/2030,17/10/2025,"['DR Congo', 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/noah-sadiki/profil/spieler/727089,173.0
+Dan Neil,570336,Sunderland,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",13/12/2001 (23),23,1.85,England,€7.50m,01/07/2021,30/06/2026,27/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dan-neil/profil/spieler/570336,185.0
+Jay Matete,535479,Sunderland,Central Midfield,"                    0
+0  Defensive Midfield",11/02/2001 (24),24,1.76,England,€400k,31/01/2022,30/06/2026,18/06/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jay-matete/profil/spieler/535479,176.0
+Abdoullah Ba,654412,Sunderland,Right Midfield,"                    0
+0    Central Midfield
+1  Attacking Midfield",31/07/2003 (22),22,1.8,France,€2.50m,31/08/2022,30/06/2027,02/06/2025,"['France', 'Mauritania']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/abdoullah-ba/profil/spieler/654412,180.0
+Chris Rigg,947411,Sunderland,Attacking Midfield,"                  0
+0  Central Midfield
+1    Right Midfield",18/06/2007 (18),18,1.77,England,€25.00m,01/07/2023,30/06/2030,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/chris-rigg/profil/spieler/947411,177.0
+Harrison Jones,937840,Sunderland,Attacking Midfield,"                  0
+0  Central Midfield",25/12/2004 (20),20,1.85,England,€150k,01/07/2025,30/06/2026,27/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/harrison-jones/profil/spieler/937840,185.0
+Simon Adingra,658536,Sunderland,Left Winger,"               0
+0   Right Winger
+1  Left Midfield",01/01/2002 (23),23,1.75,Cote d'Ivoire,€25.00m,10/07/2025,30/06/2030,17/10/2025,"[""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/simon-adingra/profil/spieler/658536,175.0
+Romaine Mundle,696181,Sunderland,Left Winger,"              0
+0  Right Winger",24/04/2003 (22),22,,England,€6.00m,01/02/2024,30/06/2028,27/05/2025,"['England', 'Jamaica']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/romaine-mundle/profil/spieler/696181,
+Chemsdine Talbi,743384,Sunderland,Right Winger,"                    0
+0         Left Winger
+1  Attacking Midfield",09/05/2005 (20),20,1.75,Morocco,€20.00m,09/07/2025,30/06/2030,17/10/2025,"['Morocco', 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/chemsdine-talbi/profil/spieler/743384,175.0
+Bertrand Traoré,131996,Sunderland,Right Winger,"                0
+0  Centre-Forward
+1     Left Winger",06/09/1995 (30),30,1.81,Burkina Faso,€5.00m,01/09/2025,30/06/2026,17/10/2025,['Burkina Faso'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/bertrand-traore/profil/spieler/131996,181.0
+Ian Poveda,392763,Sunderland,Right Winger,"             0
+0  Left Winger",09/02/2000 (25),25,1.67,Colombia,€900k,24/07/2024,30/06/2027,27/05/2025,"['England', 'Colombia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ian-poveda/profil/spieler/392763,167.0
+Brian Brobbey,473169,Sunderland,Centre-Forward,,01/02/2002 (23),23,1.8,Netherlands,€20.00m,01/09/2025,30/06/2029,17/10/2025,"['Ghana', 'Netherlands']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/brian-brobbey/profil/spieler/473169,180.0
+Eliezer Mayenda,967346,Sunderland,Centre-Forward,"              0
+0  Right Winger
+1   Left Winger",08/05/2005 (20),20,1.8,Spain,€18.00m,28/07/2023,30/06/2030,17/10/2025,"['France', 'Spain']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/eliezer-mayenda/profil/spieler/967346,180.0
+Wilson Isidor,494237,Sunderland,Centre-Forward,"              0
+0  Right Winger
+1   Left Winger",27/08/2000 (25),25,1.86,France,€15.00m,01/02/2025,30/06/2028,17/10/2025,"['France', 'Haiti']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/wilson-isidor/profil/spieler/494237,186.0
+Ahmed Abdullahi,1015619,Sunderland,Centre-Forward,,19/06/2004 (21),21,,Nigeria,€1.00m,30/08/2024,30/06/2028,27/05/2025,['Nigeria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ahmed-abdullahi/profil/spieler/1015619,
+Lucas Perri,352041,Leeds,Goalkeeper,,10/12/1997 (27),27,1.97,Brazil,€16.00m,26/07/2025,30/06/2029,17/10/2025,"['Italy', 'Brazil']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lucas-perri/profil/spieler/352041,197.0
+Illan Meslier,542586,Leeds,Goalkeeper,,02/03/2000 (25),25,1.97,France,€14.00m,27/07/2020,30/06/2026,17/10/2025,['France'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/illan-meslier/profil/spieler/542586,197.0
+Karl Darlow,99397,Leeds,Goalkeeper,,08/10/1990 (35),35,1.9,Wales,€200k,29/07/2023,30/06/2026,27/05/2025,"['England', 'Wales']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/karl-darlow/profil/spieler/99397,190.0
+Alex Cairns,194386,Leeds,Goalkeeper,,04/01/1993 (32),32,1.83,England,€100k,08/07/2024,30/06/2026,27/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alex-cairns/profil/spieler/194386,183.0
+Pascal Struijk,410708,Leeds,Centre-Back,"                    0
+0           Left-Back
+1  Defensive Midfield",11/08/1999 (26),26,1.9,Netherlands,€20.00m,01/01/2020,30/06/2027,17/10/2025,"['Netherlands', 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pascal-struijk/profil/spieler/410708,190.0
+Jaka Bijol,371851,Leeds,Centre-Back,"                    0
+0  Defensive Midfield",05/02/1999 (26),26,1.9,Slovenia,€18.00m,01/07/2025,30/06/2030,17/06/2025,['Slovenia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jaka-bijol/profil/spieler/371851,190.0
+Joe Rodon,297212,Leeds,Centre-Back,,22/10/1997 (28),28,1.93,Wales,€10.00m,02/07/2024,30/06/2028,27/05/2025,['Wales'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/joe-rodon/profil/spieler/297212,193.0
+Sebastiaan Bornauw,338629,Leeds,Centre-Back,,22/03/1999 (26),26,1.91,Belgium,€6.00m,01/07/2025,30/06/2029,05/06/2025,['Belgium'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sebastiaan-bornauw/profil/spieler/338629,191.0
+Gabriel Gudmundsson,362108,Leeds,Left-Back,"               0
+0  Left Midfield
+1    Left Winger",29/04/1999 (26),26,1.8,Sweden,€12.00m,08/07/2025,30/06/2029,17/10/2025,['Sweden'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gabriel-gudmundsson/profil/spieler/362108,180.0
+Sam Byram,236953,Leeds,Left-Back,"                0
+0      Right-Back
+1  Right Midfield",16/09/1993 (32),32,1.83,England,€800k,05/08/2023,30/06/2026,27/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sam-byram/profil/spieler/236953,183.0
+James Justin,413220,Leeds,Right-Back,"                0
+0       Left-Back
+1  Right Midfield",23/02/1998 (27),27,1.83,England,€13.00m,25/08/2025,30/06/2029,30/05/2025,"['England', 'St. Lucia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/james-justin/profil/spieler/413220,183.0
+Jayden Bogle,465717,Leeds,Right-Back,"                0
+0  Right Midfield",27/07/2000 (25),25,1.78,England,€10.00m,20/07/2024,30/06/2028,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jayden-bogle/profil/spieler/465717,178.0
+Ethan Ampadu,392771,Leeds,Defensive Midfield,"             0
+0  Centre-Back",14/09/2000 (25),25,1.82,Wales,€20.00m,19/07/2023,30/06/2027,27/05/2025,"['England', 'Wales']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ethan-ampadu/profil/spieler/392771,182.0
+Anton Stach,344069,Leeds,Defensive Midfield,"                  0
+0  Central Midfield
+1       Centre-Back",15/11/1998 (27),27,1.94,Germany,€20.00m,22/07/2025,30/06/2029,17/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/anton-stach/profil/spieler/344069,194.0
+Ilia Gruev,381753,Leeds,Defensive Midfield,"                  0
+0  Central Midfield",06/05/2000 (25),25,1.85,Bulgaria,€8.00m,31/08/2023,30/06/2027,17/10/2025,"['Germany', 'Bulgaria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ilia-gruev/profil/spieler/381753,185.0
+Sean Longstaff,346707,Leeds,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",30/10/1997 (28),28,1.87,England,€16.00m,18/07/2025,30/06/2029,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sean-longstaff/profil/spieler/346707,187.0
+Ao Tanaka,489359,Leeds,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",10/09/1998 (27),27,1.8,Japan,€10.00m,30/08/2024,30/06/2028,27/05/2025,['Japan'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ao-tanaka/profil/spieler/489359,180.0
+Brenden Aaronson,393323,Leeds,Attacking Midfield,"                  0
+0     Left Midfield
+1  Central Midfield",22/10/2000 (25),25,1.77,United States,€15.00m,01/07/2022,30/06/2027,27/05/2025,['United States'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/brenden-aaronson/profil/spieler/393323,177.0
+Sam Chambers,980343,Leeds,Attacking Midfield,"                  0
+0  Central Midfield
+1    Right Midfield",18/08/2007 (18),18,1.76,Scotland,€200k,01/07/2025,30/06/2028,27/05/2025,"['England', 'Scotland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sam-chambers/profil/spieler/980343,176.0
+Noah Okafor,346890,Leeds,Left Winger,"                0
+0  Centre-Forward
+1    Right Winger",24/05/2000 (25),25,1.85,Switzerland,€18.00m,21/08/2025,30/06/2029,17/10/2025,"['Switzerland', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/noah-okafor/profil/spieler/346890,185.0
+Jack Harrison,417346,Leeds,Left Winger,"              0
+0  Right Winger",20/11/1996 (29),29,1.75,England,€12.00m,02/07/2021,30/06/2028,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jack-harrison/profil/spieler/417346,175.0
+Wilfried Gnonto,627626,Leeds,Right Winger,"                0
+0     Left Winger
+1  Second Striker",05/11/2003 (22),22,1.7,Italy,€22.00m,01/09/2022,30/06/2028,27/05/2025,"['Italy', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/wilfried-gnonto/profil/spieler/627626,170.0
+Daniel James,319301,Leeds,Right Winger,"                0
+0     Left Winger
+1  Right Midfield",10/11/1997 (28),28,1.71,Wales,€16.00m,31/08/2021,30/06/2029,17/10/2025,"['England', 'Wales']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/daniel-james/profil/spieler/319301,171.0
+Joël Piroe,369962,Leeds,Centre-Forward,"                    0
+0  Attacking Midfield
+1        Right Winger",02/08/1999 (26),26,1.85,Netherlands,€18.00m,24/08/2023,30/06/2027,27/05/2025,"['Netherlands', 'Suriname']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/joel-piroe/profil/spieler/369962,185.0
+Dominic Calvert-Lewin,306024,Leeds,Centre-Forward,"                0
+0  Second Striker
+1     Left Winger",16/03/1997 (28),28,1.89,England,€16.00m,15/08/2025,30/06/2028,30/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dominic-calvert-lewin/profil/spieler/306024,189.0
+Lukas Nmecha,314288,Leeds,Centre-Forward,"              0
+0  Right Winger
+1   Left Winger",14/12/1998 (26),26,1.85,Germany,€5.00m,01/07/2025,30/06/2027,17/10/2025,"['England', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lukas-nmecha/profil/spieler/314288,185.0
+Max Weiß,829299,Burnley,Goalkeeper,,15/06/2004 (21),21,1.9,Germany,€4.00m,01/07/2025,30/06/2029,19/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/max-weiss/profil/spieler/829299,190.0
+Martin Dúbravka,74960,Burnley,Goalkeeper,,15/01/1989 (36),36,1.91,Slovakia,€1.00m,07/08/2025,30/06/2026,30/05/2025,"['Slovakia', 'CSSR']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/martin-dubravka/profil/spieler/74960,191.0
+Václav Hladký,95795,Burnley,Goalkeeper,,14/11/1990 (35),35,1.92,Czech Republic,€300k,19/07/2024,30/06/2026,27/05/2025,"['CSSR', 'Czech Republic']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/vaclav-hladky/profil/spieler/95795,192.0
+Maxime Estève,842341,Burnley,Centre-Back,,26/05/2002 (23),23,1.93,France,€24.00m,01/07/2024,30/06/2030,17/10/2025,['France'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/maxime-esteve/profil/spieler/842341,193.0
+Bashir Humphreys,612517,Burnley,Centre-Back,"            0
+0   Left-Back
+1  Right-Back",15/03/2003 (22),22,1.86,England,€12.00m,01/07/2025,-,17/10/2025,"['England', 'Uganda']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/bashir-humphreys/profil/spieler/612517,186.0
+Joe Worrall,415970,Burnley,Centre-Back,,10/01/1997 (28),28,1.9,England,€5.00m,22/08/2024,30/06/2028,27/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/joe-worrall/profil/spieler/415970,190.0
+Axel Tuanzebe,342046,Burnley,Centre-Back,"            0
+0  Right-Back",14/11/1997 (28),28,1.85,DR Congo,€5.00m,01/07/2025,-,30/05/2025,"['England', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/axel-tuanzebe/profil/spieler/342046,185.0
+Hjalmar Ekdal,392179,Burnley,Centre-Back,,21/10/1998 (27),27,1.87,Sweden,€4.50m,21/01/2023,30/06/2027,28/05/2025,['Sweden'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/hjalmar-ekdal/profil/spieler/392179,187.0
+Jordan Beyer,403898,Burnley,Centre-Back,"            0
+0  Right-Back",19/05/2000 (25),25,1.87,Germany,€4.00m,01/07/2023,30/06/2027,17/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jordan-beyer/profil/spieler/403898,187.0
+Hannes Delcroix,338635,Burnley,Centre-Back,"           0
+0  Left-Back",28/02/1999 (26),26,1.83,Haiti,€2.50m,22/08/2023,-,17/10/2025,"['Belgium', 'Haiti']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/hannes-delcroix/profil/spieler/338635,183.0
+Quilindschy Hartman,514285,Burnley,Left-Back,,14/11/2001 (24),24,1.83,Netherlands,€14.00m,01/07/2025,30/06/2029,28/05/2025,"['Curacao', 'Netherlands']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/quilindschy-hartman/profil/spieler/514285,183.0
+Lucas Pires,927768,Burnley,Left-Back,,24/03/2001 (24),24,1.82,Brazil,€5.00m,16/07/2024,30/06/2028,27/05/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lucas-pires/profil/spieler/927768,182.0
+Oliver Sonne,541628,Burnley,Right-Back,"                0
+0  Right Midfield
+1       Left-Back",10/11/2000 (25),25,1.84,Peru,€4.00m,01/01/2025,30/06/2029,17/10/2025,"['Peru', 'Denmark']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/oliver-sonne/profil/spieler/541628,184.0
+Connor Roberts,214666,Burnley,Right-Back,"                0
+0       Left-Back
+1  Right Midfield",23/09/1995 (30),30,1.75,Wales,€3.50m,31/08/2021,30/06/2027,17/10/2025,['Wales'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/connor-roberts/profil/spieler/214666,175.0
+Kyle Walker,95424,Burnley,Right-Back,"             0
+0  Centre-Back",28/05/1990 (35),35,1.83,England,€3.00m,05/07/2025,30/06/2027,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kyle-walker/profil/spieler/95424,183.0
+Lesley Ugochukwu,711999,Burnley,Defensive Midfield,"                  0
+0  Central Midfield",26/03/2004 (21),21,1.9,France,€22.00m,06/08/2025,30/06/2030,17/10/2025,"['France', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lesley-ugochukwu/profil/spieler/711999,190.0
+Florentino,357162,Burnley,Defensive Midfield,,19/08/1999 (26),26,1.84,Portugal,€22.00m,01/09/2025,30/06/2026,30/05/2025,"['Angola', 'Portugal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/florentino/profil/spieler/357162,184.0
+Josh Cullen,242606,Burnley,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",07/04/1996 (29),29,1.75,Ireland,€6.50m,12/07/2022,30/06/2027,27/05/2025,"['England', 'Ireland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/josh-cullen/profil/spieler/242606,175.0
+Josh Laurent,314241,Burnley,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",06/05/1995 (30),30,1.88,England,€2.00m,30/08/2024,30/06/2026,17/10/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/josh-laurent/profil/spieler/314241,188.0
+Hannibal,607224,Burnley,Attacking Midfield,"                  0
+0  Central Midfield",21/01/2003 (22),22,1.83,Tunisia,€12.00m,28/08/2024,30/06/2028,27/05/2025,"['France', 'Tunisia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/hannibal/profil/spieler/607224,183.0
+Mike Tresor,381963,Burnley,Attacking Midfield,"              0
+0   Left Winger
+1  Right Winger",28/05/1999 (26),26,1.72,Belgium,€5.00m,01/07/2024,30/06/2028,27/05/2025,['Belgium'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mike-tresor/profil/spieler/381963,172.0
+Jaidon Anthony,684210,Burnley,Left Winger,"               0
+0   Right Winger
+1  Left Midfield",01/12/1999 (25),25,1.83,England,€14.00m,01/07/2025,30/06/2029,17/10/2025,"['England', 'Jamaica']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jaidon-anthony/profil/spieler/684210,183.0
+Jacob Bruun Larsen,293281,Burnley,Left Winger,"                    0
+0        Right Winger
+1  Attacking Midfield",19/09/1998 (27),27,1.83,Denmark,€5.00m,11/07/2025,30/06/2029,05/06/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jacob-bruun-larsen/profil/spieler/293281,183.0
+Jaydon Banel,706889,Burnley,Left Winger,"                0
+0    Right Winger
+1  Centre-Forward",19/10/2004 (21),21,1.73,Netherlands,€1.00m,03/02/2025,30/06/2029,27/05/2025,"['Netherlands', 'Suriname']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jaydon-banel/profil/spieler/706889,173.0
+Loum Tchaouna,607226,Burnley,Right Winger,"                0
+0  Right Midfield
+1  Centre-Forward",08/09/2003 (22),22,1.8,France,€15.00m,02/07/2025,30/06/2030,17/10/2025,"['France', 'Chad']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/loum-tchaouna/profil/spieler/607226,180.0
+Marcus Edwards,314367,Burnley,Right Winger,"                    0
+0  Attacking Midfield
+1         Left Winger",03/12/1998 (26),26,1.68,England,€10.00m,01/07/2025,30/06/2029,17/10/2025,"['England', 'Cyprus']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marcus-edwards/profil/spieler/314367,168.0
+Enock Agyei,724041,Burnley,Right Winger,"             0
+0  Left Winger",13/01/2005 (20),20,1.72,Belgium,€600k,01/07/2024,30/06/2027,27/05/2025,"['Ghana', 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/enock-agyei/profil/spieler/724041,172.0
+Armando Broja,571743,Burnley,Centre-Forward,,10/09/2001 (24),24,1.91,Albania,€14.00m,08/08/2025,30/06/2030,17/10/2025,"['England', 'Albania']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/armando-broja/profil/spieler/571743,191.0
+Zeki Amdouni,548729,Burnley,Centre-Forward,"                    0
+0  Attacking Midfield
+1        Right Winger",04/12/2000 (24),24,1.85,Switzerland,€10.00m,19/07/2023,30/06/2028,17/10/2025,"['Türkiye', 'Switzerland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/zeki-amdouni/profil/spieler/548729,185.0
+Lyle Foster,467623,Burnley,Centre-Forward,,03/09/2000 (25),25,1.85,South Africa,€8.00m,25/01/2023,30/06/2028,17/10/2025,['South Africa'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lyle-foster/profil/spieler/467623,185.0
+Zian Flemming,411537,Burnley,Centre-Forward,"                    0
+0  Attacking Midfield
+1    Central Midfield",01/08/1998 (27),27,1.85,Netherlands,€8.00m,01/07/2025,30/06/2029,17/10/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/zian-flemming/profil/spieler/411537,185.0
+Ashley Barnes,63200,Burnley,Centre-Forward,"                0
+0  Second Striker
+1     Left Winger",30/10/1989 (36),36,1.85,England,€250k,02/01/2025,30/06/2026,27/05/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ashley-barnes/profil/spieler/63200,185.0

@@ -43,14 +43,22 @@
   "shotsOnTarget",
   "blockedShots",
   "goalConversionPercentage",
-  "hitWoodwork",
   "offsides",
-  "expectedGoals",
   "errorLeadToGoal",
   "errorLeadToShot",
   "passToAssist",
   "player",
   "team",
-  "player id",
-  "team id"
+  "region",
+  "country",
+  "player_position",
+  "player_nationality",
+  "player_foot", 
+  "games", 
+  "time",
+  "xG",
+  "xA",
+  "xGChain",
+  "xGBuildup"
+
 ]

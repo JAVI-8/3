@@ -1,0 +1,778 @@
+﻿club,club_id,player,player_id,market_value_str,market_value_eur,player_url,player_norm,club_norm,season,competition_code
+Paris Saint-Germain,583,Gianluigi Donnarumma,315858,€50.00m,50000000.0,https://www.transfermarkt.com/gianluigi-donnarumma/profil/spieler/315858,gianluigi donnarumma,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Keylor Navas,79422,€8.00m,8000000.0,https://www.transfermarkt.com/keylor-navas/profil/spieler/79422,keylor navas,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Sergio Rico,207302,€4.00m,4000000.0,https://www.transfermarkt.com/sergio-rico/profil/spieler/207302,sergio rico,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Alexandre Letellier,93730,€400k,400000.0,https://www.transfermarkt.com/alexandre-letellier/profil/spieler/93730,alexandre letellier,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Garissone Innocent,460626,€300k,300000.0,https://www.transfermarkt.com/garissone-innocent/profil/spieler/460626,garissone innocent,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Denis Franchi,606576,€250k,250000.0,https://www.transfermarkt.com/denis-franchi/profil/spieler/606576,denis franchi,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Marquinhos,181767,€70.00m,70000000.0,https://www.transfermarkt.com/marquinhos/profil/spieler/181767,marquinhos,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Presnel Kimpembe,282041,€40.00m,40000000.0,https://www.transfermarkt.com/presnel-kimpembe/profil/spieler/282041,presnel kimpembe,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Thilo Kehrer,228948,€22.00m,22000000.0,https://www.transfermarkt.com/thilo-kehrer/profil/spieler/228948,thilo kehrer,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Abdou Diallo,229005,€18.00m,18000000.0,https://www.transfermarkt.com/abdou-diallo/profil/spieler/229005,abdou diallo,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Danilo Pereira,141050,€14.00m,14000000.0,https://www.transfermarkt.com/danilo-pereira/profil/spieler/141050,danilo pereira,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Sergio Ramos,25557,€6.00m,6000000.0,https://www.transfermarkt.com/sergio-ramos/profil/spieler/25557,sergio ramos,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,El Chadaille Bitshiabu,787912,€2.00m,2000000.0,https://www.transfermarkt.com/el-chadaille-bitshiabu/profil/spieler/787912,el chadaille bitshiabu,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Nuno Mendes,616341,€40.00m,40000000.0,https://www.transfermarkt.com/nuno-mendes/profil/spieler/616341,nuno mendes,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Juan Bernat,126719,€12.00m,12000000.0,https://www.transfermarkt.com/juan-bernat/profil/spieler/126719,juan bernat,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Layvin Kurzawa,126710,€5.00m,5000000.0,https://www.transfermarkt.com/layvin-kurzawa/profil/spieler/126710,layvin kurzawa,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Teddy Alloh,618405,€400k,400000.0,https://www.transfermarkt.com/teddy-alloh/profil/spieler/618405,teddy alloh,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Achraf Hakimi,398073,€65.00m,65000000.0,https://www.transfermarkt.com/achraf-hakimi/profil/spieler/398073,achraf hakimi,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Colin Dagba,460629,€7.00m,7000000.0,https://www.transfermarkt.com/colin-dagba/profil/spieler/460629,colin dagba,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Leandro Paredes,166237,€17.00m,17000000.0,https://www.transfermarkt.com/leandro-paredes/profil/spieler/166237,leandro paredes,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Idrissa Gueye,126665,€12.00m,12000000.0,https://www.transfermarkt.com/idrissa-gueye/profil/spieler/126665,idrissa gueye,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Marco Verratti,102558,€50.00m,50000000.0,https://www.transfermarkt.com/marco-verratti/profil/spieler/102558,marco verratti,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Georginio Wijnaldum,49499,€18.00m,18000000.0,https://www.transfermarkt.com/georginio-wijnaldum/profil/spieler/49499,georginio wijnaldum,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Ander Herrera,99343,€10.00m,10000000.0,https://www.transfermarkt.com/ander-herrera/profil/spieler/99343,ander herrera,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Edouard Michut,659521,€3.00m,3000000.0,https://www.transfermarkt.com/edouard-michut/profil/spieler/659521,edouard michut,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Junior Dina Ebimbe,536482,€5.00m,5000000.0,https://www.transfermarkt.com/junior-dina-ebimbe/profil/spieler/536482,junior dina ebimbe,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Neymar,68290,€75.00m,75000000.0,https://www.transfermarkt.com/neymar/profil/spieler/68290,neymar,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Rafinha,129473,€9.00m,9000000.0,https://www.transfermarkt.com/rafinha/profil/spieler/129473,rafinha,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Xavi Simons,566931,€4.00m,4000000.0,https://www.transfermarkt.com/xavi-simons/profil/spieler/566931,xavi simons,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Nathan Bitumazala,618415,€400k,400000.0,https://www.transfermarkt.com/nathan-bitumazala/profil/spieler/618415,nathan bitumazala,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Julian Draxler,85148,€18.00m,18000000.0,https://www.transfermarkt.com/julian-draxler/profil/spieler/85148,julian draxler,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Ismaël Gharbi,810096,€1.50m,1500000.0,https://www.transfermarkt.com/ismael-gharbi/profil/spieler/810096,ismael gharbi,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Kenny Nagera,618416,€300k,300000.0,https://www.transfermarkt.com/kenny-nagera/profil/spieler/618416,kenny nagera,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Djeidi Gassama,795657,€300k,300000.0,https://www.transfermarkt.com/djeidi-gassama/profil/spieler/795657,djeidi gassama,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Lionel Messi,28003,€50.00m,50000000.0,https://www.transfermarkt.com/lionel-messi/profil/spieler/28003,lionel messi,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Pablo Sarabia,74230,€25.00m,25000000.0,https://www.transfermarkt.com/pablo-sarabia/profil/spieler/74230,pablo sarabia,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Ángel Di María,45320,€12.00m,12000000.0,https://www.transfermarkt.com/angel-di-maria/profil/spieler/45320,angel di maria,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Kylian Mbappé,342229,€160.00m,160000000.0,https://www.transfermarkt.com/kylian-mbappe/profil/spieler/342229,kylian mbappe,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Mauro Icardi,68863,€22.00m,22000000.0,https://www.transfermarkt.com/mauro-icardi/profil/spieler/68863,mauro icardi,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Arnaud Kalimuendo,585959,€18.00m,18000000.0,https://www.transfermarkt.com/arnaud-kalimuendo/profil/spieler/585959,arnaud kalimuendo,paris saint-germain,2021,FR1
+Paris Saint-Germain,583,Sekou Yansané,853344,€300k,300000.0,https://www.transfermarkt.com/sekou-yansane/profil/spieler/853344,sekou yansane,paris saint-germain,2021,FR1
+Olympique Lyon,1041,Anthony Lopes,60561,€10.00m,10000000.0,https://www.transfermarkt.com/anthony-lopes/profil/spieler/60561,anthony lopes,olympique lyon,2021,FR1
+Olympique Lyon,1041,Julian Pollersbeck,228975,€800k,800000.0,https://www.transfermarkt.com/julian-pollersbeck/profil/spieler/228975,julian pollersbeck,olympique lyon,2021,FR1
+Olympique Lyon,1041,Kayne Bonnevie,618465,€250k,250000.0,https://www.transfermarkt.com/kayne-bonnevie/profil/spieler/618465,kayne bonnevie,olympique lyon,2021,FR1
+Olympique Lyon,1041,Malcolm Barcola,461581,€250k,250000.0,https://www.transfermarkt.com/malcolm-barcola/profil/spieler/461581,malcolm barcola,olympique lyon,2021,FR1
+Olympique Lyon,1041,Castello Lukeba,618472,€20.00m,20000000.0,https://www.transfermarkt.com/castello-lukeba/profil/spieler/618472,castello lukeba,olympique lyon,2021,FR1
+Olympique Lyon,1041,Jason Denayer,277114,€14.00m,14000000.0,https://www.transfermarkt.com/jason-denayer/profil/spieler/277114,jason denayer,olympique lyon,2021,FR1
+Olympique Lyon,1041,Sinaly Diomandé,702441,€5.00m,5000000.0,https://www.transfermarkt.com/sinaly-diomande/profil/spieler/702441,sinaly diomande,olympique lyon,2021,FR1
+Olympique Lyon,1041,Jérôme Boateng,26485,€3.50m,3500000.0,https://www.transfermarkt.com/jerome-boateng/profil/spieler/26485,jerome boateng,olympique lyon,2021,FR1
+Olympique Lyon,1041,Marcelo,52920,€1.00m,1000000.0,https://www.transfermarkt.com/marcelo/profil/spieler/52920,marcelo,olympique lyon,2021,FR1
+Olympique Lyon,1041,Damien Da Silva,57370,€1.00m,1000000.0,https://www.transfermarkt.com/damien-da-silva/profil/spieler/57370,damien da silva,olympique lyon,2021,FR1
+Olympique Lyon,1041,Emerson,181778,€14.00m,14000000.0,https://www.transfermarkt.com/emerson/profil/spieler/181778,emerson,olympique lyon,2021,FR1
+Olympique Lyon,1041,Henrique Silva,204072,€1.50m,1500000.0,https://www.transfermarkt.com/henrique-silva/profil/spieler/204072,henrique silva,olympique lyon,2021,FR1
+Olympique Lyon,1041,Hugo Vogel,743519,€500k,500000.0,https://www.transfermarkt.com/hugo-vogel/profil/spieler/743519,hugo vogel,olympique lyon,2021,FR1
+Olympique Lyon,1041,Malo Gusto,620322,€12.00m,12000000.0,https://www.transfermarkt.com/malo-gusto/profil/spieler/620322,malo gusto,olympique lyon,2021,FR1
+Olympique Lyon,1041,Léo Dubois,236400,€10.00m,10000000.0,https://www.transfermarkt.com/leo-dubois/profil/spieler/236400,leo dubois,olympique lyon,2021,FR1
+Olympique Lyon,1041,Irvyn Lomami,802987,€200k,200000.0,https://www.transfermarkt.com/irvyn-lomami/profil/spieler/802987,irvyn lomami,olympique lyon,2021,FR1
+Olympique Lyon,1041,Thiago Mendes,135617,€9.00m,9000000.0,https://www.transfermarkt.com/thiago-mendes/profil/spieler/135617,thiago mendes,olympique lyon,2021,FR1
+Olympique Lyon,1041,Bruno Guimarães,520624,€40.00m,40000000.0,https://www.transfermarkt.com/bruno-guimaraes/profil/spieler/520624,bruno guimaraes,olympique lyon,2021,FR1
+Olympique Lyon,1041,Tanguy Ndombélé,450936,€30.00m,30000000.0,https://www.transfermarkt.com/tanguy-ndombele/profil/spieler/450936,tanguy ndombele,olympique lyon,2021,FR1
+Olympique Lyon,1041,Maxence Caqueret,395237,€25.00m,25000000.0,https://www.transfermarkt.com/maxence-caqueret/profil/spieler/395237,maxence caqueret,olympique lyon,2021,FR1
+Olympique Lyon,1041,Pape Cheikh,336828,€1.80m,1800000.0,https://www.transfermarkt.com/pape-cheikh/profil/spieler/336828,pape cheikh,olympique lyon,2021,FR1
+Olympique Lyon,1041,Habib Keïta,669000,€800k,800000.0,https://www.transfermarkt.com/habib-keita/profil/spieler/669000,habib keita,olympique lyon,2021,FR1
+Olympique Lyon,1041,Florent Sanchez,607225,€600k,600000.0,https://www.transfermarkt.com/florent-sanchez/profil/spieler/607225,florent sanchez,olympique lyon,2021,FR1
+Olympique Lyon,1041,Noam Bonnet,729677,€150k,150000.0,https://www.transfermarkt.com/noam-bonnet/profil/spieler/729677,noam bonnet,olympique lyon,2021,FR1
+Olympique Lyon,1041,Lucas Paquetá,444523,€35.00m,35000000.0,https://www.transfermarkt.com/lucas-paqueta/profil/spieler/444523,lucas paqueta,olympique lyon,2021,FR1
+Olympique Lyon,1041,Houssem Aouar,395693,€25.00m,25000000.0,https://www.transfermarkt.com/houssem-aouar/profil/spieler/395693,houssem aouar,olympique lyon,2021,FR1
+Olympique Lyon,1041,Romain Faivre,555076,€15.00m,15000000.0,https://www.transfermarkt.com/romain-faivre/profil/spieler/555076,romain faivre,olympique lyon,2021,FR1
+Olympique Lyon,1041,Jeff Reine-Adélaïde,326300,€14.00m,14000000.0,https://www.transfermarkt.com/jeff-reine-adelaide/profil/spieler/326300,jeff reine-adelaide,olympique lyon,2021,FR1
+Olympique Lyon,1041,Xherdan Shaqiri,86792,€7.00m,7000000.0,https://www.transfermarkt.com/xherdan-shaqiri/profil/spieler/86792,xherdan shaqiri,olympique lyon,2021,FR1
+Olympique Lyon,1041,Maxwel Cornet,234781,€15.00m,15000000.0,https://www.transfermarkt.com/maxwel-cornet/profil/spieler/234781,maxwel cornet,olympique lyon,2021,FR1
+Olympique Lyon,1041,Bradley Barcola,708265,€1.00m,1000000.0,https://www.transfermarkt.com/bradley-barcola/profil/spieler/708265,bradley barcola,olympique lyon,2021,FR1
+Olympique Lyon,1041,Madyan Sounni,729680,€150k,150000.0,https://www.transfermarkt.com/madyan-sounni/profil/spieler/729680,madyan sounni,olympique lyon,2021,FR1
+Olympique Lyon,1041,Tetê,371256,€22.00m,22000000.0,https://www.transfermarkt.com/tete/profil/spieler/371256,tete,olympique lyon,2021,FR1
+Olympique Lyon,1041,Rayan Cherki,607223,€18.00m,18000000.0,https://www.transfermarkt.com/rayan-cherki/profil/spieler/607223,rayan cherki,olympique lyon,2021,FR1
+Olympique Lyon,1041,Lenny Pintor,418660,€1.50m,1500000.0,https://www.transfermarkt.com/lenny-pintor/profil/spieler/418660,lenny pintor,olympique lyon,2021,FR1
+Olympique Lyon,1041,Moussa Dembélé,229004,€20.00m,20000000.0,https://www.transfermarkt.com/moussa-dembele/profil/spieler/229004,moussa dembele,olympique lyon,2021,FR1
+Olympique Lyon,1041,Karl Toko Ekambi,315110,€15.00m,15000000.0,https://www.transfermarkt.com/karl-toko-ekambi/profil/spieler/315110,karl toko ekambi,olympique lyon,2021,FR1
+Olympique Lyon,1041,Tino Kadewere,384060,€6.00m,6000000.0,https://www.transfermarkt.com/tino-kadewere/profil/spieler/384060,tino kadewere,olympique lyon,2021,FR1
+Olympique Lyon,1041,Islam Slimani,174915,€1.50m,1500000.0,https://www.transfermarkt.com/islam-slimani/profil/spieler/174915,islam slimani,olympique lyon,2021,FR1
+Olympique Lyon,1041,Gaël Nsombi,744942,€200k,200000.0,https://www.transfermarkt.com/gael-nsombi/profil/spieler/744942,gael nsombi,olympique lyon,2021,FR1
+AS Monaco,162,Alexander Nübel,195778,€8.00m,8000000.0,https://www.transfermarkt.com/alexander-nubel/profil/spieler/195778,alexander nubel,as monaco,2021,FR1
+AS Monaco,162,Radoslaw Majecki,346546,€3.00m,3000000.0,https://www.transfermarkt.com/radoslaw-majecki/profil/spieler/346546,radoslaw majecki,as monaco,2021,FR1
+AS Monaco,162,Vito Mannone,33781,€500k,500000.0,https://www.transfermarkt.com/vito-mannone/profil/spieler/33781,vito mannone,as monaco,2021,FR1
+AS Monaco,162,Yann Lienard,745341,€200k,200000.0,https://www.transfermarkt.com/yann-lienard/profil/spieler/745341,yann lienard,as monaco,2021,FR1
+AS Monaco,162,Benoît Badiashile,463603,€30.00m,30000000.0,https://www.transfermarkt.com/benoit-badiashile/profil/spieler/463603,benoit badiashile,as monaco,2021,FR1
+AS Monaco,162,Axel Disasi,386047,€17.00m,17000000.0,https://www.transfermarkt.com/axel-disasi/profil/spieler/386047,axel disasi,as monaco,2021,FR1
+AS Monaco,162,Guillermo Maripán,249730,€15.00m,15000000.0,https://www.transfermarkt.com/guillermo-maripan/profil/spieler/249730,guillermo maripan,as monaco,2021,FR1
+AS Monaco,162,Strahinja Pavlović,574671,€5.00m,5000000.0,https://www.transfermarkt.com/strahinja-pavlovic/profil/spieler/574671,strahinja pavlovic,as monaco,2021,FR1
+AS Monaco,162,Chrislain Matsima,569383,€5.00m,5000000.0,https://www.transfermarkt.com/chrislain-matsima/profil/spieler/569383,chrislain matsima,as monaco,2021,FR1
+AS Monaco,162,Jean Marcelin,475412,€3.00m,3000000.0,https://www.transfermarkt.com/jean-marcelin/profil/spieler/475412,jean marcelin,as monaco,2021,FR1
+AS Monaco,162,Yllan Okou,745202,€300k,300000.0,https://www.transfermarkt.com/yllan-okou/profil/spieler/745202,yllan okou,as monaco,2021,FR1
+AS Monaco,162,Fouad El Maach,536503,€150k,150000.0,https://www.transfermarkt.com/fouad-el-maach/profil/spieler/536503,fouad el maach,as monaco,2021,FR1
+AS Monaco,162,Caio Henrique,420064,€20.00m,20000000.0,https://www.transfermarkt.com/caio-henrique/profil/spieler/420064,caio henrique,as monaco,2021,FR1
+AS Monaco,162,Ismail Jakobs,375137,€7.00m,7000000.0,https://www.transfermarkt.com/ismail-jakobs/profil/spieler/375137,ismail jakobs,as monaco,2021,FR1
+AS Monaco,162,Louis Torres,536510,€150k,150000.0,https://www.transfermarkt.com/louis-torres/profil/spieler/536510,louis torres,as monaco,2021,FR1
+AS Monaco,162,Vanderson,789082,€18.00m,18000000.0,https://www.transfermarkt.com/vanderson/profil/spieler/789082,vanderson,as monaco,2021,FR1
+AS Monaco,162,Ruben Aguilar,203746,€10.00m,10000000.0,https://www.transfermarkt.com/ruben-aguilar/profil/spieler/203746,ruben aguilar,as monaco,2021,FR1
+AS Monaco,162,Djibril Sidibé,161869,€8.00m,8000000.0,https://www.transfermarkt.com/djibril-sidibe/profil/spieler/161869,djibril sidibe,as monaco,2021,FR1
+AS Monaco,162,Aurélien Platret,745201,€150k,150000.0,https://www.transfermarkt.com/aurelien-platret/profil/spieler/745201,aurelien platret,as monaco,2021,FR1
+AS Monaco,162,Aurélien Tchouaméni,413112,€60.00m,60000000.0,https://www.transfermarkt.com/aurelien-tchouameni/profil/spieler/413112,aurelien tchouameni,as monaco,2021,FR1
+AS Monaco,162,Youssouf Fofana,569598,€18.00m,18000000.0,https://www.transfermarkt.com/youssouf-fofana/profil/spieler/569598,youssouf fofana,as monaco,2021,FR1
+AS Monaco,162,Pelé,99189,€1.00m,1000000.0,https://www.transfermarkt.com/pele/profil/spieler/99189,pele,as monaco,2021,FR1
+AS Monaco,162,Soungoutou Magassa,745181,€200k,200000.0,https://www.transfermarkt.com/soungoutou-magassa/profil/spieler/745181,soungoutou magassa,as monaco,2021,FR1
+AS Monaco,162,Jean Lucas,578872,€8.00m,8000000.0,https://www.transfermarkt.com/jean-lucas/profil/spieler/578872,jean lucas,as monaco,2021,FR1
+AS Monaco,162,Eliot Matazo,535834,€8.00m,8000000.0,https://www.transfermarkt.com/eliot-matazo/profil/spieler/535834,eliot matazo,as monaco,2021,FR1
+AS Monaco,162,Cesc Fàbregas,8806,€2.50m,2500000.0,https://www.transfermarkt.com/cesc-fabregas/profil/spieler/8806,cesc fabregas,as monaco,2021,FR1
+AS Monaco,162,Tiago Ribeiro,504084,€250k,250000.0,https://www.transfermarkt.com/tiago-ribeiro/profil/spieler/504084,tiago ribeiro,as monaco,2021,FR1
+AS Monaco,162,Florian Baranik,538968,€150k,150000.0,https://www.transfermarkt.com/florian-baranik/profil/spieler/538968,florian baranik,as monaco,2021,FR1
+AS Monaco,162,Aleksandr Golovin,263918,€25.00m,25000000.0,https://www.transfermarkt.com/aleksandr-golovin/profil/spieler/263918,aleksandr golovin,as monaco,2021,FR1
+AS Monaco,162,Kevin Volland,82009,€22.00m,22000000.0,https://www.transfermarkt.com/kevin-volland/profil/spieler/82009,kevin volland,as monaco,2021,FR1
+AS Monaco,162,Félix Lemaréchal,659518,€600k,600000.0,https://www.transfermarkt.com/felix-lemarechal/profil/spieler/659518,felix lemarechal,as monaco,2021,FR1
+AS Monaco,162,Sofiane Diop,569389,€20.00m,20000000.0,https://www.transfermarkt.com/sofiane-diop/profil/spieler/569389,sofiane diop,as monaco,2021,FR1
+AS Monaco,162,Anthony Musaba,511401,€1.20m,1200000.0,https://www.transfermarkt.com/anthony-musaba/profil/spieler/511401,anthony musaba,as monaco,2021,FR1
+AS Monaco,162,Eric Ayiah,543503,€150k,150000.0,https://www.transfermarkt.com/eric-ayiah/profil/spieler/543503,eric ayiah,as monaco,2021,FR1
+AS Monaco,162,Gelson Martins,257448,€15.00m,15000000.0,https://www.transfermarkt.com/gelson-martins/profil/spieler/257448,gelson martins,as monaco,2021,FR1
+AS Monaco,162,Krépin Diatta,490426,€13.00m,13000000.0,https://www.transfermarkt.com/krepin-diatta/profil/spieler/490426,krepin diatta,as monaco,2021,FR1
+AS Monaco,162,Maghnes Akliouche,745200,€1.00m,1000000.0,https://www.transfermarkt.com/maghnes-akliouche/profil/spieler/745200,maghnes akliouche,as monaco,2021,FR1
+AS Monaco,162,Wissam Ben Yedder,146854,€25.00m,25000000.0,https://www.transfermarkt.com/wissam-ben-yedder/profil/spieler/146854,wissam ben yedder,as monaco,2021,FR1
+AS Monaco,162,Myron Boadu,412932,€14.00m,14000000.0,https://www.transfermarkt.com/myron-boadu/profil/spieler/412932,myron boadu,as monaco,2021,FR1
+AS Monaco,162,Wilson Isidor,494237,€6.00m,6000000.0,https://www.transfermarkt.com/wilson-isidor/profil/spieler/494237,wilson isidor,as monaco,2021,FR1
+AS Monaco,162,Pietro Pellegri,364133,€4.50m,4500000.0,https://www.transfermarkt.com/pietro-pellegri/profil/spieler/364133,pietro pellegri,as monaco,2021,FR1
+LOSC Lille,1082,Léo Jardim,288415,€4.00m,4000000.0,https://www.transfermarkt.com/leo-jardim/profil/spieler/288415,leo jardim,losc lille,2021,FR1
+LOSC Lille,1082,Ivo Grbic,226073,€3.50m,3500000.0,https://www.transfermarkt.com/ivo-grbic/profil/spieler/226073,ivo grbic,losc lille,2021,FR1
+LOSC Lille,1082,Orestis Karnezis,16408,€500k,500000.0,https://www.transfermarkt.com/orestis-karnezis/profil/spieler/16408,orestis karnezis,losc lille,2021,FR1
+LOSC Lille,1082,Adam Jakubech,258267,€500k,500000.0,https://www.transfermarkt.com/adam-jakubech/profil/spieler/258267,adam jakubech,losc lille,2021,FR1
+LOSC Lille,1082,Jules Raux,707245,€150k,150000.0,https://www.transfermarkt.com/jules-raux/profil/spieler/707245,jules raux,losc lille,2021,FR1
+LOSC Lille,1082,Sven Botman,361093,€30.00m,30000000.0,https://www.transfermarkt.com/sven-botman/profil/spieler/361093,sven botman,losc lille,2021,FR1
+LOSC Lille,1082,Tiago Djaló,420465,€12.00m,12000000.0,https://www.transfermarkt.com/tiago-djalo/profil/spieler/420465,tiago djalo,losc lille,2021,FR1
+LOSC Lille,1082,Kouadio-Yves Dabila,503740,€900k,900000.0,https://www.transfermarkt.com/kouadio-yves-dabila/profil/spieler/503740,kouadio-yves dabila,losc lille,2021,FR1
+LOSC Lille,1082,José Fonte,33829,€800k,800000.0,https://www.transfermarkt.com/jose-fonte/profil/spieler/33829,jose fonte,losc lille,2021,FR1
+LOSC Lille,1082,Maxime Wackers,798894,€150k,150000.0,https://www.transfermarkt.com/maxime-wackers/profil/spieler/798894,maxime wackers,losc lille,2021,FR1
+LOSC Lille,1082,Leny Yoro,923831,€150k,150000.0,https://www.transfermarkt.com/leny-yoro/profil/spieler/923831,leny yoro,losc lille,2021,FR1
+LOSC Lille,1082,Reinildo Mandava,240692,€22.00m,22000000.0,https://www.transfermarkt.com/reinildo-mandava/profil/spieler/240692,reinildo mandava,losc lille,2021,FR1
+LOSC Lille,1082,Gabriel Gudmundsson,362108,€6.00m,6000000.0,https://www.transfermarkt.com/gabriel-gudmundsson/profil/spieler/362108,gabriel gudmundsson,losc lille,2021,FR1
+LOSC Lille,1082,Domagoj Bradarić,357796,€3.50m,3500000.0,https://www.transfermarkt.com/domagoj-bradaric/profil/spieler/357796,domagoj bradaric,losc lille,2021,FR1
+LOSC Lille,1082,Zeki Çelik,251075,€18.00m,18000000.0,https://www.transfermarkt.com/zeki-celik/profil/spieler/251075,zeki celik,losc lille,2021,FR1
+LOSC Lille,1082,Jérémy Pied,60583,€800k,800000.0,https://www.transfermarkt.com/jeremy-pied/profil/spieler/60583,jeremy pied,losc lille,2021,FR1
+LOSC Lille,1082,Simon Ramet,707231,€150k,150000.0,https://www.transfermarkt.com/simon-ramet/profil/spieler/707231,simon ramet,losc lille,2021,FR1
+LOSC Lille,1082,Benjamin André,84301,€12.00m,12000000.0,https://www.transfermarkt.com/benjamin-andre/profil/spieler/84301,benjamin andre,losc lille,2021,FR1
+LOSC Lille,1082,Amadou Onana,485706,€10.00m,10000000.0,https://www.transfermarkt.com/amadou-onana/profil/spieler/485706,amadou onana,losc lille,2021,FR1
+LOSC Lille,1082,Jean Onana,656441,€5.00m,5000000.0,https://www.transfermarkt.com/jean-onana/profil/spieler/656441,jean onana,losc lille,2021,FR1
+LOSC Lille,1082,Cheikh Niasse,644032,€1.00m,1000000.0,https://www.transfermarkt.com/cheikh-niasse/profil/spieler/644032,cheikh niasse,losc lille,2021,FR1
+LOSC Lille,1082,Ugo Raghouber,707230,€250k,250000.0,https://www.transfermarkt.com/ugo-raghouber/profil/spieler/707230,ugo raghouber,losc lille,2021,FR1
+LOSC Lille,1082,Carlos Baleba,973085,€150k,150000.0,https://www.transfermarkt.com/carlos-baleba/profil/spieler/973085,carlos baleba,losc lille,2021,FR1
+LOSC Lille,1082,Renato Sanches,258027,€28.00m,28000000.0,https://www.transfermarkt.com/renato-sanches/profil/spieler/258027,renato sanches,losc lille,2021,FR1
+LOSC Lille,1082,Xeka,290256,€9.00m,9000000.0,https://www.transfermarkt.com/xeka/profil/spieler/290256,xeka,losc lille,2021,FR1
+LOSC Lille,1082,Rocco Ascone,620318,€200k,200000.0,https://www.transfermarkt.com/rocco-ascone/profil/spieler/620318,rocco ascone,losc lille,2021,FR1
+LOSC Lille,1082,Yusuf Yazıcı,386726,€17.00m,17000000.0,https://www.transfermarkt.com/yusuf-yazici/profil/spieler/386726,yusuf yazıcı,losc lille,2021,FR1
+LOSC Lille,1082,Angel Gomes,392770,€7.00m,7000000.0,https://www.transfermarkt.com/angel-gomes/profil/spieler/392770,angel gomes,losc lille,2021,FR1
+LOSC Lille,1082,Hatem Ben Arfa,18900,€1.50m,1500000.0,https://www.transfermarkt.com/hatem-ben-arfa/profil/spieler/18900,hatem ben arfa,losc lille,2021,FR1
+LOSC Lille,1082,Jonathan Bamba,292818,€17.00m,17000000.0,https://www.transfermarkt.com/jonathan-bamba/profil/spieler/292818,jonathan bamba,losc lille,2021,FR1
+LOSC Lille,1082,Exaucé Mpembele Boula,538972,€200k,200000.0,https://www.transfermarkt.com/exauce-mpembele-boula/profil/spieler/538972,exauce mpembele boula,losc lille,2021,FR1
+LOSC Lille,1082,Capita,666545,€175k,175000.0,https://www.transfermarkt.com/capita/profil/spieler/666545,capita,losc lille,2021,FR1
+LOSC Lille,1082,Joffrey Bazié,854488,-,,https://www.transfermarkt.com/joffrey-bazie/profil/spieler/854488,joffrey bazie,losc lille,2021,FR1
+LOSC Lille,1082,Jonathan Ikoné,324690,€18.00m,18000000.0,https://www.transfermarkt.com/jonathan-ikone/profil/spieler/324690,jonathan ikone,losc lille,2021,FR1
+LOSC Lille,1082,Timothy Weah,370846,€12.00m,12000000.0,https://www.transfermarkt.com/timothy-weah/profil/spieler/370846,timothy weah,losc lille,2021,FR1
+LOSC Lille,1082,Luiz Araújo,435485,€10.00m,10000000.0,https://www.transfermarkt.com/luiz-araujo/profil/spieler/435485,luiz araujo,losc lille,2021,FR1
+LOSC Lille,1082,Edon Zhegrova,496857,€5.00m,5000000.0,https://www.transfermarkt.com/edon-zhegrova/profil/spieler/496857,edon zhegrova,losc lille,2021,FR1
+LOSC Lille,1082,Isaac Lihadji,557610,€3.50m,3500000.0,https://www.transfermarkt.com/isaac-lihadji/profil/spieler/557610,isaac lihadji,losc lille,2021,FR1
+LOSC Lille,1082,Jonathan David,533738,€45.00m,45000000.0,https://www.transfermarkt.com/jonathan-david/profil/spieler/533738,jonathan david,losc lille,2021,FR1
+LOSC Lille,1082,Burak Yılmaz,34987,€1.50m,1500000.0,https://www.transfermarkt.com/burak-yilmaz/profil/spieler/34987,burak yılmaz,losc lille,2021,FR1
+LOSC Lille,1082,Bica,743987,€300k,300000.0,https://www.transfermarkt.com/bica/profil/spieler/743987,bica,losc lille,2021,FR1
+Stade Rennais FC,273,Alfred Gomis,163568,€8.00m,8000000.0,https://www.transfermarkt.com/alfred-gomis/profil/spieler/163568,alfred gomis,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Doğan Alemdar,576033,€3.50m,3500000.0,https://www.transfermarkt.com/dogan-alemdar/profil/spieler/576033,dogan alemdar,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Romain Salin,23974,€400k,400000.0,https://www.transfermarkt.com/romain-salin/profil/spieler/23974,romain salin,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Pépé Bonet,685086,€400k,400000.0,https://www.transfermarkt.com/pepe-bonet/profil/spieler/685086,pepe bonet,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Elias Damergy,693312,€200k,200000.0,https://www.transfermarkt.com/elias-damergy/profil/spieler/693312,elias damergy,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Loïc Badé,730581,€12.00m,12000000.0,https://www.transfermarkt.com/loic-bade/profil/spieler/730581,loic bade,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Nayef Aguerd,361914,€12.00m,12000000.0,https://www.transfermarkt.com/nayef-aguerd/profil/spieler/361914,nayef aguerd,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Warmed Omari,711996,€8.00m,8000000.0,https://www.transfermarkt.com/warmed-omari/profil/spieler/711996,warmed omari,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Jeanuël Belocian,919515,€500k,500000.0,https://www.transfermarkt.com/jeanuel-belocian/profil/spieler/919515,jeanuel belocian,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Noah Françoise,620321,€250k,250000.0,https://www.transfermarkt.com/noah-francoise/profil/spieler/620321,noah francoise,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Adrien Truffert,654539,€12.00m,12000000.0,https://www.transfermarkt.com/adrien-truffert/profil/spieler/654539,adrien truffert,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Birger Meling,282250,€7.00m,7000000.0,https://www.transfermarkt.com/birger-meling/profil/spieler/282250,birger meling,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Faitout Maouassa,357072,€3.00m,3000000.0,https://www.transfermarkt.com/faitout-maouassa/profil/spieler/357072,faitout maouassa,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Hamari Traoré,297070,€10.00m,10000000.0,https://www.transfermarkt.com/hamari-traore/profil/spieler/297070,hamari traore,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Lorenz Assignon,711969,€3.00m,3000000.0,https://www.transfermarkt.com/lorenz-assignon/profil/spieler/711969,lorenz assignon,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Baptiste Santamaria,285323,€14.00m,14000000.0,https://www.transfermarkt.com/baptiste-santamaria/profil/spieler/285323,baptiste santamaria,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Lesley Ugochukwu,711999,€3.00m,3000000.0,https://www.transfermarkt.com/lesley-ugochukwu/profil/spieler/711999,lesley ugochukwu,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Jonas Martin,127142,€2.50m,2500000.0,https://www.transfermarkt.com/jonas-martin/profil/spieler/127142,jonas martin,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Jérémy Gélin,288237,€2.50m,2500000.0,https://www.transfermarkt.com/jeremy-gelin/profil/spieler/288237,jeremy gelin,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Eduardo Camavinga,640428,€55.00m,55000000.0,https://www.transfermarkt.com/eduardo-camavinga/profil/spieler/640428,eduardo camavinga,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Benjamin Bourigeaud,266359,€18.00m,18000000.0,https://www.transfermarkt.com/benjamin-bourigeaud/profil/spieler/266359,benjamin bourigeaud,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Flavien Tait,202278,€8.00m,8000000.0,https://www.transfermarkt.com/flavien-tait/profil/spieler/202278,flavien tait,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Andy Diouf,711976,€500k,500000.0,https://www.transfermarkt.com/andy-diouf/profil/spieler/711976,andy diouf,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Trésor Matondo,711988,-,,https://www.transfermarkt.com/tresor-matondo/profil/spieler/711988,tresor matondo,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Lovro Majer,387106,€20.00m,20000000.0,https://www.transfermarkt.com/lovro-majer/profil/spieler/387106,lovro majer,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Martin Terrier,442891,€25.00m,25000000.0,https://www.transfermarkt.com/martin-terrier/profil/spieler/442891,martin terrier,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Jérémy Doku,486049,€20.00m,20000000.0,https://www.transfermarkt.com/jeremy-doku/profil/spieler/486049,jeremy doku,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Kamaldeen Sulemana,746695,€18.00m,18000000.0,https://www.transfermarkt.com/kamaldeen-sulemana/profil/spieler/746695,kamaldeen sulemana,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Junior Kadile,585958,€200k,200000.0,https://www.transfermarkt.com/junior-kadile/profil/spieler/585958,junior kadile,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Romain Del Castillo,353399,€3.00m,3000000.0,https://www.transfermarkt.com/romain-del-castillo/profil/spieler/353399,romain del castillo,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Loum Tchaouna,607226,€2.00m,2000000.0,https://www.transfermarkt.com/loum-tchaouna/profil/spieler/607226,loum tchaouna,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Désiré Doué,914562,€400k,400000.0,https://www.transfermarkt.com/desire-doue/profil/spieler/914562,desire doue,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Gaëtan Laborde,181378,€18.00m,18000000.0,https://www.transfermarkt.com/gaetan-laborde/profil/spieler/181378,gaetan laborde,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Serhou Guirassy,270541,€10.00m,10000000.0,https://www.transfermarkt.com/serhou-guirassy/profil/spieler/270541,serhou guirassy,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Matthis Abline,659543,€3.00m,3000000.0,https://www.transfermarkt.com/matthis-abline/profil/spieler/659543,matthis abline,stade rennais fc,2021,FR1
+Stade Rennais FC,273,Mathys Tel,801734,€2.00m,2000000.0,https://www.transfermarkt.com/mathys-tel/profil/spieler/801734,mathys tel,stade rennais fc,2021,FR1
+Olympique Marseille,244,Pau López,286415,€12.00m,12000000.0,https://www.transfermarkt.com/pau-lopez/profil/spieler/286415,pau lopez,olympique marseille,2021,FR1
+Olympique Marseille,244,Steve Mandanda,23951,€1.50m,1500000.0,https://www.transfermarkt.com/steve-mandanda/profil/spieler/23951,steve mandanda,olympique marseille,2021,FR1
+Olympique Marseille,244,Simon Ngapandouetnbu,696600,€400k,400000.0,https://www.transfermarkt.com/simon-ngapandouetnbu/profil/spieler/696600,simon ngapandouetnbu,olympique marseille,2021,FR1
+Olympique Marseille,244,Fabio Vanni,801577,€150k,150000.0,https://www.transfermarkt.com/fabio-vanni/profil/spieler/801577,fabio vanni,olympique marseille,2021,FR1
+Olympique Marseille,244,William Saliba,495666,€30.00m,30000000.0,https://www.transfermarkt.com/william-saliba/profil/spieler/495666,william saliba,olympique marseille,2021,FR1
+Olympique Marseille,244,Duje Caleta-Car,238266,€16.00m,16000000.0,https://www.transfermarkt.com/duje-caleta-car/profil/spieler/238266,duje caleta-car,olympique marseille,2021,FR1
+Olympique Marseille,244,Leonardo Balerdi,575998,€10.00m,10000000.0,https://www.transfermarkt.com/leonardo-balerdi/profil/spieler/575998,leonardo balerdi,olympique marseille,2021,FR1
+Olympique Marseille,244,Luan Peres,347913,€7.00m,7000000.0,https://www.transfermarkt.com/luan-peres/profil/spieler/347913,luan peres,olympique marseille,2021,FR1
+Olympique Marseille,244,Sead Kolasinac,94005,€3.00m,3000000.0,https://www.transfermarkt.com/sead-kolasinac/profil/spieler/94005,sead kolasinac,olympique marseille,2021,FR1
+Olympique Marseille,244,Álvaro González,183647,€2.50m,2500000.0,https://www.transfermarkt.com/alvaro-gonzalez/profil/spieler/183647,alvaro gonzalez,olympique marseille,2021,FR1
+Olympique Marseille,244,Yakine Said M'Madi,922488,-,,https://www.transfermarkt.com/yakine-said-mmadi/profil/spieler/922488,yakine said m'madi,olympique marseille,2021,FR1
+Olympique Marseille,244,Jordan Amavi,241229,€6.00m,6000000.0,https://www.transfermarkt.com/jordan-amavi/profil/spieler/241229,jordan amavi,olympique marseille,2021,FR1
+Olympique Marseille,244,Pol Lirola,298975,€8.00m,8000000.0,https://www.transfermarkt.com/pol-lirola/profil/spieler/298975,pol lirola,olympique marseille,2021,FR1
+Olympique Marseille,244,Amay Caprice,743494,€250k,250000.0,https://www.transfermarkt.com/amay-caprice/profil/spieler/743494,amay caprice,olympique marseille,2021,FR1
+Olympique Marseille,244,Boubacar Kamara,394327,€25.00m,25000000.0,https://www.transfermarkt.com/boubacar-kamara/profil/spieler/394327,boubacar kamara,olympique marseille,2021,FR1
+Olympique Marseille,244,Pape Gueye,485963,€12.00m,12000000.0,https://www.transfermarkt.com/pape-gueye/profil/spieler/485963,pape gueye,olympique marseille,2021,FR1
+Olympique Marseille,244,Oussama Targhalline,667965,€200k,200000.0,https://www.transfermarkt.com/oussama-targhalline/profil/spieler/667965,oussama targhalline,olympique marseille,2021,FR1
+Olympique Marseille,244,Mattéo Guendouzi,465830,€25.00m,25000000.0,https://www.transfermarkt.com/matteo-guendouzi/profil/spieler/465830,matteo guendouzi,olympique marseille,2021,FR1
+Olympique Marseille,244,Gerson,341705,€22.00m,22000000.0,https://www.transfermarkt.com/gerson/profil/spieler/341705,gerson,olympique marseille,2021,FR1
+Olympique Marseille,244,Valentin Rongier,332889,€12.00m,12000000.0,https://www.transfermarkt.com/valentin-rongier/profil/spieler/332889,valentin rongier,olympique marseille,2021,FR1
+Olympique Marseille,244,Paolo Sciortino,805476,€150k,150000.0,https://www.transfermarkt.com/paolo-sciortino/profil/spieler/805476,paolo sciortino,olympique marseille,2021,FR1
+Olympique Marseille,244,Bilal Nadir,659520,€150k,150000.0,https://www.transfermarkt.com/bilal-nadir/profil/spieler/659520,bilal nadir,olympique marseille,2021,FR1
+Olympique Marseille,244,Tom Moustier,782889,-,,https://www.transfermarkt.com/tom-moustier/profil/spieler/782889,tom moustier,olympique marseille,2021,FR1
+Olympique Marseille,244,Luis Henrique,691316,€6.00m,6000000.0,https://www.transfermarkt.com/luis-henrique/profil/spieler/691316,luis henrique,olympique marseille,2021,FR1
+Olympique Marseille,244,Cheick Souaré,569367,€200k,200000.0,https://www.transfermarkt.com/cheick-souare/profil/spieler/569367,cheick souare,olympique marseille,2021,FR1
+Olympique Marseille,244,Amine Harit,372711,€10.00m,10000000.0,https://www.transfermarkt.com/amine-harit/profil/spieler/372711,amine harit,olympique marseille,2021,FR1
+Olympique Marseille,244,Dimitri Payet,37647,€5.00m,5000000.0,https://www.transfermarkt.com/dimitri-payet/profil/spieler/37647,dimitri payet,olympique marseille,2021,FR1
+Olympique Marseille,244,Ugo Bertelli,708680,€300k,300000.0,https://www.transfermarkt.com/ugo-bertelli/profil/spieler/708680,ugo bertelli,olympique marseille,2021,FR1
+Olympique Marseille,244,Konrad de la Fuente,466809,€6.00m,6000000.0,https://www.transfermarkt.com/konrad-de-la-fuente/profil/spieler/466809,konrad de la fuente,olympique marseille,2021,FR1
+Olympique Marseille,244,Nemanja Radonjić,245078,€4.00m,4000000.0,https://www.transfermarkt.com/nemanja-radonjic/profil/spieler/245078,nemanja radonjic,olympique marseille,2021,FR1
+Olympique Marseille,244,Salim Ben Seghir,708681,€400k,400000.0,https://www.transfermarkt.com/salim-ben-seghir/profil/spieler/708681,salim ben seghir,olympique marseille,2021,FR1
+Olympique Marseille,244,Cengiz Ünder,341647,€22.00m,22000000.0,https://www.transfermarkt.com/cengiz-under/profil/spieler/341647,cengiz under,olympique marseille,2021,FR1
+Olympique Marseille,244,Jonathan Pitou,800611,€250k,250000.0,https://www.transfermarkt.com/jonathan-pitou/profil/spieler/800611,jonathan pitou,olympique marseille,2021,FR1
+Olympique Marseille,244,Arkadiusz Milik,191891,€16.00m,16000000.0,https://www.transfermarkt.com/arkadiusz-milik/profil/spieler/191891,arkadiusz milik,olympique marseille,2021,FR1
+Olympique Marseille,244,Bamba Dieng,822458,€10.00m,10000000.0,https://www.transfermarkt.com/bamba-dieng/profil/spieler/822458,bamba dieng,olympique marseille,2021,FR1
+Olympique Marseille,244,Cédric Bakambu,127048,€8.00m,8000000.0,https://www.transfermarkt.com/cedric-bakambu/profil/spieler/127048,cedric bakambu,olympique marseille,2021,FR1
+Olympique Marseille,244,Darío Benedetto,92693,€3.00m,3000000.0,https://www.transfermarkt.com/dario-benedetto/profil/spieler/92693,dario benedetto,olympique marseille,2021,FR1
+Olympique Marseille,244,Aylan Benyahia-Tani,881250,€250k,250000.0,https://www.transfermarkt.com/aylan-benyahia-tani/profil/spieler/881250,aylan benyahia-tani,olympique marseille,2021,FR1
+OGC Nice,417,Walter Benítez,296802,€14.00m,14000000.0,https://www.transfermarkt.com/walter-benitez/profil/spieler/296802,walter benitez,ogc nice,2021,FR1
+OGC Nice,417,Marcin Bulka,465955,€2.00m,2000000.0,https://www.transfermarkt.com/marcin-bulka/profil/spieler/465955,marcin bulka,ogc nice,2021,FR1
+OGC Nice,417,Teddy Boulhendi,789419,€150k,150000.0,https://www.transfermarkt.com/teddy-boulhendi/profil/spieler/789419,teddy boulhendi,ogc nice,2021,FR1
+OGC Nice,417,Jean-Clair Todibo,605184,€20.00m,20000000.0,https://www.transfermarkt.com/jean-clair-todibo/profil/spieler/605184,jean-clair todibo,ogc nice,2021,FR1
+OGC Nice,417,Flavius Daniliuc,322655,€8.00m,8000000.0,https://www.transfermarkt.com/flavius-daniliuc/profil/spieler/322655,flavius daniliuc,ogc nice,2021,FR1
+OGC Nice,417,Robson Bambu,458715,€3.00m,3000000.0,https://www.transfermarkt.com/robson-bambu/profil/spieler/458715,robson bambu,ogc nice,2021,FR1
+OGC Nice,417,Dante,16136,€800k,800000.0,https://www.transfermarkt.com/dante/profil/spieler/16136,dante,ogc nice,2021,FR1
+OGC Nice,417,Antoine Mendy,891998,€150k,150000.0,https://www.transfermarkt.com/antoine-mendy/profil/spieler/891998,antoine mendy,ogc nice,2021,FR1
+OGC Nice,417,Yannis Nahounou,904707,€150k,150000.0,https://www.transfermarkt.com/yannis-nahounou/profil/spieler/904707,yannis nahounou,ogc nice,2021,FR1
+OGC Nice,417,Melvin Bard,532775,€9.00m,9000000.0,https://www.transfermarkt.com/melvin-bard/profil/spieler/532775,melvin bard,ogc nice,2021,FR1
+OGC Nice,417,Jordan Amavi,241229,€6.00m,6000000.0,https://www.transfermarkt.com/jordan-amavi/profil/spieler/241229,jordan amavi,ogc nice,2021,FR1
+OGC Nice,417,Hassane Kamara,290017,€4.00m,4000000.0,https://www.transfermarkt.com/hassane-kamara/profil/spieler/290017,hassane kamara,ogc nice,2021,FR1
+OGC Nice,417,Youcef Atal,416108,€15.00m,15000000.0,https://www.transfermarkt.com/youcef-atal/profil/spieler/416108,youcef atal,ogc nice,2021,FR1
+OGC Nice,417,Jordan Lotomba,313094,€7.00m,7000000.0,https://www.transfermarkt.com/jordan-lotomba/profil/spieler/313094,jordan lotomba,ogc nice,2021,FR1
+OGC Nice,417,Pablo Rosario,370791,€10.00m,10000000.0,https://www.transfermarkt.com/pablo-rosario/profil/spieler/370791,pablo rosario,ogc nice,2021,FR1
+OGC Nice,417,Mario Lemina,170934,€9.00m,9000000.0,https://www.transfermarkt.com/mario-lemina/profil/spieler/170934,mario lemina,ogc nice,2021,FR1
+OGC Nice,417,Morgan Schneiderlin,56818,€3.50m,3500000.0,https://www.transfermarkt.com/morgan-schneiderlin/profil/spieler/56818,morgan schneiderlin,ogc nice,2021,FR1
+OGC Nice,417,Danilo Barbosa,273438,€3.50m,3500000.0,https://www.transfermarkt.com/danilo-barbosa/profil/spieler/273438,danilo barbosa,ogc nice,2021,FR1
+OGC Nice,417,Khéphren Thuram,463618,€17.00m,17000000.0,https://www.transfermarkt.com/khephren-thuram/profil/spieler/463618,khephren thuram,ogc nice,2021,FR1
+OGC Nice,417,Hicham Boudaoui,560593,€6.50m,6500000.0,https://www.transfermarkt.com/hicham-boudaoui/profil/spieler/560593,hicham boudaoui,ogc nice,2021,FR1
+OGC Nice,417,Lucas Da Cunha,495667,€4.00m,4000000.0,https://www.transfermarkt.com/lucas-da-cunha/profil/spieler/495667,lucas da cunha,ogc nice,2021,FR1
+OGC Nice,417,Alexis Trouillet,482769,€1.50m,1500000.0,https://www.transfermarkt.com/alexis-trouillet/profil/spieler/482769,alexis trouillet,ogc nice,2021,FR1
+OGC Nice,417,Justin Smith,904712,€300k,300000.0,https://www.transfermarkt.com/justin-smith/profil/spieler/904712,justin smith,ogc nice,2021,FR1
+OGC Nice,417,Justin Kluivert,330659,€15.00m,15000000.0,https://www.transfermarkt.com/justin-kluivert/profil/spieler/330659,justin kluivert,ogc nice,2021,FR1
+OGC Nice,417,Calvin Stengs,409344,€13.00m,13000000.0,https://www.transfermarkt.com/calvin-stengs/profil/spieler/409344,calvin stengs,ogc nice,2021,FR1
+OGC Nice,417,Alexis Claude-Maurice,384593,€6.00m,6000000.0,https://www.transfermarkt.com/alexis-claude-maurice/profil/spieler/384593,alexis claude-maurice,ogc nice,2021,FR1
+OGC Nice,417,Myziane Maolida,371142,€3.00m,3000000.0,https://www.transfermarkt.com/myziane-maolida/profil/spieler/371142,myziane maolida,ogc nice,2021,FR1
+OGC Nice,417,Billal Brahimi,543051,€5.00m,5000000.0,https://www.transfermarkt.com/billal-brahimi/profil/spieler/543051,billal brahimi,ogc nice,2021,FR1
+OGC Nice,417,Dan Ndoye,365108,€4.00m,4000000.0,https://www.transfermarkt.com/dan-ndoye/profil/spieler/365108,dan ndoye,ogc nice,2021,FR1
+OGC Nice,417,Evann Guessand,500689,€3.00m,3000000.0,https://www.transfermarkt.com/evann-guessand/profil/spieler/500689,evann guessand,ogc nice,2021,FR1
+OGC Nice,417,Amine Gouiri,418659,€42.00m,42000000.0,https://www.transfermarkt.com/amine-gouiri/profil/spieler/418659,amine gouiri,ogc nice,2021,FR1
+OGC Nice,417,Kasper Dolberg,283196,€17.00m,17000000.0,https://www.transfermarkt.com/kasper-dolberg/profil/spieler/283196,kasper dolberg,ogc nice,2021,FR1
+OGC Nice,417,Andy Delort,122797,€13.00m,13000000.0,https://www.transfermarkt.com/andy-delort/profil/spieler/122797,andy delort,ogc nice,2021,FR1
+OGC Nice,417,Ihsan Sacko,412095,€500k,500000.0,https://www.transfermarkt.com/ihsan-sacko/profil/spieler/412095,ihsan sacko,ogc nice,2021,FR1
+RC Lens,826,Wuilker Fariñez,373714,€4.00m,4000000.0,https://www.transfermarkt.com/wuilker-farinez/profil/spieler/373714,wuilker farinez,rc lens,2021,FR1
+RC Lens,826,Jean-Louis Leca,27490,€500k,500000.0,https://www.transfermarkt.com/jean-louis-leca/profil/spieler/27490,jean-louis leca,rc lens,2021,FR1
+RC Lens,826,Yannick Pandor,804829,€200k,200000.0,https://www.transfermarkt.com/yannick-pandor/profil/spieler/804829,yannick pandor,rc lens,2021,FR1
+RC Lens,826,Facundo Medina,474800,€11.00m,11000000.0,https://www.transfermarkt.com/facundo-medina/profil/spieler/474800,facundo medina,rc lens,2021,FR1
+RC Lens,826,Kevin Danso,263236,€9.00m,9000000.0,https://www.transfermarkt.com/kevin-danso/profil/spieler/263236,kevin danso,rc lens,2021,FR1
+RC Lens,826,Jonathan Gradit,126557,€4.50m,4500000.0,https://www.transfermarkt.com/jonathan-gradit/profil/spieler/126557,jonathan gradit,rc lens,2021,FR1
+RC Lens,826,Christopher Wooh,572326,€3.00m,3000000.0,https://www.transfermarkt.com/christopher-wooh/profil/spieler/572326,christopher wooh,rc lens,2021,FR1
+RC Lens,826,Steven Fortes,276895,€650k,650000.0,https://www.transfermarkt.com/steven-fortes/profil/spieler/276895,steven fortes,rc lens,2021,FR1
+RC Lens,826,Brayann Pereira,620317,€600k,600000.0,https://www.transfermarkt.com/brayann-pereira/profil/spieler/620317,brayann pereira,rc lens,2021,FR1
+RC Lens,826,Massadio Haïdara,170929,€2.00m,2000000.0,https://www.transfermarkt.com/massadio-haidara/profil/spieler/170929,massadio haidara,rc lens,2021,FR1
+RC Lens,826,Deiver Machado,332560,€1.80m,1800000.0,https://www.transfermarkt.com/deiver-machado/profil/spieler/332560,deiver machado,rc lens,2021,FR1
+RC Lens,826,Ismaël Boura,770895,€1.50m,1500000.0,https://www.transfermarkt.com/ismael-boura/profil/spieler/770895,ismael boura,rc lens,2021,FR1
+RC Lens,826,Malcom Musquet,911512,€100k,100000.0,https://www.transfermarkt.com/malcom-musquet/profil/spieler/911512,malcom musquet,rc lens,2021,FR1
+RC Lens,826,Jonathan Clauss,175639,€15.00m,15000000.0,https://www.transfermarkt.com/jonathan-clauss/profil/spieler/175639,jonathan clauss,rc lens,2021,FR1
+RC Lens,826,Przemyslaw Frankowski,239743,€8.00m,8000000.0,https://www.transfermarkt.com/przemyslaw-frankowski/profil/spieler/239743,przemyslaw frankowski,rc lens,2021,FR1
+RC Lens,826,Cheick Doucouré,543387,€15.00m,15000000.0,https://www.transfermarkt.com/cheick-doucoure/profil/spieler/543387,cheick doucoure,rc lens,2021,FR1
+RC Lens,826,Patrick Berg,308439,€4.50m,4500000.0,https://www.transfermarkt.com/patrick-berg/profil/spieler/308439,patrick berg,rc lens,2021,FR1
+RC Lens,826,Yannick Cahuzac,44686,€300k,300000.0,https://www.transfermarkt.com/yannick-cahuzac/profil/spieler/44686,yannick cahuzac,rc lens,2021,FR1
+RC Lens,826,Samba Sow,89461,€200k,200000.0,https://www.transfermarkt.com/samba-sow/profil/spieler/89461,samba sow,rc lens,2021,FR1
+RC Lens,826,Adrien Louveau,804817,€100k,100000.0,https://www.transfermarkt.com/adrien-louveau/profil/spieler/804817,adrien louveau,rc lens,2021,FR1
+RC Lens,826,Yacouba Barry,821136,€100k,100000.0,https://www.transfermarkt.com/yacouba-barry/profil/spieler/821136,yacouba barry,rc lens,2021,FR1
+RC Lens,826,Seko Fofana,182893,€25.00m,25000000.0,https://www.transfermarkt.com/seko-fofana/profil/spieler/182893,seko fofana,rc lens,2021,FR1
+RC Lens,826,Jonathan Varane,812902,€250k,250000.0,https://www.transfermarkt.com/jonathan-varane/profil/spieler/812902,jonathan varane,rc lens,2021,FR1
+RC Lens,826,Mamadou Camara,905408,€150k,150000.0,https://www.transfermarkt.com/mamadou-camara/profil/spieler/905408,mamadou camara,rc lens,2021,FR1
+RC Lens,826,Gaël Kakuta,74297,€7.00m,7000000.0,https://www.transfermarkt.com/gael-kakuta/profil/spieler/74297,gael kakuta,rc lens,2021,FR1
+RC Lens,826,David Da Costa,719442,€4.50m,4500000.0,https://www.transfermarkt.com/david-da-costa/profil/spieler/719442,david da costa,rc lens,2021,FR1
+RC Lens,826,Charles Boli,695646,€400k,400000.0,https://www.transfermarkt.com/charles-boli/profil/spieler/695646,charles boli,rc lens,2021,FR1
+RC Lens,826,Mohamed Cissé,800246,€200k,200000.0,https://www.transfermarkt.com/mohamed-cisse/profil/spieler/800246,mohamed cisse,rc lens,2021,FR1
+RC Lens,826,Arnaud Kalimuendo,585959,€18.00m,18000000.0,https://www.transfermarkt.com/arnaud-kalimuendo/profil/spieler/585959,arnaud kalimuendo,rc lens,2021,FR1
+RC Lens,826,Simon Banza,344869,€5.00m,5000000.0,https://www.transfermarkt.com/simon-banza/profil/spieler/344869,simon banza,rc lens,2021,FR1
+RC Lens,826,Ignatius Ganago,531949,€5.00m,5000000.0,https://www.transfermarkt.com/ignatius-ganago/profil/spieler/531949,ignatius ganago,rc lens,2021,FR1
+RC Lens,826,Florian Sotoca,354726,€2.50m,2500000.0,https://www.transfermarkt.com/florian-sotoca/profil/spieler/354726,florian sotoca,rc lens,2021,FR1
+RC Lens,826,Wesley Saïd,182916,€2.50m,2500000.0,https://www.transfermarkt.com/wesley-said/profil/spieler/182916,wesley said,rc lens,2021,FR1
+RC Lens,826,Corentin Jean,20463,€1.20m,1200000.0,https://www.transfermarkt.com/corentin-jean/profil/spieler/20463,corentin jean,rc lens,2021,FR1
+RC Lens,826,Ibrahima Baldé,804884,€300k,300000.0,https://www.transfermarkt.com/ibrahima-balde/profil/spieler/804884,ibrahima balde,rc lens,2021,FR1
+Stade Reims,1421,Predrag Rajković,190263,€9.00m,9000000.0,https://www.transfermarkt.com/predrag-rajkovic/profil/spieler/190263,predrag rajkovic,stade reims,2021,FR1
+Stade Reims,1421,Yehvann Diouf,448632,€500k,500000.0,https://www.transfermarkt.com/yehvann-diouf/profil/spieler/448632,yehvann diouf,stade reims,2021,FR1
+Stade Reims,1421,Nicolas Penneteau,5578,€150k,150000.0,https://www.transfermarkt.com/nicolas-penneteau/profil/spieler/5578,nicolas penneteau,stade reims,2021,FR1
+Stade Reims,1421,Wout Faes,292808,€10.00m,10000000.0,https://www.transfermarkt.com/wout-faes/profil/spieler/292808,wout faes,stade reims,2021,FR1
+Stade Reims,1421,Andreaw Gravillon,395083,€6.50m,6500000.0,https://www.transfermarkt.com/andreaw-gravillon/profil/spieler/395083,andreaw gravillon,stade reims,2021,FR1
+Stade Reims,1421,Yunis Abdelhamid,199704,€1.20m,1200000.0,https://www.transfermarkt.com/yunis-abdelhamid/profil/spieler/199704,yunis abdelhamid,stade reims,2021,FR1
+Stade Reims,1421,Moustapha Mbow,649026,€600k,600000.0,https://www.transfermarkt.com/moustapha-mbow/profil/spieler/649026,moustapha mbow,stade reims,2021,FR1
+Stade Reims,1421,Enzo Valentim,502511,€200k,200000.0,https://www.transfermarkt.com/enzo-valentim/profil/spieler/502511,enzo valentim,stade reims,2021,FR1
+Stade Reims,1421,Ghislain Konan,422850,€7.00m,7000000.0,https://www.transfermarkt.com/ghislain-konan/profil/spieler/422850,ghislain konan,stade reims,2021,FR1
+Stade Reims,1421,Bradley Locko,805908,€2.00m,2000000.0,https://www.transfermarkt.com/bradley-locko/profil/spieler/805908,bradley locko,stade reims,2021,FR1
+Stade Reims,1421,Thomas Foket,215114,€5.00m,5000000.0,https://www.transfermarkt.com/thomas-foket/profil/spieler/215114,thomas foket,stade reims,2021,FR1
+Stade Reims,1421,Maxime Busi,570817,€3.50m,3500000.0,https://www.transfermarkt.com/maxime-busi/profil/spieler/570817,maxime busi,stade reims,2021,FR1
+Stade Reims,1421,Fodé Doucouré,798925,€600k,600000.0,https://www.transfermarkt.com/fode-doucoure/profil/spieler/798925,fode doucoure,stade reims,2021,FR1
+Stade Reims,1421,Ibrahim Diakité,919173,€200k,200000.0,https://www.transfermarkt.com/ibrahim-diakite/profil/spieler/919173,ibrahim diakite,stade reims,2021,FR1
+Stade Reims,1421,Azor Matusiwa,315145,€7.00m,7000000.0,https://www.transfermarkt.com/azor-matusiwa/profil/spieler/315145,azor matusiwa,stade reims,2021,FR1
+Stade Reims,1421,Jens Cajuste,468066,€5.00m,5000000.0,https://www.transfermarkt.com/jens-cajuste/profil/spieler/468066,jens cajuste,stade reims,2021,FR1
+Stade Reims,1421,Dion Lopy,649033,€2.50m,2500000.0,https://www.transfermarkt.com/dion-lopy/profil/spieler/649033,dion lopy,stade reims,2021,FR1
+Stade Reims,1421,Sambou Sissoko,522791,€500k,500000.0,https://www.transfermarkt.com/sambou-sissoko/profil/spieler/522791,sambou sissoko,stade reims,2021,FR1
+Stade Reims,1421,Samuel Koeberlé,926235,€150k,150000.0,https://www.transfermarkt.com/samuel-koeberle/profil/spieler/926235,samuel koeberle,stade reims,2021,FR1
+Stade Reims,1421,Marshall Munetsi,414908,€5.00m,5000000.0,https://www.transfermarkt.com/marshall-munetsi/profil/spieler/414908,marshall munetsi,stade reims,2021,FR1
+Stade Reims,1421,Xavier Chavalerin,118278,€3.50m,3500000.0,https://www.transfermarkt.com/xavier-chavalerin/profil/spieler/118278,xavier chavalerin,stade reims,2021,FR1
+Stade Reims,1421,Moreto Cassamá,290746,€3.00m,3000000.0,https://www.transfermarkt.com/moreto-cassama/profil/spieler/290746,moreto cassama,stade reims,2021,FR1
+Stade Reims,1421,Martin Adeline,814976,€800k,800000.0,https://www.transfermarkt.com/martin-adeline/profil/spieler/814976,martin adeline,stade reims,2021,FR1
+Stade Reims,1421,Valon Berisha,145115,€2.50m,2500000.0,https://www.transfermarkt.com/valon-berisha/profil/spieler/145115,valon berisha,stade reims,2021,FR1
+Stade Reims,1421,Alexis Flips,395242,€2.50m,2500000.0,https://www.transfermarkt.com/alexis-flips/profil/spieler/395242,alexis flips,stade reims,2021,FR1
+Stade Reims,1421,Kamory Doumbia,671594,€1.00m,1000000.0,https://www.transfermarkt.com/kamory-doumbia/profil/spieler/671594,kamory doumbia,stade reims,2021,FR1
+Stade Reims,1421,Nathanaël Mbuku,557614,€8.00m,8000000.0,https://www.transfermarkt.com/nathanael-mbuku/profil/spieler/557614,nathanael mbuku,stade reims,2021,FR1
+Stade Reims,1421,Arbër Zeneli,222876,€4.50m,4500000.0,https://www.transfermarkt.com/arber-zeneli/profil/spieler/222876,arber zeneli,stade reims,2021,FR1
+Stade Reims,1421,Moussa Doumbia,316137,€1.20m,1200000.0,https://www.transfermarkt.com/moussa-doumbia/profil/spieler/316137,moussa doumbia,stade reims,2021,FR1
+Stade Reims,1421,Anastasios Donis,243606,€1.00m,1000000.0,https://www.transfermarkt.com/anastasios-donis/profil/spieler/243606,anastasios donis,stade reims,2021,FR1
+Stade Reims,1421,Billal Brahimi,543051,€5.00m,5000000.0,https://www.transfermarkt.com/billal-brahimi/profil/spieler/543051,billal brahimi,stade reims,2021,FR1
+Stade Reims,1421,Ilan Kebbal,739769,€4.50m,4500000.0,https://www.transfermarkt.com/ilan-kebbal/profil/spieler/739769,ilan kebbal,stade reims,2021,FR1
+Stade Reims,1421,Mathieu Cafaro,399383,€4.00m,4000000.0,https://www.transfermarkt.com/mathieu-cafaro/profil/spieler/399383,mathieu cafaro,stade reims,2021,FR1
+Stade Reims,1421,Mitchell van Bergen,393239,€2.00m,2000000.0,https://www.transfermarkt.com/mitchell-van-bergen/profil/spieler/393239,mitchell van bergen,stade reims,2021,FR1
+Stade Reims,1421,Noa Cervantes,659517,€300k,300000.0,https://www.transfermarkt.com/noa-cervantes/profil/spieler/659517,noa cervantes,stade reims,2021,FR1
+Stade Reims,1421,Hugo Ekitiké,709726,€28.00m,28000000.0,https://www.transfermarkt.com/hugo-ekitike/profil/spieler/709726,hugo ekitike,stade reims,2021,FR1
+Stade Reims,1421,El Bilal Touré,649016,€6.50m,6500000.0,https://www.transfermarkt.com/el-bilal-toure/profil/spieler/649016,el bilal toure,stade reims,2021,FR1
+Stade Reims,1421,Kaj Sierhuis,315283,€2.30m,2300000.0,https://www.transfermarkt.com/kaj-sierhuis/profil/spieler/315283,kaj sierhuis,stade reims,2021,FR1
+Stade Reims,1421,N'Dri Koffi,798927,€1.20m,1200000.0,https://www.transfermarkt.com/ndri-koffi/profil/spieler/798927,n'dri koffi,stade reims,2021,FR1
+Stade Reims,1421,Fraser Hornby,388160,€1.00m,1000000.0,https://www.transfermarkt.com/fraser-hornby/profil/spieler/388160,fraser hornby,stade reims,2021,FR1
+Montpellier HSC,969,Jonas Omlin,247915,€8.00m,8000000.0,https://www.transfermarkt.com/jonas-omlin/profil/spieler/247915,jonas omlin,montpellier hsc,2021,FR1
+Montpellier HSC,969,Dimitry Bertaud,371816,€1.50m,1500000.0,https://www.transfermarkt.com/dimitry-bertaud/profil/spieler/371816,dimitry bertaud,montpellier hsc,2021,FR1
+Montpellier HSC,969,Matis Carvalho,478346,€200k,200000.0,https://www.transfermarkt.com/matis-carvalho/profil/spieler/478346,matis carvalho,montpellier hsc,2021,FR1
+Montpellier HSC,969,Mamadou Sakho,47713,€4.50m,4500000.0,https://www.transfermarkt.com/mamadou-sakho/profil/spieler/47713,mamadou sakho,montpellier hsc,2021,FR1
+Montpellier HSC,969,Maxime Estève,842341,€4.50m,4500000.0,https://www.transfermarkt.com/maxime-esteve/profil/spieler/842341,maxime esteve,montpellier hsc,2021,FR1
+Montpellier HSC,969,Pedro Mendes,72857,€4.00m,4000000.0,https://www.transfermarkt.com/pedro-mendes/profil/spieler/72857,pedro mendes,montpellier hsc,2021,FR1
+Montpellier HSC,969,Matheus Thuler,549815,€2.00m,2000000.0,https://www.transfermarkt.com/matheus-thuler/profil/spieler/549815,matheus thuler,montpellier hsc,2021,FR1
+Montpellier HSC,969,Redouane Halhal,913660,€100k,100000.0,https://www.transfermarkt.com/redouane-halhal/profil/spieler/913660,redouane halhal,montpellier hsc,2021,FR1
+Montpellier HSC,969,Nicolas Cozza,485965,€5.00m,5000000.0,https://www.transfermarkt.com/nicolas-cozza/profil/spieler/485965,nicolas cozza,montpellier hsc,2021,FR1
+Montpellier HSC,969,Mihailo Ristic,271455,€3.50m,3500000.0,https://www.transfermarkt.com/mihailo-ristic/profil/spieler/271455,mihailo ristic,montpellier hsc,2021,FR1
+Montpellier HSC,969,Ambroise Oyongo,184922,€1.80m,1800000.0,https://www.transfermarkt.com/ambroise-oyongo/profil/spieler/184922,ambroise oyongo,montpellier hsc,2021,FR1
+Montpellier HSC,969,Thibault Tamas,569374,€200k,200000.0,https://www.transfermarkt.com/thibault-tamas/profil/spieler/569374,thibault tamas,montpellier hsc,2021,FR1
+Montpellier HSC,969,Junior Sambia,335147,€4.50m,4500000.0,https://www.transfermarkt.com/junior-sambia/profil/spieler/335147,junior sambia,montpellier hsc,2021,FR1
+Montpellier HSC,969,Arnaud Souquet,111058,€2.50m,2500000.0,https://www.transfermarkt.com/arnaud-souquet/profil/spieler/111058,arnaud souquet,montpellier hsc,2021,FR1
+Montpellier HSC,969,Thibaut Vargas,627463,€600k,600000.0,https://www.transfermarkt.com/thibaut-vargas/profil/spieler/627463,thibaut vargas,montpellier hsc,2021,FR1
+Montpellier HSC,969,Mathías Suárez,294895,€400k,400000.0,https://www.transfermarkt.com/mathias-suarez/profil/spieler/294895,mathias suarez,montpellier hsc,2021,FR1
+Montpellier HSC,969,Enzo Tchato,842338,€250k,250000.0,https://www.transfermarkt.com/enzo-tchato/profil/spieler/842338,enzo tchato,montpellier hsc,2021,FR1
+Montpellier HSC,969,Marius Ros,913674,€100k,100000.0,https://www.transfermarkt.com/marius-ros/profil/spieler/913674,marius ros,montpellier hsc,2021,FR1
+Montpellier HSC,969,Joris Chotard,624037,€10.00m,10000000.0,https://www.transfermarkt.com/joris-chotard/profil/spieler/624037,joris chotard,montpellier hsc,2021,FR1
+Montpellier HSC,969,Gabriel Barès,484743,€700k,700000.0,https://www.transfermarkt.com/gabriel-bares/profil/spieler/484743,gabriel bares,montpellier hsc,2021,FR1
+Montpellier HSC,969,Jordan Ferri,118284,€5.00m,5000000.0,https://www.transfermarkt.com/jordan-ferri/profil/spieler/118284,jordan ferri,montpellier hsc,2021,FR1
+Montpellier HSC,969,Léo Leroy,650350,€1.50m,1500000.0,https://www.transfermarkt.com/leo-leroy/profil/spieler/650350,leo leroy,montpellier hsc,2021,FR1
+Montpellier HSC,969,Téji Savanier,127156,€12.00m,12000000.0,https://www.transfermarkt.com/teji-savanier/profil/spieler/127156,teji savanier,montpellier hsc,2021,FR1
+Montpellier HSC,969,Rémy Cabella,113707,€6.50m,6500000.0,https://www.transfermarkt.com/remy-cabella/profil/spieler/113707,remy cabella,montpellier hsc,2021,FR1
+Montpellier HSC,969,Florent Mollet,222859,€6.00m,6000000.0,https://www.transfermarkt.com/florent-mollet/profil/spieler/222859,florent mollet,montpellier hsc,2021,FR1
+Montpellier HSC,969,Sacha Delaye,842425,€800k,800000.0,https://www.transfermarkt.com/sacha-delaye/profil/spieler/842425,sacha delaye,montpellier hsc,2021,FR1
+Montpellier HSC,969,Stephy Mavididi,340328,€10.00m,10000000.0,https://www.transfermarkt.com/stephy-mavididi/profil/spieler/340328,stephy mavididi,montpellier hsc,2021,FR1
+Montpellier HSC,969,Béni Makouana,624920,€800k,800000.0,https://www.transfermarkt.com/beni-makouana/profil/spieler/624920,beni makouana,montpellier hsc,2021,FR1
+Montpellier HSC,969,Gaëtan Laborde,181378,€18.00m,18000000.0,https://www.transfermarkt.com/gaetan-laborde/profil/spieler/181378,gaetan laborde,montpellier hsc,2021,FR1
+Montpellier HSC,969,Andy Delort,122797,€13.00m,13000000.0,https://www.transfermarkt.com/andy-delort/profil/spieler/122797,andy delort,montpellier hsc,2021,FR1
+Montpellier HSC,969,Elye Wahi,659542,€12.00m,12000000.0,https://www.transfermarkt.com/elye-wahi/profil/spieler/659542,elye wahi,montpellier hsc,2021,FR1
+Montpellier HSC,969,Valère Germain,60540,€2.50m,2500000.0,https://www.transfermarkt.com/valere-germain/profil/spieler/60540,valere germain,montpellier hsc,2021,FR1
+Montpellier HSC,969,Nicholas Gioacchini,704156,€1.50m,1500000.0,https://www.transfermarkt.com/nicholas-gioacchini/profil/spieler/704156,nicholas gioacchini,montpellier hsc,2021,FR1
+Montpellier HSC,969,Petar Skuletic,58295,€300k,300000.0,https://www.transfermarkt.com/petar-skuletic/profil/spieler/58295,petar skuletic,montpellier hsc,2021,FR1
+Montpellier HSC,969,Yanis Guermouche,876034,€250k,250000.0,https://www.transfermarkt.com/yanis-guermouche/profil/spieler/876034,yanis guermouche,montpellier hsc,2021,FR1
+Montpellier HSC,969,Ryan Bakayoko,855043,€100k,100000.0,https://www.transfermarkt.com/ryan-bakayoko/profil/spieler/855043,ryan bakayoko,montpellier hsc,2021,FR1
+RC Strasbourg Alsace,667,Matz Sels,127202,€8.00m,8000000.0,https://www.transfermarkt.com/matz-sels/profil/spieler/127202,matz sels,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Eiji Kawashima,77383,€200k,200000.0,https://www.transfermarkt.com/eiji-kawashima/profil/spieler/77383,eiji kawashima,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Alaa Bellaarouch,667991,€150k,150000.0,https://www.transfermarkt.com/alaa-bellaarouch/profil/spieler/667991,alaa bellaarouch,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Alexander Djiku,250844,€10.00m,10000000.0,https://www.transfermarkt.com/alexander-djiku/profil/spieler/250844,alexander djiku,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Gerzino Nyamsi,378953,€7.50m,7500000.0,https://www.transfermarkt.com/gerzino-nyamsi/profil/spieler/378953,gerzino nyamsi,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Lucas Perrin,352392,€5.00m,5000000.0,https://www.transfermarkt.com/lucas-perrin/profil/spieler/352392,lucas perrin,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Ismaël Doukouré,786436,€1.50m,1500000.0,https://www.transfermarkt.com/ismael-doukoure/profil/spieler/786436,ismael doukoure,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Maxime Le Marchand,60558,€1.20m,1200000.0,https://www.transfermarkt.com/maxime-le-marchand/profil/spieler/60558,maxime le marchand,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Marvin Elimbi,862628,€150k,150000.0,https://www.transfermarkt.com/marvin-elimbi/profil/spieler/862628,marvin elimbi,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Kanfory Dramé,962560,-,,https://www.transfermarkt.com/kanfory-drame/profil/spieler/962560,kanfory drame,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Frédéric Guilbert,354352,€7.00m,7000000.0,https://www.transfermarkt.com/frederic-guilbert/profil/spieler/354352,frederic guilbert,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Anthony Caci,453016,€7.00m,7000000.0,https://www.transfermarkt.com/anthony-caci/profil/spieler/453016,anthony caci,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Karol Fila,385817,€1.20m,1200000.0,https://www.transfermarkt.com/karol-fila/profil/spieler/385817,karol fila,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Marvin Senaya,830890,€500k,500000.0,https://www.transfermarkt.com/marvin-senaya/profil/spieler/830890,marvin senaya,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Ibrahima Sissoko,372712,€8.00m,8000000.0,https://www.transfermarkt.com/ibrahima-sissoko/profil/spieler/372712,ibrahima sissoko,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Jean-Eudes Aholou,178313,€3.00m,3000000.0,https://www.transfermarkt.com/jean-eudes-aholou/profil/spieler/178313,jean-eudes aholou,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Mahamé Siby,587646,€1.30m,1300000.0,https://www.transfermarkt.com/mahame-siby/profil/spieler/587646,mahame siby,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Jean-Ricner Bellegarde,450050,€8.00m,8000000.0,https://www.transfermarkt.com/jean-ricner-bellegarde/profil/spieler/450050,jean-ricner bellegarde,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Sanjin Prcic,125783,€4.00m,4000000.0,https://www.transfermarkt.com/sanjin-prcic/profil/spieler/125783,sanjin prcic,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Dimitri Liénard,314940,€700k,700000.0,https://www.transfermarkt.com/dimitri-lienard/profil/spieler/314940,dimitri lienard,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Habib Diarra,876631,€600k,600000.0,https://www.transfermarkt.com/habib-diarra/profil/spieler/876631,habib diarra,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Adrien Thomasson,215977,€9.00m,9000000.0,https://www.transfermarkt.com/adrien-thomasson/profil/spieler/215977,adrien thomasson,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Aymeric Ahmed,918157,€250k,250000.0,https://www.transfermarkt.com/aymeric-ahmed/profil/spieler/918157,aymeric ahmed,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Mehdi Chahiri,358509,€1.20m,1200000.0,https://www.transfermarkt.com/mehdi-chahiri/profil/spieler/358509,mehdi chahiri,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Nordine Kandil,891379,€400k,400000.0,https://www.transfermarkt.com/nordine-kandil/profil/spieler/891379,nordine kandil,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Dany Jean,628835,€100k,100000.0,https://www.transfermarkt.com/dany-jean/profil/spieler/628835,dany jean,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Abdoul Ouattara,991487,€100k,100000.0,https://www.transfermarkt.com/abdoul-ouattara/profil/spieler/991487,abdoul ouattara,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Majeed Waris,146805,€1.20m,1200000.0,https://www.transfermarkt.com/majeed-waris/profil/spieler/146805,majeed waris,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Ludovic Ajorque,283994,€16.00m,16000000.0,https://www.transfermarkt.com/ludovic-ajorque/profil/spieler/283994,ludovic ajorque,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Habib Diallo,344888,€12.00m,12000000.0,https://www.transfermarkt.com/habib-diallo/profil/spieler/344888,habib diallo,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Lebo Mothiba,427161,€2.00m,2000000.0,https://www.transfermarkt.com/lebo-mothiba/profil/spieler/427161,lebo mothiba,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Kévin Gameiro,27389,€2.00m,2000000.0,https://www.transfermarkt.com/kevin-gameiro/profil/spieler/27389,kevin gameiro,rc strasbourg alsace,2021,FR1
+RC Strasbourg Alsace,667,Moïse Sahi Dion,880330,€800k,800000.0,https://www.transfermarkt.com/moise-sahi-dion/profil/spieler/880330,moise sahi dion,rc strasbourg alsace,2021,FR1
+FC Girondins Bordeaux,40,Benoît Costil,22628,€1.50m,1500000.0,https://www.transfermarkt.com/benoit-costil/profil/spieler/22628,benoit costil,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Gaëtan Poussin,344591,€1.00m,1000000.0,https://www.transfermarkt.com/gaetan-poussin/profil/spieler/344591,gaetan poussin,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Davy Rouyard,540641,€150k,150000.0,https://www.transfermarkt.com/davy-rouyard/profil/spieler/540641,davy rouyard,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Tidiane Malbec,540643,€150k,150000.0,https://www.transfermarkt.com/tidiane-malbec/profil/spieler/540643,tidiane malbec,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Guerric Bernou,970278,€100k,100000.0,https://www.transfermarkt.com/guerric-bernou/profil/spieler/970278,guerric bernou,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Anel Ahmedhodzic,377468,€6.00m,6000000.0,https://www.transfermarkt.com/anel-ahmedhodzic/profil/spieler/377468,anel ahmedhodzic,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Stian Gregersen,230140,€1.50m,1500000.0,https://www.transfermarkt.com/stian-gregersen/profil/spieler/230140,stian gregersen,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Mexer,127610,€1.00m,1000000.0,https://www.transfermarkt.com/mexer/profil/spieler/127610,mexer,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Marcelo,52920,€1.00m,1000000.0,https://www.transfermarkt.com/marcelo/profil/spieler/52920,marcelo,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Loris Benito,119085,€800k,800000.0,https://www.transfermarkt.com/loris-benito/profil/spieler/119085,loris benito,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Loïc Bessilé,371150,€800k,800000.0,https://www.transfermarkt.com/loic-bessile/profil/spieler/371150,loic bessile,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Paul Baysse,43256,€800k,800000.0,https://www.transfermarkt.com/paul-baysse/profil/spieler/43256,paul baysse,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Abdeldjalil Medioub,596901,€600k,600000.0,https://www.transfermarkt.com/abdeldjalil-medioub/profil/spieler/596901,abdeldjalil medioub,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Laurent Koscielny,76277,-,,https://www.transfermarkt.com/laurent-koscielny/profil/spieler/76277,laurent koscielny,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Yaël Mouanga,970364,-,,https://www.transfermarkt.com/yael-mouanga/profil/spieler/970364,yael mouanga,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Gideon Mensah,397171,€2.50m,2500000.0,https://www.transfermarkt.com/gideon-mensah/profil/spieler/397171,gideon mensah,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Ricardo Mangas,314944,€1.50m,1500000.0,https://www.transfermarkt.com/ricardo-mangas/profil/spieler/314944,ricardo mangas,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Aïssa Boudechicha,592398,€150k,150000.0,https://www.transfermarkt.com/aissa-boudechicha/profil/spieler/592398,aissa boudechicha,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Jacques Ekomié,970279,€100k,100000.0,https://www.transfermarkt.com/jacques-ekomie/profil/spieler/970279,jacques ekomie,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Timothée Pembélé,538998,€6.00m,6000000.0,https://www.transfermarkt.com/timothee-pembele/profil/spieler/538998,timothee pembele,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Enock Kwateng,288241,€3.00m,3000000.0,https://www.transfermarkt.com/enock-kwateng/profil/spieler/288241,enock kwateng,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Johaneko Louis-Jean,926766,€300k,300000.0,https://www.transfermarkt.com/johaneko-louis-jean/profil/spieler/926766,johaneko louis-jean,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Mohamed Aggoun,861248,€100k,100000.0,https://www.transfermarkt.com/mohamed-aggoun/profil/spieler/861248,mohamed aggoun,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Yacine Adli,395236,€9.00m,9000000.0,https://www.transfermarkt.com/yacine-adli/profil/spieler/395236,yacine adli,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Otávio,312314,€6.00m,6000000.0,https://www.transfermarkt.com/otavio/profil/spieler/312314,otavio,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Jean Onana,656441,€5.00m,5000000.0,https://www.transfermarkt.com/jean-onana/profil/spieler/656441,jean onana,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Josuha Guilavogui,93704,€3.50m,3500000.0,https://www.transfermarkt.com/josuha-guilavogui/profil/spieler/93704,josuha guilavogui,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Tom Lacoux,847759,€800k,800000.0,https://www.transfermarkt.com/tom-lacoux/profil/spieler/847759,tom lacoux,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Issouf Sissokho,740674,€500k,500000.0,https://www.transfermarkt.com/issouf-sissokho/profil/spieler/740674,issouf sissokho,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Tijany Atallah,709729,€200k,200000.0,https://www.transfermarkt.com/tijany-atallah/profil/spieler/709729,tijany atallah,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Junior Mwanga,1011200,€200k,200000.0,https://www.transfermarkt.com/junior-mwanga/profil/spieler/1011200,junior mwanga,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Emeric Depussay,540693,€100k,100000.0,https://www.transfermarkt.com/emeric-depussay/profil/spieler/540693,emeric depussay,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Toma Bašić,334835,€8.00m,8000000.0,https://www.transfermarkt.com/toma-basic/profil/spieler/334835,toma basic,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Fransérgio,111828,€2.50m,2500000.0,https://www.transfermarkt.com/fransergio/profil/spieler/111828,fransergio,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Rubén Pardo,99352,€2.40m,2400000.0,https://www.transfermarkt.com/ruben-pardo/profil/spieler/99352,ruben pardo,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Danylo Ignatenko,376082,€1.50m,1500000.0,https://www.transfermarkt.com/danylo-ignatenko/profil/spieler/376082,danylo ignatenko,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Rudy Orea,970280,-,,https://www.transfermarkt.com/rudy-orea/profil/spieler/970280,rudy orea,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Raoul Bellanova,357992,€7.00m,7000000.0,https://www.transfermarkt.com/raoul-bellanova/profil/spieler/357992,raoul bellanova,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Ui-jo Hwang,260166,€7.00m,7000000.0,https://www.transfermarkt.com/ui-jo-hwang/profil/spieler/260166,ui-jo hwang,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Rémi Oudin,399543,€5.00m,5000000.0,https://www.transfermarkt.com/remi-oudin/profil/spieler/399543,remi oudin,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Mehdi Zerkane,460654,€1.50m,1500000.0,https://www.transfermarkt.com/mehdi-zerkane/profil/spieler/460654,mehdi zerkane,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Johab Pascal,540656,€100k,100000.0,https://www.transfermarkt.com/johab-pascal/profil/spieler/540656,johab pascal,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Javairô Dilrosun,315125,€6.00m,6000000.0,https://www.transfermarkt.com/javairo-dilrosun/profil/spieler/315125,javairo dilrosun,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Moudjatovic,842764,€100k,100000.0,https://www.transfermarkt.com/moudjatovic/profil/spieler/842764,moudjatovic,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Alberth Elis,281319,€6.50m,6500000.0,https://www.transfermarkt.com/alberth-elis/profil/spieler/281319,alberth elis,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Samuel Kalu,424051,€3.00m,3000000.0,https://www.transfermarkt.com/samuel-kalu/profil/spieler/424051,samuel kalu,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Amadou Traoré,540665,€400k,400000.0,https://www.transfermarkt.com/amadou-traore/profil/spieler/540665,amadou traore,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Dilane Bakwa,540664,€400k,400000.0,https://www.transfermarkt.com/dilane-bakwa/profil/spieler/540664,dilane bakwa,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Logan Delaurier-Chaubet,569386,€200k,200000.0,https://www.transfermarkt.com/logan-delaurier-chaubet/profil/spieler/569386,logan delaurier-chaubet,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,M'Baye Niang,157501,€4.00m,4000000.0,https://www.transfermarkt.com/mbaye-niang/profil/spieler/157501,m'baye niang,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Josh Maja,453824,€3.00m,3000000.0,https://www.transfermarkt.com/josh-maja/profil/spieler/453824,josh maja,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Sékou Mara,557612,€3.00m,3000000.0,https://www.transfermarkt.com/sekou-mara/profil/spieler/557612,sekou mara,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Jimmy Briand,18909,€600k,600000.0,https://www.transfermarkt.com/jimmy-briand/profil/spieler/18909,jimmy briand,fc girondins bordeaux,2021,FR1
+FC Girondins Bordeaux,40,Thibault Klidjé,575610,€300k,300000.0,https://www.transfermarkt.com/thibault-klidje/profil/spieler/575610,thibault klidje,fc girondins bordeaux,2021,FR1
+FC Nantes,995,Alban Lafont,357117,€16.00m,16000000.0,https://www.transfermarkt.com/alban-lafont/profil/spieler/357117,alban lafont,fc nantes,2021,FR1
+FC Nantes,995,Rémy Descamps,282028,€800k,800000.0,https://www.transfermarkt.com/remy-descamps/profil/spieler/282028,remy descamps,fc nantes,2021,FR1
+FC Nantes,995,Denis Petric,28356,€200k,200000.0,https://www.transfermarkt.com/denis-petric/profil/spieler/28356,denis petric,fc nantes,2021,FR1
+FC Nantes,995,Andrei Girotto,270051,€5.00m,5000000.0,https://www.transfermarkt.com/andrei-girotto/profil/spieler/270051,andrei girotto,fc nantes,2021,FR1
+FC Nantes,995,Jean-Charles Castelletto,182875,€4.00m,4000000.0,https://www.transfermarkt.com/jean-charles-castelletto/profil/spieler/182875,jean-charles castelletto,fc nantes,2021,FR1
+FC Nantes,995,Nicolas Pallois,139279,€1.50m,1500000.0,https://www.transfermarkt.com/nicolas-pallois/profil/spieler/139279,nicolas pallois,fc nantes,2021,FR1
+FC Nantes,995,Abdoulaye Sylla,807648,€250k,250000.0,https://www.transfermarkt.com/abdoulaye-sylla/profil/spieler/807648,abdoulaye sylla,fc nantes,2021,FR1
+FC Nantes,995,Yannis M'Bemba,822116,€200k,200000.0,https://www.transfermarkt.com/yannis-mbemba/profil/spieler/822116,yannis m'bemba,fc nantes,2021,FR1
+FC Nantes,995,Robin Voisine,650582,€150k,150000.0,https://www.transfermarkt.com/robin-voisine/profil/spieler/650582,robin voisine,fc nantes,2021,FR1
+FC Nantes,995,Quentin Merlin,557613,€5.00m,5000000.0,https://www.transfermarkt.com/quentin-merlin/profil/spieler/557613,quentin merlin,fc nantes,2021,FR1
+FC Nantes,995,Charles Traoré,394906,€1.50m,1500000.0,https://www.transfermarkt.com/charles-traore/profil/spieler/394906,charles traore,fc nantes,2021,FR1
+FC Nantes,995,Marcus Coco,353365,€2.00m,2000000.0,https://www.transfermarkt.com/marcus-coco/profil/spieler/353365,marcus coco,fc nantes,2021,FR1
+FC Nantes,995,Dennis Appiah,111038,€2.00m,2000000.0,https://www.transfermarkt.com/dennis-appiah/profil/spieler/111038,dennis appiah,fc nantes,2021,FR1
+FC Nantes,995,Fábio,61891,€1.80m,1800000.0,https://www.transfermarkt.com/fabio/profil/spieler/61891,fabio,fc nantes,2021,FR1
+FC Nantes,995,Sébastien Corchia,102744,€1.80m,1800000.0,https://www.transfermarkt.com/sebastien-corchia/profil/spieler/102744,sebastien corchia,fc nantes,2021,FR1
+FC Nantes,995,Pedro Chirivella,242273,€7.00m,7000000.0,https://www.transfermarkt.com/pedro-chirivella/profil/spieler/242273,pedro chirivella,fc nantes,2021,FR1
+FC Nantes,995,Lohann Doucet,830265,€150k,150000.0,https://www.transfermarkt.com/lohann-doucet/profil/spieler/830265,lohann doucet,fc nantes,2021,FR1
+FC Nantes,995,Wylan Cyprien,182889,€4.50m,4500000.0,https://www.transfermarkt.com/wylan-cyprien/profil/spieler/182889,wylan cyprien,fc nantes,2021,FR1
+FC Nantes,995,Samuel Moutoussamy,353403,€3.00m,3000000.0,https://www.transfermarkt.com/samuel-moutoussamy/profil/spieler/353403,samuel moutoussamy,fc nantes,2021,FR1
+FC Nantes,995,Mohamed Achi,855158,€300k,300000.0,https://www.transfermarkt.com/mohamed-achi/profil/spieler/855158,mohamed achi,fc nantes,2021,FR1
+FC Nantes,995,Roli Pereira de Sa,243737,€700k,700000.0,https://www.transfermarkt.com/roli-pereira-de-sa/profil/spieler/243737,roli pereira de sa,fc nantes,2021,FR1
+FC Nantes,995,Gor Manvelyan,773795,€400k,400000.0,https://www.transfermarkt.com/gor-manvelyan/profil/spieler/773795,gor manvelyan,fc nantes,2021,FR1
+FC Nantes,995,Moses Simon,274862,€10.00m,10000000.0,https://www.transfermarkt.com/moses-simon/profil/spieler/274862,moses simon,fc nantes,2021,FR1
+FC Nantes,995,Anthony Limbombe,140803,€1.20m,1200000.0,https://www.transfermarkt.com/anthony-limbombe/profil/spieler/140803,anthony limbombe,fc nantes,2021,FR1
+FC Nantes,995,Ludovic Blas,288225,€16.00m,16000000.0,https://www.transfermarkt.com/ludovic-blas/profil/spieler/288225,ludovic blas,fc nantes,2021,FR1
+FC Nantes,995,Osman Bukari,548650,€3.00m,3000000.0,https://www.transfermarkt.com/osman-bukari/profil/spieler/548650,osman bukari,fc nantes,2021,FR1
+FC Nantes,995,Randal Kolo Muani,487969,€16.00m,16000000.0,https://www.transfermarkt.com/randal-kolo-muani/profil/spieler/487969,randal kolo muani,fc nantes,2021,FR1
+FC Nantes,995,Willem Geubbels,463620,€4.00m,4000000.0,https://www.transfermarkt.com/willem-geubbels/profil/spieler/463620,willem geubbels,fc nantes,2021,FR1
+FC Nantes,995,Kalifa Coulibaly,184935,€1.50m,1500000.0,https://www.transfermarkt.com/kalifa-coulibaly/profil/spieler/184935,kalifa coulibaly,fc nantes,2021,FR1
+FC Nantes,995,Jean-Kévin Augustin,264956,€1.50m,1500000.0,https://www.transfermarkt.com/jean-kevin-augustin/profil/spieler/264956,jean-kevin augustin,fc nantes,2021,FR1
+FC Nantes,995,Renaud Emond,168471,€1.20m,1200000.0,https://www.transfermarkt.com/renaud-emond/profil/spieler/168471,renaud emond,fc nantes,2021,FR1
+AS Saint-Étienne,618,Etienne Green,696849,€7.00m,7000000.0,https://www.transfermarkt.com/etienne-green/profil/spieler/696849,etienne green,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Paul Bernardoni,318507,€7.00m,7000000.0,https://www.transfermarkt.com/paul-bernardoni/profil/spieler/318507,paul bernardoni,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Stefan Bajic,465836,€1.80m,1800000.0,https://www.transfermarkt.com/stefan-bajic/profil/spieler/465836,stefan bajic,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Boubacar Fall,836132,€300k,300000.0,https://www.transfermarkt.com/boubacar-fall/profil/spieler/836132,boubacar fall,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Harold Moukoudi,272636,€4.00m,4000000.0,https://www.transfermarkt.com/harold-moukoudi/profil/spieler/272636,harold moukoudi,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Saïdou Sow,807128,€4.00m,4000000.0,https://www.transfermarkt.com/saidou-sow/profil/spieler/807128,saidou sow,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Mickaël Nadé,494586,€2.50m,2500000.0,https://www.transfermarkt.com/mickael-nade/profil/spieler/494586,mickael nade,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Timothée Kolodziejczak,84085,€2.50m,2500000.0,https://www.transfermarkt.com/timothee-kolodziejczak/profil/spieler/84085,timothee kolodziejczak,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Eliaquim Mangala,90681,€1.80m,1800000.0,https://www.transfermarkt.com/eliaquim-mangala/profil/spieler/90681,eliaquim mangala,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Abdoulaye Bakayoko,855615,€300k,300000.0,https://www.transfermarkt.com/abdoulaye-bakayoko/profil/spieler/855615,abdoulaye bakayoko,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Bryan Nokoue,855607,€200k,200000.0,https://www.transfermarkt.com/bryan-nokoue/profil/spieler/855607,bryan nokoue,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Ahmed Sidibé,808477,€100k,100000.0,https://www.transfermarkt.com/ahmed-sidibe/profil/spieler/808477,ahmed sidibe,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Miguel Trauco,177690,€1.80m,1800000.0,https://www.transfermarkt.com/miguel-trauco/profil/spieler/177690,miguel trauco,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Gabriel Silva,114340,€1.20m,1200000.0,https://www.transfermarkt.com/gabriel-silva/profil/spieler/114340,gabriel silva,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Lucas Llort,562463,€100k,100000.0,https://www.transfermarkt.com/lucas-llort/profil/spieler/562463,lucas llort,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Yvann Maçon,580747,€4.50m,4500000.0,https://www.transfermarkt.com/yvann-macon/profil/spieler/580747,yvann macon,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Falaye Sacko,364857,€4.00m,4000000.0,https://www.transfermarkt.com/falaye-sacko/profil/spieler/364857,falaye sacko,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Alpha Sissoko,594992,€600k,600000.0,https://www.transfermarkt.com/alpha-sissoko/profil/spieler/594992,alpha sissoko,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Lucas Gourna-Douath,620313,€10.00m,10000000.0,https://www.transfermarkt.com/lucas-gourna-douath/profil/spieler/620313,lucas gourna-douath,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Yvan Neyou,469669,€3.00m,3000000.0,https://www.transfermarkt.com/yvan-neyou/profil/spieler/469669,yvan neyou,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Assane Dioussé,287635,€1.00m,1000000.0,https://www.transfermarkt.com/assane-diousse/profil/spieler/287635,assane diousse,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Mahdi Camara,324795,€6.00m,6000000.0,https://www.transfermarkt.com/mahdi-camara/profil/spieler/324795,mahdi camara,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Zaydou Youssouf,471582,€4.00m,4000000.0,https://www.transfermarkt.com/zaydou-youssouf/profil/spieler/471582,zaydou youssouf,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Aïmen Moueffek,484992,€1.50m,1500000.0,https://www.transfermarkt.com/aimen-moueffek/profil/spieler/484992,aimen moueffek,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Louis Mouton,904662,€100k,100000.0,https://www.transfermarkt.com/louis-mouton/profil/spieler/904662,louis mouton,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Lucas Calodat,857653,€150k,150000.0,https://www.transfermarkt.com/lucas-calodat/profil/spieler/857653,lucas calodat,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Adil Aouchiche,569385,€6.00m,6000000.0,https://www.transfermarkt.com/adil-aouchiche/profil/spieler/569385,adil aouchiche,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Ryad Boudebouz,77826,€2.00m,2000000.0,https://www.transfermarkt.com/ryad-boudebouz/profil/spieler/77826,ryad boudebouz,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Bilal Benkhedim,609692,€400k,400000.0,https://www.transfermarkt.com/bilal-benkhedim/profil/spieler/609692,bilal benkhedim,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Denis Bouanga,236045,€8.00m,8000000.0,https://www.transfermarkt.com/denis-bouanga/profil/spieler/236045,denis bouanga,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Wahbi Khazri,103565,€4.00m,4000000.0,https://www.transfermarkt.com/wahbi-khazri/profil/spieler/103565,wahbi khazri,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Maxence Rivera,735700,€600k,600000.0,https://www.transfermarkt.com/maxence-rivera/profil/spieler/735700,maxence rivera,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Yanis Lhéry,654414,€400k,400000.0,https://www.transfermarkt.com/yanis-lhery/profil/spieler/654414,yanis lhery,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Bakary Sako,46791,€400k,400000.0,https://www.transfermarkt.com/bakary-sako/profil/spieler/46791,bakary sako,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Mathys Saban,783799,€300k,300000.0,https://www.transfermarkt.com/mathys-saban/profil/spieler/783799,mathys saban,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Arnaud Nordin,324811,€4.00m,4000000.0,https://www.transfermarkt.com/arnaud-nordin/profil/spieler/324811,arnaud nordin,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Sada Thioub,290593,€2.00m,2000000.0,https://www.transfermarkt.com/sada-thioub/profil/spieler/290593,sada thioub,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Romain Hamouma,98349,€1.00m,1000000.0,https://www.transfermarkt.com/romain-hamouma/profil/spieler/98349,romain hamouma,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Lamine Ghezali,413033,€250k,250000.0,https://www.transfermarkt.com/lamine-ghezali/profil/spieler/413033,lamine ghezali,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,El Hadji Dièye,947069,€250k,250000.0,https://www.transfermarkt.com/el-hadji-dieye/profil/spieler/947069,el hadji dieye,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Jean-Philippe Krasso,358515,€1.80m,1800000.0,https://www.transfermarkt.com/jean-philippe-krasso/profil/spieler/358515,jean-philippe krasso,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Enzo Crivelli,291110,€1.80m,1800000.0,https://www.transfermarkt.com/enzo-crivelli/profil/spieler/291110,enzo crivelli,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Ignacio Ramírez,402079,€1.50m,1500000.0,https://www.transfermarkt.com/ignacio-ramirez/profil/spieler/402079,ignacio ramirez,as saint-etienne,2021,FR1
+AS Saint-Étienne,618,Charles Abi,418658,€1.50m,1500000.0,https://www.transfermarkt.com/charles-abi/profil/spieler/418658,charles abi,as saint-etienne,2021,FR1
+Stade Brestois 29,3911,Marco Bizot,124884,€4.50m,4500000.0,https://www.transfermarkt.com/marco-bizot/profil/spieler/124884,marco bizot,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Gautier Larsonneur,357047,€3.00m,3000000.0,https://www.transfermarkt.com/gautier-larsonneur/profil/spieler/357047,gautier larsonneur,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Sébastien Cibois,395251,€400k,400000.0,https://www.transfermarkt.com/sebastien-cibois/profil/spieler/395251,sebastien cibois,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Grégoire Coudert,525155,€200k,200000.0,https://www.transfermarkt.com/gregoire-coudert/profil/spieler/525155,gregoire coudert,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Brendan Chardonnet,250779,€5.00m,5000000.0,https://www.transfermarkt.com/brendan-chardonnet/profil/spieler/250779,brendan chardonnet,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Jean-Kévin Duverne,344864,€4.00m,4000000.0,https://www.transfermarkt.com/jean-kevin-duverne/profil/spieler/344864,jean-kevin duverne,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Lilian Brassier,485960,€4.00m,4000000.0,https://www.transfermarkt.com/lilian-brassier/profil/spieler/485960,lilian brassier,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Christophe Hérelle,170544,€4.00m,4000000.0,https://www.transfermarkt.com/christophe-herelle/profil/spieler/170544,christophe herelle,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Denys Bain,184575,€1.00m,1000000.0,https://www.transfermarkt.com/denys-bain/profil/spieler/184575,denys bain,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Noé Sow,796913,€150k,150000.0,https://www.transfermarkt.com/noe-sow/profil/spieler/796913,noe sow,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Jere Uronen,131827,€2.00m,2000000.0,https://www.transfermarkt.com/jere-uronen/profil/spieler/131827,jere uronen,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Ronaël Pierre-Gabriel,410185,€5.00m,5000000.0,https://www.transfermarkt.com/ronael-pierre-gabriel/profil/spieler/410185,ronael pierre-gabriel,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Julien Faussurier,78917,€300k,300000.0,https://www.transfermarkt.com/julien-faussurier/profil/spieler/78917,julien faussurier,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Lucien Agoumé,569384,€7.00m,7000000.0,https://www.transfermarkt.com/lucien-agoume/profil/spieler/569384,lucien agoume,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Haris Belkebla,138055,€4.00m,4000000.0,https://www.transfermarkt.com/haris-belkebla/profil/spieler/138055,haris belkebla,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Hugo Magnetti,474662,€2.00m,2000000.0,https://www.transfermarkt.com/hugo-magnetti/profil/spieler/474662,hugo magnetti,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Hianga'a Mbock,684062,€1.50m,1500000.0,https://www.transfermarkt.com/hiangaa-mbock/profil/spieler/684062,hianga'a mbock,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Paul Lasne,93726,€500k,500000.0,https://www.transfermarkt.com/paul-lasne/profil/spieler/93726,paul lasne,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Romain Philippoteaux,255220,€500k,500000.0,https://www.transfermarkt.com/romain-philippoteaux/profil/spieler/255220,romain philippoteaux,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Romain Faivre,555076,€15.00m,15000000.0,https://www.transfermarkt.com/romain-faivre/profil/spieler/555076,romain faivre,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Youcef Belaïli,175014,€2.00m,2000000.0,https://www.transfermarkt.com/youcef-belaili/profil/spieler/175014,youcef belaili,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Rafiki Saïd,780147,€500k,500000.0,https://www.transfermarkt.com/rafiki-said/profil/spieler/780147,rafiki said,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Franck Honorat,229006,€10.00m,10000000.0,https://www.transfermarkt.com/franck-honorat/profil/spieler/229006,franck honorat,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Romain Del Castillo,353399,€3.00m,3000000.0,https://www.transfermarkt.com/romain-del-castillo/profil/spieler/353399,romain del castillo,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Axel Camblan,924800,€100k,100000.0,https://www.transfermarkt.com/axel-camblan/profil/spieler/924800,axel camblan,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Martín Satriano,640109,€7.00m,7000000.0,https://www.transfermarkt.com/martin-satriano/profil/spieler/640109,martin satriano,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Steve Mounié,238639,€7.00m,7000000.0,https://www.transfermarkt.com/steve-mounie/profil/spieler/238639,steve mounie,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Irvin Cardona,342226,€4.50m,4500000.0,https://www.transfermarkt.com/irvin-cardona/profil/spieler/342226,irvin cardona,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Jérémy Le Douaron,737781,€3.00m,3000000.0,https://www.transfermarkt.com/jeremy-le-douaron/profil/spieler/737781,jeremy le douaron,stade brestois 29,2021,FR1
+Stade Brestois 29,3911,Youssouph Badji,649035,€2.00m,2000000.0,https://www.transfermarkt.com/youssouph-badji/profil/spieler/649035,youssouph badji,stade brestois 29,2021,FR1
+FC Metz,347,Alexandre Oukidja,56809,€1.20m,1200000.0,https://www.transfermarkt.com/alexandre-oukidja/profil/spieler/56809,alexandre oukidja,fc metz,2021,FR1
+FC Metz,347,Marc-Aurèle Caillard,205465,€1.20m,1200000.0,https://www.transfermarkt.com/marc-aurele-caillard/profil/spieler/205465,marc-aurele caillard,fc metz,2021,FR1
+FC Metz,347,Ousmane Ba,666975,€300k,300000.0,https://www.transfermarkt.com/ousmane-ba/profil/spieler/666975,ousmane ba,fc metz,2021,FR1
+FC Metz,347,David Oberhauser,130110,€250k,250000.0,https://www.transfermarkt.com/david-oberhauser/profil/spieler/130110,david oberhauser,fc metz,2021,FR1
+FC Metz,347,Kiki Kouyaté,211637,€5.00m,5000000.0,https://www.transfermarkt.com/kiki-kouyate/profil/spieler/211637,kiki kouyate,fc metz,2021,FR1
+FC Metz,347,Dylan Bronn,450417,€4.00m,4000000.0,https://www.transfermarkt.com/dylan-bronn/profil/spieler/450417,dylan bronn,fc metz,2021,FR1
+FC Metz,347,Jemerson,258254,€2.00m,2000000.0,https://www.transfermarkt.com/jemerson/profil/spieler/258254,jemerson,fc metz,2021,FR1
+FC Metz,347,Mamadou Fofana,402004,€2.00m,2000000.0,https://www.transfermarkt.com/mamadou-fofana/profil/spieler/402004,mamadou fofana,fc metz,2021,FR1
+FC Metz,347,Sikou Niakaté,413118,€1.80m,1800000.0,https://www.transfermarkt.com/sikou-niakate/profil/spieler/413118,sikou niakate,fc metz,2021,FR1
+FC Metz,347,Fali Candé,520530,€1.50m,1500000.0,https://www.transfermarkt.com/fali-cande/profil/spieler/520530,fali cande,fc metz,2021,FR1
+FC Metz,347,Lenny Lacroix,620315,€1.00m,1000000.0,https://www.transfermarkt.com/lenny-lacroix/profil/spieler/620315,lenny lacroix,fc metz,2021,FR1
+FC Metz,347,Amadou Salif Mbengue,806310,€800k,800000.0,https://www.transfermarkt.com/amadou-salif-mbengue/profil/spieler/806310,amadou salif mbengue,fc metz,2021,FR1
+FC Metz,347,Jean-Armel Kana-Biyik,57404,€500k,500000.0,https://www.transfermarkt.com/jean-armel-kana-biyik/profil/spieler/57404,jean-armel kana-biyik,fc metz,2021,FR1
+FC Metz,347,Noah Zilliox,855309,€100k,100000.0,https://www.transfermarkt.com/noah-zilliox/profil/spieler/855309,noah zilliox,fc metz,2021,FR1
+FC Metz,347,Matthieu Udol,344886,€2.50m,2500000.0,https://www.transfermarkt.com/matthieu-udol/profil/spieler/344886,matthieu udol,fc metz,2021,FR1
+FC Metz,347,Thomas Delaine,170961,€2.00m,2000000.0,https://www.transfermarkt.com/thomas-delaine/profil/spieler/170961,thomas delaine,fc metz,2021,FR1
+FC Metz,347,Manuel Cabit,127075,€200k,200000.0,https://www.transfermarkt.com/manuel-cabit/profil/spieler/127075,manuel cabit,fc metz,2021,FR1
+FC Metz,347,Fabien Centonze,384859,€7.00m,7000000.0,https://www.transfermarkt.com/fabien-centonze/profil/spieler/384859,fabien centonze,fc metz,2021,FR1
+FC Metz,347,William Mikelbrencis,743500,€2.00m,2000000.0,https://www.transfermarkt.com/william-mikelbrencis/profil/spieler/743500,william mikelbrencis,fc metz,2021,FR1
+FC Metz,347,Sofiane Alakouch,434358,€1.50m,1500000.0,https://www.transfermarkt.com/sofiane-alakouch/profil/spieler/434358,sofiane alakouch,fc metz,2021,FR1
+FC Metz,347,Habib Maïga,293944,€3.50m,3500000.0,https://www.transfermarkt.com/habib-maiga/profil/spieler/293944,habib maiga,fc metz,2021,FR1
+FC Metz,347,Kévin N'Doram,342209,€2.00m,2000000.0,https://www.transfermarkt.com/kevin-ndoram/profil/spieler/342209,kevin n'doram,fc metz,2021,FR1
+FC Metz,347,Ibrahim Amadou,205503,€2.00m,2000000.0,https://www.transfermarkt.com/ibrahim-amadou/profil/spieler/205503,ibrahim amadou,fc metz,2021,FR1
+FC Metz,347,Boubacar Traoré,649020,€1.80m,1800000.0,https://www.transfermarkt.com/boubacar-traore/profil/spieler/649020,boubacar traore,fc metz,2021,FR1
+FC Metz,347,Vincent Pajot,126699,€1.00m,1000000.0,https://www.transfermarkt.com/vincent-pajot/profil/spieler/126699,vincent pajot,fc metz,2021,FR1
+FC Metz,347,Warren Tchimbembé,591914,€800k,800000.0,https://www.transfermarkt.com/warren-tchimbembe/profil/spieler/591914,warren tchimbembe,fc metz,2021,FR1
+FC Metz,347,Danley Jean Jacques,628834,€100k,100000.0,https://www.transfermarkt.com/danley-jean-jacques/profil/spieler/628834,danley jean jacques,fc metz,2021,FR1
+FC Metz,347,Pape Matar Sarr,568693,€15.00m,15000000.0,https://www.transfermarkt.com/pape-matar-sarr/profil/spieler/568693,pape matar sarr,fc metz,2021,FR1
+FC Metz,347,Farid Boulaya,202318,€3.50m,3500000.0,https://www.transfermarkt.com/farid-boulaya/profil/spieler/202318,farid boulaya,fc metz,2021,FR1
+FC Metz,347,Amine Bassi,506009,€1.50m,1500000.0,https://www.transfermarkt.com/amine-bassi/profil/spieler/506009,amine bassi,fc metz,2021,FR1
+FC Metz,347,Didier Lamkel Zé,442320,€3.50m,3500000.0,https://www.transfermarkt.com/didier-lamkel-ze/profil/spieler/442320,didier lamkel ze,fc metz,2021,FR1
+FC Metz,347,Opa Nguette,205587,€2.00m,2000000.0,https://www.transfermarkt.com/opa-nguette/profil/spieler/205587,opa nguette,fc metz,2021,FR1
+FC Metz,347,Papa Ndiaga Yade,568702,€2.00m,2000000.0,https://www.transfermarkt.com/papa-ndiaga-yade/profil/spieler/568702,papa ndiaga yade,fc metz,2021,FR1
+FC Metz,347,Vágner Dias,353211,€1.50m,1500000.0,https://www.transfermarkt.com/vagner-dias/profil/spieler/353211,vagner dias,fc metz,2021,FR1
+FC Metz,347,Cheikh Sabaly,568696,€900k,900000.0,https://www.transfermarkt.com/cheikh-sabaly/profil/spieler/568696,cheikh sabaly,fc metz,2021,FR1
+FC Metz,347,Lamine Gueye,568701,€2.00m,2000000.0,https://www.transfermarkt.com/lamine-gueye/profil/spieler/568701,lamine gueye,fc metz,2021,FR1
+FC Metz,347,Ibrahima Niane,490417,€5.00m,5000000.0,https://www.transfermarkt.com/ibrahima-niane/profil/spieler/490417,ibrahima niane,fc metz,2021,FR1
+FC Metz,347,Nicolas de Préville,122116,€2.50m,2500000.0,https://www.transfermarkt.com/nicolas-de-preville/profil/spieler/122116,nicolas de preville,fc metz,2021,FR1
+FC Metz,347,Georges Mikautadze,729814,€2.20m,2200000.0,https://www.transfermarkt.com/georges-mikautadze/profil/spieler/729814,georges mikautadze,fc metz,2021,FR1
+FC Metz,347,Louis Mafouta,461790,€900k,900000.0,https://www.transfermarkt.com/louis-mafouta/profil/spieler/461790,louis mafouta,fc metz,2021,FR1
+FC Metz,347,Lenny Joseph,815359,€500k,500000.0,https://www.transfermarkt.com/lenny-joseph/profil/spieler/815359,lenny joseph,fc metz,2021,FR1
+Angers SCO,1420,Paul Bernardoni,318507,€7.00m,7000000.0,https://www.transfermarkt.com/paul-bernardoni/profil/spieler/318507,paul bernardoni,angers sco,2021,FR1
+Angers SCO,1420,Anthony Mandréa,290559,€1.00m,1000000.0,https://www.transfermarkt.com/anthony-mandrea/profil/spieler/290559,anthony mandrea,angers sco,2021,FR1
+Angers SCO,1420,Danijel Petkovic,188930,€1.00m,1000000.0,https://www.transfermarkt.com/danijel-petkovic/profil/spieler/188930,danijel petkovic,angers sco,2021,FR1
+Angers SCO,1420,Enzo Ebosse,342877,€2.00m,2000000.0,https://www.transfermarkt.com/enzo-ebosse/profil/spieler/342877,enzo ebosse,angers sco,2021,FR1
+Angers SCO,1420,Romain Thomas,57467,€1.00m,1000000.0,https://www.transfermarkt.com/romain-thomas/profil/spieler/57467,romain thomas,angers sco,2021,FR1
+Angers SCO,1420,Ismaël Traoré,57216,€600k,600000.0,https://www.transfermarkt.com/ismael-traore/profil/spieler/57216,ismael traore,angers sco,2021,FR1
+Angers SCO,1420,Abdoulaye Bamba,62351,€500k,500000.0,https://www.transfermarkt.com/abdoulaye-bamba/profil/spieler/62351,abdoulaye bamba,angers sco,2021,FR1
+Angers SCO,1420,Kévin Boma,709727,€300k,300000.0,https://www.transfermarkt.com/kevin-boma/profil/spieler/709727,kevin boma,angers sco,2021,FR1
+Angers SCO,1420,Souleyman Doumbia,296356,€3.00m,3000000.0,https://www.transfermarkt.com/souleyman-doumbia/profil/spieler/296356,souleyman doumbia,angers sco,2021,FR1
+Angers SCO,1420,Vincent Manceau,83132,€800k,800000.0,https://www.transfermarkt.com/vincent-manceau/profil/spieler/83132,vincent manceau,angers sco,2021,FR1
+Angers SCO,1420,Ali Kalla,807687,€100k,100000.0,https://www.transfermarkt.com/ali-kalla/profil/spieler/807687,ali kalla,angers sco,2021,FR1
+Angers SCO,1420,Nabil Bentaleb,245537,€3.50m,3500000.0,https://www.transfermarkt.com/nabil-bentaleb/profil/spieler/245537,nabil bentaleb,angers sco,2021,FR1
+Angers SCO,1420,Batista Mendy,395234,€3.00m,3000000.0,https://www.transfermarkt.com/batista-mendy/profil/spieler/395234,batista mendy,angers sco,2021,FR1
+Angers SCO,1420,Zinédine Ould Khaled,650104,€250k,250000.0,https://www.transfermarkt.com/zinedine-ould-khaled/profil/spieler/650104,zinedine ould khaled,angers sco,2021,FR1
+Angers SCO,1420,Daylam Meddah,768439,€100k,100000.0,https://www.transfermarkt.com/daylam-meddah/profil/spieler/768439,daylam meddah,angers sco,2021,FR1
+Angers SCO,1420,Azzedine Ounahi,593482,€3.00m,3000000.0,https://www.transfermarkt.com/azzedine-ounahi/profil/spieler/593482,azzedine ounahi,angers sco,2021,FR1
+Angers SCO,1420,Antonin Bobichon,344575,€1.80m,1800000.0,https://www.transfermarkt.com/antonin-bobichon/profil/spieler/344575,antonin bobichon,angers sco,2021,FR1
+Angers SCO,1420,Thomas Mangani,18934,€600k,600000.0,https://www.transfermarkt.com/thomas-mangani/profil/spieler/18934,thomas mangani,angers sco,2021,FR1
+Angers SCO,1420,Waniss Taïbi,680447,€600k,600000.0,https://www.transfermarkt.com/waniss-taibi/profil/spieler/680447,waniss taibi,angers sco,2021,FR1
+Angers SCO,1420,Pierrick Capelle,214532,€500k,500000.0,https://www.transfermarkt.com/pierrick-capelle/profil/spieler/214532,pierrick capelle,angers sco,2021,FR1
+Angers SCO,1420,Yassin Belkhdim,807688,€100k,100000.0,https://www.transfermarkt.com/yassin-belkhdim/profil/spieler/807688,yassin belkhdim,angers sco,2021,FR1
+Angers SCO,1420,Mattéo Corduan,829873,€100k,100000.0,https://www.transfermarkt.com/matteo-corduan/profil/spieler/829873,matteo corduan,angers sco,2021,FR1
+Angers SCO,1420,Jimmy Cabot,206912,€5.00m,5000000.0,https://www.transfermarkt.com/jimmy-cabot/profil/spieler/206912,jimmy cabot,angers sco,2021,FR1
+Angers SCO,1420,Angelo Fulgini,250013,€12.00m,12000000.0,https://www.transfermarkt.com/angelo-fulgini/profil/spieler/250013,angelo fulgini,angers sco,2021,FR1
+Angers SCO,1420,Sofiane Boufal,232271,€8.00m,8000000.0,https://www.transfermarkt.com/sofiane-boufal/profil/spieler/232271,sofiane boufal,angers sco,2021,FR1
+Angers SCO,1420,Mathias Pereira Lage,424072,€2.50m,2500000.0,https://www.transfermarkt.com/mathias-pereira-lage/profil/spieler/424072,mathias pereira lage,angers sco,2021,FR1
+Angers SCO,1420,Marin Jakolis,261963,€1.20m,1200000.0,https://www.transfermarkt.com/marin-jakolis/profil/spieler/261963,marin jakolis,angers sco,2021,FR1
+Angers SCO,1420,Farid El Melali,425400,€900k,900000.0,https://www.transfermarkt.com/farid-el-melali/profil/spieler/425400,farid el melali,angers sco,2021,FR1
+Angers SCO,1420,Noah Fatar,707225,€300k,300000.0,https://www.transfermarkt.com/noah-fatar/profil/spieler/707225,noah fatar,angers sco,2021,FR1
+Angers SCO,1420,Jason Mbock,460660,€200k,200000.0,https://www.transfermarkt.com/jason-mbock/profil/spieler/460660,jason mbock,angers sco,2021,FR1
+Angers SCO,1420,Mohamed-Ali Cho,670847,€15.00m,15000000.0,https://www.transfermarkt.com/mohamed-ali-cho/profil/spieler/670847,mohamed-ali cho,angers sco,2021,FR1
+Angers SCO,1420,Billal Brahimi,543051,€5.00m,5000000.0,https://www.transfermarkt.com/billal-brahimi/profil/spieler/543051,billal brahimi,angers sco,2021,FR1
+Angers SCO,1420,Sada Thioub,290593,€2.00m,2000000.0,https://www.transfermarkt.com/sada-thioub/profil/spieler/290593,sada thioub,angers sco,2021,FR1
+Angers SCO,1420,Stéphane Bahoken,170953,€4.00m,4000000.0,https://www.transfermarkt.com/stephane-bahoken/profil/spieler/170953,stephane bahoken,angers sco,2021,FR1
+Angers SCO,1420,Casimir Ninga,392810,€1.20m,1200000.0,https://www.transfermarkt.com/casimir-ninga/profil/spieler/392810,casimir ninga,angers sco,2021,FR1
+Angers SCO,1420,Rachid Alioui,193130,€650k,650000.0,https://www.transfermarkt.com/rachid-alioui/profil/spieler/193130,rachid alioui,angers sco,2021,FR1
+Angers SCO,1420,Frank Magri,807689,€500k,500000.0,https://www.transfermarkt.com/frank-magri/profil/spieler/807689,frank magri,angers sco,2021,FR1
+Angers SCO,1420,Guédé Nadje,855160,€200k,200000.0,https://www.transfermarkt.com/guede-nadje/profil/spieler/855160,guede nadje,angers sco,2021,FR1
+ESTAC Troyes,1095,Gauthier Gallon,193256,€2.50m,2500000.0,https://www.transfermarkt.com/gauthier-gallon/profil/spieler/193256,gauthier gallon,estac troyes,2021,FR1
+ESTAC Troyes,1095,Sébastien Rénot,125350,€250k,250000.0,https://www.transfermarkt.com/sebastien-renot/profil/spieler/125350,sebastien renot,estac troyes,2021,FR1
+ESTAC Troyes,1095,Jessy Moulin,33925,€250k,250000.0,https://www.transfermarkt.com/jessy-moulin/profil/spieler/33925,jessy moulin,estac troyes,2021,FR1
+ESTAC Troyes,1095,Ryan Bouallak,510262,€200k,200000.0,https://www.transfermarkt.com/ryan-bouallak/profil/spieler/510262,ryan bouallak,estac troyes,2021,FR1
+ESTAC Troyes,1095,Giulian Biancone,536507,€4.00m,4000000.0,https://www.transfermarkt.com/giulian-biancone/profil/spieler/536507,giulian biancone,estac troyes,2021,FR1
+ESTAC Troyes,1095,Erik Palmer-Brown,282199,€3.00m,3000000.0,https://www.transfermarkt.com/erik-palmer-brown/profil/spieler/282199,erik palmer-brown,estac troyes,2021,FR1
+ESTAC Troyes,1095,Philippe Sandler,340460,€2.00m,2000000.0,https://www.transfermarkt.com/philippe-sandler/profil/spieler/340460,philippe sandler,estac troyes,2021,FR1
+ESTAC Troyes,1095,Yoann Salmier,351843,€2.00m,2000000.0,https://www.transfermarkt.com/yoann-salmier/profil/spieler/351843,yoann salmier,estac troyes,2021,FR1
+ESTAC Troyes,1095,Jimmy Giraudon,213052,€1.50m,1500000.0,https://www.transfermarkt.com/jimmy-giraudon/profil/spieler/213052,jimmy giraudon,estac troyes,2021,FR1
+ESTAC Troyes,1095,Eric N'Jo,991649,€400k,400000.0,https://www.transfermarkt.com/eric-njo/profil/spieler/991649,eric n'jo,estac troyes,2021,FR1
+ESTAC Troyes,1095,Adil Rami,51118,€400k,400000.0,https://www.transfermarkt.com/adil-rami/profil/spieler/51118,adil rami,estac troyes,2021,FR1
+ESTAC Troyes,1095,Tanguy Zoukrou,917120,€400k,400000.0,https://www.transfermarkt.com/tanguy-zoukrou/profil/spieler/917120,tanguy zoukrou,estac troyes,2021,FR1
+ESTAC Troyes,1095,Gabriel Mutombo,341394,€300k,300000.0,https://www.transfermarkt.com/gabriel-mutombo/profil/spieler/341394,gabriel mutombo,estac troyes,2021,FR1
+ESTAC Troyes,1095,Nathan Gassama,815346,€100k,100000.0,https://www.transfermarkt.com/nathan-gassama/profil/spieler/815346,nathan gassama,estac troyes,2021,FR1
+ESTAC Troyes,1095,Rudy Kohon,917101,€100k,100000.0,https://www.transfermarkt.com/rudy-kohon/profil/spieler/917101,rudy kohon,estac troyes,2021,FR1
+ESTAC Troyes,1095,Lassine Soumaoro,976271,€100k,100000.0,https://www.transfermarkt.com/lassine-soumaoro/profil/spieler/976271,lassine soumaoro,estac troyes,2021,FR1
+ESTAC Troyes,1095,Abdu Conté,337798,€3.00m,3000000.0,https://www.transfermarkt.com/abdu-conte/profil/spieler/337798,abdu conte,estac troyes,2021,FR1
+ESTAC Troyes,1095,Yasser Larouci,554251,€2.50m,2500000.0,https://www.transfermarkt.com/yasser-larouci/profil/spieler/554251,yasser larouci,estac troyes,2021,FR1
+ESTAC Troyes,1095,Youssouf Koné,274484,€2.00m,2000000.0,https://www.transfermarkt.com/youssouf-kone/profil/spieler/274484,youssouf kone,estac troyes,2021,FR1
+ESTAC Troyes,1095,Mathis Hamdi,982864,€100k,100000.0,https://www.transfermarkt.com/mathis-hamdi/profil/spieler/982864,mathis hamdi,estac troyes,2021,FR1
+ESTAC Troyes,1095,Issa Kaboré,649452,€4.00m,4000000.0,https://www.transfermarkt.com/issa-kabore/profil/spieler/649452,issa kabore,estac troyes,2021,FR1
+ESTAC Troyes,1095,Oualid El Hajjam,283127,€1.00m,1000000.0,https://www.transfermarkt.com/oualid-el-hajjam/profil/spieler/283127,oualid el hajjam,estac troyes,2021,FR1
+ESTAC Troyes,1095,Benrandy Abdallah,485959,€150k,150000.0,https://www.transfermarkt.com/benrandy-abdallah/profil/spieler/485959,benrandy abdallah,estac troyes,2021,FR1
+ESTAC Troyes,1095,Anas Namri,972473,€100k,100000.0,https://www.transfermarkt.com/anas-namri/profil/spieler/972473,anas namri,estac troyes,2021,FR1
+ESTAC Troyes,1095,Bachir Diop,972479,€100k,100000.0,https://www.transfermarkt.com/bachir-diop/profil/spieler/972479,bachir diop,estac troyes,2021,FR1
+ESTAC Troyes,1095,Rominigue Kouamé,277635,€5.00m,5000000.0,https://www.transfermarkt.com/rominigue-kouame/profil/spieler/277635,rominigue kouame,estac troyes,2021,FR1
+ESTAC Troyes,1095,Xavier Chavalerin,118278,€3.50m,3500000.0,https://www.transfermarkt.com/xavier-chavalerin/profil/spieler/118278,xavier chavalerin,estac troyes,2021,FR1
+ESTAC Troyes,1095,Florian Tardieu,212804,€3.00m,3000000.0,https://www.transfermarkt.com/florian-tardieu/profil/spieler/212804,florian tardieu,estac troyes,2021,FR1
+ESTAC Troyes,1095,Metinho,859396,€3.00m,3000000.0,https://www.transfermarkt.com/metinho/profil/spieler/859396,metinho,estac troyes,2021,FR1
+ESTAC Troyes,1095,Tristan Dingomé,126683,€1.50m,1500000.0,https://www.transfermarkt.com/tristan-dingome/profil/spieler/126683,tristan dingome,estac troyes,2021,FR1
+ESTAC Troyes,1095,Dylan Chambost,508941,€1.20m,1200000.0,https://www.transfermarkt.com/dylan-chambost/profil/spieler/508941,dylan chambost,estac troyes,2021,FR1
+ESTAC Troyes,1095,Karim Azamoum,275361,€400k,400000.0,https://www.transfermarkt.com/karim-azamoum/profil/spieler/275361,karim azamoum,estac troyes,2021,FR1
+ESTAC Troyes,1095,Derek Mazou-Sacko,917104,€250k,250000.0,https://www.transfermarkt.com/derek-mazou-sacko/profil/spieler/917104,derek mazou-sacko,estac troyes,2021,FR1
+ESTAC Troyes,1095,Calvin Bombo,485962,€150k,150000.0,https://www.transfermarkt.com/calvin-bombo/profil/spieler/485962,calvin bombo,estac troyes,2021,FR1
+ESTAC Troyes,1095,Filip Krastev,486814,€900k,900000.0,https://www.transfermarkt.com/filip-krastev/profil/spieler/486814,filip krastev,estac troyes,2021,FR1
+ESTAC Troyes,1095,Luka Ilic,429790,€700k,700000.0,https://www.transfermarkt.com/luka-ilic/profil/spieler/429790,luka ilic,estac troyes,2021,FR1
+ESTAC Troyes,1095,Brandon Dominguès,804708,€600k,600000.0,https://www.transfermarkt.com/brandon-domingues/profil/spieler/804708,brandon domingues,estac troyes,2021,FR1
+ESTAC Troyes,1095,Levi Lumeka,537182,€250k,250000.0,https://www.transfermarkt.com/levi-lumeka/profil/spieler/537182,levi lumeka,estac troyes,2021,FR1
+ESTAC Troyes,1095,Mamadou Camara,857148,€200k,200000.0,https://www.transfermarkt.com/mamadou-camara/profil/spieler/857148,mamadou camara,estac troyes,2021,FR1
+ESTAC Troyes,1095,Renaud Ripart,234802,€4.00m,4000000.0,https://www.transfermarkt.com/renaud-ripart/profil/spieler/234802,renaud ripart,estac troyes,2021,FR1
+ESTAC Troyes,1095,Patrick Roberts,225452,€1.50m,1500000.0,https://www.transfermarkt.com/patrick-roberts/profil/spieler/225452,patrick roberts,estac troyes,2021,FR1
+ESTAC Troyes,1095,Nassim Chadli,721746,€500k,500000.0,https://www.transfermarkt.com/nassim-chadli/profil/spieler/721746,nassim chadli,estac troyes,2021,FR1
+ESTAC Troyes,1095,Alexis Lefebvre,857154,€100k,100000.0,https://www.transfermarkt.com/alexis-lefebvre/profil/spieler/857154,alexis lefebvre,estac troyes,2021,FR1
+ESTAC Troyes,1095,Iké Ugbo,339943,€5.00m,5000000.0,https://www.transfermarkt.com/ike-ugbo/profil/spieler/339943,ike ugbo,estac troyes,2021,FR1
+ESTAC Troyes,1095,Mama Baldé,325223,€4.50m,4500000.0,https://www.transfermarkt.com/mama-balde/profil/spieler/325223,mama balde,estac troyes,2021,FR1
+ESTAC Troyes,1095,Gerson Rodrigues,282734,€2.50m,2500000.0,https://www.transfermarkt.com/gerson-rodrigues/profil/spieler/282734,gerson rodrigues,estac troyes,2021,FR1
+ESTAC Troyes,1095,Lebo Mothiba,427161,€2.00m,2000000.0,https://www.transfermarkt.com/lebo-mothiba/profil/spieler/427161,lebo mothiba,estac troyes,2021,FR1
+ESTAC Troyes,1095,Hyun-jun Suk,129990,€1.00m,1000000.0,https://www.transfermarkt.com/hyun-jun-suk/profil/spieler/129990,hyun-jun suk,estac troyes,2021,FR1
+ESTAC Troyes,1095,Yoann Touzghar,68718,€600k,600000.0,https://www.transfermarkt.com/yoann-touzghar/profil/spieler/68718,yoann touzghar,estac troyes,2021,FR1
+ESTAC Troyes,1095,Mykola Kukharevych,730126,€400k,400000.0,https://www.transfermarkt.com/mykola-kukharevych/profil/spieler/730126,mykola kukharevych,estac troyes,2021,FR1
+FC Lorient,1158,Paul Nardi,189744,€2.00m,2000000.0,https://www.transfermarkt.com/paul-nardi/profil/spieler/189744,paul nardi,fc lorient,2021,FR1
+FC Lorient,1158,Matthieu Dreyer,57134,€300k,300000.0,https://www.transfermarkt.com/matthieu-dreyer/profil/spieler/57134,matthieu dreyer,fc lorient,2021,FR1
+FC Lorient,1158,Teddy Bartouche-Selbonne,629587,€150k,150000.0,https://www.transfermarkt.com/teddy-bartouche-selbonne/profil/spieler/629587,teddy bartouche-selbonne,fc lorient,2021,FR1
+FC Lorient,1158,Thomas Callens,593315,€150k,150000.0,https://www.transfermarkt.com/thomas-callens/profil/spieler/593315,thomas callens,fc lorient,2021,FR1
+FC Lorient,1158,Julien Laporte,386057,€3.00m,3000000.0,https://www.transfermarkt.com/julien-laporte/profil/spieler/386057,julien laporte,fc lorient,2021,FR1
+FC Lorient,1158,Moritz Jenz,460245,€2.50m,2500000.0,https://www.transfermarkt.com/moritz-jenz/profil/spieler/460245,moritz jenz,fc lorient,2021,FR1
+FC Lorient,1158,Thomas Fontaine,80036,€500k,500000.0,https://www.transfermarkt.com/thomas-fontaine/profil/spieler/80036,thomas fontaine,fc lorient,2021,FR1
+FC Lorient,1158,Loris Mouyokolo,799936,€500k,500000.0,https://www.transfermarkt.com/loris-mouyokolo/profil/spieler/799936,loris mouyokolo,fc lorient,2021,FR1
+FC Lorient,1158,Bamo Meïté,807165,€100k,100000.0,https://www.transfermarkt.com/bamo-meite/profil/spieler/807165,bamo meite,fc lorient,2021,FR1
+FC Lorient,1158,Léo Pétrot,412829,€1.00m,1000000.0,https://www.transfermarkt.com/leo-petrot/profil/spieler/412829,leo petrot,fc lorient,2021,FR1
+FC Lorient,1158,Vincent Le Goff,120651,€1.00m,1000000.0,https://www.transfermarkt.com/vincent-le-goff/profil/spieler/120651,vincent le goff,fc lorient,2021,FR1
+FC Lorient,1158,Samuel Loric,648886,€600k,600000.0,https://www.transfermarkt.com/samuel-loric/profil/spieler/648886,samuel loric,fc lorient,2021,FR1
+FC Lorient,1158,Jérémy Morel,23960,€300k,300000.0,https://www.transfermarkt.com/jeremy-morel/profil/spieler/23960,jeremy morel,fc lorient,2021,FR1
+FC Lorient,1158,Houboulang Mendes,442552,€3.00m,3000000.0,https://www.transfermarkt.com/houboulang-mendes/profil/spieler/442552,houboulang mendes,fc lorient,2021,FR1
+FC Lorient,1158,Igor Silva,391720,€2.00m,2000000.0,https://www.transfermarkt.com/igor-silva/profil/spieler/391720,igor silva,fc lorient,2021,FR1
+FC Lorient,1158,Jérôme Hergault,314912,€250k,250000.0,https://www.transfermarkt.com/jerome-hergault/profil/spieler/314912,jerome hergault,fc lorient,2021,FR1
+FC Lorient,1158,Ronny Labonne,562175,€150k,150000.0,https://www.transfermarkt.com/ronny-labonne/profil/spieler/562175,ronny labonne,fc lorient,2021,FR1
+FC Lorient,1158,Laurent Abergel,238626,€3.00m,3000000.0,https://www.transfermarkt.com/laurent-abergel/profil/spieler/238626,laurent abergel,fc lorient,2021,FR1
+FC Lorient,1158,Bonke Innocent,333383,€2.00m,2000000.0,https://www.transfermarkt.com/bonke-innocent/profil/spieler/333383,bonke innocent,fc lorient,2021,FR1
+FC Lorient,1158,Thomas Monconduit,127182,€1.50m,1500000.0,https://www.transfermarkt.com/thomas-monconduit/profil/spieler/127182,thomas monconduit,fc lorient,2021,FR1
+FC Lorient,1158,Fabien Lemoine,56794,€600k,600000.0,https://www.transfermarkt.com/fabien-lemoine/profil/spieler/56794,fabien lemoine,fc lorient,2021,FR1
+FC Lorient,1158,Enzo Le Fée,633992,€6.00m,6000000.0,https://www.transfermarkt.com/enzo-le-fee/profil/spieler/633992,enzo le fee,fc lorient,2021,FR1
+FC Lorient,1158,Baptiste Mouazan,804548,€200k,200000.0,https://www.transfermarkt.com/baptiste-mouazan/profil/spieler/804548,baptiste mouazan,fc lorient,2021,FR1
+FC Lorient,1158,Théo Le Bris,766412,€400k,400000.0,https://www.transfermarkt.com/theo-le-bris/profil/spieler/766412,theo le bris,fc lorient,2021,FR1
+FC Lorient,1158,Redwan Bourlès,804547,€300k,300000.0,https://www.transfermarkt.com/redwan-bourles/profil/spieler/804547,redwan bourles,fc lorient,2021,FR1
+FC Lorient,1158,Quentin Boisgard,412671,€1.80m,1800000.0,https://www.transfermarkt.com/quentin-boisgard/profil/spieler/412671,quentin boisgard,fc lorient,2021,FR1
+FC Lorient,1158,Armand Laurienté,579930,€7.00m,7000000.0,https://www.transfermarkt.com/armand-lauriente/profil/spieler/579930,armand lauriente,fc lorient,2021,FR1
+FC Lorient,1158,Dango Ouattara,823231,€900k,900000.0,https://www.transfermarkt.com/dango-ouattara/profil/spieler/823231,dango ouattara,fc lorient,2021,FR1
+FC Lorient,1158,Stéphane Diarra,428954,€1.50m,1500000.0,https://www.transfermarkt.com/stephane-diarra/profil/spieler/428954,stephane diarra,fc lorient,2021,FR1
+FC Lorient,1158,Terem Moffi,538874,€9.00m,9000000.0,https://www.transfermarkt.com/terem-moffi/profil/spieler/538874,terem moffi,fc lorient,2021,FR1
+FC Lorient,1158,Ibrahima Koné,490223,€4.50m,4500000.0,https://www.transfermarkt.com/ibrahima-kone/profil/spieler/490223,ibrahima kone,fc lorient,2021,FR1
+FC Lorient,1158,Adrian Grbic,167342,€2.50m,2500000.0,https://www.transfermarkt.com/adrian-grbic/profil/spieler/167342,adrian grbic,fc lorient,2021,FR1
+FC Lorient,1158,Pierre-Yves Hamel,203504,€1.20m,1200000.0,https://www.transfermarkt.com/pierre-yves-hamel/profil/spieler/203504,pierre-yves hamel,fc lorient,2021,FR1
+FC Lorient,1158,Sambou Soumano,704270,€1.20m,1200000.0,https://www.transfermarkt.com/sambou-soumano/profil/spieler/704270,sambou soumano,fc lorient,2021,FR1
+FC Lorient,1158,Pablo Pagis,810411,€200k,200000.0,https://www.transfermarkt.com/pablo-pagis/profil/spieler/810411,pablo pagis,fc lorient,2021,FR1
+Clermont Foot 63,3524,Ouparine Djoco,594993,€1.80m,1800000.0,https://www.transfermarkt.com/ouparine-djoco/profil/spieler/594993,ouparine djoco,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Arthur Desmas,379869,€1.20m,1200000.0,https://www.transfermarkt.com/arthur-desmas/profil/spieler/379869,arthur desmas,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Lucas Margueron,618463,€150k,150000.0,https://www.transfermarkt.com/lucas-margueron/profil/spieler/618463,lucas margueron,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Cédric Hountondji,198709,€3.00m,3000000.0,https://www.transfermarkt.com/cedric-hountondji/profil/spieler/198709,cedric hountondji,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Alidu Seidu,798404,€2.00m,2000000.0,https://www.transfermarkt.com/alidu-seidu/profil/spieler/798404,alidu seidu,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Jean-Claude Billong,391192,€1.00m,1000000.0,https://www.transfermarkt.com/jean-claude-billong/profil/spieler/391192,jean-claude billong,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Florent Ogier,91473,€700k,700000.0,https://www.transfermarkt.com/florent-ogier/profil/spieler/91473,florent ogier,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Josué Albert,170487,€300k,300000.0,https://www.transfermarkt.com/josue-albert/profil/spieler/170487,josue albert,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Baptiste Boit,912601,€100k,100000.0,https://www.transfermarkt.com/baptiste-boit/profil/spieler/912601,baptiste boit,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Vital Nsimba,203761,€2.50m,2500000.0,https://www.transfermarkt.com/vital-nsimba/profil/spieler/203761,vital nsimba,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Arial Mendy,422715,€700k,700000.0,https://www.transfermarkt.com/arial-mendy/profil/spieler/422715,arial mendy,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Julien Boyer,590629,€450k,450000.0,https://www.transfermarkt.com/julien-boyer/profil/spieler/590629,julien boyer,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Akim Zedadka,327863,€4.00m,4000000.0,https://www.transfermarkt.com/akim-zedadka/profil/spieler/327863,akim zedadka,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Jérôme Phojo,170459,€300k,300000.0,https://www.transfermarkt.com/jerome-phojo/profil/spieler/170459,jerome phojo,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Karim Mohamed,942083,€100k,100000.0,https://www.transfermarkt.com/karim-mohamed/profil/spieler/942083,karim mohamed,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Oliver Kamdem,969154,€100k,100000.0,https://www.transfermarkt.com/oliver-kamdem/profil/spieler/969154,oliver kamdem,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Salis Abdul Samed,688707,€3.00m,3000000.0,https://www.transfermarkt.com/salis-abdul-samed/profil/spieler/688707,salis abdul samed,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Yohann Magnin,594997,€2.00m,2000000.0,https://www.transfermarkt.com/yohann-magnin/profil/spieler/594997,yohann magnin,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Uri Busquets,282721,€1.20m,1200000.0,https://www.transfermarkt.com/uri-busquets/profil/spieler/282721,uri busquets,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Johan Gastien,72121,€800k,800000.0,https://www.transfermarkt.com/johan-gastien/profil/spieler/72121,johan gastien,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Lucas Da Cunha,495667,€4.00m,4000000.0,https://www.transfermarkt.com/lucas-da-cunha/profil/spieler/495667,lucas da cunha,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Jonathan Iglesias,159907,€450k,450000.0,https://www.transfermarkt.com/jonathan-iglesias/profil/spieler/159907,jonathan iglesias,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Naël Jaby,668503,€250k,250000.0,https://www.transfermarkt.com/nael-jaby/profil/spieler/668503,nael jaby,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Fred Gnalega,837093,€150k,150000.0,https://www.transfermarkt.com/fred-gnalega/profil/spieler/837093,fred gnalega,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Yuliwes Bellache,1020544,-,,https://www.transfermarkt.com/yuliwes-bellache/profil/spieler/1020544,yuliwes bellache,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Saîf-Eddine Khaoui,270411,€1.50m,1500000.0,https://www.transfermarkt.com/saif-eddine-khaoui/profil/spieler/270411,saif-eddine khaoui,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Jason Berthomier,306191,€1.20m,1200000.0,https://www.transfermarkt.com/jason-berthomier/profil/spieler/306191,jason berthomier,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Aïman Maurer,860056,€100k,100000.0,https://www.transfermarkt.com/aiman-maurer/profil/spieler/860056,aiman maurer,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Elbasan Rashani,149579,€2.50m,2500000.0,https://www.transfermarkt.com/elbasan-rashani/profil/spieler/149579,elbasan rashani,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Yadaly Diaby,806496,€200k,200000.0,https://www.transfermarkt.com/yadaly-diaby/profil/spieler/806496,yadaly diaby,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Jim Allevinah,646733,€2.00m,2000000.0,https://www.transfermarkt.com/jim-allevinah/profil/spieler/646733,jim allevinah,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Jodel Dossou,221151,€1.80m,1800000.0,https://www.transfermarkt.com/jodel-dossou/profil/spieler/221151,jodel dossou,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Aboubakar Sidibé,503518,€150k,150000.0,https://www.transfermarkt.com/aboubakar-sidibe/profil/spieler/503518,aboubakar sidibe,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Mohamed Bayo,594991,€12.00m,12000000.0,https://www.transfermarkt.com/mohamed-bayo/profil/spieler/594991,mohamed bayo,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Grejohn Kyei,321647,€1.20m,1200000.0,https://www.transfermarkt.com/grejohn-kyei/profil/spieler/321647,grejohn kyei,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Pierre-Yves Hamel,203504,€1.20m,1200000.0,https://www.transfermarkt.com/pierre-yves-hamel/profil/spieler/203504,pierre-yves hamel,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Jordan Tell,272644,€600k,600000.0,https://www.transfermarkt.com/jordan-tell/profil/spieler/272644,jordan tell,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Bryan Teixeira,657635,€300k,300000.0,https://www.transfermarkt.com/bryan-teixeira/profil/spieler/657635,bryan teixeira,clermont foot 63,2021,FR1
+Clermont Foot 63,3524,Mathis Clairicia,969153,€100k,100000.0,https://www.transfermarkt.com/mathis-clairicia/profil/spieler/969153,mathis clairicia,clermont foot 63,2021,FR1

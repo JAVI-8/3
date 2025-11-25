@@ -1,0 +1,2211 @@
+﻿player_name,player_id,team_name,position,other_positions,date_of_birth,age,height_m,nationality,market_value,joined,contract_expires,Value last updated,Citizenship,Last club,Since,Market value history,Transfer history,Player URL,height_cm
+Jonas Urbig,607720,Bayern Munich,Goalkeeper,,08/08/2003 (22),22,1.89,Germany,€12.00m,27/01/2025,30/06/2029,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jonas-urbig/profil/spieler/607720,189.0
+Manuel Neuer,17259,Bayern Munich,Goalkeeper,,27/03/1986 (39),39,1.93,Germany,€4.00m,01/07/2011,30/06/2026,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/manuel-neuer/profil/spieler/17259,193.0
+Sven Ulreich,40680,Bayern Munich,Goalkeeper,,03/08/1988 (37),37,1.92,Germany,€500k,01/07/2021,30/06/2026,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sven-ulreich/profil/spieler/40680,192.0
+Leon Klanac,1009439,FC Bayern II,Goalkeeper,,01/03/2007 (18),18,1.85,Germany,€150k,01/07/2025,30/06/2027,05/09/2025,"['Germany', 'Croatia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/leon-klanac/profil/spieler/1009439,185.0
+Dayot Upamecano,344695,Bayern Munich,Centre-Back,,27/10/1998 (27),27,1.86,France,€60.00m,05/07/2021,30/06/2026,14/10/2025,"['France', 'Guinea-Bissau']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dayot-upamecano/profil/spieler/344695,186.0
+Min-jae Kim,503482,Bayern Munich,Centre-Back,,15/11/1996 (29),29,1.9,"Korea, South",€32.00m,18/07/2023,30/06/2028,14/10/2025,"['Korea, South']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/min-jae-kim/profil/spieler/503482,190.0
+Jonathan Tah,196357,Bayern Munich,Centre-Back,,11/02/1996 (29),29,1.95,Germany,€30.00m,09/06/2025,30/06/2029,05/06/2025,"['Germany', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jonathan-tah/profil/spieler/196357,195.0
+Hiroki Ito,353892,Bayern Munich,Centre-Back,"                    0
+0           Left-Back
+1  Defensive Midfield",12/05/1999 (26),26,1.88,Japan,€18.00m,01/07/2024,30/06/2028,14/10/2025,['Japan'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/hiroki-ito/profil/spieler/353892,188.0
+Alphonso Davies,424204,Bayern Munich,Left-Back,"               0
+0    Left Winger
+1  Left Midfield",02/11/2000 (25),25,1.85,Canada,€50.00m,01/01/2019,30/06/2030,05/06/2025,"['Ghana', 'Canada', 'Liberia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alphonso-davies/profil/spieler/424204,185.0
+Raphaël Guerreiro,170986,Bayern Munich,Left-Back,"                    0
+0  Attacking Midfield
+1    Central Midfield",22/12/1993 (31),31,1.7,Portugal,€8.00m,01/07/2023,30/06/2026,05/06/2025,"['France', 'Portugal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/raphael-guerreiro/profil/spieler/170986,170.0
+Josip Stanisic,483046,Bayern Munich,Right-Back,"             0
+0  Centre-Back
+1    Left-Back",02/04/2000 (25),25,1.87,Croatia,€32.00m,01/08/2021,30/06/2029,05/06/2025,"['Germany', 'Croatia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/josip-stanisic/profil/spieler/483046,187.0
+Konrad Laimer,223967,Bayern Munich,Right-Back,"                    0
+0  Defensive Midfield
+1    Central Midfield",27/05/1997 (28),28,1.8,Austria,€25.00m,01/07/2023,30/06/2027,05/06/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/konrad-laimer/profil/spieler/223967,180.0
+Sacha Boey,475413,Bayern Munich,Right-Back,,13/09/2000 (25),25,1.78,France,€18.00m,28/01/2024,30/06/2028,05/06/2025,['France'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sacha-boey/profil/spieler/475413,178.0
+Aleksandar Pavlovic,792380,Bayern Munich,Defensive Midfield,"                  0
+0  Central Midfield",03/05/2004 (21),21,1.88,Germany,€55.00m,01/11/2023,30/06/2029,05/06/2025,"['Serbia', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/aleksandar-pavlovic/profil/spieler/792380,188.0
+Joshua Kimmich,161056,Bayern Munich,Defensive Midfield,"                  0
+0        Right-Back
+1  Central Midfield",08/02/1995 (30),30,1.77,Germany,€45.00m,02/07/2015,30/06/2029,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/joshua-kimmich/profil/spieler/161056,177.0
+Tom Bischof,822959,Bayern Munich,Central Midfield,"                    0
+0  Attacking Midfield
+1           Left-Back",28/06/2005 (20),20,1.76,Germany,€30.00m,09/06/2025,30/06/2029,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tom-bischof/profil/spieler/822959,176.0
+Leon Goretzka,153084,Bayern Munich,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",06/02/1995 (30),30,1.89,Germany,€22.00m,01/07/2018,30/06/2026,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/leon-goretzka/profil/spieler/153084,189.0
+Jamal Musiala,580195,Bayern Munich,Attacking Midfield,"                  0
+0  Central Midfield
+1       Left Winger",26/02/2003 (22),22,1.84,Germany,€140.00m,01/07/2020,30/06/2030,05/06/2025,"['England', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jamal-musiala/profil/spieler/580195,184.0
+Lennart Karl,1075147,Bayern Munich,Attacking Midfield,"              0
+0  Right Winger",22/02/2008 (17),17,1.68,Germany,€20.00m,01/06/2025,30/06/2028,14/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lennart-karl/profil/spieler/1075147,168.0
+Luis Díaz,480692,Bayern Munich,Left Winger,"                0
+0   Left Midfield
+1  Centre-Forward",13/01/1997 (28),28,1.8,Colombia,€70.00m,30/07/2025,30/06/2029,30/05/2025,['Colombia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luis-diaz/profil/spieler/480692,180.0
+Wisdom Mike,1084539,FC Bayern U19,Left Winger,"              0
+0  Right Winger",24/09/2008 (17),17,1.76,Germany,€3.00m,01/01/2025,30/06/2027,14/10/2025,"['Germany', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/wisdom-mike/profil/spieler/1084539,176.0
+Michael Olise,566723,Bayern Munich,Right Winger,"                    0
+0  Attacking Midfield",12/12/2001 (23),23,1.84,France,€130.00m,07/07/2024,30/06/2029,14/10/2025,"['England', 'France']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/michael-olise/profil/spieler/566723,184.0
+Serge Gnabry,159471,Bayern Munich,Second Striker,"              0
+0  Right Winger
+1   Left Winger",14/07/1995 (30),30,1.76,Germany,€22.00m,01/07/2017,30/06/2026,05/06/2025,"['Germany', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/serge-gnabry/profil/spieler/159471,176.0
+Harry Kane,132098,Bayern Munich,Centre-Forward,"                0
+0  Second Striker",28/07/1993 (32),32,1.88,England,€75.00m,12/08/2023,30/06/2027,05/06/2025,"['England', 'Ireland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/harry-kane/profil/spieler/132098,188.0
+Nicolas Jackson,776890,Bayern Munich,Centre-Forward,"              0
+0  Right Winger
+1   Left Winger",20/06/2001 (24),24,1.87,Senegal,€50.00m,01/09/2025,30/06/2026,30/05/2025,"['The Gambia', 'Senegal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nicolas-jackson/profil/spieler/776890,187.0
+Gregor Kobel,257814,Dortmund,Goalkeeper,,06/12/1997 (27),27,1.96,Switzerland,€40.00m,01/07/2021,30/06/2028,05/06/2025,['Switzerland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gregor-kobel/profil/spieler/257814,196.0
+Alexander Meyer,76158,Dortmund,Goalkeeper,,13/04/1991 (34),34,1.95,Germany,€800k,01/07/2022,30/06/2026,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alexander-meyer/profil/spieler/76158,195.0
+Patrick Drewes,94192,Dortmund,Goalkeeper,,04/02/1993 (32),32,1.94,Germany,€500k,01/07/2025,30/06/2027,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/patrick-drewes/profil/spieler/94192,194.0
+Silas Ostrzinski,684116,Dortmund,Goalkeeper,,19/11/2003 (22),22,1.98,Germany,€200k,04/01/2025,30/06/2027,11/06/2025,"['Poland', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/silas-ostrzinski/profil/spieler/684116,198.0
+Nico Schlotterbeck,388198,Dortmund,Centre-Back,"           0
+0  Left-Back",01/12/1999 (25),25,1.91,Germany,€40.00m,01/07/2022,30/06/2027,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nico-schlotterbeck/profil/spieler/388198,191.0
+Waldemar Anton,193004,Dortmund,Centre-Back,"                    0
+0  Defensive Midfield
+1          Right-Back",20/07/1996 (29),29,1.89,Germany,€18.00m,08/07/2024,30/06/2028,05/06/2025,"['Germany', 'Uzbekistan']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/waldemar-anton/profil/spieler/193004,189.0
+Niklas Süle,166601,Dortmund,Centre-Back,"            0
+0  Right-Back",03/09/1995 (30),30,1.95,Germany,€8.00m,01/07/2022,30/06/2026,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/niklas-sule/profil/spieler/166601,195.0
+Aarón Anselmino,1145504,Dortmund,Centre-Back,,29/04/2005 (20),20,1.86,Argentina,€8.00m,27/08/2025,30/06/2026,30/05/2025,['Argentina'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/aaron-anselmino/profil/spieler/1145504,186.0
+Ramy Bensebaini,284732,Dortmund,Centre-Back,"           0
+0  Left-Back",16/04/1995 (30),30,1.87,Algeria,€7.00m,01/07/2023,30/06/2027,05/06/2025,['Algeria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ramy-bensebaini/profil/spieler/284732,187.0
+Emre Can,119296,Dortmund,Centre-Back,"                    0
+0  Defensive Midfield
+1    Central Midfield",12/01/1994 (31),31,1.86,Germany,€7.00m,01/07/2020,30/06/2026,05/06/2025,"['Türkiye', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/emre-can/profil/spieler/119296,186.0
+Filippo Mane,883007,Dortmund,Centre-Back,"            0
+0  Right-Back",08/03/2005 (20),20,1.88,Italy,€2.50m,06/01/2025,30/06/2028,14/10/2025,"['Senegal', 'Italy']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/filippo-mane/profil/spieler/883007,188.0
+Almugera Kabar,884820,Dortmund,Left-Back,"               0
+0  Left Midfield",06/06/2006 (19),19,1.86,Germany,€3.00m,07/08/2024,30/06/2028,14/10/2025,"['Libya', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/almugera-kabar/profil/spieler/884820,186.0
+Julian Ryerson,370789,Dortmund,Right-Back,"                0
+0  Right Midfield
+1       Left-Back",17/11/1997 (28),28,1.83,Norway,€20.00m,17/01/2023,30/06/2028,05/06/2025,"['Norway', 'United States']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/julian-ryerson/profil/spieler/370789,183.0
+Salih Özcan,244940,Dortmund,Defensive Midfield,"                  0
+0  Central Midfield",11/01/1998 (27),27,1.83,Türkiye,€4.00m,01/07/2022,30/06/2026,05/06/2025,"['Türkiye', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/salih-ozcan/profil/spieler/244940,183.0
+Felix Nmecha,406640,Dortmund,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",10/10/2000 (25),25,1.9,Germany,€35.00m,03/07/2023,30/06/2028,14/10/2025,"['England', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/felix-nmecha/profil/spieler/406640,190.0
+Jobe Bellingham,796297,Dortmund,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",23/09/2005 (20),20,1.91,England,€30.00m,10/06/2025,30/06/2030,14/10/2025,"['England', 'Ireland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jobe-bellingham/profil/spieler/796297,191.0
+Carney Chukwuemeka,659459,Dortmund,Central Midfield,"                    0
+0  Attacking Midfield",20/10/2003 (22),22,1.88,England,€20.00m,26/08/2025,30/06/2030,14/10/2025,"['England', 'Austria', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/carney-chukwuemeka/profil/spieler/659459,188.0
+Marcel Sabitzer,106987,Dortmund,Central Midfield,"                    0
+0  Attacking Midfield",17/03/1994 (31),31,1.78,Austria,€8.00m,24/07/2023,30/06/2027,05/06/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marcel-sabitzer/profil/spieler/106987,178.0
+Pascal Groß,82873,Dortmund,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",15/06/1991 (34),34,1.81,Germany,€5.00m,01/08/2024,30/06/2026,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pascal-gross/profil/spieler/82873,181.0
+Yan Couto,627228,Dortmund,Right Midfield,"            0
+0  Right-Back",03/06/2002 (23),23,1.68,Brazil,€20.00m,01/07/2025,30/06/2030,05/06/2025,"['Portugal', 'Brazil']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yan-couto/profil/spieler/627228,168.0
+Daniel Svensson,579287,Dortmund,Left Midfield,"                  0
+0         Left-Back
+1  Central Midfield",12/02/2002 (23),23,1.83,Sweden,€22.00m,01/07/2025,30/06/2029,14/10/2025,['Sweden'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/daniel-svensson/profil/spieler/579287,183.0
+Julian Brandt,187492,Dortmund,Attacking Midfield,"              0
+0  Right Winger
+1   Left Winger",02/05/1996 (29),29,1.85,Germany,€25.00m,01/07/2019,30/06/2026,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/julian-brandt/profil/spieler/187492,185.0
+Julien Duranville,819215,Dortmund,Left Winger,"              0
+0  Right Winger",05/05/2006 (19),19,1.73,Belgium,€8.50m,27/01/2023,-,05/06/2025,['Belgium'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/julien-duranville/profil/spieler/819215,173.0
+Karim Adeyemi,496094,Dortmund,Right Winger,"                0
+0  Centre-Forward
+1     Left Winger",18/01/2002 (23),23,1.8,Germany,€60.00m,01/07/2022,30/06/2027,14/10/2025,"['Germany', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/karim-adeyemi/profil/spieler/496094,180.0
+Cole Campbell,866579,Dortmund,Right Winger,"                    0
+0         Left Winger
+1  Attacking Midfield",20/02/2006 (19),19,1.7,United States,€5.00m,09/07/2024,30/06/2028,14/10/2025,"['Iceland', 'United States']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/cole-campbell/profil/spieler/866579,170.0
+Serhou Guirassy,270541,Dortmund,Centre-Forward,,12/03/1996 (29),29,1.87,Guinea,€45.00m,18/07/2024,30/06/2028,05/06/2025,"['France', 'Guinea']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/serhou-guirassy/profil/spieler/270541,187.0
+Maximilian Beier,578392,Dortmund,Centre-Forward,"              0
+0  Right Winger
+1   Left Winger",17/10/2002 (23),23,1.85,Germany,€30.00m,12/08/2024,30/06/2029,14/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/maximilian-beier/profil/spieler/578392,185.0
+Fábio Silva,505653,Dortmund,Centre-Forward,"                0
+0  Second Striker
+1     Left Winger",19/07/2002 (23),23,1.85,Portugal,€28.00m,29/08/2025,30/06/2030,14/10/2025,['Portugal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/fabio-silva/profil/spieler/505653,185.0
+Mark Flekken,125714,Leverkusen,Goalkeeper,,13/06/1993 (32),32,1.95,Netherlands,€10.00m,01/07/2025,30/06/2028,30/05/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mark-flekken/profil/spieler/125714,195.0
+Janis Blaswich,81173,Leverkusen,Goalkeeper,,02/05/1991 (34),34,1.93,Germany,€700k,11/08/2025,30/06/2027,06/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/janis-blaswich/profil/spieler/81173,193.0
+Niklas Lomb,85543,Leverkusen,Goalkeeper,,28/07/1993 (32),32,1.86,Germany,€250k,01/07/2012,30/06/2027,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/niklas-lomb/profil/spieler/85543,186.0
+Jarell Quansah,632349,Leverkusen,Centre-Back,"            0
+0  Right-Back",29/01/2003 (22),22,1.9,England,€35.00m,02/07/2025,30/06/2030,14/10/2025,"['England', 'Scotland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jarell-quansah/profil/spieler/632349,190.0
+Edmond Tapsoba,564545,Leverkusen,Centre-Back,,02/02/1999 (26),26,1.94,Burkina Faso,€35.00m,31/01/2020,30/06/2028,05/06/2025,['Burkina Faso'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/edmond-tapsoba/profil/spieler/564545,194.0
+Loïc Badé,730581,Leverkusen,Centre-Back,,11/04/2000 (25),25,1.91,France,€25.00m,21/08/2025,30/06/2030,09/06/2025,"['France', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/loic-bade/profil/spieler/730581,191.0
+Jeanuël Belocian,919515,Leverkusen,Centre-Back,"           0
+0  Left-Back",17/02/2005 (20),20,1.86,France,€12.00m,01/07/2024,30/06/2029,14/10/2025,"['France', 'Guadeloupe']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jeanuel-belocian/profil/spieler/919515,186.0
+Axel Tape,1077670,Leverkusen,Centre-Back,"                  0
+0  Central Midfield",10/08/2007 (18),18,1.8,France,€8.00m,01/07/2025,30/06/2030,14/10/2025,"['France', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/axel-tape/profil/spieler/1077670,180.0
+Alejandro Grimaldo,193082,Leverkusen,Left-Back,"               0
+0  Left Midfield",20/09/1995 (30),30,1.71,Spain,€30.00m,01/07/2023,30/06/2027,05/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alejandro-grimaldo/profil/spieler/193082,171.0
+Arthur,977464,Leverkusen,Right-Back,"                0
+0   Left Midfield
+1  Right Midfield",17/03/2003 (22),22,1.74,Brazil,€7.00m,01/07/2023,30/06/2028,05/06/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/arthur/profil/spieler/977464,174.0
+Lucas Vázquez,221316,Leverkusen,Right-Back,"                0
+0    Right Winger
+1  Right Midfield",01/07/1991 (34),34,1.73,Spain,€3.00m,26/08/2025,30/06/2027,09/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lucas-vazquez/profil/spieler/221316,173.0
+Equi Fernández,664708,Leverkusen,Defensive Midfield,"                  0
+0  Central Midfield",25/07/2002 (23),23,1.78,Argentina,€25.00m,01/09/2025,30/06/2030,14/10/2025,"['Paraguay', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/equi-fernandez/profil/spieler/664708,178.0
+Robert Andrich,159088,Leverkusen,Defensive Midfield,"                  0
+0  Central Midfield
+1       Centre-Back",22/09/1994 (31),31,1.87,Germany,€9.00m,16/08/2021,30/06/2028,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/robert-andrich/profil/spieler/159088,187.0
+Exequiel Palacios,401578,Leverkusen,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",05/10/1998 (27),27,1.78,Argentina,€30.00m,01/01/2020,30/06/2030,14/10/2025,['Argentina'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/exequiel-palacios/profil/spieler/401578,178.0
+Aleix García,261504,Leverkusen,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",28/06/1997 (28),28,1.73,Spain,€20.00m,01/07/2024,30/06/2029,05/06/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/aleix-garcia/profil/spieler/261504,173.0
+Malik Tillman,467437,Leverkusen,Attacking Midfield,"                  0
+0       Left Winger
+1  Central Midfield",28/05/2002 (23),23,1.87,United States,€35.00m,12/07/2025,30/06/2030,14/10/2025,"['Germany', 'United States']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/malik-tillman/profil/spieler/467437,187.0
+Claudio Echeverri,994536,Leverkusen,Attacking Midfield,"             0
+0  Left Winger",02/01/2006 (19),19,1.71,Argentina,€18.00m,21/08/2025,30/06/2026,30/05/2025,['Argentina'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/claudio-echeverri/profil/spieler/994536,171.0
+Ibrahim Maza,905011,Leverkusen,Attacking Midfield,"                  0
+0  Central Midfield
+1    Centre-Forward",24/11/2005 (20),20,1.8,Algeria,€12.00m,01/07/2025,30/06/2030,19/06/2025,"['Algeria', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ibrahim-maza/profil/spieler/905011,180.0
+Jonas Hofmann,7161,Leverkusen,Attacking Midfield,"              0
+0  Right Winger",14/07/1992 (33),33,1.76,Germany,€2.00m,05/07/2023,30/06/2027,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jonas-hofmann/profil/spieler/7161,176.0
+Eliesse Ben Seghir,810895,Leverkusen,Left Winger,"                    0
+0  Attacking Midfield
+1       Left Midfield",16/02/2005 (20),20,1.78,Morocco,€28.00m,31/08/2025,30/06/2030,03/06/2025,"['France', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/eliesse-ben-seghir/profil/spieler/810895,178.0
+Martin Terrier,442891,Leverkusen,Left Winger,"                    0
+0      Centre-Forward
+1  Attacking Midfield",04/03/1997 (28),28,1.84,France,€17.00m,18/07/2024,30/06/2029,05/06/2025,['France'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/martin-terrier/profil/spieler/442891,184.0
+Nathan Tella,340322,Leverkusen,Right Winger,"                0
+0     Left Winger
+1  Right Midfield",05/07/1999 (26),26,1.73,Nigeria,€15.00m,27/08/2023,30/06/2028,05/06/2025,"['England', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nathan-tella/profil/spieler/340322,173.0
+Ernest Poku,718303,Leverkusen,Right Winger,"                0
+0  Centre-Forward
+1     Left Winger",28/01/2004 (21),21,1.76,Netherlands,€10.00m,12/08/2025,30/06/2030,14/10/2025,"['Ghana', 'Germany', 'Netherlands']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ernest-poku/profil/spieler/718303,176.0
+Patrik Schick,242086,Leverkusen,Centre-Forward,"                0
+0    Right Winger
+1  Second Striker",24/01/1996 (29),29,1.91,Czech Republic,€27.00m,08/09/2020,30/06/2030,05/06/2025,['Czech Republic'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/patrik-schick/profil/spieler/242086,191.0
+Christian Kofane,1364454,Leverkusen,Centre-Forward,,26/07/2006 (19),19,1.89,Cameroon,€12.00m,11/07/2025,30/06/2029,14/10/2025,['Cameroon'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/christian-kofane/profil/spieler/1364454,189.0
+Alejo Sarco,1000675,Leverkusen,Centre-Forward,,06/01/2006 (19),19,1.79,Argentina,€800k,02/01/2025,30/06/2029,05/06/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alejo-sarco/profil/spieler/1000675,179.0
+Kauã Santos,997861,Frankfurt,Goalkeeper,,11/04/2003 (22),22,1.97,Brazil,€10.00m,29/08/2023,30/06/2030,14/10/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kaua-santos/profil/spieler/997861,197.0
+Michael Zetterer,196813,Frankfurt,Goalkeeper,,12/07/1995 (30),30,1.87,Germany,€4.50m,20/08/2025,30/06/2029,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/michael-zetterer/profil/spieler/196813,187.0
+Jens Grahl,40034,Frankfurt,Goalkeeper,,22/09/1988 (37),37,1.92,Germany,€200k,19/07/2021,30/06/2026,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jens-grahl/profil/spieler/40034,192.0
+Amil Siljevic,1079622,E. Frankfurt II,Goalkeeper,,19/01/2007 (18),18,1.9,Bosnia-Herzegovina,,01/07/2025,30/06/2026,,"['Bosnia-Herzegovina', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/amil-siljevic/profil/spieler/1079622,190.0
+Arthur Theate,368891,Frankfurt,Centre-Back,"           0
+0  Left-Back",25/05/2000 (25),25,1.85,Belgium,€24.00m,02/02/2025,30/06/2029,05/06/2025,['Belgium'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/arthur-theate/profil/spieler/368891,185.0
+Robin Koch,328784,Frankfurt,Centre-Back,"                    0
+0  Defensive Midfield",17/07/1996 (29),29,1.92,Germany,€18.00m,01/07/2024,30/06/2030,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/robin-koch/profil/spieler/328784,192.0
+Nnamdi Collins,684315,Frankfurt,Centre-Back,"            0
+0  Right-Back",10/01/2004 (21),21,1.91,Germany,€18.00m,09/08/2023,30/06/2030,14/10/2025,"['Germany', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nnamdi-collins/profil/spieler/684315,191.0
+Aurèle Amenda,635645,Frankfurt,Centre-Back,,31/07/2003 (22),22,1.97,Switzerland,€7.50m,24/01/2024,30/06/2029,05/06/2025,"['Cameroon', 'Switzerland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/aurele-amenda/profil/spieler/635645,197.0
+Nathaniel Brown,691892,Frankfurt,Left-Back,"               0
+0  Left Midfield",16/06/2003 (22),22,1.8,Germany,€30.00m,03/01/2024,30/06/2030,14/10/2025,"['Germany', 'United States']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nathaniel-brown/profil/spieler/691892,180.0
+Rasmus Kristensen,369684,Frankfurt,Right-Back,"                0
+0  Right Midfield
+1     Centre-Back",11/07/1997 (28),28,1.87,Denmark,€14.00m,01/07/2025,30/06/2029,05/06/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rasmus-kristensen/profil/spieler/369684,187.0
+Elias Baum,744857,Frankfurt,Right-Back,"                0
+0       Left-Back
+1  Right Midfield",26/10/2005 (20),20,1.8,Germany,€8.00m,26/10/2023,30/06/2028,19/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/elias-baum/profil/spieler/744857,180.0
+Aurélio Buta,258039,Frankfurt,Right-Back,"                0
+0  Right Midfield",10/02/1997 (28),28,1.72,Portugal,€5.00m,01/07/2022,30/06/2026,03/06/2025,"['Angola', 'Portugal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/aurelio-buta/profil/spieler/258039,172.0
+Timothy Chandler,49723,Frankfurt,Right-Back,"                0
+0  Right Midfield
+1   Left Midfield",29/03/1990 (35),35,1.87,United States,€350k,01/07/2014,30/06/2026,05/06/2025,"['Germany', 'United States']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/timothy-chandler/profil/spieler/49723,187.0
+Ellyes Skhiri,290587,Frankfurt,Defensive Midfield,"                  0
+0  Central Midfield",10/05/1995 (30),30,1.85,Tunisia,€7.50m,05/07/2023,30/06/2027,05/06/2025,"['France', 'Tunisia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ellyes-skhiri/profil/spieler/290587,185.0
+Noah Fenyö,951957,Frankfurt,Defensive Midfield,"             0
+0  Centre-Back",30/01/2006 (19),19,1.82,Hungary,€350k,01/07/2025,30/06/2029,11/06/2025,"['Hungary', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/noah-fenyo/profil/spieler/951957,182.0
+Hugo Larsson,931838,Frankfurt,Central Midfield,"                    0
+0  Defensive Midfield",27/06/2004 (21),21,1.87,Sweden,€40.00m,01/07/2023,30/06/2029,05/06/2025,['Sweden'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/hugo-larsson/profil/spieler/931838,187.0
+Oscar Højlund,846310,Frankfurt,Central Midfield,"                    0
+0  Defensive Midfield",04/01/2005 (20),20,1.87,Denmark,€7.50m,10/07/2024,30/06/2029,05/06/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/oscar-hojlund/profil/spieler/846310,187.0
+Mahmoud Dahoud,191422,Frankfurt,Central Midfield,"                    0
+0  Defensive Midfield",01/01/1996 (29),29,1.78,Syria,€2.00m,30/08/2024,30/06/2026,14/10/2025,"['Syria', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mahmoud-dahoud/profil/spieler/191422,178.0
+Can Uzun,816585,Frankfurt,Attacking Midfield,"                0
+0  Centre-Forward
+1     Left Winger",11/11/2005 (20),20,1.86,Türkiye,€45.00m,02/07/2024,30/06/2029,14/10/2025,"['Türkiye', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/can-uzun/profil/spieler/816585,186.0
+Farès Chaïbi,855015,Frankfurt,Attacking Midfield,"                  0
+0  Central Midfield
+1       Left Winger",28/11/2002 (22),22,1.83,Algeria,€15.00m,30/08/2023,30/06/2028,14/10/2025,"['France', 'Algeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/fares-chaibi/profil/spieler/855015,183.0
+Mario Götze,74842,Frankfurt,Attacking Midfield,"              0
+0  Right Winger
+1   Left Winger",03/06/1992 (33),33,1.76,Germany,€4.00m,01/07/2022,30/06/2026,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mario-gotze/profil/spieler/74842,176.0
+Jean-Mattéo Bahoya,939964,Frankfurt,Left Winger,"                    0
+0  Attacking Midfield
+1      Centre-Forward",07/05/2005 (20),20,1.8,France,€25.00m,25/01/2024,30/06/2029,14/10/2025,"['France', 'Cameroon']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jean-matteo-bahoya/profil/spieler/939964,180.0
+Ritsu Doan,358504,Frankfurt,Right Winger,"                    0
+0      Right Midfield
+1  Attacking Midfield",16/06/1998 (27),27,1.72,Japan,€25.00m,07/08/2025,30/06/2030,05/06/2025,['Japan'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ritsu-doan/profil/spieler/358504,172.0
+Ansgar Knauff,429874,Frankfurt,Right Winger,"                0
+0     Left Winger
+1  Right Midfield",10/01/2002 (23),23,1.8,Germany,€15.00m,01/07/2023,30/06/2028,05/06/2025,"['Ghana', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ansgar-knauff/profil/spieler/429874,180.0
+Jonathan Burkardt,333647,Frankfurt,Centre-Forward,"                0
+0  Second Striker",11/07/2000 (25),25,1.83,Germany,€35.00m,04/07/2025,30/06/2030,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jonathan-burkardt/profil/spieler/333647,183.0
+Elye Wahi,659542,Frankfurt,Centre-Forward,,02/01/2003 (22),22,1.84,France,€18.00m,24/01/2025,30/06/2030,14/10/2025,"['France', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/elye-wahi/profil/spieler/659542,184.0
+Michy Batshuayi,179184,Frankfurt,Centre-Forward,,02/10/1993 (32),32,1.85,Belgium,€4.00m,03/02/2025,30/06/2027,05/06/2025,"['DR Congo', 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/michy-batshuayi/profil/spieler/179184,185.0
+Jessic Ngankam,448177,Frankfurt,Centre-Forward,"              0
+0  Right Winger",20/07/2000 (25),25,1.84,Germany,€1.00m,14/07/2023,30/06/2028,19/06/2025,"['Cameroon', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jessic-ngankam/profil/spieler/448177,184.0
+Maarten Vandevoordt,486046,Leipzig,Goalkeeper,,26/02/2002 (23),23,1.92,Belgium,€8.00m,01/07/2024,30/06/2029,05/06/2025,['Belgium'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/maarten-vandevoordt/profil/spieler/486046,192.0
+Péter Gulácsi,57071,Leipzig,Goalkeeper,,06/05/1990 (35),35,1.93,Hungary,€2.00m,01/07/2015,30/06/2026,05/06/2025,['Hungary'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/peter-gulacsi/profil/spieler/57071,193.0
+Leopold Zingerle,160971,Leipzig,Goalkeeper,,10/04/1994 (31),31,1.82,Germany,€400k,01/07/2023,30/06/2026,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/leopold-zingerle/profil/spieler/160971,182.0
+Castello Lukeba,618472,Leipzig,Centre-Back,,17/12/2002 (22),22,1.84,France,€40.00m,11/08/2023,30/06/2029,05/06/2025,"['France', 'Angola']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/castello-lukeba/profil/spieler/618472,184.0
+El Chadaille Bitshiabu,787912,Leipzig,Centre-Back,,16/05/2005 (20),20,1.96,France,€15.00m,18/07/2023,30/06/2029,14/10/2025,"['France', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/el-chadaille-bitshiabu/profil/spieler/787912,196.0
+Willi Orbán,93740,Leipzig,Centre-Back,"                    0
+0  Defensive Midfield",03/11/1992 (33),33,1.86,Hungary,€8.00m,01/07/2015,30/06/2027,05/06/2025,"['Hungary', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/willi-orban/profil/spieler/93740,186.0
+Lukas Klostermann,215599,Leipzig,Centre-Back,"            0
+0  Right-Back",03/06/1996 (29),29,1.89,Germany,€5.00m,22/08/2014,30/06/2028,14/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lukas-klostermann/profil/spieler/215599,189.0
+David Raum,318204,Leipzig,Left-Back,"               0
+0  Left Midfield",22/04/1998 (27),27,1.81,Germany,€20.00m,31/07/2022,30/06/2027,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/david-raum/profil/spieler/318204,181.0
+Max Finkgräfe,810649,Leipzig,Left-Back,"                  0
+0  Central Midfield
+1     Left Midfield",27/03/2004 (21),21,1.83,Germany,€4.00m,03/07/2025,30/06/2030,19/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/max-finkgrafe/profil/spieler/810649,183.0
+Ridle Baku,327251,Leipzig,Right-Back,"                0
+0  Right Midfield
+1    Right Winger",08/04/1998 (27),27,1.76,Germany,€12.00m,10/01/2025,30/06/2027,14/10/2025,"['Germany', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ridle-baku/profil/spieler/327251,176.0
+Benjamin Henrichs,202591,Leipzig,Right-Back,"                0
+0  Right Midfield
+1       Left-Back",23/02/1997 (28),28,1.85,Germany,€12.00m,01/07/2021,30/06/2028,14/10/2025,"['Ghana', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/benjamin-henrichs/profil/spieler/202591,185.0
+Kosta Nedeljkovic,848682,Leipzig,Right-Back,"                0
+0  Right Midfield",16/12/2005 (19),19,1.84,Serbia,€10.00m,03/02/2025,30/06/2026,05/06/2025,"['Serbia', 'Serbia and Montenegro']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kosta-nedeljkovic/profil/spieler/848682,184.0
+Ezechiel Banzuzi,865682,Leipzig,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",16/02/2005 (20),20,1.91,Netherlands,€18.00m,01/07/2025,30/06/2030,14/10/2025,"['Netherlands', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ezechiel-banzuzi/profil/spieler/865682,191.0
+Nicolas Seiwald,404950,Leipzig,Central Midfield,"                    0
+0  Defensive Midfield
+1         Centre-Back",04/05/2001 (24),24,1.8,Austria,€18.00m,01/07/2023,30/06/2028,05/06/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nicolas-seiwald/profil/spieler/404950,180.0
+Amadou Haidara,402008,Leipzig,Central Midfield,"                    0
+0  Defensive Midfield
+1      Right Midfield",31/01/1998 (27),27,1.78,Mali,€12.00m,01/01/2019,30/06/2026,14/10/2025,['Mali'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/amadou-haidara/profil/spieler/402008,178.0
+Assan Ouédraogo,897424,Leipzig,Central Midfield,"                    0
+0  Attacking Midfield
+1         Left Winger",09/05/2006 (19),19,1.91,Germany,€10.00m,01/07/2024,30/06/2029,14/10/2025,"['Germany', 'Burkina Faso']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/assan-ouedraogo/profil/spieler/897424,191.0
+Xaver Schlager,223979,Leipzig,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",28/09/1997 (28),28,1.74,Austria,€10.00m,01/07/2022,30/06/2026,05/06/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/xaver-schlager/profil/spieler/223979,174.0
+Kevin Kampl,53418,Leipzig,Central Midfield,"                0
+0  Right Midfield
+1   Left Midfield",09/10/1990 (35),35,1.78,Slovenia,€2.50m,31/08/2017,30/06/2026,05/06/2025,"['Slovenia', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kevin-kampl/profil/spieler/53418,178.0
+Joyeux Masanka Bungi,990146,RB Leipzig U19,Left Midfield,"                    0
+0  Attacking Midfield
+1    Central Midfield",24/01/2007 (18),18,1.86,Belgium,,01/07/2024,30/06/2027,,['Belgium'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/joyeux-masanka-bungi/profil/spieler/990146,186.0
+Andrija Maksimovic,952779,Leipzig,Attacking Midfield,"                  0
+0      Right Winger
+1  Central Midfield",05/06/2007 (18),18,1.82,Serbia,€15.00m,16/07/2025,30/06/2030,12/06/2025,['Serbia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/andrija-maksimovic/profil/spieler/952779,182.0
+Christoph Baumgartner,324278,Leipzig,Attacking Midfield,"                0
+0  Second Striker
+1     Left Winger",01/08/1999 (26),26,1.8,Austria,€12.00m,01/07/2023,30/06/2028,05/06/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/christoph-baumgartner/profil/spieler/324278,180.0
+Viggo Gebel,1074526,RB Leipzig U19,Attacking Midfield,"              0
+0   Left Winger
+1  Right Winger",22/11/2007 (18),18,1.75,Germany,€350k,01/07/2024,30/06/2028,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/viggo-gebel/profil/spieler/1074526,175.0
+Antonio Nusa,894914,Leipzig,Left Winger,"               0
+0   Right Winger
+1  Left Midfield",17/04/2005 (20),20,1.83,Norway,€28.00m,13/08/2024,30/06/2029,05/06/2025,"['Norway', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/antonio-nusa/profil/spieler/894914,183.0
+Yan Diomande,1390649,Leipzig,Left Winger,,14/11/2006 (19),19,1.8,Cote d'Ivoire,€20.00m,16/07/2025,30/06/2030,14/10/2025,"[""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yan-diomande/profil/spieler/1390649,180.0
+Timo Werner,170527,Leipzig,Left Winger,"                0
+0  Centre-Forward
+1    Right Winger",06/03/1996 (29),29,1.8,Germany,€5.00m,09/08/2022,30/06/2026,14/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/timo-werner/profil/spieler/170527,180.0
+Tidiam Gomis,955448,Leipzig,Left Winger,"                0
+0    Right Winger
+1  Centre-Forward",08/08/2006 (19),19,1.83,France,€3.00m,03/02/2025,30/06/2029,05/06/2025,"['France', 'Senegal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tidiam-gomis/profil/spieler/955448,183.0
+Johan Bakayoko,565424,Leipzig,Right Winger,,20/04/2003 (22),22,1.79,Belgium,€30.00m,16/07/2025,30/06/2030,28/05/2025,"[""Cote d'Ivoire"", 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/johan-bakayoko/profil/spieler/565424,179.0
+Conrad Harder,807386,Leipzig,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",07/04/2005 (20),20,1.85,Denmark,€24.00m,01/09/2025,30/06/2030,30/05/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/conrad-harder/profil/spieler/807386,185.0
+Rômulo,957874,Leipzig,Centre-Forward,,08/02/2002 (23),23,1.93,Brazil,€22.00m,15/08/2025,30/06/2030,14/10/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/romulo/profil/spieler/957874,193.0
+Alexander Nübel,195778,Stuttgart,Goalkeeper,,30/09/1996 (29),29,1.93,Germany,€12.00m,25/07/2023,30/06/2026,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alexander-nubel/profil/spieler/195778,193.0
+Florian Hellstern,1009438,Stuttgart,Goalkeeper,,18/10/2007 (18),18,1.88,Germany,€1.20m,01/07/2025,30/06/2027,10/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/florian-hellstern/profil/spieler/1009438,188.0
+Fabian Bredlow,187624,Stuttgart,Goalkeeper,,02/03/1995 (30),30,1.9,Germany,€800k,01/07/2019,30/06/2027,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/fabian-bredlow/profil/spieler/187624,190.0
+Stefan Drljaca,388067,Stuttgart,Goalkeeper,,20/04/1999 (26),26,1.92,Germany,€325k,01/07/2024,30/06/2027,20/12/2024,"['Serbia', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/stefan-drljaca/profil/spieler/388067,192.0
+Finn Jeltsch,924117,Stuttgart,Centre-Back,"                    0
+0  Defensive Midfield",17/07/2006 (19),19,1.88,Germany,€20.00m,03/02/2025,30/06/2030,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/finn-jeltsch/profil/spieler/924117,188.0
+Jeff Chabot,303219,Stuttgart,Centre-Back,,12/02/1998 (27),27,1.95,Germany,€15.00m,01/07/2024,30/06/2028,14/10/2025,"['France', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jeff-chabot/profil/spieler/303219,195.0
+Luca Jaquez,539798,Stuttgart,Centre-Back,"                    0
+0  Attacking Midfield
+1    Central Midfield",02/06/2003 (22),22,1.87,Switzerland,€10.00m,03/02/2025,30/06/2029,14/10/2025,"['Dominican Republic', 'Switzerland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luca-jaquez/profil/spieler/539798,187.0
+Ameen Al-Dakhil,620598,Stuttgart,Centre-Back,,06/03/2002 (23),23,1.87,Belgium,€5.00m,27/08/2024,30/06/2028,14/10/2025,"['Iraq', 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ameen-al-dakhil/profil/spieler/620598,187.0
+Ramon Hendriks,436064,Stuttgart,Centre-Back,"           0
+0  Left-Back",18/07/2001 (24),24,1.89,Netherlands,€5.00m,01/07/2024,30/06/2028,05/06/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ramon-hendriks/profil/spieler/436064,189.0
+Dan-Axel Zagadou,344598,Stuttgart,Centre-Back,"           0
+0  Left-Back",03/06/1999 (26),26,1.96,France,€2.00m,19/09/2022,30/06/2026,05/06/2025,"['France', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dan-axel-zagadou/profil/spieler/344598,196.0
+Maximilian Mittelstädt,282660,Stuttgart,Left-Back,"               0
+0  Left Midfield",18/03/1997 (28),28,1.8,Germany,€20.00m,01/07/2023,30/06/2028,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/maximilian-mittelstadt/profil/spieler/282660,180.0
+Lorenz Assignon,711969,Stuttgart,Right-Back,"                0
+0  Right Midfield",22/06/2000 (25),25,1.81,France,€12.00m,01/07/2025,30/06/2029,14/10/2025,"['France', 'Togo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lorenz-assignon/profil/spieler/711969,181.0
+Josha Vagnoman,448258,Stuttgart,Right-Back,"                0
+0  Right Midfield
+1       Left-Back",11/12/2000 (24),24,1.9,Germany,€10.00m,09/07/2022,30/06/2028,05/06/2025,"['Germany', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/josha-vagnoman/profil/spieler/448258,190.0
+Leonidas Stergiou,507345,Stuttgart,Right-Back,"             0
+0  Centre-Back",03/03/2002 (23),23,1.81,Switzerland,€5.00m,01/07/2024,30/06/2028,05/06/2025,"['Greece', 'Switzerland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/leonidas-stergiou/profil/spieler/507345,181.0
+Pascal Stenzel,195246,Stuttgart,Right-Back,"                0
+0     Centre-Back
+1  Right Midfield",20/03/1996 (29),29,1.83,Germany,€2.00m,01/07/2020,30/06/2026,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pascal-stenzel/profil/spieler/195246,183.0
+Angelo Stiller,443710,Stuttgart,Defensive Midfield,"                  0
+0  Central Midfield",04/04/2001 (24),24,1.83,Germany,€45.00m,25/08/2023,30/06/2028,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/angelo-stiller/profil/spieler/443710,183.0
+Atakan Karazor,232320,Stuttgart,Defensive Midfield,"             0
+0  Centre-Back",13/10/1996 (29),29,1.91,Türkiye,€12.00m,01/07/2019,30/06/2028,05/06/2025,"['Türkiye', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/atakan-karazor/profil/spieler/232320,191.0
+Chema Andrés,948279,Stuttgart,Defensive Midfield,"                  0
+0  Central Midfield",25/04/2005 (20),20,1.9,Spain,€10.00m,27/07/2025,30/06/2030,14/10/2025,['Spain'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/chema-andres/profil/spieler/948279,190.0
+Yannik Keitel,342039,Stuttgart,Defensive Midfield,"                  0
+0       Centre-Back
+1  Central Midfield",15/02/2000 (25),25,1.86,Germany,€2.50m,01/07/2024,30/06/2028,14/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yannik-keitel/profil/spieler/342039,186.0
+Mirza Catovic,1131117,Stuttgart,Defensive Midfield,"                  0
+0  Central Midfield
+1       Centre-Back",01/05/2007 (18),18,1.9,Serbia,€1.20m,01/07/2025,30/06/2028,10/10/2025,"['Bosnia-Herzegovina', 'Serbia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mirza-catovic/profil/spieler/1131117,190.0
+Nikolas Nartey,400546,Stuttgart,Central Midfield,"                    0
+0  Attacking Midfield
+1           Left-Back",22/02/2000 (25),25,1.86,Denmark,€400k,29/08/2019,30/06/2026,05/06/2025,"['Ghana', 'Denmark']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nikolas-nartey/profil/spieler/400546,186.0
+Bilal El Khannouss,654982,Stuttgart,Attacking Midfield,"                  0
+0  Central Midfield
+1       Left Winger",10/05/2004 (21),21,1.8,Morocco,€28.00m,01/09/2025,30/06/2026,30/05/2025,"['Morocco', 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/bilal-el-khannouss/profil/spieler/654982,180.0
+Noah Darvich,897480,Stuttgart,Attacking Midfield,"                  0
+0      Right Winger
+1  Central Midfield",25/09/2006 (19),19,1.84,Germany,€2.00m,01/07/2025,30/06/2029,25/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/noah-darvich/profil/spieler/897480,184.0
+Chris Führich,272278,Stuttgart,Left Winger,"                0
+0    Right Winger
+1  Second Striker",09/01/1998 (27),27,1.81,Germany,€12.00m,19/07/2021,30/06/2028,14/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/chris-fuhrich/profil/spieler/272278,181.0
+Justin Diehl,720162,Stuttgart,Left Winger,"                0
+0  Second Striker
+1  Centre-Forward",27/11/2004 (20),20,1.74,Germany,€3.00m,01/07/2024,30/06/2029,05/06/2025,"['Ghana', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/justin-diehl/profil/spieler/720162,174.0
+Jamie Leweling,518505,Stuttgart,Right Winger,"                0
+0     Left Winger
+1  Second Striker",26/02/2001 (24),24,1.85,Germany,€25.00m,01/07/2024,30/06/2029,14/10/2025,"['Ghana', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jamie-leweling/profil/spieler/518505,185.0
+Badredine Bouanani,707242,Stuttgart,Right Winger,"                    0
+0  Attacking Midfield",08/12/2004 (20),20,1.77,Algeria,€12.00m,31/08/2025,30/06/2030,14/10/2025,"['France', 'Algeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/badredine-bouanani/profil/spieler/707242,177.0
+Lazar Jovanovic,897505,Stuttgart,Right Winger,"                    0
+0         Left Winger
+1  Attacking Midfield",30/11/2006 (18),18,1.84,Serbia,€5.00m,08/07/2025,30/06/2029,14/10/2025,['Serbia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lazar-jovanovic/profil/spieler/897505,184.0
+Silas,612826,Stuttgart,Right Winger,"                0
+0  Right Midfield
+1  Centre-Forward",06/10/1998 (27),27,1.89,DR Congo,€4.00m,13/08/2019,30/06/2026,14/10/2025,['DR Congo'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/silas/profil/spieler/612826,189.0
+Ermedin Demirovic,335457,Stuttgart,Centre-Forward,"              0
+0  Right Winger
+1   Left Winger",25/03/1998 (27),27,1.85,Bosnia-Herzegovina,€22.00m,16/07/2024,30/06/2028,05/06/2025,"['Bosnia-Herzegovina', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ermedin-demirovic/profil/spieler/335457,185.0
+Deniz Undav,339314,Stuttgart,Centre-Forward,"                0
+0  Second Striker",19/07/1996 (29),29,1.79,Germany,€20.00m,09/08/2024,30/06/2027,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/deniz-undav/profil/spieler/339314,179.0
+Tiago Tomás,616344,Stuttgart,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",16/06/2002 (23),23,1.8,Portugal,€15.00m,16/08/2025,30/06/2029,14/10/2025,['Portugal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tiago-tomas/profil/spieler/616344,180.0
+Kamil Grabara,346551,Wolfsburg,Goalkeeper,,08/01/1999 (26),26,1.95,Poland,€14.00m,01/07/2024,30/06/2028,05/06/2025,['Poland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kamil-grabara/profil/spieler/346551,195.0
+Marius Müller,118161,Wolfsburg,Goalkeeper,,12/07/1993 (32),32,1.92,Germany,€1.50m,01/07/2024,30/06/2027,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marius-muller/profil/spieler/118161,192.0
+Pavao Pervan,51977,Wolfsburg,Goalkeeper,,13/11/1987 (38),38,1.94,Austria,€300k,01/07/2018,30/06/2026,05/06/2025,"['Jugoslawien (SFR)', 'Austria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/pavao-pervan/profil/spieler/51977,194.0
+Jakub Zielinski,1068257,Wolfsburg,Goalkeeper,,21/02/2008 (17),17,1.94,Poland,,01/07/2025,30/06/2028,,['Poland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jakub-zielinski/profil/spieler/1068257,194.0
+Konstantinos Koulierakis,669380,Wolfsburg,Centre-Back,,28/11/2003 (21),21,1.88,Greece,€25.00m,30/08/2024,30/06/2029,05/06/2025,['Greece'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/konstantinos-koulierakis/profil/spieler/669380,188.0
+Denis Vavro,239962,Wolfsburg,Centre-Back,,10/04/1996 (29),29,1.89,Slovakia,€7.00m,01/07/2025,30/06/2027,05/06/2025,['Slovakia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/denis-vavro/profil/spieler/239962,189.0
+Moritz Jenz,460245,Wolfsburg,Centre-Back,"            0
+0  Right-Back
+1     Sweeper",30/04/1999 (26),26,1.9,Germany,€5.00m,01/07/2023,30/06/2027,05/06/2025,"['Germany', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/moritz-jenz/profil/spieler/460245,190.0
+Jenson Seelt,617755,Wolfsburg,Centre-Back,,23/05/2003 (22),22,1.95,Netherlands,€2.00m,01/09/2025,30/06/2026,27/05/2025,"['Indonesia', 'Netherlands']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jenson-seelt/profil/spieler/617755,195.0
+Mathys Angély,1075579,Wolfsburg,Centre-Back,"                    0
+0           Left-Back
+1  Defensive Midfield",21/04/2007 (18),18,1.9,France,€600k,13/08/2024,-,05/06/2025,"['France', 'Martinique']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mathys-angely/profil/spieler/1075579,190.0
+Joakim Maehle,369674,Wolfsburg,Left-Back,"                0
+0      Right-Back
+1  Right Midfield",20/05/1997 (28),28,1.85,Denmark,€12.00m,12/08/2023,30/06/2027,14/10/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/joakim-maehle/profil/spieler/369674,185.0
+Aaron Zehnter,730484,Wolfsburg,Left-Back,"               0
+0  Left Midfield
+1    Left Winger",31/10/2004 (21),21,1.8,Germany,€6.00m,01/07/2025,30/06/2030,19/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/aaron-zehnter/profil/spieler/730484,180.0
+Rogério,401527,Wolfsburg,Left-Back,"               0
+0  Left Midfield",13/01/1998 (27),27,1.78,Brazil,€2.50m,05/08/2023,30/06/2027,05/06/2025,"['Italy', 'Brazil']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rogerio/profil/spieler/401527,178.0
+Kilian Fischer,435796,Wolfsburg,Right-Back,"                  0
+0         Left-Back
+1  Central Midfield",12/10/2000 (25),25,1.82,Germany,€7.50m,01/07/2022,30/06/2027,14/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kilian-fischer/profil/spieler/435796,182.0
+Saël Kumbedi,951579,Wolfsburg,Right-Back,"                0
+0  Right Midfield
+1       Left-Back",26/03/2005 (20),20,1.75,France,€7.00m,28/08/2025,30/06/2026,03/06/2025,"['France', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sael-kumbedi/profil/spieler/951579,175.0
+Vini Souza,663581,Wolfsburg,Defensive Midfield,"                  0
+0  Central Midfield",17/06/1999 (26),26,1.87,Brazil,€15.00m,05/07/2025,30/06/2030,27/05/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/vini-souza/profil/spieler/663581,187.0
+Mattias Svanberg,342405,Wolfsburg,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",05/01/1999 (26),26,1.85,Sweden,€12.00m,16/07/2022,30/06/2027,05/06/2025,['Sweden'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mattias-svanberg/profil/spieler/342405,185.0
+Maximilian Arnold,117674,Wolfsburg,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",27/05/1994 (31),31,1.84,Germany,€5.00m,01/01/2012,30/06/2028,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/maximilian-arnold/profil/spieler/117674,184.0
+Yannick Gerhardt,119277,Wolfsburg,Central Midfield,"               0
+0      Left-Back
+1  Left Midfield",13/03/1994 (31),31,1.84,Germany,€2.50m,01/07/2016,-,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yannick-gerhardt/profil/spieler/119277,184.0
+Kevin Paredes,711517,Wolfsburg,Left Midfield,"                0
+0     Left Winger
+1  Right Midfield",07/05/2003 (22),22,1.75,United States,€5.00m,28/01/2022,30/06/2026,14/10/2025,"['Dominican Republic', 'United States']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kevin-paredes/profil/spieler/711517,175.0
+Lovro Majer,387106,Wolfsburg,Attacking Midfield,"                  0
+0  Central Midfield",17/01/1998 (27),27,1.78,Croatia,€17.00m,16/08/2023,30/06/2028,05/06/2025,['Croatia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lovro-majer/profil/spieler/387106,178.0
+Bence Dárdai,789252,Wolfsburg,Attacking Midfield,"                  0
+0  Central Midfield",24/01/2006 (19),19,1.89,Hungary,€9.00m,01/07/2024,30/06/2029,14/10/2025,"['Hungary', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/bence-dardai/profil/spieler/789252,189.0
+Christian Eriksen,69633,Wolfsburg,Attacking Midfield,"                  0
+0  Central Midfield",14/02/1992 (33),33,1.82,Denmark,€4.00m,10/09/2025,30/06/2027,30/05/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/christian-eriksen/profil/spieler/69633,182.0
+Patrick Wimmer,533295,Wolfsburg,Right Winger,"                    0
+0         Left Winger
+1  Attacking Midfield",30/05/2001 (24),24,1.82,Austria,€15.00m,01/07/2022,30/06/2027,05/06/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/patrick-wimmer/profil/spieler/533295,182.0
+Andreas Skov Olsen,432982,Wolfsburg,Right Winger,"                0
+0  Right Midfield
+1     Left Winger",29/12/1999 (25),25,1.87,Denmark,€14.00m,17/01/2025,30/06/2029,05/06/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/andreas-skov-olsen/profil/spieler/432982,187.0
+Jesper Lindstrøm,513245,Wolfsburg,Right Winger,"                    0
+0  Attacking Midfield
+1         Left Winger",29/02/2000 (25),25,1.82,Denmark,€12.00m,23/07/2025,30/06/2026,14/10/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jesper-lindstrom/profil/spieler/513245,182.0
+Mohamed Amoura,746910,Wolfsburg,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",09/05/2000 (25),25,1.7,Algeria,€32.00m,01/07/2025,30/06/2029,05/06/2025,['Algeria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mohamed-amoura/profil/spieler/746910,170.0
+Jonas Wind,391004,Wolfsburg,Centre-Forward,"                    0
+0      Second Striker
+1  Attacking Midfield",07/02/1999 (26),26,1.9,Denmark,€8.00m,31/01/2022,30/06/2026,14/10/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jonas-wind/profil/spieler/391004,190.0
+Dzenan Pejcinovic,819636,Wolfsburg,Centre-Forward,,15/02/2005 (20),20,1.9,Germany,€6.00m,14/07/2022,30/06/2029,14/10/2025,"['Montenegro', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dzenan-pejcinovic/profil/spieler/819636,190.0
+Adam Daghim,881297,Wolfsburg,Centre-Forward,"              0
+0  Right Winger
+1   Left Winger",28/09/2005 (20),20,1.86,Denmark,€5.00m,01/09/2025,30/06/2026,06/06/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adam-daghim/profil/spieler/881297,186.0
+Mio Backhaus,620295,Werder Bremen,Goalkeeper,,16/04/2004 (21),21,1.94,Germany,€4.00m,12/07/2022,-,14/10/2025,"['Japan', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mio-backhaus/profil/spieler/620295,194.0
+Karl Hein,493513,Werder Bremen,Goalkeeper,,13/04/2002 (23),23,1.93,Estonia,€3.00m,22/08/2025,30/06/2026,09/06/2025,['Estonia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/karl-hein/profil/spieler/493513,193.0
+Markus Kolke,99451,Werder Bremen,Goalkeeper,,18/08/1990 (35),35,1.87,Germany,€300k,01/07/2024,30/06/2027,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/markus-kolke/profil/spieler/99451,187.0
+Stefan Smarkalev,1025989,W. Bremen II,Goalkeeper,,14/05/2007 (18),18,1.88,Bulgaria,€150k,01/07/2025,30/06/2027,04/09/2025,['Bulgaria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/stefan-smarkalev/profil/spieler/1025989,188.0
+Marco Friedl,156990,Werder Bremen,Centre-Back,"           0
+0  Left-Back",16/03/1998 (27),27,1.87,Austria,€12.00m,01/07/2019,30/06/2028,05/06/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marco-friedl/profil/spieler/156990,187.0
+Karim Coulibaly,1084638,Werder Bremen,Centre-Back,"                    0
+0  Defensive Midfield",23/05/2007 (18),18,1.91,Germany,€8.00m,16/07/2025,30/06/2029,14/10/2025,"['Germany', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/karim-coulibaly/profil/spieler/1084638,191.0
+Maximilian Wöber,263361,Werder Bremen,Centre-Back,"           0
+0  Left-Back",04/02/1998 (27),27,1.88,Austria,€5.00m,04/07/2025,30/06/2026,14/10/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/maximilian-wober/profil/spieler/263361,188.0
+Niklas Stark,162434,Werder Bremen,Centre-Back,"                    0
+0  Defensive Midfield",14/04/1995 (30),30,1.9,Germany,€4.00m,01/07/2022,-,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/niklas-stark/profil/spieler/162434,190.0
+Amos Pieper,334221,Werder Bremen,Centre-Back,,17/01/1998 (27),27,1.92,Germany,€3.50m,01/07/2022,30/06/2026,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/amos-pieper/profil/spieler/334221,192.0
+Julián Malatini,830108,Werder Bremen,Centre-Back,"            0
+0  Right-Back",31/05/2001 (24),24,1.91,Argentina,€2.50m,16/01/2024,-,05/06/2025,['Argentina'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/julian-malatini/profil/spieler/830108,191.0
+Mick Schmetgens,1045986,W. Bremen II,Centre-Back,,09/09/2007 (18),18,1.9,Germany,€150k,01/07/2025,30/06/2026,04/09/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mick-schmetgens/profil/spieler/1045986,190.0
+Felix Agu,393512,Werder Bremen,Left-Back,"               0
+0  Left Midfield
+1     Right-Back",27/09/1999 (26),26,1.8,Nigeria,€8.00m,01/07/2020,30/06/2027,05/06/2025,"['Germany', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/felix-agu/profil/spieler/393512,180.0
+Olivier Deman,621802,Werder Bremen,Left-Back,"               0
+0  Left Midfield
+1    Left Winger",06/04/2000 (25),25,1.81,Belgium,€3.00m,31/08/2023,30/06/2028,12/06/2025,['Belgium'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/olivier-deman/profil/spieler/621802,181.0
+Isaac Schmidt,449597,Werder Bremen,Left-Back,"                0
+0      Right-Back
+1  Right Midfield",07/12/1999 (25),25,1.72,Switzerland,€2.20m,28/08/2025,30/06/2026,27/05/2025,"['Switzerland', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/isaac-schmidt/profil/spieler/449597,172.0
+Yukinari Sugawara,405385,Werder Bremen,Right-Back,"                0
+0  Right Midfield
+1     Centre-Back",28/06/2000 (25),25,1.79,Japan,€6.00m,26/08/2025,30/06/2026,14/10/2025,['Japan'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yukinari-sugawara/profil/spieler/405385,179.0
+Mitchell Weiser,119211,Werder Bremen,Right-Back,"                0
+0  Right Midfield
+1    Right Winger",21/04/1994 (31),31,1.77,Germany,€5.00m,15/07/2022,-,05/06/2025,"['Algeria', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mitchell-weiser/profil/spieler/119211,177.0
+Senne Lynen,338668,Werder Bremen,Defensive Midfield,"                    0
+0    Central Midfield
+1  Attacking Midfield",19/02/1999 (26),26,1.85,Belgium,€9.00m,08/08/2023,-,05/06/2025,['Belgium'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/senne-lynen/profil/spieler/338668,185.0
+Skelly Alvero,855134,Werder Bremen,Defensive Midfield,"                  0
+0  Central Midfield",04/05/2002 (23),23,2.02,France,€2.50m,01/07/2024,30/06/2028,05/06/2025,"['France', 'Angola']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/skelly-alvero/profil/spieler/855134,202.0
+Wesley Adeh,1074523,Werder Bremen,Defensive Midfield,"                  0
+0  Central Midfield
+1       Centre-Back",08/01/2007 (18),18,1.87,Germany,,01/07/2025,-,,"['Germany', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/wesley-adeh/profil/spieler/1074523,187.0
+Jens Stage,289835,Werder Bremen,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",08/11/1996 (29),29,1.87,Denmark,€14.00m,01/07/2022,-,05/06/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jens-stage/profil/spieler/289835,187.0
+Leonardo Bittencourt,93844,Werder Bremen,Central Midfield,"                    0
+0  Attacking Midfield
+1        Right Winger",19/12/1993 (31),31,1.71,Germany,€1.50m,15/07/2020,30/06/2026,05/06/2025,"['Germany', 'Brazil']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/leonardo-bittencourt/profil/spieler/93844,171.0
+Romano Schmid,346853,Werder Bremen,Attacking Midfield,"                  0
+0  Central Midfield
+1     Left Midfield",27/01/2000 (25),25,1.68,Austria,€17.00m,03/01/2019,30/06/2027,05/06/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/romano-schmid/profil/spieler/346853,168.0
+Cameron Puertas,449592,Werder Bremen,Attacking Midfield,"                    0
+0    Central Midfield
+1  Defensive Midfield",18/08/1998 (27),27,1.78,Spain,€13.00m,01/09/2025,30/06/2026,27/05/2025,"['Spain', 'Switzerland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/cameron-puertas/profil/spieler/449592,178.0
+Patrice Covic,1114155,Werder Bremen,Attacking Midfield,,25/06/2007 (18),18,1.82,Croatia,€4.00m,08/07/2025,-,14/10/2025,"['Germany', 'Croatia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/patrice-covic/profil/spieler/1114155,182.0
+Isak Hansen-Aarøen,670116,Werder Bremen,Attacking Midfield,"                  0
+0  Central Midfield
+1      Right Winger",22/08/2004 (21),21,1.73,Norway,€1.00m,01/02/2024,30/06/2027,16/06/2025,['Norway'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/isak-hansen-aaroen/profil/spieler/670116,173.0
+Samuel Mbangula,654991,Werder Bremen,Left Winger,"                0
+0    Right Winger
+1  Second Striker",16/01/2004 (21),21,1.79,Belgium,€14.00m,23/07/2025,30/06/2030,17/06/2025,"['DR Congo', 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/samuel-mbangula/profil/spieler/654991,179.0
+Marco Grüll,391766,Werder Bremen,Left Winger,"                0
+0  Centre-Forward
+1    Right Winger",06/07/1998 (27),27,1.81,Austria,€4.00m,01/07/2024,-,05/06/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marco-grull/profil/spieler/391766,181.0
+Justin Njinmah,596153,Werder Bremen,Right Winger,"                0
+0  Centre-Forward
+1     Left Winger",15/11/2000 (25),25,1.85,Germany,€7.00m,05/01/2022,30/06/2027,05/06/2025,"['Germany', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/justin-njinmah/profil/spieler/596153,185.0
+Victor Boniface,656681,Werder Bremen,Centre-Forward,,23/12/2000 (24),24,1.9,Nigeria,€20.00m,01/09/2025,30/06/2026,14/10/2025,['Nigeria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/victor-boniface/profil/spieler/656681,190.0
+Keke Topp,701757,Werder Bremen,Centre-Forward,,25/03/2004 (21),21,1.92,Germany,€4.00m,01/07/2024,30/06/2028,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/keke-topp/profil/spieler/701757,192.0
+Salim Musah,1042472,Werder Bremen,Centre-Forward,"              0
+0  Right Winger
+1   Left Winger",22/02/2006 (19),19,1.98,Germany,,06/07/2025,-,,"['Ghana', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/salim-musah/profil/spieler/1042472,198.0
+Oliver Baumann,55089,Hoffenheim,Goalkeeper,,02/06/1990 (35),35,1.87,Germany,€3.00m,01/07/2014,30/06/2028,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/oliver-baumann/profil/spieler/55089,187.0
+Luca Philipp,432671,Hoffenheim,Goalkeeper,,28/11/2000 (24),24,1.92,Germany,€750k,31/07/2020,30/06/2026,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luca-philipp/profil/spieler/432671,192.0
+Lúkas Petersson,718460,Hoffenheim,Goalkeeper,,09/02/2004 (21),21,1.95,Iceland,€400k,01/07/2024,30/06/2027,10/10/2025,"['Iceland', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lukas-petersson/profil/spieler/718460,195.0
+Albian Hajdari,579459,Hoffenheim,Centre-Back,"           0
+0  Left-Back",18/05/2003 (22),22,1.89,Kosovo,€12.00m,25/08/2025,30/06/2029,10/06/2025,"['Switzerland', 'Kosovo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/albian-hajdari/profil/spieler/579459,189.0
+Koki Machida,415035,Hoffenheim,Centre-Back,,25/08/1997 (28),28,1.9,Japan,€7.00m,01/07/2025,-,14/10/2025,['Japan'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/koki-machida/profil/spieler/415035,190.0
+Bernardo,364258,Hoffenheim,Centre-Back,"                    0
+0           Left-Back
+1  Defensive Midfield",14/05/1995 (30),30,1.86,Brazil,€5.50m,01/07/2025,-,05/06/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/bernardo/profil/spieler/364258,186.0
+Robin Hranac,620217,Hoffenheim,Centre-Back,,29/01/2000 (25),25,1.9,Czech Republic,€5.00m,25/08/2024,30/06/2028,14/10/2025,['Czech Republic'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/robin-hranac/profil/spieler/620217,190.0
+Ozan Kabak,361260,Hoffenheim,Centre-Back,,25/03/2000 (25),25,1.87,Türkiye,€5.00m,23/07/2022,30/06/2026,05/06/2025,['Türkiye'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ozan-kabak/profil/spieler/361260,187.0
+Arthur Chaves,875332,Hoffenheim,Centre-Back,,29/01/2001 (24),24,1.88,Brazil,€5.00m,30/08/2024,30/06/2029,05/06/2025,['Brazil'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/arthur-chaves/profil/spieler/875332,188.0
+Kevin Akpoguma,160241,Hoffenheim,Centre-Back,"            0
+0  Right-Back
+1   Left-Back",19/04/1995 (30),30,1.92,Nigeria,€2.50m,01/07/2013,30/06/2026,05/06/2025,"['Germany', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kevin-akpoguma/profil/spieler/160241,192.0
+Kelven Frees,934529,Hoffenheim,Centre-Back,,03/02/2005 (20),20,2.02,Germany,€300k,01/07/2025,30/06/2029,10/10/2025,"['Germany', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kelven-frees/profil/spieler/934529,202.0
+Alexander Prass,434116,Hoffenheim,Left-Back,"                  0
+0     Left Midfield
+1  Central Midfield",26/05/2001 (24),24,1.8,Austria,€5.00m,05/08/2024,30/06/2028,05/06/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alexander-prass/profil/spieler/434116,180.0
+Hennes Behrens,829838,Hoffenheim,Left-Back,"               0
+0  Left Midfield
+1    Centre-Back",19/01/2005 (20),20,1.75,Germany,€350k,01/07/2025,-,11/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/hennes-behrens/profil/spieler/829838,175.0
+Valentin Gendrey,569387,Hoffenheim,Right-Back,"             0
+0  Centre-Back",21/06/2000 (25),25,1.79,France,€7.00m,27/08/2024,30/06/2028,05/06/2025,"['France', 'Guadeloupe']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/valentin-gendrey/profil/spieler/569387,179.0
+Vladimír Coufal,157672,Hoffenheim,Right-Back,"                0
+0  Right Midfield",22/08/1992 (33),33,1.74,Czech Republic,€3.00m,05/08/2025,30/06/2026,14/10/2025,"['CSSR', 'Czech Republic']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/vladimir-coufal/profil/spieler/157672,174.0
+Leon Avdullahu,667457,Hoffenheim,Defensive Midfield,"                  0
+0  Central Midfield",23/02/2004 (21),21,1.85,Kosovo,€12.00m,01/07/2025,30/06/2029,14/10/2025,"['Switzerland', 'Kosovo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/leon-avdullahu/profil/spieler/667457,185.0
+Wouter Burger,412953,Hoffenheim,Defensive Midfield,"                  0
+0  Central Midfield
+1       Centre-Back",16/02/2001 (24),24,1.91,Netherlands,€4.50m,22/07/2025,30/06/2030,27/05/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/wouter-burger/profil/spieler/412953,191.0
+Umut Tohumcu,569031,Hoffenheim,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",11/08/2004 (21),21,1.75,Germany,€6.00m,18/01/2023,30/06/2028,05/06/2025,"['Türkiye', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/umut-tohumcu/profil/spieler/569031,175.0
+Grischa Prömel,234029,Hoffenheim,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",09/01/1995 (30),30,1.84,Germany,€3.00m,01/07/2022,30/06/2026,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/grischa-promel/profil/spieler/234029,184.0
+Dennis Geiger,251309,Hoffenheim,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",10/06/1998 (27),27,1.73,Germany,€2.00m,01/07/2016,30/06/2027,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dennis-geiger/profil/spieler/251309,173.0
+Luka Duric,685484,Hoffenheim,Central Midfield,"                    0
+0  Attacking Midfield",18/06/2003 (22),22,1.81,Bosnia-Herzegovina,€250k,01/07/2025,-,11/06/2025,"['Bosnia-Herzegovina', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luka-duric/profil/spieler/685484,181.0
+Muhammed Damar,789898,Hoffenheim,Attacking Midfield,"                  0
+0  Central Midfield
+1       Left Winger",09/04/2004 (21),21,1.85,Germany,€7.00m,01/07/2022,30/06/2029,19/06/2025,"['Türkiye', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/muhammed-damar/profil/spieler/789898,185.0
+Andrej Kramaric,46580,Hoffenheim,Attacking Midfield,"                0
+0  Centre-Forward
+1  Second Striker",19/06/1991 (34),34,1.77,Croatia,€4.00m,01/07/2016,30/06/2026,05/06/2025,"['Jugoslawien (SFR)', 'Croatia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/andrej-kramaric/profil/spieler/46580,177.0
+Bazoumana Touré,1067904,Hoffenheim,Left Winger,"               0
+0  Left Midfield
+1   Right Winger",02/03/2006 (19),19,1.75,Cote d'Ivoire,€15.00m,01/02/2025,30/06/2029,14/10/2025,"[""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/bazoumana-toure/profil/spieler/1067904,175.0
+Fisnik Asllani,524290,Hoffenheim,Centre-Forward,"                0
+0     Left Winger
+1  Second Striker",08/08/2002 (23),23,1.91,Kosovo,€18.00m,04/01/2022,30/06/2029,14/10/2025,"['Germany', 'Kosovo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/fisnik-asllani/profil/spieler/524290,191.0
+Adam Hlozek,552057,Hoffenheim,Centre-Forward,"                0
+0     Left Winger
+1  Second Striker",25/07/2002 (23),23,1.88,Czech Republic,€18.00m,17/08/2024,30/06/2029,05/06/2025,['Czech Republic'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adam-hlozek/profil/spieler/552057,188.0
+Tim Lemperle,553285,Hoffenheim,Centre-Forward,"              0
+0  Right Winger
+1   Left Winger",05/02/2002 (23),23,1.87,Germany,€8.00m,01/07/2025,30/06/2027,14/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tim-lemperle/profil/spieler/553285,187.0
+Max Moerstedt,923595,Hoffenheim,Centre-Forward,,15/01/2006 (19),19,1.94,Germany,€7.00m,01/01/2024,30/06/2027,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/max-moerstedt/profil/spieler/923595,194.0
+Mergim Berisha,307924,Hoffenheim,Centre-Forward,"                0
+0  Second Striker
+1    Right Winger",11/05/1998 (27),27,1.88,Germany,€2.50m,30/08/2023,30/06/2027,14/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mergim-berisha/profil/spieler/307924,188.0
+Deniz Zeitler,1108022,Hoffenheim,Centre-Forward,"             0
+0  Left Winger",13/12/2006 (18),18,1.81,Germany,€1.50m,10/07/2025,-,11/06/2025,"['Türkiye', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/deniz-zeitler/profil/spieler/1108022,181.0
+Ihlas Bebou,237164,Hoffenheim,Centre-Forward,"              0
+0  Right Winger
+1   Left Winger",23/04/1994 (31),31,1.85,Togo,€1.00m,01/07/2019,30/06/2026,05/06/2025,"['Togo', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ihlas-bebou/profil/spieler/237164,185.0
+David Mokwa,974894,Hoffenheim,Centre-Forward,"              0
+0  Right Winger",03/05/2004 (21),21,1.8,France,€1.00m,28/01/2025,30/06/2029,05/06/2025,"['France', 'Cameroon']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/david-mokwa/profil/spieler/974894,180.0
+Precious Benjamin,1363814,Hoffenheim,Centre-Forward,,01/10/2006 (19),19,1.82,Nigeria,,01/07/2025,-,,['Nigeria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/precious-benjamin/profil/spieler/1363814,182.0
+Noah Atubolu,526845,Freiburg,Goalkeeper,,25/05/2002 (23),23,1.9,Germany,€18.00m,01/07/2021,30/06/2027,05/06/2025,"['Germany', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/noah-atubolu/profil/spieler/526845,190.0
+Florian Müller,284769,Freiburg,Goalkeeper,,13/11/1997 (28),28,1.9,Germany,€1.20m,01/07/2023,-,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/florian-muller/profil/spieler/284769,190.0
+Jannik Huth,160954,Freiburg,Goalkeeper,,15/04/1994 (31),31,1.85,Germany,€400k,01/07/2024,-,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jannik-huth/profil/spieler/160954,185.0
+Philipp Lienhart,225657,Freiburg,Centre-Back,"                    0
+0  Defensive Midfield",11/07/1996 (29),29,1.89,Austria,€12.00m,01/07/2018,-,05/06/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/philipp-lienhart/profil/spieler/225657,189.0
+Max Rosenfelder,599419,Freiburg,Centre-Back,"            0
+0  Right-Back",10/02/2003 (22),22,1.86,Germany,€8.00m,01/07/2023,-,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/max-rosenfelder/profil/spieler/599419,186.0
+Matthias Ginter,124502,Freiburg,Centre-Back,"                    0
+0  Defensive Midfield
+1          Right-Back",19/01/1994 (31),31,1.89,Germany,€7.00m,01/07/2022,30/06/2027,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/matthias-ginter/profil/spieler/124502,189.0
+Anthony Jung,58995,Freiburg,Centre-Back,"               0
+0      Left-Back
+1  Left Midfield",03/11/1991 (34),34,1.86,Germany,€1.00m,01/07/2025,-,05/06/2025,"['Spain', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/anthony-jung/profil/spieler/58995,186.0
+Bruno Ogbus,863759,Freiburg,Centre-Back,"            0
+0  Right-Back",17/12/2005 (19),19,1.85,Switzerland,€1.00m,01/07/2024,-,05/06/2025,"['Switzerland', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/bruno-ogbus/profil/spieler/863759,185.0
+Jordy Makengo,815078,Freiburg,Left-Back,"               0
+0  Left Midfield
+1    Centre-Back",03/08/2001 (24),24,1.91,France,€6.00m,01/07/2023,-,05/06/2025,"['France', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jordy-makengo/profil/spieler/815078,191.0
+Christian Günter,93707,Freiburg,Left-Back,"               0
+0  Left Midfield",28/02/1993 (32),32,1.84,Germany,€3.50m,01/07/2012,-,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/christian-gunter/profil/spieler/93707,184.0
+Philipp Treu,335993,Freiburg,Right-Back,"               0
+0  Left Midfield
+1      Left-Back",03/12/2000 (24),24,1.73,Germany,€7.00m,01/07/2025,-,14/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/philipp-treu/profil/spieler/335993,173.0
+Lukas Kübler,93604,Freiburg,Right-Back,"                0
+0     Centre-Back
+1  Right Midfield",30/08/1992 (33),33,1.82,Germany,€1.50m,01/07/2015,-,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lukas-kubler/profil/spieler/93604,182.0
+Patrick Osterhage,443331,Freiburg,Defensive Midfield,"                  0
+0  Central Midfield",01/02/2000 (25),25,1.86,Germany,€12.00m,01/07/2024,-,14/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/patrick-osterhage/profil/spieler/443331,186.0
+Nicolas Höfler,55099,Freiburg,Defensive Midfield,"                  0
+0       Centre-Back
+1  Central Midfield",09/03/1990 (35),35,1.81,Germany,€500k,01/07/2010,-,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nicolas-hofler/profil/spieler/55099,181.0
+Johan Manzambi,927353,Freiburg,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",14/10/2005 (20),20,1.82,Switzerland,€15.00m,01/07/2024,30/06/2030,14/10/2025,['Switzerland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/johan-manzambi/profil/spieler/927353,182.0
+Maximilian Eggestein,190284,Freiburg,Central Midfield,"                    0
+0  Defensive Midfield",08/12/1996 (28),28,1.81,Germany,€10.00m,18/08/2021,-,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/maximilian-eggestein/profil/spieler/190284,181.0
+Yuito Suzuki,668606,Freiburg,Attacking Midfield,"                0
+0  Centre-Forward
+1    Right Winger",25/10/2001 (24),24,1.75,Japan,€10.00m,01/07/2025,-,16/06/2025,['Japan'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yuito-suzuki/profil/spieler/668606,175.0
+Daniel-Kofi Kyereh,272587,Freiburg,Attacking Midfield,"                0
+0  Second Striker
+1     Left Winger",08/03/1996 (29),29,1.79,Ghana,€800k,01/07/2022,-,05/06/2025,"['Ghana', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/daniel-kofi-kyereh/profil/spieler/272587,179.0
+Vincenzo Grifo,185077,Freiburg,Left Winger,"                    0
+0        Right Winger
+1  Attacking Midfield",07/04/1993 (32),32,1.8,Italy,€6.00m,02/09/2019,-,05/06/2025,"['Italy', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/vincenzo-grifo/profil/spieler/185077,180.0
+Derry Scherhant,820957,Freiburg,Left Winger,"                0
+0    Right Winger
+1  Centre-Forward",10/11/2002 (23),23,1.85,Germany,€4.00m,01/07/2025,-,19/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/derry-scherhant/profil/spieler/820957,185.0
+Cyriaque Irié,1145064,Freiburg,Right Winger,"                0
+0  Centre-Forward
+1     Left Winger",20/06/2005 (20),20,1.85,Burkina Faso,€8.00m,01/07/2025,-,02/06/2025,"[""Cote d'Ivoire"", 'Burkina Faso']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/cyriaque-irie/profil/spieler/1145064,185.0
+Eren Dinkçi,645774,Freiburg,Right Winger,"                0
+0  Centre-Forward
+1  Second Striker",13/12/2001 (23),23,1.88,Türkiye,€7.00m,01/07/2024,-,14/10/2025,"['Türkiye', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/eren-dinkci/profil/spieler/645774,188.0
+Niklas Beste,342967,Freiburg,Right Winger,"             0
+0  Left Winger
+1    Left-Back",04/01/1999 (26),26,1.75,Germany,€7.00m,31/01/2025,30/06/2030,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/niklas-beste/profil/spieler/342967,175.0
+Maximilian Philipp,143891,Freiburg,Second Striker,"              0
+0   Left Winger
+1  Right Winger",01/03/1994 (31),31,1.83,Germany,€800k,01/07/2024,-,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/maximilian-philipp/profil/spieler/143891,183.0
+Igor Matanovic,605268,Freiburg,Centre-Forward,,31/03/2003 (22),22,1.94,Croatia,€7.00m,09/07/2025,-,14/10/2025,"['Germany', 'Croatia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/igor-matanovic/profil/spieler/605268,194.0
+Junior Adamu,452477,Freiburg,Centre-Forward,"              0
+0  Right Winger
+1   Left Winger",06/06/2001 (24),24,1.83,Austria,€5.00m,01/07/2023,-,05/06/2025,"['Austria', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/junior-adamu/profil/spieler/452477,183.0
+Lucas Höler,248999,Freiburg,Centre-Forward,"                0
+0  Second Striker
+1    Right Winger",10/07/1994 (31),31,1.84,Germany,€3.00m,01/01/2018,-,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lucas-holer/profil/spieler/248999,184.0
+Robin Zentner,160963,Mainz,Goalkeeper,,28/10/1994 (31),31,1.94,Germany,€4.00m,01/07/2014,30/06/2028,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/robin-zentner/profil/spieler/160963,194.0
+Lasse Rieß,490609,Mainz,Goalkeeper,,27/07/2001 (24),24,1.92,Germany,€400k,01/07/2021,30/06/2027,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lasse-riess/profil/spieler/490609,192.0
+Daniel Batz,90317,Mainz,Goalkeeper,,12/01/1991 (34),34,1.91,Germany,€250k,01/07/2023,30/06/2026,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/daniel-batz/profil/spieler/90317,191.0
+Andreas Hanche-Olsen,370683,Mainz,Centre-Back,"            0
+0  Right-Back
+1   Left-Back",17/01/1997 (28),28,1.85,Norway,€6.00m,13/01/2023,30/06/2028,05/06/2025,['Norway'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/andreas-hanche-olsen/profil/spieler/370683,185.0
+Dominik Kohr,118847,Mainz,Centre-Back,"                    0
+0  Defensive Midfield
+1    Central Midfield",31/01/1994 (31),31,1.83,Germany,€3.50m,01/07/2022,30/06/2028,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dominik-kohr/profil/spieler/118847,183.0
+Maxim Leitsch,334207,Mainz,Centre-Back,"           0
+0  Left-Back",18/05/1998 (27),27,1.89,Germany,€1.50m,01/07/2022,30/06/2026,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/maxim-leitsch/profil/spieler/334207,189.0
+Danny da Costa,85906,Mainz,Centre-Back,"                0
+0      Right-Back
+1  Right Midfield",13/07/1993 (32),32,1.87,Germany,€1.50m,01/07/2022,30/06/2026,05/06/2025,"['Angola', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/danny-da-costa/profil/spieler/85906,187.0
+Stefan Bell,82350,Mainz,Centre-Back,"            0
+0  Right-Back",24/08/1991 (34),34,1.92,Germany,€800k,01/07/2010,30/06/2026,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/stefan-bell/profil/spieler/82350,192.0
+Konstantin Schopp,805123,Mainz,Centre-Back,"                    0
+0  Defensive Midfield",30/12/2005 (19),19,1.95,Austria,€400k,01/07/2025,30/06/2029,30/05/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/konstantin-schopp/profil/spieler/805123,195.0
+Kacper Potulski,1073748,FSV Mainz 05 II,Centre-Back,,19/10/2007 (18),18,1.95,Poland,€200k,01/07/2025,30/06/2028,11/06/2025,['Poland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kacper-potulski/profil/spieler/1073748,195.0
+Maxim Dal,934317,Mainz,Centre-Back,"                    0
+0  Defensive Midfield",26/01/2006 (19),19,1.88,Germany,€150k,01/07/2025,30/06/2027,05/06/2025,"['Türkiye', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/maxim-dal/profil/spieler/934317,188.0
+Phillipp Mwene,127573,Mainz,Left-Back,"               0
+0     Right-Back
+1  Left Midfield",29/01/1994 (31),31,1.7,Austria,€1.80m,23/08/2023,30/06/2026,05/06/2025,"['Austria', 'Kenya']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/phillipp-mwene/profil/spieler/127573,170.0
+Kasey Bos,1154876,Mainz,Left-Back,"               0
+0    Left Winger
+1  Left Midfield",08/05/2004 (21),21,1.86,Australia,€450k,01/07/2025,30/06/2029,03/06/2025,"['Australia', 'Netherlands']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kasey-bos/profil/spieler/1154876,186.0
+Anthony Caci,453016,Mainz,Right-Back,"                0
+0  Right Midfield
+1   Left Midfield",01/07/1997 (28),28,1.84,France,€12.00m,01/07/2022,30/06/2028,05/06/2025,['France'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/anthony-caci/profil/spieler/453016,184.0
+Nikolas Veratschnig,601143,Mainz,Right-Back,"                0
+0  Right Midfield
+1    Right Winger",24/01/2003 (22),22,1.8,Austria,€1.50m,01/07/2024,30/06/2028,05/06/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nikolas-veratschnig/profil/spieler/601143,180.0
+Silvan Widmer,168989,Mainz,Right-Back,"                0
+0  Right Midfield",05/03/1993 (32),32,1.83,Switzerland,€1.20m,09/07/2021,30/06/2026,05/06/2025,['Switzerland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/silvan-widmer/profil/spieler/168989,183.0
+Kaishu Sano,643574,Mainz,Defensive Midfield,,30/12/2000 (24),24,1.76,Japan,€25.00m,03/07/2024,30/06/2028,14/10/2025,['Japan'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kaishu-sano/profil/spieler/643574,176.0
+Lennard Maloney,392710,Mainz,Defensive Midfield,"             0
+0  Centre-Back",08/10/1999 (26),26,1.88,United States,€3.50m,21/01/2025,30/06/2028,05/06/2025,"['Germany', 'United States']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lennard-maloney/profil/spieler/392710,188.0
+Sota Kawasaki,733371,Mainz,Defensive Midfield,"                  0
+0  Central Midfield",30/07/2001 (24),24,1.72,Japan,€1.20m,09/07/2025,30/06/2026,29/05/2025,['Japan'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sota-kawasaki/profil/spieler/733371,172.0
+Niklas Tauer,470815,Mainz,Defensive Midfield,"             0
+0  Centre-Back
+1   Right-Back",17/02/2001 (24),24,1.83,Germany,€500k,27/09/2019,-,19/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/niklas-tauer/profil/spieler/470815,183.0
+Nadiem Amiri,232454,Mainz,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",27/10/1996 (29),29,1.8,Germany,€20.00m,31/01/2024,30/06/2028,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nadiem-amiri/profil/spieler/232454,180.0
+Daniel Gleiber,906969,Mainz,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",01/02/2005 (20),20,1.81,Germany,€225k,01/07/2025,30/06/2028,11/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/daniel-gleiber/profil/spieler/906969,181.0
+Paul Nebel,503160,Mainz,Attacking Midfield,"              0
+0  Right Winger
+1   Left Winger",10/10/2002 (23),23,1.69,Germany,€24.00m,01/07/2020,30/06/2027,05/06/2025,"['Germany', 'Ireland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/paul-nebel/profil/spieler/503160,169.0
+Jae-sung Lee,314398,Mainz,Attacking Midfield,"                  0
+0    Centre-Forward
+1  Central Midfield",10/08/1992 (33),33,1.8,"Korea, South",€2.50m,08/07/2021,30/06/2026,05/06/2025,"['Korea, South']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jae-sung-lee/profil/spieler/314398,180.0
+Arnaud Nordin,324811,Mainz,Right Winger,"                0
+0     Left Winger
+1  Centre-Forward",17/06/1998 (27),27,1.7,France,€5.00m,28/01/2025,30/06/2028,05/06/2025,"['France', 'Martinique']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/arnaud-nordin/profil/spieler/324811,170.0
+Armindo Sieb,569033,Mainz,Second Striker,"                0
+0  Centre-Forward
+1    Right Winger",17/02/2003 (22),22,1.75,Germany,€4.00m,02/07/2024,30/06/2026,14/10/2025,"['Mozambique', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/armindo-sieb/profil/spieler/569033,175.0
+Nelson Weiper,796213,Mainz,Centre-Forward,,17/03/2005 (20),20,1.92,Germany,€15.00m,01/07/2022,30/06/2029,14/10/2025,"['Albania', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nelson-weiper/profil/spieler/796213,192.0
+Benedict Hollerbach,453870,Mainz,Centre-Forward,"              0
+0  Right Winger
+1   Left Winger",17/05/2001 (24),24,1.81,Germany,€12.00m,01/07/2025,30/06/2029,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/benedict-hollerbach/profil/spieler/453870,181.0
+William Bøving,610400,Mainz,Centre-Forward,"                    0
+0         Left Winger
+1  Attacking Midfield",01/03/2003 (22),22,1.76,Denmark,€8.00m,01/09/2025,30/06/2029,06/06/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/william-boving/profil/spieler/610400,176.0
+Ben Bobzien,658116,Mainz,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",29/04/2003 (22),22,1.76,Germany,€1.20m,01/07/2022,30/06/2027,06/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ben-bobzien/profil/spieler/658116,176.0
+Moritz Nicolas,284270,Mönchengladbach,Goalkeeper,,21/10/1997 (28),28,1.93,Germany,€5.00m,01/07/2016,30/06/2029,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/moritz-nicolas/profil/spieler/284270,193.0
+Jonas Omlin,247915,Mönchengladbach,Goalkeeper,,10/01/1994 (31),31,1.9,Switzerland,€2.00m,19/01/2023,30/06/2027,14/10/2025,['Switzerland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jonas-omlin/profil/spieler/247915,190.0
+Tiago Pereira Cardoso,926301,Mönchengladbach,Goalkeeper,,07/04/2006 (19),19,1.9,Luxembourg,€1.50m,01/03/2025,-,05/06/2025,"['Portugal', 'Luxembourg']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tiago-pereira-cardoso/profil/spieler/926301,190.0
+Tobias Sippel,31653,Mönchengladbach,Goalkeeper,,22/03/1988 (37),37,1.83,Germany,€300k,01/07/2015,30/06/2026,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tobias-sippel/profil/spieler/31653,183.0
+Nico Elvedi,192635,Mönchengladbach,Centre-Back,"            0
+0  Right-Back",30/09/1996 (29),29,1.89,Switzerland,€8.00m,01/07/2015,30/06/2027,05/06/2025,['Switzerland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nico-elvedi/profil/spieler/192635,189.0
+Kevin Diks,335209,Mönchengladbach,Centre-Back,"            0
+0  Right-Back
+1   Left-Back",06/10/1996 (29),29,1.86,Indonesia,€5.00m,01/07/2025,30/06/2030,16/06/2025,"['Indonesia', 'Netherlands']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kevin-diks/profil/spieler/335209,186.0
+Fabio Chiarodia,724104,Mönchengladbach,Centre-Back,"           0
+0  Left-Back",05/06/2005 (20),20,1.86,Italy,€3.00m,01/07/2023,30/06/2027,14/10/2025,"['Italy', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/fabio-chiarodia/profil/spieler/724104,186.0
+Marvin Friedrich,196231,Mönchengladbach,Centre-Back,"            0
+0  Right-Back",13/12/1995 (29),29,1.93,Germany,€2.00m,11/01/2022,30/06/2026,14/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marvin-friedrich/profil/spieler/196231,193.0
+Lukas Ullrich,787151,Mönchengladbach,Left-Back,"               0
+0  Left Midfield
+1    Left Winger",16/03/2004 (21),21,1.8,Germany,€8.00m,01/07/2023,30/06/2027,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lukas-ullrich/profil/spieler/787151,180.0
+Luca Netz,524285,Mönchengladbach,Left-Back,"               0
+0  Left Midfield",15/05/2003 (22),22,1.84,Germany,€6.00m,06/08/2021,30/06/2026,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luca-netz/profil/spieler/524285,184.0
+Joe Scally,504153,Mönchengladbach,Right-Back,"                0
+0  Right Midfield
+1       Left-Back",31/12/2002 (22),22,1.84,United States,€7.00m,01/01/2021,30/06/2027,14/10/2025,['United States'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/joe-scally/profil/spieler/504153,184.0
+Yannik Engelhardt,405670,Mönchengladbach,Defensive Midfield,,07/02/2001 (24),24,1.84,Germany,€6.00m,01/09/2025,30/06/2026,17/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yannik-engelhardt/profil/spieler/405670,184.0
+Niklas Swider,1009463,Mönchengladbach,Defensive Midfield,"                  0
+0  Central Midfield
+1       Centre-Back",05/01/2007 (18),18,1.88,Germany,€250k,17/12/2024,30/06/2027,23/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/niklas-swider/profil/spieler/1009463,188.0
+Rocco Reitz,467434,Mönchengladbach,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",29/05/2002 (23),23,1.76,Germany,€15.00m,01/07/2020,30/06/2028,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rocco-reitz/profil/spieler/467434,176.0
+Jens Castrop,613192,Mönchengladbach,Central Midfield,"                    0
+0      Right Midfield
+1  Attacking Midfield",29/07/2003 (22),22,1.78,"Korea, South",€6.00m,01/07/2025,30/06/2029,19/06/2025,"['Korea, South', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jens-castrop/profil/spieler/613192,178.0
+Philipp Sander,388409,Mönchengladbach,Central Midfield,"                    0
+0  Defensive Midfield
+1         Centre-Back",21/02/1998 (27),27,1.86,Germany,€4.00m,01/07/2024,30/06/2028,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/philipp-sander/profil/spieler/388409,186.0
+Florian Neuhaus,278332,Mönchengladbach,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",16/03/1997 (28),28,1.85,Germany,€3.50m,01/07/2017,30/06/2027,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/florian-neuhaus/profil/spieler/278332,185.0
+Oscar Fraulo,610428,Mönchengladbach,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",06/12/2003 (21),21,1.8,Denmark,€3.50m,01/07/2022,30/06/2026,28/05/2025,"['Italy', 'Denmark']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/oscar-fraulo/profil/spieler/610428,180.0
+Giovanni Reyna,504215,Mönchengladbach,Attacking Midfield,"              0
+0  Right Winger
+1   Left Winger",13/11/2002 (23),23,1.87,United States,€7.00m,23/08/2025,30/06/2028,05/06/2025,"['England', 'Portugal', 'United States']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/giovanni-reyna/profil/spieler/504215,187.0
+Kevin Stöger,106872,Mönchengladbach,Attacking Midfield,"                  0
+0  Central Midfield
+1     Left Midfield",27/08/1993 (32),32,1.75,Austria,€3.50m,01/07/2024,30/06/2027,05/06/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kevin-stoger/profil/spieler/106872,175.0
+Wael Mohya,1070979,Mönchengladbach,Attacking Midfield,"              0
+0  Right Winger
+1   Left Winger",31/12/2008 (16),16,1.79,Germany,€1.00m,06/07/2025,30/06/2027,14/10/2025,"['Germany', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/wael-mohya/profil/spieler/1070979,179.0
+Robin Hack,284010,Mönchengladbach,Left Winger,"                    0
+0  Attacking Midfield
+1        Right Winger",27/08/1998 (27),27,1.78,Germany,€12.00m,01/07/2023,30/06/2029,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/robin-hack/profil/spieler/284010,178.0
+Franck Honorat,229006,Mönchengladbach,Right Winger,"                0
+0  Right Midfield
+1     Left Winger",11/08/1996 (29),29,1.8,France,€12.00m,11/07/2023,30/06/2029,05/06/2025,['France'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/franck-honorat/profil/spieler/229006,180.0
+Nathan Ngoumou,629588,Mönchengladbach,Right Winger,"                0
+0     Left Winger
+1  Second Striker",14/03/2000 (25),25,1.85,Cameroon,€4.00m,30/08/2022,30/06/2027,05/06/2025,"['France', 'Cameroon']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nathan-ngoumou/profil/spieler/629588,185.0
+Charles Herrmann,884822,Mönchengladbach,Right Winger,"                0
+0     Left Winger
+1  Right Midfield",21/01/2006 (19),19,1.8,Germany,€1.00m,01/07/2024,30/06/2028,14/10/2025,"['Ghana', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/charles-herrmann/profil/spieler/884822,180.0
+Tim Kleindienst,193033,Mönchengladbach,Centre-Forward,,31/08/1995 (30),30,1.94,Germany,€17.00m,01/07/2024,30/06/2029,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tim-kleindienst/profil/spieler/193033,194.0
+Shuto Machino,550580,Mönchengladbach,Centre-Forward,"                    0
+0  Attacking Midfield
+1         Left Winger",30/09/1999 (26),26,1.85,Japan,€7.00m,26/07/2025,30/06/2029,14/10/2025,['Japan'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/shuto-machino/profil/spieler/550580,185.0
+Haris Tabakovic,203123,Mönchengladbach,Centre-Forward,,20/06/1994 (31),31,1.96,Bosnia-Herzegovina,€2.50m,18/07/2025,30/06/2026,05/06/2025,"['Bosnia-Herzegovina', 'Switzerland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/haris-tabakovic/profil/spieler/203123,196.0
+Grant-Leon Ranos,574201,Mönchengladbach,Centre-Forward,"              0
+0  Right Winger
+1   Left Winger",20/07/2003 (22),22,1.8,Armenia,€1.00m,01/07/2023,30/06/2027,14/10/2025,"['Armenia', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/grant-leon-ranos/profil/spieler/574201,180.0
+Jan Urbich,820723,M'gladbach II,Centre-Forward,,23/06/2004 (21),21,1.88,Germany,€125k,01/07/2025,30/06/2027,11/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jan-urbich/profil/spieler/820723,188.0
+Finn Dahmen,251299,Augsburg,Goalkeeper,,27/03/1998 (27),27,1.86,Germany,€12.00m,01/07/2023,30/06/2027,14/10/2025,"['England', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/finn-dahmen/profil/spieler/251299,186.0
+Nediljko Labrovic,610190,Augsburg,Goalkeeper,,10/10/1999 (26),26,1.96,Croatia,€2.50m,01/07/2024,30/06/2029,05/06/2025,['Croatia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nediljko-labrovic/profil/spieler/610190,196.0
+Daniel Klein,392124,Augsburg,Goalkeeper,,13/03/2001 (24),24,1.93,Germany,€150k,02/07/2021,30/06/2026,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/daniel-klein/profil/spieler/392124,193.0
+Chrislain Matsima,569383,Augsburg,Centre-Back,,15/05/2002 (23),23,1.93,France,€22.00m,01/07/2025,30/06/2029,05/06/2025,"['France', 'Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/chrislain-matsima/profil/spieler/569383,193.0
+Noahkai Banks,923945,Augsburg,Centre-Back,,01/12/2006 (18),18,1.93,United States,€10.00m,10/07/2024,30/06/2029,14/10/2025,"['Germany', 'United States']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/noahkai-banks/profil/spieler/923945,193.0
+Cédric Zesiger,382478,Augsburg,Centre-Back,"           0
+0  Left-Back",24/06/1998 (27),27,1.94,Switzerland,€7.00m,01/07/2025,30/06/2029,05/06/2025,['Switzerland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/cedric-zesiger/profil/spieler/382478,194.0
+Keven Schlotterbeck,413843,Augsburg,Centre-Back,,28/04/1997 (28),28,1.88,Germany,€6.00m,01/07/2024,30/06/2027,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/keven-schlotterbeck/profil/spieler/413843,188.0
+Jeffrey Gouweleeuw,106405,Augsburg,Centre-Back,"                    0
+0  Defensive Midfield",10/07/1991 (34),34,1.88,Netherlands,€1.50m,09/01/2016,30/06/2026,05/06/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jeffrey-gouweleeuw/profil/spieler/106405,188.0
+Maximilian Bauer,388363,Augsburg,Centre-Back,"                    0
+0  Defensive Midfield",09/02/2000 (25),25,1.89,Germany,€1.50m,01/07/2022,30/06/2027,14/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/maximilian-bauer/profil/spieler/388363,189.0
+Felix Meiser,1069641,Augsburg,Centre-Back,"                    0
+0  Defensive Midfield",16/01/2007 (18),18,1.89,Germany,€150k,01/07/2025,30/06/2027,22/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/felix-meiser/profil/spieler/1069641,189.0
+Dimitrios Giannoulis,295630,Augsburg,Left-Back,"               0
+0  Left Midfield",17/10/1995 (30),30,1.78,Greece,€3.00m,23/07/2024,30/06/2028,05/06/2025,['Greece'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dimitrios-giannoulis/profil/spieler/295630,178.0
+Mads Pedersen,288429,Augsburg,Left-Back,"               0
+0  Left Midfield",01/09/1996 (29),29,1.78,Denmark,€2.00m,01/07/2019,30/06/2027,05/06/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mads-pedersen/profil/spieler/288429,178.0
+Oliver Sorg,960444,Augsburg,Left-Back,,31/07/2007 (18),18,1.76,Austria,€400k,01/07/2025,30/06/2027,30/05/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/oliver-sorg/profil/spieler/960444,176.0
+Marius Wolf,193900,Augsburg,Right-Back,"                0
+0  Right Midfield",27/05/1995 (30),30,1.88,Germany,€3.00m,08/08/2024,30/06/2027,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marius-wolf/profil/spieler/193900,188.0
+Kristijan Jakic,374954,Augsburg,Defensive Midfield,"             0
+0  Centre-Back
+1   Right-Back",14/05/1997 (28),28,1.84,Croatia,€6.50m,01/07/2024,30/06/2028,05/06/2025,['Croatia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kristijan-jakic/profil/spieler/374954,184.0
+Robin Fellhauer,264960,Augsburg,Defensive Midfield,"             0
+0   Right-Back
+1  Centre-Back",21/01/1998 (27),27,1.82,Germany,€2.50m,01/07/2025,30/06/2029,14/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/robin-fellhauer/profil/spieler/264960,182.0
+Mahmut Kücüksahin,730486,Augsburg,Defensive Midfield,"             0
+0  Centre-Back",07/04/2004 (21),21,1.82,Türkiye,€175k,17/07/2024,30/06/2027,05/06/2025,"['Türkiye', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mahmut-kucuksahin/profil/spieler/730486,182.0
+Han-Noah Massengo,536508,Augsburg,Central Midfield,"                    0
+0  Defensive Midfield",07/07/2001 (24),24,1.78,France,€5.00m,15/07/2025,30/06/2030,03/06/2025,"['France', 'Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/han-noah-massengo/profil/spieler/536508,178.0
+Elvis Rexhbecaj,280575,Augsburg,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",01/11/1997 (28),28,1.82,Kosovo,€3.50m,27/07/2022,30/06/2026,05/06/2025,"['Yugoslavia (Republic)', 'Germany', 'Kosovo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/elvis-rexhbecaj/profil/spieler/280575,182.0
+Arne Maier,296397,Augsburg,Central Midfield,"                    0
+0  Defensive Midfield
+1      Right Midfield",08/01/1999 (26),26,1.86,Germany,€3.00m,01/07/2022,30/06/2026,14/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/arne-maier/profil/spieler/296397,186.0
+Anton Kade,654234,Augsburg,Right Midfield,"             0
+0  Left Winger
+1   Right-Back",17/01/2004 (21),21,1.85,Germany,€5.00m,25/08/2025,30/06/2029,10/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/anton-kade/profil/spieler/654234,185.0
+Alexis Claude-Maurice,384593,Augsburg,Attacking Midfield,"                  0
+0  Central Midfield
+1     Left Midfield",06/06/1998 (27),27,1.76,France,€15.00m,30/08/2024,30/06/2027,14/10/2025,"['France', 'Guadeloupe']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alexis-claude-maurice/profil/spieler/384593,176.0
+Mert Kömür,777005,Augsburg,Attacking Midfield,"                  0
+0  Central Midfield
+1    Centre-Forward",17/07/2005 (20),20,1.83,Germany,€12.00m,01/07/2023,30/06/2029,14/10/2025,"['Türkiye', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mert-komur/profil/spieler/777005,183.0
+Fabian Rieder,507341,Augsburg,Attacking Midfield,"                  0
+0      Right Winger
+1  Central Midfield",16/02/2002 (23),23,1.79,Switzerland,€6.00m,01/09/2025,30/06/2030,05/06/2025,['Switzerland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/fabian-rieder/profil/spieler/507341,179.0
+Ismaël Gharbi,810096,Augsburg,Left Winger,"                    0
+0  Attacking Midfield
+1        Right Winger",10/04/2004 (21),21,1.73,Tunisia,€7.50m,01/09/2025,30/06/2026,30/05/2025,"['France', 'Spain', 'Tunisia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ismael-gharbi/profil/spieler/810096,173.0
+Elias Saad,526466,Augsburg,Left Winger,"              0
+0  Right Winger",27/12/1999 (25),25,1.85,Tunisia,€4.00m,01/07/2025,30/06/2029,05/06/2025,"['Germany', 'Tunisia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/elias-saad/profil/spieler/526466,185.0
+Aiman Dardari,904723,Augsburg,Left Winger,"                    0
+0  Attacking Midfield
+1        Right Winger",21/03/2005 (20),20,1.78,Luxembourg,€500k,13/08/2025,30/06/2029,14/10/2025,"['Morocco', 'Luxembourg']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/aiman-dardari/profil/spieler/904723,178.0
+Phillip Tietz,288340,Augsburg,Centre-Forward,,09/07/1997 (28),28,1.9,Germany,€5.00m,12/07/2023,30/06/2027,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/phillip-tietz/profil/spieler/288340,190.0
+Samuel Essende,395522,Augsburg,Centre-Forward,,23/01/1998 (27),27,1.93,DR Congo,€4.50m,01/07/2024,30/06/2028,05/06/2025,"['France', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/samuel-essende/profil/spieler/395522,193.0
+Frederik Rönnow,107775,Union Berlin,Goalkeeper,,04/08/1992 (33),33,1.88,Denmark,€3.00m,20/07/2021,-,05/06/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/frederik-ronnow/profil/spieler/107775,188.0
+Matheo Raab,386685,Union Berlin,Goalkeeper,,18/12/1998 (26),26,1.86,Germany,€600k,11/07/2025,-,19/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/matheo-raab/profil/spieler/386685,186.0
+Carl Klaus,161057,Union Berlin,Goalkeeper,,16/01/1994 (31),31,1.89,Germany,€350k,28/07/2024,-,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/carl-klaus/profil/spieler/161057,189.0
+Leopold Querfeld,597432,Union Berlin,Centre-Back,,20/12/2003 (21),21,1.9,Austria,€15.00m,01/07/2024,-,14/10/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/leopold-querfeld/profil/spieler/597432,190.0
+Danilho Doekhi,387047,Union Berlin,Centre-Back,,30/06/1998 (27),27,1.9,Netherlands,€13.00m,01/07/2022,30/06/2026,05/06/2025,"['Netherlands', 'Suriname']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/danilho-doekhi/profil/spieler/387047,190.0
+Diogo Leite,357156,Union Berlin,Centre-Back,"           0
+0  Left-Back",23/01/1999 (26),26,1.9,Portugal,€12.00m,01/07/2023,30/06/2026,14/10/2025,['Portugal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/diogo-leite/profil/spieler/357156,190.0
+Stanley Nsoki,371141,Union Berlin,Centre-Back,"           0
+0  Left-Back",09/04/1999 (26),26,1.84,France,€2.50m,24/07/2025,30/06/2026,05/06/2025,"['France', 'DR Congo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/stanley-nsoki/profil/spieler/371141,184.0
+Oluwaseun Ogbemudia,995520,Union Berlin,Centre-Back,"                    0
+0  Defensive Midfield",18/07/2006 (19),19,1.88,Germany,,01/07/2025,30/06/2028,,"['Germany', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/oluwaseun-ogbemudia/profil/spieler/995520,188.0
+Tom Rothe,798043,Union Berlin,Left-Back,"               0
+0  Left Midfield
+1    Centre-Back",29/10/2004 (21),21,1.93,Germany,€10.00m,07/08/2024,-,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tom-rothe/profil/spieler/798043,193.0
+Derrick Köhn,391780,Union Berlin,Left-Back,"               0
+0  Left Midfield",04/02/1999 (26),26,1.8,Ghana,€5.00m,19/08/2025,30/06/2029,05/06/2025,"['Ghana', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/derrick-kohn/profil/spieler/391780,180.0
+Andrik Markgraf,1027870,Union Berlin,Left-Back,"               0
+0  Left Midfield",07/03/2006 (19),19,1.72,Germany,,01/07/2025,-,,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/andrik-markgraf/profil/spieler/1027870,172.0
+Josip Juranovic,362977,Union Berlin,Right-Back,"                0
+0  Right Midfield
+1       Left-Back",16/08/1995 (30),30,1.73,Croatia,€3.00m,22/01/2023,-,14/10/2025,['Croatia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/josip-juranovic/profil/spieler/362977,173.0
+Christopher Trimmel,75921,Union Berlin,Right-Back,"                0
+0  Right Midfield
+1     Centre-Back",24/02/1987 (38),38,1.89,Austria,€600k,01/07/2014,30/06/2026,05/06/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/christopher-trimmel/profil/spieler/75921,189.0
+Aljoscha Kemlein,692737,Union Berlin,Defensive Midfield,"                  0
+0  Central Midfield
+1    Right Midfield",02/08/2004 (21),21,1.87,Germany,€7.00m,01/07/2023,-,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/aljoscha-kemlein/profil/spieler/692737,187.0
+Rani Khedira,124410,Union Berlin,Defensive Midfield,"                  0
+0  Central Midfield
+1       Centre-Back",27/01/1994 (31),31,1.89,Germany,€2.50m,01/07/2021,30/06/2026,05/06/2025,"['Germany', 'Tunisia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rani-khedira/profil/spieler/124410,189.0
+András Schäfer,454863,Union Berlin,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",13/04/1999 (26),26,1.78,Hungary,€5.00m,21/01/2022,30/06/2027,05/06/2025,['Hungary'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/andras-schafer/profil/spieler/454863,178.0
+Alex Král,337333,Union Berlin,Central Midfield,"                    0
+0  Attacking Midfield",19/05/1998 (27),27,1.86,Czech Republic,€5.00m,01/07/2024,-,14/10/2025,"['Slovakia', 'Czech Republic']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alex-kral/profil/spieler/337333,186.0
+Janik Haberer,177779,Union Berlin,Central Midfield,"                    0
+0      Right Midfield
+1  Attacking Midfield",02/04/1994 (31),31,1.87,Germany,€2.50m,01/07/2022,30/06/2027,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/janik-haberer/profil/spieler/177779,187.0
+Robert Skov,270393,Union Berlin,Left Midfield,"              0
+0     Left-Back
+1  Right Winger",20/05/1996 (29),29,1.85,Denmark,€4.00m,04/09/2024,-,05/06/2025,"['Spain', 'Denmark']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/robert-skov/profil/spieler/270393,185.0
+Woo-yeong Jeong,297583,Union Berlin,Attacking Midfield,"              0
+0  Right Winger
+1   Left Winger",20/09/1999 (26),26,1.79,"Korea, South",€4.00m,01/07/2025,-,05/06/2025,"['Korea, South']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/woo-yeong-jeong/profil/spieler/297583,179.0
+Livan Burcu,519872,Union Berlin,Left Winger,"                    0
+0  Attacking Midfield
+1        Right Winger",28/09/2004 (21),21,1.8,Türkiye,€4.00m,20/07/2024,-,19/06/2025,"['Türkiye', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/livan-burcu/profil/spieler/519872,180.0
+David Preu,745075,Union Berlin,Left Winger,"            0
+0   Left-Back
+1  Right-Back",26/10/2004 (21),21,1.72,Germany,€400k,01/07/2023,-,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/david-preu/profil/spieler/745075,172.0
+Ilyas Ansah,1035765,Union Berlin,Centre-Forward,"                    0
+0         Left Winger
+1  Attacking Midfield",08/11/2004 (21),21,1.97,Germany,€10.00m,01/07/2025,-,14/10/2025,"['Ghana', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ilyas-ansah/profil/spieler/1035765,197.0
+Andrej Ilic,583699,Union Berlin,Centre-Forward,"              0
+0  Right Winger",03/04/2000 (25),25,1.89,Serbia,€6.00m,01/07/2025,30/06/2027,14/10/2025,"['Yugoslavia (Republic)', 'Serbia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/andrej-ilic/profil/spieler/583699,189.0
+Oliver Burke,341317,Union Berlin,Centre-Forward,"                0
+0    Right Winger
+1  Second Striker",07/04/1997 (28),28,1.88,Scotland,€4.00m,01/07/2025,30/06/2029,14/10/2025,['Scotland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/oliver-burke/profil/spieler/341317,188.0
+Marin Ljubicic,838236,Union Berlin,Centre-Forward,"              0
+0  Right Winger",28/02/2002 (23),23,1.83,Croatia,€3.00m,02/02/2025,-,14/10/2025,['Croatia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marin-ljubicic/profil/spieler/838236,183.0
+Tim Skarke,287920,Union Berlin,Centre-Forward,"              0
+0  Right Winger
+1   Left Winger",07/09/1996 (29),29,1.81,Germany,€2.00m,01/07/2022,-,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tim-skarke/profil/spieler/287920,181.0
+Dmytro Bogdanov,1045446,Union Berlin,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",06/03/2007 (18),18,1.88,Ukraine,€250k,13/08/2025,30/06/2029,11/06/2025,['Ukraine'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dmytro-bogdanov/profil/spieler/1045446,188.0
+Daniel Peretz,468539,Hamburg,Goalkeeper,,10/07/2000 (25),25,1.9,Israel,€2.00m,21/07/2025,30/06/2026,14/10/2025,"['Israel', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/daniel-peretz/profil/spieler/468539,190.0
+Daniel Heuer Fernandes,84993,Hamburg,Goalkeeper,,13/11/1992 (33),33,1.88,Portugal,€1.20m,01/07/2019,30/06/2026,14/10/2025,"['Germany', 'Portugal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/daniel-heuer-fernandes/profil/spieler/84993,188.0
+Hannes Hermann,894692,Hamburg,Goalkeeper,,23/03/2005 (20),20,1.91,Germany,€150k,01/07/2024,30/06/2027,19/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/hannes-hermann/profil/spieler/894692,191.0
+Fernando Dickes,1048715,Hamburg,Goalkeeper,,13/10/2007 (18),18,1.93,Germany,,01/07/2025,30/06/2028,,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/fernando-dickes/profil/spieler/1048715,193.0
+Luka Vuskovic,892160,Hamburg,Centre-Back,,24/02/2007 (18),18,1.93,Croatia,€18.00m,29/08/2025,30/06/2026,14/10/2025,['Croatia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luka-vuskovic/profil/spieler/892160,193.0
+Jordan Torunarigha,227110,Hamburg,Centre-Back,"           0
+0  Left-Back",07/08/1997 (28),28,1.91,Nigeria,€4.00m,01/07/2025,30/06/2028,12/06/2025,"['Germany', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jordan-torunarigha/profil/spieler/227110,191.0
+Daniel Elfadli,529895,Hamburg,Centre-Back,"                    0
+0  Defensive Midfield
+1    Central Midfield",06/04/1997 (28),28,1.88,Libya,€3.50m,01/07/2024,30/06/2028,19/06/2025,"['Libya', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/daniel-elfadli/profil/spieler/529895,188.0
+Warmed Omari,711996,Hamburg,Centre-Back,,23/04/2000 (25),25,1.88,Comoros,€3.00m,07/08/2025,30/06/2026,03/06/2025,"['France', 'Mayotte', 'Comoros']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/warmed-omari/profil/spieler/711996,188.0
+Aboubaka Soumahoro,1052420,Hamburg,Centre-Back,"                    0
+0           Left-Back
+1  Defensive Midfield",04/02/2005 (20),20,1.87,France,€1.80m,03/02/2025,30/06/2029,19/06/2025,"['France', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/aboubaka-soumahoro/profil/spieler/1052420,187.0
+Gui Ramos,340521,Hamburg,Centre-Back,"            0
+0  Right-Back",11/08/1997 (28),28,1.91,Portugal,€700k,01/07/2023,30/06/2026,30/05/2025,['Portugal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/gui-ramos/profil/spieler/340521,191.0
+Miro Muheim,298603,Hamburg,Left-Back,"               0
+0  Left Midfield
+1    Centre-Back",24/03/1998 (27),27,1.82,Switzerland,€4.00m,01/07/2022,30/06/2027,19/06/2025,['Switzerland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/miro-muheim/profil/spieler/298603,182.0
+Noah Katterbach,469949,Hamburg,Left-Back,"                0
+0   Left Midfield
+1  Right Midfield",13/04/2001 (24),24,1.8,Germany,€600k,31/01/2024,30/06/2027,19/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/noah-katterbach/profil/spieler/469949,180.0
+Giorgi Gocholeishvili,540056,Hamburg,Right-Back,"                0
+0  Right Midfield",14/02/2001 (24),24,1.78,Georgia,€3.50m,07/08/2025,30/06/2026,14/10/2025,['Georgia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/giorgi-gocholeishvili/profil/spieler/540056,178.0
+William Mikelbrencis,743500,Hamburg,Right-Back,"                0
+0  Right Midfield
+1   Left Midfield",25/02/2004 (21),21,1.82,France,€2.00m,31/08/2022,30/06/2026,19/06/2025,['France'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/william-mikelbrencis/profil/spieler/743500,182.0
+Silvan Hefti,237666,Hamburg,Right-Back,"                0
+0     Centre-Back
+1  Right Midfield",25/10/1997 (28),28,1.83,Switzerland,€1.00m,04/08/2024,30/06/2028,19/06/2025,['Switzerland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/silvan-hefti/profil/spieler/237666,183.0
+Nicolai Remberg,592534,Hamburg,Defensive Midfield,"                  0
+0  Central Midfield",19/06/2000 (25),25,1.88,Germany,€4.00m,01/07/2025,30/06/2028,14/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nicolai-remberg/profil/spieler/592534,188.0
+Jonas Meffert,107574,Hamburg,Defensive Midfield,"                  0
+0  Central Midfield",04/09/1994 (31),31,1.86,Germany,€1.00m,01/07/2021,30/06/2026,19/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jonas-meffert/profil/spieler/107574,186.0
+Albert Sambi Lokonga,381967,Hamburg,Central Midfield,"                    0
+0  Defensive Midfield",22/10/1999 (26),26,1.83,Belgium,€6.00m,01/09/2025,30/06/2028,14/10/2025,"['DR Congo', 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/albert-sambi-lokonga/profil/spieler/381967,183.0
+Nicolás Capaldo,649672,Hamburg,Central Midfield,"             0
+0  Centre-Back
+1   Right-Back",14/09/1998 (27),27,1.77,Argentina,€4.00m,10/07/2025,30/06/2028,14/10/2025,"['Italy', 'Argentina']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nicolas-capaldo/profil/spieler/649672,177.0
+Fábio Vieira,537598,Hamburg,Attacking Midfield,"                  0
+0  Central Midfield
+1      Right Winger",30/05/2000 (25),25,1.7,Portugal,€18.00m,01/09/2025,30/06/2026,14/10/2025,['Portugal'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/fabio-vieira/profil/spieler/537598,170.0
+Immanuel Pherai,412935,Hamburg,Attacking Midfield,"                  0
+0  Central Midfield
+1       Left Winger",25/04/2001 (24),24,1.75,Suriname,€1.80m,01/07/2023,30/06/2027,14/10/2025,"['Netherlands', 'Suriname']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/immanuel-pherai/profil/spieler/412935,175.0
+Jean-Luc Dompé,291222,Hamburg,Left Winger,"               0
+0  Left Midfield
+1   Right Winger",12/08/1995 (30),30,1.7,France,€3.50m,18/08/2022,30/06/2027,19/06/2025,"['France', ""Cote d'Ivoire""]",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jean-luc-dompe/profil/spieler/291222,170.0
+Alexander Røssing-Lelesiit,1213681,Hamburg,Left Winger,"              0
+0  Right Winger",20/01/2007 (18),18,1.84,Norway,€3.50m,03/02/2025,30/06/2029,14/10/2025,['Norway'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alexander-rossing-lelesiit/profil/spieler/1213681,184.0
+Fabio Baldé,910541,Hamburg,Left Winger,"               0
+0   Right Winger
+1  Left Midfield",20/07/2005 (20),20,1.82,Portugal,€2.00m,01/07/2024,30/06/2029,19/06/2025,"['Germany', 'Portugal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/fabio-balde/profil/spieler/910541,182.0
+Rayan Philippe,694507,Hamburg,Right Winger,"                0
+0     Left Winger
+1  Centre-Forward",23/10/2000 (25),25,1.82,France,€4.00m,02/07/2025,30/06/2029,14/10/2025,['France'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rayan-philippe/profil/spieler/694507,182.0
+Emir Sahiti,403177,Hamburg,Right Winger,"             0
+0  Left Winger",29/11/1998 (26),26,1.74,Kosovo,€2.00m,30/08/2024,30/06/2027,19/06/2025,"['Yugoslavia (Republic)', 'Kosovo', 'Albania']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/emir-sahiti/profil/spieler/403177,174.0
+Bakery Jatta,415194,Hamburg,Right Winger,"             0
+0  Left Winger",06/06/1998 (27),27,1.84,The Gambia,€700k,01/07/2016,30/06/2029,14/10/2025,['The Gambia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/bakery-jatta/profil/spieler/415194,184.0
+Ransford Königsdörffer,470038,Hamburg,Centre-Forward,"              0
+0  Right Winger
+1   Left Winger",13/09/2001 (24),24,1.82,Ghana,€6.00m,01/07/2022,30/06/2026,19/06/2025,"['Ghana', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ransford-konigsdorffer/profil/spieler/470038,182.0
+Yussuf Poulsen,157635,Hamburg,Centre-Forward,"                0
+0    Right Winger
+1  Second Striker",15/06/1994 (31),31,1.92,Denmark,€2.50m,13/07/2025,30/06/2027,14/10/2025,"['Denmark', 'Tanzania']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yussuf-poulsen/profil/spieler/157635,192.0
+Robert Glatzel,196139,Hamburg,Centre-Forward,,08/01/1994 (31),31,1.93,Germany,€2.00m,01/07/2021,30/06/2027,14/10/2025,"['Germany', 'Eritrea']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/robert-glatzel/profil/spieler/196139,193.0
+Marvin Schwäbe,160929,1.FC Köln,Goalkeeper,,25/04/1995 (30),30,1.9,Germany,€3.00m,01/07/2021,30/06/2027,14/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marvin-schwabe/profil/spieler/160929,190.0
+Ron-Robert Zieler,21327,1.FC Köln,Goalkeeper,,12/02/1989 (36),36,1.88,Germany,€500k,07/07/2025,30/06/2027,19/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ron-robert-zieler/profil/spieler/21327,188.0
+Matthias Köbbing,227089,1.FC Köln,Goalkeeper,,28/05/1997 (28),28,1.96,Germany,€100k,01/01/2022,30/06/2027,19/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/matthias-kobbing/profil/spieler/227089,196.0
+Rav van den Berg,640556,1.FC Köln,Centre-Back,"            0
+0  Right-Back",07/07/2004 (21),21,1.91,Netherlands,€8.00m,13/08/2025,30/06/2030,14/10/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/rav-van-den-berg/profil/spieler/640556,191.0
+Joël Schmied,322517,1.FC Köln,Centre-Back,"                    0
+0  Defensive Midfield",23/09/1998 (27),27,1.88,Switzerland,€3.50m,13/01/2025,30/06/2029,14/10/2025,['Switzerland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/joel-schmied/profil/spieler/322517,188.0
+Timo Hübers,236981,1.FC Köln,Centre-Back,,20/07/1996 (29),29,1.9,Germany,€3.00m,01/07/2021,30/06/2026,19/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/timo-hubers/profil/spieler/236981,190.0
+Cenk Özkacar,615350,1.FC Köln,Centre-Back,"           0
+0  Left-Back",06/10/2000 (25),25,1.9,Türkiye,€1.20m,09/08/2025,30/06/2026,09/06/2025,['Türkiye'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/cenk-ozkacar/profil/spieler/615350,190.0
+Dominique Heintz,110036,1.FC Köln,Centre-Back,"           0
+0  Left-Back",15/08/1993 (32),32,1.88,Germany,€800k,31/08/2023,30/06/2026,19/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/dominique-heintz/profil/spieler/110036,188.0
+Neo Telle,917792,1.FC Köln,Centre-Back,"                    0
+0  Defensive Midfield",24/04/2005 (20),20,1.83,Germany,€300k,01/01/2025,30/06/2026,19/06/2025,"['Cameroon', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/neo-telle/profil/spieler/917792,183.0
+Luca Kilian,384553,1.FC Köln,Centre-Back,"                    0
+0  Defensive Midfield",01/09/1999 (26),26,1.92,Germany,€100k,01/07/2022,30/06/2026,14/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luca-kilian/profil/spieler/384553,192.0
+Kristoffer Lund,623773,1.FC Köln,Left-Back,"               0
+0  Left Midfield",14/05/2002 (23),23,1.84,United States,€2.70m,05/08/2025,30/06/2026,02/06/2025,"['Denmark', 'United States']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kristoffer-lund/profil/spieler/623773,184.0
+Sebastian Sebulonsen,592387,1.FC Köln,Right-Back,"                0
+0  Right Midfield",27/01/2000 (25),25,1.87,Norway,€4.00m,18/07/2025,30/06/2028,14/10/2025,['Norway'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sebastian-sebulonsen/profil/spieler/592387,187.0
+Jusuf Gazibegovic,393745,1.FC Köln,Right-Back,"                0
+0       Left-Back
+1  Right Midfield",11/03/2000 (25),25,1.74,Bosnia-Herzegovina,€3.00m,01/01/2025,30/06/2028,14/10/2025,"['Bosnia-Herzegovina', 'Austria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jusuf-gazibegovic/profil/spieler/393745,174.0
+Eric Martel,597000,1.FC Köln,Defensive Midfield,"             0
+0  Centre-Back",29/04/2002 (23),23,1.88,Germany,€8.00m,01/07/2022,30/06/2026,14/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/eric-martel/profil/spieler/597000,188.0
+Fayssal Harchaoui,890532,1.FC Köln,Defensive Midfield,"                  0
+0       Centre-Back
+1  Central Midfield",15/01/2006 (19),19,1.75,Germany,€200k,01/07/2024,30/06/2028,14/10/2025,"['Germany', 'Morocco']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/fayssal-harchaoui/profil/spieler/890532,175.0
+Ísak Jóhannesson,579565,1.FC Köln,Central Midfield,"                    0
+0  Attacking Midfield
+1  Defensive Midfield",23/03/2003 (22),22,1.84,Iceland,€10.00m,01/07/2025,30/06/2030,14/10/2025,"['England', 'Iceland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/isak-johannesson/profil/spieler/579565,184.0
+Tom Krauß,405687,1.FC Köln,Central Midfield,"                    0
+0  Defensive Midfield",22/06/2001 (24),24,1.82,Germany,€4.00m,05/07/2025,30/06/2026,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tom-krauss/profil/spieler/405687,182.0
+Denis Huseinbasic,678479,1.FC Köln,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",03/07/2001 (24),24,1.84,Bosnia-Herzegovina,€2.80m,01/07/2022,30/06/2027,19/06/2025,"['Bosnia-Herzegovina', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/denis-huseinbasic/profil/spieler/678479,184.0
+Emin Kujovic,795724,1.FC Köln,Central Midfield,"                    0
+0  Defensive Midfield",29/09/2004 (21),21,1.9,Bosnia-Herzegovina,€125k,04/07/2025,30/06/2028,23/06/2025,"['Bosnia-Herzegovina', 'Montenegro', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/emin-kujovic/profil/spieler/795724,190.0
+Alessio Castro-Montes,340166,1.FC Köln,Right Midfield,"               0
+0  Left Midfield
+1     Right-Back",17/05/1997 (28),28,1.75,Belgium,€3.50m,01/09/2025,30/06/2028,14/10/2025,"['Spain', 'Belgium']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/alessio-castro-montes/profil/spieler/340166,175.0
+Florian Kainz,106270,1.FC Köln,Attacking Midfield,"              0
+0   Left Winger
+1  Right Winger",24/10/1992 (33),33,1.76,Austria,€1.70m,18/01/2019,30/06/2026,19/06/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/florian-kainz/profil/spieler/106270,176.0
+Said El Mala,1168219,1.FC Köln,Left Winger,"                    0
+0  Attacking Midfield
+1        Right Winger",26/08/2006 (19),19,1.87,Germany,€18.00m,01/07/2024,30/06/2030,14/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/said-el-mala/profil/spieler/1168219,187.0
+Jakub Kamiński,407098,1.FC Köln,Left Winger,"               0
+0   Right Winger
+1  Left Midfield",05/06/2002 (23),23,1.79,Poland,€7.00m,04/07/2025,30/06/2026,14/10/2025,['Poland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jakub-kaminski/profil/spieler/407098,179.0
+Linton Maina,335103,1.FC Köln,Left Winger,"                    0
+0        Right Winger
+1  Attacking Midfield",23/06/1999 (26),26,1.8,Germany,€4.00m,01/07/2022,-,19/06/2025,"['Germany', 'Kenya']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/linton-maina/profil/spieler/335103,180.0
+Marius Bülter,116088,1.FC Köln,Left Winger,"                0
+0  Second Striker
+1  Centre-Forward",29/03/1993 (32),32,1.88,Germany,€2.50m,31/07/2025,30/06/2027,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marius-bulter/profil/spieler/116088,188.0
+Jan Thielmann,472249,1.FC Köln,Right Winger,"                0
+0  Right Midfield
+1      Right-Back",26/05/2002 (23),23,1.78,Germany,€5.00m,17/01/2020,30/06/2028,14/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jan-thielmann/profil/spieler/472249,178.0
+Ragnar Ache,416380,1.FC Köln,Centre-Forward,"             0
+0  Left Winger",28/07/1998 (27),27,1.83,Germany,€7.00m,01/07/2025,30/06/2029,19/06/2025,"['Ghana', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ragnar-ache/profil/spieler/416380,183.0
+Luca Waldschmidt,196095,1.FC Köln,Centre-Forward,"                0
+0  Second Striker
+1    Right Winger",19/05/1996 (29),29,1.81,Germany,€2.00m,01/07/2024,30/06/2027,19/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luca-waldschmidt/profil/spieler/196095,181.0
+Malek El Mala,1168222,1.FC Köln,Centre-Forward,,02/04/2005 (20),20,1.94,Germany,€250k,01/07/2024,30/06/2030,11/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/malek-el-mala/profil/spieler/1168222,194.0
+Nikola Vasilj,248454,St. Pauli,Goalkeeper,,02/12/1995 (29),29,1.93,Bosnia-Herzegovina,€4.50m,01/07/2021,-,14/10/2025,"['Bosnia-Herzegovina', 'Croatia']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nikola-vasilj/profil/spieler/248454,193.0
+Ben Voll,453742,St. Pauli,Goalkeeper,,09/12/2000 (24),24,1.95,Germany,€500k,01/07/2024,-,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ben-voll/profil/spieler/453742,195.0
+Simon Spari,527597,St. Pauli,Goalkeeper,,16/06/2002 (23),23,1.96,Austria,€350k,01/07/2025,-,06/06/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/simon-spari/profil/spieler/527597,196.0
+Eric Smith,292534,St. Pauli,Centre-Back,"                    0
+0  Defensive Midfield
+1    Central Midfield",08/01/1997 (28),28,1.92,Sweden,€6.00m,01/07/2021,-,14/10/2025,['Sweden'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/eric-smith/profil/spieler/292534,192.0
+David Nemeth,451906,St. Pauli,Centre-Back,,18/03/2001 (24),24,1.91,Austria,€4.00m,01/07/2022,-,05/06/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/david-nemeth/profil/spieler/451906,191.0
+Hauke Wahl,154147,St. Pauli,Centre-Back,"                    0
+0  Defensive Midfield",15/04/1994 (31),31,1.89,Germany,€1.50m,01/07/2023,-,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/hauke-wahl/profil/spieler/154147,189.0
+Karol Mets,139304,St. Pauli,Centre-Back,"                    0
+0  Defensive Midfield",16/05/1993 (32),32,1.91,Estonia,€900k,01/07/2023,30/06/2026,14/10/2025,['Estonia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/karol-mets/profil/spieler/139304,191.0
+Adam Dzwigala,236966,St. Pauli,Centre-Back,"                    0
+0  Defensive Midfield
+1          Right-Back",25/09/1995 (30),30,1.85,Poland,€900k,17/12/2020,-,14/10/2025,['Poland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adam-dzwigala/profil/spieler/236966,185.0
+Jannik Robatsch,909860,St. Pauli,Centre-Back,"                    0
+0  Defensive Midfield
+1           Left-Back",28/12/2004 (20),20,1.9,Austria,€600k,01/07/2025,-,06/06/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jannik-robatsch/profil/spieler/909860,190.0
+Louis Oppie,605265,St. Pauli,Left-Back,"               0
+0  Left Midfield
+1    Centre-Back",17/05/2002 (23),23,1.84,Germany,€3.00m,11/07/2025,-,14/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/louis-oppie/profil/spieler/605265,184.0
+Lars Ritzka,333903,St. Pauli,Left-Back,"               0
+0    Centre-Back
+1  Left Midfield",07/05/1998 (27),27,1.85,Germany,€1.00m,01/07/2021,-,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/lars-ritzka/profil/spieler/333903,185.0
+Manolis Saliakas,242661,St. Pauli,Right-Back,"                0
+0  Right Midfield",12/09/1996 (29),29,1.77,Greece,€3.00m,01/07/2022,-,05/06/2025,['Greece'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/manolis-saliakas/profil/spieler/242661,177.0
+Arkadiusz Pyrka,599733,St. Pauli,Right-Back,"                0
+0    Right Winger
+1  Right Midfield",20/09/2002 (23),23,1.77,Poland,€2.00m,01/07/2025,-,06/06/2025,['Poland'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/arkadiusz-pyrka/profil/spieler/599733,177.0
+Fin Stevens,587019,St. Pauli,Right-Back,"                0
+0  Right Midfield",10/04/2003 (22),22,1.79,Wales,€500k,26/07/2024,-,05/06/2025,"['England', 'Wales']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/fin-stevens/profil/spieler/587019,179.0
+James Sands,393321,St. Pauli,Defensive Midfield,"             0
+0  Centre-Back",06/07/2000 (25),25,1.86,United States,€4.00m,01/01/2025,30/06/2026,14/10/2025,['United States'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/james-sands/profil/spieler/393321,186.0
+Marwin Schmitz,1003534,St. Pauli,Defensive Midfield,"             0
+0  Centre-Back
+1    Left-Back",07/01/2007 (18),18,1.8,Germany,€200k,16/01/2025,-,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marwin-schmitz/profil/spieler/1003534,180.0
+Joel Chima Fujita,697277,St. Pauli,Central Midfield,"                    0
+0  Defensive Midfield",16/02/2002 (23),23,1.75,Japan,€6.00m,01/07/2025,-,14/10/2025,"['Japan', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/joel-chima-fujita/profil/spieler/697277,175.0
+Connor Metcalfe,522223,St. Pauli,Central Midfield,"                    0
+0  Attacking Midfield
+1        Right Winger",05/11/1999 (26),26,1.83,Australia,€2.50m,01/07/2022,-,05/06/2025,['Australia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/connor-metcalfe/profil/spieler/522223,183.0
+Jackson Irvine,192557,St. Pauli,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",07/03/1993 (32),32,1.89,Australia,€2.00m,05/07/2021,-,05/06/2025,"['Australia', 'Scotland']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jackson-irvine/profil/spieler/192557,189.0
+Erik Ahlstrand,501049,St. Pauli,Central Midfield,"                    0
+0  Attacking Midfield
+1       Left Midfield",14/10/2001 (24),24,1.84,Sweden,€500k,27/01/2024,-,05/06/2025,['Sweden'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/erik-ahlstrand/profil/spieler/501049,184.0
+Nick Schmidt,1152232,St. Pauli,Central Midfield,"                    0
+0  Defensive Midfield",12/09/2007 (18),18,1.8,Japan,€125k,01/07/2025,-,06/09/2025,"['Japan', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nick-schmidt/profil/spieler/1152232,180.0
+Danel Sinani,346499,St. Pauli,Attacking Midfield,"              0
+0  Right Winger
+1   Left Winger",05/04/1997 (28),28,1.85,Luxembourg,€3.00m,04/07/2023,-,14/10/2025,"['Yugoslavia (Republic)', 'Serbia', 'Luxembourg']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/danel-sinani/profil/spieler/346499,185.0
+Mathias Pereira Lage,424072,St. Pauli,Left Winger,"                    0
+0        Right Winger
+1  Attacking Midfield",30/11/1996 (28),28,1.8,Portugal,€3.50m,01/07/2025,30/06/2028,14/10/2025,"['France', 'Portugal']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mathias-pereira-lage/profil/spieler/424072,180.0
+Romeo Aigbekaen,795387,St. Pauli,Left Winger,"                0
+0    Right Winger
+1  Centre-Forward",22/06/2004 (21),21,1.89,Germany,€100k,29/01/2025,30/06/2028,05/06/2025,"['Germany', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/romeo-aigbekaen/profil/spieler/795387,189.0
+Oladapo Afolayan,487850,St. Pauli,Right Winger,"                0
+0     Left Winger
+1  Centre-Forward",11/09/1997 (28),28,1.8,England,€3.00m,19/01/2023,30/06/2026,14/10/2025,"['England', 'Nigeria']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/oladapo-afolayan/profil/spieler/487850,180.0
+Andréas Hountondji,704155,St. Pauli,Centre-Forward,"              0
+0   Left Winger
+1  Right Winger",11/07/2002 (23),23,1.9,Benin,€5.00m,08/07/2025,30/06/2026,14/10/2025,"['France', 'Benin']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/andreas-hountondji/profil/spieler/704155,190.0
+Martijn Kaars,377729,St. Pauli,Centre-Forward,"                    0
+0        Right Winger
+1  Attacking Midfield",05/03/1999 (26),26,1.83,Netherlands,€4.00m,28/08/2025,-,19/06/2025,['Netherlands'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/martijn-kaars/profil/spieler/377729,183.0
+Ricky-Jade Jones,677935,St. Pauli,Centre-Forward,"             0
+0  Left Winger",08/11/2002 (23),23,1.83,England,€900k,01/07/2025,-,18/06/2025,['England'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/ricky-jade-jones/profil/spieler/677935,183.0
+Abdoulie Ceesay,1280281,St. Pauli,Centre-Forward,,05/01/2004 (21),21,1.85,The Gambia,€500k,03/01/2025,-,05/06/2025,['The Gambia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/abdoulie-ceesay/profil/spieler/1280281,185.0
+Diant Ramaj,448705,Heidenheim,Goalkeeper,,19/09/2001 (24),24,1.89,Germany,€7.00m,28/07/2025,30/06/2026,16/06/2025,"['Germany', 'Kosovo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/diant-ramaj/profil/spieler/448705,189.0
+Frank Feller,806948,Heidenheim,Goalkeeper,,07/01/2004 (21),21,1.83,Germany,€500k,01/07/2023,30/06/2029,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/frank-feller/profil/spieler/806948,183.0
+Kevin Müller,43824,Heidenheim,Goalkeeper,,15/03/1991 (34),34,1.9,Germany,€400k,01/07/2015,30/06/2027,14/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/kevin-muller/profil/spieler/43824,190.0
+Paul Tschernuth,519035,Heidenheim,Goalkeeper,,20/01/2002 (23),23,1.86,Austria,€100k,01/07/2021,30/06/2027,05/06/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/paul-tschernuth/profil/spieler/519035,186.0
+Benedikt Gimber,227084,Heidenheim,Centre-Back,"                    0
+0  Defensive Midfield",19/02/1997 (28),28,1.87,Germany,€3.00m,01/07/2023,30/06/2028,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/benedikt-gimber/profil/spieler/227084,187.0
+Patrick Mainka,133731,Heidenheim,Centre-Back,"                    0
+0  Defensive Midfield",06/11/1994 (31),31,1.94,Germany,€3.00m,01/07/2018,30/06/2029,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/patrick-mainka/profil/spieler/133731,194.0
+Tim Siersleben,337092,Heidenheim,Centre-Back,"                    0
+0  Defensive Midfield",09/03/2000 (25),25,1.87,Germany,€2.00m,01/07/2023,30/06/2028,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/tim-siersleben/profil/spieler/337092,187.0
+Adam Kölle,921431,Heidenheim,Centre-Back,,28/04/2006 (19),19,1.95,Germany,€800k,01/07/2025,30/06/2029,14/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adam-kolle/profil/spieler/921431,195.0
+Thomas Keller,485747,Heidenheim,Centre-Back,"                    0
+0  Defensive Midfield",05/08/1999 (26),26,1.86,Germany,€500k,01/07/2022,30/06/2028,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/thomas-keller/profil/spieler/485747,186.0
+Jonas Föhrenbach,192169,Heidenheim,Left-Back,"                    0
+0         Centre-Back
+1  Defensive Midfield",26/01/1996 (29),29,1.84,Germany,€1.50m,01/07/2019,30/06/2027,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jonas-fohrenbach/profil/spieler/192169,184.0
+Leart Paçarada,107219,Heidenheim,Left-Back,"               0
+0  Left Midfield",08/10/1994 (31),31,1.84,Kosovo,€1.50m,28/08/2025,30/06/2027,19/06/2025,"['Germany', 'Kosovo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/leart-pacarada/profil/spieler/107219,184.0
+Omar Traoré,388294,Heidenheim,Right-Back,"                0
+0  Right Midfield
+1       Left-Back",04/02/1998 (27),27,1.87,Germany,€4.00m,01/07/2023,30/06/2026,05/06/2025,"['Togo', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/omar-traore/profil/spieler/388294,187.0
+Marnon Busch,117478,Heidenheim,Right-Back,"                0
+0  Right Midfield",08/12/1994 (30),30,1.82,Germany,€1.20m,01/07/2017,30/06/2027,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marnon-busch/profil/spieler/117478,182.0
+Niklas Dorsch,251302,Heidenheim,Defensive Midfield,"                  0
+0  Central Midfield",15/01/1998 (27),27,1.78,Germany,€3.50m,30/08/2024,30/06/2028,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/niklas-dorsch/profil/spieler/251302,178.0
+Julian Niehues,530173,Heidenheim,Defensive Midfield,"             0
+0  Centre-Back",17/04/2001 (24),24,1.95,Germany,€1.50m,01/07/2024,30/06/2027,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/julian-niehues/profil/spieler/530173,195.0
+Jan Schöppner,581357,Heidenheim,Central Midfield,"                    0
+0  Defensive Midfield",12/06/1999 (26),26,1.9,Germany,€4.00m,05/08/2020,30/06/2028,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/jan-schoppner/profil/spieler/581357,190.0
+Luca Kerber,809498,Heidenheim,Central Midfield,"                    0
+0  Defensive Midfield
+1  Attacking Midfield",10/03/2002 (23),23,1.84,Germany,€2.50m,01/07/2024,30/06/2027,14/10/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/luca-kerber/profil/spieler/809498,184.0
+Nick Rothweiler,1052350,Heidenheim,Central Midfield,"                    0
+0        Right Winger
+1  Defensive Midfield",16/06/2006 (19),19,1.9,Germany,,01/07/2025,30/06/2027,,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/nick-rothweiler/profil/spieler/1052350,190.0
+Arijon Ibrahimovic,744728,Heidenheim,Attacking Midfield,"              0
+0   Left Winger
+1  Right Winger",11/12/2005 (19),19,1.78,Germany,€4.00m,01/07/2025,30/06/2026,17/06/2025,"['Germany', 'Kosovo']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/arijon-ibrahimovic/profil/spieler/744728,178.0
+Adrian Beck,273669,Heidenheim,Attacking Midfield,"                  0
+0  Central Midfield
+1    Centre-Forward",09/06/1997 (28),28,1.86,Germany,€2.00m,01/07/2022,30/06/2028,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/adrian-beck/profil/spieler/273669,186.0
+Mathias Honsak,283497,Heidenheim,Left Winger,"               0
+0      Left-Back
+1  Left Midfield",20/12/1996 (28),28,1.88,Austria,€2.00m,01/07/2024,30/06/2027,05/06/2025,['Austria'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mathias-honsak/profil/spieler/283497,188.0
+Yannik Wagner,1153628,Heidenheim,Left Winger,"                0
+0  Centre-Forward
+1    Right Winger",09/05/2007 (18),18,1.82,Germany,€500k,30/07/2025,30/06/2029,22/09/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/yannik-wagner/profil/spieler/1153628,182.0
+Sirlord Conteh,307183,Heidenheim,Right Winger,"                0
+0  Centre-Forward
+1     Left Winger",09/07/1996 (29),29,1.78,Germany,€1.50m,01/07/2024,30/06/2027,05/06/2025,"['Ghana', 'Germany']",,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/sirlord-conteh/profil/spieler/307183,178.0
+Marvin Pieringer,471055,Heidenheim,Centre-Forward,"                    0
+0  Attacking Midfield
+1         Left Winger",04/10/1999 (26),26,1.91,Germany,€5.50m,03/07/2023,30/06/2027,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/marvin-pieringer/profil/spieler/471055,191.0
+Budu Zivzivadze,187097,Heidenheim,Centre-Forward,,10/03/1994 (31),31,1.89,Georgia,€2.00m,03/01/2025,30/06/2029,05/06/2025,['Georgia'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/budu-zivzivadze/profil/spieler/187097,189.0
+Mikkel Kaufmann,545332,Heidenheim,Centre-Forward,,03/01/2001 (24),24,1.89,Denmark,€1.80m,01/07/2024,30/06/2028,14/10/2025,['Denmark'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/mikkel-kaufmann/profil/spieler/545332,189.0
+Stefan Schimmer,394033,Heidenheim,Centre-Forward,"                0
+0  Second Striker
+1    Right Winger",28/04/1994 (31),31,1.85,Germany,€500k,06/08/2019,30/06/2026,05/06/2025,['Germany'],,,,"Empty DataFrame
+Columns: [Season, Date, Left, Joined, MV, Fee]
+Index: []",https://www.transfermarkt.com/stefan-schimmer/profil/spieler/394033,185.0

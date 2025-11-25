@@ -1,0 +1,521 @@
+﻿club,club_id,player,player_id,market_value_str,market_value_eur,player_url,player_norm,club_norm,season,competition_code
+Bayern Munich,27,Jonas Urbig,607720,€12.00m,12000000.0,https://www.transfermarkt.com/jonas-urbig/profil/spieler/607720,jonas urbig,bayern munich,2025,L1
+Bayern Munich,27,Manuel Neuer,17259,€4.00m,4000000.0,https://www.transfermarkt.com/manuel-neuer/profil/spieler/17259,manuel neuer,bayern munich,2025,L1
+Bayern Munich,27,Sven Ulreich,40680,€500k,500000.0,https://www.transfermarkt.com/sven-ulreich/profil/spieler/40680,sven ulreich,bayern munich,2025,L1
+Bayern Munich,27,Leon Klanac,1009439,€150k,150000.0,https://www.transfermarkt.com/leon-klanac/profil/spieler/1009439,leon klanac,bayern munich,2025,L1
+Bayern Munich,27,Dayot Upamecano,344695,€60.00m,60000000.0,https://www.transfermarkt.com/dayot-upamecano/profil/spieler/344695,dayot upamecano,bayern munich,2025,L1
+Bayern Munich,27,Min-jae Kim,503482,€32.00m,32000000.0,https://www.transfermarkt.com/min-jae-kim/profil/spieler/503482,min-jae kim,bayern munich,2025,L1
+Bayern Munich,27,Jonathan Tah,196357,€30.00m,30000000.0,https://www.transfermarkt.com/jonathan-tah/profil/spieler/196357,jonathan tah,bayern munich,2025,L1
+Bayern Munich,27,Hiroki Ito,353892,€18.00m,18000000.0,https://www.transfermarkt.com/hiroki-ito/profil/spieler/353892,hiroki ito,bayern munich,2025,L1
+Bayern Munich,27,Alphonso Davies,424204,€50.00m,50000000.0,https://www.transfermarkt.com/alphonso-davies/profil/spieler/424204,alphonso davies,bayern munich,2025,L1
+Bayern Munich,27,Raphaël Guerreiro,170986,€8.00m,8000000.0,https://www.transfermarkt.com/raphael-guerreiro/profil/spieler/170986,raphael guerreiro,bayern munich,2025,L1
+Bayern Munich,27,Josip Stanisic,483046,€32.00m,32000000.0,https://www.transfermarkt.com/josip-stanisic/profil/spieler/483046,josip stanisic,bayern munich,2025,L1
+Bayern Munich,27,Konrad Laimer,223967,€25.00m,25000000.0,https://www.transfermarkt.com/konrad-laimer/profil/spieler/223967,konrad laimer,bayern munich,2025,L1
+Bayern Munich,27,Sacha Boey,475413,€18.00m,18000000.0,https://www.transfermarkt.com/sacha-boey/profil/spieler/475413,sacha boey,bayern munich,2025,L1
+Bayern Munich,27,Aleksandar Pavlovic,792380,€55.00m,55000000.0,https://www.transfermarkt.com/aleksandar-pavlovic/profil/spieler/792380,aleksandar pavlovic,bayern munich,2025,L1
+Bayern Munich,27,Joshua Kimmich,161056,€45.00m,45000000.0,https://www.transfermarkt.com/joshua-kimmich/profil/spieler/161056,joshua kimmich,bayern munich,2025,L1
+Bayern Munich,27,Tom Bischof,822959,€30.00m,30000000.0,https://www.transfermarkt.com/tom-bischof/profil/spieler/822959,tom bischof,bayern munich,2025,L1
+Bayern Munich,27,Leon Goretzka,153084,€22.00m,22000000.0,https://www.transfermarkt.com/leon-goretzka/profil/spieler/153084,leon goretzka,bayern munich,2025,L1
+Bayern Munich,27,Jamal Musiala,580195,€140.00m,140000000.0,https://www.transfermarkt.com/jamal-musiala/profil/spieler/580195,jamal musiala,bayern munich,2025,L1
+Bayern Munich,27,Lennart Karl,1075147,€20.00m,20000000.0,https://www.transfermarkt.com/lennart-karl/profil/spieler/1075147,lennart karl,bayern munich,2025,L1
+Bayern Munich,27,Luis Díaz,480692,€70.00m,70000000.0,https://www.transfermarkt.com/luis-diaz/profil/spieler/480692,luis diaz,bayern munich,2025,L1
+Bayern Munich,27,Wisdom Mike,1084539,€3.00m,3000000.0,https://www.transfermarkt.com/wisdom-mike/profil/spieler/1084539,wisdom mike,bayern munich,2025,L1
+Bayern Munich,27,Michael Olise,566723,€130.00m,130000000.0,https://www.transfermarkt.com/michael-olise/profil/spieler/566723,michael olise,bayern munich,2025,L1
+Bayern Munich,27,Serge Gnabry,159471,€22.00m,22000000.0,https://www.transfermarkt.com/serge-gnabry/profil/spieler/159471,serge gnabry,bayern munich,2025,L1
+Bayern Munich,27,Harry Kane,132098,€75.00m,75000000.0,https://www.transfermarkt.com/harry-kane/profil/spieler/132098,harry kane,bayern munich,2025,L1
+Bayern Munich,27,Nicolas Jackson,776890,€50.00m,50000000.0,https://www.transfermarkt.com/nicolas-jackson/profil/spieler/776890,nicolas jackson,bayern munich,2025,L1
+Borussia Dortmund,16,Gregor Kobel,257814,€40.00m,40000000.0,https://www.transfermarkt.com/gregor-kobel/profil/spieler/257814,gregor kobel,borussia dortmund,2025,L1
+Borussia Dortmund,16,Alexander Meyer,76158,€800k,800000.0,https://www.transfermarkt.com/alexander-meyer/profil/spieler/76158,alexander meyer,borussia dortmund,2025,L1
+Borussia Dortmund,16,Patrick Drewes,94192,€500k,500000.0,https://www.transfermarkt.com/patrick-drewes/profil/spieler/94192,patrick drewes,borussia dortmund,2025,L1
+Borussia Dortmund,16,Silas Ostrzinski,684116,€200k,200000.0,https://www.transfermarkt.com/silas-ostrzinski/profil/spieler/684116,silas ostrzinski,borussia dortmund,2025,L1
+Borussia Dortmund,16,Nico Schlotterbeck,388198,€40.00m,40000000.0,https://www.transfermarkt.com/nico-schlotterbeck/profil/spieler/388198,nico schlotterbeck,borussia dortmund,2025,L1
+Borussia Dortmund,16,Waldemar Anton,193004,€18.00m,18000000.0,https://www.transfermarkt.com/waldemar-anton/profil/spieler/193004,waldemar anton,borussia dortmund,2025,L1
+Borussia Dortmund,16,Niklas Süle,166601,€8.00m,8000000.0,https://www.transfermarkt.com/niklas-sule/profil/spieler/166601,niklas sule,borussia dortmund,2025,L1
+Borussia Dortmund,16,Aarón Anselmino,1145504,€8.00m,8000000.0,https://www.transfermarkt.com/aaron-anselmino/profil/spieler/1145504,aaron anselmino,borussia dortmund,2025,L1
+Borussia Dortmund,16,Ramy Bensebaini,284732,€7.00m,7000000.0,https://www.transfermarkt.com/ramy-bensebaini/profil/spieler/284732,ramy bensebaini,borussia dortmund,2025,L1
+Borussia Dortmund,16,Emre Can,119296,€7.00m,7000000.0,https://www.transfermarkt.com/emre-can/profil/spieler/119296,emre can,borussia dortmund,2025,L1
+Borussia Dortmund,16,Filippo Mane,883007,€2.50m,2500000.0,https://www.transfermarkt.com/filippo-mane/profil/spieler/883007,filippo mane,borussia dortmund,2025,L1
+Borussia Dortmund,16,Almugera Kabar,884820,€3.00m,3000000.0,https://www.transfermarkt.com/almugera-kabar/profil/spieler/884820,almugera kabar,borussia dortmund,2025,L1
+Borussia Dortmund,16,Julian Ryerson,370789,€20.00m,20000000.0,https://www.transfermarkt.com/julian-ryerson/profil/spieler/370789,julian ryerson,borussia dortmund,2025,L1
+Borussia Dortmund,16,Salih Özcan,244940,€4.00m,4000000.0,https://www.transfermarkt.com/salih-ozcan/profil/spieler/244940,salih ozcan,borussia dortmund,2025,L1
+Borussia Dortmund,16,Felix Nmecha,406640,€35.00m,35000000.0,https://www.transfermarkt.com/felix-nmecha/profil/spieler/406640,felix nmecha,borussia dortmund,2025,L1
+Borussia Dortmund,16,Jobe Bellingham,796297,€30.00m,30000000.0,https://www.transfermarkt.com/jobe-bellingham/profil/spieler/796297,jobe bellingham,borussia dortmund,2025,L1
+Borussia Dortmund,16,Carney Chukwuemeka,659459,€20.00m,20000000.0,https://www.transfermarkt.com/carney-chukwuemeka/profil/spieler/659459,carney chukwuemeka,borussia dortmund,2025,L1
+Borussia Dortmund,16,Marcel Sabitzer,106987,€8.00m,8000000.0,https://www.transfermarkt.com/marcel-sabitzer/profil/spieler/106987,marcel sabitzer,borussia dortmund,2025,L1
+Borussia Dortmund,16,Pascal Groß,82873,€5.00m,5000000.0,https://www.transfermarkt.com/pascal-gross/profil/spieler/82873,pascal groß,borussia dortmund,2025,L1
+Borussia Dortmund,16,Yan Couto,627228,€20.00m,20000000.0,https://www.transfermarkt.com/yan-couto/profil/spieler/627228,yan couto,borussia dortmund,2025,L1
+Borussia Dortmund,16,Daniel Svensson,579287,€22.00m,22000000.0,https://www.transfermarkt.com/daniel-svensson/profil/spieler/579287,daniel svensson,borussia dortmund,2025,L1
+Borussia Dortmund,16,Julian Brandt,187492,€25.00m,25000000.0,https://www.transfermarkt.com/julian-brandt/profil/spieler/187492,julian brandt,borussia dortmund,2025,L1
+Borussia Dortmund,16,Julien Duranville,819215,€8.50m,8500000.0,https://www.transfermarkt.com/julien-duranville/profil/spieler/819215,julien duranville,borussia dortmund,2025,L1
+Borussia Dortmund,16,Karim Adeyemi,496094,€60.00m,60000000.0,https://www.transfermarkt.com/karim-adeyemi/profil/spieler/496094,karim adeyemi,borussia dortmund,2025,L1
+Borussia Dortmund,16,Cole Campbell,866579,€5.00m,5000000.0,https://www.transfermarkt.com/cole-campbell/profil/spieler/866579,cole campbell,borussia dortmund,2025,L1
+Borussia Dortmund,16,Serhou Guirassy,270541,€45.00m,45000000.0,https://www.transfermarkt.com/serhou-guirassy/profil/spieler/270541,serhou guirassy,borussia dortmund,2025,L1
+Borussia Dortmund,16,Maximilian Beier,578392,€30.00m,30000000.0,https://www.transfermarkt.com/maximilian-beier/profil/spieler/578392,maximilian beier,borussia dortmund,2025,L1
+Borussia Dortmund,16,Fábio Silva,505653,€28.00m,28000000.0,https://www.transfermarkt.com/fabio-silva/profil/spieler/505653,fabio silva,borussia dortmund,2025,L1
+Bayer 04 Leverkusen,15,Mark Flekken,125714,€10.00m,10000000.0,https://www.transfermarkt.com/mark-flekken/profil/spieler/125714,mark flekken,bayer 04 leverkusen,2025,L1
+Bayer 04 Leverkusen,15,Janis Blaswich,81173,€700k,700000.0,https://www.transfermarkt.com/janis-blaswich/profil/spieler/81173,janis blaswich,bayer 04 leverkusen,2025,L1
+Bayer 04 Leverkusen,15,Niklas Lomb,85543,€250k,250000.0,https://www.transfermarkt.com/niklas-lomb/profil/spieler/85543,niklas lomb,bayer 04 leverkusen,2025,L1
+Bayer 04 Leverkusen,15,Jarell Quansah,632349,€35.00m,35000000.0,https://www.transfermarkt.com/jarell-quansah/profil/spieler/632349,jarell quansah,bayer 04 leverkusen,2025,L1
+Bayer 04 Leverkusen,15,Edmond Tapsoba,564545,€35.00m,35000000.0,https://www.transfermarkt.com/edmond-tapsoba/profil/spieler/564545,edmond tapsoba,bayer 04 leverkusen,2025,L1
+Bayer 04 Leverkusen,15,Loïc Badé,730581,€25.00m,25000000.0,https://www.transfermarkt.com/loic-bade/profil/spieler/730581,loic bade,bayer 04 leverkusen,2025,L1
+Bayer 04 Leverkusen,15,Jeanuël Belocian,919515,€12.00m,12000000.0,https://www.transfermarkt.com/jeanuel-belocian/profil/spieler/919515,jeanuel belocian,bayer 04 leverkusen,2025,L1
+Bayer 04 Leverkusen,15,Axel Tape,1077670,€8.00m,8000000.0,https://www.transfermarkt.com/axel-tape/profil/spieler/1077670,axel tape,bayer 04 leverkusen,2025,L1
+Bayer 04 Leverkusen,15,Alejandro Grimaldo,193082,€30.00m,30000000.0,https://www.transfermarkt.com/alejandro-grimaldo/profil/spieler/193082,alejandro grimaldo,bayer 04 leverkusen,2025,L1
+Bayer 04 Leverkusen,15,Arthur,977464,€7.00m,7000000.0,https://www.transfermarkt.com/arthur/profil/spieler/977464,arthur,bayer 04 leverkusen,2025,L1
+Bayer 04 Leverkusen,15,Lucas Vázquez,221316,€3.00m,3000000.0,https://www.transfermarkt.com/lucas-vazquez/profil/spieler/221316,lucas vazquez,bayer 04 leverkusen,2025,L1
+Bayer 04 Leverkusen,15,Equi Fernández,664708,€25.00m,25000000.0,https://www.transfermarkt.com/equi-fernandez/profil/spieler/664708,equi fernandez,bayer 04 leverkusen,2025,L1
+Bayer 04 Leverkusen,15,Robert Andrich,159088,€9.00m,9000000.0,https://www.transfermarkt.com/robert-andrich/profil/spieler/159088,robert andrich,bayer 04 leverkusen,2025,L1
+Bayer 04 Leverkusen,15,Exequiel Palacios,401578,€30.00m,30000000.0,https://www.transfermarkt.com/exequiel-palacios/profil/spieler/401578,exequiel palacios,bayer 04 leverkusen,2025,L1
+Bayer 04 Leverkusen,15,Aleix García,261504,€20.00m,20000000.0,https://www.transfermarkt.com/aleix-garcia/profil/spieler/261504,aleix garcia,bayer 04 leverkusen,2025,L1
+Bayer 04 Leverkusen,15,Malik Tillman,467437,€35.00m,35000000.0,https://www.transfermarkt.com/malik-tillman/profil/spieler/467437,malik tillman,bayer 04 leverkusen,2025,L1
+Bayer 04 Leverkusen,15,Claudio Echeverri,994536,€18.00m,18000000.0,https://www.transfermarkt.com/claudio-echeverri/profil/spieler/994536,claudio echeverri,bayer 04 leverkusen,2025,L1
+Bayer 04 Leverkusen,15,Ibrahim Maza,905011,€12.00m,12000000.0,https://www.transfermarkt.com/ibrahim-maza/profil/spieler/905011,ibrahim maza,bayer 04 leverkusen,2025,L1
+Bayer 04 Leverkusen,15,Jonas Hofmann,7161,€2.00m,2000000.0,https://www.transfermarkt.com/jonas-hofmann/profil/spieler/7161,jonas hofmann,bayer 04 leverkusen,2025,L1
+Bayer 04 Leverkusen,15,Eliesse Ben Seghir,810895,€28.00m,28000000.0,https://www.transfermarkt.com/eliesse-ben-seghir/profil/spieler/810895,eliesse ben seghir,bayer 04 leverkusen,2025,L1
+Bayer 04 Leverkusen,15,Martin Terrier,442891,€17.00m,17000000.0,https://www.transfermarkt.com/martin-terrier/profil/spieler/442891,martin terrier,bayer 04 leverkusen,2025,L1
+Bayer 04 Leverkusen,15,Nathan Tella,340322,€15.00m,15000000.0,https://www.transfermarkt.com/nathan-tella/profil/spieler/340322,nathan tella,bayer 04 leverkusen,2025,L1
+Bayer 04 Leverkusen,15,Ernest Poku,718303,€10.00m,10000000.0,https://www.transfermarkt.com/ernest-poku/profil/spieler/718303,ernest poku,bayer 04 leverkusen,2025,L1
+Bayer 04 Leverkusen,15,Patrik Schick,242086,€27.00m,27000000.0,https://www.transfermarkt.com/patrik-schick/profil/spieler/242086,patrik schick,bayer 04 leverkusen,2025,L1
+Bayer 04 Leverkusen,15,Christian Kofane,1364454,€12.00m,12000000.0,https://www.transfermarkt.com/christian-kofane/profil/spieler/1364454,christian kofane,bayer 04 leverkusen,2025,L1
+Bayer 04 Leverkusen,15,Alejo Sarco,1000675,€800k,800000.0,https://www.transfermarkt.com/alejo-sarco/profil/spieler/1000675,alejo sarco,bayer 04 leverkusen,2025,L1
+Eintracht Frankfurt,24,Kauã Santos,997861,€10.00m,10000000.0,https://www.transfermarkt.com/kaua-santos/profil/spieler/997861,kaua santos,eintracht frankfurt,2025,L1
+Eintracht Frankfurt,24,Michael Zetterer,196813,€4.50m,4500000.0,https://www.transfermarkt.com/michael-zetterer/profil/spieler/196813,michael zetterer,eintracht frankfurt,2025,L1
+Eintracht Frankfurt,24,Jens Grahl,40034,€200k,200000.0,https://www.transfermarkt.com/jens-grahl/profil/spieler/40034,jens grahl,eintracht frankfurt,2025,L1
+Eintracht Frankfurt,24,Amil Siljevic,1079622,-,,https://www.transfermarkt.com/amil-siljevic/profil/spieler/1079622,amil siljevic,eintracht frankfurt,2025,L1
+Eintracht Frankfurt,24,Arthur Theate,368891,€24.00m,24000000.0,https://www.transfermarkt.com/arthur-theate/profil/spieler/368891,arthur theate,eintracht frankfurt,2025,L1
+Eintracht Frankfurt,24,Robin Koch,328784,€18.00m,18000000.0,https://www.transfermarkt.com/robin-koch/profil/spieler/328784,robin koch,eintracht frankfurt,2025,L1
+Eintracht Frankfurt,24,Nnamdi Collins,684315,€18.00m,18000000.0,https://www.transfermarkt.com/nnamdi-collins/profil/spieler/684315,nnamdi collins,eintracht frankfurt,2025,L1
+Eintracht Frankfurt,24,Aurèle Amenda,635645,€7.50m,7500000.0,https://www.transfermarkt.com/aurele-amenda/profil/spieler/635645,aurele amenda,eintracht frankfurt,2025,L1
+Eintracht Frankfurt,24,Nathaniel Brown,691892,€30.00m,30000000.0,https://www.transfermarkt.com/nathaniel-brown/profil/spieler/691892,nathaniel brown,eintracht frankfurt,2025,L1
+Eintracht Frankfurt,24,Rasmus Kristensen,369684,€14.00m,14000000.0,https://www.transfermarkt.com/rasmus-kristensen/profil/spieler/369684,rasmus kristensen,eintracht frankfurt,2025,L1
+Eintracht Frankfurt,24,Elias Baum,744857,€8.00m,8000000.0,https://www.transfermarkt.com/elias-baum/profil/spieler/744857,elias baum,eintracht frankfurt,2025,L1
+Eintracht Frankfurt,24,Aurélio Buta,258039,€5.00m,5000000.0,https://www.transfermarkt.com/aurelio-buta/profil/spieler/258039,aurelio buta,eintracht frankfurt,2025,L1
+Eintracht Frankfurt,24,Timothy Chandler,49723,€350k,350000.0,https://www.transfermarkt.com/timothy-chandler/profil/spieler/49723,timothy chandler,eintracht frankfurt,2025,L1
+Eintracht Frankfurt,24,Ellyes Skhiri,290587,€7.50m,7500000.0,https://www.transfermarkt.com/ellyes-skhiri/profil/spieler/290587,ellyes skhiri,eintracht frankfurt,2025,L1
+Eintracht Frankfurt,24,Noah Fenyö,951957,€350k,350000.0,https://www.transfermarkt.com/noah-fenyo/profil/spieler/951957,noah fenyo,eintracht frankfurt,2025,L1
+Eintracht Frankfurt,24,Hugo Larsson,931838,€40.00m,40000000.0,https://www.transfermarkt.com/hugo-larsson/profil/spieler/931838,hugo larsson,eintracht frankfurt,2025,L1
+Eintracht Frankfurt,24,Oscar Højlund,846310,€7.50m,7500000.0,https://www.transfermarkt.com/oscar-hojlund/profil/spieler/846310,oscar højlund,eintracht frankfurt,2025,L1
+Eintracht Frankfurt,24,Mahmoud Dahoud,191422,€2.00m,2000000.0,https://www.transfermarkt.com/mahmoud-dahoud/profil/spieler/191422,mahmoud dahoud,eintracht frankfurt,2025,L1
+Eintracht Frankfurt,24,Can Uzun,816585,€45.00m,45000000.0,https://www.transfermarkt.com/can-uzun/profil/spieler/816585,can uzun,eintracht frankfurt,2025,L1
+Eintracht Frankfurt,24,Farès Chaïbi,855015,€15.00m,15000000.0,https://www.transfermarkt.com/fares-chaibi/profil/spieler/855015,fares chaibi,eintracht frankfurt,2025,L1
+Eintracht Frankfurt,24,Mario Götze,74842,€4.00m,4000000.0,https://www.transfermarkt.com/mario-gotze/profil/spieler/74842,mario gotze,eintracht frankfurt,2025,L1
+Eintracht Frankfurt,24,Jean-Mattéo Bahoya,939964,€25.00m,25000000.0,https://www.transfermarkt.com/jean-matteo-bahoya/profil/spieler/939964,jean-matteo bahoya,eintracht frankfurt,2025,L1
+Eintracht Frankfurt,24,Ritsu Doan,358504,€25.00m,25000000.0,https://www.transfermarkt.com/ritsu-doan/profil/spieler/358504,ritsu doan,eintracht frankfurt,2025,L1
+Eintracht Frankfurt,24,Ansgar Knauff,429874,€15.00m,15000000.0,https://www.transfermarkt.com/ansgar-knauff/profil/spieler/429874,ansgar knauff,eintracht frankfurt,2025,L1
+Eintracht Frankfurt,24,Jonathan Burkardt,333647,€35.00m,35000000.0,https://www.transfermarkt.com/jonathan-burkardt/profil/spieler/333647,jonathan burkardt,eintracht frankfurt,2025,L1
+Eintracht Frankfurt,24,Elye Wahi,659542,€18.00m,18000000.0,https://www.transfermarkt.com/elye-wahi/profil/spieler/659542,elye wahi,eintracht frankfurt,2025,L1
+Eintracht Frankfurt,24,Michy Batshuayi,179184,€4.00m,4000000.0,https://www.transfermarkt.com/michy-batshuayi/profil/spieler/179184,michy batshuayi,eintracht frankfurt,2025,L1
+Eintracht Frankfurt,24,Jessic Ngankam,448177,€1.00m,1000000.0,https://www.transfermarkt.com/jessic-ngankam/profil/spieler/448177,jessic ngankam,eintracht frankfurt,2025,L1
+RB Leipzig,23826,Maarten Vandevoordt,486046,€8.00m,8000000.0,https://www.transfermarkt.com/maarten-vandevoordt/profil/spieler/486046,maarten vandevoordt,rb leipzig,2025,L1
+RB Leipzig,23826,Péter Gulácsi,57071,€2.00m,2000000.0,https://www.transfermarkt.com/peter-gulacsi/profil/spieler/57071,peter gulacsi,rb leipzig,2025,L1
+RB Leipzig,23826,Leopold Zingerle,160971,€400k,400000.0,https://www.transfermarkt.com/leopold-zingerle/profil/spieler/160971,leopold zingerle,rb leipzig,2025,L1
+RB Leipzig,23826,Castello Lukeba,618472,€40.00m,40000000.0,https://www.transfermarkt.com/castello-lukeba/profil/spieler/618472,castello lukeba,rb leipzig,2025,L1
+RB Leipzig,23826,El Chadaille Bitshiabu,787912,€15.00m,15000000.0,https://www.transfermarkt.com/el-chadaille-bitshiabu/profil/spieler/787912,el chadaille bitshiabu,rb leipzig,2025,L1
+RB Leipzig,23826,Willi Orbán,93740,€8.00m,8000000.0,https://www.transfermarkt.com/willi-orban/profil/spieler/93740,willi orban,rb leipzig,2025,L1
+RB Leipzig,23826,Lukas Klostermann,215599,€5.00m,5000000.0,https://www.transfermarkt.com/lukas-klostermann/profil/spieler/215599,lukas klostermann,rb leipzig,2025,L1
+RB Leipzig,23826,David Raum,318204,€20.00m,20000000.0,https://www.transfermarkt.com/david-raum/profil/spieler/318204,david raum,rb leipzig,2025,L1
+RB Leipzig,23826,Max Finkgräfe,810649,€4.00m,4000000.0,https://www.transfermarkt.com/max-finkgrafe/profil/spieler/810649,max finkgrafe,rb leipzig,2025,L1
+RB Leipzig,23826,Ridle Baku,327251,€12.00m,12000000.0,https://www.transfermarkt.com/ridle-baku/profil/spieler/327251,ridle baku,rb leipzig,2025,L1
+RB Leipzig,23826,Benjamin Henrichs,202591,€12.00m,12000000.0,https://www.transfermarkt.com/benjamin-henrichs/profil/spieler/202591,benjamin henrichs,rb leipzig,2025,L1
+RB Leipzig,23826,Kosta Nedeljkovic,848682,€10.00m,10000000.0,https://www.transfermarkt.com/kosta-nedeljkovic/profil/spieler/848682,kosta nedeljkovic,rb leipzig,2025,L1
+RB Leipzig,23826,Ezechiel Banzuzi,865682,€18.00m,18000000.0,https://www.transfermarkt.com/ezechiel-banzuzi/profil/spieler/865682,ezechiel banzuzi,rb leipzig,2025,L1
+RB Leipzig,23826,Nicolas Seiwald,404950,€18.00m,18000000.0,https://www.transfermarkt.com/nicolas-seiwald/profil/spieler/404950,nicolas seiwald,rb leipzig,2025,L1
+RB Leipzig,23826,Amadou Haidara,402008,€12.00m,12000000.0,https://www.transfermarkt.com/amadou-haidara/profil/spieler/402008,amadou haidara,rb leipzig,2025,L1
+RB Leipzig,23826,Assan Ouédraogo,897424,€10.00m,10000000.0,https://www.transfermarkt.com/assan-ouedraogo/profil/spieler/897424,assan ouedraogo,rb leipzig,2025,L1
+RB Leipzig,23826,Xaver Schlager,223979,€10.00m,10000000.0,https://www.transfermarkt.com/xaver-schlager/profil/spieler/223979,xaver schlager,rb leipzig,2025,L1
+RB Leipzig,23826,Kevin Kampl,53418,€2.50m,2500000.0,https://www.transfermarkt.com/kevin-kampl/profil/spieler/53418,kevin kampl,rb leipzig,2025,L1
+RB Leipzig,23826,Joyeux Masanka Bungi,990146,-,,https://www.transfermarkt.com/joyeux-masanka-bungi/profil/spieler/990146,joyeux masanka bungi,rb leipzig,2025,L1
+RB Leipzig,23826,Andrija Maksimovic,952779,€15.00m,15000000.0,https://www.transfermarkt.com/andrija-maksimovic/profil/spieler/952779,andrija maksimovic,rb leipzig,2025,L1
+RB Leipzig,23826,Christoph Baumgartner,324278,€12.00m,12000000.0,https://www.transfermarkt.com/christoph-baumgartner/profil/spieler/324278,christoph baumgartner,rb leipzig,2025,L1
+RB Leipzig,23826,Viggo Gebel,1074526,€350k,350000.0,https://www.transfermarkt.com/viggo-gebel/profil/spieler/1074526,viggo gebel,rb leipzig,2025,L1
+RB Leipzig,23826,Antonio Nusa,894914,€28.00m,28000000.0,https://www.transfermarkt.com/antonio-nusa/profil/spieler/894914,antonio nusa,rb leipzig,2025,L1
+RB Leipzig,23826,Yan Diomande,1390649,€20.00m,20000000.0,https://www.transfermarkt.com/yan-diomande/profil/spieler/1390649,yan diomande,rb leipzig,2025,L1
+RB Leipzig,23826,Timo Werner,170527,€5.00m,5000000.0,https://www.transfermarkt.com/timo-werner/profil/spieler/170527,timo werner,rb leipzig,2025,L1
+RB Leipzig,23826,Tidiam Gomis,955448,€3.00m,3000000.0,https://www.transfermarkt.com/tidiam-gomis/profil/spieler/955448,tidiam gomis,rb leipzig,2025,L1
+RB Leipzig,23826,Johan Bakayoko,565424,€30.00m,30000000.0,https://www.transfermarkt.com/johan-bakayoko/profil/spieler/565424,johan bakayoko,rb leipzig,2025,L1
+RB Leipzig,23826,Conrad Harder,807386,€24.00m,24000000.0,https://www.transfermarkt.com/conrad-harder/profil/spieler/807386,conrad harder,rb leipzig,2025,L1
+RB Leipzig,23826,Rômulo,957874,€22.00m,22000000.0,https://www.transfermarkt.com/romulo/profil/spieler/957874,romulo,rb leipzig,2025,L1
+VfB Stuttgart,79,Alexander Nübel,195778,€12.00m,12000000.0,https://www.transfermarkt.com/alexander-nubel/profil/spieler/195778,alexander nubel,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Florian Hellstern,1009438,€1.20m,1200000.0,https://www.transfermarkt.com/florian-hellstern/profil/spieler/1009438,florian hellstern,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Fabian Bredlow,187624,€800k,800000.0,https://www.transfermarkt.com/fabian-bredlow/profil/spieler/187624,fabian bredlow,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Stefan Drljaca,388067,€325k,325000.0,https://www.transfermarkt.com/stefan-drljaca/profil/spieler/388067,stefan drljaca,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Finn Jeltsch,924117,€20.00m,20000000.0,https://www.transfermarkt.com/finn-jeltsch/profil/spieler/924117,finn jeltsch,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Jeff Chabot,303219,€15.00m,15000000.0,https://www.transfermarkt.com/jeff-chabot/profil/spieler/303219,jeff chabot,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Luca Jaquez,539798,€10.00m,10000000.0,https://www.transfermarkt.com/luca-jaquez/profil/spieler/539798,luca jaquez,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Ameen Al-Dakhil,620598,€5.00m,5000000.0,https://www.transfermarkt.com/ameen-al-dakhil/profil/spieler/620598,ameen al-dakhil,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Ramon Hendriks,436064,€5.00m,5000000.0,https://www.transfermarkt.com/ramon-hendriks/profil/spieler/436064,ramon hendriks,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Dan-Axel Zagadou,344598,€2.00m,2000000.0,https://www.transfermarkt.com/dan-axel-zagadou/profil/spieler/344598,dan-axel zagadou,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Maximilian Mittelstädt,282660,€20.00m,20000000.0,https://www.transfermarkt.com/maximilian-mittelstadt/profil/spieler/282660,maximilian mittelstadt,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Lorenz Assignon,711969,€12.00m,12000000.0,https://www.transfermarkt.com/lorenz-assignon/profil/spieler/711969,lorenz assignon,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Josha Vagnoman,448258,€10.00m,10000000.0,https://www.transfermarkt.com/josha-vagnoman/profil/spieler/448258,josha vagnoman,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Leonidas Stergiou,507345,€5.00m,5000000.0,https://www.transfermarkt.com/leonidas-stergiou/profil/spieler/507345,leonidas stergiou,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Pascal Stenzel,195246,€2.00m,2000000.0,https://www.transfermarkt.com/pascal-stenzel/profil/spieler/195246,pascal stenzel,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Angelo Stiller,443710,€45.00m,45000000.0,https://www.transfermarkt.com/angelo-stiller/profil/spieler/443710,angelo stiller,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Atakan Karazor,232320,€12.00m,12000000.0,https://www.transfermarkt.com/atakan-karazor/profil/spieler/232320,atakan karazor,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Chema Andrés,948279,€10.00m,10000000.0,https://www.transfermarkt.com/chema-andres/profil/spieler/948279,chema andres,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Yannik Keitel,342039,€2.50m,2500000.0,https://www.transfermarkt.com/yannik-keitel/profil/spieler/342039,yannik keitel,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Mirza Catovic,1131117,€1.20m,1200000.0,https://www.transfermarkt.com/mirza-catovic/profil/spieler/1131117,mirza catovic,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Nikolas Nartey,400546,€400k,400000.0,https://www.transfermarkt.com/nikolas-nartey/profil/spieler/400546,nikolas nartey,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Bilal El Khannouss,654982,€28.00m,28000000.0,https://www.transfermarkt.com/bilal-el-khannouss/profil/spieler/654982,bilal el khannouss,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Noah Darvich,897480,€2.00m,2000000.0,https://www.transfermarkt.com/noah-darvich/profil/spieler/897480,noah darvich,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Chris Führich,272278,€12.00m,12000000.0,https://www.transfermarkt.com/chris-fuhrich/profil/spieler/272278,chris fuhrich,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Justin Diehl,720162,€3.00m,3000000.0,https://www.transfermarkt.com/justin-diehl/profil/spieler/720162,justin diehl,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Jamie Leweling,518505,€25.00m,25000000.0,https://www.transfermarkt.com/jamie-leweling/profil/spieler/518505,jamie leweling,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Badredine Bouanani,707242,€12.00m,12000000.0,https://www.transfermarkt.com/badredine-bouanani/profil/spieler/707242,badredine bouanani,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Lazar Jovanovic,897505,€5.00m,5000000.0,https://www.transfermarkt.com/lazar-jovanovic/profil/spieler/897505,lazar jovanovic,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Silas,612826,€4.00m,4000000.0,https://www.transfermarkt.com/silas/profil/spieler/612826,silas,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Ermedin Demirovic,335457,€22.00m,22000000.0,https://www.transfermarkt.com/ermedin-demirovic/profil/spieler/335457,ermedin demirovic,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Deniz Undav,339314,€20.00m,20000000.0,https://www.transfermarkt.com/deniz-undav/profil/spieler/339314,deniz undav,vfb stuttgart,2025,L1
+VfB Stuttgart,79,Tiago Tomás,616344,€15.00m,15000000.0,https://www.transfermarkt.com/tiago-tomas/profil/spieler/616344,tiago tomas,vfb stuttgart,2025,L1
+VfL Wolfsburg,82,Kamil Grabara,346551,€14.00m,14000000.0,https://www.transfermarkt.com/kamil-grabara/profil/spieler/346551,kamil grabara,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Marius Müller,118161,€1.50m,1500000.0,https://www.transfermarkt.com/marius-muller/profil/spieler/118161,marius muller,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Pavao Pervan,51977,€300k,300000.0,https://www.transfermarkt.com/pavao-pervan/profil/spieler/51977,pavao pervan,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Jakub Zielinski,1068257,-,,https://www.transfermarkt.com/jakub-zielinski/profil/spieler/1068257,jakub zielinski,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Konstantinos Koulierakis,669380,€25.00m,25000000.0,https://www.transfermarkt.com/konstantinos-koulierakis/profil/spieler/669380,konstantinos koulierakis,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Denis Vavro,239962,€7.00m,7000000.0,https://www.transfermarkt.com/denis-vavro/profil/spieler/239962,denis vavro,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Moritz Jenz,460245,€5.00m,5000000.0,https://www.transfermarkt.com/moritz-jenz/profil/spieler/460245,moritz jenz,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Jenson Seelt,617755,€2.00m,2000000.0,https://www.transfermarkt.com/jenson-seelt/profil/spieler/617755,jenson seelt,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Mathys Angély,1075579,€600k,600000.0,https://www.transfermarkt.com/mathys-angely/profil/spieler/1075579,mathys angely,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Joakim Maehle,369674,€12.00m,12000000.0,https://www.transfermarkt.com/joakim-maehle/profil/spieler/369674,joakim maehle,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Aaron Zehnter,730484,€6.00m,6000000.0,https://www.transfermarkt.com/aaron-zehnter/profil/spieler/730484,aaron zehnter,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Rogério,401527,€2.50m,2500000.0,https://www.transfermarkt.com/rogerio/profil/spieler/401527,rogerio,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Kilian Fischer,435796,€7.50m,7500000.0,https://www.transfermarkt.com/kilian-fischer/profil/spieler/435796,kilian fischer,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Saël Kumbedi,951579,€7.00m,7000000.0,https://www.transfermarkt.com/sael-kumbedi/profil/spieler/951579,sael kumbedi,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Vini Souza,663581,€15.00m,15000000.0,https://www.transfermarkt.com/vini-souza/profil/spieler/663581,vini souza,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Mattias Svanberg,342405,€12.00m,12000000.0,https://www.transfermarkt.com/mattias-svanberg/profil/spieler/342405,mattias svanberg,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Maximilian Arnold,117674,€5.00m,5000000.0,https://www.transfermarkt.com/maximilian-arnold/profil/spieler/117674,maximilian arnold,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Yannick Gerhardt,119277,€2.50m,2500000.0,https://www.transfermarkt.com/yannick-gerhardt/profil/spieler/119277,yannick gerhardt,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Kevin Paredes,711517,€5.00m,5000000.0,https://www.transfermarkt.com/kevin-paredes/profil/spieler/711517,kevin paredes,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Lovro Majer,387106,€17.00m,17000000.0,https://www.transfermarkt.com/lovro-majer/profil/spieler/387106,lovro majer,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Bence Dárdai,789252,€9.00m,9000000.0,https://www.transfermarkt.com/bence-dardai/profil/spieler/789252,bence dardai,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Christian Eriksen,69633,€4.00m,4000000.0,https://www.transfermarkt.com/christian-eriksen/profil/spieler/69633,christian eriksen,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Patrick Wimmer,533295,€15.00m,15000000.0,https://www.transfermarkt.com/patrick-wimmer/profil/spieler/533295,patrick wimmer,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Andreas Skov Olsen,432982,€14.00m,14000000.0,https://www.transfermarkt.com/andreas-skov-olsen/profil/spieler/432982,andreas skov olsen,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Jesper Lindstrøm,513245,€12.00m,12000000.0,https://www.transfermarkt.com/jesper-lindstrom/profil/spieler/513245,jesper lindstrøm,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Mohamed Amoura,746910,€32.00m,32000000.0,https://www.transfermarkt.com/mohamed-amoura/profil/spieler/746910,mohamed amoura,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Jonas Wind,391004,€8.00m,8000000.0,https://www.transfermarkt.com/jonas-wind/profil/spieler/391004,jonas wind,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Dzenan Pejcinovic,819636,€6.00m,6000000.0,https://www.transfermarkt.com/dzenan-pejcinovic/profil/spieler/819636,dzenan pejcinovic,vfl wolfsburg,2025,L1
+VfL Wolfsburg,82,Adam Daghim,881297,€5.00m,5000000.0,https://www.transfermarkt.com/adam-daghim/profil/spieler/881297,adam daghim,vfl wolfsburg,2025,L1
+SV Werder Bremen,86,Mio Backhaus,620295,€4.00m,4000000.0,https://www.transfermarkt.com/mio-backhaus/profil/spieler/620295,mio backhaus,sv werder bremen,2025,L1
+SV Werder Bremen,86,Karl Hein,493513,€3.00m,3000000.0,https://www.transfermarkt.com/karl-hein/profil/spieler/493513,karl hein,sv werder bremen,2025,L1
+SV Werder Bremen,86,Markus Kolke,99451,€300k,300000.0,https://www.transfermarkt.com/markus-kolke/profil/spieler/99451,markus kolke,sv werder bremen,2025,L1
+SV Werder Bremen,86,Stefan Smarkalev,1025989,€150k,150000.0,https://www.transfermarkt.com/stefan-smarkalev/profil/spieler/1025989,stefan smarkalev,sv werder bremen,2025,L1
+SV Werder Bremen,86,Marco Friedl,156990,€12.00m,12000000.0,https://www.transfermarkt.com/marco-friedl/profil/spieler/156990,marco friedl,sv werder bremen,2025,L1
+SV Werder Bremen,86,Karim Coulibaly,1084638,€8.00m,8000000.0,https://www.transfermarkt.com/karim-coulibaly/profil/spieler/1084638,karim coulibaly,sv werder bremen,2025,L1
+SV Werder Bremen,86,Maximilian Wöber,263361,€5.00m,5000000.0,https://www.transfermarkt.com/maximilian-wober/profil/spieler/263361,maximilian wober,sv werder bremen,2025,L1
+SV Werder Bremen,86,Niklas Stark,162434,€4.00m,4000000.0,https://www.transfermarkt.com/niklas-stark/profil/spieler/162434,niklas stark,sv werder bremen,2025,L1
+SV Werder Bremen,86,Amos Pieper,334221,€3.50m,3500000.0,https://www.transfermarkt.com/amos-pieper/profil/spieler/334221,amos pieper,sv werder bremen,2025,L1
+SV Werder Bremen,86,Julián Malatini,830108,€2.50m,2500000.0,https://www.transfermarkt.com/julian-malatini/profil/spieler/830108,julian malatini,sv werder bremen,2025,L1
+SV Werder Bremen,86,Mick Schmetgens,1045986,€150k,150000.0,https://www.transfermarkt.com/mick-schmetgens/profil/spieler/1045986,mick schmetgens,sv werder bremen,2025,L1
+SV Werder Bremen,86,Felix Agu,393512,€8.00m,8000000.0,https://www.transfermarkt.com/felix-agu/profil/spieler/393512,felix agu,sv werder bremen,2025,L1
+SV Werder Bremen,86,Olivier Deman,621802,€3.00m,3000000.0,https://www.transfermarkt.com/olivier-deman/profil/spieler/621802,olivier deman,sv werder bremen,2025,L1
+SV Werder Bremen,86,Isaac Schmidt,449597,€2.20m,2200000.0,https://www.transfermarkt.com/isaac-schmidt/profil/spieler/449597,isaac schmidt,sv werder bremen,2025,L1
+SV Werder Bremen,86,Yukinari Sugawara,405385,€6.00m,6000000.0,https://www.transfermarkt.com/yukinari-sugawara/profil/spieler/405385,yukinari sugawara,sv werder bremen,2025,L1
+SV Werder Bremen,86,Mitchell Weiser,119211,€5.00m,5000000.0,https://www.transfermarkt.com/mitchell-weiser/profil/spieler/119211,mitchell weiser,sv werder bremen,2025,L1
+SV Werder Bremen,86,Senne Lynen,338668,€9.00m,9000000.0,https://www.transfermarkt.com/senne-lynen/profil/spieler/338668,senne lynen,sv werder bremen,2025,L1
+SV Werder Bremen,86,Skelly Alvero,855134,€2.50m,2500000.0,https://www.transfermarkt.com/skelly-alvero/profil/spieler/855134,skelly alvero,sv werder bremen,2025,L1
+SV Werder Bremen,86,Wesley Adeh,1074523,-,,https://www.transfermarkt.com/wesley-adeh/profil/spieler/1074523,wesley adeh,sv werder bremen,2025,L1
+SV Werder Bremen,86,Jens Stage,289835,€14.00m,14000000.0,https://www.transfermarkt.com/jens-stage/profil/spieler/289835,jens stage,sv werder bremen,2025,L1
+SV Werder Bremen,86,Leonardo Bittencourt,93844,€1.50m,1500000.0,https://www.transfermarkt.com/leonardo-bittencourt/profil/spieler/93844,leonardo bittencourt,sv werder bremen,2025,L1
+SV Werder Bremen,86,Romano Schmid,346853,€17.00m,17000000.0,https://www.transfermarkt.com/romano-schmid/profil/spieler/346853,romano schmid,sv werder bremen,2025,L1
+SV Werder Bremen,86,Cameron Puertas,449592,€13.00m,13000000.0,https://www.transfermarkt.com/cameron-puertas/profil/spieler/449592,cameron puertas,sv werder bremen,2025,L1
+SV Werder Bremen,86,Patrice Covic,1114155,€4.00m,4000000.0,https://www.transfermarkt.com/patrice-covic/profil/spieler/1114155,patrice covic,sv werder bremen,2025,L1
+SV Werder Bremen,86,Isak Hansen-Aarøen,670116,€1.00m,1000000.0,https://www.transfermarkt.com/isak-hansen-aaroen/profil/spieler/670116,isak hansen-aarøen,sv werder bremen,2025,L1
+SV Werder Bremen,86,Samuel Mbangula,654991,€14.00m,14000000.0,https://www.transfermarkt.com/samuel-mbangula/profil/spieler/654991,samuel mbangula,sv werder bremen,2025,L1
+SV Werder Bremen,86,Marco Grüll,391766,€4.00m,4000000.0,https://www.transfermarkt.com/marco-grull/profil/spieler/391766,marco grull,sv werder bremen,2025,L1
+SV Werder Bremen,86,Justin Njinmah,596153,€7.00m,7000000.0,https://www.transfermarkt.com/justin-njinmah/profil/spieler/596153,justin njinmah,sv werder bremen,2025,L1
+SV Werder Bremen,86,Victor Boniface,656681,€20.00m,20000000.0,https://www.transfermarkt.com/victor-boniface/profil/spieler/656681,victor boniface,sv werder bremen,2025,L1
+SV Werder Bremen,86,Keke Topp,701757,€4.00m,4000000.0,https://www.transfermarkt.com/keke-topp/profil/spieler/701757,keke topp,sv werder bremen,2025,L1
+SV Werder Bremen,86,Salim Musah,1042472,-,,https://www.transfermarkt.com/salim-musah/profil/spieler/1042472,salim musah,sv werder bremen,2025,L1
+TSG 1899 Hoffenheim,533,Oliver Baumann,55089,€3.00m,3000000.0,https://www.transfermarkt.com/oliver-baumann/profil/spieler/55089,oliver baumann,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Luca Philipp,432671,€750k,750000.0,https://www.transfermarkt.com/luca-philipp/profil/spieler/432671,luca philipp,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Lúkas Petersson,718460,€400k,400000.0,https://www.transfermarkt.com/lukas-petersson/profil/spieler/718460,lukas petersson,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Albian Hajdari,579459,€12.00m,12000000.0,https://www.transfermarkt.com/albian-hajdari/profil/spieler/579459,albian hajdari,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Koki Machida,415035,€7.00m,7000000.0,https://www.transfermarkt.com/koki-machida/profil/spieler/415035,koki machida,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Bernardo,364258,€5.50m,5500000.0,https://www.transfermarkt.com/bernardo/profil/spieler/364258,bernardo,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Robin Hranac,620217,€5.00m,5000000.0,https://www.transfermarkt.com/robin-hranac/profil/spieler/620217,robin hranac,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Ozan Kabak,361260,€5.00m,5000000.0,https://www.transfermarkt.com/ozan-kabak/profil/spieler/361260,ozan kabak,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Arthur Chaves,875332,€5.00m,5000000.0,https://www.transfermarkt.com/arthur-chaves/profil/spieler/875332,arthur chaves,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Kevin Akpoguma,160241,€2.50m,2500000.0,https://www.transfermarkt.com/kevin-akpoguma/profil/spieler/160241,kevin akpoguma,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Kelven Frees,934529,€300k,300000.0,https://www.transfermarkt.com/kelven-frees/profil/spieler/934529,kelven frees,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Alexander Prass,434116,€5.00m,5000000.0,https://www.transfermarkt.com/alexander-prass/profil/spieler/434116,alexander prass,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Hennes Behrens,829838,€350k,350000.0,https://www.transfermarkt.com/hennes-behrens/profil/spieler/829838,hennes behrens,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Valentin Gendrey,569387,€7.00m,7000000.0,https://www.transfermarkt.com/valentin-gendrey/profil/spieler/569387,valentin gendrey,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Vladimír Coufal,157672,€3.00m,3000000.0,https://www.transfermarkt.com/vladimir-coufal/profil/spieler/157672,vladimir coufal,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Leon Avdullahu,667457,€12.00m,12000000.0,https://www.transfermarkt.com/leon-avdullahu/profil/spieler/667457,leon avdullahu,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Wouter Burger,412953,€4.50m,4500000.0,https://www.transfermarkt.com/wouter-burger/profil/spieler/412953,wouter burger,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Umut Tohumcu,569031,€6.00m,6000000.0,https://www.transfermarkt.com/umut-tohumcu/profil/spieler/569031,umut tohumcu,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Grischa Prömel,234029,€3.00m,3000000.0,https://www.transfermarkt.com/grischa-promel/profil/spieler/234029,grischa promel,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Dennis Geiger,251309,€2.00m,2000000.0,https://www.transfermarkt.com/dennis-geiger/profil/spieler/251309,dennis geiger,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Luka Duric,685484,€250k,250000.0,https://www.transfermarkt.com/luka-duric/profil/spieler/685484,luka duric,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Muhammed Damar,789898,€7.00m,7000000.0,https://www.transfermarkt.com/muhammed-damar/profil/spieler/789898,muhammed damar,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Andrej Kramaric,46580,€4.00m,4000000.0,https://www.transfermarkt.com/andrej-kramaric/profil/spieler/46580,andrej kramaric,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Bazoumana Touré,1067904,€15.00m,15000000.0,https://www.transfermarkt.com/bazoumana-toure/profil/spieler/1067904,bazoumana toure,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Fisnik Asllani,524290,€18.00m,18000000.0,https://www.transfermarkt.com/fisnik-asllani/profil/spieler/524290,fisnik asllani,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Adam Hlozek,552057,€18.00m,18000000.0,https://www.transfermarkt.com/adam-hlozek/profil/spieler/552057,adam hlozek,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Tim Lemperle,553285,€8.00m,8000000.0,https://www.transfermarkt.com/tim-lemperle/profil/spieler/553285,tim lemperle,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Max Moerstedt,923595,€7.00m,7000000.0,https://www.transfermarkt.com/max-moerstedt/profil/spieler/923595,max moerstedt,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Mergim Berisha,307924,€2.50m,2500000.0,https://www.transfermarkt.com/mergim-berisha/profil/spieler/307924,mergim berisha,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Deniz Zeitler,1108022,€1.50m,1500000.0,https://www.transfermarkt.com/deniz-zeitler/profil/spieler/1108022,deniz zeitler,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Ihlas Bebou,237164,€1.00m,1000000.0,https://www.transfermarkt.com/ihlas-bebou/profil/spieler/237164,ihlas bebou,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,David Mokwa,974894,€1.00m,1000000.0,https://www.transfermarkt.com/david-mokwa/profil/spieler/974894,david mokwa,tsg 1899 hoffenheim,2025,L1
+TSG 1899 Hoffenheim,533,Precious Benjamin,1363814,-,,https://www.transfermarkt.com/precious-benjamin/profil/spieler/1363814,precious benjamin,tsg 1899 hoffenheim,2025,L1
+SC Freiburg,60,Noah Atubolu,526845,€18.00m,18000000.0,https://www.transfermarkt.com/noah-atubolu/profil/spieler/526845,noah atubolu,sc freiburg,2025,L1
+SC Freiburg,60,Florian Müller,284769,€1.20m,1200000.0,https://www.transfermarkt.com/florian-muller/profil/spieler/284769,florian muller,sc freiburg,2025,L1
+SC Freiburg,60,Jannik Huth,160954,€400k,400000.0,https://www.transfermarkt.com/jannik-huth/profil/spieler/160954,jannik huth,sc freiburg,2025,L1
+SC Freiburg,60,Philipp Lienhart,225657,€12.00m,12000000.0,https://www.transfermarkt.com/philipp-lienhart/profil/spieler/225657,philipp lienhart,sc freiburg,2025,L1
+SC Freiburg,60,Max Rosenfelder,599419,€8.00m,8000000.0,https://www.transfermarkt.com/max-rosenfelder/profil/spieler/599419,max rosenfelder,sc freiburg,2025,L1
+SC Freiburg,60,Matthias Ginter,124502,€7.00m,7000000.0,https://www.transfermarkt.com/matthias-ginter/profil/spieler/124502,matthias ginter,sc freiburg,2025,L1
+SC Freiburg,60,Anthony Jung,58995,€1.00m,1000000.0,https://www.transfermarkt.com/anthony-jung/profil/spieler/58995,anthony jung,sc freiburg,2025,L1
+SC Freiburg,60,Bruno Ogbus,863759,€1.00m,1000000.0,https://www.transfermarkt.com/bruno-ogbus/profil/spieler/863759,bruno ogbus,sc freiburg,2025,L1
+SC Freiburg,60,Jordy Makengo,815078,€6.00m,6000000.0,https://www.transfermarkt.com/jordy-makengo/profil/spieler/815078,jordy makengo,sc freiburg,2025,L1
+SC Freiburg,60,Christian Günter,93707,€3.50m,3500000.0,https://www.transfermarkt.com/christian-gunter/profil/spieler/93707,christian gunter,sc freiburg,2025,L1
+SC Freiburg,60,Philipp Treu,335993,€7.00m,7000000.0,https://www.transfermarkt.com/philipp-treu/profil/spieler/335993,philipp treu,sc freiburg,2025,L1
+SC Freiburg,60,Lukas Kübler,93604,€1.50m,1500000.0,https://www.transfermarkt.com/lukas-kubler/profil/spieler/93604,lukas kubler,sc freiburg,2025,L1
+SC Freiburg,60,Patrick Osterhage,443331,€12.00m,12000000.0,https://www.transfermarkt.com/patrick-osterhage/profil/spieler/443331,patrick osterhage,sc freiburg,2025,L1
+SC Freiburg,60,Nicolas Höfler,55099,€500k,500000.0,https://www.transfermarkt.com/nicolas-hofler/profil/spieler/55099,nicolas hofler,sc freiburg,2025,L1
+SC Freiburg,60,Johan Manzambi,927353,€15.00m,15000000.0,https://www.transfermarkt.com/johan-manzambi/profil/spieler/927353,johan manzambi,sc freiburg,2025,L1
+SC Freiburg,60,Maximilian Eggestein,190284,€10.00m,10000000.0,https://www.transfermarkt.com/maximilian-eggestein/profil/spieler/190284,maximilian eggestein,sc freiburg,2025,L1
+SC Freiburg,60,Yuito Suzuki,668606,€10.00m,10000000.0,https://www.transfermarkt.com/yuito-suzuki/profil/spieler/668606,yuito suzuki,sc freiburg,2025,L1
+SC Freiburg,60,Daniel-Kofi Kyereh,272587,€800k,800000.0,https://www.transfermarkt.com/daniel-kofi-kyereh/profil/spieler/272587,daniel-kofi kyereh,sc freiburg,2025,L1
+SC Freiburg,60,Vincenzo Grifo,185077,€6.00m,6000000.0,https://www.transfermarkt.com/vincenzo-grifo/profil/spieler/185077,vincenzo grifo,sc freiburg,2025,L1
+SC Freiburg,60,Derry Scherhant,820957,€4.00m,4000000.0,https://www.transfermarkt.com/derry-scherhant/profil/spieler/820957,derry scherhant,sc freiburg,2025,L1
+SC Freiburg,60,Cyriaque Irié,1145064,€8.00m,8000000.0,https://www.transfermarkt.com/cyriaque-irie/profil/spieler/1145064,cyriaque irie,sc freiburg,2025,L1
+SC Freiburg,60,Eren Dinkçi,645774,€7.00m,7000000.0,https://www.transfermarkt.com/eren-dinkci/profil/spieler/645774,eren dinkci,sc freiburg,2025,L1
+SC Freiburg,60,Niklas Beste,342967,€7.00m,7000000.0,https://www.transfermarkt.com/niklas-beste/profil/spieler/342967,niklas beste,sc freiburg,2025,L1
+SC Freiburg,60,Maximilian Philipp,143891,€800k,800000.0,https://www.transfermarkt.com/maximilian-philipp/profil/spieler/143891,maximilian philipp,sc freiburg,2025,L1
+SC Freiburg,60,Igor Matanovic,605268,€7.00m,7000000.0,https://www.transfermarkt.com/igor-matanovic/profil/spieler/605268,igor matanovic,sc freiburg,2025,L1
+SC Freiburg,60,Junior Adamu,452477,€5.00m,5000000.0,https://www.transfermarkt.com/junior-adamu/profil/spieler/452477,junior adamu,sc freiburg,2025,L1
+SC Freiburg,60,Lucas Höler,248999,€3.00m,3000000.0,https://www.transfermarkt.com/lucas-holer/profil/spieler/248999,lucas holer,sc freiburg,2025,L1
+1.FSV Mainz 05,39,Robin Zentner,160963,€4.00m,4000000.0,https://www.transfermarkt.com/robin-zentner/profil/spieler/160963,robin zentner,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Lasse Rieß,490609,€400k,400000.0,https://www.transfermarkt.com/lasse-riess/profil/spieler/490609,lasse rieß,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Daniel Batz,90317,€250k,250000.0,https://www.transfermarkt.com/daniel-batz/profil/spieler/90317,daniel batz,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Andreas Hanche-Olsen,370683,€6.00m,6000000.0,https://www.transfermarkt.com/andreas-hanche-olsen/profil/spieler/370683,andreas hanche-olsen,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Dominik Kohr,118847,€3.50m,3500000.0,https://www.transfermarkt.com/dominik-kohr/profil/spieler/118847,dominik kohr,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Maxim Leitsch,334207,€1.50m,1500000.0,https://www.transfermarkt.com/maxim-leitsch/profil/spieler/334207,maxim leitsch,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Danny da Costa,85906,€1.50m,1500000.0,https://www.transfermarkt.com/danny-da-costa/profil/spieler/85906,danny da costa,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Stefan Bell,82350,€800k,800000.0,https://www.transfermarkt.com/stefan-bell/profil/spieler/82350,stefan bell,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Konstantin Schopp,805123,€400k,400000.0,https://www.transfermarkt.com/konstantin-schopp/profil/spieler/805123,konstantin schopp,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Kacper Potulski,1073748,€200k,200000.0,https://www.transfermarkt.com/kacper-potulski/profil/spieler/1073748,kacper potulski,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Maxim Dal,934317,€150k,150000.0,https://www.transfermarkt.com/maxim-dal/profil/spieler/934317,maxim dal,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Phillipp Mwene,127573,€1.80m,1800000.0,https://www.transfermarkt.com/phillipp-mwene/profil/spieler/127573,phillipp mwene,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Kasey Bos,1154876,€450k,450000.0,https://www.transfermarkt.com/kasey-bos/profil/spieler/1154876,kasey bos,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Anthony Caci,453016,€12.00m,12000000.0,https://www.transfermarkt.com/anthony-caci/profil/spieler/453016,anthony caci,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Nikolas Veratschnig,601143,€1.50m,1500000.0,https://www.transfermarkt.com/nikolas-veratschnig/profil/spieler/601143,nikolas veratschnig,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Silvan Widmer,168989,€1.20m,1200000.0,https://www.transfermarkt.com/silvan-widmer/profil/spieler/168989,silvan widmer,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Kaishu Sano,643574,€25.00m,25000000.0,https://www.transfermarkt.com/kaishu-sano/profil/spieler/643574,kaishu sano,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Lennard Maloney,392710,€3.50m,3500000.0,https://www.transfermarkt.com/lennard-maloney/profil/spieler/392710,lennard maloney,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Sota Kawasaki,733371,€1.20m,1200000.0,https://www.transfermarkt.com/sota-kawasaki/profil/spieler/733371,sota kawasaki,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Niklas Tauer,470815,€500k,500000.0,https://www.transfermarkt.com/niklas-tauer/profil/spieler/470815,niklas tauer,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Nadiem Amiri,232454,€20.00m,20000000.0,https://www.transfermarkt.com/nadiem-amiri/profil/spieler/232454,nadiem amiri,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Daniel Gleiber,906969,€225k,225000.0,https://www.transfermarkt.com/daniel-gleiber/profil/spieler/906969,daniel gleiber,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Paul Nebel,503160,€24.00m,24000000.0,https://www.transfermarkt.com/paul-nebel/profil/spieler/503160,paul nebel,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Jae-sung Lee,314398,€2.50m,2500000.0,https://www.transfermarkt.com/jae-sung-lee/profil/spieler/314398,jae-sung lee,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Arnaud Nordin,324811,€5.00m,5000000.0,https://www.transfermarkt.com/arnaud-nordin/profil/spieler/324811,arnaud nordin,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Armindo Sieb,569033,€4.00m,4000000.0,https://www.transfermarkt.com/armindo-sieb/profil/spieler/569033,armindo sieb,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Nelson Weiper,796213,€15.00m,15000000.0,https://www.transfermarkt.com/nelson-weiper/profil/spieler/796213,nelson weiper,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Benedict Hollerbach,453870,€12.00m,12000000.0,https://www.transfermarkt.com/benedict-hollerbach/profil/spieler/453870,benedict hollerbach,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,William Bøving,610400,€8.00m,8000000.0,https://www.transfermarkt.com/william-boving/profil/spieler/610400,william bøving,1.fsv mainz 05,2025,L1
+1.FSV Mainz 05,39,Ben Bobzien,658116,€1.20m,1200000.0,https://www.transfermarkt.com/ben-bobzien/profil/spieler/658116,ben bobzien,1.fsv mainz 05,2025,L1
+Borussia Mönchengladbach,18,Moritz Nicolas,284270,€5.00m,5000000.0,https://www.transfermarkt.com/moritz-nicolas/profil/spieler/284270,moritz nicolas,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Jonas Omlin,247915,€2.00m,2000000.0,https://www.transfermarkt.com/jonas-omlin/profil/spieler/247915,jonas omlin,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Tiago Pereira Cardoso,926301,€1.50m,1500000.0,https://www.transfermarkt.com/tiago-pereira-cardoso/profil/spieler/926301,tiago pereira cardoso,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Tobias Sippel,31653,€300k,300000.0,https://www.transfermarkt.com/tobias-sippel/profil/spieler/31653,tobias sippel,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Nico Elvedi,192635,€8.00m,8000000.0,https://www.transfermarkt.com/nico-elvedi/profil/spieler/192635,nico elvedi,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Kevin Diks,335209,€5.00m,5000000.0,https://www.transfermarkt.com/kevin-diks/profil/spieler/335209,kevin diks,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Fabio Chiarodia,724104,€3.00m,3000000.0,https://www.transfermarkt.com/fabio-chiarodia/profil/spieler/724104,fabio chiarodia,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Marvin Friedrich,196231,€2.00m,2000000.0,https://www.transfermarkt.com/marvin-friedrich/profil/spieler/196231,marvin friedrich,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Lukas Ullrich,787151,€8.00m,8000000.0,https://www.transfermarkt.com/lukas-ullrich/profil/spieler/787151,lukas ullrich,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Luca Netz,524285,€6.00m,6000000.0,https://www.transfermarkt.com/luca-netz/profil/spieler/524285,luca netz,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Joe Scally,504153,€7.00m,7000000.0,https://www.transfermarkt.com/joe-scally/profil/spieler/504153,joe scally,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Yannik Engelhardt,405670,€6.00m,6000000.0,https://www.transfermarkt.com/yannik-engelhardt/profil/spieler/405670,yannik engelhardt,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Niklas Swider,1009463,€250k,250000.0,https://www.transfermarkt.com/niklas-swider/profil/spieler/1009463,niklas swider,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Rocco Reitz,467434,€15.00m,15000000.0,https://www.transfermarkt.com/rocco-reitz/profil/spieler/467434,rocco reitz,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Jens Castrop,613192,€6.00m,6000000.0,https://www.transfermarkt.com/jens-castrop/profil/spieler/613192,jens castrop,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Philipp Sander,388409,€4.00m,4000000.0,https://www.transfermarkt.com/philipp-sander/profil/spieler/388409,philipp sander,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Florian Neuhaus,278332,€3.50m,3500000.0,https://www.transfermarkt.com/florian-neuhaus/profil/spieler/278332,florian neuhaus,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Oscar Fraulo,610428,€3.50m,3500000.0,https://www.transfermarkt.com/oscar-fraulo/profil/spieler/610428,oscar fraulo,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Giovanni Reyna,504215,€7.00m,7000000.0,https://www.transfermarkt.com/giovanni-reyna/profil/spieler/504215,giovanni reyna,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Kevin Stöger,106872,€3.50m,3500000.0,https://www.transfermarkt.com/kevin-stoger/profil/spieler/106872,kevin stoger,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Wael Mohya,1070979,€1.00m,1000000.0,https://www.transfermarkt.com/wael-mohya/profil/spieler/1070979,wael mohya,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Robin Hack,284010,€12.00m,12000000.0,https://www.transfermarkt.com/robin-hack/profil/spieler/284010,robin hack,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Franck Honorat,229006,€12.00m,12000000.0,https://www.transfermarkt.com/franck-honorat/profil/spieler/229006,franck honorat,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Nathan Ngoumou,629588,€4.00m,4000000.0,https://www.transfermarkt.com/nathan-ngoumou/profil/spieler/629588,nathan ngoumou,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Charles Herrmann,884822,€1.00m,1000000.0,https://www.transfermarkt.com/charles-herrmann/profil/spieler/884822,charles herrmann,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Tim Kleindienst,193033,€17.00m,17000000.0,https://www.transfermarkt.com/tim-kleindienst/profil/spieler/193033,tim kleindienst,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Shuto Machino,550580,€7.00m,7000000.0,https://www.transfermarkt.com/shuto-machino/profil/spieler/550580,shuto machino,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Haris Tabakovic,203123,€2.50m,2500000.0,https://www.transfermarkt.com/haris-tabakovic/profil/spieler/203123,haris tabakovic,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Grant-Leon Ranos,574201,€1.00m,1000000.0,https://www.transfermarkt.com/grant-leon-ranos/profil/spieler/574201,grant-leon ranos,borussia monchengladbach,2025,L1
+Borussia Mönchengladbach,18,Jan Urbich,820723,€125k,125000.0,https://www.transfermarkt.com/jan-urbich/profil/spieler/820723,jan urbich,borussia monchengladbach,2025,L1
+FC Augsburg,167,Finn Dahmen,251299,€12.00m,12000000.0,https://www.transfermarkt.com/finn-dahmen/profil/spieler/251299,finn dahmen,fc augsburg,2025,L1
+FC Augsburg,167,Nediljko Labrovic,610190,€2.50m,2500000.0,https://www.transfermarkt.com/nediljko-labrovic/profil/spieler/610190,nediljko labrovic,fc augsburg,2025,L1
+FC Augsburg,167,Daniel Klein,392124,€150k,150000.0,https://www.transfermarkt.com/daniel-klein/profil/spieler/392124,daniel klein,fc augsburg,2025,L1
+FC Augsburg,167,Chrislain Matsima,569383,€22.00m,22000000.0,https://www.transfermarkt.com/chrislain-matsima/profil/spieler/569383,chrislain matsima,fc augsburg,2025,L1
+FC Augsburg,167,Noahkai Banks,923945,€10.00m,10000000.0,https://www.transfermarkt.com/noahkai-banks/profil/spieler/923945,noahkai banks,fc augsburg,2025,L1
+FC Augsburg,167,Cédric Zesiger,382478,€7.00m,7000000.0,https://www.transfermarkt.com/cedric-zesiger/profil/spieler/382478,cedric zesiger,fc augsburg,2025,L1
+FC Augsburg,167,Keven Schlotterbeck,413843,€6.00m,6000000.0,https://www.transfermarkt.com/keven-schlotterbeck/profil/spieler/413843,keven schlotterbeck,fc augsburg,2025,L1
+FC Augsburg,167,Jeffrey Gouweleeuw,106405,€1.50m,1500000.0,https://www.transfermarkt.com/jeffrey-gouweleeuw/profil/spieler/106405,jeffrey gouweleeuw,fc augsburg,2025,L1
+FC Augsburg,167,Maximilian Bauer,388363,€1.50m,1500000.0,https://www.transfermarkt.com/maximilian-bauer/profil/spieler/388363,maximilian bauer,fc augsburg,2025,L1
+FC Augsburg,167,Felix Meiser,1069641,€150k,150000.0,https://www.transfermarkt.com/felix-meiser/profil/spieler/1069641,felix meiser,fc augsburg,2025,L1
+FC Augsburg,167,Dimitrios Giannoulis,295630,€3.00m,3000000.0,https://www.transfermarkt.com/dimitrios-giannoulis/profil/spieler/295630,dimitrios giannoulis,fc augsburg,2025,L1
+FC Augsburg,167,Mads Pedersen,288429,€2.00m,2000000.0,https://www.transfermarkt.com/mads-pedersen/profil/spieler/288429,mads pedersen,fc augsburg,2025,L1
+FC Augsburg,167,Oliver Sorg,960444,€400k,400000.0,https://www.transfermarkt.com/oliver-sorg/profil/spieler/960444,oliver sorg,fc augsburg,2025,L1
+FC Augsburg,167,Marius Wolf,193900,€3.00m,3000000.0,https://www.transfermarkt.com/marius-wolf/profil/spieler/193900,marius wolf,fc augsburg,2025,L1
+FC Augsburg,167,Kristijan Jakic,374954,€6.50m,6500000.0,https://www.transfermarkt.com/kristijan-jakic/profil/spieler/374954,kristijan jakic,fc augsburg,2025,L1
+FC Augsburg,167,Robin Fellhauer,264960,€2.50m,2500000.0,https://www.transfermarkt.com/robin-fellhauer/profil/spieler/264960,robin fellhauer,fc augsburg,2025,L1
+FC Augsburg,167,Mahmut Kücüksahin,730486,€175k,175000.0,https://www.transfermarkt.com/mahmut-kucuksahin/profil/spieler/730486,mahmut kucuksahin,fc augsburg,2025,L1
+FC Augsburg,167,Han-Noah Massengo,536508,€5.00m,5000000.0,https://www.transfermarkt.com/han-noah-massengo/profil/spieler/536508,han-noah massengo,fc augsburg,2025,L1
+FC Augsburg,167,Elvis Rexhbecaj,280575,€3.50m,3500000.0,https://www.transfermarkt.com/elvis-rexhbecaj/profil/spieler/280575,elvis rexhbecaj,fc augsburg,2025,L1
+FC Augsburg,167,Arne Maier,296397,€3.00m,3000000.0,https://www.transfermarkt.com/arne-maier/profil/spieler/296397,arne maier,fc augsburg,2025,L1
+FC Augsburg,167,Anton Kade,654234,€5.00m,5000000.0,https://www.transfermarkt.com/anton-kade/profil/spieler/654234,anton kade,fc augsburg,2025,L1
+FC Augsburg,167,Alexis Claude-Maurice,384593,€15.00m,15000000.0,https://www.transfermarkt.com/alexis-claude-maurice/profil/spieler/384593,alexis claude-maurice,fc augsburg,2025,L1
+FC Augsburg,167,Mert Kömür,777005,€12.00m,12000000.0,https://www.transfermarkt.com/mert-komur/profil/spieler/777005,mert komur,fc augsburg,2025,L1
+FC Augsburg,167,Fabian Rieder,507341,€6.00m,6000000.0,https://www.transfermarkt.com/fabian-rieder/profil/spieler/507341,fabian rieder,fc augsburg,2025,L1
+FC Augsburg,167,Ismaël Gharbi,810096,€7.50m,7500000.0,https://www.transfermarkt.com/ismael-gharbi/profil/spieler/810096,ismael gharbi,fc augsburg,2025,L1
+FC Augsburg,167,Elias Saad,526466,€4.00m,4000000.0,https://www.transfermarkt.com/elias-saad/profil/spieler/526466,elias saad,fc augsburg,2025,L1
+FC Augsburg,167,Aiman Dardari,904723,€500k,500000.0,https://www.transfermarkt.com/aiman-dardari/profil/spieler/904723,aiman dardari,fc augsburg,2025,L1
+FC Augsburg,167,Phillip Tietz,288340,€5.00m,5000000.0,https://www.transfermarkt.com/phillip-tietz/profil/spieler/288340,phillip tietz,fc augsburg,2025,L1
+FC Augsburg,167,Samuel Essende,395522,€4.50m,4500000.0,https://www.transfermarkt.com/samuel-essende/profil/spieler/395522,samuel essende,fc augsburg,2025,L1
+1.FC Union Berlin,89,Frederik Rönnow,107775,€3.00m,3000000.0,https://www.transfermarkt.com/frederik-ronnow/profil/spieler/107775,frederik ronnow,1.fc union berlin,2025,L1
+1.FC Union Berlin,89,Matheo Raab,386685,€600k,600000.0,https://www.transfermarkt.com/matheo-raab/profil/spieler/386685,matheo raab,1.fc union berlin,2025,L1
+1.FC Union Berlin,89,Carl Klaus,161057,€350k,350000.0,https://www.transfermarkt.com/carl-klaus/profil/spieler/161057,carl klaus,1.fc union berlin,2025,L1
+1.FC Union Berlin,89,Leopold Querfeld,597432,€15.00m,15000000.0,https://www.transfermarkt.com/leopold-querfeld/profil/spieler/597432,leopold querfeld,1.fc union berlin,2025,L1
+1.FC Union Berlin,89,Danilho Doekhi,387047,€13.00m,13000000.0,https://www.transfermarkt.com/danilho-doekhi/profil/spieler/387047,danilho doekhi,1.fc union berlin,2025,L1
+1.FC Union Berlin,89,Diogo Leite,357156,€12.00m,12000000.0,https://www.transfermarkt.com/diogo-leite/profil/spieler/357156,diogo leite,1.fc union berlin,2025,L1
+1.FC Union Berlin,89,Stanley Nsoki,371141,€2.50m,2500000.0,https://www.transfermarkt.com/stanley-nsoki/profil/spieler/371141,stanley nsoki,1.fc union berlin,2025,L1
+1.FC Union Berlin,89,Oluwaseun Ogbemudia,995520,-,,https://www.transfermarkt.com/oluwaseun-ogbemudia/profil/spieler/995520,oluwaseun ogbemudia,1.fc union berlin,2025,L1
+1.FC Union Berlin,89,Tom Rothe,798043,€10.00m,10000000.0,https://www.transfermarkt.com/tom-rothe/profil/spieler/798043,tom rothe,1.fc union berlin,2025,L1
+1.FC Union Berlin,89,Derrick Köhn,391780,€5.00m,5000000.0,https://www.transfermarkt.com/derrick-kohn/profil/spieler/391780,derrick kohn,1.fc union berlin,2025,L1
+1.FC Union Berlin,89,Andrik Markgraf,1027870,-,,https://www.transfermarkt.com/andrik-markgraf/profil/spieler/1027870,andrik markgraf,1.fc union berlin,2025,L1
+1.FC Union Berlin,89,Josip Juranovic,362977,€3.00m,3000000.0,https://www.transfermarkt.com/josip-juranovic/profil/spieler/362977,josip juranovic,1.fc union berlin,2025,L1
+1.FC Union Berlin,89,Christopher Trimmel,75921,€600k,600000.0,https://www.transfermarkt.com/christopher-trimmel/profil/spieler/75921,christopher trimmel,1.fc union berlin,2025,L1
+1.FC Union Berlin,89,Aljoscha Kemlein,692737,€7.00m,7000000.0,https://www.transfermarkt.com/aljoscha-kemlein/profil/spieler/692737,aljoscha kemlein,1.fc union berlin,2025,L1
+1.FC Union Berlin,89,Rani Khedira,124410,€2.50m,2500000.0,https://www.transfermarkt.com/rani-khedira/profil/spieler/124410,rani khedira,1.fc union berlin,2025,L1
+1.FC Union Berlin,89,András Schäfer,454863,€5.00m,5000000.0,https://www.transfermarkt.com/andras-schafer/profil/spieler/454863,andras schafer,1.fc union berlin,2025,L1
+1.FC Union Berlin,89,Alex Král,337333,€5.00m,5000000.0,https://www.transfermarkt.com/alex-kral/profil/spieler/337333,alex kral,1.fc union berlin,2025,L1
+1.FC Union Berlin,89,Janik Haberer,177779,€2.50m,2500000.0,https://www.transfermarkt.com/janik-haberer/profil/spieler/177779,janik haberer,1.fc union berlin,2025,L1
+1.FC Union Berlin,89,Robert Skov,270393,€4.00m,4000000.0,https://www.transfermarkt.com/robert-skov/profil/spieler/270393,robert skov,1.fc union berlin,2025,L1
+1.FC Union Berlin,89,Woo-yeong Jeong,297583,€4.00m,4000000.0,https://www.transfermarkt.com/woo-yeong-jeong/profil/spieler/297583,woo-yeong jeong,1.fc union berlin,2025,L1
+1.FC Union Berlin,89,Livan Burcu,519872,€4.00m,4000000.0,https://www.transfermarkt.com/livan-burcu/profil/spieler/519872,livan burcu,1.fc union berlin,2025,L1
+1.FC Union Berlin,89,David Preu,745075,€400k,400000.0,https://www.transfermarkt.com/david-preu/profil/spieler/745075,david preu,1.fc union berlin,2025,L1
+1.FC Union Berlin,89,Ilyas Ansah,1035765,€10.00m,10000000.0,https://www.transfermarkt.com/ilyas-ansah/profil/spieler/1035765,ilyas ansah,1.fc union berlin,2025,L1
+1.FC Union Berlin,89,Andrej Ilic,583699,€6.00m,6000000.0,https://www.transfermarkt.com/andrej-ilic/profil/spieler/583699,andrej ilic,1.fc union berlin,2025,L1
+1.FC Union Berlin,89,Oliver Burke,341317,€4.00m,4000000.0,https://www.transfermarkt.com/oliver-burke/profil/spieler/341317,oliver burke,1.fc union berlin,2025,L1
+1.FC Union Berlin,89,Marin Ljubicic,838236,€3.00m,3000000.0,https://www.transfermarkt.com/marin-ljubicic/profil/spieler/838236,marin ljubicic,1.fc union berlin,2025,L1
+1.FC Union Berlin,89,Tim Skarke,287920,€2.00m,2000000.0,https://www.transfermarkt.com/tim-skarke/profil/spieler/287920,tim skarke,1.fc union berlin,2025,L1
+1.FC Union Berlin,89,Dmytro Bogdanov,1045446,€250k,250000.0,https://www.transfermarkt.com/dmytro-bogdanov/profil/spieler/1045446,dmytro bogdanov,1.fc union berlin,2025,L1
+Hamburger SV,41,Daniel Peretz,468539,€2.00m,2000000.0,https://www.transfermarkt.com/daniel-peretz/profil/spieler/468539,daniel peretz,hamburger sv,2025,L1
+Hamburger SV,41,Daniel Heuer Fernandes,84993,€1.20m,1200000.0,https://www.transfermarkt.com/daniel-heuer-fernandes/profil/spieler/84993,daniel heuer fernandes,hamburger sv,2025,L1
+Hamburger SV,41,Hannes Hermann,894692,€150k,150000.0,https://www.transfermarkt.com/hannes-hermann/profil/spieler/894692,hannes hermann,hamburger sv,2025,L1
+Hamburger SV,41,Fernando Dickes,1048715,-,,https://www.transfermarkt.com/fernando-dickes/profil/spieler/1048715,fernando dickes,hamburger sv,2025,L1
+Hamburger SV,41,Luka Vuskovic,892160,€18.00m,18000000.0,https://www.transfermarkt.com/luka-vuskovic/profil/spieler/892160,luka vuskovic,hamburger sv,2025,L1
+Hamburger SV,41,Jordan Torunarigha,227110,€4.00m,4000000.0,https://www.transfermarkt.com/jordan-torunarigha/profil/spieler/227110,jordan torunarigha,hamburger sv,2025,L1
+Hamburger SV,41,Daniel Elfadli,529895,€3.50m,3500000.0,https://www.transfermarkt.com/daniel-elfadli/profil/spieler/529895,daniel elfadli,hamburger sv,2025,L1
+Hamburger SV,41,Warmed Omari,711996,€3.00m,3000000.0,https://www.transfermarkt.com/warmed-omari/profil/spieler/711996,warmed omari,hamburger sv,2025,L1
+Hamburger SV,41,Aboubaka Soumahoro,1052420,€1.80m,1800000.0,https://www.transfermarkt.com/aboubaka-soumahoro/profil/spieler/1052420,aboubaka soumahoro,hamburger sv,2025,L1
+Hamburger SV,41,Gui Ramos,340521,€700k,700000.0,https://www.transfermarkt.com/gui-ramos/profil/spieler/340521,gui ramos,hamburger sv,2025,L1
+Hamburger SV,41,Miro Muheim,298603,€4.00m,4000000.0,https://www.transfermarkt.com/miro-muheim/profil/spieler/298603,miro muheim,hamburger sv,2025,L1
+Hamburger SV,41,Noah Katterbach,469949,€600k,600000.0,https://www.transfermarkt.com/noah-katterbach/profil/spieler/469949,noah katterbach,hamburger sv,2025,L1
+Hamburger SV,41,Giorgi Gocholeishvili,540056,€3.50m,3500000.0,https://www.transfermarkt.com/giorgi-gocholeishvili/profil/spieler/540056,giorgi gocholeishvili,hamburger sv,2025,L1
+Hamburger SV,41,William Mikelbrencis,743500,€2.00m,2000000.0,https://www.transfermarkt.com/william-mikelbrencis/profil/spieler/743500,william mikelbrencis,hamburger sv,2025,L1
+Hamburger SV,41,Silvan Hefti,237666,€1.00m,1000000.0,https://www.transfermarkt.com/silvan-hefti/profil/spieler/237666,silvan hefti,hamburger sv,2025,L1
+Hamburger SV,41,Nicolai Remberg,592534,€4.00m,4000000.0,https://www.transfermarkt.com/nicolai-remberg/profil/spieler/592534,nicolai remberg,hamburger sv,2025,L1
+Hamburger SV,41,Jonas Meffert,107574,€1.00m,1000000.0,https://www.transfermarkt.com/jonas-meffert/profil/spieler/107574,jonas meffert,hamburger sv,2025,L1
+Hamburger SV,41,Albert Sambi Lokonga,381967,€6.00m,6000000.0,https://www.transfermarkt.com/albert-sambi-lokonga/profil/spieler/381967,albert sambi lokonga,hamburger sv,2025,L1
+Hamburger SV,41,Nicolás Capaldo,649672,€4.00m,4000000.0,https://www.transfermarkt.com/nicolas-capaldo/profil/spieler/649672,nicolas capaldo,hamburger sv,2025,L1
+Hamburger SV,41,Fábio Vieira,537598,€18.00m,18000000.0,https://www.transfermarkt.com/fabio-vieira/profil/spieler/537598,fabio vieira,hamburger sv,2025,L1
+Hamburger SV,41,Immanuel Pherai,412935,€1.80m,1800000.0,https://www.transfermarkt.com/immanuel-pherai/profil/spieler/412935,immanuel pherai,hamburger sv,2025,L1
+Hamburger SV,41,Jean-Luc Dompé,291222,€3.50m,3500000.0,https://www.transfermarkt.com/jean-luc-dompe/profil/spieler/291222,jean-luc dompe,hamburger sv,2025,L1
+Hamburger SV,41,Alexander Røssing-Lelesiit,1213681,€3.50m,3500000.0,https://www.transfermarkt.com/alexander-rossing-lelesiit/profil/spieler/1213681,alexander røssing-lelesiit,hamburger sv,2025,L1
+Hamburger SV,41,Fabio Baldé,910541,€2.00m,2000000.0,https://www.transfermarkt.com/fabio-balde/profil/spieler/910541,fabio balde,hamburger sv,2025,L1
+Hamburger SV,41,Rayan Philippe,694507,€4.00m,4000000.0,https://www.transfermarkt.com/rayan-philippe/profil/spieler/694507,rayan philippe,hamburger sv,2025,L1
+Hamburger SV,41,Emir Sahiti,403177,€2.00m,2000000.0,https://www.transfermarkt.com/emir-sahiti/profil/spieler/403177,emir sahiti,hamburger sv,2025,L1
+Hamburger SV,41,Bakery Jatta,415194,€700k,700000.0,https://www.transfermarkt.com/bakery-jatta/profil/spieler/415194,bakery jatta,hamburger sv,2025,L1
+Hamburger SV,41,Ransford Königsdörffer,470038,€6.00m,6000000.0,https://www.transfermarkt.com/ransford-konigsdorffer/profil/spieler/470038,ransford konigsdorffer,hamburger sv,2025,L1
+Hamburger SV,41,Yussuf Poulsen,157635,€2.50m,2500000.0,https://www.transfermarkt.com/yussuf-poulsen/profil/spieler/157635,yussuf poulsen,hamburger sv,2025,L1
+Hamburger SV,41,Robert Glatzel,196139,€2.00m,2000000.0,https://www.transfermarkt.com/robert-glatzel/profil/spieler/196139,robert glatzel,hamburger sv,2025,L1
+1.FC Köln,3,Marvin Schwäbe,160929,€3.00m,3000000.0,https://www.transfermarkt.com/marvin-schwabe/profil/spieler/160929,marvin schwabe,1.fc koln,2025,L1
+1.FC Köln,3,Ron-Robert Zieler,21327,€500k,500000.0,https://www.transfermarkt.com/ron-robert-zieler/profil/spieler/21327,ron-robert zieler,1.fc koln,2025,L1
+1.FC Köln,3,Matthias Köbbing,227089,€100k,100000.0,https://www.transfermarkt.com/matthias-kobbing/profil/spieler/227089,matthias kobbing,1.fc koln,2025,L1
+1.FC Köln,3,Rav van den Berg,640556,€8.00m,8000000.0,https://www.transfermarkt.com/rav-van-den-berg/profil/spieler/640556,rav van den berg,1.fc koln,2025,L1
+1.FC Köln,3,Joël Schmied,322517,€3.50m,3500000.0,https://www.transfermarkt.com/joel-schmied/profil/spieler/322517,joel schmied,1.fc koln,2025,L1
+1.FC Köln,3,Timo Hübers,236981,€3.00m,3000000.0,https://www.transfermarkt.com/timo-hubers/profil/spieler/236981,timo hubers,1.fc koln,2025,L1
+1.FC Köln,3,Cenk Özkacar,615350,€1.20m,1200000.0,https://www.transfermarkt.com/cenk-ozkacar/profil/spieler/615350,cenk ozkacar,1.fc koln,2025,L1
+1.FC Köln,3,Dominique Heintz,110036,€800k,800000.0,https://www.transfermarkt.com/dominique-heintz/profil/spieler/110036,dominique heintz,1.fc koln,2025,L1
+1.FC Köln,3,Neo Telle,917792,€300k,300000.0,https://www.transfermarkt.com/neo-telle/profil/spieler/917792,neo telle,1.fc koln,2025,L1
+1.FC Köln,3,Luca Kilian,384553,€100k,100000.0,https://www.transfermarkt.com/luca-kilian/profil/spieler/384553,luca kilian,1.fc koln,2025,L1
+1.FC Köln,3,Kristoffer Lund,623773,€2.70m,2700000.0,https://www.transfermarkt.com/kristoffer-lund/profil/spieler/623773,kristoffer lund,1.fc koln,2025,L1
+1.FC Köln,3,Sebastian Sebulonsen,592387,€4.00m,4000000.0,https://www.transfermarkt.com/sebastian-sebulonsen/profil/spieler/592387,sebastian sebulonsen,1.fc koln,2025,L1
+1.FC Köln,3,Jusuf Gazibegovic,393745,€3.00m,3000000.0,https://www.transfermarkt.com/jusuf-gazibegovic/profil/spieler/393745,jusuf gazibegovic,1.fc koln,2025,L1
+1.FC Köln,3,Eric Martel,597000,€8.00m,8000000.0,https://www.transfermarkt.com/eric-martel/profil/spieler/597000,eric martel,1.fc koln,2025,L1
+1.FC Köln,3,Fayssal Harchaoui,890532,€200k,200000.0,https://www.transfermarkt.com/fayssal-harchaoui/profil/spieler/890532,fayssal harchaoui,1.fc koln,2025,L1
+1.FC Köln,3,Ísak Jóhannesson,579565,€10.00m,10000000.0,https://www.transfermarkt.com/isak-johannesson/profil/spieler/579565,isak johannesson,1.fc koln,2025,L1
+1.FC Köln,3,Tom Krauß,405687,€4.00m,4000000.0,https://www.transfermarkt.com/tom-krauss/profil/spieler/405687,tom krauß,1.fc koln,2025,L1
+1.FC Köln,3,Denis Huseinbasic,678479,€2.80m,2800000.0,https://www.transfermarkt.com/denis-huseinbasic/profil/spieler/678479,denis huseinbasic,1.fc koln,2025,L1
+1.FC Köln,3,Emin Kujovic,795724,€125k,125000.0,https://www.transfermarkt.com/emin-kujovic/profil/spieler/795724,emin kujovic,1.fc koln,2025,L1
+1.FC Köln,3,Alessio Castro-Montes,340166,€3.50m,3500000.0,https://www.transfermarkt.com/alessio-castro-montes/profil/spieler/340166,alessio castro-montes,1.fc koln,2025,L1
+1.FC Köln,3,Florian Kainz,106270,€1.70m,1700000.0,https://www.transfermarkt.com/florian-kainz/profil/spieler/106270,florian kainz,1.fc koln,2025,L1
+1.FC Köln,3,Said El Mala,1168219,€18.00m,18000000.0,https://www.transfermarkt.com/said-el-mala/profil/spieler/1168219,said el mala,1.fc koln,2025,L1
+1.FC Köln,3,Jakub Kamiński,407098,€7.00m,7000000.0,https://www.transfermarkt.com/jakub-kaminski/profil/spieler/407098,jakub kaminski,1.fc koln,2025,L1
+1.FC Köln,3,Linton Maina,335103,€4.00m,4000000.0,https://www.transfermarkt.com/linton-maina/profil/spieler/335103,linton maina,1.fc koln,2025,L1
+1.FC Köln,3,Marius Bülter,116088,€2.50m,2500000.0,https://www.transfermarkt.com/marius-bulter/profil/spieler/116088,marius bulter,1.fc koln,2025,L1
+1.FC Köln,3,Jan Thielmann,472249,€5.00m,5000000.0,https://www.transfermarkt.com/jan-thielmann/profil/spieler/472249,jan thielmann,1.fc koln,2025,L1
+1.FC Köln,3,Ragnar Ache,416380,€7.00m,7000000.0,https://www.transfermarkt.com/ragnar-ache/profil/spieler/416380,ragnar ache,1.fc koln,2025,L1
+1.FC Köln,3,Luca Waldschmidt,196095,€2.00m,2000000.0,https://www.transfermarkt.com/luca-waldschmidt/profil/spieler/196095,luca waldschmidt,1.fc koln,2025,L1
+1.FC Köln,3,Malek El Mala,1168222,€250k,250000.0,https://www.transfermarkt.com/malek-el-mala/profil/spieler/1168222,malek el mala,1.fc koln,2025,L1
+FC St. Pauli,35,Nikola Vasilj,248454,€4.50m,4500000.0,https://www.transfermarkt.com/nikola-vasilj/profil/spieler/248454,nikola vasilj,fc st. pauli,2025,L1
+FC St. Pauli,35,Ben Voll,453742,€500k,500000.0,https://www.transfermarkt.com/ben-voll/profil/spieler/453742,ben voll,fc st. pauli,2025,L1
+FC St. Pauli,35,Simon Spari,527597,€350k,350000.0,https://www.transfermarkt.com/simon-spari/profil/spieler/527597,simon spari,fc st. pauli,2025,L1
+FC St. Pauli,35,Eric Smith,292534,€6.00m,6000000.0,https://www.transfermarkt.com/eric-smith/profil/spieler/292534,eric smith,fc st. pauli,2025,L1
+FC St. Pauli,35,David Nemeth,451906,€4.00m,4000000.0,https://www.transfermarkt.com/david-nemeth/profil/spieler/451906,david nemeth,fc st. pauli,2025,L1
+FC St. Pauli,35,Hauke Wahl,154147,€1.50m,1500000.0,https://www.transfermarkt.com/hauke-wahl/profil/spieler/154147,hauke wahl,fc st. pauli,2025,L1
+FC St. Pauli,35,Karol Mets,139304,€900k,900000.0,https://www.transfermarkt.com/karol-mets/profil/spieler/139304,karol mets,fc st. pauli,2025,L1
+FC St. Pauli,35,Adam Dzwigala,236966,€900k,900000.0,https://www.transfermarkt.com/adam-dzwigala/profil/spieler/236966,adam dzwigala,fc st. pauli,2025,L1
+FC St. Pauli,35,Jannik Robatsch,909860,€600k,600000.0,https://www.transfermarkt.com/jannik-robatsch/profil/spieler/909860,jannik robatsch,fc st. pauli,2025,L1
+FC St. Pauli,35,Louis Oppie,605265,€3.00m,3000000.0,https://www.transfermarkt.com/louis-oppie/profil/spieler/605265,louis oppie,fc st. pauli,2025,L1
+FC St. Pauli,35,Lars Ritzka,333903,€1.00m,1000000.0,https://www.transfermarkt.com/lars-ritzka/profil/spieler/333903,lars ritzka,fc st. pauli,2025,L1
+FC St. Pauli,35,Manolis Saliakas,242661,€3.00m,3000000.0,https://www.transfermarkt.com/manolis-saliakas/profil/spieler/242661,manolis saliakas,fc st. pauli,2025,L1
+FC St. Pauli,35,Arkadiusz Pyrka,599733,€2.00m,2000000.0,https://www.transfermarkt.com/arkadiusz-pyrka/profil/spieler/599733,arkadiusz pyrka,fc st. pauli,2025,L1
+FC St. Pauli,35,Fin Stevens,587019,€500k,500000.0,https://www.transfermarkt.com/fin-stevens/profil/spieler/587019,fin stevens,fc st. pauli,2025,L1
+FC St. Pauli,35,James Sands,393321,€4.00m,4000000.0,https://www.transfermarkt.com/james-sands/profil/spieler/393321,james sands,fc st. pauli,2025,L1
+FC St. Pauli,35,Marwin Schmitz,1003534,€200k,200000.0,https://www.transfermarkt.com/marwin-schmitz/profil/spieler/1003534,marwin schmitz,fc st. pauli,2025,L1
+FC St. Pauli,35,Joel Chima Fujita,697277,€6.00m,6000000.0,https://www.transfermarkt.com/joel-chima-fujita/profil/spieler/697277,joel chima fujita,fc st. pauli,2025,L1
+FC St. Pauli,35,Connor Metcalfe,522223,€2.50m,2500000.0,https://www.transfermarkt.com/connor-metcalfe/profil/spieler/522223,connor metcalfe,fc st. pauli,2025,L1
+FC St. Pauli,35,Jackson Irvine,192557,€2.00m,2000000.0,https://www.transfermarkt.com/jackson-irvine/profil/spieler/192557,jackson irvine,fc st. pauli,2025,L1
+FC St. Pauli,35,Erik Ahlstrand,501049,€500k,500000.0,https://www.transfermarkt.com/erik-ahlstrand/profil/spieler/501049,erik ahlstrand,fc st. pauli,2025,L1
+FC St. Pauli,35,Nick Schmidt,1152232,€125k,125000.0,https://www.transfermarkt.com/nick-schmidt/profil/spieler/1152232,nick schmidt,fc st. pauli,2025,L1
+FC St. Pauli,35,Danel Sinani,346499,€3.00m,3000000.0,https://www.transfermarkt.com/danel-sinani/profil/spieler/346499,danel sinani,fc st. pauli,2025,L1
+FC St. Pauli,35,Mathias Pereira Lage,424072,€3.50m,3500000.0,https://www.transfermarkt.com/mathias-pereira-lage/profil/spieler/424072,mathias pereira lage,fc st. pauli,2025,L1
+FC St. Pauli,35,Romeo Aigbekaen,795387,€100k,100000.0,https://www.transfermarkt.com/romeo-aigbekaen/profil/spieler/795387,romeo aigbekaen,fc st. pauli,2025,L1
+FC St. Pauli,35,Oladapo Afolayan,487850,€3.00m,3000000.0,https://www.transfermarkt.com/oladapo-afolayan/profil/spieler/487850,oladapo afolayan,fc st. pauli,2025,L1
+FC St. Pauli,35,Andréas Hountondji,704155,€5.00m,5000000.0,https://www.transfermarkt.com/andreas-hountondji/profil/spieler/704155,andreas hountondji,fc st. pauli,2025,L1
+FC St. Pauli,35,Martijn Kaars,377729,€4.00m,4000000.0,https://www.transfermarkt.com/martijn-kaars/profil/spieler/377729,martijn kaars,fc st. pauli,2025,L1
+FC St. Pauli,35,Ricky-Jade Jones,677935,€900k,900000.0,https://www.transfermarkt.com/ricky-jade-jones/profil/spieler/677935,ricky-jade jones,fc st. pauli,2025,L1
+FC St. Pauli,35,Abdoulie Ceesay,1280281,€500k,500000.0,https://www.transfermarkt.com/abdoulie-ceesay/profil/spieler/1280281,abdoulie ceesay,fc st. pauli,2025,L1
+1.FC Heidenheim 1846,2036,Diant Ramaj,448705,€7.00m,7000000.0,https://www.transfermarkt.com/diant-ramaj/profil/spieler/448705,diant ramaj,1.fc heidenheim 1846,2025,L1
+1.FC Heidenheim 1846,2036,Frank Feller,806948,€500k,500000.0,https://www.transfermarkt.com/frank-feller/profil/spieler/806948,frank feller,1.fc heidenheim 1846,2025,L1
+1.FC Heidenheim 1846,2036,Kevin Müller,43824,€400k,400000.0,https://www.transfermarkt.com/kevin-muller/profil/spieler/43824,kevin muller,1.fc heidenheim 1846,2025,L1
+1.FC Heidenheim 1846,2036,Paul Tschernuth,519035,€100k,100000.0,https://www.transfermarkt.com/paul-tschernuth/profil/spieler/519035,paul tschernuth,1.fc heidenheim 1846,2025,L1
+1.FC Heidenheim 1846,2036,Benedikt Gimber,227084,€3.00m,3000000.0,https://www.transfermarkt.com/benedikt-gimber/profil/spieler/227084,benedikt gimber,1.fc heidenheim 1846,2025,L1
+1.FC Heidenheim 1846,2036,Patrick Mainka,133731,€3.00m,3000000.0,https://www.transfermarkt.com/patrick-mainka/profil/spieler/133731,patrick mainka,1.fc heidenheim 1846,2025,L1
+1.FC Heidenheim 1846,2036,Tim Siersleben,337092,€2.00m,2000000.0,https://www.transfermarkt.com/tim-siersleben/profil/spieler/337092,tim siersleben,1.fc heidenheim 1846,2025,L1
+1.FC Heidenheim 1846,2036,Adam Kölle,921431,€800k,800000.0,https://www.transfermarkt.com/adam-kolle/profil/spieler/921431,adam kolle,1.fc heidenheim 1846,2025,L1
+1.FC Heidenheim 1846,2036,Thomas Keller,485747,€500k,500000.0,https://www.transfermarkt.com/thomas-keller/profil/spieler/485747,thomas keller,1.fc heidenheim 1846,2025,L1
+1.FC Heidenheim 1846,2036,Jonas Föhrenbach,192169,€1.50m,1500000.0,https://www.transfermarkt.com/jonas-fohrenbach/profil/spieler/192169,jonas fohrenbach,1.fc heidenheim 1846,2025,L1
+1.FC Heidenheim 1846,2036,Leart Paçarada,107219,€1.50m,1500000.0,https://www.transfermarkt.com/leart-pacarada/profil/spieler/107219,leart pacarada,1.fc heidenheim 1846,2025,L1
+1.FC Heidenheim 1846,2036,Omar Traoré,388294,€4.00m,4000000.0,https://www.transfermarkt.com/omar-traore/profil/spieler/388294,omar traore,1.fc heidenheim 1846,2025,L1
+1.FC Heidenheim 1846,2036,Marnon Busch,117478,€1.20m,1200000.0,https://www.transfermarkt.com/marnon-busch/profil/spieler/117478,marnon busch,1.fc heidenheim 1846,2025,L1
+1.FC Heidenheim 1846,2036,Niklas Dorsch,251302,€3.50m,3500000.0,https://www.transfermarkt.com/niklas-dorsch/profil/spieler/251302,niklas dorsch,1.fc heidenheim 1846,2025,L1
+1.FC Heidenheim 1846,2036,Julian Niehues,530173,€1.50m,1500000.0,https://www.transfermarkt.com/julian-niehues/profil/spieler/530173,julian niehues,1.fc heidenheim 1846,2025,L1
+1.FC Heidenheim 1846,2036,Jan Schöppner,581357,€4.00m,4000000.0,https://www.transfermarkt.com/jan-schoppner/profil/spieler/581357,jan schoppner,1.fc heidenheim 1846,2025,L1
+1.FC Heidenheim 1846,2036,Luca Kerber,809498,€2.50m,2500000.0,https://www.transfermarkt.com/luca-kerber/profil/spieler/809498,luca kerber,1.fc heidenheim 1846,2025,L1
+1.FC Heidenheim 1846,2036,Nick Rothweiler,1052350,-,,https://www.transfermarkt.com/nick-rothweiler/profil/spieler/1052350,nick rothweiler,1.fc heidenheim 1846,2025,L1
+1.FC Heidenheim 1846,2036,Arijon Ibrahimovic,744728,€4.00m,4000000.0,https://www.transfermarkt.com/arijon-ibrahimovic/profil/spieler/744728,arijon ibrahimovic,1.fc heidenheim 1846,2025,L1
+1.FC Heidenheim 1846,2036,Adrian Beck,273669,€2.00m,2000000.0,https://www.transfermarkt.com/adrian-beck/profil/spieler/273669,adrian beck,1.fc heidenheim 1846,2025,L1
+1.FC Heidenheim 1846,2036,Mathias Honsak,283497,€2.00m,2000000.0,https://www.transfermarkt.com/mathias-honsak/profil/spieler/283497,mathias honsak,1.fc heidenheim 1846,2025,L1
+1.FC Heidenheim 1846,2036,Yannik Wagner,1153628,€500k,500000.0,https://www.transfermarkt.com/yannik-wagner/profil/spieler/1153628,yannik wagner,1.fc heidenheim 1846,2025,L1
+1.FC Heidenheim 1846,2036,Sirlord Conteh,307183,€1.50m,1500000.0,https://www.transfermarkt.com/sirlord-conteh/profil/spieler/307183,sirlord conteh,1.fc heidenheim 1846,2025,L1
+1.FC Heidenheim 1846,2036,Marvin Pieringer,471055,€5.50m,5500000.0,https://www.transfermarkt.com/marvin-pieringer/profil/spieler/471055,marvin pieringer,1.fc heidenheim 1846,2025,L1
+1.FC Heidenheim 1846,2036,Budu Zivzivadze,187097,€2.00m,2000000.0,https://www.transfermarkt.com/budu-zivzivadze/profil/spieler/187097,budu zivzivadze,1.fc heidenheim 1846,2025,L1
+1.FC Heidenheim 1846,2036,Mikkel Kaufmann,545332,€1.80m,1800000.0,https://www.transfermarkt.com/mikkel-kaufmann/profil/spieler/545332,mikkel kaufmann,1.fc heidenheim 1846,2025,L1
+1.FC Heidenheim 1846,2036,Stefan Schimmer,394033,€500k,500000.0,https://www.transfermarkt.com/stefan-schimmer/profil/spieler/394033,stefan schimmer,1.fc heidenheim 1846,2025,L1

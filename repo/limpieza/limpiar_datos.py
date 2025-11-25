@@ -16,7 +16,8 @@ def eliminarguiones(df):
         df[col]=df[col].replace("-", pd.NA)
     return df
 def eliminar_col_mercado(df):
-    df = df.drop(columns=["comp_name", "season_start_year", "player_dob", "date_joined", "joined_from", "contract_expiry", "player_url"])
+    cols = ["club", "player", "market_value_eur", "season", "competition_code"]  # columnas deseadas
+    df = df[cols]
     return df
 
 def cambiar_tipos_mercado(df):
@@ -29,8 +30,8 @@ def cambiar_tipos_mercado(df):
         "player_nationality",
         "current_club",
         "player_foot",
-        "Season",
-        "Liga",
+        "season",
+        "liga",
     ]
     for col in str_cols:
         if col in df.columns:
@@ -55,31 +56,7 @@ def cambiar_tipos_mercado(df):
             df[col] = pd.to_numeric(df[col], errors="coerce").astype("Int64")
     return df
 
-def aniadir_nombre_y_temporada(file, df):
-    if "Bundesliga" in file:
-        df["Liga"] = "Bundesliga"
-    if "EPL" in file:
-        df["Liga"] = "Premier-League"
-    if "Ligue_1" in file:
-        df["Liga"] = "Ligue-1"
-    if "Serie_A" in file:
-        df["Liga"] = "Serie-A"
-    if "La_Liga" in file:
-        df["Liga"] = "La-Liga"
 
-    if "20_21" in file:
-        df["Season"] = "2020-2021"
-    if "21_22" in file:
-        df["Season"] = "2021-2022"
-    if "22_23" in file:
-        df["Season"] = "2022-2023"
-    if "23_24" in file:
-        df["Season"] = "2023-2024"
-    if "24_25" in file:
-        df["Season"] = "2024-2025"
-    if "25_26" in file:
-        df["Season"] = "2025-2026"
-    return df
 
 def limpiar_valores_invalidos(df: pd.DataFrame) -> pd.DataFrame:
     """
@@ -113,33 +90,135 @@ def save_parquet_string_safe(df, path):
     table = pa.Table.from_pandas(df, schema=schema)
     pq.write_table(table, path)
 
-def limpiar_mercado():
-    rutaIn = os.path.join(FOLDERIN, "mercado")
+def aniadir_nombre_y_temporada(file, df):
+    fname = file.lower()
+
+    if "bundesliga" in fname:
+        liga = "Bundesliga"
+    elif "epl" in fname:
+        liga = "Premier-League"
+    elif "ligue_1" in fname:
+        liga = "Ligue-1"
+    elif "serie_a" in fname:
+        liga = "Serie-A"
+    elif "la_liga":
+        liga = "La-liga"
+
+    
+    df["liga"] = liga
+
+    # --- season desde nombre de archivo ---
+    season = None
+    if ("20_21" in fname) or ("2021" in fname):
+        season = "2020-2021"
+    elif ("21_22" in fname) or ("2022" in fname):
+        season = "2021-2022"
+    elif ("22_23" in fname) or ("2023" in fname):
+        season = "2022-2023"
+    elif ("23_24" in fname) or ("2024" in fname):
+        season = "2023-2024"
+    elif ("24_25" in fname) or ("2025" in fname):
+        season = "2024-2025"
+    elif ("25_26" in fname) or ("2026" in fname):
+        season = "2025-2026"
+
+    df["season"] = season
+    
+    return df
+
+def aniadir_nombre_y_temporada_mercado(file, df):
+    fname = file.lower()
+    if "l1" in fname:
+        liga = "Bundesliga"
+    elif "gb1" in fname:
+        liga = "Premier-League"
+    elif "fr1" in fname:
+        liga = "Ligue-1"
+    elif "it1" in fname:
+        liga = "Serie-A"
+    elif "es1":
+        liga = "La-liga"
+
+    
+    df["liga"] = liga
+
+    # --- season desde nombre de archivo ---
+    season = None
+    if ("2021" in fname) or ("2021" in fname):
+        season = "2020-2021"
+    elif ("2022" in fname) or ("2022" in fname):
+        season = "2021-2022"
+    elif ("2023" in fname) or ("2023" in fname):
+        season = "2022-2023"
+    elif ("2024" in fname) or ("2024" in fname):
+        season = "2023-2024"
+    elif ("2025" in fname) or ("2025" in fname):
+        season = "2024-2025"
+    elif ("2026" in fname) or ("2026" in fname):
+        season = "2025-2026"
+    
+    df["season"] = season
+    '''
+    df["season"] = df["season"].astype(str).replace({
+    "2021": "2020-2021",
+    "2022": "2021-2022",
+    "2023": "2022-2023",
+    "2024": "2023-2024",
+    "2025": "2024-2025",
+    "2026": "2025-2026",
+
+    })
+
+    df["competition_code"] = df["competition_code"].astype(str)
+
+    df.loc[df["competition_code"].str.contains("ES", na=False), "competition_code"] = "La-liga"
+    df.loc[df["competition_code"].str.contains("GB", na=False), "competition_code"] = "Premier-League"
+    df.loc[df["competition_code"].str.contains("FR", na=False), "competition_code"] = "Ligue-1"
+    df.loc[df["competition_code"].str.contains("IT", na=False), "competition_code"] = "Serie-A"
+    df.loc[df["competition_code"].str.contains("L1",  na=False), "competition_code"] = "Bundesliga"'''
+    return df
+
+def eliminar_col_info(df):
+    cols = ["player_name", "team_name", "position", "age", "height_cm", "nationality", "market_value", "contract_expires", ]  # columnas deseadas
+    df = df[cols]
+    return df
+
+def limpiar_info():
+    rutaIn = os.path.join(FOLDERIN, "info")
     for file in os.listdir(rutaIn):
         if file.endswith(".csv"):
             pathIn = os.path.join(rutaIn, file)
             print(f"Procesando: {file}")
             # Cargar CSV
             df = pd.read_csv(pathIn)
-            #elimnar columnas
-            df = eliminar_col_mercado(df)
+            #elimnar columas
+            df = eliminar_col_info(df)
             df = eliminarguiones(df)
             # Eliminar duplicados
             df = df.drop_duplicates()
             # Eliminar filas totalmente nulas o con un mínimo de columnas nulas
+            df = aniadir_nombre_y_temporada_mercado(file, df)
+
             df = limpiar_valores_invalidos(df)
             #cambiar los tipos de cada columna
             df = cambiar_tipos_mercado(df)
-            df["source"]="transfermarkt"
+            df["source"]="info_transfermarkt"
             df = df.rename(columns={
 
-                "squad": "team_name",
+                "season": "season",
+                "competition_code": "liga"
             })
-            nuevo_file = file.replace("_raw", "").replace(".csv", ".parquet")
-            pathOut = os.path.join(FOLDEROUT, "mercado", nuevo_file)
+            df["player_name"] = df["player_name"].astype(str)
+            df["team_name"]   = df["team_name"].astype(str)
+            df["liga"]        = df["liga"].astype(str)
+            df["season"]      = df["season"].astype(str)
+            df["source"]      = df["source"].astype(str)
+            nuevo_file = file.replace(".csv", ".parquet")
+            pathOut = os.path.join(FOLDEROUT, "info", nuevo_file)
             #guardar en parquet en formato limpio limpio
             df.to_parquet(pathOut, index=False)
             print(f"Archivo: {file} limpio y guardado en: {pathOut}")
+
 
 def limpiar_sofascore():
     rutaIn = os.path.join(FOLDERIN, "sofascore")
@@ -149,7 +228,7 @@ def limpiar_sofascore():
             print(f"Procesando: {file}")
             # Cargar CSV
             df = pd.read_csv(pathIn)
-            df = df.drop(columns=["player id", "team id", "hitWoodwork", "minutesPlayed", "appearances"])
+            df = df.drop(columns=["player id", "team id", "hitWoodwork", "minutesPlayed", "appearances", "expectedGoals"])
             # Eliminar duplicados
             df = df.drop_duplicates()
             # Eliminar filas totalmente nulas o con un mínimo de columnas nulas
@@ -164,8 +243,8 @@ def limpiar_sofascore():
             })
             df["player_name"] = df["player_name"].astype(str)
             df["team_name"]   = df["team_name"].astype(str)
-            df["Liga"]        = df["Liga"].astype(str)
-            df["Season"]      = df["Season"].astype(str)
+            df["liga"]        = df["liga"].astype(str)
+            df["season"]      = df["season"].astype(str)
             df["source"]      = df["source"].astype(str)
     
             #cambiar nombres con espacios quitar espacios al inicio/fin y formatto consistente
@@ -174,6 +253,85 @@ def limpiar_sofascore():
             #guardar en parquet en formato limpio limpio
             save_parquet_string_safe(df, pathOut)
 
+def eliminar_columnas_understat(df):
+    cols = ["player_name", "games", "time", "xG", "xA", "team_title", "xGChain","xGBuildup"]  # columnas deseadas
+    df = df[cols]
+    return df
+
+def limpiar_understat():
+    rutaIn = os.path.join(FOLDERIN, "understat")
+    for file in os.listdir(rutaIn):
+        if file.endswith(".csv"):
+            pathIn = os.path.join(rutaIn, file)
+            print(f"Procesando: {file}")
+            # Cargar CSV
+            df = pd.read_csv(pathIn)
+            df = eliminar_columnas_understat(df)
+            # Eliminar duplicados
+            df = df.drop_duplicates()
+            # Eliminar filas totalmente nulas o con un mínimo de columnas nulas
+            #df = df.dropna(how="any")
+            df = aniadir_nombre_y_temporada(file, df)
+            df["source"]="understat"
+            df = limpiar_valores_invalidos(df)
+                        #cambiar los tipos de cada columna
+            df = df.rename(columns={
+                "team_title": "team_name",
+            })
+            df["player_name"] = df["player_name"].astype(str)
+            df["team_name"]   = df["team_name"].astype(str)
+            df["liga"]        = df["liga"].astype(str)
+            df["season"]      = df["season"].astype(str)
+            df["source"]      = df["source"].astype(str)
+    
+            #cambiar nombres con espacios quitar espacios al inicio/fin y formatto consistente
+            nuevo_file = file.replace(".csv", ".parquet")
+            pathOut = os.path.join(FOLDEROUT, "understat", nuevo_file)
+            #guardar en parquet en formato limpio limpio
+            save_parquet_string_safe(df, pathOut)
+
+if __name__ == "__main__":
+    limpiar_info()
+    limpiar_sofascore()
+    limpiar_understat()
+
+'''def limpiar_mercado():
+    rutaIn = os.path.join(FOLDERIN, "mercado")
+    for file in os.listdir(rutaIn):
+        if file.endswith(".csv"):
+            pathIn = os.path.join(rutaIn, file)
+            print(f"Procesando: {file}")
+            # Cargar CSV
+            df = pd.read_csv(pathIn)
+            #elimnar columas
+            df = eliminar_col_mercado(df)
+            df = eliminarguiones(df)
+            # Eliminar duplicados
+            df = df.drop_duplicates()
+            # Eliminar filas totalmente nulas o con un mínimo de columnas nulas
+            df = aniadir_nombre_y_temporada_mercado(df)
+
+            df = limpiar_valores_invalidos(df)
+            #cambiar los tipos de cada columna
+            df = cambiar_tipos_mercado(df)
+            df["source"]="transfermarkt"
+            df = df.rename(columns={
+
+                "club": "team_name",
+                "player": "player_name",
+                "season": "season",
+                "competition_code": "liga"
+            })
+            df["player_name"] = df["player_name"].astype(str)
+            df["team_name"]   = df["team_name"].astype(str)
+            df["liga"]        = df["liga"].astype(str)
+            df["season"]      = df["season"].astype(str)
+            df["source"]      = df["source"].astype(str)
+            nuevo_file = file.replace(".csv", ".parquet")
+            pathOut = os.path.join(FOLDEROUT, "mercado", nuevo_file)
+            #guardar en parquet en formato limpio limpio
+            df.to_parquet(pathOut, index=False)
+            print(f"Archivo: {file} limpio y guardado en: {pathOut}")
 def eliminar_columnas(df):
     cols = ["minutesPlayed", "appearances", "team", "player"]  # columnas deseadas
     df = df[cols]
@@ -202,8 +360,8 @@ def limpiar_sofascore_minutes():
             })
             df["player_name"] = df["player_name"].astype(str)
             df["team_name"]   = df["team_name"].astype(str)
-            df["Liga"]        = df["Liga"].astype(str)
-            df["Season"]      = df["Season"].astype(str)
+            df["liga"]        = df["liga"].astype(str)
+            df["season"]      = df["season"].astype(str)
             df["source"]      = df["source"].astype(str)
     
             #cambiar nombres con espacios quitar espacios al inicio/fin y formatto consistente
@@ -211,7 +369,5 @@ def limpiar_sofascore_minutes():
             pathOut = os.path.join(FOLDEROUT, "minutes", nuevo_file)
             #guardar en parquet en formato limpio limpio
             save_parquet_string_safe(df, pathOut)
-if __name__ == "__main__":
-    limpiar_mercado()
-    limpiar_sofascore()
-    limpiar_sofascore_minutes()
+
+'''
